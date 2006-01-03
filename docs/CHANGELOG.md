@@ -5,3 +5,4 @@
 - **2006-01-01 19:12**: perf: index question IDs for rapid lookup
 - **2006-01-02 14:06**: feat: add search and filter by sign category
 - **2006-01-02 17:19**: feat: add search and filter by sign category
+- **2006-01-03 11:37**: fix: correct color specifications for mandatory traffic signs
