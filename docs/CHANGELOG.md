@@ -8,3 +8,4 @@
 - **2006-01-03 11:37**: fix: correct color specifications for mandatory traffic signs
 - **2006-01-03 15:53**: feat: add category A and B traffic test questions
 - **2006-01-04 10:47**: fix: typo in Nepali road safety regulations question
+- **2006-01-04 18:48**: feat: add search and filter by sign category
