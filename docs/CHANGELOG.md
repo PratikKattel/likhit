@@ -9,3 +9,4 @@
 - **2006-01-03 15:53**: feat: add category A and B traffic test questions
 - **2006-01-04 10:47**: fix: typo in Nepali road safety regulations question
 - **2006-01-04 18:48**: feat: add search and filter by sign category
+- **2006-01-05 11:50**: refactor: modularize traffic app logic and event listeners
