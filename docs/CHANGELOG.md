@@ -11,3 +11,4 @@
 - **2006-01-04 18:48**: feat: add search and filter by sign category
 - **2006-01-05 11:50**: refactor: modularize traffic app logic and event listeners
 - **2006-01-05 14:27**: refactor: modularize traffic app logic and event listeners
+- **2006-01-06 11:33**: perf: lazy load signal graphics and question assets
