@@ -12,3 +12,4 @@
 - **2006-01-05 11:50**: refactor: modularize traffic app logic and event listeners
 - **2006-01-05 14:27**: refactor: modularize traffic app logic and event listeners
 - **2006-01-06 11:33**: perf: lazy load signal graphics and question assets
+- **2006-01-06 13:36**: feat: add category A and B traffic test questions
