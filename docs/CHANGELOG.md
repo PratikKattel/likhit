@@ -16,3 +16,4 @@
 - **2006-01-07 15:50**: perf: lazy load signal graphics and question assets
 - **2006-01-08 09:18**: perf: index question IDs for rapid lookup
 - **2006-01-08 14:32**: style: enhance traffic sign card layout and responsiveness
+- **2006-01-09 18:44**: feat: add result summary with passing threshold analysis
