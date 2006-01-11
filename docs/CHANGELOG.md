@@ -20,3 +20,4 @@
 - **2006-01-10 10:28**: fix: typo in Nepali road safety regulations question
 - **2006-01-11 14:42**: feat: add warning signs and informational road signs
 - **2006-01-11 14:44**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-01-11 17:12**: chore: update project metadata and build configuration
