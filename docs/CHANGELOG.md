@@ -25,3 +25,4 @@
 - **2006-01-12 15:24**: fix: adjust passing score threshold according to new rules
 - **2006-01-13 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2006-01-13 19:39**: feat: add search and filter by sign category
+- **2006-01-14 17:37**: feat: add category-specific practice modes
