@@ -29,3 +29,4 @@
 - **2006-01-15 13:04**: docs: improve code comments and API documentation
 - **2006-01-16 15:55**: test: verify question extraction script against exam PDF
 - **2006-01-16 19:03**: fix: typo in Nepali road safety regulations question
+- **2006-01-17 19:00**: feat: add category-specific practice modes
