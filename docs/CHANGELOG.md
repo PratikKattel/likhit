@@ -31,3 +31,4 @@
 - **2006-01-16 19:03**: fix: typo in Nepali road safety regulations question
 - **2006-01-17 19:00**: feat: add category-specific practice modes
 - **2006-01-18 10:26**: feat: add category A and B traffic test questions
+- **2006-01-18 10:46**: feat: add category A and B traffic test questions
