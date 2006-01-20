@@ -36,3 +36,4 @@
 - **2006-01-19 09:13**: feat: add instant feedback and explanation on answer selection
 - **2006-01-19 19:47**: feat: add category A and B traffic test questions
 - **2006-01-20 18:08**: feat: add keyboard navigation shortcuts for question selection
+- **2006-01-20 18:19**: chore: update project metadata and build configuration
