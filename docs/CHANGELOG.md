@@ -38,3 +38,4 @@
 - **2006-01-20 18:08**: feat: add keyboard navigation shortcuts for question selection
 - **2006-01-20 18:19**: chore: update project metadata and build configuration
 - **2006-01-21 15:51**: fix: adjust passing score threshold according to new rules
+- **2006-01-22 12:58**: refactor: clean up unused CSS classes and optimize stylesheet
