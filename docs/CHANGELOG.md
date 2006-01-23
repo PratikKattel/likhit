@@ -41,3 +41,4 @@
 - **2006-01-22 12:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-01-22 15:40**: feat: add category A and B traffic test questions
 - **2006-01-23 10:23**: feat: support multiple choice questions for motorcycle category
+- **2006-01-23 13:32**: chore: update questions database with recent DOTM updates
