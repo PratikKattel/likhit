@@ -43,3 +43,4 @@
 - **2006-01-23 10:23**: feat: support multiple choice questions for motorcycle category
 - **2006-01-23 13:32**: chore: update questions database with recent DOTM updates
 - **2006-01-24 09:34**: feat: add warning signs and informational road signs
+- **2006-01-24 17:02**: chore: update project metadata and build configuration
