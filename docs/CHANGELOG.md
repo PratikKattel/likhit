@@ -44,3 +44,4 @@
 - **2006-01-23 13:32**: chore: update questions database with recent DOTM updates
 - **2006-01-24 09:34**: feat: add warning signs and informational road signs
 - **2006-01-24 17:02**: chore: update project metadata and build configuration
+- **2006-01-25 11:08**: style: enhance traffic sign card layout and responsiveness
