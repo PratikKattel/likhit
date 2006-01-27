@@ -53,3 +53,4 @@
 - **2006-01-27 09:02**: docs: update README with setup instructions and feature list
 - **2006-01-27 13:52**: fix: resolve layout shift during question transitions
 - **2006-01-27 19:35**: feat: add search and filter by sign category
+- **2006-01-27 20:57**: feat: add warning signs and informational road signs
