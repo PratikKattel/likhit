@@ -51,3 +51,4 @@
 - **2006-01-26 14:36**: feat: add result summary with passing threshold analysis
 - **2006-01-26 15:50**: perf: lazy load signal graphics and question assets
 - **2006-01-27 09:02**: docs: update README with setup instructions and feature list
+- **2006-01-27 13:52**: fix: resolve layout shift during question transitions
