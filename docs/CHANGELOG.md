@@ -55,3 +55,4 @@
 - **2006-01-27 19:35**: feat: add search and filter by sign category
 - **2006-01-27 20:57**: feat: add warning signs and informational road signs
 - **2006-01-28 10:36**: test: verify question extraction script against exam PDF
+- **2006-01-28 17:18**: fix: update DOTM Nepal license syllabus questions
