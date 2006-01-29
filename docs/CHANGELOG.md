@@ -57,3 +57,4 @@
 - **2006-01-28 10:36**: test: verify question extraction script against exam PDF
 - **2006-01-28 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2006-01-28 18:34**: perf: index question IDs for rapid lookup
+- **2006-01-29 12:04**: chore: update questions database with recent DOTM updates
