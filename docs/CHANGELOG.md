@@ -62,3 +62,4 @@
 - **2006-01-29 15:51**: fix: adjust passing score threshold according to new rules
 - **2006-01-30 14:07**: fix: resolve layout shift during question transitions
 - **2006-01-30 17:29**: feat: add search and filter by sign category
+- **2006-01-30 20:42**: fix: correct color specifications for mandatory traffic signs
