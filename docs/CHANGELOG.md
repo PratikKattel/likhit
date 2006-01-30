@@ -60,3 +60,4 @@
 - **2006-01-29 12:04**: chore: update questions database with recent DOTM updates
 - **2006-01-29 13:42**: feat: implement timer and score calculation for mock test
 - **2006-01-29 15:51**: fix: adjust passing score threshold according to new rules
+- **2006-01-30 14:07**: fix: resolve layout shift during question transitions
