@@ -65,3 +65,4 @@
 - **2006-01-30 20:42**: fix: correct color specifications for mandatory traffic signs
 - **2006-01-31 13:32**: refactor: modularize traffic app logic and event listeners
 - **2006-02-01 20:40**: feat: add regulatory traffic signs SVG graphics
+- **2006-02-01 21:45**: style: improve dark/light mode and mobile UI responsiveness
