@@ -64,3 +64,4 @@
 - **2006-01-30 17:29**: feat: add search and filter by sign category
 - **2006-01-30 20:42**: fix: correct color specifications for mandatory traffic signs
 - **2006-01-31 13:32**: refactor: modularize traffic app logic and event listeners
+- **2006-02-01 20:40**: feat: add regulatory traffic signs SVG graphics
