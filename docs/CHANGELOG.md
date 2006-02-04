@@ -69,3 +69,4 @@
 - **2006-02-02 12:09**: chore: organize assets and image directory structure
 - **2006-02-02 15:29**: fix: adjust passing score threshold according to new rules
 - **2006-02-03 14:28**: feat: add result summary with passing threshold analysis
+- **2006-02-04 19:00**: docs: add instructions for Nepali driving license written exam
