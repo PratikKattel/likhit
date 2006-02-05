@@ -71,3 +71,4 @@
 - **2006-02-03 14:28**: feat: add result summary with passing threshold analysis
 - **2006-02-04 19:00**: docs: add instructions for Nepali driving license written exam
 - **2006-02-05 21:32**: chore: organize assets and image directory structure
+- **2006-02-05 22:21**: feat: add instant feedback and explanation on answer selection
