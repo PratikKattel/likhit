@@ -77,3 +77,4 @@
 - **2006-02-07 17:55**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-08 11:41**: feat: add regulatory traffic signs SVG graphics
 - **2006-02-08 13:18**: feat: add category-specific practice modes
+- **2006-02-08 13:57**: perf: lazy load signal graphics and question assets
