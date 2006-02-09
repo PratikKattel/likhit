@@ -1,5 +1,3 @@
-# Likhit Project Changelog
-
 - **2006-01-01 16:30**: docs: improve code comments and API documentation
 - **2006-01-01 18:27**: feat: add regulatory traffic signs SVG graphics
 - **2006-01-01 19:12**: perf: index question IDs for rapid lookup
@@ -79,3 +77,4 @@
 - **2006-02-08 13:18**: feat: add category-specific practice modes
 - **2006-02-08 13:57**: perf: lazy load signal graphics and question assets
 - **2006-02-08 18:30**: perf: index question IDs for rapid lookup
+- **2006-02-09 10:29**: chore: format code style and clean up redundant variables
