@@ -1,4 +1,3 @@
-- **2006-01-02 14:06**: feat: add search and filter by sign category
 - **2006-01-02 17:19**: feat: add search and filter by sign category
 - **2006-01-03 11:37**: fix: correct color specifications for mandatory traffic signs
 - **2006-01-03 15:53**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-02-09 11:12**: refactor: modularize traffic app logic and event listeners
 - **2006-02-09 17:05**: chore: organize assets and image directory structure
 - **2006-02-09 19:56**: perf: optimize image caching for traffic sign assets
+- **2006-02-10 17:00**: style: polish typography and Nepali Unicode font rendering
