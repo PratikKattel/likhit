@@ -1,4 +1,3 @@
-- **2006-01-04 18:48**: feat: add search and filter by sign category
 - **2006-01-05 11:50**: refactor: modularize traffic app logic and event listeners
 - **2006-01-05 14:27**: refactor: modularize traffic app logic and event listeners
 - **2006-01-06 11:33**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-02-11 20:37**: feat: add result summary with passing threshold analysis
 - **2006-02-12 10:34**: chore: organize assets and image directory structure
 - **2006-02-12 13:15**: feat: support multiple choice questions for motorcycle category
+- **2006-02-12 17:28**: docs: update traffic signals catalog documentation
