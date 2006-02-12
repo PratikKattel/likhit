@@ -1,4 +1,3 @@
-- **2006-01-03 15:53**: feat: add category A and B traffic test questions
 - **2006-01-04 10:47**: fix: typo in Nepali road safety regulations question
 - **2006-01-04 18:48**: feat: add search and filter by sign category
 - **2006-01-05 11:50**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2006-02-10 17:00**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-11 11:03**: chore: update project metadata and build configuration
 - **2006-02-11 20:37**: feat: add result summary with passing threshold analysis
+- **2006-02-12 10:34**: chore: organize assets and image directory structure
