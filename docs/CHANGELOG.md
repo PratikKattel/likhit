@@ -1,4 +1,3 @@
-- **2006-01-05 14:27**: refactor: modularize traffic app logic and event listeners
 - **2006-01-06 11:33**: perf: lazy load signal graphics and question assets
 - **2006-01-06 13:36**: feat: add category A and B traffic test questions
 - **2006-01-07 15:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-02-12 13:15**: feat: support multiple choice questions for motorcycle category
 - **2006-02-12 17:28**: docs: update traffic signals catalog documentation
 - **2006-02-13 15:34**: feat: add category A and B traffic test questions
+- **2006-02-13 15:48**: fix: adjust passing score threshold according to new rules
