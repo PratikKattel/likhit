@@ -1,4 +1,3 @@
-- **2006-01-08 09:18**: perf: index question IDs for rapid lookup
 - **2006-01-08 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2006-01-09 18:44**: feat: add result summary with passing threshold analysis
 - **2006-01-10 10:28**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-02-14 16:17**: docs: update README with setup instructions and feature list
 - **2006-02-14 16:41**: docs: add instructions for Nepali driving license written exam
 - **2006-02-15 12:56**: chore: organize assets and image directory structure
+- **2006-02-15 21:28**: perf: optimize image caching for traffic sign assets
