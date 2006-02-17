@@ -1,4 +1,3 @@
-- **2006-01-11 14:42**: feat: add warning signs and informational road signs
 - **2006-01-11 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-01-11 17:12**: chore: update project metadata and build configuration
 - **2006-01-12 11:37**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2006-02-16 10:52**: docs: update README with setup instructions and feature list
 - **2006-02-16 16:12**: perf: optimize image caching for traffic sign assets
 - **2006-02-16 22:25**: fix: adjust passing score threshold according to new rules
+- **2006-02-17 14:43**: chore: update project metadata and build configuration
