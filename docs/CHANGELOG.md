@@ -1,4 +1,3 @@
-- **2006-01-11 17:12**: chore: update project metadata and build configuration
 - **2006-01-12 11:37**: fix: resolve layout shift during question transitions
 - **2006-01-12 15:24**: fix: adjust passing score threshold according to new rules
 - **2006-01-13 11:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-02-16 22:25**: fix: adjust passing score threshold according to new rules
 - **2006-02-17 14:43**: chore: update project metadata and build configuration
 - **2006-02-17 17:10**: chore: update project metadata and build configuration
+- **2006-02-18 20:35**: perf: lazy load signal graphics and question assets
