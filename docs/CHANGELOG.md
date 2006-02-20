@@ -1,4 +1,3 @@
-- **2006-01-13 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2006-01-13 19:39**: feat: add search and filter by sign category
 - **2006-01-14 17:37**: feat: add category-specific practice modes
 - **2006-01-15 13:04**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-02-18 20:35**: perf: lazy load signal graphics and question assets
 - **2006-02-19 15:32**: feat: add category A and B traffic test questions
 - **2006-02-20 13:07**: refactor: restructure question data schema for faster loading
+- **2006-02-20 17:03**: refactor: restructure question data schema for faster loading
