@@ -1,4 +1,3 @@
-- **2006-01-15 13:04**: docs: improve code comments and API documentation
 - **2006-01-16 15:55**: test: verify question extraction script against exam PDF
 - **2006-01-16 19:03**: fix: typo in Nepali road safety regulations question
 - **2006-01-17 19:00**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-02-20 17:03**: refactor: restructure question data schema for faster loading
 - **2006-02-21 10:46**: perf: optimize image caching for traffic sign assets
 - **2006-02-21 12:04**: feat: add keyboard navigation shortcuts for question selection
+- **2006-02-22 11:04**: feat: support multiple choice questions for motorcycle category
