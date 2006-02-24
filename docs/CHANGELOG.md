@@ -1,4 +1,3 @@
-- **2006-01-18 10:26**: feat: add category A and B traffic test questions
 - **2006-01-18 10:46**: feat: add category A and B traffic test questions
 - **2006-01-18 19:55**: fix: resolve layout shift during question transitions
 - **2006-01-19 09:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-02-22 21:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-02-23 11:22**: feat: add result summary with passing threshold analysis
 - **2006-02-24 16:57**: feat: add regulatory traffic signs SVG graphics
+- **2006-02-24 17:20**: feat: support multiple choice questions for motorcycle category
