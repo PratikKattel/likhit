@@ -1,4 +1,3 @@
-- **2006-01-20 18:19**: chore: update project metadata and build configuration
 - **2006-01-21 15:51**: fix: adjust passing score threshold according to new rules
 - **2006-01-22 12:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-01-22 15:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-02-26 11:07**: perf: lazy load signal graphics and question assets
 - **2006-02-26 14:12**: perf: optimize image caching for traffic sign assets
 - **2006-02-26 17:34**: style: polish typography and Nepali Unicode font rendering
+- **2006-02-27 12:05**: feat: add search and filter by sign category
