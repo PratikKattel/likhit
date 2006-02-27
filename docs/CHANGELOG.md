@@ -1,4 +1,3 @@
-- **2006-01-22 12:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-01-22 15:40**: feat: add category A and B traffic test questions
 - **2006-01-23 10:23**: feat: support multiple choice questions for motorcycle category
 - **2006-01-23 13:32**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-02-26 17:34**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-27 12:05**: feat: add search and filter by sign category
 - **2006-02-27 13:07**: fix: correct color specifications for mandatory traffic signs
+- **2006-02-27 19:09**: docs: add instructions for Nepali driving license written exam
