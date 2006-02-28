@@ -1,4 +1,3 @@
-- **2006-01-23 10:23**: feat: support multiple choice questions for motorcycle category
 - **2006-01-23 13:32**: chore: update questions database with recent DOTM updates
 - **2006-01-24 09:34**: feat: add warning signs and informational road signs
 - **2006-01-24 17:02**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-02-27 13:07**: fix: correct color specifications for mandatory traffic signs
 - **2006-02-27 19:09**: docs: add instructions for Nepali driving license written exam
 - **2006-02-27 20:40**: feat: add warning signs and informational road signs
+- **2006-02-28 18:22**: perf: lazy load signal graphics and question assets
