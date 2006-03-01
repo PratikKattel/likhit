@@ -1,4 +1,3 @@
-- **2006-01-24 09:34**: feat: add warning signs and informational road signs
 - **2006-01-24 17:02**: chore: update project metadata and build configuration
 - **2006-01-25 11:08**: style: enhance traffic sign card layout and responsiveness
 - **2006-01-25 21:34**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-02-27 20:40**: feat: add warning signs and informational road signs
 - **2006-02-28 18:22**: perf: lazy load signal graphics and question assets
 - **2006-03-01 14:02**: feat: add instant feedback and explanation on answer selection
+- **2006-03-01 20:07**: feat: add result summary with passing threshold analysis
