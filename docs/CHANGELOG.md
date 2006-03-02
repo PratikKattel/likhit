@@ -1,4 +1,3 @@
-- **2006-01-25 21:34**: feat: add instant feedback and explanation on answer selection
 - **2006-01-25 22:18**: refactor: optimize SVG rendering for road signs
 - **2006-01-26 13:39**: chore: update project metadata and build configuration
 - **2006-01-26 14:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-03-01 20:07**: feat: add result summary with passing threshold analysis
 - **2006-03-01 20:38**: fix: prevent option re-selection after submitting answer
 - **2006-03-02 10:48**: fix: typo in Nepali road safety regulations question
+- **2006-03-02 11:12**: fix: prevent option re-selection after submitting answer
