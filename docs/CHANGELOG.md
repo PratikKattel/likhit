@@ -1,4 +1,3 @@
-- **2006-01-26 13:39**: chore: update project metadata and build configuration
 - **2006-01-26 14:36**: feat: add result summary with passing threshold analysis
 - **2006-01-26 15:50**: perf: lazy load signal graphics and question assets
 - **2006-01-27 09:02**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-03-02 10:48**: fix: typo in Nepali road safety regulations question
 - **2006-03-02 11:12**: fix: prevent option re-selection after submitting answer
 - **2006-03-03 15:27**: docs: update README with setup instructions and feature list
+- **2006-03-03 22:03**: perf: lazy load signal graphics and question assets
