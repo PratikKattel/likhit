@@ -1,4 +1,3 @@
-- **2006-01-27 09:02**: docs: update README with setup instructions and feature list
 - **2006-01-27 13:52**: fix: resolve layout shift during question transitions
 - **2006-01-27 19:35**: feat: add search and filter by sign category
 - **2006-01-27 20:57**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2006-03-03 22:03**: perf: lazy load signal graphics and question assets
 - **2006-03-04 10:40**: feat: implement timer and score calculation for mock test
 - **2006-03-04 21:26**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-03-04 22:17**: refactor: modularize traffic app logic and event listeners
