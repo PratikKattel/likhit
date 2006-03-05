@@ -1,4 +1,3 @@
-- **2006-01-27 20:57**: feat: add warning signs and informational road signs
 - **2006-01-28 10:36**: test: verify question extraction script against exam PDF
 - **2006-01-28 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2006-01-28 18:34**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2006-03-04 22:17**: refactor: modularize traffic app logic and event listeners
 - **2006-03-05 11:03**: chore: format code style and clean up redundant variables
 - **2006-03-05 14:03**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-03-05 20:40**: perf: index question IDs for rapid lookup
