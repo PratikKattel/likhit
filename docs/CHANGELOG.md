@@ -1,4 +1,3 @@
-- **2006-01-28 10:36**: test: verify question extraction script against exam PDF
 - **2006-01-28 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2006-01-28 18:34**: perf: index question IDs for rapid lookup
 - **2006-01-29 12:04**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-03-05 11:03**: chore: format code style and clean up redundant variables
 - **2006-03-05 14:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-03-05 20:40**: perf: index question IDs for rapid lookup
+- **2006-03-06 14:01**: docs: improve code comments and API documentation
