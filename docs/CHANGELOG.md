@@ -1,4 +1,3 @@
-- **2006-01-28 18:34**: perf: index question IDs for rapid lookup
 - **2006-01-29 12:04**: chore: update questions database with recent DOTM updates
 - **2006-01-29 13:42**: feat: implement timer and score calculation for mock test
 - **2006-01-29 15:51**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-03-05 20:40**: perf: index question IDs for rapid lookup
 - **2006-03-06 14:01**: docs: improve code comments and API documentation
 - **2006-03-06 14:07**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-03-06 21:09**: refactor: modularize traffic app logic and event listeners
