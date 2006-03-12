@@ -1,4 +1,3 @@
-- **2006-02-01 21:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-02-02 12:09**: chore: organize assets and image directory structure
 - **2006-02-02 15:29**: fix: adjust passing score threshold according to new rules
 - **2006-02-03 14:28**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-03-11 15:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-11 20:11**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-12 10:02**: docs: update README with setup instructions and feature list
+- **2006-03-12 20:10**: fix: correct color specifications for mandatory traffic signs
