@@ -1,4 +1,3 @@
-- **2006-02-04 19:00**: docs: add instructions for Nepali driving license written exam
 - **2006-02-05 21:32**: chore: organize assets and image directory structure
 - **2006-02-05 22:21**: feat: add instant feedback and explanation on answer selection
 - **2006-02-06 16:21**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-03-13 12:12**: fix: correct color specifications for mandatory traffic signs
 - **2006-03-14 13:45**: perf: lazy load signal graphics and question assets
 - **2006-03-14 13:57**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-03-15 19:35**: fix: typo in Nepali road safety regulations question
