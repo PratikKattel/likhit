@@ -1,4 +1,3 @@
-- **2006-02-05 21:32**: chore: organize assets and image directory structure
 - **2006-02-05 22:21**: feat: add instant feedback and explanation on answer selection
 - **2006-02-06 16:21**: feat: add category A and B traffic test questions
 - **2006-02-07 13:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-03-14 13:45**: perf: lazy load signal graphics and question assets
 - **2006-03-14 13:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-15 19:35**: fix: typo in Nepali road safety regulations question
+- **2006-03-16 20:29**: feat: add category A and B traffic test questions
