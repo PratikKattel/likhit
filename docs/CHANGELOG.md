@@ -1,4 +1,3 @@
-- **2006-02-06 16:21**: feat: add category A and B traffic test questions
 - **2006-02-07 13:57**: feat: add keyboard navigation shortcuts for question selection
 - **2006-02-07 17:55**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-08 11:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-03-15 19:35**: fix: typo in Nepali road safety regulations question
 - **2006-03-16 20:29**: feat: add category A and B traffic test questions
 - **2006-03-16 21:27**: feat: add regulatory traffic signs SVG graphics
+- **2006-03-17 10:23**: style: polish typography and Nepali Unicode font rendering
