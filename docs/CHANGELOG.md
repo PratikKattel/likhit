@@ -1,4 +1,3 @@
-- **2006-02-08 11:41**: feat: add regulatory traffic signs SVG graphics
 - **2006-02-08 13:18**: feat: add category-specific practice modes
 - **2006-02-08 13:57**: perf: lazy load signal graphics and question assets
 - **2006-02-08 18:30**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2006-03-17 10:23**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-17 15:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-17 16:21**: feat: implement timer and score calculation for mock test
+- **2006-03-17 22:09**: chore: organize assets and image directory structure
