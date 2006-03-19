@@ -1,4 +1,3 @@
-- **2006-02-08 13:57**: perf: lazy load signal graphics and question assets
 - **2006-02-08 18:30**: perf: index question IDs for rapid lookup
 - **2006-02-09 10:29**: chore: format code style and clean up redundant variables
 - **2006-02-09 11:12**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2006-03-17 16:21**: feat: implement timer and score calculation for mock test
 - **2006-03-17 22:09**: chore: organize assets and image directory structure
 - **2006-03-18 12:43**: style: polish typography and Nepali Unicode font rendering
+- **2006-03-19 15:30**: refactor: optimize SVG rendering for road signs
