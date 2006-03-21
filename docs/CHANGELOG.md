@@ -1,4 +1,3 @@
-- **2006-02-09 11:12**: refactor: modularize traffic app logic and event listeners
 - **2006-02-09 17:05**: chore: organize assets and image directory structure
 - **2006-02-09 19:56**: perf: optimize image caching for traffic sign assets
 - **2006-02-10 17:00**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-03-19 15:30**: refactor: optimize SVG rendering for road signs
 - **2006-03-19 17:45**: chore: format code style and clean up redundant variables
 - **2006-03-20 12:29**: fix: adjust passing score threshold according to new rules
+- **2006-03-21 09:05**: fix: typo in Nepali road safety regulations question
