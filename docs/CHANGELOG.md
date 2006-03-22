@@ -1,4 +1,3 @@
-- **2006-02-09 19:56**: perf: optimize image caching for traffic sign assets
 - **2006-02-10 17:00**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-11 11:03**: chore: update project metadata and build configuration
 - **2006-02-11 20:37**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-03-20 12:29**: fix: adjust passing score threshold according to new rules
 - **2006-03-21 09:05**: fix: typo in Nepali road safety regulations question
 - **2006-03-21 13:53**: fix: update DOTM Nepal license syllabus questions
+- **2006-03-22 10:44**: feat: add search and filter by sign category
