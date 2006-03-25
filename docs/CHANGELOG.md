@@ -1,4 +1,3 @@
-- **2006-02-12 10:34**: chore: organize assets and image directory structure
 - **2006-02-12 13:15**: feat: support multiple choice questions for motorcycle category
 - **2006-02-12 17:28**: docs: update traffic signals catalog documentation
 - **2006-02-13 15:34**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-03-22 10:51**: docs: improve code comments and API documentation
 - **2006-03-23 17:09**: feat: add category A and B traffic test questions
 - **2006-03-24 13:35**: chore: update project metadata and build configuration
+- **2006-03-25 18:02**: feat: add result summary with passing threshold analysis
