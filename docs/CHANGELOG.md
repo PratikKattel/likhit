@@ -1,4 +1,3 @@
-- **2006-02-13 15:48**: fix: adjust passing score threshold according to new rules
 - **2006-02-14 16:17**: docs: update README with setup instructions and feature list
 - **2006-02-14 16:41**: docs: add instructions for Nepali driving license written exam
 - **2006-02-15 12:56**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-03-25 22:18**: feat: add search and filter by sign category
 - **2006-03-26 11:49**: feat: add instant feedback and explanation on answer selection
 - **2006-03-27 14:09**: feat: add keyboard navigation shortcuts for question selection
+- **2006-03-28 11:04**: fix: correct color specifications for mandatory traffic signs
