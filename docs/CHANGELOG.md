@@ -1,4 +1,3 @@
-- **2006-02-14 16:41**: docs: add instructions for Nepali driving license written exam
 - **2006-02-15 12:56**: chore: organize assets and image directory structure
 - **2006-02-15 21:28**: perf: optimize image caching for traffic sign assets
 - **2006-02-16 10:52**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-03-27 14:09**: feat: add keyboard navigation shortcuts for question selection
 - **2006-03-28 11:04**: fix: correct color specifications for mandatory traffic signs
 - **2006-03-28 17:29**: feat: support multiple choice questions for motorcycle category
+- **2006-03-29 18:07**: test: verify question extraction script against exam PDF
