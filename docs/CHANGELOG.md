@@ -1,4 +1,3 @@
-- **2006-02-15 21:28**: perf: optimize image caching for traffic sign assets
 - **2006-02-16 10:52**: docs: update README with setup instructions and feature list
 - **2006-02-16 16:12**: perf: optimize image caching for traffic sign assets
 - **2006-02-16 22:25**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-03-28 17:29**: feat: support multiple choice questions for motorcycle category
 - **2006-03-29 18:07**: test: verify question extraction script against exam PDF
 - **2006-03-30 13:15**: feat: add instant feedback and explanation on answer selection
+- **2006-03-31 13:35**: style: polish typography and Nepali Unicode font rendering
