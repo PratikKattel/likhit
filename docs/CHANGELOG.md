@@ -1,4 +1,3 @@
-- **2006-02-16 16:12**: perf: optimize image caching for traffic sign assets
 - **2006-02-16 22:25**: fix: adjust passing score threshold according to new rules
 - **2006-02-17 14:43**: chore: update project metadata and build configuration
 - **2006-02-17 17:10**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-03-30 13:15**: feat: add instant feedback and explanation on answer selection
 - **2006-03-31 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-31 15:52**: chore: update questions database with recent DOTM updates
+- **2006-03-31 17:50**: docs: improve code comments and API documentation
