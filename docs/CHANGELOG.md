@@ -1,4 +1,3 @@
-- **2006-02-17 17:10**: chore: update project metadata and build configuration
 - **2006-02-18 20:35**: perf: lazy load signal graphics and question assets
 - **2006-02-19 15:32**: feat: add category A and B traffic test questions
 - **2006-02-20 13:07**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2006-03-31 17:50**: docs: improve code comments and API documentation
 - **2006-03-31 19:18**: style: enhance traffic sign card layout and responsiveness
 - **2006-04-01 15:18**: feat: add search and filter by sign category
+- **2006-04-01 16:49**: feat: add category-specific practice modes
