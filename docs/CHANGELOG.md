@@ -1,4 +1,3 @@
-- **2006-02-20 13:07**: refactor: restructure question data schema for faster loading
 - **2006-02-20 17:03**: refactor: restructure question data schema for faster loading
 - **2006-02-21 10:46**: perf: optimize image caching for traffic sign assets
 - **2006-02-21 12:04**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-04-01 16:49**: feat: add category-specific practice modes
 - **2006-04-01 19:45**: docs: improve code comments and API documentation
 - **2006-04-01 21:17**: feat: add regulatory traffic signs SVG graphics
+- **2006-04-02 11:22**: test: verify question extraction script against exam PDF
