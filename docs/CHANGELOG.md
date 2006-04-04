@@ -1,4 +1,3 @@
-- **2006-02-21 10:46**: perf: optimize image caching for traffic sign assets
 - **2006-02-21 12:04**: feat: add keyboard navigation shortcuts for question selection
 - **2006-02-22 11:04**: feat: support multiple choice questions for motorcycle category
 - **2006-02-22 21:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2006-04-01 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2006-04-02 11:22**: test: verify question extraction script against exam PDF
 - **2006-04-03 19:53**: fix: typo in Nepali road safety regulations question
+- **2006-04-04 17:15**: chore: update project metadata and build configuration
