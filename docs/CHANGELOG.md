@@ -1,4 +1,3 @@
-- **2006-02-23 11:22**: feat: add result summary with passing threshold analysis
 - **2006-02-24 16:57**: feat: add regulatory traffic signs SVG graphics
 - **2006-02-24 17:20**: feat: support multiple choice questions for motorcycle category
 - **2006-02-25 16:13**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-04-04 18:20**: refactor: modularize traffic app logic and event listeners
 - **2006-04-05 11:42**: chore: update questions database with recent DOTM updates
 - **2006-04-06 14:33**: style: enhance traffic sign card layout and responsiveness
+- **2006-04-07 09:51**: test: verify question extraction script against exam PDF
