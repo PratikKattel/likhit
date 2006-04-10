@@ -1,4 +1,3 @@
-- **2006-02-25 19:53**: feat: add category-specific practice modes
 - **2006-02-26 11:07**: perf: lazy load signal graphics and question assets
 - **2006-02-26 14:12**: perf: optimize image caching for traffic sign assets
 - **2006-02-26 17:34**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-04-08 15:08**: feat: implement timer and score calculation for mock test
 - **2006-04-09 17:30**: docs: add instructions for Nepali driving license written exam
 - **2006-04-09 22:14**: feat: add category-specific practice modes
+- **2006-04-10 10:14**: chore: format code style and clean up redundant variables
