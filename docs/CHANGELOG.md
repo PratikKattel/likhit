@@ -1,4 +1,3 @@
-- **2006-02-26 17:34**: style: polish typography and Nepali Unicode font rendering
 - **2006-02-27 12:05**: feat: add search and filter by sign category
 - **2006-02-27 13:07**: fix: correct color specifications for mandatory traffic signs
 - **2006-02-27 19:09**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-04-10 10:14**: chore: format code style and clean up redundant variables
 - **2006-04-10 12:31**: style: polish typography and Nepali Unicode font rendering
 - **2006-04-10 13:21**: refactor: modularize traffic app logic and event listeners
+- **2006-04-11 19:32**: feat: add regulatory traffic signs SVG graphics
