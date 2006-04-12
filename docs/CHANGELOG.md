@@ -1,4 +1,3 @@
-- **2006-02-27 13:07**: fix: correct color specifications for mandatory traffic signs
 - **2006-02-27 19:09**: docs: add instructions for Nepali driving license written exam
 - **2006-02-27 20:40**: feat: add warning signs and informational road signs
 - **2006-02-28 18:22**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-04-10 13:21**: refactor: modularize traffic app logic and event listeners
 - **2006-04-11 19:32**: feat: add regulatory traffic signs SVG graphics
 - **2006-04-11 21:39**: perf: lazy load signal graphics and question assets
+- **2006-04-12 09:46**: feat: implement timer and score calculation for mock test
