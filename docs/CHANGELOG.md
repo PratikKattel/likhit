@@ -1,4 +1,3 @@
-- **2006-02-27 19:09**: docs: add instructions for Nepali driving license written exam
 - **2006-02-27 20:40**: feat: add warning signs and informational road signs
 - **2006-02-28 18:22**: perf: lazy load signal graphics and question assets
 - **2006-03-01 14:02**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-04-11 19:32**: feat: add regulatory traffic signs SVG graphics
 - **2006-04-11 21:39**: perf: lazy load signal graphics and question assets
 - **2006-04-12 09:46**: feat: implement timer and score calculation for mock test
+- **2006-04-12 18:29**: style: enhance traffic sign card layout and responsiveness
