@@ -1,4 +1,3 @@
-- **2006-02-28 18:22**: perf: lazy load signal graphics and question assets
 - **2006-03-01 14:02**: feat: add instant feedback and explanation on answer selection
 - **2006-03-01 20:07**: feat: add result summary with passing threshold analysis
 - **2006-03-01 20:38**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-04-12 09:46**: feat: implement timer and score calculation for mock test
 - **2006-04-12 18:29**: style: enhance traffic sign card layout and responsiveness
 - **2006-04-13 12:05**: refactor: restructure question data schema for faster loading
+- **2006-04-13 13:39**: style: polish typography and Nepali Unicode font rendering
