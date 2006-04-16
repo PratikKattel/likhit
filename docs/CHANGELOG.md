@@ -1,4 +1,3 @@
-- **2006-03-01 20:38**: fix: prevent option re-selection after submitting answer
 - **2006-03-02 10:48**: fix: typo in Nepali road safety regulations question
 - **2006-03-02 11:12**: fix: prevent option re-selection after submitting answer
 - **2006-03-03 15:27**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-04-13 13:39**: style: polish typography and Nepali Unicode font rendering
 - **2006-04-14 20:08**: perf: optimize image caching for traffic sign assets
 - **2006-04-15 10:42**: feat: implement timer and score calculation for mock test
+- **2006-04-16 21:46**: fix: resolve layout shift during question transitions
