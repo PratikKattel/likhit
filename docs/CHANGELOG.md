@@ -1,4 +1,3 @@
-- **2006-03-04 10:40**: feat: implement timer and score calculation for mock test
 - **2006-03-04 21:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-04 22:17**: refactor: modularize traffic app logic and event listeners
 - **2006-03-05 11:03**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-04-17 21:11**: chore: update questions database with recent DOTM updates
 - **2006-04-17 21:19**: fix: typo in Nepali road safety regulations question
 - **2006-04-18 18:13**: refactor: modularize traffic app logic and event listeners
+- **2006-04-19 10:54**: test: verify question extraction script against exam PDF
