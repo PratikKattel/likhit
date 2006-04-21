@@ -1,4 +1,3 @@
-- **2006-03-04 22:17**: refactor: modularize traffic app logic and event listeners
 - **2006-03-05 11:03**: chore: format code style and clean up redundant variables
 - **2006-03-05 14:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-03-05 20:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2006-04-18 18:13**: refactor: modularize traffic app logic and event listeners
 - **2006-04-19 10:54**: test: verify question extraction script against exam PDF
 - **2006-04-20 09:54**: docs: improve code comments and API documentation
+- **2006-04-21 18:54**: feat: support multiple choice questions for motorcycle category
