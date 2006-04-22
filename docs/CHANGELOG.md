@@ -1,4 +1,3 @@
-- **2006-03-05 14:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-03-05 20:40**: perf: index question IDs for rapid lookup
 - **2006-03-06 14:01**: docs: improve code comments and API documentation
 - **2006-03-06 14:07**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2006-04-20 09:54**: docs: improve code comments and API documentation
 - **2006-04-21 18:54**: feat: support multiple choice questions for motorcycle category
 - **2006-04-22 11:10**: fix: resolve layout shift during question transitions
+- **2006-04-22 19:40**: docs: improve code comments and API documentation
