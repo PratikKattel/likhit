@@ -1,4 +1,3 @@
-- **2006-03-07 21:11**: refactor: optimize SVG rendering for road signs
 - **2006-03-08 09:18**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-09 21:07**: docs: improve code comments and API documentation
 - **2006-03-10 18:11**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-04-23 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2006-04-23 14:45**: feat: add keyboard navigation shortcuts for question selection
 - **2006-04-24 10:59**: feat: implement timer and score calculation for mock test
+- **2006-04-25 11:32**: feat: add warning signs and informational road signs
