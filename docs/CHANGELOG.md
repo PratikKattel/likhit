@@ -1,4 +1,3 @@
-- **2006-03-11 20:11**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-12 10:02**: docs: update README with setup instructions and feature list
 - **2006-03-12 20:10**: fix: correct color specifications for mandatory traffic signs
 - **2006-03-13 12:12**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2006-04-26 11:59**: chore: update questions database with recent DOTM updates
 - **2006-04-26 21:51**: fix: typo in Nepali road safety regulations question
 - **2006-04-27 20:41**: fix: update DOTM Nepal license syllabus questions
+- **2006-04-28 13:25**: feat: add search and filter by sign category
