@@ -1,4 +1,3 @@
-- **2006-03-15 19:35**: fix: typo in Nepali road safety regulations question
 - **2006-03-16 20:29**: feat: add category A and B traffic test questions
 - **2006-03-16 21:27**: feat: add regulatory traffic signs SVG graphics
 - **2006-03-17 10:23**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-04-29 09:15**: fix: prevent option re-selection after submitting answer
 - **2006-04-29 11:10**: perf: index question IDs for rapid lookup
 - **2006-04-29 14:28**: chore: format code style and clean up redundant variables
+- **2006-04-29 16:18**: perf: lazy load signal graphics and question assets
