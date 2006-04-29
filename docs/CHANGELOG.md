@@ -1,4 +1,3 @@
-- **2006-03-14 13:45**: perf: lazy load signal graphics and question assets
 - **2006-03-14 13:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-15 19:35**: fix: typo in Nepali road safety regulations question
 - **2006-03-16 20:29**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-04-28 15:04**: feat: add search and filter by sign category
 - **2006-04-28 20:24**: perf: optimize image caching for traffic sign assets
 - **2006-04-29 09:15**: fix: prevent option re-selection after submitting answer
+- **2006-04-29 11:10**: perf: index question IDs for rapid lookup
