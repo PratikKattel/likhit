@@ -1,4 +1,3 @@
-- **2006-03-17 10:23**: style: polish typography and Nepali Unicode font rendering
 - **2006-03-17 15:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-03-17 16:21**: feat: implement timer and score calculation for mock test
 - **2006-03-17 22:09**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-04-29 16:18**: perf: lazy load signal graphics and question assets
 - **2006-04-30 18:11**: feat: support multiple choice questions for motorcycle category
 - **2006-04-30 18:26**: docs: update traffic signals catalog documentation
+- **2006-04-30 18:52**: style: enhance traffic sign card layout and responsiveness
