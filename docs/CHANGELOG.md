@@ -1,4 +1,3 @@
-- **2006-03-19 15:30**: refactor: optimize SVG rendering for road signs
 - **2006-03-19 17:45**: chore: format code style and clean up redundant variables
 - **2006-03-20 12:29**: fix: adjust passing score threshold according to new rules
 - **2006-03-21 09:05**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-05-01 13:42**: docs: improve code comments and API documentation
 - **2006-05-01 15:47**: feat: support multiple choice questions for motorcycle category
 - **2006-05-02 20:01**: feat: add search and filter by sign category
+- **2006-05-02 21:18**: style: improve dark/light mode and mobile UI responsiveness
