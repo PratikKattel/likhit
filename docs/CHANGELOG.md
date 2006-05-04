@@ -1,4 +1,3 @@
-- **2006-03-20 12:29**: fix: adjust passing score threshold according to new rules
 - **2006-03-21 09:05**: fix: typo in Nepali road safety regulations question
 - **2006-03-21 13:53**: fix: update DOTM Nepal license syllabus questions
 - **2006-03-22 10:44**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-05-02 20:01**: feat: add search and filter by sign category
 - **2006-05-02 21:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-05-03 13:38**: chore: update project metadata and build configuration
+- **2006-05-04 09:37**: fix: prevent option re-selection after submitting answer
