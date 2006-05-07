@@ -1,4 +1,3 @@
-- **2006-03-22 10:44**: feat: add search and filter by sign category
 - **2006-03-22 10:51**: docs: improve code comments and API documentation
 - **2006-03-23 17:09**: feat: add category A and B traffic test questions
 - **2006-03-24 13:35**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-05-04 09:37**: fix: prevent option re-selection after submitting answer
 - **2006-05-05 12:13**: perf: index question IDs for rapid lookup
 - **2006-05-06 13:28**: refactor: restructure question data schema for faster loading
+- **2006-05-07 10:45**: fix: adjust passing score threshold according to new rules
