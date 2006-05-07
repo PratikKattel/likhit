@@ -1,4 +1,3 @@
-- **2006-03-22 10:51**: docs: improve code comments and API documentation
 - **2006-03-23 17:09**: feat: add category A and B traffic test questions
 - **2006-03-24 13:35**: chore: update project metadata and build configuration
 - **2006-03-25 18:02**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-05-05 12:13**: perf: index question IDs for rapid lookup
 - **2006-05-06 13:28**: refactor: restructure question data schema for faster loading
 - **2006-05-07 10:45**: fix: adjust passing score threshold according to new rules
+- **2006-05-07 19:44**: feat: add regulatory traffic signs SVG graphics
