@@ -1,4 +1,3 @@
-- **2006-03-24 13:35**: chore: update project metadata and build configuration
 - **2006-03-25 18:02**: feat: add result summary with passing threshold analysis
 - **2006-03-25 22:18**: feat: add search and filter by sign category
 - **2006-03-26 11:49**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-05-07 10:45**: fix: adjust passing score threshold according to new rules
 - **2006-05-07 19:44**: feat: add regulatory traffic signs SVG graphics
 - **2006-05-07 22:09**: feat: add result summary with passing threshold analysis
+- **2006-05-08 16:19**: docs: improve code comments and API documentation
