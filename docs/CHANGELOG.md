@@ -1,4 +1,3 @@
-- **2006-03-25 22:18**: feat: add search and filter by sign category
 - **2006-03-26 11:49**: feat: add instant feedback and explanation on answer selection
 - **2006-03-27 14:09**: feat: add keyboard navigation shortcuts for question selection
 - **2006-03-28 11:04**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2006-05-07 22:09**: feat: add result summary with passing threshold analysis
 - **2006-05-08 16:19**: docs: improve code comments and API documentation
 - **2006-05-08 22:15**: feat: implement timer and score calculation for mock test
+- **2006-05-09 17:11**: feat: add instant feedback and explanation on answer selection
