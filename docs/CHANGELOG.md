@@ -1,4 +1,3 @@
-- **2006-03-28 17:29**: feat: support multiple choice questions for motorcycle category
 - **2006-03-29 18:07**: test: verify question extraction script against exam PDF
 - **2006-03-30 13:15**: feat: add instant feedback and explanation on answer selection
 - **2006-03-31 13:35**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-05-10 21:34**: fix: prevent option re-selection after submitting answer
 - **2006-05-11 09:39**: feat: add instant feedback and explanation on answer selection
 - **2006-05-12 19:43**: chore: update questions database with recent DOTM updates
+- **2006-05-13 18:13**: feat: add keyboard navigation shortcuts for question selection
