@@ -1,4 +1,3 @@
-- **2006-03-31 17:50**: docs: improve code comments and API documentation
 - **2006-03-31 19:18**: style: enhance traffic sign card layout and responsiveness
 - **2006-04-01 15:18**: feat: add search and filter by sign category
 - **2006-04-01 16:49**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-05-13 20:48**: feat: support multiple choice questions for motorcycle category
 - **2006-05-14 13:35**: fix: resolve layout shift during question transitions
 - **2006-05-14 14:11**: feat: add result summary with passing threshold analysis
+- **2006-05-14 20:51**: feat: add regulatory traffic signs SVG graphics
