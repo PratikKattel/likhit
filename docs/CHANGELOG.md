@@ -1,4 +1,3 @@
-- **2006-04-01 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2006-04-02 11:22**: test: verify question extraction script against exam PDF
 - **2006-04-03 19:53**: fix: typo in Nepali road safety regulations question
 - **2006-04-04 17:15**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-05-15 21:53**: feat: add category A and B traffic test questions
 - **2006-05-16 11:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-05-16 12:46**: docs: update README with setup instructions and feature list
+- **2006-05-17 10:15**: docs: update traffic signals catalog documentation
