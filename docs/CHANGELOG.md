@@ -1,4 +1,3 @@
-- **2006-04-04 17:15**: chore: update project metadata and build configuration
 - **2006-04-04 18:20**: refactor: modularize traffic app logic and event listeners
 - **2006-04-05 11:42**: chore: update questions database with recent DOTM updates
 - **2006-04-06 14:33**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-05-17 10:15**: docs: update traffic signals catalog documentation
 - **2006-05-18 09:52**: chore: organize assets and image directory structure
 - **2006-05-19 15:26**: style: enhance traffic sign card layout and responsiveness
+- **2006-05-20 09:11**: fix: correct color specifications for mandatory traffic signs
