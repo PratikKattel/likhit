@@ -1,4 +1,3 @@
-- **2006-04-06 14:33**: style: enhance traffic sign card layout and responsiveness
 - **2006-04-07 09:51**: test: verify question extraction script against exam PDF
 - **2006-04-08 15:08**: feat: implement timer and score calculation for mock test
 - **2006-04-09 17:30**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-05-20 09:11**: fix: correct color specifications for mandatory traffic signs
 - **2006-05-20 10:55**: refactor: modularize traffic app logic and event listeners
 - **2006-05-21 12:40**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-05-21 13:59**: feat: implement timer and score calculation for mock test
