@@ -1,4 +1,3 @@
-- **2006-04-08 15:08**: feat: implement timer and score calculation for mock test
 - **2006-04-09 17:30**: docs: add instructions for Nepali driving license written exam
 - **2006-04-09 22:14**: feat: add category-specific practice modes
 - **2006-04-10 10:14**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-05-21 12:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-05-21 13:59**: feat: implement timer and score calculation for mock test
 - **2006-05-22 09:35**: feat: add category-specific practice modes
+- **2006-05-22 17:35**: feat: add category-specific practice modes
