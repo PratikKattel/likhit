@@ -1,4 +1,3 @@
-- **2006-04-09 22:14**: feat: add category-specific practice modes
 - **2006-04-10 10:14**: chore: format code style and clean up redundant variables
 - **2006-04-10 12:31**: style: polish typography and Nepali Unicode font rendering
 - **2006-04-10 13:21**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2006-05-22 09:35**: feat: add category-specific practice modes
 - **2006-05-22 17:35**: feat: add category-specific practice modes
 - **2006-05-23 14:35**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-05-23 22:00**: feat: add search and filter by sign category
