@@ -1,4 +1,3 @@
-- **2006-04-10 12:31**: style: polish typography and Nepali Unicode font rendering
 - **2006-04-10 13:21**: refactor: modularize traffic app logic and event listeners
 - **2006-04-11 19:32**: feat: add regulatory traffic signs SVG graphics
 - **2006-04-11 21:39**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-05-23 14:35**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-05-23 22:00**: feat: add search and filter by sign category
 - **2006-05-24 16:19**: feat: add keyboard navigation shortcuts for question selection
+- **2006-05-24 18:35**: style: enhance traffic sign card layout and responsiveness
