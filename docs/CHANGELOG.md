@@ -1,4 +1,3 @@
-- **2006-04-13 12:05**: refactor: restructure question data schema for faster loading
 - **2006-04-13 13:39**: style: polish typography and Nepali Unicode font rendering
 - **2006-04-14 20:08**: perf: optimize image caching for traffic sign assets
 - **2006-04-15 10:42**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-05-26 18:45**: refactor: modularize traffic app logic and event listeners
 - **2006-05-27 12:55**: feat: add category A and B traffic test questions
 - **2006-05-27 16:15**: perf: lazy load signal graphics and question assets
+- **2006-05-28 15:39**: chore: format code style and clean up redundant variables
