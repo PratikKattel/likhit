@@ -1,4 +1,3 @@
-- **2006-04-14 20:08**: perf: optimize image caching for traffic sign assets
 - **2006-04-15 10:42**: feat: implement timer and score calculation for mock test
 - **2006-04-16 21:46**: fix: resolve layout shift during question transitions
 - **2006-04-17 15:13**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-05-27 16:15**: perf: lazy load signal graphics and question assets
 - **2006-05-28 15:39**: chore: format code style and clean up redundant variables
 - **2006-05-29 10:58**: fix: adjust passing score threshold according to new rules
+- **2006-05-29 13:46**: fix: prevent option re-selection after submitting answer
