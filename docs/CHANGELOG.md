@@ -1,4 +1,3 @@
-- **2006-04-16 21:46**: fix: resolve layout shift during question transitions
 - **2006-04-17 15:13**: fix: prevent option re-selection after submitting answer
 - **2006-04-17 21:11**: chore: update questions database with recent DOTM updates
 - **2006-04-17 21:19**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-05-29 10:58**: fix: adjust passing score threshold according to new rules
 - **2006-05-29 13:46**: fix: prevent option re-selection after submitting answer
 - **2006-05-29 18:40**: style: polish typography and Nepali Unicode font rendering
+- **2006-05-30 16:51**: feat: add instant feedback and explanation on answer selection
