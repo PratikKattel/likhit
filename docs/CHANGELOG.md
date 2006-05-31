@@ -1,4 +1,3 @@
-- **2006-04-17 21:11**: chore: update questions database with recent DOTM updates
 - **2006-04-17 21:19**: fix: typo in Nepali road safety regulations question
 - **2006-04-18 18:13**: refactor: modularize traffic app logic and event listeners
 - **2006-04-19 10:54**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2006-05-29 18:40**: style: polish typography and Nepali Unicode font rendering
 - **2006-05-30 16:51**: feat: add instant feedback and explanation on answer selection
 - **2006-05-31 11:06**: feat: add category A and B traffic test questions
+- **2006-05-31 15:42**: feat: add regulatory traffic signs SVG graphics
