@@ -1,4 +1,3 @@
-- **2006-04-17 15:13**: fix: prevent option re-selection after submitting answer
 - **2006-04-17 21:11**: chore: update questions database with recent DOTM updates
 - **2006-04-17 21:19**: fix: typo in Nepali road safety regulations question
 - **2006-04-18 18:13**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2006-05-29 13:46**: fix: prevent option re-selection after submitting answer
 - **2006-05-29 18:40**: style: polish typography and Nepali Unicode font rendering
 - **2006-05-30 16:51**: feat: add instant feedback and explanation on answer selection
+- **2006-05-31 11:06**: feat: add category A and B traffic test questions
