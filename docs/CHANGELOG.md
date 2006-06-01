@@ -1,4 +1,3 @@
-- **2006-04-18 18:13**: refactor: modularize traffic app logic and event listeners
 - **2006-04-19 10:54**: test: verify question extraction script against exam PDF
 - **2006-04-20 09:54**: docs: improve code comments and API documentation
 - **2006-04-21 18:54**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2006-05-31 11:06**: feat: add category A and B traffic test questions
 - **2006-05-31 15:42**: feat: add regulatory traffic signs SVG graphics
 - **2006-06-01 13:17**: docs: improve code comments and API documentation
+- **2006-06-01 14:49**: docs: update traffic signals catalog documentation
