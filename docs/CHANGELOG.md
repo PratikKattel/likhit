@@ -1,4 +1,3 @@
-- **2006-04-21 18:54**: feat: support multiple choice questions for motorcycle category
 - **2006-04-22 11:10**: fix: resolve layout shift during question transitions
 - **2006-04-22 19:40**: docs: improve code comments and API documentation
 - **2006-04-22 20:56**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-06-01 14:49**: docs: update traffic signals catalog documentation
 - **2006-06-02 13:10**: chore: update questions database with recent DOTM updates
 - **2006-06-02 21:02**: perf: lazy load signal graphics and question assets
+- **2006-06-03 12:43**: style: polish typography and Nepali Unicode font rendering
