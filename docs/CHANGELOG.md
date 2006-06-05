@@ -1,4 +1,3 @@
-- **2006-04-23 09:34**: feat: add warning signs and informational road signs
 - **2006-04-23 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2006-04-23 14:45**: feat: add keyboard navigation shortcuts for question selection
 - **2006-04-24 10:59**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-06-04 13:33**: refactor: restructure question data schema for faster loading
 - **2006-06-05 10:12**: docs: improve code comments and API documentation
 - **2006-06-05 12:11**: feat: add search and filter by sign category
+- **2006-06-05 17:11**: feat: add result summary with passing threshold analysis
