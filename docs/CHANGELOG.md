@@ -1,4 +1,3 @@
-- **2006-04-22 20:56**: style: enhance traffic sign card layout and responsiveness
 - **2006-04-23 09:34**: feat: add warning signs and informational road signs
 - **2006-04-23 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2006-04-23 14:45**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-06-03 12:43**: style: polish typography and Nepali Unicode font rendering
 - **2006-06-04 13:33**: refactor: restructure question data schema for faster loading
 - **2006-06-05 10:12**: docs: improve code comments and API documentation
+- **2006-06-05 12:11**: feat: add search and filter by sign category
