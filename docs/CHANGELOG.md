@@ -1,4 +1,3 @@
-- **2006-04-24 10:59**: feat: implement timer and score calculation for mock test
 - **2006-04-25 11:32**: feat: add warning signs and informational road signs
 - **2006-04-25 15:34**: docs: improve code comments and API documentation
 - **2006-04-26 11:59**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-06-05 17:11**: feat: add result summary with passing threshold analysis
 - **2006-06-05 19:25**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-06 11:56**: feat: implement timer and score calculation for mock test
+- **2006-06-06 13:42**: docs: update README with setup instructions and feature list
