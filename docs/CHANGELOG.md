@@ -1,4 +1,3 @@
-- **2006-04-25 15:34**: docs: improve code comments and API documentation
 - **2006-04-26 11:59**: chore: update questions database with recent DOTM updates
 - **2006-04-26 21:51**: fix: typo in Nepali road safety regulations question
 - **2006-04-27 20:41**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-06-06 11:56**: feat: implement timer and score calculation for mock test
 - **2006-06-06 13:42**: docs: update README with setup instructions and feature list
 - **2006-06-07 12:35**: chore: format code style and clean up redundant variables
+- **2006-06-07 18:27**: docs: add instructions for Nepali driving license written exam
