@@ -1,4 +1,3 @@
-- **2006-04-26 21:51**: fix: typo in Nepali road safety regulations question
 - **2006-04-27 20:41**: fix: update DOTM Nepal license syllabus questions
 - **2006-04-28 13:25**: feat: add search and filter by sign category
 - **2006-04-28 15:04**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-06-07 12:35**: chore: format code style and clean up redundant variables
 - **2006-06-07 18:27**: docs: add instructions for Nepali driving license written exam
 - **2006-06-08 20:08**: feat: add search and filter by sign category
+- **2006-06-08 20:35**: chore: update questions database with recent DOTM updates
