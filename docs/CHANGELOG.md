@@ -1,4 +1,3 @@
-- **2006-04-27 20:41**: fix: update DOTM Nepal license syllabus questions
 - **2006-04-28 13:25**: feat: add search and filter by sign category
 - **2006-04-28 15:04**: feat: add search and filter by sign category
 - **2006-04-28 20:24**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2006-06-07 18:27**: docs: add instructions for Nepali driving license written exam
 - **2006-06-08 20:08**: feat: add search and filter by sign category
 - **2006-06-08 20:35**: chore: update questions database with recent DOTM updates
+- **2006-06-09 13:20**: chore: update questions database with recent DOTM updates
