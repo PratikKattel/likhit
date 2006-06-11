@@ -1,4 +1,3 @@
-- **2006-04-28 20:24**: perf: optimize image caching for traffic sign assets
 - **2006-04-29 09:15**: fix: prevent option re-selection after submitting answer
 - **2006-04-29 11:10**: perf: index question IDs for rapid lookup
 - **2006-04-29 14:28**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-06-09 13:20**: chore: update questions database with recent DOTM updates
 - **2006-06-10 19:47**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-11 11:10**: docs: improve code comments and API documentation
+- **2006-06-11 15:48**: style: improve dark/light mode and mobile UI responsiveness
