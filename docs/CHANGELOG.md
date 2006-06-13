@@ -1,4 +1,3 @@
-- **2006-04-29 14:28**: chore: format code style and clean up redundant variables
 - **2006-04-29 16:18**: perf: lazy load signal graphics and question assets
 - **2006-04-30 18:11**: feat: support multiple choice questions for motorcycle category
 - **2006-04-30 18:26**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2006-06-11 15:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-06-12 11:55**: feat: add warning signs and informational road signs
 - **2006-06-12 15:50**: fix: resolve layout shift during question transitions
+- **2006-06-13 20:20**: feat: add instant feedback and explanation on answer selection
