@@ -1,4 +1,3 @@
-- **2006-04-30 18:26**: docs: update traffic signals catalog documentation
 - **2006-04-30 18:52**: style: enhance traffic sign card layout and responsiveness
 - **2006-05-01 10:54**: feat: add warning signs and informational road signs
 - **2006-05-01 13:42**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-06-13 20:20**: feat: add instant feedback and explanation on answer selection
 - **2006-06-14 18:31**: refactor: restructure question data schema for faster loading
 - **2006-06-15 14:36**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-06-16 14:03**: chore: update questions database with recent DOTM updates
