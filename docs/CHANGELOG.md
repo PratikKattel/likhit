@@ -1,4 +1,3 @@
-- **2006-05-01 10:54**: feat: add warning signs and informational road signs
 - **2006-05-01 13:42**: docs: improve code comments and API documentation
 - **2006-05-01 15:47**: feat: support multiple choice questions for motorcycle category
 - **2006-05-02 20:01**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-06-15 14:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-06-16 14:03**: chore: update questions database with recent DOTM updates
 - **2006-06-17 14:00**: chore: organize assets and image directory structure
+- **2006-06-17 20:26**: docs: update traffic signals catalog documentation
