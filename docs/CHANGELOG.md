@@ -1,4 +1,3 @@
-- **2006-05-02 20:01**: feat: add search and filter by sign category
 - **2006-05-02 21:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-05-03 13:38**: chore: update project metadata and build configuration
 - **2006-05-04 09:37**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-06-17 20:26**: docs: update traffic signals catalog documentation
 - **2006-06-18 10:31**: feat: add search and filter by sign category
 - **2006-06-18 17:09**: feat: add result summary with passing threshold analysis
+- **2006-06-18 18:18**: chore: update project metadata and build configuration
