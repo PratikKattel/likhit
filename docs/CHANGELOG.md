@@ -1,4 +1,3 @@
-- **2006-05-04 09:37**: fix: prevent option re-selection after submitting answer
 - **2006-05-05 12:13**: perf: index question IDs for rapid lookup
 - **2006-05-06 13:28**: refactor: restructure question data schema for faster loading
 - **2006-05-07 10:45**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-06-18 18:18**: chore: update project metadata and build configuration
 - **2006-06-19 19:04**: feat: add search and filter by sign category
 - **2006-06-20 17:33**: refactor: modularize traffic app logic and event listeners
+- **2006-06-20 22:09**: test: verify question extraction script against exam PDF
