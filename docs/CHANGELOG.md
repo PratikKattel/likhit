@@ -1,4 +1,3 @@
-- **2006-05-07 10:45**: fix: adjust passing score threshold according to new rules
 - **2006-05-07 19:44**: feat: add regulatory traffic signs SVG graphics
 - **2006-05-07 22:09**: feat: add result summary with passing threshold analysis
 - **2006-05-08 16:19**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-06-20 22:09**: test: verify question extraction script against exam PDF
 - **2006-06-21 10:32**: style: enhance traffic sign card layout and responsiveness
 - **2006-06-21 19:44**: chore: update questions database with recent DOTM updates
+- **2006-06-22 15:16**: refactor: restructure question data schema for faster loading
