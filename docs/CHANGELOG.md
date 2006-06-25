@@ -1,4 +1,3 @@
-- **2006-05-09 17:11**: feat: add instant feedback and explanation on answer selection
 - **2006-05-10 21:34**: fix: prevent option re-selection after submitting answer
 - **2006-05-11 09:39**: feat: add instant feedback and explanation on answer selection
 - **2006-05-12 19:43**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-06-24 09:23**: chore: organize assets and image directory structure
 - **2006-06-24 20:52**: chore: format code style and clean up redundant variables
 - **2006-06-25 09:27**: chore: update project metadata and build configuration
+- **2006-06-25 18:33**: fix: correct color specifications for mandatory traffic signs
