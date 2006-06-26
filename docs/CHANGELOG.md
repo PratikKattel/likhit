@@ -1,4 +1,3 @@
-- **2006-05-11 09:39**: feat: add instant feedback and explanation on answer selection
 - **2006-05-12 19:43**: chore: update questions database with recent DOTM updates
 - **2006-05-13 18:13**: feat: add keyboard navigation shortcuts for question selection
 - **2006-05-13 18:27**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-06-25 09:27**: chore: update project metadata and build configuration
 - **2006-06-25 18:33**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-26 12:55**: docs: update traffic signals catalog documentation
+- **2006-06-26 16:38**: fix: correct color specifications for mandatory traffic signs
