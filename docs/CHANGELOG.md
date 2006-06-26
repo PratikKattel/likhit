@@ -1,4 +1,3 @@
-- **2006-05-13 18:13**: feat: add keyboard navigation shortcuts for question selection
 - **2006-05-13 18:27**: chore: update project metadata and build configuration
 - **2006-05-13 20:48**: feat: support multiple choice questions for motorcycle category
 - **2006-05-14 13:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2006-06-26 12:55**: docs: update traffic signals catalog documentation
 - **2006-06-26 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-26 19:40**: docs: improve code comments and API documentation
+- **2006-06-26 21:48**: feat: add category-specific practice modes
