@@ -1,4 +1,3 @@
-- **2006-05-14 14:11**: feat: add result summary with passing threshold analysis
 - **2006-05-14 20:51**: feat: add regulatory traffic signs SVG graphics
 - **2006-05-15 11:39**: perf: optimize image caching for traffic sign assets
 - **2006-05-15 21:53**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-06-27 15:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-06-28 10:51**: docs: update README with setup instructions and feature list
 - **2006-06-28 12:25**: docs: add instructions for Nepali driving license written exam
+- **2006-06-28 20:31**: feat: implement timer and score calculation for mock test
