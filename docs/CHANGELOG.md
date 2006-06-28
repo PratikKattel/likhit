@@ -1,4 +1,3 @@
-- **2006-05-14 13:35**: fix: resolve layout shift during question transitions
 - **2006-05-14 14:11**: feat: add result summary with passing threshold analysis
 - **2006-05-14 20:51**: feat: add regulatory traffic signs SVG graphics
 - **2006-05-15 11:39**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2006-06-26 21:48**: feat: add category-specific practice modes
 - **2006-06-27 15:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-06-28 10:51**: docs: update README with setup instructions and feature list
+- **2006-06-28 12:25**: docs: add instructions for Nepali driving license written exam
