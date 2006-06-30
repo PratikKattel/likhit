@@ -1,4 +1,3 @@
-- **2006-05-15 21:53**: feat: add category A and B traffic test questions
 - **2006-05-16 11:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-05-16 12:46**: docs: update README with setup instructions and feature list
 - **2006-05-17 10:15**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2006-06-28 20:31**: feat: implement timer and score calculation for mock test
 - **2006-06-29 09:10**: fix: typo in Nepali road safety regulations question
 - **2006-06-29 18:23**: docs: update traffic signals catalog documentation
+- **2006-06-30 14:08**: chore: organize assets and image directory structure
