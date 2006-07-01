@@ -1,4 +1,3 @@
-- **2006-05-16 12:46**: docs: update README with setup instructions and feature list
 - **2006-05-17 10:15**: docs: update traffic signals catalog documentation
 - **2006-05-18 09:52**: chore: organize assets and image directory structure
 - **2006-05-19 15:26**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-06-29 18:23**: docs: update traffic signals catalog documentation
 - **2006-06-30 14:08**: chore: organize assets and image directory structure
 - **2006-06-30 18:41**: docs: update README with setup instructions and feature list
+- **2006-07-01 09:28**: docs: add instructions for Nepali driving license written exam
