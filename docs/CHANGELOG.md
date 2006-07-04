@@ -1,4 +1,3 @@
-- **2006-05-21 12:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-05-21 13:59**: feat: implement timer and score calculation for mock test
 - **2006-05-22 09:35**: feat: add category-specific practice modes
 - **2006-05-22 17:35**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-07-02 21:00**: perf: optimize image caching for traffic sign assets
 - **2006-07-03 09:05**: fix: prevent option re-selection after submitting answer
 - **2006-07-03 15:00**: feat: add keyboard navigation shortcuts for question selection
+- **2006-07-04 12:28**: style: improve dark/light mode and mobile UI responsiveness
