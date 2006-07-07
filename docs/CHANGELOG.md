@@ -1,4 +1,3 @@
-- **2006-05-23 14:35**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-05-23 22:00**: feat: add search and filter by sign category
 - **2006-05-24 16:19**: feat: add keyboard navigation shortcuts for question selection
 - **2006-05-24 18:35**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-07-05 15:59**: feat: add category A and B traffic test questions
 - **2006-07-06 12:54**: feat: implement timer and score calculation for mock test
 - **2006-07-06 21:21**: feat: add warning signs and informational road signs
+- **2006-07-07 18:39**: perf: index question IDs for rapid lookup
