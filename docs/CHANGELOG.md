@@ -1,4 +1,3 @@
-- **2006-05-25 19:25**: fix: update DOTM Nepal license syllabus questions
 - **2006-05-26 16:33**: style: polish typography and Nepali Unicode font rendering
 - **2006-05-26 18:45**: refactor: modularize traffic app logic and event listeners
 - **2006-05-27 12:55**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-07-08 12:52**: feat: add regulatory traffic signs SVG graphics
 - **2006-07-08 17:49**: feat: implement timer and score calculation for mock test
 - **2006-07-09 15:30**: docs: improve code comments and API documentation
+- **2006-07-10 16:01**: docs: update README with setup instructions and feature list
