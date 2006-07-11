@@ -1,4 +1,3 @@
-- **2006-05-26 18:45**: refactor: modularize traffic app logic and event listeners
 - **2006-05-27 12:55**: feat: add category A and B traffic test questions
 - **2006-05-27 16:15**: perf: lazy load signal graphics and question assets
 - **2006-05-28 15:39**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-07-09 15:30**: docs: improve code comments and API documentation
 - **2006-07-10 16:01**: docs: update README with setup instructions and feature list
 - **2006-07-10 21:04**: chore: update questions database with recent DOTM updates
+- **2006-07-11 11:47**: feat: add category-specific practice modes
