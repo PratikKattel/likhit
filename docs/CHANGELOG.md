@@ -1,4 +1,3 @@
-- **2006-05-29 10:58**: fix: adjust passing score threshold according to new rules
 - **2006-05-29 13:46**: fix: prevent option re-selection after submitting answer
 - **2006-05-29 18:40**: style: polish typography and Nepali Unicode font rendering
 - **2006-05-30 16:51**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-07-12 12:17**: fix: prevent option re-selection after submitting answer
 - **2006-07-12 13:47**: fix: prevent option re-selection after submitting answer
 - **2006-07-13 18:20**: chore: update project metadata and build configuration
+- **2006-07-14 14:27**: docs: add instructions for Nepali driving license written exam
