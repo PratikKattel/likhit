@@ -1,4 +1,3 @@
-- **2006-05-29 13:46**: fix: prevent option re-selection after submitting answer
 - **2006-05-29 18:40**: style: polish typography and Nepali Unicode font rendering
 - **2006-05-30 16:51**: feat: add instant feedback and explanation on answer selection
 - **2006-05-31 11:06**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-07-12 13:47**: fix: prevent option re-selection after submitting answer
 - **2006-07-13 18:20**: chore: update project metadata and build configuration
 - **2006-07-14 14:27**: docs: add instructions for Nepali driving license written exam
+- **2006-07-14 19:28**: style: enhance traffic sign card layout and responsiveness
