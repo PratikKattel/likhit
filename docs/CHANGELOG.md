@@ -1,4 +1,3 @@
-- **2006-05-31 15:42**: feat: add regulatory traffic signs SVG graphics
 - **2006-06-01 13:17**: docs: improve code comments and API documentation
 - **2006-06-01 14:49**: docs: update traffic signals catalog documentation
 - **2006-06-02 13:10**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-07-15 12:45**: test: verify question extraction script against exam PDF
 - **2006-07-15 14:40**: perf: optimize image caching for traffic sign assets
 - **2006-07-15 16:36**: fix: typo in Nepali road safety regulations question
+- **2006-07-15 16:47**: fix: update DOTM Nepal license syllabus questions
