@@ -1,4 +1,3 @@
-- **2006-06-01 14:49**: docs: update traffic signals catalog documentation
 - **2006-06-02 13:10**: chore: update questions database with recent DOTM updates
 - **2006-06-02 21:02**: perf: lazy load signal graphics and question assets
 - **2006-06-03 12:43**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-07-15 16:36**: fix: typo in Nepali road safety regulations question
 - **2006-07-15 16:47**: fix: update DOTM Nepal license syllabus questions
 - **2006-07-16 13:21**: fix: update DOTM Nepal license syllabus questions
+- **2006-07-16 14:32**: feat: add warning signs and informational road signs
