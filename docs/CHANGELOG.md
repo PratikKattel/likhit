@@ -1,4 +1,3 @@
-- **2006-06-03 12:43**: style: polish typography and Nepali Unicode font rendering
 - **2006-06-04 13:33**: refactor: restructure question data schema for faster loading
 - **2006-06-05 10:12**: docs: improve code comments and API documentation
 - **2006-06-05 12:11**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-07-16 14:32**: feat: add warning signs and informational road signs
 - **2006-07-16 15:05**: docs: improve code comments and API documentation
 - **2006-07-16 16:24**: test: verify question extraction script against exam PDF
+- **2006-07-17 18:06**: chore: update project metadata and build configuration
