@@ -1,4 +1,3 @@
-- **2006-06-05 12:11**: feat: add search and filter by sign category
 - **2006-06-05 17:11**: feat: add result summary with passing threshold analysis
 - **2006-06-05 19:25**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-06 11:56**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-07-17 18:06**: chore: update project metadata and build configuration
 - **2006-07-18 10:04**: refactor: modularize traffic app logic and event listeners
 - **2006-07-18 16:02**: docs: update README with setup instructions and feature list
+- **2006-07-18 17:31**: fix: adjust passing score threshold according to new rules
