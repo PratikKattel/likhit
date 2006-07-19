@@ -1,4 +1,3 @@
-- **2006-06-06 11:56**: feat: implement timer and score calculation for mock test
 - **2006-06-06 13:42**: docs: update README with setup instructions and feature list
 - **2006-06-07 12:35**: chore: format code style and clean up redundant variables
 - **2006-06-07 18:27**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-07-18 17:31**: fix: adjust passing score threshold according to new rules
 - **2006-07-18 19:55**: feat: add keyboard navigation shortcuts for question selection
 - **2006-07-19 09:57**: perf: optimize image caching for traffic sign assets
+- **2006-07-19 15:25**: docs: update README with setup instructions and feature list
