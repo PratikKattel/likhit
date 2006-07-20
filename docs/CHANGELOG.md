@@ -1,4 +1,3 @@
-- **2006-06-06 13:42**: docs: update README with setup instructions and feature list
 - **2006-06-07 12:35**: chore: format code style and clean up redundant variables
 - **2006-06-07 18:27**: docs: add instructions for Nepali driving license written exam
 - **2006-06-08 20:08**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-07-18 19:55**: feat: add keyboard navigation shortcuts for question selection
 - **2006-07-19 09:57**: perf: optimize image caching for traffic sign assets
 - **2006-07-19 15:25**: docs: update README with setup instructions and feature list
+- **2006-07-20 14:44**: feat: add result summary with passing threshold analysis
