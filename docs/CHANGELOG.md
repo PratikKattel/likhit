@@ -1,4 +1,3 @@
-- **2006-06-09 13:20**: chore: update questions database with recent DOTM updates
 - **2006-06-10 19:47**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-11 11:10**: docs: improve code comments and API documentation
 - **2006-06-11 15:48**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2006-07-22 10:30**: chore: format code style and clean up redundant variables
 - **2006-07-22 16:22**: feat: add result summary with passing threshold analysis
 - **2006-07-22 17:33**: chore: organize assets and image directory structure
+- **2006-07-22 18:06**: feat: support multiple choice questions for motorcycle category
