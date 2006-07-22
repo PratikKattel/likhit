@@ -1,4 +1,3 @@
-- **2006-06-08 20:08**: feat: add search and filter by sign category
 - **2006-06-08 20:35**: chore: update questions database with recent DOTM updates
 - **2006-06-09 13:20**: chore: update questions database with recent DOTM updates
 - **2006-06-10 19:47**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2006-07-20 14:44**: feat: add result summary with passing threshold analysis
 - **2006-07-21 11:21**: perf: lazy load signal graphics and question assets
 - **2006-07-22 10:30**: chore: format code style and clean up redundant variables
+- **2006-07-22 16:22**: feat: add result summary with passing threshold analysis
