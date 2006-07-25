@@ -1,4 +1,3 @@
-- **2006-06-11 15:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-06-12 11:55**: feat: add warning signs and informational road signs
 - **2006-06-12 15:50**: fix: resolve layout shift during question transitions
 - **2006-06-13 20:20**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-07-22 18:06**: feat: support multiple choice questions for motorcycle category
 - **2006-07-23 21:38**: refactor: restructure question data schema for faster loading
 - **2006-07-24 14:42**: docs: update README with setup instructions and feature list
+- **2006-07-25 13:34**: refactor: clean up unused CSS classes and optimize stylesheet
