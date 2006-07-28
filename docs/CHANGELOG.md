@@ -1,4 +1,3 @@
-- **2006-06-13 20:20**: feat: add instant feedback and explanation on answer selection
 - **2006-06-14 18:31**: refactor: restructure question data schema for faster loading
 - **2006-06-15 14:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-06-16 14:03**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-07-25 13:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-07-26 09:48**: docs: update README with setup instructions and feature list
 - **2006-07-27 21:17**: style: enhance traffic sign card layout and responsiveness
+- **2006-07-28 12:24**: fix: typo in Nepali road safety regulations question
