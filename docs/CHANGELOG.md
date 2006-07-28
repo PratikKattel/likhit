@@ -1,4 +1,3 @@
-- **2006-06-15 14:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-06-16 14:03**: chore: update questions database with recent DOTM updates
 - **2006-06-17 14:00**: chore: organize assets and image directory structure
 - **2006-06-17 20:26**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2006-07-27 21:17**: style: enhance traffic sign card layout and responsiveness
 - **2006-07-28 12:24**: fix: typo in Nepali road safety regulations question
 - **2006-07-28 14:17**: chore: organize assets and image directory structure
+- **2006-07-28 19:51**: style: polish typography and Nepali Unicode font rendering
