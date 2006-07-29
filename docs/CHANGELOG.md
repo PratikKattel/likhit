@@ -1,4 +1,3 @@
-- **2006-06-17 14:00**: chore: organize assets and image directory structure
 - **2006-06-17 20:26**: docs: update traffic signals catalog documentation
 - **2006-06-18 10:31**: feat: add search and filter by sign category
 - **2006-06-18 17:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-07-28 14:17**: chore: organize assets and image directory structure
 - **2006-07-28 19:51**: style: polish typography and Nepali Unicode font rendering
 - **2006-07-29 09:30**: fix: update DOTM Nepal license syllabus questions
+- **2006-07-29 20:11**: fix: adjust passing score threshold according to new rules
