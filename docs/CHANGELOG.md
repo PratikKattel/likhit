@@ -1,4 +1,3 @@
-- **2006-06-18 10:31**: feat: add search and filter by sign category
 - **2006-06-18 17:09**: feat: add result summary with passing threshold analysis
 - **2006-06-18 18:18**: chore: update project metadata and build configuration
 - **2006-06-19 19:04**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-07-29 09:30**: fix: update DOTM Nepal license syllabus questions
 - **2006-07-29 20:11**: fix: adjust passing score threshold according to new rules
 - **2006-07-30 12:54**: chore: update project metadata and build configuration
+- **2006-07-31 14:35**: feat: add category-specific practice modes
