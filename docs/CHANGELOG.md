@@ -1,4 +1,3 @@
-- **2006-06-18 18:18**: chore: update project metadata and build configuration
 - **2006-06-19 19:04**: feat: add search and filter by sign category
 - **2006-06-20 17:33**: refactor: modularize traffic app logic and event listeners
 - **2006-06-20 22:09**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2006-07-30 12:54**: chore: update project metadata and build configuration
 - **2006-07-31 14:35**: feat: add category-specific practice modes
 - **2006-07-31 22:14**: feat: implement timer and score calculation for mock test
+- **2006-08-01 12:28**: feat: add search and filter by sign category
