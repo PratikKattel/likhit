@@ -1,4 +1,3 @@
-- **2006-06-20 22:09**: test: verify question extraction script against exam PDF
 - **2006-06-21 10:32**: style: enhance traffic sign card layout and responsiveness
 - **2006-06-21 19:44**: chore: update questions database with recent DOTM updates
 - **2006-06-22 15:16**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2006-08-01 12:28**: feat: add search and filter by sign category
 - **2006-08-02 11:01**: fix: correct color specifications for mandatory traffic signs
 - **2006-08-02 16:22**: feat: add category A and B traffic test questions
+- **2006-08-02 21:18**: fix: typo in Nepali road safety regulations question
