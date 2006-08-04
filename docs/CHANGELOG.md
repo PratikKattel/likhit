@@ -1,4 +1,3 @@
-- **2006-06-21 19:44**: chore: update questions database with recent DOTM updates
 - **2006-06-22 15:16**: refactor: restructure question data schema for faster loading
 - **2006-06-23 10:06**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-24 09:23**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-08-02 16:22**: feat: add category A and B traffic test questions
 - **2006-08-02 21:18**: fix: typo in Nepali road safety regulations question
 - **2006-08-03 10:56**: fix: prevent option re-selection after submitting answer
+- **2006-08-04 11:35**: chore: update questions database with recent DOTM updates
