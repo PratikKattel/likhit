@@ -1,4 +1,3 @@
-- **2006-06-23 10:06**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-24 09:23**: chore: organize assets and image directory structure
 - **2006-06-24 20:52**: chore: format code style and clean up redundant variables
 - **2006-06-25 09:27**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-08-03 10:56**: fix: prevent option re-selection after submitting answer
 - **2006-08-04 11:35**: chore: update questions database with recent DOTM updates
 - **2006-08-05 16:28**: refactor: optimize SVG rendering for road signs
+- **2006-08-05 21:55**: refactor: optimize SVG rendering for road signs
