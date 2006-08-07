@@ -1,4 +1,3 @@
-- **2006-06-25 18:33**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-26 12:55**: docs: update traffic signals catalog documentation
 - **2006-06-26 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2006-06-26 19:40**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-08-06 15:45**: docs: update README with setup instructions and feature list
 - **2006-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
 - **2006-08-06 18:09**: feat: implement timer and score calculation for mock test
+- **2006-08-07 18:21**: style: enhance traffic sign card layout and responsiveness
