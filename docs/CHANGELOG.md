@@ -1,4 +1,3 @@
-- **2006-06-27 15:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-06-28 10:51**: docs: update README with setup instructions and feature list
 - **2006-06-28 12:25**: docs: add instructions for Nepali driving license written exam
 - **2006-06-28 20:31**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-08-08 18:22**: perf: lazy load signal graphics and question assets
 - **2006-08-09 15:22**: style: polish typography and Nepali Unicode font rendering
 - **2006-08-09 16:51**: docs: improve code comments and API documentation
+- **2006-08-09 22:17**: feat: add keyboard navigation shortcuts for question selection
