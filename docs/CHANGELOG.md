@@ -1,4 +1,3 @@
-- **2006-06-28 20:31**: feat: implement timer and score calculation for mock test
 - **2006-06-29 09:10**: fix: typo in Nepali road safety regulations question
 - **2006-06-29 18:23**: docs: update traffic signals catalog documentation
 - **2006-06-30 14:08**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-08-09 22:17**: feat: add keyboard navigation shortcuts for question selection
 - **2006-08-10 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2006-08-11 19:53**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-08-12 13:47**: fix: adjust passing score threshold according to new rules
