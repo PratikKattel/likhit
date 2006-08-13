@@ -1,4 +1,3 @@
-- **2006-06-29 18:23**: docs: update traffic signals catalog documentation
 - **2006-06-30 14:08**: chore: organize assets and image directory structure
 - **2006-06-30 18:41**: docs: update README with setup instructions and feature list
 - **2006-07-01 09:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-08-11 19:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-08-12 13:47**: fix: adjust passing score threshold according to new rules
 - **2006-08-13 12:49**: feat: add result summary with passing threshold analysis
+- **2006-08-13 22:14**: chore: format code style and clean up redundant variables
