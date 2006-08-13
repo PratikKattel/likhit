@@ -1,4 +1,3 @@
-- **2006-06-29 09:10**: fix: typo in Nepali road safety regulations question
 - **2006-06-29 18:23**: docs: update traffic signals catalog documentation
 - **2006-06-30 14:08**: chore: organize assets and image directory structure
 - **2006-06-30 18:41**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-08-10 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2006-08-11 19:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-08-12 13:47**: fix: adjust passing score threshold according to new rules
+- **2006-08-13 12:49**: feat: add result summary with passing threshold analysis
