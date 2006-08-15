@@ -1,4 +1,3 @@
-- **2006-07-01 14:00**: fix: prevent option re-selection after submitting answer
 - **2006-07-02 10:36**: feat: add result summary with passing threshold analysis
 - **2006-07-02 21:00**: perf: optimize image caching for traffic sign assets
 - **2006-07-03 09:05**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-08-14 11:49**: fix: resolve layout shift during question transitions
 - **2006-08-15 09:30**: chore: organize assets and image directory structure
 - **2006-08-15 12:03**: style: polish typography and Nepali Unicode font rendering
+- **2006-08-15 12:39**: style: enhance traffic sign card layout and responsiveness
