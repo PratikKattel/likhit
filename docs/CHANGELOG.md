@@ -1,4 +1,3 @@
-- **2006-06-30 18:41**: docs: update README with setup instructions and feature list
 - **2006-07-01 09:28**: docs: add instructions for Nepali driving license written exam
 - **2006-07-01 14:00**: fix: prevent option re-selection after submitting answer
 - **2006-07-02 10:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-08-13 12:49**: feat: add result summary with passing threshold analysis
 - **2006-08-13 22:14**: chore: format code style and clean up redundant variables
 - **2006-08-14 11:49**: fix: resolve layout shift during question transitions
+- **2006-08-15 09:30**: chore: organize assets and image directory structure
