@@ -1,4 +1,3 @@
-- **2006-07-02 21:00**: perf: optimize image caching for traffic sign assets
 - **2006-07-03 09:05**: fix: prevent option re-selection after submitting answer
 - **2006-07-03 15:00**: feat: add keyboard navigation shortcuts for question selection
 - **2006-07-04 12:28**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2006-08-15 12:03**: style: polish typography and Nepali Unicode font rendering
 - **2006-08-15 12:39**: style: enhance traffic sign card layout and responsiveness
 - **2006-08-15 13:57**: fix: correct color specifications for mandatory traffic signs
+- **2006-08-16 16:04**: feat: implement timer and score calculation for mock test
