@@ -1,4 +1,3 @@
-- **2006-07-03 15:00**: feat: add keyboard navigation shortcuts for question selection
 - **2006-07-04 12:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-07-05 15:59**: feat: add category A and B traffic test questions
 - **2006-07-06 12:54**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-08-15 13:57**: fix: correct color specifications for mandatory traffic signs
 - **2006-08-16 16:04**: feat: implement timer and score calculation for mock test
 - **2006-08-17 13:02**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-08-17 17:53**: refactor: clean up unused CSS classes and optimize stylesheet
