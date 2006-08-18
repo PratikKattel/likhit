@@ -1,4 +1,3 @@
-- **2006-07-06 12:54**: feat: implement timer and score calculation for mock test
 - **2006-07-06 21:21**: feat: add warning signs and informational road signs
 - **2006-07-07 18:39**: perf: index question IDs for rapid lookup
 - **2006-07-08 12:52**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-08-17 17:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-08-18 09:51**: feat: add category A and B traffic test questions
 - **2006-08-18 11:13**: fix: prevent option re-selection after submitting answer
+- **2006-08-18 20:13**: fix: resolve layout shift during question transitions
