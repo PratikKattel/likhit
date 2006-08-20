@@ -1,4 +1,3 @@
-- **2006-07-07 18:39**: perf: index question IDs for rapid lookup
 - **2006-07-08 12:52**: feat: add regulatory traffic signs SVG graphics
 - **2006-07-08 17:49**: feat: implement timer and score calculation for mock test
 - **2006-07-09 15:30**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-08-18 11:13**: fix: prevent option re-selection after submitting answer
 - **2006-08-18 20:13**: fix: resolve layout shift during question transitions
 - **2006-08-19 19:04**: docs: improve code comments and API documentation
+- **2006-08-20 15:40**: docs: update README with setup instructions and feature list
