@@ -1,4 +1,3 @@
-- **2006-07-08 17:49**: feat: implement timer and score calculation for mock test
 - **2006-07-09 15:30**: docs: improve code comments and API documentation
 - **2006-07-10 16:01**: docs: update README with setup instructions and feature list
 - **2006-07-10 21:04**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-08-19 19:04**: docs: improve code comments and API documentation
 - **2006-08-20 15:40**: docs: update README with setup instructions and feature list
 - **2006-08-20 20:43**: fix: prevent option re-selection after submitting answer
+- **2006-08-21 19:36**: chore: update questions database with recent DOTM updates
