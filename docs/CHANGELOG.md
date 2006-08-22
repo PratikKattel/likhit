@@ -1,4 +1,3 @@
-- **2006-07-09 15:30**: docs: improve code comments and API documentation
 - **2006-07-10 16:01**: docs: update README with setup instructions and feature list
 - **2006-07-10 21:04**: chore: update questions database with recent DOTM updates
 - **2006-07-11 11:47**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-08-20 15:40**: docs: update README with setup instructions and feature list
 - **2006-08-20 20:43**: fix: prevent option re-selection after submitting answer
 - **2006-08-21 19:36**: chore: update questions database with recent DOTM updates
+- **2006-08-22 16:54**: perf: index question IDs for rapid lookup
