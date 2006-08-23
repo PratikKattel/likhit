@@ -1,4 +1,3 @@
-- **2006-07-10 21:04**: chore: update questions database with recent DOTM updates
 - **2006-07-11 11:47**: feat: add category-specific practice modes
 - **2006-07-12 12:17**: fix: prevent option re-selection after submitting answer
 - **2006-07-12 13:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-08-21 19:36**: chore: update questions database with recent DOTM updates
 - **2006-08-22 16:54**: perf: index question IDs for rapid lookup
 - **2006-08-23 12:26**: docs: add instructions for Nepali driving license written exam
+- **2006-08-23 14:21**: feat: add result summary with passing threshold analysis
