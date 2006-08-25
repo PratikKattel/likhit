@@ -1,4 +1,3 @@
-- **2006-07-12 12:17**: fix: prevent option re-selection after submitting answer
 - **2006-07-12 13:47**: fix: prevent option re-selection after submitting answer
 - **2006-07-13 18:20**: chore: update project metadata and build configuration
 - **2006-07-14 14:27**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-08-23 12:26**: docs: add instructions for Nepali driving license written exam
 - **2006-08-23 14:21**: feat: add result summary with passing threshold analysis
 - **2006-08-24 20:03**: chore: update questions database with recent DOTM updates
+- **2006-08-25 09:25**: chore: format code style and clean up redundant variables
