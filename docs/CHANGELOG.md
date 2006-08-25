@@ -1,4 +1,3 @@
-- **2006-07-13 18:20**: chore: update project metadata and build configuration
 - **2006-07-14 14:27**: docs: add instructions for Nepali driving license written exam
 - **2006-07-14 19:28**: style: enhance traffic sign card layout and responsiveness
 - **2006-07-15 12:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2006-08-24 20:03**: chore: update questions database with recent DOTM updates
 - **2006-08-25 09:25**: chore: format code style and clean up redundant variables
 - **2006-08-25 13:16**: docs: update README with setup instructions and feature list
+- **2006-08-25 16:09**: refactor: modularize traffic app logic and event listeners
