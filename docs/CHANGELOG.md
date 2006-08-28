@@ -1,4 +1,3 @@
-- **2006-07-15 14:40**: perf: optimize image caching for traffic sign assets
 - **2006-07-15 16:36**: fix: typo in Nepali road safety regulations question
 - **2006-07-15 16:47**: fix: update DOTM Nepal license syllabus questions
 - **2006-07-16 13:21**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-08-26 10:28**: style: enhance traffic sign card layout and responsiveness
 - **2006-08-26 10:46**: feat: add regulatory traffic signs SVG graphics
 - **2006-08-27 21:20**: chore: format code style and clean up redundant variables
+- **2006-08-28 10:02**: test: verify question extraction script against exam PDF
