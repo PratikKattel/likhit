@@ -1,4 +1,3 @@
-- **2006-07-16 14:32**: feat: add warning signs and informational road signs
 - **2006-07-16 15:05**: docs: improve code comments and API documentation
 - **2006-07-16 16:24**: test: verify question extraction script against exam PDF
 - **2006-07-17 18:06**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-08-28 19:14**: chore: update project metadata and build configuration
 - **2006-08-29 11:35**: fix: typo in Nepali road safety regulations question
 - **2006-08-29 12:52**: fix: typo in Nepali road safety regulations question
+- **2006-08-29 14:45**: perf: index question IDs for rapid lookup
