@@ -1,4 +1,3 @@
-- **2006-07-18 10:04**: refactor: modularize traffic app logic and event listeners
 - **2006-07-18 16:02**: docs: update README with setup instructions and feature list
 - **2006-07-18 17:31**: fix: adjust passing score threshold according to new rules
 - **2006-07-18 19:55**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-08-30 15:51**: perf: lazy load signal graphics and question assets
 - **2006-08-31 12:36**: feat: add category A and B traffic test questions
 - **2006-08-31 12:53**: chore: format code style and clean up redundant variables
+- **2006-09-01 15:35**: chore: update questions database with recent DOTM updates
