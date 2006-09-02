@@ -1,4 +1,3 @@
-- **2006-07-18 17:31**: fix: adjust passing score threshold according to new rules
 - **2006-07-18 19:55**: feat: add keyboard navigation shortcuts for question selection
 - **2006-07-19 09:57**: perf: optimize image caching for traffic sign assets
 - **2006-07-19 15:25**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-08-31 12:53**: chore: format code style and clean up redundant variables
 - **2006-09-01 15:35**: chore: update questions database with recent DOTM updates
 - **2006-09-02 10:15**: style: enhance traffic sign card layout and responsiveness
+- **2006-09-02 14:29**: docs: improve code comments and API documentation
