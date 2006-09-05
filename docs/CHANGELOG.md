@@ -1,4 +1,3 @@
-- **2006-07-21 11:21**: perf: lazy load signal graphics and question assets
 - **2006-07-22 10:30**: chore: format code style and clean up redundant variables
 - **2006-07-22 16:22**: feat: add result summary with passing threshold analysis
 - **2006-07-22 17:33**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-09-03 14:50**: docs: add instructions for Nepali driving license written exam
 - **2006-09-04 13:37**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-05 09:32**: chore: update questions database with recent DOTM updates
+- **2006-09-05 12:15**: perf: optimize image caching for traffic sign assets
