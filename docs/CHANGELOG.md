@@ -1,4 +1,3 @@
-- **2006-07-23 21:38**: refactor: restructure question data schema for faster loading
 - **2006-07-24 14:42**: docs: update README with setup instructions and feature list
 - **2006-07-25 13:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-07-26 09:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-09-06 22:27**: feat: add regulatory traffic signs SVG graphics
 - **2006-09-07 10:04**: feat: add search and filter by sign category
 - **2006-09-07 14:33**: feat: add warning signs and informational road signs
+- **2006-09-07 17:29**: style: polish typography and Nepali Unicode font rendering
