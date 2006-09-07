@@ -1,4 +1,3 @@
-- **2006-07-22 17:33**: chore: organize assets and image directory structure
 - **2006-07-22 18:06**: feat: support multiple choice questions for motorcycle category
 - **2006-07-23 21:38**: refactor: restructure question data schema for faster loading
 - **2006-07-24 14:42**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-09-05 12:15**: perf: optimize image caching for traffic sign assets
 - **2006-09-06 18:59**: feat: add result summary with passing threshold analysis
 - **2006-09-06 22:27**: feat: add regulatory traffic signs SVG graphics
+- **2006-09-07 10:04**: feat: add search and filter by sign category
