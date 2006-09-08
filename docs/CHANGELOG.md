@@ -1,4 +1,3 @@
-- **2006-07-26 09:48**: docs: update README with setup instructions and feature list
 - **2006-07-27 21:17**: style: enhance traffic sign card layout and responsiveness
 - **2006-07-28 12:24**: fix: typo in Nepali road safety regulations question
 - **2006-07-28 14:17**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-09-07 17:29**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-07 17:31**: perf: index question IDs for rapid lookup
 - **2006-09-08 18:28**: chore: update project metadata and build configuration
+- **2006-09-08 19:42**: style: improve dark/light mode and mobile UI responsiveness
