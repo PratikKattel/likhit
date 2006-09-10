@@ -1,4 +1,3 @@
-- **2006-07-28 12:24**: fix: typo in Nepali road safety regulations question
 - **2006-07-28 14:17**: chore: organize assets and image directory structure
 - **2006-07-28 19:51**: style: polish typography and Nepali Unicode font rendering
 - **2006-07-29 09:30**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-09-08 18:28**: chore: update project metadata and build configuration
 - **2006-09-08 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-09-09 09:12**: perf: optimize image caching for traffic sign assets
+- **2006-09-10 15:17**: perf: index question IDs for rapid lookup
