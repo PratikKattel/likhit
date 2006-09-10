@@ -1,4 +1,3 @@
-- **2006-07-28 19:51**: style: polish typography and Nepali Unicode font rendering
 - **2006-07-29 09:30**: fix: update DOTM Nepal license syllabus questions
 - **2006-07-29 20:11**: fix: adjust passing score threshold according to new rules
 - **2006-07-30 12:54**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-09-09 09:12**: perf: optimize image caching for traffic sign assets
 - **2006-09-10 15:17**: perf: index question IDs for rapid lookup
 - **2006-09-10 18:09**: style: polish typography and Nepali Unicode font rendering
+- **2006-09-10 21:29**: fix: correct color specifications for mandatory traffic signs
