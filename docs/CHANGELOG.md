@@ -1,4 +1,3 @@
-- **2006-07-31 22:14**: feat: implement timer and score calculation for mock test
 - **2006-08-01 12:28**: feat: add search and filter by sign category
 - **2006-08-02 11:01**: fix: correct color specifications for mandatory traffic signs
 - **2006-08-02 16:22**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-09-12 09:24**: chore: update project metadata and build configuration
 - **2006-09-12 09:42**: fix: prevent option re-selection after submitting answer
 - **2006-09-12 16:44**: perf: optimize image caching for traffic sign assets
+- **2006-09-12 18:00**: fix: resolve layout shift during question transitions
