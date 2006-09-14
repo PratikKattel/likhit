@@ -1,4 +1,3 @@
-- **2006-08-02 11:01**: fix: correct color specifications for mandatory traffic signs
 - **2006-08-02 16:22**: feat: add category A and B traffic test questions
 - **2006-08-02 21:18**: fix: typo in Nepali road safety regulations question
 - **2006-08-03 10:56**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-09-12 16:44**: perf: optimize image caching for traffic sign assets
 - **2006-09-12 18:00**: fix: resolve layout shift during question transitions
 - **2006-09-13 10:10**: docs: improve code comments and API documentation
+- **2006-09-14 13:04**: docs: add instructions for Nepali driving license written exam
