@@ -1,4 +1,3 @@
-- **2006-08-04 11:35**: chore: update questions database with recent DOTM updates
 - **2006-08-05 16:28**: refactor: optimize SVG rendering for road signs
 - **2006-08-05 21:55**: refactor: optimize SVG rendering for road signs
 - **2006-08-06 15:45**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-09-15 11:59**: test: verify question extraction script against exam PDF
 - **2006-09-15 17:49**: docs: update README with setup instructions and feature list
 - **2006-09-15 19:00**: feat: add category-specific practice modes
+- **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
