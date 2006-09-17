@@ -1,4 +1,3 @@
-- **2006-08-05 16:28**: refactor: optimize SVG rendering for road signs
 - **2006-08-05 21:55**: refactor: optimize SVG rendering for road signs
 - **2006-08-06 15:45**: docs: update README with setup instructions and feature list
 - **2006-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-09-15 17:49**: docs: update README with setup instructions and feature list
 - **2006-09-15 19:00**: feat: add category-specific practice modes
 - **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
+- **2006-09-17 09:21**: feat: add regulatory traffic signs SVG graphics
