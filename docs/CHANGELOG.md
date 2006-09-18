@@ -1,4 +1,3 @@
-- **2006-08-06 15:45**: docs: update README with setup instructions and feature list
 - **2006-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
 - **2006-08-06 18:09**: feat: implement timer and score calculation for mock test
 - **2006-08-07 18:21**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
 - **2006-09-17 09:21**: feat: add regulatory traffic signs SVG graphics
 - **2006-09-17 18:43**: test: verify question extraction script against exam PDF
+- **2006-09-18 19:42**: feat: add regulatory traffic signs SVG graphics
