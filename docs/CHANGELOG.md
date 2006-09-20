@@ -1,4 +1,3 @@
-- **2006-08-08 13:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-08-08 18:22**: perf: lazy load signal graphics and question assets
 - **2006-08-09 15:22**: style: polish typography and Nepali Unicode font rendering
 - **2006-08-09 16:51**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2006-09-19 14:01**: fix: typo in Nepali road safety regulations question
 - **2006-09-19 20:33**: docs: improve code comments and API documentation
 - **2006-09-20 14:23**: style: polish typography and Nepali Unicode font rendering
+- **2006-09-20 17:06**: chore: update questions database with recent DOTM updates
