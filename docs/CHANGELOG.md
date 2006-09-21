@@ -1,4 +1,3 @@
-- **2006-08-08 18:22**: perf: lazy load signal graphics and question assets
 - **2006-08-09 15:22**: style: polish typography and Nepali Unicode font rendering
 - **2006-08-09 16:51**: docs: improve code comments and API documentation
 - **2006-08-09 22:17**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-09-19 20:33**: docs: improve code comments and API documentation
 - **2006-09-20 14:23**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-20 17:06**: chore: update questions database with recent DOTM updates
+- **2006-09-21 12:15**: chore: update project metadata and build configuration
