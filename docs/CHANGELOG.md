@@ -1,4 +1,3 @@
-- **2006-08-09 22:17**: feat: add keyboard navigation shortcuts for question selection
 - **2006-08-10 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2006-08-11 19:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-08-12 13:47**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-09-21 12:15**: chore: update project metadata and build configuration
 - **2006-09-21 20:08**: fix: adjust passing score threshold according to new rules
 - **2006-09-22 09:00**: chore: format code style and clean up redundant variables
+- **2006-09-22 09:04**: feat: add category-specific practice modes
