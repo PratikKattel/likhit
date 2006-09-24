@@ -1,4 +1,3 @@
-- **2006-08-13 22:14**: chore: format code style and clean up redundant variables
 - **2006-08-14 11:49**: fix: resolve layout shift during question transitions
 - **2006-08-15 09:30**: chore: organize assets and image directory structure
 - **2006-08-15 12:03**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-09-22 17:18**: docs: update README with setup instructions and feature list
 - **2006-09-23 13:56**: chore: format code style and clean up redundant variables
 - **2006-09-23 16:32**: feat: add keyboard navigation shortcuts for question selection
+- **2006-09-24 16:38**: feat: add category A and B traffic test questions
