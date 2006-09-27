@@ -1,4 +1,3 @@
-- **2006-08-17 13:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-08-17 17:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-08-18 09:51**: feat: add category A and B traffic test questions
 - **2006-08-18 11:13**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-09-25 14:17**: refactor: optimize SVG rendering for road signs
 - **2006-09-25 22:24**: fix: typo in Nepali road safety regulations question
 - **2006-09-26 14:15**: docs: update traffic signals catalog documentation
+- **2006-09-27 19:01**: feat: add category-specific practice modes
