@@ -1,4 +1,3 @@
-- **2006-08-18 11:13**: fix: prevent option re-selection after submitting answer
 - **2006-08-18 20:13**: fix: resolve layout shift during question transitions
 - **2006-08-19 19:04**: docs: improve code comments and API documentation
 - **2006-08-20 15:40**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-09-27 19:01**: feat: add category-specific practice modes
 - **2006-09-28 10:41**: feat: add category A and B traffic test questions
 - **2006-09-28 16:05**: feat: add search and filter by sign category
+- **2006-09-29 13:39**: refactor: modularize traffic app logic and event listeners
