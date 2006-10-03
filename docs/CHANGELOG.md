@@ -1,4 +1,3 @@
-- **2006-08-21 19:36**: chore: update questions database with recent DOTM updates
 - **2006-08-22 16:54**: perf: index question IDs for rapid lookup
 - **2006-08-23 12:26**: docs: add instructions for Nepali driving license written exam
 - **2006-08-23 14:21**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2006-10-01 18:32**: feat: add result summary with passing threshold analysis
 - **2006-10-02 09:02**: chore: organize assets and image directory structure
 - **2006-10-02 21:51**: fix: typo in Nepali road safety regulations question
+- **2006-10-03 21:21**: refactor: optimize SVG rendering for road signs
