@@ -1,4 +1,3 @@
-- **2006-08-25 09:25**: chore: format code style and clean up redundant variables
 - **2006-08-25 13:16**: docs: update README with setup instructions and feature list
 - **2006-08-25 16:09**: refactor: modularize traffic app logic and event listeners
 - **2006-08-26 10:28**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-10-04 09:35**: docs: add instructions for Nepali driving license written exam
 - **2006-10-04 13:42**: fix: prevent option re-selection after submitting answer
 - **2006-10-04 18:54**: fix: adjust passing score threshold according to new rules
+- **2006-10-04 20:36**: chore: organize assets and image directory structure
