@@ -1,4 +1,3 @@
-- **2006-08-23 12:26**: docs: add instructions for Nepali driving license written exam
 - **2006-08-23 14:21**: feat: add result summary with passing threshold analysis
 - **2006-08-24 20:03**: chore: update questions database with recent DOTM updates
 - **2006-08-25 09:25**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-10-02 21:51**: fix: typo in Nepali road safety regulations question
 - **2006-10-03 21:21**: refactor: optimize SVG rendering for road signs
 - **2006-10-03 21:25**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-10-04 09:35**: docs: add instructions for Nepali driving license written exam
