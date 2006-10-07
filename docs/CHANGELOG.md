@@ -1,4 +1,3 @@
-- **2006-08-26 10:46**: feat: add regulatory traffic signs SVG graphics
 - **2006-08-27 21:20**: chore: format code style and clean up redundant variables
 - **2006-08-28 10:02**: test: verify question extraction script against exam PDF
 - **2006-08-28 19:14**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-10-05 17:04**: feat: add regulatory traffic signs SVG graphics
 - **2006-10-06 13:23**: refactor: modularize traffic app logic and event listeners
 - **2006-10-07 12:39**: feat: support multiple choice questions for motorcycle category
+- **2006-10-07 21:08**: docs: add instructions for Nepali driving license written exam
