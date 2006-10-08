@@ -1,4 +1,3 @@
-- **2006-08-28 10:02**: test: verify question extraction script against exam PDF
 - **2006-08-28 19:14**: chore: update project metadata and build configuration
 - **2006-08-29 11:35**: fix: typo in Nepali road safety regulations question
 - **2006-08-29 12:52**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-10-07 12:39**: feat: support multiple choice questions for motorcycle category
 - **2006-10-07 21:08**: docs: add instructions for Nepali driving license written exam
 - **2006-10-08 20:34**: feat: add regulatory traffic signs SVG graphics
+- **2006-10-08 22:19**: chore: organize assets and image directory structure
