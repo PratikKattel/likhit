@@ -1,4 +1,3 @@
-- **2006-08-29 14:45**: perf: index question IDs for rapid lookup
 - **2006-08-30 15:51**: perf: lazy load signal graphics and question assets
 - **2006-08-31 12:36**: feat: add category A and B traffic test questions
 - **2006-08-31 12:53**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-10-09 13:27**: fix: update DOTM Nepal license syllabus questions
 - **2006-10-09 21:36**: chore: update project metadata and build configuration
 - **2006-10-10 09:10**: perf: lazy load signal graphics and question assets
+- **2006-10-10 10:00**: docs: update traffic signals catalog documentation
