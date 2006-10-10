@@ -1,4 +1,3 @@
-- **2006-08-31 12:36**: feat: add category A and B traffic test questions
 - **2006-08-31 12:53**: chore: format code style and clean up redundant variables
 - **2006-09-01 15:35**: chore: update questions database with recent DOTM updates
 - **2006-09-02 10:15**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-10-10 09:10**: perf: lazy load signal graphics and question assets
 - **2006-10-10 10:00**: docs: update traffic signals catalog documentation
 - **2006-10-10 18:08**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-10-10 20:53**: docs: update README with setup instructions and feature list
