@@ -1,4 +1,3 @@
-- **2006-09-05 09:32**: chore: update questions database with recent DOTM updates
 - **2006-09-05 12:15**: perf: optimize image caching for traffic sign assets
 - **2006-09-06 18:59**: feat: add result summary with passing threshold analysis
 - **2006-09-06 22:27**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-10-13 20:46**: feat: add instant feedback and explanation on answer selection
 - **2006-10-14 11:15**: chore: format code style and clean up redundant variables
 - **2006-10-15 09:48**: test: verify question extraction script against exam PDF
+- **2006-10-15 14:17**: feat: support multiple choice questions for motorcycle category
