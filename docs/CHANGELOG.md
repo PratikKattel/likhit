@@ -1,4 +1,3 @@
-- **2006-09-06 22:27**: feat: add regulatory traffic signs SVG graphics
 - **2006-09-07 10:04**: feat: add search and filter by sign category
 - **2006-09-07 14:33**: feat: add warning signs and informational road signs
 - **2006-09-07 17:29**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-10-15 14:17**: feat: support multiple choice questions for motorcycle category
 - **2006-10-15 15:22**: fix: update DOTM Nepal license syllabus questions
 - **2006-10-15 15:26**: fix: adjust passing score threshold according to new rules
+- **2006-10-16 19:14**: feat: add category-specific practice modes
