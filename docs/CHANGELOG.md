@@ -1,4 +1,3 @@
-- **2006-09-07 17:29**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-07 17:31**: perf: index question IDs for rapid lookup
 - **2006-09-08 18:28**: chore: update project metadata and build configuration
 - **2006-09-08 19:42**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2006-10-16 19:14**: feat: add category-specific practice modes
 - **2006-10-17 12:12**: chore: update project metadata and build configuration
 - **2006-10-17 15:23**: chore: update questions database with recent DOTM updates
+- **2006-10-18 14:53**: feat: add keyboard navigation shortcuts for question selection
