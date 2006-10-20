@@ -1,4 +1,3 @@
-- **2006-09-08 18:28**: chore: update project metadata and build configuration
 - **2006-09-08 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-09-09 09:12**: perf: optimize image caching for traffic sign assets
 - **2006-09-10 15:17**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2006-10-17 15:23**: chore: update questions database with recent DOTM updates
 - **2006-10-18 14:53**: feat: add keyboard navigation shortcuts for question selection
 - **2006-10-19 11:14**: fix: adjust passing score threshold according to new rules
+- **2006-10-20 17:19**: refactor: restructure question data schema for faster loading
