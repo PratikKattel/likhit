@@ -1,4 +1,3 @@
-- **2006-09-09 09:12**: perf: optimize image caching for traffic sign assets
 - **2006-09-10 15:17**: perf: index question IDs for rapid lookup
 - **2006-09-10 18:09**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-10 21:29**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2006-10-19 11:14**: fix: adjust passing score threshold according to new rules
 - **2006-10-20 17:19**: refactor: restructure question data schema for faster loading
 - **2006-10-21 15:17**: fix: correct color specifications for mandatory traffic signs
+- **2006-10-22 18:04**: refactor: clean up unused CSS classes and optimize stylesheet
