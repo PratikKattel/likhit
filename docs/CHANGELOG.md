@@ -1,4 +1,3 @@
-- **2006-09-10 18:09**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-10 21:29**: fix: correct color specifications for mandatory traffic signs
 - **2006-09-11 11:49**: docs: update traffic signals catalog documentation
 - **2006-09-12 09:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-10-21 15:17**: fix: correct color specifications for mandatory traffic signs
 - **2006-10-22 18:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-10-23 10:10**: perf: optimize image caching for traffic sign assets
+- **2006-10-23 14:23**: feat: add keyboard navigation shortcuts for question selection
