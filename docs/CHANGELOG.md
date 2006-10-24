@@ -1,4 +1,3 @@
-- **2006-09-10 21:29**: fix: correct color specifications for mandatory traffic signs
 - **2006-09-11 11:49**: docs: update traffic signals catalog documentation
 - **2006-09-12 09:24**: chore: update project metadata and build configuration
 - **2006-09-12 09:42**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-10-22 18:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-10-23 10:10**: perf: optimize image caching for traffic sign assets
 - **2006-10-23 14:23**: feat: add keyboard navigation shortcuts for question selection
+- **2006-10-24 16:40**: feat: add warning signs and informational road signs
