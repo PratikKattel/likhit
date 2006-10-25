@@ -1,4 +1,3 @@
-- **2006-09-12 16:44**: perf: optimize image caching for traffic sign assets
 - **2006-09-12 18:00**: fix: resolve layout shift during question transitions
 - **2006-09-13 10:10**: docs: improve code comments and API documentation
 - **2006-09-14 13:04**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-10-24 19:03**: docs: add instructions for Nepali driving license written exam
 - **2006-10-25 14:21**: feat: implement timer and score calculation for mock test
 - **2006-10-25 16:45**: feat: add search and filter by sign category
+- **2006-10-25 20:17**: perf: index question IDs for rapid lookup
