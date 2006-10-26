@@ -1,4 +1,3 @@
-- **2006-09-13 10:10**: docs: improve code comments and API documentation
 - **2006-09-14 13:04**: docs: add instructions for Nepali driving license written exam
 - **2006-09-15 11:59**: test: verify question extraction script against exam PDF
 - **2006-09-15 17:49**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-10-25 16:45**: feat: add search and filter by sign category
 - **2006-10-25 20:17**: perf: index question IDs for rapid lookup
 - **2006-10-26 17:17**: feat: implement timer and score calculation for mock test
+- **2006-10-26 19:34**: docs: update traffic signals catalog documentation
