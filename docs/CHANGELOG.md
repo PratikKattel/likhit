@@ -1,4 +1,3 @@
-- **2006-09-15 17:49**: docs: update README with setup instructions and feature list
 - **2006-09-15 19:00**: feat: add category-specific practice modes
 - **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
 - **2006-09-17 09:21**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-10-26 19:34**: docs: update traffic signals catalog documentation
 - **2006-10-26 21:20**: fix: correct color specifications for mandatory traffic signs
 - **2006-10-27 10:34**: fix: correct color specifications for mandatory traffic signs
+- **2006-10-27 20:55**: style: enhance traffic sign card layout and responsiveness
