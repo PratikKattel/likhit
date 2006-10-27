@@ -1,4 +1,3 @@
-- **2006-09-15 11:59**: test: verify question extraction script against exam PDF
 - **2006-09-15 17:49**: docs: update README with setup instructions and feature list
 - **2006-09-15 19:00**: feat: add category-specific practice modes
 - **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-10-26 17:17**: feat: implement timer and score calculation for mock test
 - **2006-10-26 19:34**: docs: update traffic signals catalog documentation
 - **2006-10-26 21:20**: fix: correct color specifications for mandatory traffic signs
+- **2006-10-27 10:34**: fix: correct color specifications for mandatory traffic signs
