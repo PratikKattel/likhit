@@ -1,4 +1,3 @@
-- **2006-09-16 20:38**: fix: typo in Nepali road safety regulations question
 - **2006-09-17 09:21**: feat: add regulatory traffic signs SVG graphics
 - **2006-09-17 18:43**: test: verify question extraction script against exam PDF
 - **2006-09-18 19:42**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-10-27 10:34**: fix: correct color specifications for mandatory traffic signs
 - **2006-10-27 20:55**: style: enhance traffic sign card layout and responsiveness
 - **2006-10-28 13:43**: fix: prevent option re-selection after submitting answer
+- **2006-10-28 15:51**: feat: add instant feedback and explanation on answer selection
