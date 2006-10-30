@@ -1,4 +1,3 @@
-- **2006-09-18 19:42**: feat: add regulatory traffic signs SVG graphics
 - **2006-09-19 14:01**: fix: typo in Nepali road safety regulations question
 - **2006-09-19 20:33**: docs: improve code comments and API documentation
 - **2006-09-20 14:23**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-10-28 15:51**: feat: add instant feedback and explanation on answer selection
 - **2006-10-28 17:12**: style: enhance traffic sign card layout and responsiveness
 - **2006-10-29 18:43**: fix: adjust passing score threshold according to new rules
+- **2006-10-30 10:05**: test: verify question extraction script against exam PDF
