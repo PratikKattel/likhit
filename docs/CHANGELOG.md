@@ -1,4 +1,3 @@
-- **2006-09-20 14:23**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-20 17:06**: chore: update questions database with recent DOTM updates
 - **2006-09-21 12:15**: chore: update project metadata and build configuration
 - **2006-09-21 20:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-10-30 10:05**: test: verify question extraction script against exam PDF
 - **2006-10-30 10:44**: docs: update README with setup instructions and feature list
 - **2006-10-31 13:09**: feat: add regulatory traffic signs SVG graphics
+- **2006-10-31 13:59**: perf: index question IDs for rapid lookup
