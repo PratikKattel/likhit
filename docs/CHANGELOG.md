@@ -1,4 +1,3 @@
-- **2006-09-21 12:15**: chore: update project metadata and build configuration
 - **2006-09-21 20:08**: fix: adjust passing score threshold according to new rules
 - **2006-09-22 09:00**: chore: format code style and clean up redundant variables
 - **2006-09-22 09:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-10-31 13:09**: feat: add regulatory traffic signs SVG graphics
 - **2006-10-31 13:59**: perf: index question IDs for rapid lookup
 - **2006-10-31 16:29**: chore: update project metadata and build configuration
+- **2006-11-01 13:53**: docs: update README with setup instructions and feature list
