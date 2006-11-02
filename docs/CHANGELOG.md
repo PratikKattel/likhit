@@ -1,4 +1,3 @@
-- **2006-09-22 09:04**: feat: add category-specific practice modes
 - **2006-09-22 15:08**: docs: improve code comments and API documentation
 - **2006-09-22 17:18**: docs: update README with setup instructions and feature list
 - **2006-09-23 13:56**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-11-01 13:53**: docs: update README with setup instructions and feature list
 - **2006-11-01 20:24**: fix: typo in Nepali road safety regulations question
 - **2006-11-02 13:34**: fix: adjust passing score threshold according to new rules
+- **2006-11-02 20:23**: fix: prevent option re-selection after submitting answer
