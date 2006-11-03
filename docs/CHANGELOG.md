@@ -1,4 +1,3 @@
-- **2006-09-22 17:18**: docs: update README with setup instructions and feature list
 - **2006-09-23 13:56**: chore: format code style and clean up redundant variables
 - **2006-09-23 16:32**: feat: add keyboard navigation shortcuts for question selection
 - **2006-09-24 16:38**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-11-02 13:34**: fix: adjust passing score threshold according to new rules
 - **2006-11-02 20:23**: fix: prevent option re-selection after submitting answer
 - **2006-11-02 21:44**: docs: add instructions for Nepali driving license written exam
+- **2006-11-03 17:51**: refactor: optimize SVG rendering for road signs
