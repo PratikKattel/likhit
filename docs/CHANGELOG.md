@@ -1,4 +1,3 @@
-- **2006-09-23 16:32**: feat: add keyboard navigation shortcuts for question selection
 - **2006-09-24 16:38**: feat: add category A and B traffic test questions
 - **2006-09-24 20:15**: chore: format code style and clean up redundant variables
 - **2006-09-25 09:13**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2006-11-02 21:44**: docs: add instructions for Nepali driving license written exam
 - **2006-11-03 17:51**: refactor: optimize SVG rendering for road signs
 - **2006-11-04 10:15**: feat: support multiple choice questions for motorcycle category
+- **2006-11-05 18:27**: chore: organize assets and image directory structure
