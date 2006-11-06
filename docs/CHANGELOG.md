@@ -1,4 +1,3 @@
-- **2006-09-24 16:38**: feat: add category A and B traffic test questions
 - **2006-09-24 20:15**: chore: format code style and clean up redundant variables
 - **2006-09-25 09:13**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-25 10:28**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2006-11-03 17:51**: refactor: optimize SVG rendering for road signs
 - **2006-11-04 10:15**: feat: support multiple choice questions for motorcycle category
 - **2006-11-05 18:27**: chore: organize assets and image directory structure
+- **2006-11-06 20:09**: fix: prevent option re-selection after submitting answer
