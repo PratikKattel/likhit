@@ -1,4 +1,3 @@
-- **2006-09-25 09:13**: style: polish typography and Nepali Unicode font rendering
 - **2006-09-25 10:28**: refactor: optimize SVG rendering for road signs
 - **2006-09-25 14:17**: refactor: optimize SVG rendering for road signs
 - **2006-09-25 22:24**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2006-11-05 18:27**: chore: organize assets and image directory structure
 - **2006-11-06 20:09**: fix: prevent option re-selection after submitting answer
 - **2006-11-06 20:24**: perf: index question IDs for rapid lookup
+- **2006-11-07 13:25**: fix: update DOTM Nepal license syllabus questions
