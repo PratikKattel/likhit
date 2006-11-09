@@ -1,4 +1,3 @@
-- **2006-09-26 14:15**: docs: update traffic signals catalog documentation
 - **2006-09-27 19:01**: feat: add category-specific practice modes
 - **2006-09-28 10:41**: feat: add category A and B traffic test questions
 - **2006-09-28 16:05**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2006-11-07 22:25**: docs: update README with setup instructions and feature list
 - **2006-11-08 11:06**: chore: organize assets and image directory structure
 - **2006-11-08 11:56**: perf: lazy load signal graphics and question assets
+- **2006-11-09 10:13**: refactor: restructure question data schema for faster loading
