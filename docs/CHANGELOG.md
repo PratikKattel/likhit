@@ -1,4 +1,3 @@
-- **2006-10-01 18:32**: feat: add result summary with passing threshold analysis
 - **2006-10-02 09:02**: chore: organize assets and image directory structure
 - **2006-10-02 21:51**: fix: typo in Nepali road safety regulations question
 - **2006-10-03 21:21**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2006-11-10 09:28**: feat: add regulatory traffic signs SVG graphics
 - **2006-11-10 11:11**: style: enhance traffic sign card layout and responsiveness
 - **2006-11-11 12:08**: feat: add category A and B traffic test questions
+- **2006-11-11 14:18**: perf: index question IDs for rapid lookup
