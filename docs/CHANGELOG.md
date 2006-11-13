@@ -1,4 +1,3 @@
-- **2006-10-03 21:21**: refactor: optimize SVG rendering for road signs
 - **2006-10-03 21:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-10-04 09:35**: docs: add instructions for Nepali driving license written exam
 - **2006-10-04 13:42**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2006-11-11 14:18**: perf: index question IDs for rapid lookup
 - **2006-11-12 14:13**: feat: add result summary with passing threshold analysis
 - **2006-11-12 14:33**: style: enhance traffic sign card layout and responsiveness
+- **2006-11-13 09:34**: docs: add instructions for Nepali driving license written exam
