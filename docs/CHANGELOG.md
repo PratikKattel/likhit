@@ -1,4 +1,3 @@
-- **2006-10-04 13:42**: fix: prevent option re-selection after submitting answer
 - **2006-10-04 18:54**: fix: adjust passing score threshold according to new rules
 - **2006-10-04 20:36**: chore: organize assets and image directory structure
 - **2006-10-05 17:04**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-11-13 09:34**: docs: add instructions for Nepali driving license written exam
 - **2006-11-13 12:38**: feat: add category-specific practice modes
 - **2006-11-13 18:49**: refactor: optimize SVG rendering for road signs
+- **2006-11-14 13:48**: fix: correct color specifications for mandatory traffic signs
