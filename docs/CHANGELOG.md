@@ -1,4 +1,3 @@
-- **2006-10-04 20:36**: chore: organize assets and image directory structure
 - **2006-10-05 17:04**: feat: add regulatory traffic signs SVG graphics
 - **2006-10-06 13:23**: refactor: modularize traffic app logic and event listeners
 - **2006-10-07 12:39**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2006-11-13 18:49**: refactor: optimize SVG rendering for road signs
 - **2006-11-14 13:48**: fix: correct color specifications for mandatory traffic signs
 - **2006-11-14 18:18**: feat: support multiple choice questions for motorcycle category
+- **2006-11-15 20:47**: chore: update questions database with recent DOTM updates
