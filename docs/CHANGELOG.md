@@ -1,4 +1,3 @@
-- **2006-10-07 21:08**: docs: add instructions for Nepali driving license written exam
 - **2006-10-08 20:34**: feat: add regulatory traffic signs SVG graphics
 - **2006-10-08 22:19**: chore: organize assets and image directory structure
 - **2006-10-09 13:27**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-11-16 16:00**: feat: add category-specific practice modes
 - **2006-11-17 11:03**: test: verify question extraction script against exam PDF
 - **2006-11-17 12:16**: fix: resolve layout shift during question transitions
+- **2006-11-18 10:57**: fix: adjust passing score threshold according to new rules
