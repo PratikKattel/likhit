@@ -1,4 +1,3 @@
-- **2006-10-08 22:19**: chore: organize assets and image directory structure
 - **2006-10-09 13:27**: fix: update DOTM Nepal license syllabus questions
 - **2006-10-09 21:36**: chore: update project metadata and build configuration
 - **2006-10-10 09:10**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2006-11-17 12:16**: fix: resolve layout shift during question transitions
 - **2006-11-18 10:57**: fix: adjust passing score threshold according to new rules
 - **2006-11-19 11:31**: chore: organize assets and image directory structure
+- **2006-11-20 09:57**: refactor: restructure question data schema for faster loading
