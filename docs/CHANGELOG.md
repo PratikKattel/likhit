@@ -1,4 +1,3 @@
-- **2006-10-09 21:36**: chore: update project metadata and build configuration
 - **2006-10-10 09:10**: perf: lazy load signal graphics and question assets
 - **2006-10-10 10:00**: docs: update traffic signals catalog documentation
 - **2006-10-10 18:08**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2006-11-19 11:31**: chore: organize assets and image directory structure
 - **2006-11-20 09:57**: refactor: restructure question data schema for faster loading
 - **2006-11-20 15:15**: fix: prevent option re-selection after submitting answer
+- **2006-11-21 09:03**: fix: update DOTM Nepal license syllabus questions
