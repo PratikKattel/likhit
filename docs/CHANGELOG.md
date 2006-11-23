@@ -1,4 +1,3 @@
-- **2006-10-10 18:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-10-10 20:53**: docs: update README with setup instructions and feature list
 - **2006-10-11 19:59**: feat: add result summary with passing threshold analysis
 - **2006-10-12 18:28**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-11-21 09:03**: fix: update DOTM Nepal license syllabus questions
 - **2006-11-22 09:59**: docs: update README with setup instructions and feature list
 - **2006-11-22 16:55**: perf: lazy load signal graphics and question assets
+- **2006-11-23 17:00**: docs: update README with setup instructions and feature list
