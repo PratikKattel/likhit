@@ -1,4 +1,3 @@
-- **2006-10-12 18:28**: feat: implement timer and score calculation for mock test
 - **2006-10-13 14:08**: chore: update project metadata and build configuration
 - **2006-10-13 18:36**: docs: improve code comments and API documentation
 - **2006-10-13 20:46**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2006-11-23 17:00**: docs: update README with setup instructions and feature list
 - **2006-11-23 22:02**: feat: add keyboard navigation shortcuts for question selection
 - **2006-11-23 22:16**: feat: add result summary with passing threshold analysis
+- **2006-11-24 13:02**: fix: update DOTM Nepal license syllabus questions
