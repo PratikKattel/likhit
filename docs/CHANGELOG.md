@@ -1,4 +1,3 @@
-- **2006-10-13 14:08**: chore: update project metadata and build configuration
 - **2006-10-13 18:36**: docs: improve code comments and API documentation
 - **2006-10-13 20:46**: feat: add instant feedback and explanation on answer selection
 - **2006-10-14 11:15**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2006-11-23 22:02**: feat: add keyboard navigation shortcuts for question selection
 - **2006-11-23 22:16**: feat: add result summary with passing threshold analysis
 - **2006-11-24 13:02**: fix: update DOTM Nepal license syllabus questions
+- **2006-11-24 17:27**: feat: add instant feedback and explanation on answer selection
