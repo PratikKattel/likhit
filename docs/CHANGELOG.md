@@ -1,4 +1,3 @@
-- **2006-10-13 20:46**: feat: add instant feedback and explanation on answer selection
 - **2006-10-14 11:15**: chore: format code style and clean up redundant variables
 - **2006-10-15 09:48**: test: verify question extraction script against exam PDF
 - **2006-10-15 14:17**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2006-11-24 13:02**: fix: update DOTM Nepal license syllabus questions
 - **2006-11-24 17:27**: feat: add instant feedback and explanation on answer selection
 - **2006-11-25 13:42**: feat: add category A and B traffic test questions
+- **2006-11-26 15:50**: fix: typo in Nepali road safety regulations question
