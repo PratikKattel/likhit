@@ -1,4 +1,3 @@
-- **2006-10-15 14:17**: feat: support multiple choice questions for motorcycle category
 - **2006-10-15 15:22**: fix: update DOTM Nepal license syllabus questions
 - **2006-10-15 15:26**: fix: adjust passing score threshold according to new rules
 - **2006-10-16 19:14**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-11-26 15:50**: fix: typo in Nepali road safety regulations question
 - **2006-11-26 16:04**: chore: organize assets and image directory structure
 - **2006-11-26 20:22**: docs: improve code comments and API documentation
+- **2006-11-27 10:18**: refactor: optimize SVG rendering for road signs
