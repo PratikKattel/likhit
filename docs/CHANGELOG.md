@@ -1,4 +1,3 @@
-- **2006-10-15 15:26**: fix: adjust passing score threshold according to new rules
 - **2006-10-16 19:14**: feat: add category-specific practice modes
 - **2006-10-17 12:12**: chore: update project metadata and build configuration
 - **2006-10-17 15:23**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-11-26 20:22**: docs: improve code comments and API documentation
 - **2006-11-27 10:18**: refactor: optimize SVG rendering for road signs
 - **2006-11-27 20:38**: refactor: optimize SVG rendering for road signs
+- **2006-11-28 19:11**: test: verify question extraction script against exam PDF
