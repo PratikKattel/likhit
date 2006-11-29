@@ -1,4 +1,3 @@
-- **2006-10-16 19:14**: feat: add category-specific practice modes
 - **2006-10-17 12:12**: chore: update project metadata and build configuration
 - **2006-10-17 15:23**: chore: update questions database with recent DOTM updates
 - **2006-10-18 14:53**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2006-11-27 10:18**: refactor: optimize SVG rendering for road signs
 - **2006-11-27 20:38**: refactor: optimize SVG rendering for road signs
 - **2006-11-28 19:11**: test: verify question extraction script against exam PDF
+- **2006-11-29 09:04**: perf: optimize image caching for traffic sign assets
