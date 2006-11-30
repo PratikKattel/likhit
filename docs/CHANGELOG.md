@@ -1,4 +1,3 @@
-- **2006-10-18 14:53**: feat: add keyboard navigation shortcuts for question selection
 - **2006-10-19 11:14**: fix: adjust passing score threshold according to new rules
 - **2006-10-20 17:19**: refactor: restructure question data schema for faster loading
 - **2006-10-21 15:17**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2006-11-29 09:04**: perf: optimize image caching for traffic sign assets
 - **2006-11-29 14:20**: feat: add result summary with passing threshold analysis
 - **2006-11-30 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2006-11-30 15:23**: feat: support multiple choice questions for motorcycle category
