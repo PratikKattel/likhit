@@ -1,4 +1,3 @@
-- **2006-10-20 17:19**: refactor: restructure question data schema for faster loading
 - **2006-10-21 15:17**: fix: correct color specifications for mandatory traffic signs
 - **2006-10-22 18:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-10-23 10:10**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2006-11-30 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-11-30 15:23**: feat: support multiple choice questions for motorcycle category
 - **2006-12-01 10:42**: perf: optimize image caching for traffic sign assets
+- **2006-12-01 18:52**: fix: typo in Nepali road safety regulations question
