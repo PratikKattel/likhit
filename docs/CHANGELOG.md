@@ -1,4 +1,3 @@
-- **2006-10-23 14:23**: feat: add keyboard navigation shortcuts for question selection
 - **2006-10-24 16:40**: feat: add warning signs and informational road signs
 - **2006-10-24 19:03**: docs: add instructions for Nepali driving license written exam
 - **2006-10-25 14:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-12-02 20:45**: feat: add category-specific practice modes
 - **2006-12-03 21:17**: feat: add result summary with passing threshold analysis
 - **2006-12-03 22:16**: chore: update questions database with recent DOTM updates
+- **2006-12-04 10:39**: chore: update project metadata and build configuration
