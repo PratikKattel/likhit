@@ -1,4 +1,3 @@
-- **2006-10-24 19:03**: docs: add instructions for Nepali driving license written exam
 - **2006-10-25 14:21**: feat: implement timer and score calculation for mock test
 - **2006-10-25 16:45**: feat: add search and filter by sign category
 - **2006-10-25 20:17**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2006-12-03 22:16**: chore: update questions database with recent DOTM updates
 - **2006-12-04 10:39**: chore: update project metadata and build configuration
 - **2006-12-05 11:14**: refactor: restructure question data schema for faster loading
+- **2006-12-06 15:35**: docs: improve code comments and API documentation
