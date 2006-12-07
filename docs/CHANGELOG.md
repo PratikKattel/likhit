@@ -1,4 +1,3 @@
-- **2006-10-25 14:21**: feat: implement timer and score calculation for mock test
 - **2006-10-25 16:45**: feat: add search and filter by sign category
 - **2006-10-25 20:17**: perf: index question IDs for rapid lookup
 - **2006-10-26 17:17**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2006-12-04 10:39**: chore: update project metadata and build configuration
 - **2006-12-05 11:14**: refactor: restructure question data schema for faster loading
 - **2006-12-06 15:35**: docs: improve code comments and API documentation
+- **2006-12-07 13:03**: style: enhance traffic sign card layout and responsiveness
