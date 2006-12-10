@@ -1,4 +1,3 @@
-- **2006-10-28 13:43**: fix: prevent option re-selection after submitting answer
 - **2006-10-28 15:51**: feat: add instant feedback and explanation on answer selection
 - **2006-10-28 17:12**: style: enhance traffic sign card layout and responsiveness
 - **2006-10-29 18:43**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-12-09 09:45**: perf: index question IDs for rapid lookup
 - **2006-12-09 11:51**: feat: add keyboard navigation shortcuts for question selection
 - **2006-12-09 21:25**: perf: index question IDs for rapid lookup
+- **2006-12-10 14:31**: fix: adjust passing score threshold according to new rules
