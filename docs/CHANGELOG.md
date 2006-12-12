@@ -1,4 +1,3 @@
-- **2006-10-29 18:43**: fix: adjust passing score threshold according to new rules
 - **2006-10-30 10:05**: test: verify question extraction script against exam PDF
 - **2006-10-30 10:44**: docs: update README with setup instructions and feature list
 - **2006-10-31 13:09**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2006-12-10 14:31**: fix: adjust passing score threshold according to new rules
 - **2006-12-11 21:13**: feat: add warning signs and informational road signs
 - **2006-12-12 18:04**: perf: optimize image caching for traffic sign assets
+- **2006-12-12 19:03**: docs: update traffic signals catalog documentation
