@@ -1,4 +1,3 @@
-- **2006-10-28 17:12**: style: enhance traffic sign card layout and responsiveness
 - **2006-10-29 18:43**: fix: adjust passing score threshold according to new rules
 - **2006-10-30 10:05**: test: verify question extraction script against exam PDF
 - **2006-10-30 10:44**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2006-12-09 21:25**: perf: index question IDs for rapid lookup
 - **2006-12-10 14:31**: fix: adjust passing score threshold according to new rules
 - **2006-12-11 21:13**: feat: add warning signs and informational road signs
+- **2006-12-12 18:04**: perf: optimize image caching for traffic sign assets
