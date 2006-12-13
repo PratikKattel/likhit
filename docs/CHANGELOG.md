@@ -1,4 +1,3 @@
-- **2006-10-30 10:44**: docs: update README with setup instructions and feature list
 - **2006-10-31 13:09**: feat: add regulatory traffic signs SVG graphics
 - **2006-10-31 13:59**: perf: index question IDs for rapid lookup
 - **2006-10-31 16:29**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2006-12-12 18:04**: perf: optimize image caching for traffic sign assets
 - **2006-12-12 19:03**: docs: update traffic signals catalog documentation
 - **2006-12-13 15:05**: feat: implement timer and score calculation for mock test
+- **2006-12-13 17:09**: feat: add instant feedback and explanation on answer selection
