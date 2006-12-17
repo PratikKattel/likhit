@@ -1,4 +1,3 @@
-- **2006-11-01 20:24**: fix: typo in Nepali road safety regulations question
 - **2006-11-02 13:34**: fix: adjust passing score threshold according to new rules
 - **2006-11-02 20:23**: fix: prevent option re-selection after submitting answer
 - **2006-11-02 21:44**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2006-12-15 09:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-12-16 19:48**: refactor: modularize traffic app logic and event listeners
 - **2006-12-16 22:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-12-17 17:21**: fix: resolve layout shift during question transitions
