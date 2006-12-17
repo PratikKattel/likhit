@@ -1,4 +1,3 @@
-- **2006-11-02 13:34**: fix: adjust passing score threshold according to new rules
 - **2006-11-02 20:23**: fix: prevent option re-selection after submitting answer
 - **2006-11-02 21:44**: docs: add instructions for Nepali driving license written exam
 - **2006-11-03 17:51**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2006-12-16 19:48**: refactor: modularize traffic app logic and event listeners
 - **2006-12-16 22:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-17 17:21**: fix: resolve layout shift during question transitions
+- **2006-12-17 21:18**: docs: update README with setup instructions and feature list
