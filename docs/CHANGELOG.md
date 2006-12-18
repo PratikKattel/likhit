@@ -1,4 +1,3 @@
-- **2006-11-02 21:44**: docs: add instructions for Nepali driving license written exam
 - **2006-11-03 17:51**: refactor: optimize SVG rendering for road signs
 - **2006-11-04 10:15**: feat: support multiple choice questions for motorcycle category
 - **2006-11-05 18:27**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-12-17 17:21**: fix: resolve layout shift during question transitions
 - **2006-12-17 21:18**: docs: update README with setup instructions and feature list
 - **2006-12-18 14:39**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-12-18 20:35**: feat: add category-specific practice modes
