@@ -1,4 +1,3 @@
-- **2006-11-05 18:27**: chore: organize assets and image directory structure
 - **2006-11-06 20:09**: fix: prevent option re-selection after submitting answer
 - **2006-11-06 20:24**: perf: index question IDs for rapid lookup
 - **2006-11-07 13:25**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2006-12-18 20:35**: feat: add category-specific practice modes
 - **2006-12-19 12:00**: fix: typo in Nepali road safety regulations question
 - **2006-12-19 15:09**: perf: lazy load signal graphics and question assets
+- **2006-12-19 17:03**: feat: add regulatory traffic signs SVG graphics
