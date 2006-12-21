@@ -1,4 +1,3 @@
-- **2006-11-06 20:24**: perf: index question IDs for rapid lookup
 - **2006-11-07 13:25**: fix: update DOTM Nepal license syllabus questions
 - **2006-11-07 22:25**: docs: update README with setup instructions and feature list
 - **2006-11-08 11:06**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2006-12-19 15:09**: perf: lazy load signal graphics and question assets
 - **2006-12-19 17:03**: feat: add regulatory traffic signs SVG graphics
 - **2006-12-20 21:08**: chore: organize assets and image directory structure
+- **2006-12-21 09:46**: feat: add instant feedback and explanation on answer selection
