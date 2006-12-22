@@ -1,4 +1,3 @@
-- **2006-11-08 11:06**: chore: organize assets and image directory structure
 - **2006-11-08 11:56**: perf: lazy load signal graphics and question assets
 - **2006-11-09 10:13**: refactor: restructure question data schema for faster loading
 - **2006-11-09 17:19**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-12-21 09:46**: feat: add instant feedback and explanation on answer selection
 - **2006-12-21 22:25**: style: polish typography and Nepali Unicode font rendering
 - **2006-12-22 13:25**: docs: update README with setup instructions and feature list
+- **2006-12-22 18:56**: chore: update questions database with recent DOTM updates
