@@ -1,4 +1,3 @@
-- **2006-11-09 18:27**: refactor: optimize SVG rendering for road signs
 - **2006-11-10 09:28**: feat: add regulatory traffic signs SVG graphics
 - **2006-11-10 11:11**: style: enhance traffic sign card layout and responsiveness
 - **2006-11-11 12:08**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2006-12-22 20:25**: fix: resolve layout shift during question transitions
 - **2006-12-23 12:49**: fix: adjust passing score threshold according to new rules
 - **2006-12-23 17:38**: style: improve dark/light mode and mobile UI responsiveness
+- **2006-12-24 09:58**: test: verify question extraction script against exam PDF
