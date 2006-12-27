@@ -1,4 +1,3 @@
-- **2006-11-11 12:08**: feat: add category A and B traffic test questions
 - **2006-11-11 14:18**: perf: index question IDs for rapid lookup
 - **2006-11-12 14:13**: feat: add result summary with passing threshold analysis
 - **2006-11-12 14:33**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2006-12-24 09:58**: test: verify question extraction script against exam PDF
 - **2006-12-25 21:07**: feat: add category-specific practice modes
 - **2006-12-26 11:47**: feat: support multiple choice questions for motorcycle category
+- **2006-12-27 18:34**: chore: organize assets and image directory structure
