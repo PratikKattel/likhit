@@ -1,4 +1,3 @@
-- **2006-11-12 14:13**: feat: add result summary with passing threshold analysis
 - **2006-11-12 14:33**: style: enhance traffic sign card layout and responsiveness
 - **2006-11-13 09:34**: docs: add instructions for Nepali driving license written exam
 - **2006-11-13 12:38**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2006-12-26 11:47**: feat: support multiple choice questions for motorcycle category
 - **2006-12-27 18:34**: chore: organize assets and image directory structure
 - **2006-12-28 15:37**: style: enhance traffic sign card layout and responsiveness
+- **2006-12-29 14:13**: docs: add instructions for Nepali driving license written exam
