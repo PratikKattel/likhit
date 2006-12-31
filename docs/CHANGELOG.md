@@ -1,4 +1,3 @@
-- **2006-11-13 18:49**: refactor: optimize SVG rendering for road signs
 - **2006-11-14 13:48**: fix: correct color specifications for mandatory traffic signs
 - **2006-11-14 18:18**: feat: support multiple choice questions for motorcycle category
 - **2006-11-15 20:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2006-12-29 22:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-30 09:26**: refactor: restructure question data schema for faster loading
 - **2006-12-30 17:05**: feat: add keyboard navigation shortcuts for question selection
+- **2006-12-31 19:30**: feat: add result summary with passing threshold analysis
