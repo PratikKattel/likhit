@@ -1,4 +1,3 @@
-- **2006-11-14 18:18**: feat: support multiple choice questions for motorcycle category
 - **2006-11-15 20:47**: chore: update questions database with recent DOTM updates
 - **2006-11-16 16:00**: feat: add category-specific practice modes
 - **2006-11-17 11:03**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2006-12-30 17:05**: feat: add keyboard navigation shortcuts for question selection
 - **2006-12-31 19:30**: feat: add result summary with passing threshold analysis
 - **2006-12-31 20:43**: feat: add search and filter by sign category
+- **2007-01-01 15:46**: perf: optimize image caching for traffic sign assets
