@@ -1,4 +1,3 @@
-- **2006-11-16 16:00**: feat: add category-specific practice modes
 - **2006-11-17 11:03**: test: verify question extraction script against exam PDF
 - **2006-11-17 12:16**: fix: resolve layout shift during question transitions
 - **2006-11-18 10:57**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2006-12-31 20:43**: feat: add search and filter by sign category
 - **2007-01-01 15:46**: perf: optimize image caching for traffic sign assets
 - **2007-01-01 20:39**: test: verify question extraction script against exam PDF
+- **2007-01-02 09:45**: refactor: modularize traffic app logic and event listeners
