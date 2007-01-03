@@ -1,4 +1,3 @@
-- **2006-11-18 10:57**: fix: adjust passing score threshold according to new rules
 - **2006-11-19 11:31**: chore: organize assets and image directory structure
 - **2006-11-20 09:57**: refactor: restructure question data schema for faster loading
 - **2006-11-20 15:15**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-01-02 09:45**: refactor: modularize traffic app logic and event listeners
 - **2007-01-02 15:34**: docs: update README with setup instructions and feature list
 - **2007-01-02 17:47**: fix: update DOTM Nepal license syllabus questions
+- **2007-01-03 10:28**: feat: add instant feedback and explanation on answer selection
