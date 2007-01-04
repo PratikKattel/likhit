@@ -1,4 +1,3 @@
-- **2006-11-22 09:59**: docs: update README with setup instructions and feature list
 - **2006-11-22 16:55**: perf: lazy load signal graphics and question assets
 - **2006-11-23 17:00**: docs: update README with setup instructions and feature list
 - **2006-11-23 22:02**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-01-03 18:59**: fix: update DOTM Nepal license syllabus questions
 - **2007-01-04 13:28**: chore: organize assets and image directory structure
 - **2007-01-04 14:20**: docs: update README with setup instructions and feature list
+- **2007-01-04 21:12**: fix: correct color specifications for mandatory traffic signs
