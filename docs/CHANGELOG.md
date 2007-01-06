@@ -1,4 +1,3 @@
-- **2006-11-24 13:02**: fix: update DOTM Nepal license syllabus questions
 - **2006-11-24 17:27**: feat: add instant feedback and explanation on answer selection
 - **2006-11-25 13:42**: feat: add category A and B traffic test questions
 - **2006-11-26 15:50**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-01-05 21:03**: feat: add regulatory traffic signs SVG graphics
 - **2007-01-06 15:19**: fix: update DOTM Nepal license syllabus questions
 - **2007-01-06 15:57**: fix: correct color specifications for mandatory traffic signs
+- **2007-01-06 16:25**: docs: add instructions for Nepali driving license written exam
