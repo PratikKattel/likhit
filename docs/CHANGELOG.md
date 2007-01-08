@@ -1,4 +1,3 @@
-- **2006-11-25 13:42**: feat: add category A and B traffic test questions
 - **2006-11-26 15:50**: fix: typo in Nepali road safety regulations question
 - **2006-11-26 16:04**: chore: organize assets and image directory structure
 - **2006-11-26 20:22**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-01-06 15:57**: fix: correct color specifications for mandatory traffic signs
 - **2007-01-06 16:25**: docs: add instructions for Nepali driving license written exam
 - **2007-01-07 09:28**: feat: add warning signs and informational road signs
+- **2007-01-08 20:13**: test: verify question extraction script against exam PDF
