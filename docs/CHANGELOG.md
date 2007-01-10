@@ -1,4 +1,3 @@
-- **2006-11-27 10:18**: refactor: optimize SVG rendering for road signs
 - **2006-11-27 20:38**: refactor: optimize SVG rendering for road signs
 - **2006-11-28 19:11**: test: verify question extraction script against exam PDF
 - **2006-11-29 09:04**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-01-09 12:45**: docs: update traffic signals catalog documentation
 - **2007-01-10 11:21**: chore: format code style and clean up redundant variables
 - **2007-01-10 11:47**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-01-10 22:06**: chore: update questions database with recent DOTM updates
