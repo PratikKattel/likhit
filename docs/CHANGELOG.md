@@ -1,4 +1,3 @@
-- **2006-11-28 19:11**: test: verify question extraction script against exam PDF
 - **2006-11-29 09:04**: perf: optimize image caching for traffic sign assets
 - **2006-11-29 14:20**: feat: add result summary with passing threshold analysis
 - **2006-11-30 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-01-10 11:47**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-01-10 22:06**: chore: update questions database with recent DOTM updates
 - **2007-01-11 21:57**: feat: add result summary with passing threshold analysis
+- **2007-01-11 22:04**: perf: index question IDs for rapid lookup
