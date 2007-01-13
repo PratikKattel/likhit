@@ -1,4 +1,3 @@
-- **2006-11-30 15:23**: feat: support multiple choice questions for motorcycle category
 - **2006-12-01 10:42**: perf: optimize image caching for traffic sign assets
 - **2006-12-01 18:52**: fix: typo in Nepali road safety regulations question
 - **2006-12-02 20:45**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-01-12 12:34**: fix: resolve layout shift during question transitions
 - **2007-01-13 13:05**: feat: add category-specific practice modes
 - **2007-01-13 15:22**: docs: add instructions for Nepali driving license written exam
+- **2007-01-13 16:54**: test: verify question extraction script against exam PDF
