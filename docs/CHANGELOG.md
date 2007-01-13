@@ -1,4 +1,3 @@
-- **2006-11-30 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2006-11-30 15:23**: feat: support multiple choice questions for motorcycle category
 - **2006-12-01 10:42**: perf: optimize image caching for traffic sign assets
 - **2006-12-01 18:52**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-01-11 22:04**: perf: index question IDs for rapid lookup
 - **2007-01-12 12:34**: fix: resolve layout shift during question transitions
 - **2007-01-13 13:05**: feat: add category-specific practice modes
+- **2007-01-13 15:22**: docs: add instructions for Nepali driving license written exam
