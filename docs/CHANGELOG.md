@@ -1,4 +1,3 @@
-- **2006-12-03 21:17**: feat: add result summary with passing threshold analysis
 - **2006-12-03 22:16**: chore: update questions database with recent DOTM updates
 - **2006-12-04 10:39**: chore: update project metadata and build configuration
 - **2006-12-05 11:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-01-13 21:01**: refactor: optimize SVG rendering for road signs
 - **2007-01-14 14:02**: refactor: modularize traffic app logic and event listeners
 - **2007-01-14 15:49**: feat: add category-specific practice modes
+- **2007-01-15 11:37**: refactor: restructure question data schema for faster loading
