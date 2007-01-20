@@ -1,4 +1,3 @@
-- **2006-12-07 19:08**: docs: add instructions for Nepali driving license written exam
 - **2006-12-08 16:28**: refactor: restructure question data schema for faster loading
 - **2006-12-09 09:10**: feat: implement timer and score calculation for mock test
 - **2006-12-09 09:45**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-01-17 13:27**: feat: add category-specific practice modes
 - **2007-01-18 16:00**: refactor: modularize traffic app logic and event listeners
 - **2007-01-19 17:34**: chore: update questions database with recent DOTM updates
+- **2007-01-20 12:59**: feat: add warning signs and informational road signs
