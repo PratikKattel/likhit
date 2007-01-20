@@ -1,4 +1,3 @@
-- **2006-12-08 16:28**: refactor: restructure question data schema for faster loading
 - **2006-12-09 09:10**: feat: implement timer and score calculation for mock test
 - **2006-12-09 09:45**: perf: index question IDs for rapid lookup
 - **2006-12-09 11:51**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-01-18 16:00**: refactor: modularize traffic app logic and event listeners
 - **2007-01-19 17:34**: chore: update questions database with recent DOTM updates
 - **2007-01-20 12:59**: feat: add warning signs and informational road signs
+- **2007-01-20 21:52**: docs: improve code comments and API documentation
