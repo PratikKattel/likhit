@@ -1,4 +1,3 @@
-- **2006-12-09 21:25**: perf: index question IDs for rapid lookup
 - **2006-12-10 14:31**: fix: adjust passing score threshold according to new rules
 - **2006-12-11 21:13**: feat: add warning signs and informational road signs
 - **2006-12-12 18:04**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-01-21 11:00**: refactor: restructure question data schema for faster loading
 - **2007-01-21 16:37**: fix: typo in Nepali road safety regulations question
 - **2007-01-22 09:28**: docs: improve code comments and API documentation
+- **2007-01-22 09:29**: feat: implement timer and score calculation for mock test
