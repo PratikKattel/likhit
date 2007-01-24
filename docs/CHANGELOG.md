@@ -1,4 +1,3 @@
-- **2006-12-12 18:04**: perf: optimize image caching for traffic sign assets
 - **2006-12-12 19:03**: docs: update traffic signals catalog documentation
 - **2006-12-13 15:05**: feat: implement timer and score calculation for mock test
 - **2006-12-13 17:09**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2007-01-22 09:29**: feat: implement timer and score calculation for mock test
 - **2007-01-23 17:32**: feat: add category A and B traffic test questions
 - **2007-01-23 21:30**: refactor: optimize SVG rendering for road signs
+- **2007-01-24 17:12**: feat: add category A and B traffic test questions
