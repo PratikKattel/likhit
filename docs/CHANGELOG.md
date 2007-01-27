@@ -1,4 +1,3 @@
-- **2006-12-16 19:48**: refactor: modularize traffic app logic and event listeners
 - **2006-12-16 22:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-17 17:21**: fix: resolve layout shift during question transitions
 - **2006-12-17 21:18**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2007-01-25 22:02**: docs: improve code comments and API documentation
 - **2007-01-26 10:33**: chore: format code style and clean up redundant variables
 - **2007-01-26 21:15**: docs: improve code comments and API documentation
+- **2007-01-27 09:48**: docs: update README with setup instructions and feature list
