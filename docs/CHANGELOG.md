@@ -1,4 +1,3 @@
-- **2006-12-17 17:21**: fix: resolve layout shift during question transitions
 - **2006-12-17 21:18**: docs: update README with setup instructions and feature list
 - **2006-12-18 14:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-18 20:35**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-01-26 21:15**: docs: improve code comments and API documentation
 - **2007-01-27 09:48**: docs: update README with setup instructions and feature list
 - **2007-01-28 15:08**: feat: support multiple choice questions for motorcycle category
+- **2007-01-29 12:09**: refactor: restructure question data schema for faster loading
