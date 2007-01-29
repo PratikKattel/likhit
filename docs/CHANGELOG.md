@@ -1,4 +1,3 @@
-- **2006-12-18 14:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-18 20:35**: feat: add category-specific practice modes
 - **2006-12-19 12:00**: fix: typo in Nepali road safety regulations question
 - **2006-12-19 15:09**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-01-28 15:08**: feat: support multiple choice questions for motorcycle category
 - **2007-01-29 12:09**: refactor: restructure question data schema for faster loading
 - **2007-01-29 16:15**: refactor: modularize traffic app logic and event listeners
+- **2007-01-29 21:35**: feat: add result summary with passing threshold analysis
