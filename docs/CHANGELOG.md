@@ -1,4 +1,3 @@
-- **2006-12-19 12:00**: fix: typo in Nepali road safety regulations question
 - **2006-12-19 15:09**: perf: lazy load signal graphics and question assets
 - **2006-12-19 17:03**: feat: add regulatory traffic signs SVG graphics
 - **2006-12-20 21:08**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-01-29 16:15**: refactor: modularize traffic app logic and event listeners
 - **2007-01-29 21:35**: feat: add result summary with passing threshold analysis
 - **2007-01-30 15:55**: perf: lazy load signal graphics and question assets
+- **2007-01-30 20:42**: fix: typo in Nepali road safety regulations question
