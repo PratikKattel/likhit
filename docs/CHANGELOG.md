@@ -1,4 +1,3 @@
-- **2006-12-19 15:09**: perf: lazy load signal graphics and question assets
 - **2006-12-19 17:03**: feat: add regulatory traffic signs SVG graphics
 - **2006-12-20 21:08**: chore: organize assets and image directory structure
 - **2006-12-21 09:46**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2007-01-29 21:35**: feat: add result summary with passing threshold analysis
 - **2007-01-30 15:55**: perf: lazy load signal graphics and question assets
 - **2007-01-30 20:42**: fix: typo in Nepali road safety regulations question
+- **2007-01-31 11:01**: style: improve dark/light mode and mobile UI responsiveness
