@@ -1,4 +1,3 @@
-- **2006-12-21 09:46**: feat: add instant feedback and explanation on answer selection
 - **2006-12-21 22:25**: style: polish typography and Nepali Unicode font rendering
 - **2006-12-22 13:25**: docs: update README with setup instructions and feature list
 - **2006-12-22 18:56**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-01-31 11:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-01-31 14:14**: feat: add result summary with passing threshold analysis
 - **2007-02-01 09:47**: perf: optimize image caching for traffic sign assets
+- **2007-02-01 12:41**: docs: update README with setup instructions and feature list
