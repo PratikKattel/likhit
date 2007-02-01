@@ -1,4 +1,3 @@
-- **2006-12-22 13:25**: docs: update README with setup instructions and feature list
 - **2006-12-22 18:56**: chore: update questions database with recent DOTM updates
 - **2006-12-22 20:25**: fix: resolve layout shift during question transitions
 - **2006-12-23 12:49**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-02-01 09:47**: perf: optimize image caching for traffic sign assets
 - **2007-02-01 12:41**: docs: update README with setup instructions and feature list
 - **2007-02-01 13:16**: feat: add search and filter by sign category
+- **2007-02-01 17:04**: fix: prevent option re-selection after submitting answer
