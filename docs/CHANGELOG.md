@@ -1,4 +1,3 @@
-- **2006-12-23 17:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-24 09:58**: test: verify question extraction script against exam PDF
 - **2006-12-25 21:07**: feat: add category-specific practice modes
 - **2006-12-26 11:47**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2007-02-02 17:36**: fix: typo in Nepali road safety regulations question
 - **2007-02-02 17:58**: docs: improve code comments and API documentation
 - **2007-02-03 16:42**: docs: improve code comments and API documentation
+- **2007-02-03 19:00**: style: polish typography and Nepali Unicode font rendering
