@@ -1,4 +1,3 @@
-- **2006-12-23 12:49**: fix: adjust passing score threshold according to new rules
 - **2006-12-23 17:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-24 09:58**: test: verify question extraction script against exam PDF
 - **2006-12-25 21:07**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-02-01 17:04**: fix: prevent option re-selection after submitting answer
 - **2007-02-02 17:36**: fix: typo in Nepali road safety regulations question
 - **2007-02-02 17:58**: docs: improve code comments and API documentation
+- **2007-02-03 16:42**: docs: improve code comments and API documentation
