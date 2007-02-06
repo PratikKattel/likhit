@@ -1,4 +1,3 @@
-- **2006-12-26 11:47**: feat: support multiple choice questions for motorcycle category
 - **2006-12-27 18:34**: chore: organize assets and image directory structure
 - **2006-12-28 15:37**: style: enhance traffic sign card layout and responsiveness
 - **2006-12-29 14:13**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2007-02-03 19:00**: style: polish typography and Nepali Unicode font rendering
 - **2007-02-04 21:43**: fix: correct color specifications for mandatory traffic signs
 - **2007-02-05 17:48**: perf: lazy load signal graphics and question assets
+- **2007-02-06 15:53**: refactor: modularize traffic app logic and event listeners
