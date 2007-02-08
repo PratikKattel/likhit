@@ -1,4 +1,3 @@
-- **2006-12-29 14:13**: docs: add instructions for Nepali driving license written exam
 - **2006-12-29 22:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2006-12-30 09:26**: refactor: restructure question data schema for faster loading
 - **2006-12-30 17:05**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-02-06 15:53**: refactor: modularize traffic app logic and event listeners
 - **2007-02-07 09:35**: perf: lazy load signal graphics and question assets
 - **2007-02-07 12:20**: style: enhance traffic sign card layout and responsiveness
+- **2007-02-08 10:13**: fix: prevent option re-selection after submitting answer
