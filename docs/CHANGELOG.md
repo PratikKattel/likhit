@@ -1,4 +1,3 @@
-- **2006-12-31 19:30**: feat: add result summary with passing threshold analysis
 - **2006-12-31 20:43**: feat: add search and filter by sign category
 - **2007-01-01 15:46**: perf: optimize image caching for traffic sign assets
 - **2007-01-01 20:39**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2007-02-08 14:46**: feat: add category-specific practice modes
 - **2007-02-09 10:40**: fix: adjust passing score threshold according to new rules
 - **2007-02-09 13:04**: style: enhance traffic sign card layout and responsiveness
+- **2007-02-09 14:21**: feat: add warning signs and informational road signs
