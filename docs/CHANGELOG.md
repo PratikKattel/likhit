@@ -1,4 +1,3 @@
-- **2006-12-30 09:26**: refactor: restructure question data schema for faster loading
 - **2006-12-30 17:05**: feat: add keyboard navigation shortcuts for question selection
 - **2006-12-31 19:30**: feat: add result summary with passing threshold analysis
 - **2006-12-31 20:43**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2007-02-07 12:20**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-08 10:13**: fix: prevent option re-selection after submitting answer
 - **2007-02-08 14:46**: feat: add category-specific practice modes
+- **2007-02-09 10:40**: fix: adjust passing score threshold according to new rules
