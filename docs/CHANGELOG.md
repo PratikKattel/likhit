@@ -1,4 +1,3 @@
-- **2007-01-02 17:47**: fix: update DOTM Nepal license syllabus questions
 - **2007-01-03 10:28**: feat: add instant feedback and explanation on answer selection
 - **2007-01-03 14:17**: docs: improve code comments and API documentation
 - **2007-01-03 18:59**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-02-11 13:01**: feat: support multiple choice questions for motorcycle category
 - **2007-02-12 15:30**: fix: update DOTM Nepal license syllabus questions
 - **2007-02-13 19:10**: feat: add result summary with passing threshold analysis
+- **2007-02-13 22:28**: fix: adjust passing score threshold according to new rules
