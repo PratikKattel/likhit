@@ -1,4 +1,3 @@
-- **2007-01-04 13:28**: chore: organize assets and image directory structure
 - **2007-01-04 14:20**: docs: update README with setup instructions and feature list
 - **2007-01-04 21:12**: fix: correct color specifications for mandatory traffic signs
 - **2007-01-05 16:14**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-02-14 11:20**: perf: lazy load signal graphics and question assets
 - **2007-02-15 16:14**: fix: typo in Nepali road safety regulations question
 - **2007-02-16 12:25**: fix: correct color specifications for mandatory traffic signs
+- **2007-02-16 12:36**: perf: lazy load signal graphics and question assets
