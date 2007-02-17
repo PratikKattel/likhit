@@ -1,4 +1,3 @@
-- **2007-01-05 16:14**: perf: index question IDs for rapid lookup
 - **2007-01-05 21:03**: feat: add regulatory traffic signs SVG graphics
 - **2007-01-06 15:19**: fix: update DOTM Nepal license syllabus questions
 - **2007-01-06 15:57**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-02-16 12:36**: perf: lazy load signal graphics and question assets
 - **2007-02-17 09:54**: feat: add category A and B traffic test questions
 - **2007-02-17 20:01**: style: enhance traffic sign card layout and responsiveness
+- **2007-02-17 22:16**: feat: support multiple choice questions for motorcycle category
