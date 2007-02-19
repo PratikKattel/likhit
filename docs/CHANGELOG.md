@@ -1,4 +1,3 @@
-- **2007-01-06 16:25**: docs: add instructions for Nepali driving license written exam
 - **2007-01-07 09:28**: feat: add warning signs and informational road signs
 - **2007-01-08 20:13**: test: verify question extraction script against exam PDF
 - **2007-01-09 12:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-02-18 12:06**: feat: add result summary with passing threshold analysis
 - **2007-02-18 13:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-02-19 11:04**: feat: add category A and B traffic test questions
+- **2007-02-19 11:43**: docs: improve code comments and API documentation
