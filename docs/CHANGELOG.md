@@ -1,4 +1,3 @@
-- **2007-01-10 11:47**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-01-10 22:06**: chore: update questions database with recent DOTM updates
 - **2007-01-11 21:57**: feat: add result summary with passing threshold analysis
 - **2007-01-11 22:04**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-02-20 10:45**: test: verify question extraction script against exam PDF
 - **2007-02-20 12:23**: perf: lazy load signal graphics and question assets
 - **2007-02-20 18:34**: docs: update traffic signals catalog documentation
+- **2007-02-20 20:37**: feat: add keyboard navigation shortcuts for question selection
