@@ -1,4 +1,3 @@
-- **2007-01-11 21:57**: feat: add result summary with passing threshold analysis
 - **2007-01-11 22:04**: perf: index question IDs for rapid lookup
 - **2007-01-12 12:34**: fix: resolve layout shift during question transitions
 - **2007-01-13 13:05**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-02-20 18:34**: docs: update traffic signals catalog documentation
 - **2007-02-20 20:37**: feat: add keyboard navigation shortcuts for question selection
 - **2007-02-21 09:58**: feat: add result summary with passing threshold analysis
+- **2007-02-22 12:29**: test: verify question extraction script against exam PDF
