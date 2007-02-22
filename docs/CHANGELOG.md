@@ -1,4 +1,3 @@
-- **2007-01-11 22:04**: perf: index question IDs for rapid lookup
 - **2007-01-12 12:34**: fix: resolve layout shift during question transitions
 - **2007-01-13 13:05**: feat: add category-specific practice modes
 - **2007-01-13 15:22**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2007-02-20 20:37**: feat: add keyboard navigation shortcuts for question selection
 - **2007-02-21 09:58**: feat: add result summary with passing threshold analysis
 - **2007-02-22 12:29**: test: verify question extraction script against exam PDF
+- **2007-02-22 17:55**: style: improve dark/light mode and mobile UI responsiveness
