@@ -1,4 +1,3 @@
-- **2007-01-13 15:22**: docs: add instructions for Nepali driving license written exam
 - **2007-01-13 16:54**: test: verify question extraction script against exam PDF
 - **2007-01-13 21:01**: refactor: optimize SVG rendering for road signs
 - **2007-01-14 14:02**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-02-22 17:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-02-22 20:44**: feat: support multiple choice questions for motorcycle category
 - **2007-02-23 11:57**: refactor: optimize SVG rendering for road signs
+- **2007-02-23 13:10**: feat: add category-specific practice modes
