@@ -1,4 +1,3 @@
-- **2007-01-14 15:49**: feat: add category-specific practice modes
 - **2007-01-15 11:37**: refactor: restructure question data schema for faster loading
 - **2007-01-15 14:20**: chore: format code style and clean up redundant variables
 - **2007-01-16 12:42**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-02-23 13:24**: feat: support multiple choice questions for motorcycle category
 - **2007-02-23 22:14**: refactor: optimize SVG rendering for road signs
 - **2007-02-24 14:06**: perf: optimize image caching for traffic sign assets
+- **2007-02-24 17:01**: chore: update project metadata and build configuration
