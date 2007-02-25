@@ -1,4 +1,3 @@
-- **2007-01-16 12:42**: docs: improve code comments and API documentation
 - **2007-01-16 15:20**: feat: add result summary with passing threshold analysis
 - **2007-01-17 13:27**: feat: add category-specific practice modes
 - **2007-01-18 16:00**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-02-24 17:01**: chore: update project metadata and build configuration
 - **2007-02-24 19:48**: fix: typo in Nepali road safety regulations question
 - **2007-02-24 21:54**: fix: update DOTM Nepal license syllabus questions
+- **2007-02-25 10:00**: fix: update DOTM Nepal license syllabus questions
