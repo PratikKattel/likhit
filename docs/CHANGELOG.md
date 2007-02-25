@@ -1,4 +1,3 @@
-- **2007-01-16 15:20**: feat: add result summary with passing threshold analysis
 - **2007-01-17 13:27**: feat: add category-specific practice modes
 - **2007-01-18 16:00**: refactor: modularize traffic app logic and event listeners
 - **2007-01-19 17:34**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-02-24 19:48**: fix: typo in Nepali road safety regulations question
 - **2007-02-24 21:54**: fix: update DOTM Nepal license syllabus questions
 - **2007-02-25 10:00**: fix: update DOTM Nepal license syllabus questions
+- **2007-02-25 10:13**: feat: support multiple choice questions for motorcycle category
