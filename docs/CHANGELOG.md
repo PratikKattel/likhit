@@ -1,4 +1,3 @@
-- **2007-01-19 17:34**: chore: update questions database with recent DOTM updates
 - **2007-01-20 12:59**: feat: add warning signs and informational road signs
 - **2007-01-20 21:52**: docs: improve code comments and API documentation
 - **2007-01-21 11:00**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-02-25 10:13**: feat: support multiple choice questions for motorcycle category
 - **2007-02-25 12:13**: chore: update questions database with recent DOTM updates
 - **2007-02-26 13:14**: chore: update questions database with recent DOTM updates
+- **2007-02-27 18:25**: perf: optimize image caching for traffic sign assets
