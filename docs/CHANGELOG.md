@@ -1,4 +1,3 @@
-- **2007-01-20 21:52**: docs: improve code comments and API documentation
 - **2007-01-21 11:00**: refactor: restructure question data schema for faster loading
 - **2007-01-21 16:37**: fix: typo in Nepali road safety regulations question
 - **2007-01-22 09:28**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-02-26 13:14**: chore: update questions database with recent DOTM updates
 - **2007-02-27 18:25**: perf: optimize image caching for traffic sign assets
 - **2007-02-28 10:52**: refactor: modularize traffic app logic and event listeners
+- **2007-02-28 17:53**: feat: add category A and B traffic test questions
