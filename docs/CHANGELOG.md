@@ -1,4 +1,3 @@
-- **2007-01-21 16:37**: fix: typo in Nepali road safety regulations question
 - **2007-01-22 09:28**: docs: improve code comments and API documentation
 - **2007-01-22 09:29**: feat: implement timer and score calculation for mock test
 - **2007-01-23 17:32**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-02-28 10:52**: refactor: modularize traffic app logic and event listeners
 - **2007-02-28 17:53**: feat: add category A and B traffic test questions
 - **2007-03-01 15:16**: feat: add instant feedback and explanation on answer selection
+- **2007-03-01 17:16**: refactor: restructure question data schema for faster loading
