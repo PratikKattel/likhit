@@ -1,4 +1,3 @@
-- **2007-01-23 17:32**: feat: add category A and B traffic test questions
 - **2007-01-23 21:30**: refactor: optimize SVG rendering for road signs
 - **2007-01-24 17:12**: feat: add category A and B traffic test questions
 - **2007-01-24 20:31**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2007-03-01 17:16**: refactor: restructure question data schema for faster loading
 - **2007-03-02 16:37**: docs: improve code comments and API documentation
 - **2007-03-03 16:06**: fix: typo in Nepali road safety regulations question
+- **2007-03-04 17:40**: perf: optimize image caching for traffic sign assets
