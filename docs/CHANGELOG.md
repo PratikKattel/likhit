@@ -1,4 +1,3 @@
-- **2007-01-26 10:33**: chore: format code style and clean up redundant variables
 - **2007-01-26 21:15**: docs: improve code comments and API documentation
 - **2007-01-27 09:48**: docs: update README with setup instructions and feature list
 - **2007-01-28 15:08**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2007-03-05 15:29**: chore: update questions database with recent DOTM updates
 - **2007-03-05 19:24**: docs: improve code comments and API documentation
 - **2007-03-06 16:31**: feat: add category A and B traffic test questions
+- **2007-03-07 20:26**: chore: organize assets and image directory structure
