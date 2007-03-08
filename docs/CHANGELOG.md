@@ -1,4 +1,3 @@
-- **2007-01-28 15:08**: feat: support multiple choice questions for motorcycle category
 - **2007-01-29 12:09**: refactor: restructure question data schema for faster loading
 - **2007-01-29 16:15**: refactor: modularize traffic app logic and event listeners
 - **2007-01-29 21:35**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-03-07 20:26**: chore: organize assets and image directory structure
 - **2007-03-07 21:53**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-08 09:58**: feat: implement timer and score calculation for mock test
+- **2007-03-08 16:22**: chore: format code style and clean up redundant variables
