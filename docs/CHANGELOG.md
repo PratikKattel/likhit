@@ -1,4 +1,3 @@
-- **2007-01-29 21:35**: feat: add result summary with passing threshold analysis
 - **2007-01-30 15:55**: perf: lazy load signal graphics and question assets
 - **2007-01-30 20:42**: fix: typo in Nepali road safety regulations question
 - **2007-01-31 11:01**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2007-03-08 16:22**: chore: format code style and clean up redundant variables
 - **2007-03-09 15:52**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-09 17:30**: fix: correct color specifications for mandatory traffic signs
+- **2007-03-09 18:06**: feat: add category A and B traffic test questions
