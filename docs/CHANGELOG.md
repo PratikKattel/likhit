@@ -1,4 +1,3 @@
-- **2007-01-31 11:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-01-31 14:14**: feat: add result summary with passing threshold analysis
 - **2007-02-01 09:47**: perf: optimize image caching for traffic sign assets
 - **2007-02-01 12:41**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2007-03-09 18:06**: feat: add category A and B traffic test questions
 - **2007-03-09 21:05**: chore: update project metadata and build configuration
 - **2007-03-10 12:15**: fix: prevent option re-selection after submitting answer
+- **2007-03-10 15:38**: feat: add category A and B traffic test questions
