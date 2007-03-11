@@ -1,4 +1,3 @@
-- **2007-02-01 13:16**: feat: add search and filter by sign category
 - **2007-02-01 17:04**: fix: prevent option re-selection after submitting answer
 - **2007-02-02 17:36**: fix: typo in Nepali road safety regulations question
 - **2007-02-02 17:58**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-03-10 15:55**: fix: adjust passing score threshold according to new rules
 - **2007-03-11 10:19**: docs: add instructions for Nepali driving license written exam
 - **2007-03-11 13:57**: refactor: optimize SVG rendering for road signs
+- **2007-03-11 14:17**: perf: index question IDs for rapid lookup
