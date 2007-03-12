@@ -1,4 +1,3 @@
-- **2007-02-01 17:04**: fix: prevent option re-selection after submitting answer
 - **2007-02-02 17:36**: fix: typo in Nepali road safety regulations question
 - **2007-02-02 17:58**: docs: improve code comments and API documentation
 - **2007-02-03 16:42**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-03-11 10:19**: docs: add instructions for Nepali driving license written exam
 - **2007-03-11 13:57**: refactor: optimize SVG rendering for road signs
 - **2007-03-11 14:17**: perf: index question IDs for rapid lookup
+- **2007-03-12 11:40**: fix: resolve layout shift during question transitions
