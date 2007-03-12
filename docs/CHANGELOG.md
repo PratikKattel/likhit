@@ -1,4 +1,3 @@
-- **2007-02-02 17:36**: fix: typo in Nepali road safety regulations question
 - **2007-02-02 17:58**: docs: improve code comments and API documentation
 - **2007-02-03 16:42**: docs: improve code comments and API documentation
 - **2007-02-03 19:00**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2007-03-11 13:57**: refactor: optimize SVG rendering for road signs
 - **2007-03-11 14:17**: perf: index question IDs for rapid lookup
 - **2007-03-12 11:40**: fix: resolve layout shift during question transitions
+- **2007-03-12 18:03**: chore: update questions database with recent DOTM updates
