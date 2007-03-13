@@ -1,4 +1,3 @@
-- **2007-02-03 19:00**: style: polish typography and Nepali Unicode font rendering
 - **2007-02-04 21:43**: fix: correct color specifications for mandatory traffic signs
 - **2007-02-05 17:48**: perf: lazy load signal graphics and question assets
 - **2007-02-06 15:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-03-12 18:03**: chore: update questions database with recent DOTM updates
 - **2007-03-12 20:43**: test: verify question extraction script against exam PDF
 - **2007-03-13 11:04**: refactor: optimize SVG rendering for road signs
+- **2007-03-13 19:10**: refactor: clean up unused CSS classes and optimize stylesheet
