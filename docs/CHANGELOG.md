@@ -1,4 +1,3 @@
-- **2007-02-07 09:35**: perf: lazy load signal graphics and question assets
 - **2007-02-07 12:20**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-08 10:13**: fix: prevent option re-selection after submitting answer
 - **2007-02-08 14:46**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-03-13 20:07**: fix: resolve layout shift during question transitions
 - **2007-03-14 09:20**: chore: update project metadata and build configuration
 - **2007-03-14 14:59**: feat: add category A and B traffic test questions
+- **2007-03-15 17:44**: fix: typo in Nepali road safety regulations question
