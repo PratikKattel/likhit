@@ -1,4 +1,3 @@
-- **2007-02-07 12:20**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-08 10:13**: fix: prevent option re-selection after submitting answer
 - **2007-02-08 14:46**: feat: add category-specific practice modes
 - **2007-02-09 10:40**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-03-14 09:20**: chore: update project metadata and build configuration
 - **2007-03-14 14:59**: feat: add category A and B traffic test questions
 - **2007-03-15 17:44**: fix: typo in Nepali road safety regulations question
+- **2007-03-16 20:25**: feat: add keyboard navigation shortcuts for question selection
