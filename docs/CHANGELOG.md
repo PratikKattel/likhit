@@ -1,4 +1,3 @@
-- **2007-02-08 14:46**: feat: add category-specific practice modes
 - **2007-02-09 10:40**: fix: adjust passing score threshold according to new rules
 - **2007-02-09 13:04**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-09 14:21**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2007-03-15 17:44**: fix: typo in Nepali road safety regulations question
 - **2007-03-16 20:25**: feat: add keyboard navigation shortcuts for question selection
 - **2007-03-17 11:55**: perf: index question IDs for rapid lookup
+- **2007-03-18 14:54**: fix: resolve layout shift during question transitions
