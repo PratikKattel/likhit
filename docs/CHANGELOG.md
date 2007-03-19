@@ -1,4 +1,3 @@
-- **2007-02-09 13:04**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-09 14:21**: feat: add warning signs and informational road signs
 - **2007-02-10 12:35**: test: verify question extraction script against exam PDF
 - **2007-02-11 10:22**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-03-17 11:55**: perf: index question IDs for rapid lookup
 - **2007-03-18 14:54**: fix: resolve layout shift during question transitions
 - **2007-03-19 09:53**: refactor: modularize traffic app logic and event listeners
+- **2007-03-19 20:07**: perf: lazy load signal graphics and question assets
