@@ -1,4 +1,3 @@
-- **2007-02-09 10:40**: fix: adjust passing score threshold according to new rules
 - **2007-02-09 13:04**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-09 14:21**: feat: add warning signs and informational road signs
 - **2007-02-10 12:35**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2007-03-16 20:25**: feat: add keyboard navigation shortcuts for question selection
 - **2007-03-17 11:55**: perf: index question IDs for rapid lookup
 - **2007-03-18 14:54**: fix: resolve layout shift during question transitions
+- **2007-03-19 09:53**: refactor: modularize traffic app logic and event listeners
