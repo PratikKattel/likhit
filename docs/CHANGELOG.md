@@ -1,4 +1,3 @@
-- **2007-02-11 13:01**: feat: support multiple choice questions for motorcycle category
 - **2007-02-12 15:30**: fix: update DOTM Nepal license syllabus questions
 - **2007-02-13 19:10**: feat: add result summary with passing threshold analysis
 - **2007-02-13 22:28**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-03-20 15:45**: fix: typo in Nepali road safety regulations question
 - **2007-03-20 17:06**: chore: format code style and clean up redundant variables
 - **2007-03-20 17:15**: feat: add regulatory traffic signs SVG graphics
+- **2007-03-21 21:18**: test: verify question extraction script against exam PDF
