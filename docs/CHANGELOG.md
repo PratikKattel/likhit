@@ -1,4 +1,3 @@
-- **2007-02-13 19:10**: feat: add result summary with passing threshold analysis
 - **2007-02-13 22:28**: fix: adjust passing score threshold according to new rules
 - **2007-02-14 11:20**: perf: lazy load signal graphics and question assets
 - **2007-02-15 16:14**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-03-20 17:15**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-21 21:18**: test: verify question extraction script against exam PDF
 - **2007-03-21 22:20**: feat: add category-specific practice modes
+- **2007-03-22 21:45**: fix: correct color specifications for mandatory traffic signs
