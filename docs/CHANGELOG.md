@@ -1,4 +1,3 @@
-- **2007-02-15 16:14**: fix: typo in Nepali road safety regulations question
 - **2007-02-16 12:25**: fix: correct color specifications for mandatory traffic signs
 - **2007-02-16 12:36**: perf: lazy load signal graphics and question assets
 - **2007-02-17 09:54**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-03-22 21:45**: fix: correct color specifications for mandatory traffic signs
 - **2007-03-23 09:24**: docs: update traffic signals catalog documentation
 - **2007-03-23 12:03**: perf: optimize image caching for traffic sign assets
+- **2007-03-24 14:43**: docs: update README with setup instructions and feature list
