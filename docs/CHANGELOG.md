@@ -1,4 +1,3 @@
-- **2007-02-17 20:01**: style: enhance traffic sign card layout and responsiveness
 - **2007-02-17 22:16**: feat: support multiple choice questions for motorcycle category
 - **2007-02-18 12:06**: feat: add result summary with passing threshold analysis
 - **2007-02-18 13:57**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2007-03-24 16:05**: fix: prevent option re-selection after submitting answer
 - **2007-03-25 09:17**: perf: lazy load signal graphics and question assets
 - **2007-03-25 21:40**: docs: update README with setup instructions and feature list
+- **2007-03-26 21:59**: feat: support multiple choice questions for motorcycle category
