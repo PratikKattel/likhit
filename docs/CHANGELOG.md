@@ -1,4 +1,3 @@
-- **2007-02-18 12:06**: feat: add result summary with passing threshold analysis
 - **2007-02-18 13:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-02-19 11:04**: feat: add category A and B traffic test questions
 - **2007-02-19 11:43**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-03-25 21:40**: docs: update README with setup instructions and feature list
 - **2007-03-26 21:59**: feat: support multiple choice questions for motorcycle category
 - **2007-03-27 09:30**: chore: format code style and clean up redundant variables
+- **2007-03-27 15:03**: style: polish typography and Nepali Unicode font rendering
