@@ -1,4 +1,3 @@
-- **2007-02-19 11:43**: docs: improve code comments and API documentation
 - **2007-02-19 17:09**: perf: index question IDs for rapid lookup
 - **2007-02-20 10:45**: test: verify question extraction script against exam PDF
 - **2007-02-20 12:23**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-03-27 15:03**: style: polish typography and Nepali Unicode font rendering
 - **2007-03-27 15:21**: fix: prevent option re-selection after submitting answer
 - **2007-03-28 13:51**: feat: support multiple choice questions for motorcycle category
+- **2007-03-28 14:09**: fix: prevent option re-selection after submitting answer
