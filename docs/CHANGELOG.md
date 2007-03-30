@@ -1,4 +1,3 @@
-- **2007-02-20 12:23**: perf: lazy load signal graphics and question assets
 - **2007-02-20 18:34**: docs: update traffic signals catalog documentation
 - **2007-02-20 20:37**: feat: add keyboard navigation shortcuts for question selection
 - **2007-02-21 09:58**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-03-28 14:09**: fix: prevent option re-selection after submitting answer
 - **2007-03-29 10:54**: perf: optimize image caching for traffic sign assets
 - **2007-03-29 16:46**: fix: adjust passing score threshold according to new rules
+- **2007-03-30 11:08**: chore: format code style and clean up redundant variables
