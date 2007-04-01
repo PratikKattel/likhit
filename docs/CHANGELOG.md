@@ -1,4 +1,3 @@
-- **2007-02-21 09:58**: feat: add result summary with passing threshold analysis
 - **2007-02-22 12:29**: test: verify question extraction script against exam PDF
 - **2007-02-22 17:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-02-22 20:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2007-03-30 11:08**: chore: format code style and clean up redundant variables
 - **2007-03-30 19:20**: docs: update traffic signals catalog documentation
 - **2007-03-31 14:30**: feat: add search and filter by sign category
+- **2007-04-01 10:22**: style: polish typography and Nepali Unicode font rendering
