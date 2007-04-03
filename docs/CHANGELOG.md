@@ -1,4 +1,3 @@
-- **2007-02-22 17:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-02-22 20:44**: feat: support multiple choice questions for motorcycle category
 - **2007-02-23 11:57**: refactor: optimize SVG rendering for road signs
 - **2007-02-23 13:10**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-03-31 14:30**: feat: add search and filter by sign category
 - **2007-04-01 10:22**: style: polish typography and Nepali Unicode font rendering
 - **2007-04-02 11:27**: perf: index question IDs for rapid lookup
+- **2007-04-03 21:00**: style: enhance traffic sign card layout and responsiveness
