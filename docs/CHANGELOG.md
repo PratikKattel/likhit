@@ -1,4 +1,3 @@
-- **2007-02-23 13:10**: feat: add category-specific practice modes
 - **2007-02-23 13:24**: feat: support multiple choice questions for motorcycle category
 - **2007-02-23 22:14**: refactor: optimize SVG rendering for road signs
 - **2007-02-24 14:06**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-04-03 21:00**: style: enhance traffic sign card layout and responsiveness
 - **2007-04-04 20:48**: chore: format code style and clean up redundant variables
 - **2007-04-05 10:19**: refactor: restructure question data schema for faster loading
+- **2007-04-05 13:50**: fix: update DOTM Nepal license syllabus questions
