@@ -1,4 +1,3 @@
-- **2007-02-23 22:14**: refactor: optimize SVG rendering for road signs
 - **2007-02-24 14:06**: perf: optimize image caching for traffic sign assets
 - **2007-02-24 17:01**: chore: update project metadata and build configuration
 - **2007-02-24 19:48**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-04-05 10:19**: refactor: restructure question data schema for faster loading
 - **2007-04-05 13:50**: fix: update DOTM Nepal license syllabus questions
 - **2007-04-05 16:31**: perf: optimize image caching for traffic sign assets
+- **2007-04-06 12:51**: chore: organize assets and image directory structure
