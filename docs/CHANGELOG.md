@@ -1,4 +1,3 @@
-- **2007-02-24 14:06**: perf: optimize image caching for traffic sign assets
 - **2007-02-24 17:01**: chore: update project metadata and build configuration
 - **2007-02-24 19:48**: fix: typo in Nepali road safety regulations question
 - **2007-02-24 21:54**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-04-05 13:50**: fix: update DOTM Nepal license syllabus questions
 - **2007-04-05 16:31**: perf: optimize image caching for traffic sign assets
 - **2007-04-06 12:51**: chore: organize assets and image directory structure
+- **2007-04-07 10:15**: style: polish typography and Nepali Unicode font rendering
