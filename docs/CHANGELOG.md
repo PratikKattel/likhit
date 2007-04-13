@@ -1,4 +1,3 @@
-- **2007-02-28 10:52**: refactor: modularize traffic app logic and event listeners
 - **2007-02-28 17:53**: feat: add category A and B traffic test questions
 - **2007-03-01 15:16**: feat: add instant feedback and explanation on answer selection
 - **2007-03-01 17:16**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-04-12 09:03**: refactor: optimize SVG rendering for road signs
 - **2007-04-12 14:28**: feat: add warning signs and informational road signs
 - **2007-04-12 19:30**: feat: add category A and B traffic test questions
+- **2007-04-13 09:43**: chore: organize assets and image directory structure
