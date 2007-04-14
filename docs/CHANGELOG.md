@@ -1,4 +1,3 @@
-- **2007-03-01 15:16**: feat: add instant feedback and explanation on answer selection
 - **2007-03-01 17:16**: refactor: restructure question data schema for faster loading
 - **2007-03-02 16:37**: docs: improve code comments and API documentation
 - **2007-03-03 16:06**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-04-12 19:30**: feat: add category A and B traffic test questions
 - **2007-04-13 09:43**: chore: organize assets and image directory structure
 - **2007-04-13 15:13**: docs: update traffic signals catalog documentation
+- **2007-04-14 10:45**: docs: update README with setup instructions and feature list
