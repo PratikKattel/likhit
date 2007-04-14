@@ -1,4 +1,3 @@
-- **2007-03-02 16:37**: docs: improve code comments and API documentation
 - **2007-03-03 16:06**: fix: typo in Nepali road safety regulations question
 - **2007-03-04 17:40**: perf: optimize image caching for traffic sign assets
 - **2007-03-04 19:17**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2007-04-13 15:13**: docs: update traffic signals catalog documentation
 - **2007-04-14 10:45**: docs: update README with setup instructions and feature list
 - **2007-04-14 11:39**: chore: update questions database with recent DOTM updates
+- **2007-04-14 19:15**: fix: correct color specifications for mandatory traffic signs
