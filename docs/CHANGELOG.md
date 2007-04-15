@@ -1,4 +1,3 @@
-- **2007-03-04 19:17**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-05 10:56**: perf: lazy load signal graphics and question assets
 - **2007-03-05 15:29**: chore: update questions database with recent DOTM updates
 - **2007-03-05 19:24**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-04-14 19:15**: fix: correct color specifications for mandatory traffic signs
 - **2007-04-15 09:48**: feat: add keyboard navigation shortcuts for question selection
 - **2007-04-15 11:15**: feat: add category-specific practice modes
+- **2007-04-15 21:32**: feat: add category-specific practice modes
