@@ -1,4 +1,3 @@
-- **2007-03-05 15:29**: chore: update questions database with recent DOTM updates
 - **2007-03-05 19:24**: docs: improve code comments and API documentation
 - **2007-03-06 16:31**: feat: add category A and B traffic test questions
 - **2007-03-07 20:26**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-04-15 11:15**: feat: add category-specific practice modes
 - **2007-04-15 21:32**: feat: add category-specific practice modes
 - **2007-04-16 17:33**: chore: update questions database with recent DOTM updates
+- **2007-04-16 18:40**: feat: implement timer and score calculation for mock test
