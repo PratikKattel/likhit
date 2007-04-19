@@ -1,4 +1,3 @@
-- **2007-03-08 16:22**: chore: format code style and clean up redundant variables
 - **2007-03-09 15:52**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-09 17:30**: fix: correct color specifications for mandatory traffic signs
 - **2007-03-09 18:06**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-04-18 14:29**: feat: implement timer and score calculation for mock test
 - **2007-04-19 15:57**: fix: adjust passing score threshold according to new rules
 - **2007-04-19 16:03**: chore: update questions database with recent DOTM updates
+- **2007-04-19 17:07**: docs: update README with setup instructions and feature list
