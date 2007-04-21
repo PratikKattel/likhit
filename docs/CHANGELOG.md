@@ -1,4 +1,3 @@
-- **2007-03-09 17:30**: fix: correct color specifications for mandatory traffic signs
 - **2007-03-09 18:06**: feat: add category A and B traffic test questions
 - **2007-03-09 21:05**: chore: update project metadata and build configuration
 - **2007-03-10 12:15**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-04-19 16:03**: chore: update questions database with recent DOTM updates
 - **2007-04-19 17:07**: docs: update README with setup instructions and feature list
 - **2007-04-20 09:33**: fix: correct color specifications for mandatory traffic signs
+- **2007-04-21 14:17**: docs: add instructions for Nepali driving license written exam
