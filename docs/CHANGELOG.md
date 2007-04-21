@@ -1,4 +1,3 @@
-- **2007-03-09 21:05**: chore: update project metadata and build configuration
 - **2007-03-10 12:15**: fix: prevent option re-selection after submitting answer
 - **2007-03-10 15:38**: feat: add category A and B traffic test questions
 - **2007-03-10 15:55**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-04-20 09:33**: fix: correct color specifications for mandatory traffic signs
 - **2007-04-21 14:17**: docs: add instructions for Nepali driving license written exam
 - **2007-04-21 15:48**: docs: update README with setup instructions and feature list
+- **2007-04-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
