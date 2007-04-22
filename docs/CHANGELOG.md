@@ -1,4 +1,3 @@
-- **2007-03-10 15:38**: feat: add category A and B traffic test questions
 - **2007-03-10 15:55**: fix: adjust passing score threshold according to new rules
 - **2007-03-11 10:19**: docs: add instructions for Nepali driving license written exam
 - **2007-03-11 13:57**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-04-21 15:48**: docs: update README with setup instructions and feature list
 - **2007-04-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-04-22 13:40**: perf: optimize image caching for traffic sign assets
+- **2007-04-22 16:45**: chore: format code style and clean up redundant variables
