@@ -1,4 +1,3 @@
-- **2007-03-11 10:19**: docs: add instructions for Nepali driving license written exam
 - **2007-03-11 13:57**: refactor: optimize SVG rendering for road signs
 - **2007-03-11 14:17**: perf: index question IDs for rapid lookup
 - **2007-03-12 11:40**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-04-22 13:40**: perf: optimize image caching for traffic sign assets
 - **2007-04-22 16:45**: chore: format code style and clean up redundant variables
 - **2007-04-22 21:23**: feat: add keyboard navigation shortcuts for question selection
+- **2007-04-23 13:17**: perf: lazy load signal graphics and question assets
