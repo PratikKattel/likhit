@@ -1,4 +1,3 @@
-- **2007-03-12 11:40**: fix: resolve layout shift during question transitions
 - **2007-03-12 18:03**: chore: update questions database with recent DOTM updates
 - **2007-03-12 20:43**: test: verify question extraction script against exam PDF
 - **2007-03-13 11:04**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-04-23 13:17**: perf: lazy load signal graphics and question assets
 - **2007-04-24 09:16**: docs: update traffic signals catalog documentation
 - **2007-04-25 16:58**: refactor: modularize traffic app logic and event listeners
+- **2007-04-26 17:06**: docs: update traffic signals catalog documentation
