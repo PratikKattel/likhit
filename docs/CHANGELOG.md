@@ -1,4 +1,3 @@
-- **2007-03-12 18:03**: chore: update questions database with recent DOTM updates
 - **2007-03-12 20:43**: test: verify question extraction script against exam PDF
 - **2007-03-13 11:04**: refactor: optimize SVG rendering for road signs
 - **2007-03-13 19:10**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-04-24 09:16**: docs: update traffic signals catalog documentation
 - **2007-04-25 16:58**: refactor: modularize traffic app logic and event listeners
 - **2007-04-26 17:06**: docs: update traffic signals catalog documentation
+- **2007-04-27 19:02**: chore: format code style and clean up redundant variables
