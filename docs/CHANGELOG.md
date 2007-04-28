@@ -1,4 +1,3 @@
-- **2007-03-13 19:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-03-13 20:07**: fix: resolve layout shift during question transitions
 - **2007-03-14 09:20**: chore: update project metadata and build configuration
 - **2007-03-14 14:59**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-04-27 19:02**: chore: format code style and clean up redundant variables
 - **2007-04-27 20:18**: docs: improve code comments and API documentation
 - **2007-04-28 09:07**: feat: add category A and B traffic test questions
+- **2007-04-28 20:35**: refactor: optimize SVG rendering for road signs
