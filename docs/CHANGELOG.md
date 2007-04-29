@@ -1,4 +1,3 @@
-- **2007-03-13 20:07**: fix: resolve layout shift during question transitions
 - **2007-03-14 09:20**: chore: update project metadata and build configuration
 - **2007-03-14 14:59**: feat: add category A and B traffic test questions
 - **2007-03-15 17:44**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-04-27 20:18**: docs: improve code comments and API documentation
 - **2007-04-28 09:07**: feat: add category A and B traffic test questions
 - **2007-04-28 20:35**: refactor: optimize SVG rendering for road signs
+- **2007-04-29 12:51**: fix: resolve layout shift during question transitions
