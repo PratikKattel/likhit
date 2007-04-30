@@ -1,4 +1,3 @@
-- **2007-03-16 20:25**: feat: add keyboard navigation shortcuts for question selection
 - **2007-03-17 11:55**: perf: index question IDs for rapid lookup
 - **2007-03-18 14:54**: fix: resolve layout shift during question transitions
 - **2007-03-19 09:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-04-30 10:19**: perf: index question IDs for rapid lookup
 - **2007-04-30 11:33**: chore: organize assets and image directory structure
 - **2007-04-30 12:08**: refactor: restructure question data schema for faster loading
+- **2007-04-30 15:06**: refactor: modularize traffic app logic and event listeners
