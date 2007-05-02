@@ -1,4 +1,3 @@
-- **2007-03-18 14:54**: fix: resolve layout shift during question transitions
 - **2007-03-19 09:53**: refactor: modularize traffic app logic and event listeners
 - **2007-03-19 20:07**: perf: lazy load signal graphics and question assets
 - **2007-03-20 15:45**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-04-30 12:08**: refactor: restructure question data schema for faster loading
 - **2007-04-30 15:06**: refactor: modularize traffic app logic and event listeners
 - **2007-05-01 21:40**: docs: improve code comments and API documentation
+- **2007-05-02 13:11**: docs: update traffic signals catalog documentation
