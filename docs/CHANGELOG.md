@@ -1,4 +1,3 @@
-- **2007-03-19 20:07**: perf: lazy load signal graphics and question assets
 - **2007-03-20 15:45**: fix: typo in Nepali road safety regulations question
 - **2007-03-20 17:06**: chore: format code style and clean up redundant variables
 - **2007-03-20 17:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2007-05-01 21:40**: docs: improve code comments and API documentation
 - **2007-05-02 13:11**: docs: update traffic signals catalog documentation
 - **2007-05-03 18:28**: chore: format code style and clean up redundant variables
+- **2007-05-04 16:19**: style: improve dark/light mode and mobile UI responsiveness
