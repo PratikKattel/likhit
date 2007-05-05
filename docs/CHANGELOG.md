@@ -1,4 +1,3 @@
-- **2007-03-20 17:06**: chore: format code style and clean up redundant variables
 - **2007-03-20 17:15**: feat: add regulatory traffic signs SVG graphics
 - **2007-03-21 21:18**: test: verify question extraction script against exam PDF
 - **2007-03-21 22:20**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-05-03 18:28**: chore: format code style and clean up redundant variables
 - **2007-05-04 16:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-04 22:28**: style: enhance traffic sign card layout and responsiveness
+- **2007-05-05 11:12**: feat: add instant feedback and explanation on answer selection
