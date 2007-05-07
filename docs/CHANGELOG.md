@@ -1,4 +1,3 @@
-- **2007-03-22 21:45**: fix: correct color specifications for mandatory traffic signs
 - **2007-03-23 09:24**: docs: update traffic signals catalog documentation
 - **2007-03-23 12:03**: perf: optimize image caching for traffic sign assets
 - **2007-03-24 14:43**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2007-05-05 17:40**: docs: improve code comments and API documentation
 - **2007-05-05 21:34**: feat: add result summary with passing threshold analysis
 - **2007-05-06 13:16**: docs: update traffic signals catalog documentation
+- **2007-05-07 11:13**: feat: add category-specific practice modes
