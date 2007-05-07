@@ -1,4 +1,3 @@
-- **2007-03-23 12:03**: perf: optimize image caching for traffic sign assets
 - **2007-03-24 14:43**: docs: update README with setup instructions and feature list
 - **2007-03-24 16:05**: fix: prevent option re-selection after submitting answer
 - **2007-03-25 09:17**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-05-06 13:16**: docs: update traffic signals catalog documentation
 - **2007-05-07 11:13**: feat: add category-specific practice modes
 - **2007-05-07 17:22**: feat: add category-specific practice modes
+- **2007-05-07 19:52**: feat: add regulatory traffic signs SVG graphics
