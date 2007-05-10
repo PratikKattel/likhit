@@ -1,4 +1,3 @@
-- **2007-03-25 21:40**: docs: update README with setup instructions and feature list
 - **2007-03-26 21:59**: feat: support multiple choice questions for motorcycle category
 - **2007-03-27 09:30**: chore: format code style and clean up redundant variables
 - **2007-03-27 15:03**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2007-05-08 21:34**: fix: update DOTM Nepal license syllabus questions
 - **2007-05-09 09:24**: fix: adjust passing score threshold according to new rules
 - **2007-05-09 10:11**: feat: add keyboard navigation shortcuts for question selection
+- **2007-05-10 15:12**: style: enhance traffic sign card layout and responsiveness
