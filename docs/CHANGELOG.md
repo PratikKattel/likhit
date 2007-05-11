@@ -1,4 +1,3 @@
-- **2007-03-26 21:59**: feat: support multiple choice questions for motorcycle category
 - **2007-03-27 09:30**: chore: format code style and clean up redundant variables
 - **2007-03-27 15:03**: style: polish typography and Nepali Unicode font rendering
 - **2007-03-27 15:21**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-05-09 09:24**: fix: adjust passing score threshold according to new rules
 - **2007-05-09 10:11**: feat: add keyboard navigation shortcuts for question selection
 - **2007-05-10 15:12**: style: enhance traffic sign card layout and responsiveness
+- **2007-05-11 09:54**: style: improve dark/light mode and mobile UI responsiveness
