@@ -1,4 +1,3 @@
-- **2007-03-27 15:03**: style: polish typography and Nepali Unicode font rendering
 - **2007-03-27 15:21**: fix: prevent option re-selection after submitting answer
 - **2007-03-28 13:51**: feat: support multiple choice questions for motorcycle category
 - **2007-03-28 14:09**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-05-10 15:12**: style: enhance traffic sign card layout and responsiveness
 - **2007-05-11 09:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-11 18:23**: chore: organize assets and image directory structure
+- **2007-05-12 09:31**: refactor: restructure question data schema for faster loading
