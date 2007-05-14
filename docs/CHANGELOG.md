@@ -1,4 +1,3 @@
-- **2007-03-28 14:09**: fix: prevent option re-selection after submitting answer
 - **2007-03-29 10:54**: perf: optimize image caching for traffic sign assets
 - **2007-03-29 16:46**: fix: adjust passing score threshold according to new rules
 - **2007-03-30 11:08**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2007-05-12 09:31**: refactor: restructure question data schema for faster loading
 - **2007-05-13 15:06**: chore: update questions database with recent DOTM updates
 - **2007-05-13 16:17**: feat: add keyboard navigation shortcuts for question selection
+- **2007-05-14 15:24**: perf: lazy load signal graphics and question assets
