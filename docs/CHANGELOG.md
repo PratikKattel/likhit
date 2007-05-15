@@ -1,4 +1,3 @@
-- **2007-03-30 19:20**: docs: update traffic signals catalog documentation
 - **2007-03-31 14:30**: feat: add search and filter by sign category
 - **2007-04-01 10:22**: style: polish typography and Nepali Unicode font rendering
 - **2007-04-02 11:27**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-05-14 16:51**: feat: add result summary with passing threshold analysis
 - **2007-05-14 18:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-14 20:01**: fix: typo in Nepali road safety regulations question
+- **2007-05-15 12:57**: chore: update questions database with recent DOTM updates
