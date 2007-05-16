@@ -1,4 +1,3 @@
-- **2007-04-01 10:22**: style: polish typography and Nepali Unicode font rendering
 - **2007-04-02 11:27**: perf: index question IDs for rapid lookup
 - **2007-04-03 21:00**: style: enhance traffic sign card layout and responsiveness
 - **2007-04-04 20:48**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2007-05-14 20:01**: fix: typo in Nepali road safety regulations question
 - **2007-05-15 12:57**: chore: update questions database with recent DOTM updates
 - **2007-05-16 09:56**: docs: improve code comments and API documentation
+- **2007-05-16 10:08**: refactor: optimize SVG rendering for road signs
