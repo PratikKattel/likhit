@@ -1,4 +1,3 @@
-- **2007-04-05 16:31**: perf: optimize image caching for traffic sign assets
 - **2007-04-06 12:51**: chore: organize assets and image directory structure
 - **2007-04-07 10:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-04-08 13:06**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-05-19 10:48**: feat: add result summary with passing threshold analysis
 - **2007-05-19 14:20**: feat: add keyboard navigation shortcuts for question selection
 - **2007-05-19 17:48**: fix: correct color specifications for mandatory traffic signs
+- **2007-05-20 16:15**: fix: adjust passing score threshold according to new rules
