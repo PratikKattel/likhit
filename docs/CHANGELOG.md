@@ -1,4 +1,3 @@
-- **2007-04-06 12:51**: chore: organize assets and image directory structure
 - **2007-04-07 10:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-04-08 13:06**: perf: index question IDs for rapid lookup
 - **2007-04-09 13:31**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-05-19 14:20**: feat: add keyboard navigation shortcuts for question selection
 - **2007-05-19 17:48**: fix: correct color specifications for mandatory traffic signs
 - **2007-05-20 16:15**: fix: adjust passing score threshold according to new rules
+- **2007-05-21 11:06**: docs: improve code comments and API documentation
