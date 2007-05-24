@@ -1,4 +1,3 @@
-- **2007-04-12 09:03**: refactor: optimize SVG rendering for road signs
 - **2007-04-12 14:28**: feat: add warning signs and informational road signs
 - **2007-04-12 19:30**: feat: add category A and B traffic test questions
 - **2007-04-13 09:43**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-05-23 18:09**: feat: add instant feedback and explanation on answer selection
 - **2007-05-23 21:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-05-24 10:53**: style: polish typography and Nepali Unicode font rendering
+- **2007-05-24 11:05**: test: verify question extraction script against exam PDF
