@@ -1,4 +1,3 @@
-- **2007-04-13 09:43**: chore: organize assets and image directory structure
 - **2007-04-13 15:13**: docs: update traffic signals catalog documentation
 - **2007-04-14 10:45**: docs: update README with setup instructions and feature list
 - **2007-04-14 11:39**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-05-24 11:05**: test: verify question extraction script against exam PDF
 - **2007-05-25 16:51**: style: polish typography and Nepali Unicode font rendering
 - **2007-05-26 22:00**: fix: resolve layout shift during question transitions
+- **2007-05-27 11:14**: refactor: restructure question data schema for faster loading
