@@ -1,4 +1,3 @@
-- **2007-04-14 10:45**: docs: update README with setup instructions and feature list
 - **2007-04-14 11:39**: chore: update questions database with recent DOTM updates
 - **2007-04-14 19:15**: fix: correct color specifications for mandatory traffic signs
 - **2007-04-15 09:48**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-05-26 22:00**: fix: resolve layout shift during question transitions
 - **2007-05-27 11:14**: refactor: restructure question data schema for faster loading
 - **2007-05-28 17:31**: perf: optimize image caching for traffic sign assets
+- **2007-05-29 09:20**: fix: adjust passing score threshold according to new rules
