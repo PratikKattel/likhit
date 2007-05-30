@@ -1,4 +1,3 @@
-- **2007-04-14 19:15**: fix: correct color specifications for mandatory traffic signs
 - **2007-04-15 09:48**: feat: add keyboard navigation shortcuts for question selection
 - **2007-04-15 11:15**: feat: add category-specific practice modes
 - **2007-04-15 21:32**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-05-28 17:31**: perf: optimize image caching for traffic sign assets
 - **2007-05-29 09:20**: fix: adjust passing score threshold according to new rules
 - **2007-05-29 11:38**: style: polish typography and Nepali Unicode font rendering
+- **2007-05-30 14:50**: perf: lazy load signal graphics and question assets
