@@ -1,4 +1,3 @@
-- **2007-04-15 21:32**: feat: add category-specific practice modes
 - **2007-04-16 17:33**: chore: update questions database with recent DOTM updates
 - **2007-04-16 18:40**: feat: implement timer and score calculation for mock test
 - **2007-04-17 13:34**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-05-30 14:50**: perf: lazy load signal graphics and question assets
 - **2007-05-31 13:09**: feat: add search and filter by sign category
 - **2007-05-31 20:36**: fix: adjust passing score threshold according to new rules
+- **2007-06-01 09:14**: feat: add category-specific practice modes
