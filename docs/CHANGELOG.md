@@ -1,4 +1,3 @@
-- **2007-04-18 13:29**: docs: update README with setup instructions and feature list
 - **2007-04-18 14:29**: feat: implement timer and score calculation for mock test
 - **2007-04-19 15:57**: fix: adjust passing score threshold according to new rules
 - **2007-04-19 16:03**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-06-01 09:32**: perf: index question IDs for rapid lookup
 - **2007-06-02 12:59**: docs: update README with setup instructions and feature list
 - **2007-06-02 14:17**: chore: format code style and clean up redundant variables
+- **2007-06-03 15:47**: perf: lazy load signal graphics and question assets
