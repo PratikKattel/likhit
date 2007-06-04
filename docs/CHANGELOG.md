@@ -1,4 +1,3 @@
-- **2007-04-19 15:57**: fix: adjust passing score threshold according to new rules
 - **2007-04-19 16:03**: chore: update questions database with recent DOTM updates
 - **2007-04-19 17:07**: docs: update README with setup instructions and feature list
 - **2007-04-20 09:33**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-06-02 14:17**: chore: format code style and clean up redundant variables
 - **2007-06-03 15:47**: perf: lazy load signal graphics and question assets
 - **2007-06-03 20:11**: chore: update project metadata and build configuration
+- **2007-06-04 13:46**: docs: update README with setup instructions and feature list
