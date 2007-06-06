@@ -1,4 +1,3 @@
-- **2007-04-21 14:17**: docs: add instructions for Nepali driving license written exam
 - **2007-04-21 15:48**: docs: update README with setup instructions and feature list
 - **2007-04-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-04-22 13:40**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-06-04 22:27**: docs: improve code comments and API documentation
 - **2007-06-05 10:38**: docs: update README with setup instructions and feature list
 - **2007-06-05 12:13**: chore: update project metadata and build configuration
+- **2007-06-06 19:11**: feat: add result summary with passing threshold analysis
