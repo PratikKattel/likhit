@@ -1,4 +1,3 @@
-- **2007-04-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-04-22 13:40**: perf: optimize image caching for traffic sign assets
 - **2007-04-22 16:45**: chore: format code style and clean up redundant variables
 - **2007-04-22 21:23**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-06-05 12:13**: chore: update project metadata and build configuration
 - **2007-06-06 19:11**: feat: add result summary with passing threshold analysis
 - **2007-06-07 18:59**: chore: format code style and clean up redundant variables
+- **2007-06-07 20:36**: feat: add regulatory traffic signs SVG graphics
