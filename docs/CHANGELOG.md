@@ -1,4 +1,3 @@
-- **2007-04-22 13:40**: perf: optimize image caching for traffic sign assets
 - **2007-04-22 16:45**: chore: format code style and clean up redundant variables
 - **2007-04-22 21:23**: feat: add keyboard navigation shortcuts for question selection
 - **2007-04-23 13:17**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-06-06 19:11**: feat: add result summary with passing threshold analysis
 - **2007-06-07 18:59**: chore: format code style and clean up redundant variables
 - **2007-06-07 20:36**: feat: add regulatory traffic signs SVG graphics
+- **2007-06-08 13:12**: feat: add category A and B traffic test questions
