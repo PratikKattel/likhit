@@ -1,4 +1,3 @@
-- **2007-04-23 13:17**: perf: lazy load signal graphics and question assets
 - **2007-04-24 09:16**: docs: update traffic signals catalog documentation
 - **2007-04-25 16:58**: refactor: modularize traffic app logic and event listeners
 - **2007-04-26 17:06**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-06-08 13:12**: feat: add category A and B traffic test questions
 - **2007-06-09 11:58**: perf: lazy load signal graphics and question assets
 - **2007-06-10 19:10**: refactor: optimize SVG rendering for road signs
+- **2007-06-10 19:51**: feat: add warning signs and informational road signs
