@@ -1,4 +1,3 @@
-- **2007-04-26 17:06**: docs: update traffic signals catalog documentation
 - **2007-04-27 19:02**: chore: format code style and clean up redundant variables
 - **2007-04-27 20:18**: docs: improve code comments and API documentation
 - **2007-04-28 09:07**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-06-10 19:51**: feat: add warning signs and informational road signs
 - **2007-06-10 20:07**: chore: organize assets and image directory structure
 - **2007-06-11 09:54**: feat: add category-specific practice modes
+- **2007-06-12 15:35**: feat: add search and filter by sign category
