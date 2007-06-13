@@ -1,4 +1,3 @@
-- **2007-04-27 20:18**: docs: improve code comments and API documentation
 - **2007-04-28 09:07**: feat: add category A and B traffic test questions
 - **2007-04-28 20:35**: refactor: optimize SVG rendering for road signs
 - **2007-04-29 12:51**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-06-11 09:54**: feat: add category-specific practice modes
 - **2007-06-12 15:35**: feat: add search and filter by sign category
 - **2007-06-13 14:34**: feat: implement timer and score calculation for mock test
+- **2007-06-13 20:11**: docs: update traffic signals catalog documentation
