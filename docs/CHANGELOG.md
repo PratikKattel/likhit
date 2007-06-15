@@ -1,4 +1,3 @@
-- **2007-04-28 20:35**: refactor: optimize SVG rendering for road signs
 - **2007-04-29 12:51**: fix: resolve layout shift during question transitions
 - **2007-04-30 10:19**: perf: index question IDs for rapid lookup
 - **2007-04-30 11:33**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-06-13 14:34**: feat: implement timer and score calculation for mock test
 - **2007-06-13 20:11**: docs: update traffic signals catalog documentation
 - **2007-06-14 18:40**: feat: add category-specific practice modes
+- **2007-06-15 09:11**: style: improve dark/light mode and mobile UI responsiveness
