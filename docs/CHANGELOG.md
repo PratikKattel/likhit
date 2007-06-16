@@ -1,4 +1,3 @@
-- **2007-04-30 12:08**: refactor: restructure question data schema for faster loading
 - **2007-04-30 15:06**: refactor: modularize traffic app logic and event listeners
 - **2007-05-01 21:40**: docs: improve code comments and API documentation
 - **2007-05-02 13:11**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-06-15 11:48**: refactor: restructure question data schema for faster loading
 - **2007-06-15 21:55**: refactor: restructure question data schema for faster loading
 - **2007-06-16 16:27**: refactor: modularize traffic app logic and event listeners
+- **2007-06-16 16:57**: fix: update DOTM Nepal license syllabus questions
