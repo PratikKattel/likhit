@@ -1,4 +1,3 @@
-- **2007-05-01 21:40**: docs: improve code comments and API documentation
 - **2007-05-02 13:11**: docs: update traffic signals catalog documentation
 - **2007-05-03 18:28**: chore: format code style and clean up redundant variables
 - **2007-05-04 16:19**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2007-06-16 16:27**: refactor: modularize traffic app logic and event listeners
 - **2007-06-16 16:57**: fix: update DOTM Nepal license syllabus questions
 - **2007-06-16 18:25**: docs: update traffic signals catalog documentation
+- **2007-06-16 19:23**: feat: add keyboard navigation shortcuts for question selection
