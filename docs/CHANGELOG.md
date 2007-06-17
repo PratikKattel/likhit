@@ -1,4 +1,3 @@
-- **2007-05-02 13:11**: docs: update traffic signals catalog documentation
 - **2007-05-03 18:28**: chore: format code style and clean up redundant variables
 - **2007-05-04 16:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-04 22:28**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-06-16 16:57**: fix: update DOTM Nepal license syllabus questions
 - **2007-06-16 18:25**: docs: update traffic signals catalog documentation
 - **2007-06-16 19:23**: feat: add keyboard navigation shortcuts for question selection
+- **2007-06-17 10:18**: fix: resolve layout shift during question transitions
