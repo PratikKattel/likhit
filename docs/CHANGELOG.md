@@ -1,4 +1,3 @@
-- **2007-05-04 16:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-04 22:28**: style: enhance traffic sign card layout and responsiveness
 - **2007-05-05 11:12**: feat: add instant feedback and explanation on answer selection
 - **2007-05-05 17:40**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-06-16 19:23**: feat: add keyboard navigation shortcuts for question selection
 - **2007-06-17 10:18**: fix: resolve layout shift during question transitions
 - **2007-06-17 15:49**: chore: organize assets and image directory structure
+- **2007-06-17 21:23**: chore: update project metadata and build configuration
