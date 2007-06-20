@@ -1,4 +1,3 @@
-- **2007-05-05 17:40**: docs: improve code comments and API documentation
 - **2007-05-05 21:34**: feat: add result summary with passing threshold analysis
 - **2007-05-06 13:16**: docs: update traffic signals catalog documentation
 - **2007-05-07 11:13**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-06-17 21:23**: chore: update project metadata and build configuration
 - **2007-06-18 21:23**: perf: lazy load signal graphics and question assets
 - **2007-06-19 11:34**: fix: prevent option re-selection after submitting answer
+- **2007-06-20 14:58**: feat: add result summary with passing threshold analysis
