@@ -1,4 +1,3 @@
-- **2007-05-07 11:13**: feat: add category-specific practice modes
 - **2007-05-07 17:22**: feat: add category-specific practice modes
 - **2007-05-07 19:52**: feat: add regulatory traffic signs SVG graphics
 - **2007-05-08 21:34**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-06-20 14:58**: feat: add result summary with passing threshold analysis
 - **2007-06-20 21:16**: feat: add result summary with passing threshold analysis
 - **2007-06-21 09:51**: test: verify question extraction script against exam PDF
+- **2007-06-22 12:18**: docs: update README with setup instructions and feature list
