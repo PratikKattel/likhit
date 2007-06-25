@@ -1,4 +1,3 @@
-- **2007-05-10 15:12**: style: enhance traffic sign card layout and responsiveness
 - **2007-05-11 09:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-11 18:23**: chore: organize assets and image directory structure
 - **2007-05-12 09:31**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-06-23 20:19**: chore: update questions database with recent DOTM updates
 - **2007-06-24 15:40**: style: enhance traffic sign card layout and responsiveness
 - **2007-06-24 15:56**: perf: lazy load signal graphics and question assets
+- **2007-06-25 15:40**: fix: correct color specifications for mandatory traffic signs
