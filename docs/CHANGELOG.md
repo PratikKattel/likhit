@@ -1,4 +1,3 @@
-- **2007-05-13 16:17**: feat: add keyboard navigation shortcuts for question selection
 - **2007-05-14 15:24**: perf: lazy load signal graphics and question assets
 - **2007-05-14 16:51**: feat: add result summary with passing threshold analysis
 - **2007-05-14 18:19**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2007-06-25 20:31**: test: verify question extraction script against exam PDF
 - **2007-06-26 13:58**: chore: update project metadata and build configuration
 - **2007-06-26 16:39**: chore: organize assets and image directory structure
+- **2007-06-26 21:57**: fix: prevent option re-selection after submitting answer
