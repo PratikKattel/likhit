@@ -1,4 +1,3 @@
-- **2007-05-14 16:51**: feat: add result summary with passing threshold analysis
 - **2007-05-14 18:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-05-14 20:01**: fix: typo in Nepali road safety regulations question
 - **2007-05-15 12:57**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-06-26 16:39**: chore: organize assets and image directory structure
 - **2007-06-26 21:57**: fix: prevent option re-selection after submitting answer
 - **2007-06-27 15:00**: refactor: restructure question data schema for faster loading
+- **2007-06-28 11:27**: feat: implement timer and score calculation for mock test
