@@ -1,4 +1,3 @@
-- **2007-05-16 10:08**: refactor: optimize SVG rendering for road signs
 - **2007-05-17 11:46**: fix: resolve layout shift during question transitions
 - **2007-05-18 21:47**: fix: correct color specifications for mandatory traffic signs
 - **2007-05-19 10:48**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-06-29 13:24**: perf: index question IDs for rapid lookup
 - **2007-06-29 13:43**: refactor: optimize SVG rendering for road signs
 - **2007-06-29 16:15**: refactor: restructure question data schema for faster loading
+- **2007-06-29 17:35**: docs: update README with setup instructions and feature list
