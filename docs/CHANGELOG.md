@@ -1,4 +1,3 @@
-- **2007-05-14 20:01**: fix: typo in Nepali road safety regulations question
 - **2007-05-15 12:57**: chore: update questions database with recent DOTM updates
 - **2007-05-16 09:56**: docs: improve code comments and API documentation
 - **2007-05-16 10:08**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-06-27 15:00**: refactor: restructure question data schema for faster loading
 - **2007-06-28 11:27**: feat: implement timer and score calculation for mock test
 - **2007-06-28 15:08**: chore: organize assets and image directory structure
+- **2007-06-29 13:24**: perf: index question IDs for rapid lookup
