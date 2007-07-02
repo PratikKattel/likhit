@@ -1,4 +1,3 @@
-- **2007-05-19 17:48**: fix: correct color specifications for mandatory traffic signs
 - **2007-05-20 16:15**: fix: adjust passing score threshold according to new rules
 - **2007-05-21 11:06**: docs: improve code comments and API documentation
 - **2007-05-21 13:16**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-07-01 13:05**: fix: correct color specifications for mandatory traffic signs
 - **2007-07-01 21:47**: feat: add search and filter by sign category
 - **2007-07-02 10:25**: feat: add category A and B traffic test questions
+- **2007-07-02 18:44**: refactor: optimize SVG rendering for road signs
