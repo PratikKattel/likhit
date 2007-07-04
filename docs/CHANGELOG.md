@@ -1,4 +1,3 @@
-- **2007-05-23 18:09**: feat: add instant feedback and explanation on answer selection
 - **2007-05-23 21:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-05-24 10:53**: style: polish typography and Nepali Unicode font rendering
 - **2007-05-24 11:05**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2007-07-03 19:18**: style: enhance traffic sign card layout and responsiveness
 - **2007-07-03 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-07-04 10:54**: fix: update DOTM Nepal license syllabus questions
+- **2007-07-04 16:40**: fix: resolve layout shift during question transitions
