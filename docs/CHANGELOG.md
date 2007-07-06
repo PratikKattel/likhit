@@ -1,4 +1,3 @@
-- **2007-05-24 10:53**: style: polish typography and Nepali Unicode font rendering
 - **2007-05-24 11:05**: test: verify question extraction script against exam PDF
 - **2007-05-25 16:51**: style: polish typography and Nepali Unicode font rendering
 - **2007-05-26 22:00**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-07-04 10:54**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-04 16:40**: fix: resolve layout shift during question transitions
 - **2007-07-05 19:20**: feat: add search and filter by sign category
+- **2007-07-06 20:52**: feat: add keyboard navigation shortcuts for question selection
