@@ -1,4 +1,3 @@
-- **2007-05-26 22:00**: fix: resolve layout shift during question transitions
 - **2007-05-27 11:14**: refactor: restructure question data schema for faster loading
 - **2007-05-28 17:31**: perf: optimize image caching for traffic sign assets
 - **2007-05-29 09:20**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-07-06 20:52**: feat: add keyboard navigation shortcuts for question selection
 - **2007-07-07 21:37**: fix: adjust passing score threshold according to new rules
 - **2007-07-08 13:32**: style: polish typography and Nepali Unicode font rendering
+- **2007-07-08 14:27**: feat: add category-specific practice modes
