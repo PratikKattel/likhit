@@ -1,4 +1,3 @@
-- **2007-05-29 09:20**: fix: adjust passing score threshold according to new rules
 - **2007-05-29 11:38**: style: polish typography and Nepali Unicode font rendering
 - **2007-05-30 14:50**: perf: lazy load signal graphics and question assets
 - **2007-05-31 13:09**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2007-07-08 14:27**: feat: add category-specific practice modes
 - **2007-07-08 19:03**: docs: update traffic signals catalog documentation
 - **2007-07-09 09:05**: chore: update project metadata and build configuration
+- **2007-07-09 17:59**: fix: update DOTM Nepal license syllabus questions
