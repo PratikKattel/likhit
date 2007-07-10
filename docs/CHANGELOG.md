@@ -1,4 +1,3 @@
-- **2007-05-30 14:50**: perf: lazy load signal graphics and question assets
 - **2007-05-31 13:09**: feat: add search and filter by sign category
 - **2007-05-31 20:36**: fix: adjust passing score threshold according to new rules
 - **2007-06-01 09:14**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-07-09 09:05**: chore: update project metadata and build configuration
 - **2007-07-09 17:59**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-10 12:18**: feat: add result summary with passing threshold analysis
+- **2007-07-10 20:06**: perf: optimize image caching for traffic sign assets
