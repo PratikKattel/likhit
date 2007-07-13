@@ -1,4 +1,3 @@
-- **2007-06-01 09:32**: perf: index question IDs for rapid lookup
 - **2007-06-02 12:59**: docs: update README with setup instructions and feature list
 - **2007-06-02 14:17**: chore: format code style and clean up redundant variables
 - **2007-06-03 15:47**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-07-11 18:19**: chore: format code style and clean up redundant variables
 - **2007-07-12 16:43**: feat: add instant feedback and explanation on answer selection
 - **2007-07-13 09:40**: fix: correct color specifications for mandatory traffic signs
+- **2007-07-13 12:30**: feat: add result summary with passing threshold analysis
