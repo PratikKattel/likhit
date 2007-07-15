@@ -1,4 +1,3 @@
-- **2007-06-04 22:27**: docs: improve code comments and API documentation
 - **2007-06-05 10:38**: docs: update README with setup instructions and feature list
 - **2007-06-05 12:13**: chore: update project metadata and build configuration
 - **2007-06-06 19:11**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-07-14 18:29**: fix: correct color specifications for mandatory traffic signs
 - **2007-07-14 19:13**: feat: implement timer and score calculation for mock test
 - **2007-07-14 19:38**: docs: add instructions for Nepali driving license written exam
+- **2007-07-15 12:52**: perf: lazy load signal graphics and question assets
