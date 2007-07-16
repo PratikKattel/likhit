@@ -1,4 +1,3 @@
-- **2007-06-05 12:13**: chore: update project metadata and build configuration
 - **2007-06-06 19:11**: feat: add result summary with passing threshold analysis
 - **2007-06-07 18:59**: chore: format code style and clean up redundant variables
 - **2007-06-07 20:36**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2007-07-14 19:38**: docs: add instructions for Nepali driving license written exam
 - **2007-07-15 12:52**: perf: lazy load signal graphics and question assets
 - **2007-07-15 16:14**: docs: add instructions for Nepali driving license written exam
+- **2007-07-16 17:35**: feat: add warning signs and informational road signs
