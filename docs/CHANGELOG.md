@@ -1,4 +1,3 @@
-- **2007-06-07 18:59**: chore: format code style and clean up redundant variables
 - **2007-06-07 20:36**: feat: add regulatory traffic signs SVG graphics
 - **2007-06-08 13:12**: feat: add category A and B traffic test questions
 - **2007-06-09 11:58**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-07-15 16:14**: docs: add instructions for Nepali driving license written exam
 - **2007-07-16 17:35**: feat: add warning signs and informational road signs
 - **2007-07-16 18:00**: refactor: modularize traffic app logic and event listeners
+- **2007-07-17 14:47**: docs: add instructions for Nepali driving license written exam
