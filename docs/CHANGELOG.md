@@ -1,4 +1,3 @@
-- **2007-06-09 11:58**: perf: lazy load signal graphics and question assets
 - **2007-06-10 19:10**: refactor: optimize SVG rendering for road signs
 - **2007-06-10 19:51**: feat: add warning signs and informational road signs
 - **2007-06-10 20:07**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-07-17 14:47**: docs: add instructions for Nepali driving license written exam
 - **2007-07-18 13:03**: docs: update traffic signals catalog documentation
 - **2007-07-19 09:04**: feat: add regulatory traffic signs SVG graphics
+- **2007-07-19 17:41**: refactor: optimize SVG rendering for road signs
