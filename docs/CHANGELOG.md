@@ -1,4 +1,3 @@
-- **2007-06-11 09:54**: feat: add category-specific practice modes
 - **2007-06-12 15:35**: feat: add search and filter by sign category
 - **2007-06-13 14:34**: feat: implement timer and score calculation for mock test
 - **2007-06-13 20:11**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-07-20 20:14**: chore: update project metadata and build configuration
 - **2007-07-21 10:10**: docs: improve code comments and API documentation
 - **2007-07-22 14:43**: feat: add result summary with passing threshold analysis
+- **2007-07-23 15:17**: fix: update DOTM Nepal license syllabus questions
