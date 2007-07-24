@@ -1,4 +1,3 @@
-- **2007-06-13 20:11**: docs: update traffic signals catalog documentation
 - **2007-06-14 18:40**: feat: add category-specific practice modes
 - **2007-06-15 09:11**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-06-15 11:48**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-07-23 15:17**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-24 09:24**: chore: update project metadata and build configuration
 - **2007-07-24 11:23**: feat: add instant feedback and explanation on answer selection
+- **2007-07-24 13:01**: perf: lazy load signal graphics and question assets
