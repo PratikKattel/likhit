@@ -1,4 +1,3 @@
-- **2007-06-15 09:11**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-06-15 11:48**: refactor: restructure question data schema for faster loading
 - **2007-06-15 21:55**: refactor: restructure question data schema for faster loading
 - **2007-06-16 16:27**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-07-24 11:23**: feat: add instant feedback and explanation on answer selection
 - **2007-07-24 13:01**: perf: lazy load signal graphics and question assets
 - **2007-07-24 16:06**: fix: typo in Nepali road safety regulations question
+- **2007-07-25 17:41**: fix: update DOTM Nepal license syllabus questions
