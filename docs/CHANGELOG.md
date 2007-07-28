@@ -1,4 +1,3 @@
-- **2007-06-16 16:57**: fix: update DOTM Nepal license syllabus questions
 - **2007-06-16 18:25**: docs: update traffic signals catalog documentation
 - **2007-06-16 19:23**: feat: add keyboard navigation shortcuts for question selection
 - **2007-06-17 10:18**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-07-25 21:26**: docs: update traffic signals catalog documentation
 - **2007-07-26 10:59**: refactor: modularize traffic app logic and event listeners
 - **2007-07-27 16:21**: refactor: optimize SVG rendering for road signs
+- **2007-07-28 18:05**: feat: add category A and B traffic test questions
