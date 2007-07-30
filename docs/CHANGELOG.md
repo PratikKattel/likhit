@@ -1,4 +1,3 @@
-- **2007-06-17 10:18**: fix: resolve layout shift during question transitions
 - **2007-06-17 15:49**: chore: organize assets and image directory structure
 - **2007-06-17 21:23**: chore: update project metadata and build configuration
 - **2007-06-18 21:23**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-07-28 18:05**: feat: add category A and B traffic test questions
 - **2007-07-29 16:49**: chore: organize assets and image directory structure
 - **2007-07-30 11:51**: fix: prevent option re-selection after submitting answer
+- **2007-07-30 11:56**: perf: optimize image caching for traffic sign assets
