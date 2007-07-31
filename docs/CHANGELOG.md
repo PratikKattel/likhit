@@ -1,4 +1,3 @@
-- **2007-06-17 21:23**: chore: update project metadata and build configuration
 - **2007-06-18 21:23**: perf: lazy load signal graphics and question assets
 - **2007-06-19 11:34**: fix: prevent option re-selection after submitting answer
 - **2007-06-20 14:58**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-07-30 11:51**: fix: prevent option re-selection after submitting answer
 - **2007-07-30 11:56**: perf: optimize image caching for traffic sign assets
 - **2007-07-31 11:34**: perf: lazy load signal graphics and question assets
+- **2007-07-31 17:46**: refactor: restructure question data schema for faster loading
