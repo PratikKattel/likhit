@@ -1,4 +1,3 @@
-- **2007-06-18 21:23**: perf: lazy load signal graphics and question assets
 - **2007-06-19 11:34**: fix: prevent option re-selection after submitting answer
 - **2007-06-20 14:58**: feat: add result summary with passing threshold analysis
 - **2007-06-20 21:16**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2007-07-30 11:56**: perf: optimize image caching for traffic sign assets
 - **2007-07-31 11:34**: perf: lazy load signal graphics and question assets
 - **2007-07-31 17:46**: refactor: restructure question data schema for faster loading
+- **2007-08-01 16:38**: chore: organize assets and image directory structure
