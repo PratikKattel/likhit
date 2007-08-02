@@ -1,4 +1,3 @@
-- **2007-06-20 21:16**: feat: add result summary with passing threshold analysis
 - **2007-06-21 09:51**: test: verify question extraction script against exam PDF
 - **2007-06-22 12:18**: docs: update README with setup instructions and feature list
 - **2007-06-22 22:21**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2007-08-01 16:38**: chore: organize assets and image directory structure
 - **2007-08-01 19:32**: chore: update project metadata and build configuration
 - **2007-08-02 14:39**: feat: add result summary with passing threshold analysis
+- **2007-08-02 14:54**: feat: support multiple choice questions for motorcycle category
