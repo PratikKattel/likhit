@@ -1,4 +1,3 @@
-- **2007-06-22 22:21**: feat: add regulatory traffic signs SVG graphics
 - **2007-06-23 16:51**: fix: prevent option re-selection after submitting answer
 - **2007-06-23 20:19**: chore: update questions database with recent DOTM updates
 - **2007-06-24 15:40**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-08-02 14:54**: feat: support multiple choice questions for motorcycle category
 - **2007-08-02 17:20**: refactor: restructure question data schema for faster loading
 - **2007-08-03 18:05**: feat: add result summary with passing threshold analysis
+- **2007-08-03 21:03**: perf: index question IDs for rapid lookup
