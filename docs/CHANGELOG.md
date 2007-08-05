@@ -1,4 +1,3 @@
-- **2007-06-24 15:40**: style: enhance traffic sign card layout and responsiveness
 - **2007-06-24 15:56**: perf: lazy load signal graphics and question assets
 - **2007-06-25 15:40**: fix: correct color specifications for mandatory traffic signs
 - **2007-06-25 19:00**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2007-08-03 21:03**: perf: index question IDs for rapid lookup
 - **2007-08-04 10:01**: docs: update README with setup instructions and feature list
 - **2007-08-04 10:47**: fix: update DOTM Nepal license syllabus questions
+- **2007-08-05 11:37**: feat: add instant feedback and explanation on answer selection
