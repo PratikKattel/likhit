@@ -1,4 +1,3 @@
-- **2007-06-25 20:31**: test: verify question extraction script against exam PDF
 - **2007-06-26 13:58**: chore: update project metadata and build configuration
 - **2007-06-26 16:39**: chore: organize assets and image directory structure
 - **2007-06-26 21:57**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-08-06 11:18**: fix: adjust passing score threshold according to new rules
 - **2007-08-07 09:26**: test: verify question extraction script against exam PDF
 - **2007-08-07 17:23**: refactor: optimize SVG rendering for road signs
+- **2007-08-07 18:00**: test: verify question extraction script against exam PDF
