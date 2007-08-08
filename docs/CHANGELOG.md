@@ -1,4 +1,3 @@
-- **2007-06-26 16:39**: chore: organize assets and image directory structure
 - **2007-06-26 21:57**: fix: prevent option re-selection after submitting answer
 - **2007-06-27 15:00**: refactor: restructure question data schema for faster loading
 - **2007-06-28 11:27**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2007-08-07 17:23**: refactor: optimize SVG rendering for road signs
 - **2007-08-07 18:00**: test: verify question extraction script against exam PDF
 - **2007-08-08 17:29**: chore: update project metadata and build configuration
+- **2007-08-08 20:40**: feat: add category-specific practice modes
