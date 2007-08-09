@@ -1,4 +1,3 @@
-- **2007-06-27 15:00**: refactor: restructure question data schema for faster loading
 - **2007-06-28 11:27**: feat: implement timer and score calculation for mock test
 - **2007-06-28 15:08**: chore: organize assets and image directory structure
 - **2007-06-29 13:24**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-08-08 17:29**: chore: update project metadata and build configuration
 - **2007-08-08 20:40**: feat: add category-specific practice modes
 - **2007-08-08 21:56**: feat: add category-specific practice modes
+- **2007-08-09 09:21**: fix: typo in Nepali road safety regulations question
