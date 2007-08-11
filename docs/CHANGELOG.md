@@ -1,4 +1,3 @@
-- **2007-06-29 16:15**: refactor: restructure question data schema for faster loading
 - **2007-06-29 17:35**: docs: update README with setup instructions and feature list
 - **2007-06-30 21:51**: test: verify question extraction script against exam PDF
 - **2007-07-01 13:05**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-08-10 10:54**: perf: index question IDs for rapid lookup
 - **2007-08-10 18:13**: chore: update questions database with recent DOTM updates
 - **2007-08-11 12:31**: fix: resolve layout shift during question transitions
+- **2007-08-11 14:26**: feat: implement timer and score calculation for mock test
