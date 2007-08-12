@@ -1,4 +1,3 @@
-- **2007-06-30 21:51**: test: verify question extraction script against exam PDF
 - **2007-07-01 13:05**: fix: correct color specifications for mandatory traffic signs
 - **2007-07-01 21:47**: feat: add search and filter by sign category
 - **2007-07-02 10:25**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-08-11 12:31**: fix: resolve layout shift during question transitions
 - **2007-08-11 14:26**: feat: implement timer and score calculation for mock test
 - **2007-08-12 09:21**: feat: support multiple choice questions for motorcycle category
+- **2007-08-12 20:14**: style: polish typography and Nepali Unicode font rendering
