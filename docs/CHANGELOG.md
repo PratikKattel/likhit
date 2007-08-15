@@ -1,4 +1,3 @@
-- **2007-07-02 18:44**: refactor: optimize SVG rendering for road signs
 - **2007-07-02 19:32**: fix: resolve layout shift during question transitions
 - **2007-07-03 17:59**: refactor: optimize SVG rendering for road signs
 - **2007-07-03 19:18**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-08-13 11:42**: feat: implement timer and score calculation for mock test
 - **2007-08-13 15:05**: chore: update project metadata and build configuration
 - **2007-08-14 09:01**: refactor: modularize traffic app logic and event listeners
+- **2007-08-15 17:29**: fix: adjust passing score threshold according to new rules
