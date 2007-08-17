@@ -1,4 +1,3 @@
-- **2007-07-03 19:18**: style: enhance traffic sign card layout and responsiveness
 - **2007-07-03 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-07-04 10:54**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-04 16:40**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-08-15 17:29**: fix: adjust passing score threshold according to new rules
 - **2007-08-16 13:01**: fix: correct color specifications for mandatory traffic signs
 - **2007-08-16 22:00**: style: enhance traffic sign card layout and responsiveness
+- **2007-08-17 11:51**: refactor: optimize SVG rendering for road signs
