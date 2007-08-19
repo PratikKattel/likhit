@@ -1,4 +1,3 @@
-- **2007-07-05 19:20**: feat: add search and filter by sign category
 - **2007-07-06 20:52**: feat: add keyboard navigation shortcuts for question selection
 - **2007-07-07 21:37**: fix: adjust passing score threshold according to new rules
 - **2007-07-08 13:32**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2007-08-18 12:54**: chore: organize assets and image directory structure
 - **2007-08-18 20:43**: feat: add keyboard navigation shortcuts for question selection
 - **2007-08-18 20:52**: docs: improve code comments and API documentation
+- **2007-08-19 09:05**: refactor: modularize traffic app logic and event listeners
