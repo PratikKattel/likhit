@@ -1,4 +1,3 @@
-- **2007-07-08 13:32**: style: polish typography and Nepali Unicode font rendering
 - **2007-07-08 14:27**: feat: add category-specific practice modes
 - **2007-07-08 19:03**: docs: update traffic signals catalog documentation
 - **2007-07-09 09:05**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2007-08-19 09:05**: refactor: modularize traffic app logic and event listeners
 - **2007-08-19 11:18**: feat: add result summary with passing threshold analysis
 - **2007-08-19 22:13**: feat: add keyboard navigation shortcuts for question selection
+- **2007-08-20 21:26**: chore: format code style and clean up redundant variables
