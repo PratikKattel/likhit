@@ -1,4 +1,3 @@
-- **2007-07-08 14:27**: feat: add category-specific practice modes
 - **2007-07-08 19:03**: docs: update traffic signals catalog documentation
 - **2007-07-09 09:05**: chore: update project metadata and build configuration
 - **2007-07-09 17:59**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-08-19 11:18**: feat: add result summary with passing threshold analysis
 - **2007-08-19 22:13**: feat: add keyboard navigation shortcuts for question selection
 - **2007-08-20 21:26**: chore: format code style and clean up redundant variables
+- **2007-08-21 13:56**: style: polish typography and Nepali Unicode font rendering
