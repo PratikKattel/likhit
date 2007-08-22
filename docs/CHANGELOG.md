@@ -1,4 +1,3 @@
-- **2007-07-09 09:05**: chore: update project metadata and build configuration
 - **2007-07-09 17:59**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-10 12:18**: feat: add result summary with passing threshold analysis
 - **2007-07-10 20:06**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-08-20 21:26**: chore: format code style and clean up redundant variables
 - **2007-08-21 13:56**: style: polish typography and Nepali Unicode font rendering
 - **2007-08-22 10:49**: chore: organize assets and image directory structure
+- **2007-08-22 14:23**: fix: typo in Nepali road safety regulations question
