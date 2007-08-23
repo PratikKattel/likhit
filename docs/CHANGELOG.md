@@ -1,4 +1,3 @@
-- **2007-07-10 20:06**: perf: optimize image caching for traffic sign assets
 - **2007-07-11 18:19**: chore: format code style and clean up redundant variables
 - **2007-07-12 16:43**: feat: add instant feedback and explanation on answer selection
 - **2007-07-13 09:40**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-08-22 14:23**: fix: typo in Nepali road safety regulations question
 - **2007-08-22 17:34**: feat: implement timer and score calculation for mock test
 - **2007-08-23 11:17**: feat: add category-specific practice modes
+- **2007-08-23 14:58**: chore: update questions database with recent DOTM updates
