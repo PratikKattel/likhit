@@ -1,4 +1,3 @@
-- **2007-07-10 12:18**: feat: add result summary with passing threshold analysis
 - **2007-07-10 20:06**: perf: optimize image caching for traffic sign assets
 - **2007-07-11 18:19**: chore: format code style and clean up redundant variables
 - **2007-07-12 16:43**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2007-08-22 10:49**: chore: organize assets and image directory structure
 - **2007-08-22 14:23**: fix: typo in Nepali road safety regulations question
 - **2007-08-22 17:34**: feat: implement timer and score calculation for mock test
+- **2007-08-23 11:17**: feat: add category-specific practice modes
