@@ -1,4 +1,3 @@
-- **2007-07-12 16:43**: feat: add instant feedback and explanation on answer selection
 - **2007-07-13 09:40**: fix: correct color specifications for mandatory traffic signs
 - **2007-07-13 12:30**: feat: add result summary with passing threshold analysis
 - **2007-07-13 18:01**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-08-23 11:17**: feat: add category-specific practice modes
 - **2007-08-23 14:58**: chore: update questions database with recent DOTM updates
 - **2007-08-23 15:46**: chore: update project metadata and build configuration
+- **2007-08-23 19:23**: chore: format code style and clean up redundant variables
