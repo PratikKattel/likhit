@@ -1,4 +1,3 @@
-- **2007-07-13 09:40**: fix: correct color specifications for mandatory traffic signs
 - **2007-07-13 12:30**: feat: add result summary with passing threshold analysis
 - **2007-07-13 18:01**: chore: update questions database with recent DOTM updates
 - **2007-07-14 09:44**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2007-08-23 14:58**: chore: update questions database with recent DOTM updates
 - **2007-08-23 15:46**: chore: update project metadata and build configuration
 - **2007-08-23 19:23**: chore: format code style and clean up redundant variables
+- **2007-08-24 11:59**: chore: format code style and clean up redundant variables
