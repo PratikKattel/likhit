@@ -1,4 +1,3 @@
-- **2007-07-14 19:13**: feat: implement timer and score calculation for mock test
 - **2007-07-14 19:38**: docs: add instructions for Nepali driving license written exam
 - **2007-07-15 12:52**: perf: lazy load signal graphics and question assets
 - **2007-07-15 16:14**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2007-08-24 21:03**: chore: organize assets and image directory structure
 - **2007-08-25 11:07**: fix: typo in Nepali road safety regulations question
 - **2007-08-25 14:08**: feat: add keyboard navigation shortcuts for question selection
+- **2007-08-26 13:56**: chore: format code style and clean up redundant variables
