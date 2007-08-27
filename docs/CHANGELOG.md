@@ -1,4 +1,3 @@
-- **2007-07-15 12:52**: perf: lazy load signal graphics and question assets
 - **2007-07-15 16:14**: docs: add instructions for Nepali driving license written exam
 - **2007-07-16 17:35**: feat: add warning signs and informational road signs
 - **2007-07-16 18:00**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-08-25 14:08**: feat: add keyboard navigation shortcuts for question selection
 - **2007-08-26 13:56**: chore: format code style and clean up redundant variables
 - **2007-08-26 21:47**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-08-27 17:13**: style: polish typography and Nepali Unicode font rendering
