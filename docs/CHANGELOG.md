@@ -1,4 +1,3 @@
-- **2007-07-16 17:35**: feat: add warning signs and informational road signs
 - **2007-07-16 18:00**: refactor: modularize traffic app logic and event listeners
 - **2007-07-17 14:47**: docs: add instructions for Nepali driving license written exam
 - **2007-07-18 13:03**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-08-26 21:47**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-08-27 17:13**: style: polish typography and Nepali Unicode font rendering
 - **2007-08-28 16:31**: perf: optimize image caching for traffic sign assets
+- **2007-08-29 22:21**: feat: add category-specific practice modes
