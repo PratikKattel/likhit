@@ -1,4 +1,3 @@
-- **2007-07-17 14:47**: docs: add instructions for Nepali driving license written exam
 - **2007-07-18 13:03**: docs: update traffic signals catalog documentation
 - **2007-07-19 09:04**: feat: add regulatory traffic signs SVG graphics
 - **2007-07-19 17:41**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-08-28 16:31**: perf: optimize image caching for traffic sign assets
 - **2007-08-29 22:21**: feat: add category-specific practice modes
 - **2007-08-30 18:13**: chore: organize assets and image directory structure
+- **2007-08-31 21:53**: perf: optimize image caching for traffic sign assets
