@@ -1,4 +1,3 @@
-- **2007-07-24 11:23**: feat: add instant feedback and explanation on answer selection
 - **2007-07-24 13:01**: perf: lazy load signal graphics and question assets
 - **2007-07-24 16:06**: fix: typo in Nepali road safety regulations question
 - **2007-07-25 17:41**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-09-05 14:40**: perf: lazy load signal graphics and question assets
 - **2007-09-06 15:12**: chore: organize assets and image directory structure
 - **2007-09-07 11:30**: perf: optimize image caching for traffic sign assets
+- **2007-09-07 17:04**: refactor: restructure question data schema for faster loading
