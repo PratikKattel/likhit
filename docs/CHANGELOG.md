@@ -1,4 +1,3 @@
-- **2007-07-24 16:06**: fix: typo in Nepali road safety regulations question
 - **2007-07-25 17:41**: fix: update DOTM Nepal license syllabus questions
 - **2007-07-25 21:26**: docs: update traffic signals catalog documentation
 - **2007-07-26 10:59**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-09-07 11:30**: perf: optimize image caching for traffic sign assets
 - **2007-09-07 17:04**: refactor: restructure question data schema for faster loading
 - **2007-09-08 13:18**: perf: index question IDs for rapid lookup
+- **2007-09-08 19:31**: feat: add search and filter by sign category
