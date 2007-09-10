@@ -1,4 +1,3 @@
-- **2007-07-26 10:59**: refactor: modularize traffic app logic and event listeners
 - **2007-07-27 16:21**: refactor: optimize SVG rendering for road signs
 - **2007-07-28 18:05**: feat: add category A and B traffic test questions
 - **2007-07-29 16:49**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-09-08 19:31**: feat: add search and filter by sign category
 - **2007-09-08 22:24**: perf: lazy load signal graphics and question assets
 - **2007-09-09 16:34**: feat: add warning signs and informational road signs
+- **2007-09-10 15:25**: style: polish typography and Nepali Unicode font rendering
