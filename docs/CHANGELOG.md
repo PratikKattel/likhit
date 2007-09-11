@@ -1,4 +1,3 @@
-- **2007-07-29 16:49**: chore: organize assets and image directory structure
 - **2007-07-30 11:51**: fix: prevent option re-selection after submitting answer
 - **2007-07-30 11:56**: perf: optimize image caching for traffic sign assets
 - **2007-07-31 11:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-09-10 15:25**: style: polish typography and Nepali Unicode font rendering
 - **2007-09-10 17:14**: refactor: modularize traffic app logic and event listeners
 - **2007-09-10 19:11**: test: verify question extraction script against exam PDF
+- **2007-09-11 17:46**: fix: correct color specifications for mandatory traffic signs
