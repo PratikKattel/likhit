@@ -1,4 +1,3 @@
-- **2007-07-30 11:56**: perf: optimize image caching for traffic sign assets
 - **2007-07-31 11:34**: perf: lazy load signal graphics and question assets
 - **2007-07-31 17:46**: refactor: restructure question data schema for faster loading
 - **2007-08-01 16:38**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-09-10 19:11**: test: verify question extraction script against exam PDF
 - **2007-09-11 17:46**: fix: correct color specifications for mandatory traffic signs
 - **2007-09-11 21:26**: chore: update questions database with recent DOTM updates
+- **2007-09-12 09:06**: perf: optimize image caching for traffic sign assets
