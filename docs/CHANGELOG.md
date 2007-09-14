@@ -1,4 +1,3 @@
-- **2007-08-01 19:32**: chore: update project metadata and build configuration
 - **2007-08-02 14:39**: feat: add result summary with passing threshold analysis
 - **2007-08-02 14:54**: feat: support multiple choice questions for motorcycle category
 - **2007-08-02 17:20**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-09-12 09:26**: fix: prevent option re-selection after submitting answer
 - **2007-09-12 22:16**: feat: add category A and B traffic test questions
 - **2007-09-13 19:08**: style: enhance traffic sign card layout and responsiveness
+- **2007-09-14 19:44**: style: enhance traffic sign card layout and responsiveness
