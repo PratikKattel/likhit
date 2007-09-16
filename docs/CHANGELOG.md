@@ -1,4 +1,3 @@
-- **2007-08-03 21:03**: perf: index question IDs for rapid lookup
 - **2007-08-04 10:01**: docs: update README with setup instructions and feature list
 - **2007-08-04 10:47**: fix: update DOTM Nepal license syllabus questions
 - **2007-08-05 11:37**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2007-09-15 17:52**: feat: add category-specific practice modes
 - **2007-09-15 18:20**: chore: format code style and clean up redundant variables
 - **2007-09-15 20:32**: chore: format code style and clean up redundant variables
+- **2007-09-16 16:23**: feat: implement timer and score calculation for mock test
