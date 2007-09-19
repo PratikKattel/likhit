@@ -1,4 +1,3 @@
-- **2007-08-07 18:00**: test: verify question extraction script against exam PDF
 - **2007-08-08 17:29**: chore: update project metadata and build configuration
 - **2007-08-08 20:40**: feat: add category-specific practice modes
 - **2007-08-08 21:56**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-09-18 10:31**: chore: organize assets and image directory structure
 - **2007-09-19 14:54**: feat: add result summary with passing threshold analysis
 - **2007-09-19 18:36**: chore: update questions database with recent DOTM updates
+- **2007-09-19 20:09**: chore: update questions database with recent DOTM updates
