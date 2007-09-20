@@ -1,4 +1,3 @@
-- **2007-08-08 17:29**: chore: update project metadata and build configuration
 - **2007-08-08 20:40**: feat: add category-specific practice modes
 - **2007-08-08 21:56**: feat: add category-specific practice modes
 - **2007-08-09 09:21**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-09-19 14:54**: feat: add result summary with passing threshold analysis
 - **2007-09-19 18:36**: chore: update questions database with recent DOTM updates
 - **2007-09-19 20:09**: chore: update questions database with recent DOTM updates
+- **2007-09-20 15:03**: fix: update DOTM Nepal license syllabus questions
