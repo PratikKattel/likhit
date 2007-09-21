@@ -1,4 +1,3 @@
-- **2007-08-09 16:47**: feat: add search and filter by sign category
 - **2007-08-10 10:54**: perf: index question IDs for rapid lookup
 - **2007-08-10 18:13**: chore: update questions database with recent DOTM updates
 - **2007-08-11 12:31**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-09-20 21:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-09-20 21:14**: refactor: optimize SVG rendering for road signs
 - **2007-09-21 09:16**: fix: typo in Nepali road safety regulations question
+- **2007-09-21 11:42**: perf: optimize image caching for traffic sign assets
