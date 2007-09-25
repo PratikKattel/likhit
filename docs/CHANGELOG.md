@@ -1,4 +1,3 @@
-- **2007-08-12 09:21**: feat: support multiple choice questions for motorcycle category
 - **2007-08-12 20:14**: style: polish typography and Nepali Unicode font rendering
 - **2007-08-13 11:42**: feat: implement timer and score calculation for mock test
 - **2007-08-13 15:05**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2007-09-23 11:39**: style: enhance traffic sign card layout and responsiveness
 - **2007-09-23 21:48**: feat: add keyboard navigation shortcuts for question selection
 - **2007-09-24 15:51**: style: enhance traffic sign card layout and responsiveness
+- **2007-09-25 11:23**: style: improve dark/light mode and mobile UI responsiveness
