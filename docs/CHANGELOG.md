@@ -1,4 +1,3 @@
-- **2007-08-14 09:01**: refactor: modularize traffic app logic and event listeners
 - **2007-08-15 17:29**: fix: adjust passing score threshold according to new rules
 - **2007-08-16 13:01**: fix: correct color specifications for mandatory traffic signs
 - **2007-08-16 22:00**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-09-26 10:25**: chore: format code style and clean up redundant variables
 - **2007-09-26 10:26**: refactor: optimize SVG rendering for road signs
 - **2007-09-26 12:16**: feat: add category-specific practice modes
+- **2007-09-26 18:34**: perf: lazy load signal graphics and question assets
