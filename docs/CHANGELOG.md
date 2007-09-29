@@ -1,4 +1,3 @@
-- **2007-08-18 12:54**: chore: organize assets and image directory structure
 - **2007-08-18 20:43**: feat: add keyboard navigation shortcuts for question selection
 - **2007-08-18 20:52**: docs: improve code comments and API documentation
 - **2007-08-19 09:05**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-09-27 11:53**: feat: support multiple choice questions for motorcycle category
 - **2007-09-28 22:03**: refactor: optimize SVG rendering for road signs
 - **2007-09-29 12:22**: fix: correct color specifications for mandatory traffic signs
+- **2007-09-29 12:41**: feat: implement timer and score calculation for mock test
