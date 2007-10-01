@@ -1,4 +1,3 @@
-- **2007-08-21 13:56**: style: polish typography and Nepali Unicode font rendering
 - **2007-08-22 10:49**: chore: organize assets and image directory structure
 - **2007-08-22 14:23**: fix: typo in Nepali road safety regulations question
 - **2007-08-22 17:34**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2007-09-30 12:45**: feat: support multiple choice questions for motorcycle category
 - **2007-09-30 17:47**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-01 13:28**: docs: update README with setup instructions and feature list
+- **2007-10-01 16:15**: fix: correct color specifications for mandatory traffic signs
