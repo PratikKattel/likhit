@@ -1,4 +1,3 @@
-- **2007-08-20 21:26**: chore: format code style and clean up redundant variables
 - **2007-08-21 13:56**: style: polish typography and Nepali Unicode font rendering
 - **2007-08-22 10:49**: chore: organize assets and image directory structure
 - **2007-08-22 14:23**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-09-30 10:25**: test: verify question extraction script against exam PDF
 - **2007-09-30 12:45**: feat: support multiple choice questions for motorcycle category
 - **2007-09-30 17:47**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-10-01 13:28**: docs: update README with setup instructions and feature list
