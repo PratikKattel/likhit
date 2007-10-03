@@ -1,4 +1,3 @@
-- **2007-08-23 11:17**: feat: add category-specific practice modes
 - **2007-08-23 14:58**: chore: update questions database with recent DOTM updates
 - **2007-08-23 15:46**: chore: update project metadata and build configuration
 - **2007-08-23 19:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2007-10-01 18:27**: test: verify question extraction script against exam PDF
 - **2007-10-02 14:08**: docs: add instructions for Nepali driving license written exam
 - **2007-10-02 17:44**: chore: update questions database with recent DOTM updates
+- **2007-10-03 13:50**: fix: update DOTM Nepal license syllabus questions
