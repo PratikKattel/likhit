@@ -1,4 +1,3 @@
-- **2007-08-24 12:31**: feat: add warning signs and informational road signs
 - **2007-08-24 21:03**: chore: organize assets and image directory structure
 - **2007-08-25 11:07**: fix: typo in Nepali road safety regulations question
 - **2007-08-25 14:08**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-10-04 12:36**: refactor: optimize SVG rendering for road signs
 - **2007-10-05 09:52**: perf: optimize image caching for traffic sign assets
 - **2007-10-05 17:17**: feat: add instant feedback and explanation on answer selection
+- **2007-10-06 21:14**: chore: format code style and clean up redundant variables
