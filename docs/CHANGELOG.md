@@ -1,4 +1,3 @@
-- **2007-08-25 11:07**: fix: typo in Nepali road safety regulations question
 - **2007-08-25 14:08**: feat: add keyboard navigation shortcuts for question selection
 - **2007-08-26 13:56**: chore: format code style and clean up redundant variables
 - **2007-08-26 21:47**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-10-05 17:17**: feat: add instant feedback and explanation on answer selection
 - **2007-10-06 21:14**: chore: format code style and clean up redundant variables
 - **2007-10-07 19:56**: refactor: modularize traffic app logic and event listeners
+- **2007-10-07 20:56**: perf: optimize image caching for traffic sign assets
