@@ -1,4 +1,3 @@
-- **2007-08-28 16:31**: perf: optimize image caching for traffic sign assets
 - **2007-08-29 22:21**: feat: add category-specific practice modes
 - **2007-08-30 18:13**: chore: organize assets and image directory structure
 - **2007-08-31 21:53**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-10-08 17:28**: feat: add category A and B traffic test questions
 - **2007-10-08 18:04**: perf: index question IDs for rapid lookup
 - **2007-10-09 18:16**: feat: add warning signs and informational road signs
+- **2007-10-10 14:25**: feat: add category-specific practice modes
