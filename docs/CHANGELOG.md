@@ -1,4 +1,3 @@
-- **2007-08-31 21:53**: perf: optimize image caching for traffic sign assets
 - **2007-09-01 18:10**: docs: improve code comments and API documentation
 - **2007-09-02 11:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-09-03 11:13**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-10-10 14:25**: feat: add category-specific practice modes
 - **2007-10-10 19:44**: chore: organize assets and image directory structure
 - **2007-10-11 09:39**: chore: update questions database with recent DOTM updates
+- **2007-10-12 19:07**: docs: update README with setup instructions and feature list
