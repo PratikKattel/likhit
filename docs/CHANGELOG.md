@@ -1,4 +1,3 @@
-- **2007-09-08 22:24**: perf: lazy load signal graphics and question assets
 - **2007-09-09 16:34**: feat: add warning signs and informational road signs
 - **2007-09-10 15:25**: style: polish typography and Nepali Unicode font rendering
 - **2007-09-10 17:14**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2007-10-17 09:51**: style: enhance traffic sign card layout and responsiveness
 - **2007-10-17 16:57**: feat: implement timer and score calculation for mock test
 - **2007-10-17 21:03**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-10-17 21:14**: feat: add category-specific practice modes
