@@ -1,4 +1,3 @@
-- **2007-09-08 13:18**: perf: index question IDs for rapid lookup
 - **2007-09-08 19:31**: feat: add search and filter by sign category
 - **2007-09-08 22:24**: perf: lazy load signal graphics and question assets
 - **2007-09-09 16:34**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2007-10-16 17:41**: feat: add instant feedback and explanation on answer selection
 - **2007-10-16 17:52**: fix: correct color specifications for mandatory traffic signs
 - **2007-10-17 09:51**: style: enhance traffic sign card layout and responsiveness
+- **2007-10-17 16:57**: feat: implement timer and score calculation for mock test
