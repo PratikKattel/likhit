@@ -1,4 +1,3 @@
-- **2007-09-07 17:04**: refactor: restructure question data schema for faster loading
 - **2007-09-08 13:18**: perf: index question IDs for rapid lookup
 - **2007-09-08 19:31**: feat: add search and filter by sign category
 - **2007-09-08 22:24**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-10-16 09:29**: perf: lazy load signal graphics and question assets
 - **2007-10-16 17:41**: feat: add instant feedback and explanation on answer selection
 - **2007-10-16 17:52**: fix: correct color specifications for mandatory traffic signs
+- **2007-10-17 09:51**: style: enhance traffic sign card layout and responsiveness
