@@ -1,4 +1,3 @@
-- **2007-09-09 16:34**: feat: add warning signs and informational road signs
 - **2007-09-10 15:25**: style: polish typography and Nepali Unicode font rendering
 - **2007-09-10 17:14**: refactor: modularize traffic app logic and event listeners
 - **2007-09-10 19:11**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2007-10-17 16:57**: feat: implement timer and score calculation for mock test
 - **2007-10-17 21:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-17 21:14**: feat: add category-specific practice modes
+- **2007-10-18 10:05**: feat: support multiple choice questions for motorcycle category
