@@ -1,4 +1,3 @@
-- **2007-09-11 17:46**: fix: correct color specifications for mandatory traffic signs
 - **2007-09-11 21:26**: chore: update questions database with recent DOTM updates
 - **2007-09-12 09:06**: perf: optimize image caching for traffic sign assets
 - **2007-09-12 09:26**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-10-19 12:32**: perf: index question IDs for rapid lookup
 - **2007-10-19 13:26**: fix: adjust passing score threshold according to new rules
 - **2007-10-20 14:05**: test: verify question extraction script against exam PDF
+- **2007-10-21 19:57**: refactor: restructure question data schema for faster loading
