@@ -1,4 +1,3 @@
-- **2007-09-12 22:16**: feat: add category A and B traffic test questions
 - **2007-09-13 19:08**: style: enhance traffic sign card layout and responsiveness
 - **2007-09-14 19:44**: style: enhance traffic sign card layout and responsiveness
 - **2007-09-14 22:03**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-10-22 10:20**: chore: organize assets and image directory structure
 - **2007-10-22 20:47**: feat: add warning signs and informational road signs
 - **2007-10-23 19:51**: fix: adjust passing score threshold according to new rules
+- **2007-10-23 21:35**: refactor: modularize traffic app logic and event listeners
