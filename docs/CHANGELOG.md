@@ -1,4 +1,3 @@
-- **2007-09-14 22:03**: refactor: optimize SVG rendering for road signs
 - **2007-09-15 17:52**: feat: add category-specific practice modes
 - **2007-09-15 18:20**: chore: format code style and clean up redundant variables
 - **2007-09-15 20:32**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2007-10-23 21:35**: refactor: modularize traffic app logic and event listeners
 - **2007-10-24 10:30**: refactor: modularize traffic app logic and event listeners
 - **2007-10-24 10:51**: style: polish typography and Nepali Unicode font rendering
+- **2007-10-24 12:27**: docs: improve code comments and API documentation
