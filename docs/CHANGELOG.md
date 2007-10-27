@@ -1,4 +1,3 @@
-- **2007-09-16 17:40**: style: polish typography and Nepali Unicode font rendering
 - **2007-09-16 18:42**: fix: correct color specifications for mandatory traffic signs
 - **2007-09-17 13:30**: perf: lazy load signal graphics and question assets
 - **2007-09-18 10:31**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-10-25 16:23**: refactor: restructure question data schema for faster loading
 - **2007-10-25 21:19**: chore: update project metadata and build configuration
 - **2007-10-26 18:18**: feat: add search and filter by sign category
+- **2007-10-27 10:11**: fix: resolve layout shift during question transitions
