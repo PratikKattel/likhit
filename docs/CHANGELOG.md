@@ -1,4 +1,3 @@
-- **2007-09-18 10:31**: chore: organize assets and image directory structure
 - **2007-09-19 14:54**: feat: add result summary with passing threshold analysis
 - **2007-09-19 18:36**: chore: update questions database with recent DOTM updates
 - **2007-09-19 20:09**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-10-27 10:11**: fix: resolve layout shift during question transitions
 - **2007-10-27 12:49**: feat: add instant feedback and explanation on answer selection
 - **2007-10-27 21:02**: refactor: optimize SVG rendering for road signs
+- **2007-10-28 21:13**: feat: add warning signs and informational road signs
