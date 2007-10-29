@@ -1,4 +1,3 @@
-- **2007-09-19 20:09**: chore: update questions database with recent DOTM updates
 - **2007-09-20 15:03**: fix: update DOTM Nepal license syllabus questions
 - **2007-09-20 21:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-09-20 21:14**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-10-28 21:13**: feat: add warning signs and informational road signs
 - **2007-10-29 11:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-29 11:23**: refactor: restructure question data schema for faster loading
+- **2007-10-29 14:08**: docs: add instructions for Nepali driving license written exam
