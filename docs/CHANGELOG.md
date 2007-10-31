@@ -1,4 +1,3 @@
-- **2007-09-20 21:14**: refactor: optimize SVG rendering for road signs
 - **2007-09-21 09:16**: fix: typo in Nepali road safety regulations question
 - **2007-09-21 11:42**: perf: optimize image caching for traffic sign assets
 - **2007-09-22 19:37**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-10-29 14:08**: docs: add instructions for Nepali driving license written exam
 - **2007-10-30 09:03**: perf: lazy load signal graphics and question assets
 - **2007-10-31 10:55**: feat: add warning signs and informational road signs
+- **2007-10-31 11:15**: chore: organize assets and image directory structure
