@@ -1,4 +1,3 @@
-- **2007-09-21 09:16**: fix: typo in Nepali road safety regulations question
 - **2007-09-21 11:42**: perf: optimize image caching for traffic sign assets
 - **2007-09-22 19:37**: refactor: optimize SVG rendering for road signs
 - **2007-09-23 11:39**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-10-30 09:03**: perf: lazy load signal graphics and question assets
 - **2007-10-31 10:55**: feat: add warning signs and informational road signs
 - **2007-10-31 11:15**: chore: organize assets and image directory structure
+- **2007-10-31 14:38**: fix: update DOTM Nepal license syllabus questions
