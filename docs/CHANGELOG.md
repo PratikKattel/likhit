@@ -1,4 +1,3 @@
-- **2007-09-22 19:37**: refactor: optimize SVG rendering for road signs
 - **2007-09-23 11:39**: style: enhance traffic sign card layout and responsiveness
 - **2007-09-23 21:48**: feat: add keyboard navigation shortcuts for question selection
 - **2007-09-24 15:51**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2007-10-31 11:15**: chore: organize assets and image directory structure
 - **2007-10-31 14:38**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-01 15:19**: style: enhance traffic sign card layout and responsiveness
+- **2007-11-01 21:16**: style: improve dark/light mode and mobile UI responsiveness
