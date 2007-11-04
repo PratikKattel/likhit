@@ -1,4 +1,3 @@
-- **2007-09-24 15:51**: style: enhance traffic sign card layout and responsiveness
 - **2007-09-25 11:23**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-09-26 10:25**: chore: format code style and clean up redundant variables
 - **2007-09-26 10:26**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-11-01 21:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-11-02 09:31**: feat: add instant feedback and explanation on answer selection
 - **2007-11-03 11:21**: feat: add category A and B traffic test questions
+- **2007-11-04 12:34**: feat: add search and filter by sign category
