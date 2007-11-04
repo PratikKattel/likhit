@@ -1,4 +1,3 @@
-- **2007-09-25 11:23**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-09-26 10:25**: chore: format code style and clean up redundant variables
 - **2007-09-26 10:26**: refactor: optimize SVG rendering for road signs
 - **2007-09-26 12:16**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2007-11-02 09:31**: feat: add instant feedback and explanation on answer selection
 - **2007-11-03 11:21**: feat: add category A and B traffic test questions
 - **2007-11-04 12:34**: feat: add search and filter by sign category
+- **2007-11-04 16:28**: fix: adjust passing score threshold according to new rules
