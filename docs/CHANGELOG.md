@@ -1,4 +1,3 @@
-- **2007-09-26 10:26**: refactor: optimize SVG rendering for road signs
 - **2007-09-26 12:16**: feat: add category-specific practice modes
 - **2007-09-26 18:34**: perf: lazy load signal graphics and question assets
 - **2007-09-27 11:08**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-11-04 12:34**: feat: add search and filter by sign category
 - **2007-11-04 16:28**: fix: adjust passing score threshold according to new rules
 - **2007-11-04 20:46**: refactor: optimize SVG rendering for road signs
+- **2007-11-05 09:29**: refactor: clean up unused CSS classes and optimize stylesheet
