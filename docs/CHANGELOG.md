@@ -1,4 +1,3 @@
-- **2007-09-26 18:34**: perf: lazy load signal graphics and question assets
 - **2007-09-27 11:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-09-27 11:53**: feat: support multiple choice questions for motorcycle category
 - **2007-09-28 22:03**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-11-04 20:46**: refactor: optimize SVG rendering for road signs
 - **2007-11-05 09:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-05 18:23**: fix: resolve layout shift during question transitions
+- **2007-11-06 10:32**: feat: implement timer and score calculation for mock test
