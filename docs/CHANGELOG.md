@@ -1,4 +1,3 @@
-- **2007-09-27 11:53**: feat: support multiple choice questions for motorcycle category
 - **2007-09-28 22:03**: refactor: optimize SVG rendering for road signs
 - **2007-09-29 12:22**: fix: correct color specifications for mandatory traffic signs
 - **2007-09-29 12:41**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2007-11-05 18:23**: fix: resolve layout shift during question transitions
 - **2007-11-06 10:32**: feat: implement timer and score calculation for mock test
 - **2007-11-07 10:19**: fix: correct color specifications for mandatory traffic signs
+- **2007-11-08 15:07**: perf: optimize image caching for traffic sign assets
