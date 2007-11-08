@@ -1,4 +1,3 @@
-- **2007-09-28 22:03**: refactor: optimize SVG rendering for road signs
 - **2007-09-29 12:22**: fix: correct color specifications for mandatory traffic signs
 - **2007-09-29 12:41**: feat: implement timer and score calculation for mock test
 - **2007-09-29 17:20**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-11-06 10:32**: feat: implement timer and score calculation for mock test
 - **2007-11-07 10:19**: fix: correct color specifications for mandatory traffic signs
 - **2007-11-08 15:07**: perf: optimize image caching for traffic sign assets
+- **2007-11-08 20:11**: feat: add category A and B traffic test questions
