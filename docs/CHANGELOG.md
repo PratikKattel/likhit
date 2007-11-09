@@ -1,4 +1,3 @@
-- **2007-09-29 12:41**: feat: implement timer and score calculation for mock test
 - **2007-09-29 17:20**: refactor: optimize SVG rendering for road signs
 - **2007-09-29 20:40**: feat: add keyboard navigation shortcuts for question selection
 - **2007-09-30 10:25**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2007-11-08 15:07**: perf: optimize image caching for traffic sign assets
 - **2007-11-08 20:11**: feat: add category A and B traffic test questions
 - **2007-11-09 18:19**: fix: update DOTM Nepal license syllabus questions
+- **2007-11-09 18:41**: perf: lazy load signal graphics and question assets
