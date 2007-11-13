@@ -1,4 +1,3 @@
-- **2007-09-30 12:45**: feat: support multiple choice questions for motorcycle category
 - **2007-09-30 17:47**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-01 13:28**: docs: update README with setup instructions and feature list
 - **2007-10-01 16:15**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-11-10 17:07**: feat: add category A and B traffic test questions
 - **2007-11-11 17:02**: refactor: optimize SVG rendering for road signs
 - **2007-11-12 11:17**: fix: update DOTM Nepal license syllabus questions
+- **2007-11-13 18:56**: fix: typo in Nepali road safety regulations question
