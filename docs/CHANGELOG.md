@@ -1,4 +1,3 @@
-- **2007-10-01 16:15**: fix: correct color specifications for mandatory traffic signs
 - **2007-10-01 18:27**: test: verify question extraction script against exam PDF
 - **2007-10-02 14:08**: docs: add instructions for Nepali driving license written exam
 - **2007-10-02 17:44**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2007-11-13 18:56**: fix: typo in Nepali road safety regulations question
 - **2007-11-14 13:56**: feat: add result summary with passing threshold analysis
 - **2007-11-14 15:28**: fix: prevent option re-selection after submitting answer
+- **2007-11-15 16:08**: docs: add instructions for Nepali driving license written exam
