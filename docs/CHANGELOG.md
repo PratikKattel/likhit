@@ -1,4 +1,3 @@
-- **2007-10-02 14:08**: docs: add instructions for Nepali driving license written exam
 - **2007-10-02 17:44**: chore: update questions database with recent DOTM updates
 - **2007-10-03 13:50**: fix: update DOTM Nepal license syllabus questions
 - **2007-10-03 15:36**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2007-11-14 15:28**: fix: prevent option re-selection after submitting answer
 - **2007-11-15 16:08**: docs: add instructions for Nepali driving license written exam
 - **2007-11-15 20:21**: feat: add category A and B traffic test questions
+- **2007-11-15 21:00**: chore: organize assets and image directory structure
