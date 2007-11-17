@@ -1,4 +1,3 @@
-- **2007-10-03 13:50**: fix: update DOTM Nepal license syllabus questions
 - **2007-10-03 15:36**: feat: add keyboard navigation shortcuts for question selection
 - **2007-10-04 12:36**: refactor: optimize SVG rendering for road signs
 - **2007-10-05 09:52**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2007-11-15 20:21**: feat: add category A and B traffic test questions
 - **2007-11-15 21:00**: chore: organize assets and image directory structure
 - **2007-11-16 16:44**: perf: lazy load signal graphics and question assets
+- **2007-11-17 12:41**: refactor: optimize SVG rendering for road signs
