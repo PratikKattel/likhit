@@ -1,4 +1,3 @@
-- **2007-10-03 15:36**: feat: add keyboard navigation shortcuts for question selection
 - **2007-10-04 12:36**: refactor: optimize SVG rendering for road signs
 - **2007-10-05 09:52**: perf: optimize image caching for traffic sign assets
 - **2007-10-05 17:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2007-11-15 21:00**: chore: organize assets and image directory structure
 - **2007-11-16 16:44**: perf: lazy load signal graphics and question assets
 - **2007-11-17 12:41**: refactor: optimize SVG rendering for road signs
+- **2007-11-18 17:07**: feat: add result summary with passing threshold analysis
