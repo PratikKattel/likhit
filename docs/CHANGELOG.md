@@ -1,4 +1,3 @@
-- **2007-10-07 19:56**: refactor: modularize traffic app logic and event listeners
 - **2007-10-07 20:56**: perf: optimize image caching for traffic sign assets
 - **2007-10-08 15:19**: feat: add instant feedback and explanation on answer selection
 - **2007-10-08 17:28**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-11-19 10:13**: docs: improve code comments and API documentation
 - **2007-11-19 14:44**: fix: typo in Nepali road safety regulations question
 - **2007-11-19 22:12**: refactor: modularize traffic app logic and event listeners
+- **2007-11-20 20:35**: feat: support multiple choice questions for motorcycle category
