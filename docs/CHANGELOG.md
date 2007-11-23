@@ -1,4 +1,3 @@
-- **2007-10-08 18:04**: perf: index question IDs for rapid lookup
 - **2007-10-09 18:16**: feat: add warning signs and informational road signs
 - **2007-10-10 14:25**: feat: add category-specific practice modes
 - **2007-10-10 19:44**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-11-21 09:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-22 09:47**: chore: organize assets and image directory structure
 - **2007-11-23 14:19**: chore: update project metadata and build configuration
+- **2007-11-23 19:58**: test: verify question extraction script against exam PDF
