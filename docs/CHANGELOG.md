@@ -1,4 +1,3 @@
-- **2007-10-10 14:25**: feat: add category-specific practice modes
 - **2007-10-10 19:44**: chore: organize assets and image directory structure
 - **2007-10-11 09:39**: chore: update questions database with recent DOTM updates
 - **2007-10-12 19:07**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2007-11-23 14:19**: chore: update project metadata and build configuration
 - **2007-11-23 19:58**: test: verify question extraction script against exam PDF
 - **2007-11-23 22:07**: style: improve dark/light mode and mobile UI responsiveness
+- **2007-11-24 10:49**: perf: index question IDs for rapid lookup
