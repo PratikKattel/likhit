@@ -1,4 +1,3 @@
-- **2007-10-12 19:07**: docs: update README with setup instructions and feature list
 - **2007-10-13 18:36**: feat: add instant feedback and explanation on answer selection
 - **2007-10-14 09:31**: refactor: restructure question data schema for faster loading
 - **2007-10-15 12:44**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-11-24 10:49**: perf: index question IDs for rapid lookup
 - **2007-11-24 15:51**: fix: resolve layout shift during question transitions
 - **2007-11-24 17:22**: feat: add instant feedback and explanation on answer selection
+- **2007-11-24 22:15**: fix: resolve layout shift during question transitions
