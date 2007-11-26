@@ -1,4 +1,3 @@
-- **2007-10-14 09:31**: refactor: restructure question data schema for faster loading
 - **2007-10-15 12:44**: perf: lazy load signal graphics and question assets
 - **2007-10-15 14:52**: refactor: optimize SVG rendering for road signs
 - **2007-10-15 17:08**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2007-11-24 17:22**: feat: add instant feedback and explanation on answer selection
 - **2007-11-24 22:15**: fix: resolve layout shift during question transitions
 - **2007-11-25 20:23**: feat: support multiple choice questions for motorcycle category
+- **2007-11-26 11:55**: perf: optimize image caching for traffic sign assets
