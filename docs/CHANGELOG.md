@@ -1,4 +1,3 @@
-- **2007-10-16 17:52**: fix: correct color specifications for mandatory traffic signs
 - **2007-10-17 09:51**: style: enhance traffic sign card layout and responsiveness
 - **2007-10-17 16:57**: feat: implement timer and score calculation for mock test
 - **2007-10-17 21:03**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2007-11-26 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-11-27 21:13**: docs: improve code comments and API documentation
 - **2007-11-28 20:37**: chore: update questions database with recent DOTM updates
+- **2007-11-29 10:06**: fix: resolve layout shift during question transitions
