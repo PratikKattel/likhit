@@ -1,4 +1,3 @@
-- **2007-10-17 21:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-17 21:14**: feat: add category-specific practice modes
 - **2007-10-18 10:05**: feat: support multiple choice questions for motorcycle category
 - **2007-10-19 12:32**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2007-11-29 10:06**: fix: resolve layout shift during question transitions
 - **2007-11-30 17:08**: feat: add result summary with passing threshold analysis
 - **2007-12-01 16:47**: fix: update DOTM Nepal license syllabus questions
+- **2007-12-02 09:58**: feat: add result summary with passing threshold analysis
