@@ -1,4 +1,3 @@
-- **2007-10-19 13:26**: fix: adjust passing score threshold according to new rules
 - **2007-10-20 14:05**: test: verify question extraction script against exam PDF
 - **2007-10-21 19:57**: refactor: restructure question data schema for faster loading
 - **2007-10-22 10:20**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-12-02 20:27**: feat: add category A and B traffic test questions
 - **2007-12-03 13:53**: docs: improve code comments and API documentation
 - **2007-12-03 13:58**: chore: update project metadata and build configuration
+- **2007-12-03 19:06**: test: verify question extraction script against exam PDF
