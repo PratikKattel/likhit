@@ -1,4 +1,3 @@
-- **2007-10-21 19:57**: refactor: restructure question data schema for faster loading
 - **2007-10-22 10:20**: chore: organize assets and image directory structure
 - **2007-10-22 20:47**: feat: add warning signs and informational road signs
 - **2007-10-23 19:51**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-12-03 13:58**: chore: update project metadata and build configuration
 - **2007-12-03 19:06**: test: verify question extraction script against exam PDF
 - **2007-12-04 17:40**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-12-05 12:17**: feat: support multiple choice questions for motorcycle category
