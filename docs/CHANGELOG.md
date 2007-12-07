@@ -1,4 +1,3 @@
-- **2007-10-24 10:30**: refactor: modularize traffic app logic and event listeners
 - **2007-10-24 10:51**: style: polish typography and Nepali Unicode font rendering
 - **2007-10-24 12:27**: docs: improve code comments and API documentation
 - **2007-10-25 12:41**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2007-12-06 09:09**: chore: update project metadata and build configuration
 - **2007-12-06 12:13**: docs: improve code comments and API documentation
 - **2007-12-06 22:22**: docs: improve code comments and API documentation
+- **2007-12-07 18:48**: fix: adjust passing score threshold according to new rules
