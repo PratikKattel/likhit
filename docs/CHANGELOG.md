@@ -1,4 +1,3 @@
-- **2007-10-24 12:27**: docs: improve code comments and API documentation
 - **2007-10-25 12:41**: feat: add search and filter by sign category
 - **2007-10-25 16:23**: refactor: restructure question data schema for faster loading
 - **2007-10-25 21:19**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2007-12-06 22:22**: docs: improve code comments and API documentation
 - **2007-12-07 18:48**: fix: adjust passing score threshold according to new rules
 - **2007-12-08 19:27**: perf: optimize image caching for traffic sign assets
+- **2007-12-09 11:12**: style: enhance traffic sign card layout and responsiveness
