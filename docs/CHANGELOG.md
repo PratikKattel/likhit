@@ -1,4 +1,3 @@
-- **2007-10-27 10:11**: fix: resolve layout shift during question transitions
 - **2007-10-27 12:49**: feat: add instant feedback and explanation on answer selection
 - **2007-10-27 21:02**: refactor: optimize SVG rendering for road signs
 - **2007-10-28 21:13**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2007-12-10 15:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-11 17:09**: test: verify question extraction script against exam PDF
 - **2007-12-11 21:59**: style: improve dark/light mode and mobile UI responsiveness
+- **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
