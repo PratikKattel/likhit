@@ -1,4 +1,3 @@
-- **2007-10-27 21:02**: refactor: optimize SVG rendering for road signs
 - **2007-10-28 21:13**: feat: add warning signs and informational road signs
 - **2007-10-29 11:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-29 11:23**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2007-12-11 21:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-12-13 09:33**: fix: correct color specifications for mandatory traffic signs
+- **2007-12-13 14:23**: perf: optimize image caching for traffic sign assets
