@@ -1,4 +1,3 @@
-- **2007-10-28 21:13**: feat: add warning signs and informational road signs
 - **2007-10-29 11:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-10-29 11:23**: refactor: restructure question data schema for faster loading
 - **2007-10-29 14:08**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-12-13 09:33**: fix: correct color specifications for mandatory traffic signs
 - **2007-12-13 14:23**: perf: optimize image caching for traffic sign assets
+- **2007-12-14 20:14**: perf: optimize image caching for traffic sign assets
