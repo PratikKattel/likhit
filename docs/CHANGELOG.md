@@ -1,4 +1,3 @@
-- **2007-10-30 09:03**: perf: lazy load signal graphics and question assets
 - **2007-10-31 10:55**: feat: add warning signs and informational road signs
 - **2007-10-31 11:15**: chore: organize assets and image directory structure
 - **2007-10-31 14:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2007-12-15 21:21**: feat: add category A and B traffic test questions
 - **2007-12-15 21:44**: feat: implement timer and score calculation for mock test
 - **2007-12-16 11:38**: feat: add regulatory traffic signs SVG graphics
+- **2007-12-16 20:14**: docs: update README with setup instructions and feature list
