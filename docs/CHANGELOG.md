@@ -1,4 +1,3 @@
-- **2007-10-31 11:15**: chore: organize assets and image directory structure
 - **2007-10-31 14:38**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-01 15:19**: style: enhance traffic sign card layout and responsiveness
 - **2007-11-01 21:16**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2007-12-16 11:38**: feat: add regulatory traffic signs SVG graphics
 - **2007-12-16 20:14**: docs: update README with setup instructions and feature list
 - **2007-12-17 18:31**: feat: add instant feedback and explanation on answer selection
+- **2007-12-18 12:47**: feat: add instant feedback and explanation on answer selection
