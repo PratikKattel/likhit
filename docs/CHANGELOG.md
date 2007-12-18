@@ -1,4 +1,3 @@
-- **2007-11-01 15:19**: style: enhance traffic sign card layout and responsiveness
 - **2007-11-01 21:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-11-02 09:31**: feat: add instant feedback and explanation on answer selection
 - **2007-11-03 11:21**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-12-17 18:31**: feat: add instant feedback and explanation on answer selection
 - **2007-12-18 12:47**: feat: add instant feedback and explanation on answer selection
 - **2007-12-18 14:52**: fix: adjust passing score threshold according to new rules
+- **2007-12-18 16:53**: fix: typo in Nepali road safety regulations question
