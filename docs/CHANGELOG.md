@@ -1,4 +1,3 @@
-- **2007-11-02 09:31**: feat: add instant feedback and explanation on answer selection
 - **2007-11-03 11:21**: feat: add category A and B traffic test questions
 - **2007-11-04 12:34**: feat: add search and filter by sign category
 - **2007-11-04 16:28**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2007-12-18 14:52**: fix: adjust passing score threshold according to new rules
 - **2007-12-18 16:53**: fix: typo in Nepali road safety regulations question
 - **2007-12-18 21:38**: fix: typo in Nepali road safety regulations question
+- **2007-12-19 22:04**: refactor: modularize traffic app logic and event listeners
