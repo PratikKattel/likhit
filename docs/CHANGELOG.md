@@ -1,4 +1,3 @@
-- **2007-11-04 16:28**: fix: adjust passing score threshold according to new rules
 - **2007-11-04 20:46**: refactor: optimize SVG rendering for road signs
 - **2007-11-05 09:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-05 18:23**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2007-12-19 22:04**: refactor: modularize traffic app logic and event listeners
 - **2007-12-20 09:19**: docs: update traffic signals catalog documentation
 - **2007-12-20 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2007-12-21 11:21**: perf: lazy load signal graphics and question assets
