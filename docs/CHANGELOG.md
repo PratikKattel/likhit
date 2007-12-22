@@ -1,4 +1,3 @@
-- **2007-11-05 09:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-05 18:23**: fix: resolve layout shift during question transitions
 - **2007-11-06 10:32**: feat: implement timer and score calculation for mock test
 - **2007-11-07 10:19**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2007-12-20 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-21 11:21**: perf: lazy load signal graphics and question assets
 - **2007-12-21 11:31**: feat: add category-specific practice modes
+- **2007-12-22 12:32**: feat: add search and filter by sign category
