@@ -1,4 +1,3 @@
-- **2007-11-06 10:32**: feat: implement timer and score calculation for mock test
 - **2007-11-07 10:19**: fix: correct color specifications for mandatory traffic signs
 - **2007-11-08 15:07**: perf: optimize image caching for traffic sign assets
 - **2007-11-08 20:11**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2007-12-21 11:31**: feat: add category-specific practice modes
 - **2007-12-22 12:32**: feat: add search and filter by sign category
 - **2007-12-23 11:19**: docs: update README with setup instructions and feature list
+- **2007-12-24 13:18**: fix: update DOTM Nepal license syllabus questions
