@@ -1,4 +1,3 @@
-- **2007-11-09 18:19**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-09 18:41**: perf: lazy load signal graphics and question assets
 - **2007-11-10 17:07**: feat: add category A and B traffic test questions
 - **2007-11-11 17:02**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2007-12-25 12:10**: feat: add search and filter by sign category
 - **2007-12-26 09:14**: chore: update project metadata and build configuration
 - **2007-12-26 11:16**: docs: update traffic signals catalog documentation
+- **2007-12-26 19:31**: perf: lazy load signal graphics and question assets
