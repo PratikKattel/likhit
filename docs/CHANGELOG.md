@@ -1,4 +1,3 @@
-- **2007-11-08 15:07**: perf: optimize image caching for traffic sign assets
 - **2007-11-08 20:11**: feat: add category A and B traffic test questions
 - **2007-11-09 18:19**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-09 18:41**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2007-12-23 11:19**: docs: update README with setup instructions and feature list
 - **2007-12-24 13:18**: fix: update DOTM Nepal license syllabus questions
 - **2007-12-25 12:10**: feat: add search and filter by sign category
+- **2007-12-26 09:14**: chore: update project metadata and build configuration
