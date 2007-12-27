@@ -1,4 +1,3 @@
-- **2007-11-10 17:07**: feat: add category A and B traffic test questions
 - **2007-11-11 17:02**: refactor: optimize SVG rendering for road signs
 - **2007-11-12 11:17**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-13 18:56**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2007-12-26 11:16**: docs: update traffic signals catalog documentation
 - **2007-12-26 19:31**: perf: lazy load signal graphics and question assets
 - **2007-12-27 13:12**: fix: typo in Nepali road safety regulations question
+- **2007-12-27 14:52**: chore: format code style and clean up redundant variables
