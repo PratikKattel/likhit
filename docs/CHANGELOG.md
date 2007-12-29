@@ -1,4 +1,3 @@
-- **2007-11-12 11:17**: fix: update DOTM Nepal license syllabus questions
 - **2007-11-13 18:56**: fix: typo in Nepali road safety regulations question
 - **2007-11-14 13:56**: feat: add result summary with passing threshold analysis
 - **2007-11-14 15:28**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2007-12-27 13:12**: fix: typo in Nepali road safety regulations question
 - **2007-12-27 14:52**: chore: format code style and clean up redundant variables
 - **2007-12-28 17:58**: refactor: restructure question data schema for faster loading
+- **2007-12-29 17:29**: refactor: modularize traffic app logic and event listeners
