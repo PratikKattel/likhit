@@ -1,4 +1,3 @@
-- **2007-11-14 15:28**: fix: prevent option re-selection after submitting answer
 - **2007-11-15 16:08**: docs: add instructions for Nepali driving license written exam
 - **2007-11-15 20:21**: feat: add category A and B traffic test questions
 - **2007-11-15 21:00**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2007-12-29 17:29**: refactor: modularize traffic app logic and event listeners
 - **2007-12-30 20:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-12-30 20:11**: chore: update project metadata and build configuration
+- **2007-12-31 10:00**: chore: format code style and clean up redundant variables
