@@ -1,4 +1,3 @@
-- **2007-11-16 16:44**: perf: lazy load signal graphics and question assets
 - **2007-11-17 12:41**: refactor: optimize SVG rendering for road signs
 - **2007-11-18 17:07**: feat: add result summary with passing threshold analysis
 - **2007-11-19 09:31**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2007-12-31 18:51**: test: verify question extraction script against exam PDF
 - **2008-01-01 12:21**: style: polish typography and Nepali Unicode font rendering
 - **2008-01-01 12:38**: feat: add category-specific practice modes
+- **2008-01-01 21:15**: chore: organize assets and image directory structure
