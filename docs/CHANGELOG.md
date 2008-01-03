@@ -1,4 +1,3 @@
-- **2007-11-19 14:44**: fix: typo in Nepali road safety regulations question
 - **2007-11-19 22:12**: refactor: modularize traffic app logic and event listeners
 - **2007-11-20 20:35**: feat: support multiple choice questions for motorcycle category
 - **2007-11-21 09:36**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-01-03 09:39**: fix: resolve layout shift during question transitions
 - **2008-01-03 14:34**: feat: add warning signs and informational road signs
 - **2008-01-03 16:28**: chore: update project metadata and build configuration
+- **2008-01-03 16:51**: docs: add instructions for Nepali driving license written exam
