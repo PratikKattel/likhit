@@ -1,4 +1,3 @@
-- **2007-11-19 09:31**: docs: improve code comments and API documentation
 - **2007-11-19 10:13**: docs: improve code comments and API documentation
 - **2007-11-19 14:44**: fix: typo in Nepali road safety regulations question
 - **2007-11-19 22:12**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-01-01 21:15**: chore: organize assets and image directory structure
 - **2008-01-02 20:54**: chore: format code style and clean up redundant variables
 - **2008-01-03 09:39**: fix: resolve layout shift during question transitions
+- **2008-01-03 14:34**: feat: add warning signs and informational road signs
