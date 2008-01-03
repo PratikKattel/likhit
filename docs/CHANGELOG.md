@@ -1,4 +1,3 @@
-- **2007-11-18 17:07**: feat: add result summary with passing threshold analysis
 - **2007-11-19 09:31**: docs: improve code comments and API documentation
 - **2007-11-19 10:13**: docs: improve code comments and API documentation
 - **2007-11-19 14:44**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-01-01 12:38**: feat: add category-specific practice modes
 - **2008-01-01 21:15**: chore: organize assets and image directory structure
 - **2008-01-02 20:54**: chore: format code style and clean up redundant variables
+- **2008-01-03 09:39**: fix: resolve layout shift during question transitions
