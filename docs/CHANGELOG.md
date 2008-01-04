@@ -1,4 +1,3 @@
-- **2007-11-20 20:35**: feat: support multiple choice questions for motorcycle category
 - **2007-11-21 09:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-22 09:47**: chore: organize assets and image directory structure
 - **2007-11-23 14:19**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2008-01-03 16:28**: chore: update project metadata and build configuration
 - **2008-01-03 16:51**: docs: add instructions for Nepali driving license written exam
 - **2008-01-04 12:22**: docs: update README with setup instructions and feature list
+- **2008-01-04 18:31**: feat: add keyboard navigation shortcuts for question selection
