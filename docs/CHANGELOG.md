@@ -1,4 +1,3 @@
-- **2007-11-21 09:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-11-22 09:47**: chore: organize assets and image directory structure
 - **2007-11-23 14:19**: chore: update project metadata and build configuration
 - **2007-11-23 19:58**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-01-03 16:51**: docs: add instructions for Nepali driving license written exam
 - **2008-01-04 12:22**: docs: update README with setup instructions and feature list
 - **2008-01-04 18:31**: feat: add keyboard navigation shortcuts for question selection
+- **2008-01-05 14:38**: feat: add search and filter by sign category
