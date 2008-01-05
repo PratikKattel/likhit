@@ -1,4 +1,3 @@
-- **2007-11-22 09:47**: chore: organize assets and image directory structure
 - **2007-11-23 14:19**: chore: update project metadata and build configuration
 - **2007-11-23 19:58**: test: verify question extraction script against exam PDF
 - **2007-11-23 22:07**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2008-01-04 12:22**: docs: update README with setup instructions and feature list
 - **2008-01-04 18:31**: feat: add keyboard navigation shortcuts for question selection
 - **2008-01-05 14:38**: feat: add search and filter by sign category
+- **2008-01-05 19:13**: feat: add result summary with passing threshold analysis
