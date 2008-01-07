@@ -1,4 +1,3 @@
-- **2007-11-23 19:58**: test: verify question extraction script against exam PDF
 - **2007-11-23 22:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-11-24 10:49**: perf: index question IDs for rapid lookup
 - **2007-11-24 15:51**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-01-05 14:38**: feat: add search and filter by sign category
 - **2008-01-05 19:13**: feat: add result summary with passing threshold analysis
 - **2008-01-06 22:18**: fix: resolve layout shift during question transitions
+- **2008-01-07 18:00**: fix: correct color specifications for mandatory traffic signs
