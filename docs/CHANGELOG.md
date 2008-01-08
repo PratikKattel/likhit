@@ -1,4 +1,3 @@
-- **2007-11-24 10:49**: perf: index question IDs for rapid lookup
 - **2007-11-24 15:51**: fix: resolve layout shift during question transitions
 - **2007-11-24 17:22**: feat: add instant feedback and explanation on answer selection
 - **2007-11-24 22:15**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-01-06 22:18**: fix: resolve layout shift during question transitions
 - **2008-01-07 18:00**: fix: correct color specifications for mandatory traffic signs
 - **2008-01-08 16:51**: docs: update README with setup instructions and feature list
+- **2008-01-08 20:41**: refactor: restructure question data schema for faster loading
