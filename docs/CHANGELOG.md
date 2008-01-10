@@ -1,4 +1,3 @@
-- **2007-11-24 17:22**: feat: add instant feedback and explanation on answer selection
 - **2007-11-24 22:15**: fix: resolve layout shift during question transitions
 - **2007-11-25 20:23**: feat: support multiple choice questions for motorcycle category
 - **2007-11-26 11:55**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-01-08 16:51**: docs: update README with setup instructions and feature list
 - **2008-01-08 20:41**: refactor: restructure question data schema for faster loading
 - **2008-01-09 11:29**: refactor: restructure question data schema for faster loading
+- **2008-01-10 11:06**: chore: format code style and clean up redundant variables
