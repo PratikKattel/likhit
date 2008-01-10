@@ -1,4 +1,3 @@
-- **2007-11-25 20:23**: feat: support multiple choice questions for motorcycle category
 - **2007-11-26 11:55**: perf: optimize image caching for traffic sign assets
 - **2007-11-26 14:22**: chore: organize assets and image directory structure
 - **2007-11-26 15:29**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-01-09 11:29**: refactor: restructure question data schema for faster loading
 - **2008-01-10 11:06**: chore: format code style and clean up redundant variables
 - **2008-01-10 12:35**: feat: add result summary with passing threshold analysis
+- **2008-01-10 13:20**: style: enhance traffic sign card layout and responsiveness
