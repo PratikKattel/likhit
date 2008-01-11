@@ -1,4 +1,3 @@
-- **2007-11-26 14:22**: chore: organize assets and image directory structure
 - **2007-11-26 15:29**: feat: add category-specific practice modes
 - **2007-11-26 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-11-27 21:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-01-10 12:35**: feat: add result summary with passing threshold analysis
 - **2008-01-10 13:20**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-10 15:38**: style: enhance traffic sign card layout and responsiveness
+- **2008-01-11 09:11**: feat: implement timer and score calculation for mock test
