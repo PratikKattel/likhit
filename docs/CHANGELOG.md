@@ -1,4 +1,3 @@
-- **2007-11-27 21:13**: docs: improve code comments and API documentation
 - **2007-11-28 20:37**: chore: update questions database with recent DOTM updates
 - **2007-11-29 10:06**: fix: resolve layout shift during question transitions
 - **2007-11-30 17:08**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-01-11 09:11**: feat: implement timer and score calculation for mock test
 - **2008-01-11 16:27**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-12 16:13**: feat: add instant feedback and explanation on answer selection
+- **2008-01-12 16:50**: docs: add instructions for Nepali driving license written exam
