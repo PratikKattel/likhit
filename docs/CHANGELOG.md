@@ -1,4 +1,3 @@
-- **2007-11-28 20:37**: chore: update questions database with recent DOTM updates
 - **2007-11-29 10:06**: fix: resolve layout shift during question transitions
 - **2007-11-30 17:08**: feat: add result summary with passing threshold analysis
 - **2007-12-01 16:47**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2008-01-11 16:27**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-12 16:13**: feat: add instant feedback and explanation on answer selection
 - **2008-01-12 16:50**: docs: add instructions for Nepali driving license written exam
+- **2008-01-13 13:26**: feat: add category-specific practice modes
