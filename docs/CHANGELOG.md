@@ -1,4 +1,3 @@
-- **2007-12-02 09:58**: feat: add result summary with passing threshold analysis
 - **2007-12-02 20:27**: feat: add category A and B traffic test questions
 - **2007-12-03 13:53**: docs: improve code comments and API documentation
 - **2007-12-03 13:58**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2008-01-14 09:44**: docs: update README with setup instructions and feature list
 - **2008-01-14 21:12**: chore: organize assets and image directory structure
 - **2008-01-14 22:26**: test: verify question extraction script against exam PDF
+- **2008-01-15 11:16**: style: enhance traffic sign card layout and responsiveness
