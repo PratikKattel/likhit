@@ -1,4 +1,3 @@
-- **2007-12-03 13:58**: chore: update project metadata and build configuration
 - **2007-12-03 19:06**: test: verify question extraction script against exam PDF
 - **2007-12-04 17:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-05 12:17**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-01-15 11:16**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-16 11:24**: perf: optimize image caching for traffic sign assets
 - **2008-01-16 11:51**: chore: update project metadata and build configuration
+- **2008-01-16 18:28**: chore: update project metadata and build configuration
