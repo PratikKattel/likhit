@@ -1,4 +1,3 @@
-- **2007-12-03 19:06**: test: verify question extraction script against exam PDF
 - **2007-12-04 17:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-05 12:17**: feat: support multiple choice questions for motorcycle category
 - **2007-12-05 12:26**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-01-16 11:24**: perf: optimize image caching for traffic sign assets
 - **2008-01-16 11:51**: chore: update project metadata and build configuration
 - **2008-01-16 18:28**: chore: update project metadata and build configuration
+- **2008-01-17 13:57**: fix: correct color specifications for mandatory traffic signs
