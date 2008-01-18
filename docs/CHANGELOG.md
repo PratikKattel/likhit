@@ -1,4 +1,3 @@
-- **2007-12-05 12:26**: refactor: optimize SVG rendering for road signs
 - **2007-12-06 09:09**: chore: update project metadata and build configuration
 - **2007-12-06 12:13**: docs: improve code comments and API documentation
 - **2007-12-06 22:22**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-01-17 13:57**: fix: correct color specifications for mandatory traffic signs
 - **2008-01-17 17:12**: feat: add category-specific practice modes
 - **2008-01-17 21:09**: feat: add category-specific practice modes
+- **2008-01-18 12:02**: feat: add warning signs and informational road signs
