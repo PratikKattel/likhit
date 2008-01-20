@@ -1,4 +1,3 @@
-- **2007-12-06 22:22**: docs: improve code comments and API documentation
 - **2007-12-07 18:48**: fix: adjust passing score threshold according to new rules
 - **2007-12-08 19:27**: perf: optimize image caching for traffic sign assets
 - **2007-12-09 11:12**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-01-18 12:02**: feat: add warning signs and informational road signs
 - **2008-01-19 12:31**: feat: support multiple choice questions for motorcycle category
 - **2008-01-20 10:18**: feat: add instant feedback and explanation on answer selection
+- **2008-01-20 14:23**: fix: adjust passing score threshold according to new rules
