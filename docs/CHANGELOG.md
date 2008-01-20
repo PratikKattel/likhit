@@ -1,4 +1,3 @@
-- **2007-12-08 19:27**: perf: optimize image caching for traffic sign assets
 - **2007-12-09 11:12**: style: enhance traffic sign card layout and responsiveness
 - **2007-12-10 13:44**: feat: add result summary with passing threshold analysis
 - **2007-12-10 15:49**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-01-20 10:18**: feat: add instant feedback and explanation on answer selection
 - **2008-01-20 14:23**: fix: adjust passing score threshold according to new rules
 - **2008-01-20 15:53**: feat: add warning signs and informational road signs
+- **2008-01-20 18:13**: feat: add keyboard navigation shortcuts for question selection
