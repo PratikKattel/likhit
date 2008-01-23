@@ -1,4 +1,3 @@
-- **2007-12-10 15:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-11 17:09**: test: verify question extraction script against exam PDF
 - **2007-12-11 21:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-01-20 18:13**: feat: add keyboard navigation shortcuts for question selection
 - **2008-01-21 11:17**: feat: add instant feedback and explanation on answer selection
 - **2008-01-22 09:31**: refactor: modularize traffic app logic and event listeners
+- **2008-01-23 21:16**: style: enhance traffic sign card layout and responsiveness
