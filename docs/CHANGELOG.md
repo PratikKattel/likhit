@@ -1,4 +1,3 @@
-- **2007-12-11 17:09**: test: verify question extraction script against exam PDF
 - **2007-12-11 21:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-12-13 09:33**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-01-21 11:17**: feat: add instant feedback and explanation on answer selection
 - **2008-01-22 09:31**: refactor: modularize traffic app logic and event listeners
 - **2008-01-23 21:16**: style: enhance traffic sign card layout and responsiveness
+- **2008-01-24 15:55**: fix: update DOTM Nepal license syllabus questions
