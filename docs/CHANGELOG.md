@@ -1,4 +1,3 @@
-- **2007-12-13 09:33**: fix: correct color specifications for mandatory traffic signs
 - **2007-12-13 14:23**: perf: optimize image caching for traffic sign assets
 - **2007-12-14 20:14**: perf: optimize image caching for traffic sign assets
 - **2007-12-15 21:21**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2008-01-24 15:55**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-24 18:53**: refactor: modularize traffic app logic and event listeners
 - **2008-01-25 19:55**: feat: support multiple choice questions for motorcycle category
+- **2008-01-25 19:56**: style: enhance traffic sign card layout and responsiveness
