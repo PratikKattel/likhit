@@ -1,4 +1,3 @@
-- **2007-12-12 11:15**: style: polish typography and Nepali Unicode font rendering
 - **2007-12-13 09:33**: fix: correct color specifications for mandatory traffic signs
 - **2007-12-13 14:23**: perf: optimize image caching for traffic sign assets
 - **2007-12-14 20:14**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-01-23 21:16**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-24 15:55**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-24 18:53**: refactor: modularize traffic app logic and event listeners
+- **2008-01-25 19:55**: feat: support multiple choice questions for motorcycle category
