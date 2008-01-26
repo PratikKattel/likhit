@@ -1,4 +1,3 @@
-- **2007-12-15 21:21**: feat: add category A and B traffic test questions
 - **2007-12-15 21:44**: feat: implement timer and score calculation for mock test
 - **2007-12-16 11:38**: feat: add regulatory traffic signs SVG graphics
 - **2007-12-16 20:14**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-01-25 19:56**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-26 11:06**: feat: support multiple choice questions for motorcycle category
 - **2008-01-26 14:04**: style: enhance traffic sign card layout and responsiveness
+- **2008-01-26 19:19**: feat: add warning signs and informational road signs
