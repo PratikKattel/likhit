@@ -1,4 +1,3 @@
-- **2007-12-16 20:14**: docs: update README with setup instructions and feature list
 - **2007-12-17 18:31**: feat: add instant feedback and explanation on answer selection
 - **2007-12-18 12:47**: feat: add instant feedback and explanation on answer selection
 - **2007-12-18 14:52**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-01-26 19:19**: feat: add warning signs and informational road signs
 - **2008-01-27 09:40**: test: verify question extraction script against exam PDF
 - **2008-01-27 11:26**: feat: support multiple choice questions for motorcycle category
+- **2008-01-27 22:11**: docs: add instructions for Nepali driving license written exam
