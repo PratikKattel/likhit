@@ -1,4 +1,3 @@
-- **2007-12-18 14:52**: fix: adjust passing score threshold according to new rules
 - **2007-12-18 16:53**: fix: typo in Nepali road safety regulations question
 - **2007-12-18 21:38**: fix: typo in Nepali road safety regulations question
 - **2007-12-19 22:04**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-01-27 22:11**: docs: add instructions for Nepali driving license written exam
 - **2008-01-28 10:14**: feat: add regulatory traffic signs SVG graphics
 - **2008-01-28 18:35**: docs: add instructions for Nepali driving license written exam
+- **2008-01-28 18:46**: feat: add category-specific practice modes
