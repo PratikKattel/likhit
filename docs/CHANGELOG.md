@@ -1,4 +1,3 @@
-- **2007-12-20 09:19**: docs: update traffic signals catalog documentation
 - **2007-12-20 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2007-12-21 11:21**: perf: lazy load signal graphics and question assets
 - **2007-12-21 11:31**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-01-28 19:13**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-29 09:00**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-29 13:42**: perf: optimize image caching for traffic sign assets
+- **2008-01-30 11:44**: feat: add category A and B traffic test questions
