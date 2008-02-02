@@ -1,4 +1,3 @@
-- **2007-12-22 12:32**: feat: add search and filter by sign category
 - **2007-12-23 11:19**: docs: update README with setup instructions and feature list
 - **2007-12-24 13:18**: fix: update DOTM Nepal license syllabus questions
 - **2007-12-25 12:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2008-01-31 13:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-02-01 14:09**: docs: update traffic signals catalog documentation
 - **2008-02-01 21:49**: docs: add instructions for Nepali driving license written exam
+- **2008-02-02 21:54**: docs: improve code comments and API documentation
