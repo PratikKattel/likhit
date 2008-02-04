@@ -1,4 +1,3 @@
-- **2007-12-26 09:14**: chore: update project metadata and build configuration
 - **2007-12-26 11:16**: docs: update traffic signals catalog documentation
 - **2007-12-26 19:31**: perf: lazy load signal graphics and question assets
 - **2007-12-27 13:12**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-02-03 11:11**: feat: add category-specific practice modes
 - **2008-02-03 16:59**: feat: implement timer and score calculation for mock test
 - **2008-02-04 12:53**: feat: add search and filter by sign category
+- **2008-02-04 16:29**: chore: update project metadata and build configuration
