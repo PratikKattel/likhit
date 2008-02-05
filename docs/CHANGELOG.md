@@ -1,4 +1,3 @@
-- **2007-12-26 19:31**: perf: lazy load signal graphics and question assets
 - **2007-12-27 13:12**: fix: typo in Nepali road safety regulations question
 - **2007-12-27 14:52**: chore: format code style and clean up redundant variables
 - **2007-12-28 17:58**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-02-04 12:53**: feat: add search and filter by sign category
 - **2008-02-04 16:29**: chore: update project metadata and build configuration
 - **2008-02-05 09:06**: docs: update traffic signals catalog documentation
+- **2008-02-05 18:05**: fix: typo in Nepali road safety regulations question
