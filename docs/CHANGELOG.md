@@ -1,4 +1,3 @@
-- **2007-12-30 20:11**: chore: update project metadata and build configuration
 - **2007-12-31 10:00**: chore: format code style and clean up redundant variables
 - **2007-12-31 18:51**: test: verify question extraction script against exam PDF
 - **2008-01-01 12:21**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-02-06 21:58**: feat: add category-specific practice modes
 - **2008-02-07 12:05**: style: enhance traffic sign card layout and responsiveness
 - **2008-02-08 14:54**: chore: organize assets and image directory structure
+- **2008-02-08 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
