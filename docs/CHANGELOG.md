@@ -1,4 +1,3 @@
-- **2007-12-31 18:51**: test: verify question extraction script against exam PDF
 - **2008-01-01 12:21**: style: polish typography and Nepali Unicode font rendering
 - **2008-01-01 12:38**: feat: add category-specific practice modes
 - **2008-01-01 21:15**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2008-02-08 14:54**: chore: organize assets and image directory structure
 - **2008-02-08 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-02-08 17:26**: feat: add search and filter by sign category
+- **2008-02-09 10:20**: perf: optimize image caching for traffic sign assets
