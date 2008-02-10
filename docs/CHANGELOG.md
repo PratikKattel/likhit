@@ -1,4 +1,3 @@
-- **2008-01-01 12:21**: style: polish typography and Nepali Unicode font rendering
 - **2008-01-01 12:38**: feat: add category-specific practice modes
 - **2008-01-01 21:15**: chore: organize assets and image directory structure
 - **2008-01-02 20:54**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-02-08 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-02-08 17:26**: feat: add search and filter by sign category
 - **2008-02-09 10:20**: perf: optimize image caching for traffic sign assets
+- **2008-02-10 10:35**: feat: add regulatory traffic signs SVG graphics
