@@ -1,4 +1,3 @@
-- **2008-01-02 20:54**: chore: format code style and clean up redundant variables
 - **2008-01-03 09:39**: fix: resolve layout shift during question transitions
 - **2008-01-03 14:34**: feat: add warning signs and informational road signs
 - **2008-01-03 16:28**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2008-02-10 10:35**: feat: add regulatory traffic signs SVG graphics
 - **2008-02-11 09:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-02-11 21:20**: fix: typo in Nepali road safety regulations question
+- **2008-02-11 22:19**: docs: update traffic signals catalog documentation
