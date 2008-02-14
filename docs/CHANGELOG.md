@@ -1,4 +1,3 @@
-- **2008-01-03 16:28**: chore: update project metadata and build configuration
 - **2008-01-03 16:51**: docs: add instructions for Nepali driving license written exam
 - **2008-01-04 12:22**: docs: update README with setup instructions and feature list
 - **2008-01-04 18:31**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2008-02-11 22:19**: docs: update traffic signals catalog documentation
 - **2008-02-12 15:15**: refactor: modularize traffic app logic and event listeners
 - **2008-02-13 10:39**: refactor: modularize traffic app logic and event listeners
+- **2008-02-14 20:05**: docs: update README with setup instructions and feature list
