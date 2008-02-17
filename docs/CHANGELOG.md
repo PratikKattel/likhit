@@ -1,4 +1,3 @@
-- **2008-01-04 18:31**: feat: add keyboard navigation shortcuts for question selection
 - **2008-01-05 14:38**: feat: add search and filter by sign category
 - **2008-01-05 19:13**: feat: add result summary with passing threshold analysis
 - **2008-01-06 22:18**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-02-14 20:05**: docs: update README with setup instructions and feature list
 - **2008-02-15 18:47**: style: polish typography and Nepali Unicode font rendering
 - **2008-02-16 18:47**: feat: add keyboard navigation shortcuts for question selection
+- **2008-02-17 18:22**: fix: correct color specifications for mandatory traffic signs
