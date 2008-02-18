@@ -1,4 +1,3 @@
-- **2008-01-05 19:13**: feat: add result summary with passing threshold analysis
 - **2008-01-06 22:18**: fix: resolve layout shift during question transitions
 - **2008-01-07 18:00**: fix: correct color specifications for mandatory traffic signs
 - **2008-01-08 16:51**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-02-16 18:47**: feat: add keyboard navigation shortcuts for question selection
 - **2008-02-17 18:22**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-17 20:50**: perf: index question IDs for rapid lookup
+- **2008-02-18 21:46**: feat: add keyboard navigation shortcuts for question selection
