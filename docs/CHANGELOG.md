@@ -1,4 +1,3 @@
-- **2008-01-08 20:41**: refactor: restructure question data schema for faster loading
 - **2008-01-09 11:29**: refactor: restructure question data schema for faster loading
 - **2008-01-10 11:06**: chore: format code style and clean up redundant variables
 - **2008-01-10 12:35**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-02-18 21:48**: feat: add regulatory traffic signs SVG graphics
 - **2008-02-19 09:57**: fix: prevent option re-selection after submitting answer
 - **2008-02-19 21:46**: feat: implement timer and score calculation for mock test
+- **2008-02-20 18:17**: feat: add instant feedback and explanation on answer selection
