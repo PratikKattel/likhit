@@ -1,4 +1,3 @@
-- **2008-01-10 11:06**: chore: format code style and clean up redundant variables
 - **2008-01-10 12:35**: feat: add result summary with passing threshold analysis
 - **2008-01-10 13:20**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-10 15:38**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-02-19 21:46**: feat: implement timer and score calculation for mock test
 - **2008-02-20 18:17**: feat: add instant feedback and explanation on answer selection
 - **2008-02-21 11:26**: feat: implement timer and score calculation for mock test
+- **2008-02-21 21:48**: fix: typo in Nepali road safety regulations question
