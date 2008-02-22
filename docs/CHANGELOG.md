@@ -1,4 +1,3 @@
-- **2008-01-10 13:20**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-10 15:38**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-11 09:11**: feat: implement timer and score calculation for mock test
 - **2008-01-11 16:27**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2008-02-21 11:26**: feat: implement timer and score calculation for mock test
 - **2008-02-21 21:48**: fix: typo in Nepali road safety regulations question
 - **2008-02-22 09:24**: feat: implement timer and score calculation for mock test
+- **2008-02-22 12:43**: fix: correct color specifications for mandatory traffic signs
