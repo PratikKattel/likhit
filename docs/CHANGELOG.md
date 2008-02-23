@@ -1,4 +1,3 @@
-- **2008-01-11 16:27**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-12 16:13**: feat: add instant feedback and explanation on answer selection
 - **2008-01-12 16:50**: docs: add instructions for Nepali driving license written exam
 - **2008-01-13 13:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-02-22 12:43**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-22 16:33**: fix: adjust passing score threshold according to new rules
 - **2008-02-23 11:03**: fix: prevent option re-selection after submitting answer
+- **2008-02-23 14:04**: test: verify question extraction script against exam PDF
