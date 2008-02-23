@@ -1,4 +1,3 @@
-- **2008-01-11 09:11**: feat: implement timer and score calculation for mock test
 - **2008-01-11 16:27**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-12 16:13**: feat: add instant feedback and explanation on answer selection
 - **2008-01-12 16:50**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-02-22 09:24**: feat: implement timer and score calculation for mock test
 - **2008-02-22 12:43**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-22 16:33**: fix: adjust passing score threshold according to new rules
+- **2008-02-23 11:03**: fix: prevent option re-selection after submitting answer
