@@ -1,4 +1,3 @@
-- **2008-01-13 13:26**: feat: add category-specific practice modes
 - **2008-01-14 09:44**: docs: update README with setup instructions and feature list
 - **2008-01-14 21:12**: chore: organize assets and image directory structure
 - **2008-01-14 22:26**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-02-23 14:04**: test: verify question extraction script against exam PDF
 - **2008-02-24 13:54**: docs: improve code comments and API documentation
 - **2008-02-24 20:30**: feat: add category A and B traffic test questions
+- **2008-02-24 20:45**: fix: correct color specifications for mandatory traffic signs
