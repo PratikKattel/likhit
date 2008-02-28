@@ -1,4 +1,3 @@
-- **2008-01-17 13:57**: fix: correct color specifications for mandatory traffic signs
 - **2008-01-17 17:12**: feat: add category-specific practice modes
 - **2008-01-17 21:09**: feat: add category-specific practice modes
 - **2008-01-18 12:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2008-02-27 18:45**: perf: index question IDs for rapid lookup
 - **2008-02-28 09:18**: perf: index question IDs for rapid lookup
 - **2008-02-28 16:18**: feat: add result summary with passing threshold analysis
+- **2008-02-28 20:26**: test: verify question extraction script against exam PDF
