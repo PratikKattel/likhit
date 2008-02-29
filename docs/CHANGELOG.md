@@ -1,4 +1,3 @@
-- **2008-01-17 21:09**: feat: add category-specific practice modes
 - **2008-01-18 12:02**: feat: add warning signs and informational road signs
 - **2008-01-19 12:31**: feat: support multiple choice questions for motorcycle category
 - **2008-01-20 10:18**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-02-28 16:18**: feat: add result summary with passing threshold analysis
 - **2008-02-28 20:26**: test: verify question extraction script against exam PDF
 - **2008-02-29 15:21**: chore: update questions database with recent DOTM updates
+- **2008-02-29 16:20**: perf: lazy load signal graphics and question assets
