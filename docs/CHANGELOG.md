@@ -1,4 +1,3 @@
-- **2008-01-20 14:23**: fix: adjust passing score threshold according to new rules
 - **2008-01-20 15:53**: feat: add warning signs and informational road signs
 - **2008-01-20 18:13**: feat: add keyboard navigation shortcuts for question selection
 - **2008-01-21 11:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-02-29 18:42**: refactor: restructure question data schema for faster loading
 - **2008-03-01 09:57**: fix: typo in Nepali road safety regulations question
 - **2008-03-02 12:21**: feat: add category-specific practice modes
+- **2008-03-03 09:56**: refactor: modularize traffic app logic and event listeners
