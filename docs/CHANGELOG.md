@@ -1,4 +1,3 @@
-- **2008-01-20 18:13**: feat: add keyboard navigation shortcuts for question selection
 - **2008-01-21 11:17**: feat: add instant feedback and explanation on answer selection
 - **2008-01-22 09:31**: refactor: modularize traffic app logic and event listeners
 - **2008-01-23 21:16**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-03-02 12:21**: feat: add category-specific practice modes
 - **2008-03-03 09:56**: refactor: modularize traffic app logic and event listeners
 - **2008-03-03 18:22**: docs: update README with setup instructions and feature list
+- **2008-03-04 19:45**: chore: format code style and clean up redundant variables
