@@ -1,4 +1,3 @@
-- **2008-01-23 21:16**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-24 15:55**: fix: update DOTM Nepal license syllabus questions
 - **2008-01-24 18:53**: refactor: modularize traffic app logic and event listeners
 - **2008-01-25 19:55**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-03-04 19:45**: chore: format code style and clean up redundant variables
 - **2008-03-05 15:34**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-05 16:16**: fix: resolve layout shift during question transitions
+- **2008-03-06 16:00**: feat: add warning signs and informational road signs
