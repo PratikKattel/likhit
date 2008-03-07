@@ -1,4 +1,3 @@
-- **2008-01-24 18:53**: refactor: modularize traffic app logic and event listeners
 - **2008-01-25 19:55**: feat: support multiple choice questions for motorcycle category
 - **2008-01-25 19:56**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-26 11:06**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-03-05 16:16**: fix: resolve layout shift during question transitions
 - **2008-03-06 16:00**: feat: add warning signs and informational road signs
 - **2008-03-07 13:34**: docs: update README with setup instructions and feature list
+- **2008-03-07 13:39**: fix: prevent option re-selection after submitting answer
