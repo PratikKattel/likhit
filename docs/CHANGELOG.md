@@ -1,4 +1,3 @@
-- **2008-01-26 14:04**: style: enhance traffic sign card layout and responsiveness
 - **2008-01-26 19:19**: feat: add warning signs and informational road signs
 - **2008-01-27 09:40**: test: verify question extraction script against exam PDF
 - **2008-01-27 11:26**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-03-07 14:48**: fix: resolve layout shift during question transitions
 - **2008-03-07 15:14**: refactor: modularize traffic app logic and event listeners
 - **2008-03-08 20:54**: fix: prevent option re-selection after submitting answer
+- **2008-03-09 10:03**: fix: resolve layout shift during question transitions
