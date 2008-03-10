@@ -1,4 +1,3 @@
-- **2008-01-28 10:14**: feat: add regulatory traffic signs SVG graphics
 - **2008-01-28 18:35**: docs: add instructions for Nepali driving license written exam
 - **2008-01-28 18:46**: feat: add category-specific practice modes
 - **2008-01-28 19:13**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2008-03-09 15:18**: refactor: optimize SVG rendering for road signs
 - **2008-03-09 22:14**: feat: add search and filter by sign category
 - **2008-03-10 18:44**: feat: add regulatory traffic signs SVG graphics
+- **2008-03-10 20:14**: docs: update traffic signals catalog documentation
