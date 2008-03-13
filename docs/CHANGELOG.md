@@ -1,4 +1,3 @@
-- **2008-01-30 11:44**: feat: add category A and B traffic test questions
 - **2008-01-31 13:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-02-01 14:09**: docs: update traffic signals catalog documentation
 - **2008-02-01 21:49**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-03-12 10:10**: chore: format code style and clean up redundant variables
 - **2008-03-12 12:28**: docs: add instructions for Nepali driving license written exam
 - **2008-03-12 15:47**: perf: index question IDs for rapid lookup
+- **2008-03-13 13:43**: fix: prevent option re-selection after submitting answer
