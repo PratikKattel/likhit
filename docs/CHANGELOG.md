@@ -1,4 +1,3 @@
-- **2008-02-01 14:09**: docs: update traffic signals catalog documentation
 - **2008-02-01 21:49**: docs: add instructions for Nepali driving license written exam
 - **2008-02-02 21:54**: docs: improve code comments and API documentation
 - **2008-02-03 11:11**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-03-12 15:47**: perf: index question IDs for rapid lookup
 - **2008-03-13 13:43**: fix: prevent option re-selection after submitting answer
 - **2008-03-14 12:05**: refactor: optimize SVG rendering for road signs
+- **2008-03-14 21:24**: fix: typo in Nepali road safety regulations question
