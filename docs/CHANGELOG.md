@@ -1,4 +1,3 @@
-- **2008-02-02 21:54**: docs: improve code comments and API documentation
 - **2008-02-03 11:11**: feat: add category-specific practice modes
 - **2008-02-03 16:59**: feat: implement timer and score calculation for mock test
 - **2008-02-04 12:53**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2008-03-14 12:05**: refactor: optimize SVG rendering for road signs
 - **2008-03-14 21:24**: fix: typo in Nepali road safety regulations question
 - **2008-03-15 10:18**: style: polish typography and Nepali Unicode font rendering
+- **2008-03-15 14:39**: refactor: modularize traffic app logic and event listeners
