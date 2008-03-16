@@ -1,4 +1,3 @@
-- **2008-02-04 16:29**: chore: update project metadata and build configuration
 - **2008-02-05 09:06**: docs: update traffic signals catalog documentation
 - **2008-02-05 18:05**: fix: typo in Nepali road safety regulations question
 - **2008-02-06 11:13**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-03-15 16:04**: feat: support multiple choice questions for motorcycle category
 - **2008-03-15 19:43**: feat: add result summary with passing threshold analysis
 - **2008-03-16 12:18**: chore: organize assets and image directory structure
+- **2008-03-16 18:04**: test: verify question extraction script against exam PDF
