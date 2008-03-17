@@ -1,4 +1,3 @@
-- **2008-02-05 18:05**: fix: typo in Nepali road safety regulations question
 - **2008-02-06 11:13**: test: verify question extraction script against exam PDF
 - **2008-02-06 13:45**: feat: add search and filter by sign category
 - **2008-02-06 21:58**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-03-16 12:18**: chore: organize assets and image directory structure
 - **2008-03-16 18:04**: test: verify question extraction script against exam PDF
 - **2008-03-16 19:59**: test: verify question extraction script against exam PDF
+- **2008-03-17 13:37**: fix: adjust passing score threshold according to new rules
