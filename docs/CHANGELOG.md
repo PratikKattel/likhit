@@ -1,4 +1,3 @@
-- **2008-02-06 21:58**: feat: add category-specific practice modes
 - **2008-02-07 12:05**: style: enhance traffic sign card layout and responsiveness
 - **2008-02-08 14:54**: chore: organize assets and image directory structure
 - **2008-02-08 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-03-17 13:37**: fix: adjust passing score threshold according to new rules
 - **2008-03-18 13:52**: feat: add instant feedback and explanation on answer selection
 - **2008-03-18 14:49**: feat: add keyboard navigation shortcuts for question selection
+- **2008-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
