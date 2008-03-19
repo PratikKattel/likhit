@@ -1,4 +1,3 @@
-- **2008-02-08 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-02-08 17:26**: feat: add search and filter by sign category
 - **2008-02-09 10:20**: perf: optimize image caching for traffic sign assets
 - **2008-02-10 10:35**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2008-03-18 19:57**: refactor: modularize traffic app logic and event listeners
 - **2008-03-19 09:20**: style: improve dark/light mode and mobile UI responsiveness
+- **2008-03-19 20:30**: feat: add regulatory traffic signs SVG graphics
