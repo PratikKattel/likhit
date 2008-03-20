@@ -1,4 +1,3 @@
-- **2008-02-10 10:35**: feat: add regulatory traffic signs SVG graphics
 - **2008-02-11 09:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-02-11 21:20**: fix: typo in Nepali road safety regulations question
 - **2008-02-11 22:19**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2008-03-19 20:30**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-20 09:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-20 19:32**: feat: add category A and B traffic test questions
+- **2008-03-20 21:29**: docs: add instructions for Nepali driving license written exam
