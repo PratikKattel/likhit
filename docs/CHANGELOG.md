@@ -1,4 +1,3 @@
-- **2008-02-08 17:26**: feat: add search and filter by sign category
 - **2008-02-09 10:20**: perf: optimize image caching for traffic sign assets
 - **2008-02-10 10:35**: feat: add regulatory traffic signs SVG graphics
 - **2008-02-11 09:54**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2008-03-18 19:57**: refactor: modularize traffic app logic and event listeners
 - **2008-03-19 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-03-19 20:30**: feat: add regulatory traffic signs SVG graphics
+- **2008-03-20 09:54**: feat: add keyboard navigation shortcuts for question selection
