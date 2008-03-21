@@ -1,4 +1,3 @@
-- **2008-02-11 21:20**: fix: typo in Nepali road safety regulations question
 - **2008-02-11 22:19**: docs: update traffic signals catalog documentation
 - **2008-02-12 15:15**: refactor: modularize traffic app logic and event listeners
 - **2008-02-13 10:39**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-03-20 19:32**: feat: add category A and B traffic test questions
 - **2008-03-20 21:29**: docs: add instructions for Nepali driving license written exam
 - **2008-03-21 09:50**: feat: add category-specific practice modes
+- **2008-03-21 11:39**: chore: organize assets and image directory structure
