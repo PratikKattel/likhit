@@ -1,4 +1,3 @@
-- **2008-02-15 18:47**: style: polish typography and Nepali Unicode font rendering
 - **2008-02-16 18:47**: feat: add keyboard navigation shortcuts for question selection
 - **2008-02-17 18:22**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-17 20:50**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2008-03-23 18:54**: feat: support multiple choice questions for motorcycle category
 - **2008-03-23 19:48**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-24 10:29**: style: improve dark/light mode and mobile UI responsiveness
+- **2008-03-25 13:38**: feat: add keyboard navigation shortcuts for question selection
