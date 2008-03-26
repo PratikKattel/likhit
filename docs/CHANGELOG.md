@@ -1,4 +1,3 @@
-- **2008-02-17 18:22**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-17 20:50**: perf: index question IDs for rapid lookup
 - **2008-02-18 21:46**: feat: add keyboard navigation shortcuts for question selection
 - **2008-02-18 21:48**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-03-24 10:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-03-25 13:38**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-25 21:03**: feat: implement timer and score calculation for mock test
+- **2008-03-26 16:13**: test: verify question extraction script against exam PDF
