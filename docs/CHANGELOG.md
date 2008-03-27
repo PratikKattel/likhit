@@ -1,4 +1,3 @@
-- **2008-02-18 21:48**: feat: add regulatory traffic signs SVG graphics
 - **2008-02-19 09:57**: fix: prevent option re-selection after submitting answer
 - **2008-02-19 21:46**: feat: implement timer and score calculation for mock test
 - **2008-02-20 18:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-03-26 16:13**: test: verify question extraction script against exam PDF
 - **2008-03-26 20:05**: perf: lazy load signal graphics and question assets
 - **2008-03-27 13:15**: refactor: restructure question data schema for faster loading
+- **2008-03-27 16:58**: test: verify question extraction script against exam PDF
