@@ -1,4 +1,3 @@
-- **2008-02-20 18:17**: feat: add instant feedback and explanation on answer selection
 - **2008-02-21 11:26**: feat: implement timer and score calculation for mock test
 - **2008-02-21 21:48**: fix: typo in Nepali road safety regulations question
 - **2008-02-22 09:24**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2008-03-27 16:58**: test: verify question extraction script against exam PDF
 - **2008-03-27 20:24**: feat: add search and filter by sign category
 - **2008-03-28 12:32**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2008-03-28 16:28**: docs: improve code comments and API documentation
