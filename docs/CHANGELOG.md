@@ -1,4 +1,3 @@
-- **2008-02-21 21:48**: fix: typo in Nepali road safety regulations question
 - **2008-02-22 09:24**: feat: implement timer and score calculation for mock test
 - **2008-02-22 12:43**: fix: correct color specifications for mandatory traffic signs
 - **2008-02-22 16:33**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-03-28 12:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-03-28 16:28**: docs: improve code comments and API documentation
 - **2008-03-29 10:30**: feat: add category-specific practice modes
+- **2008-03-29 19:50**: refactor: optimize SVG rendering for road signs
