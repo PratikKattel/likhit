@@ -1,4 +1,3 @@
-- **2008-02-23 14:04**: test: verify question extraction script against exam PDF
 - **2008-02-24 13:54**: docs: improve code comments and API documentation
 - **2008-02-24 20:30**: feat: add category A and B traffic test questions
 - **2008-02-24 20:45**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-03-30 21:21**: test: verify question extraction script against exam PDF
 - **2008-03-31 09:05**: docs: add instructions for Nepali driving license written exam
 - **2008-03-31 10:03**: feat: add category A and B traffic test questions
+- **2008-04-01 09:40**: feat: add regulatory traffic signs SVG graphics
