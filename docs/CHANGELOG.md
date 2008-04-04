@@ -1,4 +1,3 @@
-- **2008-02-26 17:08**: perf: optimize image caching for traffic sign assets
 - **2008-02-27 09:57**: feat: add warning signs and informational road signs
 - **2008-02-27 17:18**: chore: update project metadata and build configuration
 - **2008-02-27 18:45**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2008-04-02 12:32**: fix: typo in Nepali road safety regulations question
 - **2008-04-02 18:29**: fix: update DOTM Nepal license syllabus questions
 - **2008-04-03 20:42**: fix: typo in Nepali road safety regulations question
+- **2008-04-04 12:23**: perf: lazy load signal graphics and question assets
