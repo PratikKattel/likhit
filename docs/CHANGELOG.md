@@ -1,4 +1,3 @@
-- **2008-02-28 16:18**: feat: add result summary with passing threshold analysis
 - **2008-02-28 20:26**: test: verify question extraction script against exam PDF
 - **2008-02-29 15:21**: chore: update questions database with recent DOTM updates
 - **2008-02-29 16:20**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-04-04 19:25**: perf: lazy load signal graphics and question assets
 - **2008-04-05 10:05**: refactor: optimize SVG rendering for road signs
 - **2008-04-05 13:18**: fix: resolve layout shift during question transitions
+- **2008-04-06 19:25**: fix: resolve layout shift during question transitions
