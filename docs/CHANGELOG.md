@@ -1,4 +1,3 @@
-- **2008-02-29 15:21**: chore: update questions database with recent DOTM updates
 - **2008-02-29 16:20**: perf: lazy load signal graphics and question assets
 - **2008-02-29 18:42**: refactor: restructure question data schema for faster loading
 - **2008-03-01 09:57**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-04-05 13:18**: fix: resolve layout shift during question transitions
 - **2008-04-06 19:25**: fix: resolve layout shift during question transitions
 - **2008-04-07 09:04**: chore: update project metadata and build configuration
+- **2008-04-07 14:00**: docs: update traffic signals catalog documentation
