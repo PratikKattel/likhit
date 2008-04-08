@@ -1,4 +1,3 @@
-- **2008-02-29 18:42**: refactor: restructure question data schema for faster loading
 - **2008-03-01 09:57**: fix: typo in Nepali road safety regulations question
 - **2008-03-02 12:21**: feat: add category-specific practice modes
 - **2008-03-03 09:56**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-04-07 09:04**: chore: update project metadata and build configuration
 - **2008-04-07 14:00**: docs: update traffic signals catalog documentation
 - **2008-04-07 21:48**: perf: lazy load signal graphics and question assets
+- **2008-04-08 10:14**: refactor: restructure question data schema for faster loading
