@@ -1,4 +1,3 @@
-- **2008-03-04 19:45**: chore: format code style and clean up redundant variables
 - **2008-03-05 15:34**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-05 16:16**: fix: resolve layout shift during question transitions
 - **2008-03-06 16:00**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2008-04-09 15:25**: perf: optimize image caching for traffic sign assets
 - **2008-04-09 16:00**: feat: add category-specific practice modes
 - **2008-04-10 11:26**: fix: update DOTM Nepal license syllabus questions
+- **2008-04-10 15:37**: feat: add keyboard navigation shortcuts for question selection
