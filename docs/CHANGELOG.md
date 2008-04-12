@@ -1,4 +1,3 @@
-- **2008-03-05 16:16**: fix: resolve layout shift during question transitions
 - **2008-03-06 16:00**: feat: add warning signs and informational road signs
 - **2008-03-07 13:34**: docs: update README with setup instructions and feature list
 - **2008-03-07 13:39**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-04-10 11:26**: fix: update DOTM Nepal license syllabus questions
 - **2008-04-10 15:37**: feat: add keyboard navigation shortcuts for question selection
 - **2008-04-11 10:26**: refactor: restructure question data schema for faster loading
+- **2008-04-12 14:54**: fix: typo in Nepali road safety regulations question
