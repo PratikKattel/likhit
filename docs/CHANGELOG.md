@@ -1,4 +1,3 @@
-- **2008-03-07 13:39**: fix: prevent option re-selection after submitting answer
 - **2008-03-07 14:48**: fix: resolve layout shift during question transitions
 - **2008-03-07 15:14**: refactor: modularize traffic app logic and event listeners
 - **2008-03-08 20:54**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-04-12 14:54**: fix: typo in Nepali road safety regulations question
 - **2008-04-13 11:57**: test: verify question extraction script against exam PDF
 - **2008-04-13 12:24**: chore: format code style and clean up redundant variables
+- **2008-04-13 18:25**: refactor: modularize traffic app logic and event listeners
