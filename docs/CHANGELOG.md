@@ -1,4 +1,3 @@
-- **2008-03-09 14:45**: feat: add warning signs and informational road signs
 - **2008-03-09 15:18**: refactor: optimize SVG rendering for road signs
 - **2008-03-09 22:14**: feat: add search and filter by sign category
 - **2008-03-10 18:44**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-04-14 10:05**: chore: update questions database with recent DOTM updates
 - **2008-04-14 17:47**: refactor: modularize traffic app logic and event listeners
 - **2008-04-14 20:00**: feat: add warning signs and informational road signs
+- **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
