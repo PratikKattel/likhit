@@ -1,4 +1,3 @@
-- **2008-03-08 20:54**: fix: prevent option re-selection after submitting answer
 - **2008-03-09 10:03**: fix: resolve layout shift during question transitions
 - **2008-03-09 14:45**: feat: add warning signs and informational road signs
 - **2008-03-09 15:18**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-04-13 18:25**: refactor: modularize traffic app logic and event listeners
 - **2008-04-13 22:17**: feat: add keyboard navigation shortcuts for question selection
 - **2008-04-14 10:05**: chore: update questions database with recent DOTM updates
+- **2008-04-14 17:47**: refactor: modularize traffic app logic and event listeners
