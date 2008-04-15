@@ -1,4 +1,3 @@
-- **2008-03-09 22:14**: feat: add search and filter by sign category
 - **2008-03-10 18:44**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-10 20:14**: docs: update traffic signals catalog documentation
 - **2008-03-11 09:08**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-04-14 20:00**: feat: add warning signs and informational road signs
 - **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
 - **2008-04-15 13:34**: chore: organize assets and image directory structure
+- **2008-04-15 15:05**: perf: lazy load signal graphics and question assets
