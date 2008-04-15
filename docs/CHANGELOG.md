@@ -1,4 +1,3 @@
-- **2008-03-09 15:18**: refactor: optimize SVG rendering for road signs
 - **2008-03-09 22:14**: feat: add search and filter by sign category
 - **2008-03-10 18:44**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-10 20:14**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2008-04-14 17:47**: refactor: modularize traffic app logic and event listeners
 - **2008-04-14 20:00**: feat: add warning signs and informational road signs
 - **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
+- **2008-04-15 13:34**: chore: organize assets and image directory structure
