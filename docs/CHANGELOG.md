@@ -1,4 +1,3 @@
-- **2008-03-12 12:28**: docs: add instructions for Nepali driving license written exam
 - **2008-03-12 15:47**: perf: index question IDs for rapid lookup
 - **2008-03-13 13:43**: fix: prevent option re-selection after submitting answer
 - **2008-03-14 12:05**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-04-16 14:29**: perf: lazy load signal graphics and question assets
 - **2008-04-17 09:53**: perf: optimize image caching for traffic sign assets
 - **2008-04-17 13:04**: feat: add instant feedback and explanation on answer selection
+- **2008-04-18 13:27**: feat: support multiple choice questions for motorcycle category
