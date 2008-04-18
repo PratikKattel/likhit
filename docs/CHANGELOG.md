@@ -1,4 +1,3 @@
-- **2008-03-13 13:43**: fix: prevent option re-selection after submitting answer
 - **2008-03-14 12:05**: refactor: optimize SVG rendering for road signs
 - **2008-03-14 21:24**: fix: typo in Nepali road safety regulations question
 - **2008-03-15 10:18**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-04-17 13:04**: feat: add instant feedback and explanation on answer selection
 - **2008-04-18 13:27**: feat: support multiple choice questions for motorcycle category
 - **2008-04-18 15:01**: docs: improve code comments and API documentation
+- **2008-04-18 17:11**: style: enhance traffic sign card layout and responsiveness
