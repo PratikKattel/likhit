@@ -1,4 +1,3 @@
-- **2008-03-14 21:24**: fix: typo in Nepali road safety regulations question
 - **2008-03-15 10:18**: style: polish typography and Nepali Unicode font rendering
 - **2008-03-15 14:39**: refactor: modularize traffic app logic and event listeners
 - **2008-03-15 16:04**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-04-18 15:01**: docs: improve code comments and API documentation
 - **2008-04-18 17:11**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-18 19:28**: refactor: optimize SVG rendering for road signs
+- **2008-04-19 10:54**: fix: resolve layout shift during question transitions
