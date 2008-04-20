@@ -1,4 +1,3 @@
-- **2008-03-15 14:39**: refactor: modularize traffic app logic and event listeners
 - **2008-03-15 16:04**: feat: support multiple choice questions for motorcycle category
 - **2008-03-15 19:43**: feat: add result summary with passing threshold analysis
 - **2008-03-16 12:18**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2008-04-18 19:28**: refactor: optimize SVG rendering for road signs
 - **2008-04-19 10:54**: fix: resolve layout shift during question transitions
 - **2008-04-20 14:48**: docs: update README with setup instructions and feature list
+- **2008-04-20 17:22**: chore: format code style and clean up redundant variables
