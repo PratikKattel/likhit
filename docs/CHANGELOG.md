@@ -1,4 +1,3 @@
-- **2008-03-15 19:43**: feat: add result summary with passing threshold analysis
 - **2008-03-16 12:18**: chore: organize assets and image directory structure
 - **2008-03-16 18:04**: test: verify question extraction script against exam PDF
 - **2008-03-16 19:59**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-04-20 14:48**: docs: update README with setup instructions and feature list
 - **2008-04-20 17:22**: chore: format code style and clean up redundant variables
 - **2008-04-20 19:46**: feat: add result summary with passing threshold analysis
+- **2008-04-20 21:07**: perf: lazy load signal graphics and question assets
