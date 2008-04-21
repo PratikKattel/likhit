@@ -1,4 +1,3 @@
-- **2008-03-16 12:18**: chore: organize assets and image directory structure
 - **2008-03-16 18:04**: test: verify question extraction script against exam PDF
 - **2008-03-16 19:59**: test: verify question extraction script against exam PDF
 - **2008-03-17 13:37**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-04-20 17:22**: chore: format code style and clean up redundant variables
 - **2008-04-20 19:46**: feat: add result summary with passing threshold analysis
 - **2008-04-20 21:07**: perf: lazy load signal graphics and question assets
+- **2008-04-21 11:33**: style: enhance traffic sign card layout and responsiveness
