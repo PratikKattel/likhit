@@ -1,4 +1,3 @@
-- **2008-03-16 18:04**: test: verify question extraction script against exam PDF
 - **2008-03-16 19:59**: test: verify question extraction script against exam PDF
 - **2008-03-17 13:37**: fix: adjust passing score threshold according to new rules
 - **2008-03-18 13:52**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-04-20 19:46**: feat: add result summary with passing threshold analysis
 - **2008-04-20 21:07**: perf: lazy load signal graphics and question assets
 - **2008-04-21 11:33**: style: enhance traffic sign card layout and responsiveness
+- **2008-04-22 14:38**: feat: add category-specific practice modes
