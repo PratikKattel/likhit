@@ -1,4 +1,3 @@
-- **2008-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2008-03-18 19:57**: refactor: modularize traffic app logic and event listeners
 - **2008-03-19 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-03-19 20:30**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-04-23 12:25**: perf: optimize image caching for traffic sign assets
 - **2008-04-24 15:15**: docs: update README with setup instructions and feature list
 - **2008-04-24 18:44**: fix: resolve layout shift during question transitions
+- **2008-04-25 12:47**: style: enhance traffic sign card layout and responsiveness
