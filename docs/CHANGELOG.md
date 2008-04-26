@@ -1,4 +1,3 @@
-- **2008-03-19 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-03-19 20:30**: feat: add regulatory traffic signs SVG graphics
 - **2008-03-20 09:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-20 19:32**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2008-04-24 18:44**: fix: resolve layout shift during question transitions
 - **2008-04-25 12:47**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-25 22:25**: chore: update project metadata and build configuration
+- **2008-04-26 14:35**: refactor: optimize SVG rendering for road signs
