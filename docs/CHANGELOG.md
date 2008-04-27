@@ -1,4 +1,3 @@
-- **2008-03-20 19:32**: feat: add category A and B traffic test questions
 - **2008-03-20 21:29**: docs: add instructions for Nepali driving license written exam
 - **2008-03-21 09:50**: feat: add category-specific practice modes
 - **2008-03-21 11:39**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2008-04-26 14:35**: refactor: optimize SVG rendering for road signs
 - **2008-04-26 20:23**: docs: improve code comments and API documentation
 - **2008-04-26 21:25**: style: improve dark/light mode and mobile UI responsiveness
+- **2008-04-27 09:30**: fix: prevent option re-selection after submitting answer
