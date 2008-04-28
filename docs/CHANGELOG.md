@@ -1,4 +1,3 @@
-- **2008-03-20 21:29**: docs: add instructions for Nepali driving license written exam
 - **2008-03-21 09:50**: feat: add category-specific practice modes
 - **2008-03-21 11:39**: chore: organize assets and image directory structure
 - **2008-03-22 17:42**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-04-26 20:23**: docs: improve code comments and API documentation
 - **2008-04-26 21:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-04-27 09:30**: fix: prevent option re-selection after submitting answer
+- **2008-04-28 15:23**: feat: support multiple choice questions for motorcycle category
