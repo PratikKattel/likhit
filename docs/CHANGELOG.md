@@ -1,4 +1,3 @@
-- **2008-03-22 17:42**: chore: format code style and clean up redundant variables
 - **2008-03-23 18:54**: feat: support multiple choice questions for motorcycle category
 - **2008-03-23 19:48**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-24 10:29**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2008-04-28 15:23**: feat: support multiple choice questions for motorcycle category
 - **2008-04-28 15:36**: feat: add result summary with passing threshold analysis
 - **2008-04-29 12:11**: feat: implement timer and score calculation for mock test
+- **2008-04-29 17:00**: style: polish typography and Nepali Unicode font rendering
