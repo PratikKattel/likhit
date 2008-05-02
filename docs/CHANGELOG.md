@@ -1,4 +1,3 @@
-- **2008-03-25 21:03**: feat: implement timer and score calculation for mock test
 - **2008-03-26 16:13**: test: verify question extraction script against exam PDF
 - **2008-03-26 20:05**: perf: lazy load signal graphics and question assets
 - **2008-03-27 13:15**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-04-30 13:40**: fix: update DOTM Nepal license syllabus questions
 - **2008-05-01 09:45**: test: verify question extraction script against exam PDF
 - **2008-05-02 10:20**: feat: support multiple choice questions for motorcycle category
+- **2008-05-02 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
