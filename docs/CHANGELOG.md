@@ -1,4 +1,3 @@
-- **2008-03-25 13:38**: feat: add keyboard navigation shortcuts for question selection
 - **2008-03-25 21:03**: feat: implement timer and score calculation for mock test
 - **2008-03-26 16:13**: test: verify question extraction script against exam PDF
 - **2008-03-26 20:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-04-29 21:07**: feat: add category A and B traffic test questions
 - **2008-04-30 13:40**: fix: update DOTM Nepal license syllabus questions
 - **2008-05-01 09:45**: test: verify question extraction script against exam PDF
+- **2008-05-02 10:20**: feat: support multiple choice questions for motorcycle category
