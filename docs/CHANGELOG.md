@@ -1,4 +1,3 @@
-- **2008-03-26 20:05**: perf: lazy load signal graphics and question assets
 - **2008-03-27 13:15**: refactor: restructure question data schema for faster loading
 - **2008-03-27 16:58**: test: verify question extraction script against exam PDF
 - **2008-03-27 20:24**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2008-05-02 10:20**: feat: support multiple choice questions for motorcycle category
 - **2008-05-02 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-05-03 12:07**: style: enhance traffic sign card layout and responsiveness
+- **2008-05-04 16:31**: chore: format code style and clean up redundant variables
