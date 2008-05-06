@@ -1,4 +1,3 @@
-- **2008-03-27 16:58**: test: verify question extraction script against exam PDF
 - **2008-03-27 20:24**: feat: add search and filter by sign category
 - **2008-03-28 12:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-03-28 16:28**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-05-03 12:07**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-04 16:31**: chore: format code style and clean up redundant variables
 - **2008-05-05 12:16**: perf: optimize image caching for traffic sign assets
+- **2008-05-06 17:53**: feat: add category-specific practice modes
