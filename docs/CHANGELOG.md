@@ -1,4 +1,3 @@
-- **2008-03-28 12:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-03-28 16:28**: docs: improve code comments and API documentation
 - **2008-03-29 10:30**: feat: add category-specific practice modes
 - **2008-03-29 19:50**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-05-05 12:16**: perf: optimize image caching for traffic sign assets
 - **2008-05-06 17:53**: feat: add category-specific practice modes
 - **2008-05-07 15:51**: chore: organize assets and image directory structure
+- **2008-05-08 11:03**: refactor: optimize SVG rendering for road signs
