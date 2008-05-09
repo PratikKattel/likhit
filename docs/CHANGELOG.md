@@ -1,4 +1,3 @@
-- **2008-03-29 10:30**: feat: add category-specific practice modes
 - **2008-03-29 19:50**: refactor: optimize SVG rendering for road signs
 - **2008-03-30 18:45**: chore: organize assets and image directory structure
 - **2008-03-30 21:21**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-05-07 15:51**: chore: organize assets and image directory structure
 - **2008-05-08 11:03**: refactor: optimize SVG rendering for road signs
 - **2008-05-08 14:04**: feat: support multiple choice questions for motorcycle category
+- **2008-05-09 19:01**: refactor: optimize SVG rendering for road signs
