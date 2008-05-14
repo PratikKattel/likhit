@@ -1,4 +1,3 @@
-- **2008-03-31 10:03**: feat: add category A and B traffic test questions
 - **2008-04-01 09:40**: feat: add regulatory traffic signs SVG graphics
 - **2008-04-01 15:05**: feat: add regulatory traffic signs SVG graphics
 - **2008-04-02 12:32**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-05-11 17:07**: perf: lazy load signal graphics and question assets
 - **2008-05-12 13:35**: fix: prevent option re-selection after submitting answer
 - **2008-05-13 21:50**: chore: update questions database with recent DOTM updates
+- **2008-05-14 09:23**: docs: improve code comments and API documentation
