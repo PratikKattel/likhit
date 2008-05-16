@@ -1,4 +1,3 @@
-- **2008-04-03 20:42**: fix: typo in Nepali road safety regulations question
 - **2008-04-04 12:23**: perf: lazy load signal graphics and question assets
 - **2008-04-04 17:55**: refactor: restructure question data schema for faster loading
 - **2008-04-04 19:25**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-05-15 14:59**: fix: resolve layout shift during question transitions
 - **2008-05-15 15:03**: feat: add category-specific practice modes
 - **2008-05-15 19:29**: style: enhance traffic sign card layout and responsiveness
+- **2008-05-16 10:57**: feat: add search and filter by sign category
