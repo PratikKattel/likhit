@@ -1,4 +1,3 @@
-- **2008-04-04 19:25**: perf: lazy load signal graphics and question assets
 - **2008-04-05 10:05**: refactor: optimize SVG rendering for road signs
 - **2008-04-05 13:18**: fix: resolve layout shift during question transitions
 - **2008-04-06 19:25**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-05-16 10:57**: feat: add search and filter by sign category
 - **2008-05-16 15:39**: chore: format code style and clean up redundant variables
 - **2008-05-17 13:00**: feat: add instant feedback and explanation on answer selection
+- **2008-05-17 16:56**: perf: lazy load signal graphics and question assets
