@@ -1,4 +1,3 @@
-- **2008-04-06 19:25**: fix: resolve layout shift during question transitions
 - **2008-04-07 09:04**: chore: update project metadata and build configuration
 - **2008-04-07 14:00**: docs: update traffic signals catalog documentation
 - **2008-04-07 21:48**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-05-17 16:56**: perf: lazy load signal graphics and question assets
 - **2008-05-17 18:02**: chore: format code style and clean up redundant variables
 - **2008-05-18 10:50**: style: enhance traffic sign card layout and responsiveness
+- **2008-05-18 12:40**: fix: correct color specifications for mandatory traffic signs
