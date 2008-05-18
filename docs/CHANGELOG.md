@@ -1,4 +1,3 @@
-- **2008-04-07 09:04**: chore: update project metadata and build configuration
 - **2008-04-07 14:00**: docs: update traffic signals catalog documentation
 - **2008-04-07 21:48**: perf: lazy load signal graphics and question assets
 - **2008-04-08 10:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-05-17 18:02**: chore: format code style and clean up redundant variables
 - **2008-05-18 10:50**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-18 12:40**: fix: correct color specifications for mandatory traffic signs
+- **2008-05-18 16:41**: feat: add search and filter by sign category
