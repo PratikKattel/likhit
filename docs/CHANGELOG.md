@@ -1,4 +1,3 @@
-- **2008-04-08 10:14**: refactor: restructure question data schema for faster loading
 - **2008-04-09 13:35**: feat: implement timer and score calculation for mock test
 - **2008-04-09 15:25**: perf: optimize image caching for traffic sign assets
 - **2008-04-09 16:00**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-05-18 16:41**: feat: add search and filter by sign category
 - **2008-05-18 19:00**: perf: optimize image caching for traffic sign assets
 - **2008-05-19 13:41**: feat: add warning signs and informational road signs
+- **2008-05-20 14:01**: chore: format code style and clean up redundant variables
