@@ -1,4 +1,3 @@
-- **2008-04-10 11:26**: fix: update DOTM Nepal license syllabus questions
 - **2008-04-10 15:37**: feat: add keyboard navigation shortcuts for question selection
 - **2008-04-11 10:26**: refactor: restructure question data schema for faster loading
 - **2008-04-12 14:54**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-05-20 17:58**: docs: update README with setup instructions and feature list
 - **2008-05-20 19:53**: feat: add regulatory traffic signs SVG graphics
 - **2008-05-21 14:28**: chore: format code style and clean up redundant variables
+- **2008-05-21 18:02**: test: verify question extraction script against exam PDF
