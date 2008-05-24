@@ -1,4 +1,3 @@
-- **2008-04-13 12:24**: chore: format code style and clean up redundant variables
 - **2008-04-13 18:25**: refactor: modularize traffic app logic and event listeners
 - **2008-04-13 22:17**: feat: add keyboard navigation shortcuts for question selection
 - **2008-04-14 10:05**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-05-23 13:27**: fix: prevent option re-selection after submitting answer
 - **2008-05-23 15:26**: feat: add category-specific practice modes
 - **2008-05-24 13:50**: docs: improve code comments and API documentation
+- **2008-05-24 19:37**: test: verify question extraction script against exam PDF
