@@ -1,4 +1,3 @@
-- **2008-04-14 10:05**: chore: update questions database with recent DOTM updates
 - **2008-04-14 17:47**: refactor: modularize traffic app logic and event listeners
 - **2008-04-14 20:00**: feat: add warning signs and informational road signs
 - **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-05-24 19:37**: test: verify question extraction script against exam PDF
 - **2008-05-25 14:40**: docs: update traffic signals catalog documentation
 - **2008-05-26 14:43**: style: polish typography and Nepali Unicode font rendering
+- **2008-05-27 12:51**: style: enhance traffic sign card layout and responsiveness
