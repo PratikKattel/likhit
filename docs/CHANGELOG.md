@@ -1,4 +1,3 @@
-- **2008-04-14 17:47**: refactor: modularize traffic app logic and event listeners
 - **2008-04-14 20:00**: feat: add warning signs and informational road signs
 - **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
 - **2008-04-15 13:34**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2008-05-25 14:40**: docs: update traffic signals catalog documentation
 - **2008-05-26 14:43**: style: polish typography and Nepali Unicode font rendering
 - **2008-05-27 12:51**: style: enhance traffic sign card layout and responsiveness
+- **2008-05-28 21:05**: style: improve dark/light mode and mobile UI responsiveness
