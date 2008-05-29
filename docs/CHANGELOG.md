@@ -1,4 +1,3 @@
-- **2008-04-15 13:34**: chore: organize assets and image directory structure
 - **2008-04-15 15:05**: perf: lazy load signal graphics and question assets
 - **2008-04-15 15:40**: refactor: restructure question data schema for faster loading
 - **2008-04-16 12:54**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2008-05-28 21:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-05-29 12:11**: chore: format code style and clean up redundant variables
 - **2008-05-29 15:44**: refactor: optimize SVG rendering for road signs
+- **2008-05-29 17:13**: fix: correct color specifications for mandatory traffic signs
