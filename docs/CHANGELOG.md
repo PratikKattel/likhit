@@ -1,4 +1,3 @@
-- **2008-04-14 21:57**: perf: optimize image caching for traffic sign assets
 - **2008-04-15 13:34**: chore: organize assets and image directory structure
 - **2008-04-15 15:05**: perf: lazy load signal graphics and question assets
 - **2008-04-15 15:40**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-05-27 12:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-28 21:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-05-29 12:11**: chore: format code style and clean up redundant variables
+- **2008-05-29 15:44**: refactor: optimize SVG rendering for road signs
