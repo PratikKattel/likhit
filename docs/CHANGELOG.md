@@ -1,4 +1,3 @@
-- **2008-04-15 15:40**: refactor: restructure question data schema for faster loading
 - **2008-04-16 12:54**: feat: add category A and B traffic test questions
 - **2008-04-16 14:29**: perf: lazy load signal graphics and question assets
 - **2008-04-17 09:53**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-05-29 15:44**: refactor: optimize SVG rendering for road signs
 - **2008-05-29 17:13**: fix: correct color specifications for mandatory traffic signs
 - **2008-05-30 14:42**: fix: update DOTM Nepal license syllabus questions
+- **2008-05-31 14:09**: feat: add instant feedback and explanation on answer selection
