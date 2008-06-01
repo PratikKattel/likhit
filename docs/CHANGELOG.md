@@ -1,4 +1,3 @@
-- **2008-04-17 09:53**: perf: optimize image caching for traffic sign assets
 - **2008-04-17 13:04**: feat: add instant feedback and explanation on answer selection
 - **2008-04-18 13:27**: feat: support multiple choice questions for motorcycle category
 - **2008-04-18 15:01**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-05-31 14:09**: feat: add instant feedback and explanation on answer selection
 - **2008-05-31 19:27**: fix: resolve layout shift during question transitions
 - **2008-05-31 20:56**: refactor: modularize traffic app logic and event listeners
+- **2008-06-01 09:38**: test: verify question extraction script against exam PDF
