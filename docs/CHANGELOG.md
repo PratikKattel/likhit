@@ -1,4 +1,3 @@
-- **2008-04-18 15:01**: docs: improve code comments and API documentation
 - **2008-04-18 17:11**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-18 19:28**: refactor: optimize SVG rendering for road signs
 - **2008-04-19 10:54**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-06-01 09:38**: test: verify question extraction script against exam PDF
 - **2008-06-01 16:02**: fix: resolve layout shift during question transitions
 - **2008-06-01 17:06**: fix: typo in Nepali road safety regulations question
+- **2008-06-02 09:31**: style: polish typography and Nepali Unicode font rendering
