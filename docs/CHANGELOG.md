@@ -1,4 +1,3 @@
-- **2008-04-18 17:11**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-18 19:28**: refactor: optimize SVG rendering for road signs
 - **2008-04-19 10:54**: fix: resolve layout shift during question transitions
 - **2008-04-20 14:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-06-01 16:02**: fix: resolve layout shift during question transitions
 - **2008-06-01 17:06**: fix: typo in Nepali road safety regulations question
 - **2008-06-02 09:31**: style: polish typography and Nepali Unicode font rendering
+- **2008-06-03 13:47**: chore: update project metadata and build configuration
