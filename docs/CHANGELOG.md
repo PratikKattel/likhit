@@ -1,4 +1,3 @@
-- **2008-04-19 10:54**: fix: resolve layout shift during question transitions
 - **2008-04-20 14:48**: docs: update README with setup instructions and feature list
 - **2008-04-20 17:22**: chore: format code style and clean up redundant variables
 - **2008-04-20 19:46**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-06-02 09:31**: style: polish typography and Nepali Unicode font rendering
 - **2008-06-03 13:47**: chore: update project metadata and build configuration
 - **2008-06-03 19:10**: test: verify question extraction script against exam PDF
+- **2008-06-03 21:47**: chore: format code style and clean up redundant variables
