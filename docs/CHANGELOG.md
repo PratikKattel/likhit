@@ -1,4 +1,3 @@
-- **2008-04-20 17:22**: chore: format code style and clean up redundant variables
 - **2008-04-20 19:46**: feat: add result summary with passing threshold analysis
 - **2008-04-20 21:07**: perf: lazy load signal graphics and question assets
 - **2008-04-21 11:33**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-06-03 19:10**: test: verify question extraction script against exam PDF
 - **2008-06-03 21:47**: chore: format code style and clean up redundant variables
 - **2008-06-04 12:57**: feat: support multiple choice questions for motorcycle category
+- **2008-06-05 12:13**: refactor: restructure question data schema for faster loading
