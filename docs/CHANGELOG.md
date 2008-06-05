@@ -1,4 +1,3 @@
-- **2008-04-20 21:07**: perf: lazy load signal graphics and question assets
 - **2008-04-21 11:33**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-22 14:38**: feat: add category-specific practice modes
 - **2008-04-22 15:02**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-06-04 12:57**: feat: support multiple choice questions for motorcycle category
 - **2008-06-05 12:13**: refactor: restructure question data schema for faster loading
 - **2008-06-05 17:36**: docs: update README with setup instructions and feature list
+- **2008-06-05 22:29**: docs: add instructions for Nepali driving license written exam
