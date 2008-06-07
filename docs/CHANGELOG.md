@@ -1,4 +1,3 @@
-- **2008-04-22 14:38**: feat: add category-specific practice modes
 - **2008-04-22 15:02**: docs: add instructions for Nepali driving license written exam
 - **2008-04-23 12:25**: perf: optimize image caching for traffic sign assets
 - **2008-04-24 15:15**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-06-05 17:36**: docs: update README with setup instructions and feature list
 - **2008-06-05 22:29**: docs: add instructions for Nepali driving license written exam
 - **2008-06-06 09:49**: docs: update README with setup instructions and feature list
+- **2008-06-07 21:19**: feat: add warning signs and informational road signs
