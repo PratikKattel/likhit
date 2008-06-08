@@ -1,4 +1,3 @@
-- **2008-04-22 15:02**: docs: add instructions for Nepali driving license written exam
 - **2008-04-23 12:25**: perf: optimize image caching for traffic sign assets
 - **2008-04-24 15:15**: docs: update README with setup instructions and feature list
 - **2008-04-24 18:44**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-06-05 22:29**: docs: add instructions for Nepali driving license written exam
 - **2008-06-06 09:49**: docs: update README with setup instructions and feature list
 - **2008-06-07 21:19**: feat: add warning signs and informational road signs
+- **2008-06-08 12:30**: perf: optimize image caching for traffic sign assets
