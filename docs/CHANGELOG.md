@@ -1,4 +1,3 @@
-- **2008-04-24 15:15**: docs: update README with setup instructions and feature list
 - **2008-04-24 18:44**: fix: resolve layout shift during question transitions
 - **2008-04-25 12:47**: style: enhance traffic sign card layout and responsiveness
 - **2008-04-25 22:25**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2008-06-07 21:19**: feat: add warning signs and informational road signs
 - **2008-06-08 12:30**: perf: optimize image caching for traffic sign assets
 - **2008-06-08 15:44**: chore: organize assets and image directory structure
+- **2008-06-08 21:21**: fix: prevent option re-selection after submitting answer
