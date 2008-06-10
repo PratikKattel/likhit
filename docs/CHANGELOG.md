@@ -1,4 +1,3 @@
-- **2008-04-25 22:25**: chore: update project metadata and build configuration
 - **2008-04-26 14:35**: refactor: optimize SVG rendering for road signs
 - **2008-04-26 20:23**: docs: improve code comments and API documentation
 - **2008-04-26 21:25**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2008-06-08 21:21**: fix: prevent option re-selection after submitting answer
 - **2008-06-09 21:54**: refactor: optimize SVG rendering for road signs
 - **2008-06-10 09:37**: docs: update traffic signals catalog documentation
+- **2008-06-10 10:37**: perf: index question IDs for rapid lookup
