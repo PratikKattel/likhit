@@ -1,4 +1,3 @@
-- **2008-04-26 20:23**: docs: improve code comments and API documentation
 - **2008-04-26 21:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-04-27 09:30**: fix: prevent option re-selection after submitting answer
 - **2008-04-28 15:23**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-06-10 09:37**: docs: update traffic signals catalog documentation
 - **2008-06-10 10:37**: perf: index question IDs for rapid lookup
 - **2008-06-11 12:41**: feat: support multiple choice questions for motorcycle category
+- **2008-06-12 12:35**: docs: update README with setup instructions and feature list
