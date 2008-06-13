@@ -1,4 +1,3 @@
-- **2008-04-28 15:23**: feat: support multiple choice questions for motorcycle category
 - **2008-04-28 15:36**: feat: add result summary with passing threshold analysis
 - **2008-04-29 12:11**: feat: implement timer and score calculation for mock test
 - **2008-04-29 17:00**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-06-12 12:35**: docs: update README with setup instructions and feature list
 - **2008-06-12 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-13 16:20**: style: polish typography and Nepali Unicode font rendering
+- **2008-06-13 18:04**: perf: optimize image caching for traffic sign assets
