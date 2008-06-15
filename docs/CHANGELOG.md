@@ -1,4 +1,3 @@
-- **2008-04-29 17:00**: style: polish typography and Nepali Unicode font rendering
 - **2008-04-29 21:07**: feat: add category A and B traffic test questions
 - **2008-04-30 13:40**: fix: update DOTM Nepal license syllabus questions
 - **2008-05-01 09:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-06-13 18:04**: perf: optimize image caching for traffic sign assets
 - **2008-06-14 13:52**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-14 18:41**: feat: add regulatory traffic signs SVG graphics
+- **2008-06-15 10:48**: feat: add category-specific practice modes
