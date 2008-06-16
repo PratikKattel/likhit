@@ -1,4 +1,3 @@
-- **2008-05-01 09:45**: test: verify question extraction script against exam PDF
 - **2008-05-02 10:20**: feat: support multiple choice questions for motorcycle category
 - **2008-05-02 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-05-03 12:07**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-06-15 10:48**: feat: add category-specific practice modes
 - **2008-06-15 13:17**: docs: update README with setup instructions and feature list
 - **2008-06-15 19:41**: feat: add category-specific practice modes
+- **2008-06-16 15:51**: style: enhance traffic sign card layout and responsiveness
