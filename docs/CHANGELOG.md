@@ -1,4 +1,3 @@
-- **2008-05-02 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-05-03 12:07**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-04 16:31**: chore: format code style and clean up redundant variables
 - **2008-05-05 12:16**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-06-15 19:41**: feat: add category-specific practice modes
 - **2008-06-16 15:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-16 19:42**: perf: index question IDs for rapid lookup
+- **2008-06-17 11:55**: feat: support multiple choice questions for motorcycle category
