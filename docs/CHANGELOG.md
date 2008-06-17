@@ -1,4 +1,3 @@
-- **2008-05-05 12:16**: perf: optimize image caching for traffic sign assets
 - **2008-05-06 17:53**: feat: add category-specific practice modes
 - **2008-05-07 15:51**: chore: organize assets and image directory structure
 - **2008-05-08 11:03**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-06-17 11:55**: feat: support multiple choice questions for motorcycle category
 - **2008-06-17 14:49**: fix: prevent option re-selection after submitting answer
 - **2008-06-17 14:52**: feat: add regulatory traffic signs SVG graphics
+- **2008-06-17 20:15**: perf: index question IDs for rapid lookup
