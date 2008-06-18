@@ -1,4 +1,3 @@
-- **2008-05-07 15:51**: chore: organize assets and image directory structure
 - **2008-05-08 11:03**: refactor: optimize SVG rendering for road signs
 - **2008-05-08 14:04**: feat: support multiple choice questions for motorcycle category
 - **2008-05-09 19:01**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-06-17 14:52**: feat: add regulatory traffic signs SVG graphics
 - **2008-06-17 20:15**: perf: index question IDs for rapid lookup
 - **2008-06-18 14:27**: perf: lazy load signal graphics and question assets
+- **2008-06-18 19:23**: docs: improve code comments and API documentation
