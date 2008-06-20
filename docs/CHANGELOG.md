@@ -1,4 +1,3 @@
-- **2008-05-10 20:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-05-11 17:07**: perf: lazy load signal graphics and question assets
 - **2008-05-12 13:35**: fix: prevent option re-selection after submitting answer
 - **2008-05-13 21:50**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-06-18 19:38**: feat: add category-specific practice modes
 - **2008-06-19 10:52**: refactor: restructure question data schema for faster loading
 - **2008-06-20 15:22**: fix: correct color specifications for mandatory traffic signs
+- **2008-06-20 16:09**: feat: add category A and B traffic test questions
