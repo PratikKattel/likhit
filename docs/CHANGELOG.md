@@ -1,4 +1,3 @@
-- **2008-05-11 17:07**: perf: lazy load signal graphics and question assets
 - **2008-05-12 13:35**: fix: prevent option re-selection after submitting answer
 - **2008-05-13 21:50**: chore: update questions database with recent DOTM updates
 - **2008-05-14 09:23**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-06-19 10:52**: refactor: restructure question data schema for faster loading
 - **2008-06-20 15:22**: fix: correct color specifications for mandatory traffic signs
 - **2008-06-20 16:09**: feat: add category A and B traffic test questions
+- **2008-06-21 12:26**: fix: update DOTM Nepal license syllabus questions
