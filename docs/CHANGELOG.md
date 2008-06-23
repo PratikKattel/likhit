@@ -1,4 +1,3 @@
-- **2008-05-14 11:21**: perf: lazy load signal graphics and question assets
 - **2008-05-15 14:59**: fix: resolve layout shift during question transitions
 - **2008-05-15 15:03**: feat: add category-specific practice modes
 - **2008-05-15 19:29**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-06-21 12:41**: refactor: restructure question data schema for faster loading
 - **2008-06-22 14:17**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-22 19:04**: chore: update questions database with recent DOTM updates
+- **2008-06-23 09:17**: docs: improve code comments and API documentation
