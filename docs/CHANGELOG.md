@@ -1,4 +1,3 @@
-- **2008-05-15 19:29**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-16 10:57**: feat: add search and filter by sign category
 - **2008-05-16 15:39**: chore: format code style and clean up redundant variables
 - **2008-05-17 13:00**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-06-23 09:17**: docs: improve code comments and API documentation
 - **2008-06-24 09:53**: feat: add result summary with passing threshold analysis
 - **2008-06-25 17:06**: fix: correct color specifications for mandatory traffic signs
+- **2008-06-25 17:44**: fix: update DOTM Nepal license syllabus questions
