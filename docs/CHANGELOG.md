@@ -1,4 +1,3 @@
-- **2008-05-16 15:39**: chore: format code style and clean up redundant variables
 - **2008-05-17 13:00**: feat: add instant feedback and explanation on answer selection
 - **2008-05-17 16:56**: perf: lazy load signal graphics and question assets
 - **2008-05-17 18:02**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-06-25 17:06**: fix: correct color specifications for mandatory traffic signs
 - **2008-06-25 17:44**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-26 16:03**: chore: format code style and clean up redundant variables
+- **2008-06-26 19:06**: style: enhance traffic sign card layout and responsiveness
