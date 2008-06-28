@@ -1,4 +1,3 @@
-- **2008-05-17 18:02**: chore: format code style and clean up redundant variables
 - **2008-05-18 10:50**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-18 12:40**: fix: correct color specifications for mandatory traffic signs
 - **2008-05-18 16:41**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2008-06-26 19:06**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-27 20:29**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-27 21:00**: style: enhance traffic sign card layout and responsiveness
+- **2008-06-28 11:06**: perf: optimize image caching for traffic sign assets
