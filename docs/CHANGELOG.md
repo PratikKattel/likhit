@@ -1,4 +1,3 @@
-- **2008-05-18 16:41**: feat: add search and filter by sign category
 - **2008-05-18 19:00**: perf: optimize image caching for traffic sign assets
 - **2008-05-19 13:41**: feat: add warning signs and informational road signs
 - **2008-05-20 14:01**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-06-28 11:06**: perf: optimize image caching for traffic sign assets
 - **2008-06-28 16:57**: perf: optimize image caching for traffic sign assets
 - **2008-06-29 17:51**: feat: add category-specific practice modes
+- **2008-06-30 19:49**: feat: add category A and B traffic test questions
