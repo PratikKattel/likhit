@@ -1,4 +1,3 @@
-- **2008-05-19 13:41**: feat: add warning signs and informational road signs
 - **2008-05-20 14:01**: chore: format code style and clean up redundant variables
 - **2008-05-20 17:58**: docs: update README with setup instructions and feature list
 - **2008-05-20 19:53**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-06-29 17:51**: feat: add category-specific practice modes
 - **2008-06-30 19:49**: feat: add category A and B traffic test questions
 - **2008-07-01 17:38**: style: enhance traffic sign card layout and responsiveness
+- **2008-07-01 19:46**: style: improve dark/light mode and mobile UI responsiveness
