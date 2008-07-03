@@ -1,4 +1,3 @@
-- **2008-05-20 17:58**: docs: update README with setup instructions and feature list
 - **2008-05-20 19:53**: feat: add regulatory traffic signs SVG graphics
 - **2008-05-21 14:28**: chore: format code style and clean up redundant variables
 - **2008-05-21 18:02**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-07-01 17:38**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-01 19:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-07-02 15:13**: docs: improve code comments and API documentation
+- **2008-07-03 16:22**: feat: add warning signs and informational road signs
