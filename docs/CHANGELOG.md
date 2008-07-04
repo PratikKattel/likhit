@@ -1,4 +1,3 @@
-- **2008-05-20 19:53**: feat: add regulatory traffic signs SVG graphics
 - **2008-05-21 14:28**: chore: format code style and clean up redundant variables
 - **2008-05-21 18:02**: test: verify question extraction script against exam PDF
 - **2008-05-22 16:29**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-07-01 19:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-07-02 15:13**: docs: improve code comments and API documentation
 - **2008-07-03 16:22**: feat: add warning signs and informational road signs
+- **2008-07-04 12:17**: feat: add search and filter by sign category
