@@ -1,4 +1,3 @@
-- **2008-05-21 18:02**: test: verify question extraction script against exam PDF
 - **2008-05-22 16:29**: refactor: optimize SVG rendering for road signs
 - **2008-05-23 13:27**: fix: prevent option re-selection after submitting answer
 - **2008-05-23 15:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2008-07-03 16:22**: feat: add warning signs and informational road signs
 - **2008-07-04 12:17**: feat: add search and filter by sign category
 - **2008-07-04 17:02**: style: polish typography and Nepali Unicode font rendering
+- **2008-07-04 17:20**: docs: add instructions for Nepali driving license written exam
