@@ -1,4 +1,3 @@
-- **2008-05-23 13:27**: fix: prevent option re-selection after submitting answer
 - **2008-05-23 15:26**: feat: add category-specific practice modes
 - **2008-05-24 13:50**: docs: improve code comments and API documentation
 - **2008-05-24 19:37**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-07-04 17:02**: style: polish typography and Nepali Unicode font rendering
 - **2008-07-04 17:20**: docs: add instructions for Nepali driving license written exam
 - **2008-07-05 12:48**: perf: lazy load signal graphics and question assets
+- **2008-07-06 21:45**: chore: update project metadata and build configuration
