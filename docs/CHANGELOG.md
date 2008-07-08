@@ -1,4 +1,3 @@
-- **2008-05-24 13:50**: docs: improve code comments and API documentation
 - **2008-05-24 19:37**: test: verify question extraction script against exam PDF
 - **2008-05-25 14:40**: docs: update traffic signals catalog documentation
 - **2008-05-26 14:43**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-07-05 12:48**: perf: lazy load signal graphics and question assets
 - **2008-07-06 21:45**: chore: update project metadata and build configuration
 - **2008-07-07 20:00**: fix: correct color specifications for mandatory traffic signs
+- **2008-07-08 12:08**: feat: add regulatory traffic signs SVG graphics
