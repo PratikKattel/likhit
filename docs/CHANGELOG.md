@@ -1,4 +1,3 @@
-- **2008-05-27 12:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-05-28 21:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-05-29 12:11**: chore: format code style and clean up redundant variables
 - **2008-05-29 15:44**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-07-08 15:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-07-09 11:02**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-10 11:47**: perf: index question IDs for rapid lookup
+- **2008-07-10 15:57**: docs: add instructions for Nepali driving license written exam
