@@ -1,4 +1,3 @@
-- **2008-05-31 14:09**: feat: add instant feedback and explanation on answer selection
 - **2008-05-31 19:27**: fix: resolve layout shift during question transitions
 - **2008-05-31 20:56**: refactor: modularize traffic app logic and event listeners
 - **2008-06-01 09:38**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-07-12 13:50**: feat: add search and filter by sign category
 - **2008-07-12 14:58**: feat: support multiple choice questions for motorcycle category
 - **2008-07-12 21:14**: docs: update traffic signals catalog documentation
+- **2008-07-13 18:13**: fix: typo in Nepali road safety regulations question
