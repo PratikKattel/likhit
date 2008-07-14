@@ -1,4 +1,3 @@
-- **2008-05-31 20:56**: refactor: modularize traffic app logic and event listeners
 - **2008-06-01 09:38**: test: verify question extraction script against exam PDF
 - **2008-06-01 16:02**: fix: resolve layout shift during question transitions
 - **2008-06-01 17:06**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-07-12 21:14**: docs: update traffic signals catalog documentation
 - **2008-07-13 18:13**: fix: typo in Nepali road safety regulations question
 - **2008-07-14 16:11**: feat: add instant feedback and explanation on answer selection
+- **2008-07-14 21:09**: feat: add category A and B traffic test questions
