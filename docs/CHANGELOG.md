@@ -1,4 +1,3 @@
-- **2008-06-01 09:38**: test: verify question extraction script against exam PDF
 - **2008-06-01 16:02**: fix: resolve layout shift during question transitions
 - **2008-06-01 17:06**: fix: typo in Nepali road safety regulations question
 - **2008-06-02 09:31**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-07-13 18:13**: fix: typo in Nepali road safety regulations question
 - **2008-07-14 16:11**: feat: add instant feedback and explanation on answer selection
 - **2008-07-14 21:09**: feat: add category A and B traffic test questions
+- **2008-07-15 17:06**: fix: prevent option re-selection after submitting answer
