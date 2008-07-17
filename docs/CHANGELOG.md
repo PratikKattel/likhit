@@ -1,4 +1,3 @@
-- **2008-06-02 09:31**: style: polish typography and Nepali Unicode font rendering
 - **2008-06-03 13:47**: chore: update project metadata and build configuration
 - **2008-06-03 19:10**: test: verify question extraction script against exam PDF
 - **2008-06-03 21:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-07-15 17:06**: fix: prevent option re-selection after submitting answer
 - **2008-07-16 10:37**: perf: index question IDs for rapid lookup
 - **2008-07-16 14:53**: style: improve dark/light mode and mobile UI responsiveness
+- **2008-07-17 10:43**: refactor: modularize traffic app logic and event listeners
