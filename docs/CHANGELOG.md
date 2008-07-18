@@ -1,4 +1,3 @@
-- **2008-06-03 19:10**: test: verify question extraction script against exam PDF
 - **2008-06-03 21:47**: chore: format code style and clean up redundant variables
 - **2008-06-04 12:57**: feat: support multiple choice questions for motorcycle category
 - **2008-06-05 12:13**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-07-16 14:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-07-17 10:43**: refactor: modularize traffic app logic and event listeners
 - **2008-07-17 22:04**: refactor: optimize SVG rendering for road signs
+- **2008-07-18 19:39**: chore: update project metadata and build configuration
