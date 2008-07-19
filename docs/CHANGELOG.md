@@ -1,4 +1,3 @@
-- **2008-06-03 21:47**: chore: format code style and clean up redundant variables
 - **2008-06-04 12:57**: feat: support multiple choice questions for motorcycle category
 - **2008-06-05 12:13**: refactor: restructure question data schema for faster loading
 - **2008-06-05 17:36**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-07-17 10:43**: refactor: modularize traffic app logic and event listeners
 - **2008-07-17 22:04**: refactor: optimize SVG rendering for road signs
 - **2008-07-18 19:39**: chore: update project metadata and build configuration
+- **2008-07-19 11:46**: fix: correct color specifications for mandatory traffic signs
