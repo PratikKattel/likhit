@@ -1,4 +1,3 @@
-- **2008-06-05 12:13**: refactor: restructure question data schema for faster loading
 - **2008-06-05 17:36**: docs: update README with setup instructions and feature list
 - **2008-06-05 22:29**: docs: add instructions for Nepali driving license written exam
 - **2008-06-06 09:49**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-07-18 19:39**: chore: update project metadata and build configuration
 - **2008-07-19 11:46**: fix: correct color specifications for mandatory traffic signs
 - **2008-07-19 11:57**: chore: format code style and clean up redundant variables
+- **2008-07-20 10:44**: style: enhance traffic sign card layout and responsiveness
