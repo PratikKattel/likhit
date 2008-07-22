@@ -1,4 +1,3 @@
-- **2008-06-07 21:19**: feat: add warning signs and informational road signs
 - **2008-06-08 12:30**: perf: optimize image caching for traffic sign assets
 - **2008-06-08 15:44**: chore: organize assets and image directory structure
 - **2008-06-08 21:21**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-07-21 17:26**: docs: update README with setup instructions and feature list
 - **2008-07-21 19:38**: perf: lazy load signal graphics and question assets
 - **2008-07-22 12:50**: feat: add result summary with passing threshold analysis
+- **2008-07-22 19:29**: test: verify question extraction script against exam PDF
