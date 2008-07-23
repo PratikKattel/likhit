@@ -1,4 +1,3 @@
-- **2008-06-08 12:30**: perf: optimize image caching for traffic sign assets
 - **2008-06-08 15:44**: chore: organize assets and image directory structure
 - **2008-06-08 21:21**: fix: prevent option re-selection after submitting answer
 - **2008-06-09 21:54**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2008-07-21 19:38**: perf: lazy load signal graphics and question assets
 - **2008-07-22 12:50**: feat: add result summary with passing threshold analysis
 - **2008-07-22 19:29**: test: verify question extraction script against exam PDF
+- **2008-07-23 14:37**: docs: improve code comments and API documentation
