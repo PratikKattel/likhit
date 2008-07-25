@@ -1,4 +1,3 @@
-- **2008-06-08 21:21**: fix: prevent option re-selection after submitting answer
 - **2008-06-09 21:54**: refactor: optimize SVG rendering for road signs
 - **2008-06-10 09:37**: docs: update traffic signals catalog documentation
 - **2008-06-10 10:37**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2008-07-22 19:29**: test: verify question extraction script against exam PDF
 - **2008-07-23 14:37**: docs: improve code comments and API documentation
 - **2008-07-24 09:00**: fix: resolve layout shift during question transitions
+- **2008-07-25 21:15**: test: verify question extraction script against exam PDF
