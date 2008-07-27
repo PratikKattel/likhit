@@ -1,4 +1,3 @@
-- **2008-06-11 12:41**: feat: support multiple choice questions for motorcycle category
 - **2008-06-12 12:35**: docs: update README with setup instructions and feature list
 - **2008-06-12 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-13 16:20**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-07-25 21:57**: chore: update questions database with recent DOTM updates
 - **2008-07-26 19:33**: feat: add category A and B traffic test questions
 - **2008-07-26 21:05**: docs: add instructions for Nepali driving license written exam
+- **2008-07-27 13:18**: feat: implement timer and score calculation for mock test
