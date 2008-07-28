@@ -1,4 +1,3 @@
-- **2008-06-12 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-13 16:20**: style: polish typography and Nepali Unicode font rendering
 - **2008-06-13 18:04**: perf: optimize image caching for traffic sign assets
 - **2008-06-14 13:52**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-07-26 21:05**: docs: add instructions for Nepali driving license written exam
 - **2008-07-27 13:18**: feat: implement timer and score calculation for mock test
 - **2008-07-27 21:08**: perf: lazy load signal graphics and question assets
+- **2008-07-28 16:42**: docs: update README with setup instructions and feature list
