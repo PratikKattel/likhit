@@ -1,4 +1,3 @@
-- **2008-06-14 13:52**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-14 18:41**: feat: add regulatory traffic signs SVG graphics
 - **2008-06-15 10:48**: feat: add category-specific practice modes
 - **2008-06-15 13:17**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-07-28 16:42**: docs: update README with setup instructions and feature list
 - **2008-07-28 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-28 20:02**: fix: adjust passing score threshold according to new rules
+- **2008-07-29 12:18**: feat: add regulatory traffic signs SVG graphics
