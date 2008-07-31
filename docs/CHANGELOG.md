@@ -1,4 +1,3 @@
-- **2008-06-15 19:41**: feat: add category-specific practice modes
 - **2008-06-16 15:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-16 19:42**: perf: index question IDs for rapid lookup
 - **2008-06-17 11:55**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-07-29 14:41**: feat: add search and filter by sign category
 - **2008-07-30 15:07**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-30 21:53**: docs: update traffic signals catalog documentation
+- **2008-07-31 13:18**: perf: optimize image caching for traffic sign assets
