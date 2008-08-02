@@ -1,4 +1,3 @@
-- **2008-06-16 19:42**: perf: index question IDs for rapid lookup
 - **2008-06-17 11:55**: feat: support multiple choice questions for motorcycle category
 - **2008-06-17 14:49**: fix: prevent option re-selection after submitting answer
 - **2008-06-17 14:52**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-07-30 21:53**: docs: update traffic signals catalog documentation
 - **2008-07-31 13:18**: perf: optimize image caching for traffic sign assets
 - **2008-08-01 20:52**: style: polish typography and Nepali Unicode font rendering
+- **2008-08-02 15:52**: fix: prevent option re-selection after submitting answer
