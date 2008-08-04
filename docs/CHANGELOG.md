@@ -1,4 +1,3 @@
-- **2008-06-17 14:49**: fix: prevent option re-selection after submitting answer
 - **2008-06-17 14:52**: feat: add regulatory traffic signs SVG graphics
 - **2008-06-17 20:15**: perf: index question IDs for rapid lookup
 - **2008-06-18 14:27**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-08-01 20:52**: style: polish typography and Nepali Unicode font rendering
 - **2008-08-02 15:52**: fix: prevent option re-selection after submitting answer
 - **2008-08-03 15:39**: fix: typo in Nepali road safety regulations question
+- **2008-08-04 18:19**: perf: index question IDs for rapid lookup
