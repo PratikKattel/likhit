@@ -1,4 +1,3 @@
-- **2008-06-18 19:38**: feat: add category-specific practice modes
 - **2008-06-19 10:52**: refactor: restructure question data schema for faster loading
 - **2008-06-20 15:22**: fix: correct color specifications for mandatory traffic signs
 - **2008-06-20 16:09**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2008-08-05 22:00**: feat: add keyboard navigation shortcuts for question selection
 - **2008-08-06 15:02**: fix: prevent option re-selection after submitting answer
 - **2008-08-06 17:41**: docs: update README with setup instructions and feature list
+- **2008-08-07 10:55**: feat: implement timer and score calculation for mock test
