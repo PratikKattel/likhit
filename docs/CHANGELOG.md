@@ -1,4 +1,3 @@
-- **2008-06-21 12:41**: refactor: restructure question data schema for faster loading
 - **2008-06-22 14:17**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-22 19:04**: chore: update questions database with recent DOTM updates
 - **2008-06-23 09:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-08-08 10:21**: feat: add instant feedback and explanation on answer selection
 - **2008-08-08 21:15**: chore: format code style and clean up redundant variables
 - **2008-08-09 14:07**: feat: add result summary with passing threshold analysis
+- **2008-08-09 20:47**: feat: add result summary with passing threshold analysis
