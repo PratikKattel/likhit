@@ -1,4 +1,3 @@
-- **2008-06-22 19:04**: chore: update questions database with recent DOTM updates
 - **2008-06-23 09:17**: docs: improve code comments and API documentation
 - **2008-06-24 09:53**: feat: add result summary with passing threshold analysis
 - **2008-06-25 17:06**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-08-09 14:07**: feat: add result summary with passing threshold analysis
 - **2008-08-09 20:47**: feat: add result summary with passing threshold analysis
 - **2008-08-09 21:16**: feat: add warning signs and informational road signs
+- **2008-08-10 19:26**: docs: update README with setup instructions and feature list
