@@ -1,4 +1,3 @@
-- **2008-06-25 17:06**: fix: correct color specifications for mandatory traffic signs
 - **2008-06-25 17:44**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-26 16:03**: chore: format code style and clean up redundant variables
 - **2008-06-26 19:06**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-08-10 19:26**: docs: update README with setup instructions and feature list
 - **2008-08-11 19:20**: feat: add category A and B traffic test questions
 - **2008-08-11 21:25**: chore: update questions database with recent DOTM updates
+- **2008-08-12 09:10**: feat: implement timer and score calculation for mock test
