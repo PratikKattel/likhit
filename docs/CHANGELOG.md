@@ -1,4 +1,3 @@
-- **2008-06-26 16:03**: chore: format code style and clean up redundant variables
 - **2008-06-26 19:06**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-27 20:29**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-27 21:00**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-08-11 21:25**: chore: update questions database with recent DOTM updates
 - **2008-08-12 09:10**: feat: implement timer and score calculation for mock test
 - **2008-08-12 10:30**: chore: organize assets and image directory structure
+- **2008-08-13 12:24**: perf: index question IDs for rapid lookup
