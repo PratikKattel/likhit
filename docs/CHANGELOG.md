@@ -1,4 +1,3 @@
-- **2008-06-27 20:29**: fix: update DOTM Nepal license syllabus questions
 - **2008-06-27 21:00**: style: enhance traffic sign card layout and responsiveness
 - **2008-06-28 11:06**: perf: optimize image caching for traffic sign assets
 - **2008-06-28 16:57**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-08-12 10:30**: chore: organize assets and image directory structure
 - **2008-08-13 12:24**: perf: index question IDs for rapid lookup
 - **2008-08-14 12:16**: fix: adjust passing score threshold according to new rules
+- **2008-08-14 15:51**: feat: add instant feedback and explanation on answer selection
