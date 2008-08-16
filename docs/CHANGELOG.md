@@ -1,4 +1,3 @@
-- **2008-06-30 19:49**: feat: add category A and B traffic test questions
 - **2008-07-01 17:38**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-01 19:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-07-02 15:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-08-16 09:08**: fix: typo in Nepali road safety regulations question
 - **2008-08-16 09:27**: feat: implement timer and score calculation for mock test
 - **2008-08-16 15:19**: perf: optimize image caching for traffic sign assets
+- **2008-08-16 15:43**: refactor: modularize traffic app logic and event listeners
