@@ -1,4 +1,3 @@
-- **2008-06-28 16:57**: perf: optimize image caching for traffic sign assets
 - **2008-06-29 17:51**: feat: add category-specific practice modes
 - **2008-06-30 19:49**: feat: add category A and B traffic test questions
 - **2008-07-01 17:38**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-08-14 15:51**: feat: add instant feedback and explanation on answer selection
 - **2008-08-15 16:50**: docs: update README with setup instructions and feature list
 - **2008-08-16 09:08**: fix: typo in Nepali road safety regulations question
+- **2008-08-16 09:27**: feat: implement timer and score calculation for mock test
