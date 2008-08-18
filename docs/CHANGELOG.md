@@ -1,4 +1,3 @@
-- **2008-07-03 16:22**: feat: add warning signs and informational road signs
 - **2008-07-04 12:17**: feat: add search and filter by sign category
 - **2008-07-04 17:02**: style: polish typography and Nepali Unicode font rendering
 - **2008-07-04 17:20**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-08-17 10:28**: refactor: restructure question data schema for faster loading
 - **2008-08-17 11:32**: fix: resolve layout shift during question transitions
 - **2008-08-18 09:03**: fix: typo in Nepali road safety regulations question
+- **2008-08-18 13:16**: docs: update README with setup instructions and feature list
