@@ -1,4 +1,3 @@
-- **2008-07-02 15:13**: docs: improve code comments and API documentation
 - **2008-07-03 16:22**: feat: add warning signs and informational road signs
 - **2008-07-04 12:17**: feat: add search and filter by sign category
 - **2008-07-04 17:02**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-08-16 15:43**: refactor: modularize traffic app logic and event listeners
 - **2008-08-17 10:28**: refactor: restructure question data schema for faster loading
 - **2008-08-17 11:32**: fix: resolve layout shift during question transitions
+- **2008-08-18 09:03**: fix: typo in Nepali road safety regulations question
