@@ -1,4 +1,3 @@
-- **2008-07-04 12:17**: feat: add search and filter by sign category
 - **2008-07-04 17:02**: style: polish typography and Nepali Unicode font rendering
 - **2008-07-04 17:20**: docs: add instructions for Nepali driving license written exam
 - **2008-07-05 12:48**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-08-17 11:32**: fix: resolve layout shift during question transitions
 - **2008-08-18 09:03**: fix: typo in Nepali road safety regulations question
 - **2008-08-18 13:16**: docs: update README with setup instructions and feature list
+- **2008-08-18 22:29**: refactor: modularize traffic app logic and event listeners
