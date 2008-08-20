@@ -1,4 +1,3 @@
-- **2008-07-06 21:45**: chore: update project metadata and build configuration
 - **2008-07-07 20:00**: fix: correct color specifications for mandatory traffic signs
 - **2008-07-08 12:08**: feat: add regulatory traffic signs SVG graphics
 - **2008-07-08 15:40**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-08-19 21:34**: fix: resolve layout shift during question transitions
 - **2008-08-19 21:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-08-20 09:31**: fix: update DOTM Nepal license syllabus questions
+- **2008-08-20 21:03**: chore: organize assets and image directory structure
