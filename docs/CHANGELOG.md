@@ -1,4 +1,3 @@
-- **2008-07-09 11:02**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-10 11:47**: perf: index question IDs for rapid lookup
 - **2008-07-10 15:57**: docs: add instructions for Nepali driving license written exam
 - **2008-07-10 21:01**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-08-21 15:28**: docs: update README with setup instructions and feature list
 - **2008-08-22 19:03**: fix: correct color specifications for mandatory traffic signs
 - **2008-08-22 19:09**: chore: update questions database with recent DOTM updates
+- **2008-08-23 14:41**: refactor: clean up unused CSS classes and optimize stylesheet
