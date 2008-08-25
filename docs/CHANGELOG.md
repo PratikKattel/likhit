@@ -1,4 +1,3 @@
-- **2008-07-11 12:40**: refactor: modularize traffic app logic and event listeners
 - **2008-07-12 13:50**: feat: add search and filter by sign category
 - **2008-07-12 14:58**: feat: support multiple choice questions for motorcycle category
 - **2008-07-12 21:14**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2008-08-24 16:48**: feat: support multiple choice questions for motorcycle category
 - **2008-08-24 19:14**: feat: add result summary with passing threshold analysis
 - **2008-08-25 12:54**: refactor: modularize traffic app logic and event listeners
+- **2008-08-25 16:25**: perf: optimize image caching for traffic sign assets
