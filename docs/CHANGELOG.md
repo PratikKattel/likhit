@@ -1,4 +1,3 @@
-- **2008-07-12 21:14**: docs: update traffic signals catalog documentation
 - **2008-07-13 18:13**: fix: typo in Nepali road safety regulations question
 - **2008-07-14 16:11**: feat: add instant feedback and explanation on answer selection
 - **2008-07-14 21:09**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2008-08-25 16:25**: perf: optimize image caching for traffic sign assets
 - **2008-08-25 19:29**: docs: improve code comments and API documentation
 - **2008-08-25 20:05**: refactor: modularize traffic app logic and event listeners
+- **2008-08-26 16:15**: fix: adjust passing score threshold according to new rules
