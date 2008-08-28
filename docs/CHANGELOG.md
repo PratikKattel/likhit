@@ -1,4 +1,3 @@
-- **2008-07-14 16:11**: feat: add instant feedback and explanation on answer selection
 - **2008-07-14 21:09**: feat: add category A and B traffic test questions
 - **2008-07-15 17:06**: fix: prevent option re-selection after submitting answer
 - **2008-07-16 10:37**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2008-08-25 20:05**: refactor: modularize traffic app logic and event listeners
 - **2008-08-26 16:15**: fix: adjust passing score threshold according to new rules
 - **2008-08-27 21:09**: docs: update README with setup instructions and feature list
+- **2008-08-28 10:05**: style: polish typography and Nepali Unicode font rendering
