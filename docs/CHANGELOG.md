@@ -1,4 +1,3 @@
-- **2008-07-17 10:43**: refactor: modularize traffic app logic and event listeners
 - **2008-07-17 22:04**: refactor: optimize SVG rendering for road signs
 - **2008-07-18 19:39**: chore: update project metadata and build configuration
 - **2008-07-19 11:46**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-08-29 13:53**: chore: format code style and clean up redundant variables
 - **2008-08-30 14:43**: fix: resolve layout shift during question transitions
 - **2008-08-31 15:36**: docs: update traffic signals catalog documentation
+- **2008-08-31 21:17**: feat: add regulatory traffic signs SVG graphics
