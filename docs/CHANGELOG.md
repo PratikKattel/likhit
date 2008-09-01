@@ -1,4 +1,3 @@
-- **2008-07-18 19:39**: chore: update project metadata and build configuration
 - **2008-07-19 11:46**: fix: correct color specifications for mandatory traffic signs
 - **2008-07-19 11:57**: chore: format code style and clean up redundant variables
 - **2008-07-20 10:44**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-08-31 15:36**: docs: update traffic signals catalog documentation
 - **2008-08-31 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2008-08-31 21:53**: perf: optimize image caching for traffic sign assets
+- **2008-09-01 19:26**: style: improve dark/light mode and mobile UI responsiveness
