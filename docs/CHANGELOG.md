@@ -1,4 +1,3 @@
-- **2008-07-21 19:38**: perf: lazy load signal graphics and question assets
 - **2008-07-22 12:50**: feat: add result summary with passing threshold analysis
 - **2008-07-22 19:29**: test: verify question extraction script against exam PDF
 - **2008-07-23 14:37**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-09-03 09:20**: refactor: optimize SVG rendering for road signs
 - **2008-09-03 17:43**: refactor: restructure question data schema for faster loading
 - **2008-09-03 22:07**: perf: index question IDs for rapid lookup
+- **2008-09-04 10:13**: docs: add instructions for Nepali driving license written exam
