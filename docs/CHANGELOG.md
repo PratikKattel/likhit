@@ -1,4 +1,3 @@
-- **2008-07-22 19:29**: test: verify question extraction script against exam PDF
 - **2008-07-23 14:37**: docs: improve code comments and API documentation
 - **2008-07-24 09:00**: fix: resolve layout shift during question transitions
 - **2008-07-25 21:15**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-09-03 22:07**: perf: index question IDs for rapid lookup
 - **2008-09-04 10:13**: docs: add instructions for Nepali driving license written exam
 - **2008-09-05 12:04**: chore: update project metadata and build configuration
+- **2008-09-05 21:51**: fix: prevent option re-selection after submitting answer
