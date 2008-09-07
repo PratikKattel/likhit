@@ -1,4 +1,3 @@
-- **2008-07-25 21:15**: test: verify question extraction script against exam PDF
 - **2008-07-25 21:57**: chore: update questions database with recent DOTM updates
 - **2008-07-26 19:33**: feat: add category A and B traffic test questions
 - **2008-07-26 21:05**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-09-05 21:51**: fix: prevent option re-selection after submitting answer
 - **2008-09-06 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-07 11:28**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2008-09-07 19:54**: feat: add keyboard navigation shortcuts for question selection
