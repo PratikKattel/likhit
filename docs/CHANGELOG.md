@@ -1,4 +1,3 @@
-- **2008-07-26 19:33**: feat: add category A and B traffic test questions
 - **2008-07-26 21:05**: docs: add instructions for Nepali driving license written exam
 - **2008-07-27 13:18**: feat: implement timer and score calculation for mock test
 - **2008-07-27 21:08**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2008-09-07 11:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-09-07 19:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-08 10:34**: fix: adjust passing score threshold according to new rules
+- **2008-09-09 18:25**: fix: adjust passing score threshold according to new rules
