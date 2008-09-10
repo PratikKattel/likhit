@@ -1,4 +1,3 @@
-- **2008-07-27 21:08**: perf: lazy load signal graphics and question assets
 - **2008-07-28 16:42**: docs: update README with setup instructions and feature list
 - **2008-07-28 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-28 20:02**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-09-09 18:25**: fix: adjust passing score threshold according to new rules
 - **2008-09-09 19:32**: chore: format code style and clean up redundant variables
 - **2008-09-10 13:14**: fix: correct color specifications for mandatory traffic signs
+- **2008-09-10 19:33**: refactor: restructure question data schema for faster loading
