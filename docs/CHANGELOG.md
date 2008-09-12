@@ -1,4 +1,3 @@
-- **2008-07-28 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-28 20:02**: fix: adjust passing score threshold according to new rules
 - **2008-07-29 12:18**: feat: add regulatory traffic signs SVG graphics
 - **2008-07-29 14:41**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2008-09-10 13:14**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-10 19:33**: refactor: restructure question data schema for faster loading
 - **2008-09-11 17:47**: style: enhance traffic sign card layout and responsiveness
+- **2008-09-12 11:59**: style: enhance traffic sign card layout and responsiveness
