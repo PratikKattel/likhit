@@ -1,4 +1,3 @@
-- **2008-07-30 15:07**: style: enhance traffic sign card layout and responsiveness
 - **2008-07-30 21:53**: docs: update traffic signals catalog documentation
 - **2008-07-31 13:18**: perf: optimize image caching for traffic sign assets
 - **2008-08-01 20:52**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-09-12 16:45**: style: enhance traffic sign card layout and responsiveness
 - **2008-09-12 16:51**: test: verify question extraction script against exam PDF
 - **2008-09-13 20:16**: feat: add search and filter by sign category
+- **2008-09-14 15:22**: docs: add instructions for Nepali driving license written exam
