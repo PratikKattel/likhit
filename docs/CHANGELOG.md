@@ -1,4 +1,3 @@
-- **2008-07-30 21:53**: docs: update traffic signals catalog documentation
 - **2008-07-31 13:18**: perf: optimize image caching for traffic sign assets
 - **2008-08-01 20:52**: style: polish typography and Nepali Unicode font rendering
 - **2008-08-02 15:52**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-09-12 16:51**: test: verify question extraction script against exam PDF
 - **2008-09-13 20:16**: feat: add search and filter by sign category
 - **2008-09-14 15:22**: docs: add instructions for Nepali driving license written exam
+- **2008-09-15 09:38**: docs: update traffic signals catalog documentation
