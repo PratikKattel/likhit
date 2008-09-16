@@ -1,4 +1,3 @@
-- **2008-08-02 15:52**: fix: prevent option re-selection after submitting answer
 - **2008-08-03 15:39**: fix: typo in Nepali road safety regulations question
 - **2008-08-04 18:19**: perf: index question IDs for rapid lookup
 - **2008-08-05 15:29**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-09-15 09:38**: docs: update traffic signals catalog documentation
 - **2008-09-15 14:24**: docs: improve code comments and API documentation
 - **2008-09-16 14:50**: style: polish typography and Nepali Unicode font rendering
+- **2008-09-16 16:27**: docs: update README with setup instructions and feature list
