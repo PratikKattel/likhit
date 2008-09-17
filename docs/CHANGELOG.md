@@ -1,4 +1,3 @@
-- **2008-08-05 15:29**: feat: support multiple choice questions for motorcycle category
 - **2008-08-05 22:00**: feat: add keyboard navigation shortcuts for question selection
 - **2008-08-06 15:02**: fix: prevent option re-selection after submitting answer
 - **2008-08-06 17:41**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-09-16 16:27**: docs: update README with setup instructions and feature list
 - **2008-09-17 10:02**: test: verify question extraction script against exam PDF
 - **2008-09-17 13:25**: chore: organize assets and image directory structure
+- **2008-09-17 15:23**: refactor: optimize SVG rendering for road signs
