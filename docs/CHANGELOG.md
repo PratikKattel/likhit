@@ -1,4 +1,3 @@
-- **2008-08-06 17:41**: docs: update README with setup instructions and feature list
 - **2008-08-07 10:55**: feat: implement timer and score calculation for mock test
 - **2008-08-07 20:36**: feat: add instant feedback and explanation on answer selection
 - **2008-08-08 10:21**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-09-17 15:23**: refactor: optimize SVG rendering for road signs
 - **2008-09-17 18:17**: chore: update questions database with recent DOTM updates
 - **2008-09-18 10:14**: refactor: restructure question data schema for faster loading
+- **2008-09-18 12:07**: chore: update questions database with recent DOTM updates
