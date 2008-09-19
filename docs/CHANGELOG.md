@@ -1,4 +1,3 @@
-- **2008-08-07 10:55**: feat: implement timer and score calculation for mock test
 - **2008-08-07 20:36**: feat: add instant feedback and explanation on answer selection
 - **2008-08-08 10:21**: feat: add instant feedback and explanation on answer selection
 - **2008-08-08 21:15**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-09-17 18:17**: chore: update questions database with recent DOTM updates
 - **2008-09-18 10:14**: refactor: restructure question data schema for faster loading
 - **2008-09-18 12:07**: chore: update questions database with recent DOTM updates
+- **2008-09-19 10:54**: feat: add category-specific practice modes
