@@ -1,4 +1,3 @@
-- **2008-08-08 21:15**: chore: format code style and clean up redundant variables
 - **2008-08-09 14:07**: feat: add result summary with passing threshold analysis
 - **2008-08-09 20:47**: feat: add result summary with passing threshold analysis
 - **2008-08-09 21:16**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2008-09-19 10:54**: feat: add category-specific practice modes
 - **2008-09-20 13:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-09-20 18:47**: feat: support multiple choice questions for motorcycle category
+- **2008-09-21 09:12**: feat: add keyboard navigation shortcuts for question selection
