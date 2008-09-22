@@ -1,4 +1,3 @@
-- **2008-08-09 21:16**: feat: add warning signs and informational road signs
 - **2008-08-10 19:26**: docs: update README with setup instructions and feature list
 - **2008-08-11 19:20**: feat: add category A and B traffic test questions
 - **2008-08-11 21:25**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-09-21 09:12**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-21 20:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-09-21 20:21**: fix: correct color specifications for mandatory traffic signs
+- **2008-09-22 12:04**: feat: add warning signs and informational road signs
