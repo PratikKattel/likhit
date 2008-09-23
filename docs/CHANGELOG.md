@@ -1,4 +1,3 @@
-- **2008-08-11 21:25**: chore: update questions database with recent DOTM updates
 - **2008-08-12 09:10**: feat: implement timer and score calculation for mock test
 - **2008-08-12 10:30**: chore: organize assets and image directory structure
 - **2008-08-13 12:24**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2008-09-22 12:04**: feat: add warning signs and informational road signs
 - **2008-09-22 17:14**: chore: update project metadata and build configuration
 - **2008-09-23 16:07**: refactor: restructure question data schema for faster loading
+- **2008-09-23 18:59**: fix: typo in Nepali road safety regulations question
