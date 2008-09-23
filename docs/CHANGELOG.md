@@ -1,4 +1,3 @@
-- **2008-08-11 19:20**: feat: add category A and B traffic test questions
 - **2008-08-11 21:25**: chore: update questions database with recent DOTM updates
 - **2008-08-12 09:10**: feat: implement timer and score calculation for mock test
 - **2008-08-12 10:30**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2008-09-21 20:21**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-22 12:04**: feat: add warning signs and informational road signs
 - **2008-09-22 17:14**: chore: update project metadata and build configuration
+- **2008-09-23 16:07**: refactor: restructure question data schema for faster loading
