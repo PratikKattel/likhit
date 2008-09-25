@@ -1,4 +1,3 @@
-- **2008-08-12 10:30**: chore: organize assets and image directory structure
 - **2008-08-13 12:24**: perf: index question IDs for rapid lookup
 - **2008-08-14 12:16**: fix: adjust passing score threshold according to new rules
 - **2008-08-14 15:51**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-09-23 16:07**: refactor: restructure question data schema for faster loading
 - **2008-09-23 18:59**: fix: typo in Nepali road safety regulations question
 - **2008-09-24 22:25**: fix: correct color specifications for mandatory traffic signs
+- **2008-09-25 10:00**: fix: resolve layout shift during question transitions
