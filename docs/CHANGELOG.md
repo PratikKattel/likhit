@@ -1,4 +1,3 @@
-- **2008-08-14 12:16**: fix: adjust passing score threshold according to new rules
 - **2008-08-14 15:51**: feat: add instant feedback and explanation on answer selection
 - **2008-08-15 16:50**: docs: update README with setup instructions and feature list
 - **2008-08-16 09:08**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-09-24 22:25**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-25 10:00**: fix: resolve layout shift during question transitions
 - **2008-09-26 12:54**: refactor: modularize traffic app logic and event listeners
+- **2008-09-27 10:28**: refactor: modularize traffic app logic and event listeners
