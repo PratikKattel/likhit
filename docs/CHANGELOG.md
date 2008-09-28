@@ -1,4 +1,3 @@
-- **2008-08-16 09:08**: fix: typo in Nepali road safety regulations question
 - **2008-08-16 09:27**: feat: implement timer and score calculation for mock test
 - **2008-08-16 15:19**: perf: optimize image caching for traffic sign assets
 - **2008-08-16 15:43**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-09-27 10:28**: refactor: modularize traffic app logic and event listeners
 - **2008-09-27 17:41**: feat: add result summary with passing threshold analysis
 - **2008-09-28 12:15**: perf: index question IDs for rapid lookup
+- **2008-09-28 17:32**: feat: add result summary with passing threshold analysis
