@@ -1,4 +1,3 @@
-- **2008-08-17 11:32**: fix: resolve layout shift during question transitions
 - **2008-08-18 09:03**: fix: typo in Nepali road safety regulations question
 - **2008-08-18 13:16**: docs: update README with setup instructions and feature list
 - **2008-08-18 22:29**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-09-30 12:37**: docs: add instructions for Nepali driving license written exam
 - **2008-09-30 20:06**: perf: lazy load signal graphics and question assets
 - **2008-10-01 21:10**: refactor: modularize traffic app logic and event listeners
+- **2008-10-02 16:41**: style: improve dark/light mode and mobile UI responsiveness
