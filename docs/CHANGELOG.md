@@ -1,4 +1,3 @@
-- **2008-08-18 22:29**: refactor: modularize traffic app logic and event listeners
 - **2008-08-19 21:34**: fix: resolve layout shift during question transitions
 - **2008-08-19 21:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-08-20 09:31**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2008-10-02 16:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-03 09:46**: chore: format code style and clean up redundant variables
 - **2008-10-04 19:21**: refactor: restructure question data schema for faster loading
+- **2008-10-05 20:07**: refactor: restructure question data schema for faster loading
