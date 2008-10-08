@@ -1,4 +1,3 @@
-- **2008-08-20 21:03**: chore: organize assets and image directory structure
 - **2008-08-21 15:28**: docs: update README with setup instructions and feature list
 - **2008-08-22 19:03**: fix: correct color specifications for mandatory traffic signs
 - **2008-08-22 19:09**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-10-06 12:43**: feat: add warning signs and informational road signs
 - **2008-10-06 21:33**: perf: optimize image caching for traffic sign assets
 - **2008-10-07 20:39**: test: verify question extraction script against exam PDF
+- **2008-10-08 19:43**: docs: improve code comments and API documentation
