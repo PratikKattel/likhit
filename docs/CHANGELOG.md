@@ -1,4 +1,3 @@
-- **2008-08-22 19:09**: chore: update questions database with recent DOTM updates
 - **2008-08-23 14:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-08-24 16:48**: feat: support multiple choice questions for motorcycle category
 - **2008-08-24 19:14**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-10-08 19:43**: docs: improve code comments and API documentation
 - **2008-10-09 10:38**: feat: implement timer and score calculation for mock test
 - **2008-10-10 16:02**: chore: format code style and clean up redundant variables
+- **2008-10-10 16:41**: feat: add category-specific practice modes
