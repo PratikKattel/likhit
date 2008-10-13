@@ -1,4 +1,3 @@
-- **2008-08-25 19:29**: docs: improve code comments and API documentation
 - **2008-08-25 20:05**: refactor: modularize traffic app logic and event listeners
 - **2008-08-26 16:15**: fix: adjust passing score threshold according to new rules
 - **2008-08-27 21:09**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-10-11 16:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-10-12 11:39**: chore: organize assets and image directory structure
 - **2008-10-12 20:58**: docs: improve code comments and API documentation
+- **2008-10-13 10:15**: style: improve dark/light mode and mobile UI responsiveness
