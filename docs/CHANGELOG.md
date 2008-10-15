@@ -1,4 +1,3 @@
-- **2008-08-28 10:05**: style: polish typography and Nepali Unicode font rendering
 - **2008-08-29 10:32**: feat: implement timer and score calculation for mock test
 - **2008-08-29 13:53**: chore: format code style and clean up redundant variables
 - **2008-08-30 14:43**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-10-13 16:22**: feat: add keyboard navigation shortcuts for question selection
 - **2008-10-14 12:58**: refactor: modularize traffic app logic and event listeners
 - **2008-10-15 10:53**: feat: implement timer and score calculation for mock test
+- **2008-10-15 21:11**: test: verify question extraction script against exam PDF
