@@ -1,4 +1,3 @@
-- **2008-08-31 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2008-08-31 21:53**: perf: optimize image caching for traffic sign assets
 - **2008-09-01 19:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-09-02 19:13**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-10-16 15:58**: feat: implement timer and score calculation for mock test
 - **2008-10-17 10:51**: feat: add warning signs and informational road signs
 - **2008-10-17 15:00**: docs: improve code comments and API documentation
+- **2008-10-17 16:00**: perf: index question IDs for rapid lookup
