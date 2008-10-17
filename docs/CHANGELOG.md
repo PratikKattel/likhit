@@ -1,4 +1,3 @@
-- **2008-08-30 14:43**: fix: resolve layout shift during question transitions
 - **2008-08-31 15:36**: docs: update traffic signals catalog documentation
 - **2008-08-31 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2008-08-31 21:53**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2008-10-15 21:11**: test: verify question extraction script against exam PDF
 - **2008-10-15 21:39**: refactor: restructure question data schema for faster loading
 - **2008-10-16 15:58**: feat: implement timer and score calculation for mock test
+- **2008-10-17 10:51**: feat: add warning signs and informational road signs
