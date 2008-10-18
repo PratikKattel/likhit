@@ -1,4 +1,3 @@
-- **2008-09-01 19:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-09-02 19:13**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-03 09:20**: refactor: optimize SVG rendering for road signs
 - **2008-09-03 17:43**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-10-17 15:00**: docs: improve code comments and API documentation
 - **2008-10-17 16:00**: perf: index question IDs for rapid lookup
 - **2008-10-18 11:12**: docs: improve code comments and API documentation
+- **2008-10-18 19:55**: feat: add category A and B traffic test questions
