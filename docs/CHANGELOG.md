@@ -1,4 +1,3 @@
-- **2008-09-03 09:20**: refactor: optimize SVG rendering for road signs
 - **2008-09-03 17:43**: refactor: restructure question data schema for faster loading
 - **2008-09-03 22:07**: perf: index question IDs for rapid lookup
 - **2008-09-04 10:13**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-10-18 11:12**: docs: improve code comments and API documentation
 - **2008-10-18 19:55**: feat: add category A and B traffic test questions
 - **2008-10-19 16:57**: style: enhance traffic sign card layout and responsiveness
+- **2008-10-20 16:30**: fix: prevent option re-selection after submitting answer
