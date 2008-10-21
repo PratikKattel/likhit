@@ -1,4 +1,3 @@
-- **2008-09-03 22:07**: perf: index question IDs for rapid lookup
 - **2008-09-04 10:13**: docs: add instructions for Nepali driving license written exam
 - **2008-09-05 12:04**: chore: update project metadata and build configuration
 - **2008-09-05 21:51**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-10-19 16:57**: style: enhance traffic sign card layout and responsiveness
 - **2008-10-20 16:30**: fix: prevent option re-selection after submitting answer
 - **2008-10-20 21:15**: refactor: modularize traffic app logic and event listeners
+- **2008-10-21 16:04**: test: verify question extraction script against exam PDF
