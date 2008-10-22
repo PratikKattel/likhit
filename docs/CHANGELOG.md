@@ -1,4 +1,3 @@
-- **2008-09-05 12:04**: chore: update project metadata and build configuration
 - **2008-09-05 21:51**: fix: prevent option re-selection after submitting answer
 - **2008-09-06 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-07 11:28**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-10-20 21:15**: refactor: modularize traffic app logic and event listeners
 - **2008-10-21 16:04**: test: verify question extraction script against exam PDF
 - **2008-10-22 09:44**: style: improve dark/light mode and mobile UI responsiveness
+- **2008-10-22 12:46**: fix: prevent option re-selection after submitting answer
