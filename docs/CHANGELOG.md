@@ -1,4 +1,3 @@
-- **2008-09-07 19:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-08 10:34**: fix: adjust passing score threshold according to new rules
 - **2008-09-09 18:25**: fix: adjust passing score threshold according to new rules
 - **2008-09-09 19:32**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2008-10-22 13:47**: feat: support multiple choice questions for motorcycle category
 - **2008-10-23 10:42**: fix: adjust passing score threshold according to new rules
 - **2008-10-24 16:48**: perf: optimize image caching for traffic sign assets
+- **2008-10-24 18:17**: perf: index question IDs for rapid lookup
