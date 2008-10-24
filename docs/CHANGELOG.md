@@ -1,4 +1,3 @@
-- **2008-09-07 11:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-09-07 19:54**: feat: add keyboard navigation shortcuts for question selection
 - **2008-09-08 10:34**: fix: adjust passing score threshold according to new rules
 - **2008-09-09 18:25**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-10-22 12:46**: fix: prevent option re-selection after submitting answer
 - **2008-10-22 13:47**: feat: support multiple choice questions for motorcycle category
 - **2008-10-23 10:42**: fix: adjust passing score threshold according to new rules
+- **2008-10-24 16:48**: perf: optimize image caching for traffic sign assets
