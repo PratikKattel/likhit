@@ -1,4 +1,3 @@
-- **2008-09-09 18:25**: fix: adjust passing score threshold according to new rules
 - **2008-09-09 19:32**: chore: format code style and clean up redundant variables
 - **2008-09-10 13:14**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-10 19:33**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-10-24 16:48**: perf: optimize image caching for traffic sign assets
 - **2008-10-24 18:17**: perf: index question IDs for rapid lookup
 - **2008-10-25 10:36**: refactor: optimize SVG rendering for road signs
+- **2008-10-25 16:09**: feat: add result summary with passing threshold analysis
