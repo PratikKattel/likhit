@@ -1,4 +1,3 @@
-- **2008-09-11 17:47**: style: enhance traffic sign card layout and responsiveness
 - **2008-09-12 11:59**: style: enhance traffic sign card layout and responsiveness
 - **2008-09-12 16:45**: style: enhance traffic sign card layout and responsiveness
 - **2008-09-12 16:51**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-10-26 09:28**: refactor: modularize traffic app logic and event listeners
 - **2008-10-26 11:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-26 15:13**: refactor: modularize traffic app logic and event listeners
+- **2008-10-27 13:26**: fix: correct color specifications for mandatory traffic signs
