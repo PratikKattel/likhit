@@ -1,4 +1,3 @@
-- **2008-09-12 16:45**: style: enhance traffic sign card layout and responsiveness
 - **2008-09-12 16:51**: test: verify question extraction script against exam PDF
 - **2008-09-13 20:16**: feat: add search and filter by sign category
 - **2008-09-14 15:22**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-10-26 15:13**: refactor: modularize traffic app logic and event listeners
 - **2008-10-27 13:26**: fix: correct color specifications for mandatory traffic signs
 - **2008-10-28 10:28**: docs: improve code comments and API documentation
+- **2008-10-28 13:45**: feat: add keyboard navigation shortcuts for question selection
