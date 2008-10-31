@@ -1,4 +1,3 @@
-- **2008-09-14 15:22**: docs: add instructions for Nepali driving license written exam
 - **2008-09-15 09:38**: docs: update traffic signals catalog documentation
 - **2008-09-15 14:24**: docs: improve code comments and API documentation
 - **2008-09-16 14:50**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-10-28 13:45**: feat: add keyboard navigation shortcuts for question selection
 - **2008-10-29 14:54**: perf: lazy load signal graphics and question assets
 - **2008-10-30 17:14**: feat: add instant feedback and explanation on answer selection
+- **2008-10-31 22:14**: feat: add category-specific practice modes
