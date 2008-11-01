@@ -1,4 +1,3 @@
-- **2008-09-15 09:38**: docs: update traffic signals catalog documentation
 - **2008-09-15 14:24**: docs: improve code comments and API documentation
 - **2008-09-16 14:50**: style: polish typography and Nepali Unicode font rendering
 - **2008-09-16 16:27**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-10-29 14:54**: perf: lazy load signal graphics and question assets
 - **2008-10-30 17:14**: feat: add instant feedback and explanation on answer selection
 - **2008-10-31 22:14**: feat: add category-specific practice modes
+- **2008-11-01 16:10**: docs: add instructions for Nepali driving license written exam
