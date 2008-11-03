@@ -1,4 +1,3 @@
-- **2008-09-17 10:02**: test: verify question extraction script against exam PDF
 - **2008-09-17 13:25**: chore: organize assets and image directory structure
 - **2008-09-17 15:23**: refactor: optimize SVG rendering for road signs
 - **2008-09-17 18:17**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2008-11-01 21:31**: fix: update DOTM Nepal license syllabus questions
 - **2008-11-02 21:32**: feat: support multiple choice questions for motorcycle category
 - **2008-11-02 22:05**: style: polish typography and Nepali Unicode font rendering
+- **2008-11-03 20:14**: fix: update DOTM Nepal license syllabus questions
