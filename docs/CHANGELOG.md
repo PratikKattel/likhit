@@ -1,4 +1,3 @@
-- **2008-09-18 12:07**: chore: update questions database with recent DOTM updates
 - **2008-09-19 10:54**: feat: add category-specific practice modes
 - **2008-09-20 13:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-09-20 18:47**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-11-04 20:41**: docs: update README with setup instructions and feature list
 - **2008-11-05 10:04**: chore: organize assets and image directory structure
 - **2008-11-05 14:51**: docs: add instructions for Nepali driving license written exam
+- **2008-11-06 19:34**: feat: add warning signs and informational road signs
