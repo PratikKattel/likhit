@@ -1,4 +1,3 @@
-- **2008-09-21 20:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-09-21 20:21**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-22 12:04**: feat: add warning signs and informational road signs
 - **2008-09-22 17:14**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2008-11-08 11:19**: fix: typo in Nepali road safety regulations question
 - **2008-11-08 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2008-11-09 17:25**: feat: add regulatory traffic signs SVG graphics
+- **2008-11-10 20:55**: chore: update questions database with recent DOTM updates
