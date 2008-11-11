@@ -1,4 +1,3 @@
-- **2008-09-22 12:04**: feat: add warning signs and informational road signs
 - **2008-09-22 17:14**: chore: update project metadata and build configuration
 - **2008-09-23 16:07**: refactor: restructure question data schema for faster loading
 - **2008-09-23 18:59**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-11-09 17:25**: feat: add regulatory traffic signs SVG graphics
 - **2008-11-10 20:55**: chore: update questions database with recent DOTM updates
 - **2008-11-10 22:10**: docs: update README with setup instructions and feature list
+- **2008-11-11 15:19**: docs: improve code comments and API documentation
