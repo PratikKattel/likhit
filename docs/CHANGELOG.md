@@ -1,4 +1,3 @@
-- **2008-09-23 16:07**: refactor: restructure question data schema for faster loading
 - **2008-09-23 18:59**: fix: typo in Nepali road safety regulations question
 - **2008-09-24 22:25**: fix: correct color specifications for mandatory traffic signs
 - **2008-09-25 10:00**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-11-10 22:10**: docs: update README with setup instructions and feature list
 - **2008-11-11 15:19**: docs: improve code comments and API documentation
 - **2008-11-11 20:12**: refactor: optimize SVG rendering for road signs
+- **2008-11-12 14:26**: fix: adjust passing score threshold according to new rules
