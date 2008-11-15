@@ -1,4 +1,3 @@
-- **2008-09-27 17:41**: feat: add result summary with passing threshold analysis
 - **2008-09-28 12:15**: perf: index question IDs for rapid lookup
 - **2008-09-28 17:32**: feat: add result summary with passing threshold analysis
 - **2008-09-29 11:13**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-11-13 15:39**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-14 11:15**: fix: resolve layout shift during question transitions
 - **2008-11-14 13:34**: feat: add warning signs and informational road signs
+- **2008-11-15 11:48**: fix: correct color specifications for mandatory traffic signs
