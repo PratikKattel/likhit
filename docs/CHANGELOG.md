@@ -1,4 +1,3 @@
-- **2008-09-28 12:15**: perf: index question IDs for rapid lookup
 - **2008-09-28 17:32**: feat: add result summary with passing threshold analysis
 - **2008-09-29 11:13**: fix: prevent option re-selection after submitting answer
 - **2008-09-30 12:37**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-11-14 11:15**: fix: resolve layout shift during question transitions
 - **2008-11-14 13:34**: feat: add warning signs and informational road signs
 - **2008-11-15 11:48**: fix: correct color specifications for mandatory traffic signs
+- **2008-11-15 14:00**: fix: typo in Nepali road safety regulations question
