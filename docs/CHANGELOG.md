@@ -1,4 +1,3 @@
-- **2008-09-30 12:37**: docs: add instructions for Nepali driving license written exam
 - **2008-09-30 20:06**: perf: lazy load signal graphics and question assets
 - **2008-10-01 21:10**: refactor: modularize traffic app logic and event listeners
 - **2008-10-02 16:41**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2008-11-15 14:00**: fix: typo in Nepali road safety regulations question
 - **2008-11-16 10:49**: fix: prevent option re-selection after submitting answer
 - **2008-11-16 14:15**: feat: support multiple choice questions for motorcycle category
+- **2008-11-16 14:28**: fix: typo in Nepali road safety regulations question
