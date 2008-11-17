@@ -1,4 +1,3 @@
-- **2008-10-01 21:10**: refactor: modularize traffic app logic and event listeners
 - **2008-10-02 16:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-03 09:46**: chore: format code style and clean up redundant variables
 - **2008-10-04 19:21**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-11-16 14:15**: feat: support multiple choice questions for motorcycle category
 - **2008-11-16 14:28**: fix: typo in Nepali road safety regulations question
 - **2008-11-16 15:17**: feat: add regulatory traffic signs SVG graphics
+- **2008-11-17 21:04**: style: enhance traffic sign card layout and responsiveness
