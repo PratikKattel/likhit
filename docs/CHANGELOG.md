@@ -1,4 +1,3 @@
-- **2008-10-05 20:07**: refactor: restructure question data schema for faster loading
 - **2008-10-06 12:43**: feat: add warning signs and informational road signs
 - **2008-10-06 21:33**: perf: optimize image caching for traffic sign assets
 - **2008-10-07 20:39**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2008-11-18 09:30**: fix: typo in Nepali road safety regulations question
 - **2008-11-18 10:51**: fix: prevent option re-selection after submitting answer
 - **2008-11-18 18:35**: test: verify question extraction script against exam PDF
+- **2008-11-18 19:39**: feat: implement timer and score calculation for mock test
