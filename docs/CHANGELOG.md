@@ -1,4 +1,3 @@
-- **2008-10-06 21:33**: perf: optimize image caching for traffic sign assets
 - **2008-10-07 20:39**: test: verify question extraction script against exam PDF
 - **2008-10-08 19:43**: docs: improve code comments and API documentation
 - **2008-10-09 10:38**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2008-11-18 18:35**: test: verify question extraction script against exam PDF
 - **2008-11-18 19:39**: feat: implement timer and score calculation for mock test
 - **2008-11-19 16:20**: fix: correct color specifications for mandatory traffic signs
+- **2008-11-19 18:53**: feat: add regulatory traffic signs SVG graphics
