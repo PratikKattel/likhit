@@ -1,4 +1,3 @@
-- **2008-10-06 12:43**: feat: add warning signs and informational road signs
 - **2008-10-06 21:33**: perf: optimize image caching for traffic sign assets
 - **2008-10-07 20:39**: test: verify question extraction script against exam PDF
 - **2008-10-08 19:43**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-11-18 10:51**: fix: prevent option re-selection after submitting answer
 - **2008-11-18 18:35**: test: verify question extraction script against exam PDF
 - **2008-11-18 19:39**: feat: implement timer and score calculation for mock test
+- **2008-11-19 16:20**: fix: correct color specifications for mandatory traffic signs
