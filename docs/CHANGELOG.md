@@ -1,4 +1,3 @@
-- **2008-10-09 10:38**: feat: implement timer and score calculation for mock test
 - **2008-10-10 16:02**: chore: format code style and clean up redundant variables
 - **2008-10-10 16:41**: feat: add category-specific practice modes
 - **2008-10-11 10:52**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-11-19 18:53**: feat: add regulatory traffic signs SVG graphics
 - **2008-11-20 09:35**: feat: add category A and B traffic test questions
 - **2008-11-21 10:05**: feat: add search and filter by sign category
+- **2008-11-22 10:25**: fix: resolve layout shift during question transitions
