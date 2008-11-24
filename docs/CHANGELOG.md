@@ -1,4 +1,3 @@
-- **2008-10-10 16:41**: feat: add category-specific practice modes
 - **2008-10-11 10:52**: style: enhance traffic sign card layout and responsiveness
 - **2008-10-11 15:05**: feat: add warning signs and informational road signs
 - **2008-10-11 16:21**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2008-11-21 10:05**: feat: add search and filter by sign category
 - **2008-11-22 10:25**: fix: resolve layout shift during question transitions
 - **2008-11-23 11:52**: test: verify question extraction script against exam PDF
+- **2008-11-24 17:01**: style: enhance traffic sign card layout and responsiveness
