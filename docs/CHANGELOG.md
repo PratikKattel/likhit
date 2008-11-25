@@ -1,4 +1,3 @@
-- **2008-10-11 15:05**: feat: add warning signs and informational road signs
 - **2008-10-11 16:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-10-12 11:39**: chore: organize assets and image directory structure
 - **2008-10-12 20:58**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-11-23 11:52**: test: verify question extraction script against exam PDF
 - **2008-11-24 17:01**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-25 21:48**: chore: update project metadata and build configuration
+- **2008-11-25 22:21**: style: polish typography and Nepali Unicode font rendering
