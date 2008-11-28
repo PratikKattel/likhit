@@ -1,4 +1,3 @@
-- **2008-10-12 20:58**: docs: improve code comments and API documentation
 - **2008-10-13 10:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-13 16:22**: feat: add keyboard navigation shortcuts for question selection
 - **2008-10-14 12:58**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-11-25 22:21**: style: polish typography and Nepali Unicode font rendering
 - **2008-11-26 17:57**: fix: resolve layout shift during question transitions
 - **2008-11-27 15:37**: perf: lazy load signal graphics and question assets
+- **2008-11-28 19:10**: style: enhance traffic sign card layout and responsiveness
