@@ -1,4 +1,3 @@
-- **2008-10-14 12:58**: refactor: modularize traffic app logic and event listeners
 - **2008-10-15 10:53**: feat: implement timer and score calculation for mock test
 - **2008-10-15 21:11**: test: verify question extraction script against exam PDF
 - **2008-10-15 21:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2008-11-28 19:10**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-29 09:23**: chore: format code style and clean up redundant variables
 - **2008-11-29 13:04**: feat: add search and filter by sign category
+- **2008-11-29 13:43**: refactor: restructure question data schema for faster loading
