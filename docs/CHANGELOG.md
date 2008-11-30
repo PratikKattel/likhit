@@ -1,4 +1,3 @@
-- **2008-10-15 21:39**: refactor: restructure question data schema for faster loading
 - **2008-10-16 15:58**: feat: implement timer and score calculation for mock test
 - **2008-10-17 10:51**: feat: add warning signs and informational road signs
 - **2008-10-17 15:00**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-11-29 13:43**: refactor: restructure question data schema for faster loading
 - **2008-11-30 09:45**: feat: add search and filter by sign category
 - **2008-11-30 14:40**: feat: add warning signs and informational road signs
+- **2008-11-30 20:03**: feat: add category A and B traffic test questions
