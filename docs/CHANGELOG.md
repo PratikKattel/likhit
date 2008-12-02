@@ -1,4 +1,3 @@
-- **2008-10-17 10:51**: feat: add warning signs and informational road signs
 - **2008-10-17 15:00**: docs: improve code comments and API documentation
 - **2008-10-17 16:00**: perf: index question IDs for rapid lookup
 - **2008-10-18 11:12**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2008-11-30 14:40**: feat: add warning signs and informational road signs
 - **2008-11-30 20:03**: feat: add category A and B traffic test questions
 - **2008-12-01 19:55**: docs: add instructions for Nepali driving license written exam
+- **2008-12-02 12:25**: feat: add warning signs and informational road signs
