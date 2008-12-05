@@ -1,4 +1,3 @@
-- **2008-10-18 11:12**: docs: improve code comments and API documentation
 - **2008-10-18 19:55**: feat: add category A and B traffic test questions
 - **2008-10-19 16:57**: style: enhance traffic sign card layout and responsiveness
 - **2008-10-20 16:30**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-12-02 12:25**: feat: add warning signs and informational road signs
 - **2008-12-03 21:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-12-04 13:19**: feat: add result summary with passing threshold analysis
+- **2008-12-05 10:03**: feat: add category A and B traffic test questions
