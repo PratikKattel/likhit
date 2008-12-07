@@ -1,4 +1,3 @@
-- **2008-10-20 21:15**: refactor: modularize traffic app logic and event listeners
 - **2008-10-21 16:04**: test: verify question extraction script against exam PDF
 - **2008-10-22 09:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-22 12:46**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2008-12-06 14:54**: feat: implement timer and score calculation for mock test
 - **2008-12-06 15:59**: feat: add search and filter by sign category
 - **2008-12-07 12:37**: feat: add instant feedback and explanation on answer selection
+- **2008-12-07 13:38**: chore: format code style and clean up redundant variables
