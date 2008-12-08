@@ -1,4 +1,3 @@
-- **2008-10-21 16:04**: test: verify question extraction script against exam PDF
 - **2008-10-22 09:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-22 12:46**: fix: prevent option re-selection after submitting answer
 - **2008-10-22 13:47**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-12-06 15:59**: feat: add search and filter by sign category
 - **2008-12-07 12:37**: feat: add instant feedback and explanation on answer selection
 - **2008-12-07 13:38**: chore: format code style and clean up redundant variables
+- **2008-12-08 12:12**: feat: add warning signs and informational road signs
