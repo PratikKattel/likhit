@@ -1,4 +1,3 @@
-- **2008-10-24 16:48**: perf: optimize image caching for traffic sign assets
 - **2008-10-24 18:17**: perf: index question IDs for rapid lookup
 - **2008-10-25 10:36**: refactor: optimize SVG rendering for road signs
 - **2008-10-25 16:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-12-08 22:20**: fix: resolve layout shift during question transitions
 - **2008-12-09 09:20**: feat: add regulatory traffic signs SVG graphics
 - **2008-12-09 10:00**: fix: prevent option re-selection after submitting answer
+- **2008-12-09 20:30**: docs: update README with setup instructions and feature list
