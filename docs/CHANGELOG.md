@@ -1,4 +1,3 @@
-- **2008-10-24 18:17**: perf: index question IDs for rapid lookup
 - **2008-10-25 10:36**: refactor: optimize SVG rendering for road signs
 - **2008-10-25 16:09**: feat: add result summary with passing threshold analysis
 - **2008-10-26 09:28**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2008-12-09 09:20**: feat: add regulatory traffic signs SVG graphics
 - **2008-12-09 10:00**: fix: prevent option re-selection after submitting answer
 - **2008-12-09 20:30**: docs: update README with setup instructions and feature list
+- **2008-12-10 12:21**: feat: add category A and B traffic test questions
