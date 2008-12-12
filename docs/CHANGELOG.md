@@ -1,4 +1,3 @@
-- **2008-10-26 09:28**: refactor: modularize traffic app logic and event listeners
 - **2008-10-26 11:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-10-26 15:13**: refactor: modularize traffic app logic and event listeners
 - **2008-10-27 13:26**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-12-10 12:21**: feat: add category A and B traffic test questions
 - **2008-12-10 14:08**: fix: adjust passing score threshold according to new rules
 - **2008-12-11 18:33**: perf: lazy load signal graphics and question assets
+- **2008-12-12 10:55**: docs: improve code comments and API documentation
