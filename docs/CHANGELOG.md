@@ -1,4 +1,3 @@
-- **2008-10-28 10:28**: docs: improve code comments and API documentation
 - **2008-10-28 13:45**: feat: add keyboard navigation shortcuts for question selection
 - **2008-10-29 14:54**: perf: lazy load signal graphics and question assets
 - **2008-10-30 17:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2008-12-12 19:18**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-12 19:43**: fix: typo in Nepali road safety regulations question
 - **2008-12-13 14:43**: docs: update README with setup instructions and feature list
+- **2008-12-14 10:32**: style: improve dark/light mode and mobile UI responsiveness
