@@ -1,4 +1,3 @@
-- **2008-10-29 14:54**: perf: lazy load signal graphics and question assets
 - **2008-10-30 17:14**: feat: add instant feedback and explanation on answer selection
 - **2008-10-31 22:14**: feat: add category-specific practice modes
 - **2008-11-01 16:10**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2008-12-13 14:43**: docs: update README with setup instructions and feature list
 - **2008-12-14 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-12-14 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2008-12-15 10:52**: refactor: optimize SVG rendering for road signs
