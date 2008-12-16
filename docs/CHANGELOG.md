@@ -1,4 +1,3 @@
-- **2008-11-01 16:10**: docs: add instructions for Nepali driving license written exam
 - **2008-11-01 21:31**: fix: update DOTM Nepal license syllabus questions
 - **2008-11-02 21:32**: feat: support multiple choice questions for motorcycle category
 - **2008-11-02 22:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2008-12-15 10:52**: refactor: optimize SVG rendering for road signs
 - **2008-12-15 21:18**: docs: update traffic signals catalog documentation
 - **2008-12-15 22:28**: chore: organize assets and image directory structure
+- **2008-12-16 10:39**: feat: add regulatory traffic signs SVG graphics
