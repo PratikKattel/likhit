@@ -1,4 +1,3 @@
-- **2008-11-02 22:05**: style: polish typography and Nepali Unicode font rendering
 - **2008-11-03 20:14**: fix: update DOTM Nepal license syllabus questions
 - **2008-11-04 13:30**: feat: add search and filter by sign category
 - **2008-11-04 20:41**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2008-12-16 10:39**: feat: add regulatory traffic signs SVG graphics
 - **2008-12-16 13:15**: feat: add keyboard navigation shortcuts for question selection
 - **2008-12-16 18:28**: feat: add warning signs and informational road signs
+- **2008-12-17 17:43**: test: verify question extraction script against exam PDF
