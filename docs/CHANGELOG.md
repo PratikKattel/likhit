@@ -1,4 +1,3 @@
-- **2008-11-04 20:41**: docs: update README with setup instructions and feature list
 - **2008-11-05 10:04**: chore: organize assets and image directory structure
 - **2008-11-05 14:51**: docs: add instructions for Nepali driving license written exam
 - **2008-11-06 19:34**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2008-12-17 17:43**: test: verify question extraction script against exam PDF
 - **2008-12-18 12:49**: chore: format code style and clean up redundant variables
 - **2008-12-19 21:22**: feat: add category A and B traffic test questions
+- **2008-12-20 17:35**: feat: add instant feedback and explanation on answer selection
