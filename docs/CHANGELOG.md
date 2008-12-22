@@ -1,4 +1,3 @@
-- **2008-11-05 14:51**: docs: add instructions for Nepali driving license written exam
 - **2008-11-06 19:34**: feat: add warning signs and informational road signs
 - **2008-11-07 14:51**: docs: update README with setup instructions and feature list
 - **2008-11-08 11:19**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-12-19 21:22**: feat: add category A and B traffic test questions
 - **2008-12-20 17:35**: feat: add instant feedback and explanation on answer selection
 - **2008-12-21 19:37**: chore: format code style and clean up redundant variables
+- **2008-12-22 20:53**: docs: update traffic signals catalog documentation
