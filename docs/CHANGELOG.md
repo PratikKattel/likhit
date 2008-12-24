@@ -1,4 +1,3 @@
-- **2008-11-07 14:51**: docs: update README with setup instructions and feature list
 - **2008-11-08 11:19**: fix: typo in Nepali road safety regulations question
 - **2008-11-08 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2008-11-09 17:25**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2008-12-21 19:37**: chore: format code style and clean up redundant variables
 - **2008-12-22 20:53**: docs: update traffic signals catalog documentation
 - **2008-12-23 16:23**: docs: update README with setup instructions and feature list
+- **2008-12-24 10:32**: perf: optimize image caching for traffic sign assets
