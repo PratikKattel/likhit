@@ -1,4 +1,3 @@
-- **2008-11-10 22:10**: docs: update README with setup instructions and feature list
 - **2008-11-11 15:19**: docs: improve code comments and API documentation
 - **2008-11-11 20:12**: refactor: optimize SVG rendering for road signs
 - **2008-11-12 14:26**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2008-12-25 13:42**: chore: format code style and clean up redundant variables
 - **2008-12-26 09:39**: refactor: modularize traffic app logic and event listeners
 - **2008-12-26 12:44**: fix: update DOTM Nepal license syllabus questions
+- **2008-12-26 17:04**: perf: index question IDs for rapid lookup
