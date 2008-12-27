@@ -1,4 +1,3 @@
-- **2008-11-11 20:12**: refactor: optimize SVG rendering for road signs
 - **2008-11-12 14:26**: fix: adjust passing score threshold according to new rules
 - **2008-11-12 15:36**: perf: optimize image caching for traffic sign assets
 - **2008-11-12 20:04**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2008-12-26 12:44**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-26 17:04**: perf: index question IDs for rapid lookup
 - **2008-12-26 20:29**: feat: implement timer and score calculation for mock test
+- **2008-12-27 09:46**: fix: adjust passing score threshold according to new rules
