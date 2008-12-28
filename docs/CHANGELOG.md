@@ -1,4 +1,3 @@
-- **2008-11-12 15:36**: perf: optimize image caching for traffic sign assets
 - **2008-11-12 20:04**: feat: add result summary with passing threshold analysis
 - **2008-11-13 15:39**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-14 11:15**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2008-12-26 20:29**: feat: implement timer and score calculation for mock test
 - **2008-12-27 09:46**: fix: adjust passing score threshold according to new rules
 - **2008-12-28 12:13**: chore: format code style and clean up redundant variables
+- **2008-12-28 12:47**: chore: update project metadata and build configuration
