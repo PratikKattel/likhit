@@ -1,4 +1,3 @@
-- **2008-11-14 11:15**: fix: resolve layout shift during question transitions
 - **2008-11-14 13:34**: feat: add warning signs and informational road signs
 - **2008-11-15 11:48**: fix: correct color specifications for mandatory traffic signs
 - **2008-11-15 14:00**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-12-28 12:47**: chore: update project metadata and build configuration
 - **2008-12-29 10:45**: chore: update questions database with recent DOTM updates
 - **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
+- **2008-12-30 14:00**: style: polish typography and Nepali Unicode font rendering
