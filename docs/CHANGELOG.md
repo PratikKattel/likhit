@@ -1,4 +1,3 @@
-- **2008-11-13 15:39**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-14 11:15**: fix: resolve layout shift during question transitions
 - **2008-11-14 13:34**: feat: add warning signs and informational road signs
 - **2008-11-15 11:48**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2008-12-28 12:13**: chore: format code style and clean up redundant variables
 - **2008-12-28 12:47**: chore: update project metadata and build configuration
 - **2008-12-29 10:45**: chore: update questions database with recent DOTM updates
+- **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
