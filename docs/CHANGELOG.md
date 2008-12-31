@@ -1,4 +1,3 @@
-- **2008-11-15 11:48**: fix: correct color specifications for mandatory traffic signs
 - **2008-11-15 14:00**: fix: typo in Nepali road safety regulations question
 - **2008-11-16 10:49**: fix: prevent option re-selection after submitting answer
 - **2008-11-16 14:15**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-30 14:00**: style: polish typography and Nepali Unicode font rendering
 - **2008-12-30 18:01**: fix: adjust passing score threshold according to new rules
+- **2008-12-31 13:39**: feat: add keyboard navigation shortcuts for question selection
