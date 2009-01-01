@@ -1,4 +1,3 @@
-- **2008-11-15 14:00**: fix: typo in Nepali road safety regulations question
 - **2008-11-16 10:49**: fix: prevent option re-selection after submitting answer
 - **2008-11-16 14:15**: feat: support multiple choice questions for motorcycle category
 - **2008-11-16 14:28**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2008-12-30 14:00**: style: polish typography and Nepali Unicode font rendering
 - **2008-12-30 18:01**: fix: adjust passing score threshold according to new rules
 - **2008-12-31 13:39**: feat: add keyboard navigation shortcuts for question selection
+- **2009-01-01 12:07**: perf: optimize image caching for traffic sign assets
