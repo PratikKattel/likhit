@@ -1,4 +1,3 @@
-- **2008-11-16 14:15**: feat: support multiple choice questions for motorcycle category
 - **2008-11-16 14:28**: fix: typo in Nepali road safety regulations question
 - **2008-11-16 15:17**: feat: add regulatory traffic signs SVG graphics
 - **2008-11-17 21:04**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2008-12-31 13:39**: feat: add keyboard navigation shortcuts for question selection
 - **2009-01-01 12:07**: perf: optimize image caching for traffic sign assets
 - **2009-01-02 19:10**: perf: lazy load signal graphics and question assets
+- **2009-01-03 18:14**: fix: prevent option re-selection after submitting answer
