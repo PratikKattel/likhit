@@ -1,4 +1,3 @@
-- **2008-11-18 18:35**: test: verify question extraction script against exam PDF
 - **2008-11-18 19:39**: feat: implement timer and score calculation for mock test
 - **2008-11-19 16:20**: fix: correct color specifications for mandatory traffic signs
 - **2008-11-19 18:53**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2009-01-06 21:05**: chore: update questions database with recent DOTM updates
 - **2009-01-07 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-01-07 15:01**: test: verify question extraction script against exam PDF
+- **2009-01-08 21:43**: feat: add search and filter by sign category
