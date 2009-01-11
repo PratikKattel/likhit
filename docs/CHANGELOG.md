@@ -1,4 +1,3 @@
-- **2008-11-20 09:35**: feat: add category A and B traffic test questions
 - **2008-11-21 10:05**: feat: add search and filter by sign category
 - **2008-11-22 10:25**: fix: resolve layout shift during question transitions
 - **2008-11-23 11:52**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-01-09 18:11**: style: polish typography and Nepali Unicode font rendering
 - **2009-01-09 20:01**: feat: add category A and B traffic test questions
 - **2009-01-10 19:23**: fix: prevent option re-selection after submitting answer
+- **2009-01-11 14:45**: docs: add instructions for Nepali driving license written exam
