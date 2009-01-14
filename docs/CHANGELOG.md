@@ -1,4 +1,3 @@
-- **2008-11-23 11:52**: test: verify question extraction script against exam PDF
 - **2008-11-24 17:01**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-25 21:48**: chore: update project metadata and build configuration
 - **2008-11-25 22:21**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-01-11 14:45**: docs: add instructions for Nepali driving license written exam
 - **2009-01-12 12:04**: docs: improve code comments and API documentation
 - **2009-01-13 19:24**: chore: update questions database with recent DOTM updates
+- **2009-01-14 17:50**: feat: add warning signs and informational road signs
