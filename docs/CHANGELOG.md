@@ -1,4 +1,3 @@
-- **2008-11-26 17:57**: fix: resolve layout shift during question transitions
 - **2008-11-27 15:37**: perf: lazy load signal graphics and question assets
 - **2008-11-28 19:10**: style: enhance traffic sign card layout and responsiveness
 - **2008-11-29 09:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-01-15 17:21**: chore: organize assets and image directory structure
 - **2009-01-16 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-01-17 11:15**: chore: organize assets and image directory structure
+- **2009-01-17 19:58**: fix: update DOTM Nepal license syllabus questions
