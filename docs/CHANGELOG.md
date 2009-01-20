@@ -1,4 +1,3 @@
-- **2008-11-29 13:04**: feat: add search and filter by sign category
 - **2008-11-29 13:43**: refactor: restructure question data schema for faster loading
 - **2008-11-30 09:45**: feat: add search and filter by sign category
 - **2008-11-30 14:40**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-01-17 20:08**: chore: update questions database with recent DOTM updates
 - **2009-01-18 17:52**: docs: improve code comments and API documentation
 - **2009-01-19 09:21**: style: polish typography and Nepali Unicode font rendering
+- **2009-01-20 17:35**: fix: correct color specifications for mandatory traffic signs
