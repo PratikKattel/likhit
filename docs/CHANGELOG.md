@@ -1,4 +1,3 @@
-- **2008-11-30 14:40**: feat: add warning signs and informational road signs
 - **2008-11-30 20:03**: feat: add category A and B traffic test questions
 - **2008-12-01 19:55**: docs: add instructions for Nepali driving license written exam
 - **2008-12-02 12:25**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-01-20 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2009-01-21 21:00**: style: enhance traffic sign card layout and responsiveness
 - **2009-01-22 10:07**: fix: adjust passing score threshold according to new rules
+- **2009-01-22 15:49**: perf: lazy load signal graphics and question assets
