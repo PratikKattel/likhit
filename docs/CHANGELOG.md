@@ -1,4 +1,3 @@
-- **2008-12-02 12:25**: feat: add warning signs and informational road signs
 - **2008-12-03 21:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-12-04 13:19**: feat: add result summary with passing threshold analysis
 - **2008-12-05 10:03**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-01-22 15:49**: perf: lazy load signal graphics and question assets
 - **2009-01-22 19:19**: feat: add instant feedback and explanation on answer selection
 - **2009-01-23 16:47**: feat: add regulatory traffic signs SVG graphics
+- **2009-01-23 19:07**: feat: add category A and B traffic test questions
