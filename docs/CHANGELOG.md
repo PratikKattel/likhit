@@ -1,4 +1,3 @@
-- **2008-12-04 13:19**: feat: add result summary with passing threshold analysis
 - **2008-12-05 10:03**: feat: add category A and B traffic test questions
 - **2008-12-06 14:54**: feat: implement timer and score calculation for mock test
 - **2008-12-06 15:59**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-01-23 16:47**: feat: add regulatory traffic signs SVG graphics
 - **2009-01-23 19:07**: feat: add category A and B traffic test questions
 - **2009-01-24 09:18**: docs: update README with setup instructions and feature list
+- **2009-01-24 15:09**: perf: optimize image caching for traffic sign assets
