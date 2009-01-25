@@ -1,4 +1,3 @@
-- **2008-12-06 14:54**: feat: implement timer and score calculation for mock test
 - **2008-12-06 15:59**: feat: add search and filter by sign category
 - **2008-12-07 12:37**: feat: add instant feedback and explanation on answer selection
 - **2008-12-07 13:38**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-01-24 09:18**: docs: update README with setup instructions and feature list
 - **2009-01-24 15:09**: perf: optimize image caching for traffic sign assets
 - **2009-01-24 20:01**: feat: add regulatory traffic signs SVG graphics
+- **2009-01-25 12:44**: feat: add search and filter by sign category
