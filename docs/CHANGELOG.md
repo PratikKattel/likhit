@@ -1,4 +1,3 @@
-- **2008-12-08 20:48**: feat: implement timer and score calculation for mock test
 - **2008-12-08 22:20**: fix: resolve layout shift during question transitions
 - **2008-12-09 09:20**: feat: add regulatory traffic signs SVG graphics
 - **2008-12-09 10:00**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-01-27 15:19**: docs: improve code comments and API documentation
 - **2009-01-27 17:23**: feat: add category A and B traffic test questions
 - **2009-01-27 22:02**: style: polish typography and Nepali Unicode font rendering
+- **2009-01-28 10:57**: chore: organize assets and image directory structure
