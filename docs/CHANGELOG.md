@@ -1,4 +1,3 @@
-- **2008-12-10 12:21**: feat: add category A and B traffic test questions
 - **2008-12-10 14:08**: fix: adjust passing score threshold according to new rules
 - **2008-12-11 18:33**: perf: lazy load signal graphics and question assets
 - **2008-12-12 10:55**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-01-28 17:12**: refactor: modularize traffic app logic and event listeners
 - **2009-01-29 12:28**: refactor: restructure question data schema for faster loading
 - **2009-01-29 16:44**: docs: update traffic signals catalog documentation
+- **2009-01-29 20:02**: docs: add instructions for Nepali driving license written exam
