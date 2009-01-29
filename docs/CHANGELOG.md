@@ -1,4 +1,3 @@
-- **2008-12-09 10:00**: fix: prevent option re-selection after submitting answer
 - **2008-12-09 20:30**: docs: update README with setup instructions and feature list
 - **2008-12-10 12:21**: feat: add category A and B traffic test questions
 - **2008-12-10 14:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-01-28 10:57**: chore: organize assets and image directory structure
 - **2009-01-28 16:09**: fix: adjust passing score threshold according to new rules
 - **2009-01-28 17:12**: refactor: modularize traffic app logic and event listeners
+- **2009-01-29 12:28**: refactor: restructure question data schema for faster loading
