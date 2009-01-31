@@ -1,4 +1,3 @@
-- **2008-12-12 10:55**: docs: improve code comments and API documentation
 - **2008-12-12 19:18**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-12 19:43**: fix: typo in Nepali road safety regulations question
 - **2008-12-13 14:43**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-01-29 20:02**: docs: add instructions for Nepali driving license written exam
 - **2009-01-30 09:31**: docs: update traffic signals catalog documentation
 - **2009-01-31 10:58**: docs: update README with setup instructions and feature list
+- **2009-01-31 18:08**: feat: add warning signs and informational road signs
