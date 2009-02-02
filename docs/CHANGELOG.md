@@ -1,4 +1,3 @@
-- **2008-12-13 14:43**: docs: update README with setup instructions and feature list
 - **2008-12-14 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2008-12-14 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-12-15 10:52**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-01-31 18:08**: feat: add warning signs and informational road signs
 - **2009-02-01 15:23**: fix: adjust passing score threshold according to new rules
 - **2009-02-02 11:51**: docs: improve code comments and API documentation
+- **2009-02-02 12:01**: feat: add instant feedback and explanation on answer selection
