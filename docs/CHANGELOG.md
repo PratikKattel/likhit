@@ -1,4 +1,3 @@
-- **2008-12-14 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2008-12-15 10:52**: refactor: optimize SVG rendering for road signs
 - **2008-12-15 21:18**: docs: update traffic signals catalog documentation
 - **2008-12-15 22:28**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-02-02 11:51**: docs: improve code comments and API documentation
 - **2009-02-02 12:01**: feat: add instant feedback and explanation on answer selection
 - **2009-02-02 14:04**: feat: add category A and B traffic test questions
+- **2009-02-02 16:46**: docs: improve code comments and API documentation
