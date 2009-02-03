@@ -1,4 +1,3 @@
-- **2008-12-15 21:18**: docs: update traffic signals catalog documentation
 - **2008-12-15 22:28**: chore: organize assets and image directory structure
 - **2008-12-16 10:39**: feat: add regulatory traffic signs SVG graphics
 - **2008-12-16 13:15**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-02-02 14:04**: feat: add category A and B traffic test questions
 - **2009-02-02 16:46**: docs: improve code comments and API documentation
 - **2009-02-03 10:49**: refactor: restructure question data schema for faster loading
+- **2009-02-03 14:07**: refactor: clean up unused CSS classes and optimize stylesheet
