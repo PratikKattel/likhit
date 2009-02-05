@@ -1,4 +1,3 @@
-- **2008-12-16 13:15**: feat: add keyboard navigation shortcuts for question selection
 - **2008-12-16 18:28**: feat: add warning signs and informational road signs
 - **2008-12-17 17:43**: test: verify question extraction script against exam PDF
 - **2008-12-18 12:49**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-02-03 14:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-02-04 16:28**: fix: typo in Nepali road safety regulations question
 - **2009-02-04 19:20**: feat: add category-specific practice modes
+- **2009-02-05 13:01**: perf: index question IDs for rapid lookup
