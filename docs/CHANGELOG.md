@@ -1,4 +1,3 @@
-- **2008-12-16 18:28**: feat: add warning signs and informational road signs
 - **2008-12-17 17:43**: test: verify question extraction script against exam PDF
 - **2008-12-18 12:49**: chore: format code style and clean up redundant variables
 - **2008-12-19 21:22**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-02-04 16:28**: fix: typo in Nepali road safety regulations question
 - **2009-02-04 19:20**: feat: add category-specific practice modes
 - **2009-02-05 13:01**: perf: index question IDs for rapid lookup
+- **2009-02-06 18:14**: fix: update DOTM Nepal license syllabus questions
