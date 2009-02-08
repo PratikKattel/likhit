@@ -1,4 +1,3 @@
-- **2008-12-18 12:49**: chore: format code style and clean up redundant variables
 - **2008-12-19 21:22**: feat: add category A and B traffic test questions
 - **2008-12-20 17:35**: feat: add instant feedback and explanation on answer selection
 - **2008-12-21 19:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-02-05 13:01**: perf: index question IDs for rapid lookup
 - **2009-02-06 18:14**: fix: update DOTM Nepal license syllabus questions
 - **2009-02-07 09:43**: perf: index question IDs for rapid lookup
+- **2009-02-08 14:33**: feat: add category A and B traffic test questions
