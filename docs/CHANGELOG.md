@@ -1,4 +1,3 @@
-- **2008-12-20 17:35**: feat: add instant feedback and explanation on answer selection
 - **2008-12-21 19:37**: chore: format code style and clean up redundant variables
 - **2008-12-22 20:53**: docs: update traffic signals catalog documentation
 - **2008-12-23 16:23**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-02-07 09:43**: perf: index question IDs for rapid lookup
 - **2009-02-08 14:33**: feat: add category A and B traffic test questions
 - **2009-02-09 15:06**: chore: format code style and clean up redundant variables
+- **2009-02-09 16:57**: feat: support multiple choice questions for motorcycle category
