@@ -1,4 +1,3 @@
-- **2008-12-23 16:23**: docs: update README with setup instructions and feature list
 - **2008-12-24 10:32**: perf: optimize image caching for traffic sign assets
 - **2008-12-24 19:39**: style: enhance traffic sign card layout and responsiveness
 - **2008-12-25 13:42**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-02-09 16:57**: feat: support multiple choice questions for motorcycle category
 - **2009-02-09 17:53**: docs: improve code comments and API documentation
 - **2009-02-10 14:36**: chore: update questions database with recent DOTM updates
+- **2009-02-10 15:52**: feat: add search and filter by sign category
