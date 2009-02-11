@@ -1,4 +1,3 @@
-- **2008-12-24 19:39**: style: enhance traffic sign card layout and responsiveness
 - **2008-12-25 13:42**: chore: format code style and clean up redundant variables
 - **2008-12-26 09:39**: refactor: modularize traffic app logic and event listeners
 - **2008-12-26 12:44**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-02-10 14:36**: chore: update questions database with recent DOTM updates
 - **2009-02-10 15:52**: feat: add search and filter by sign category
 - **2009-02-11 11:32**: fix: adjust passing score threshold according to new rules
+- **2009-02-11 18:09**: test: verify question extraction script against exam PDF
