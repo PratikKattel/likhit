@@ -1,4 +1,3 @@
-- **2008-12-26 09:39**: refactor: modularize traffic app logic and event listeners
 - **2008-12-26 12:44**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-26 17:04**: perf: index question IDs for rapid lookup
 - **2008-12-26 20:29**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-02-11 11:32**: fix: adjust passing score threshold according to new rules
 - **2009-02-11 18:09**: test: verify question extraction script against exam PDF
 - **2009-02-12 14:25**: style: improve dark/light mode and mobile UI responsiveness
+- **2009-02-13 14:22**: chore: update project metadata and build configuration
