@@ -1,4 +1,3 @@
-- **2008-12-26 17:04**: perf: index question IDs for rapid lookup
 - **2008-12-26 20:29**: feat: implement timer and score calculation for mock test
 - **2008-12-27 09:46**: fix: adjust passing score threshold according to new rules
 - **2008-12-28 12:13**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-02-12 14:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-13 14:22**: chore: update project metadata and build configuration
 - **2009-02-13 15:38**: refactor: modularize traffic app logic and event listeners
+- **2009-02-14 13:50**: feat: add category-specific practice modes
