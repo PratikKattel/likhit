@@ -1,4 +1,3 @@
-- **2008-12-28 12:47**: chore: update project metadata and build configuration
 - **2008-12-29 10:45**: chore: update questions database with recent DOTM updates
 - **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-30 14:00**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-02-15 09:14**: feat: add category A and B traffic test questions
 - **2009-02-16 11:36**: refactor: restructure question data schema for faster loading
 - **2009-02-17 12:54**: docs: update traffic signals catalog documentation
+- **2009-02-17 19:18**: fix: typo in Nepali road safety regulations question
