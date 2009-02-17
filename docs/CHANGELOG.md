@@ -1,4 +1,3 @@
-- **2008-12-28 12:13**: chore: format code style and clean up redundant variables
 - **2008-12-28 12:47**: chore: update project metadata and build configuration
 - **2008-12-29 10:45**: chore: update questions database with recent DOTM updates
 - **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-02-14 13:50**: feat: add category-specific practice modes
 - **2009-02-15 09:14**: feat: add category A and B traffic test questions
 - **2009-02-16 11:36**: refactor: restructure question data schema for faster loading
+- **2009-02-17 12:54**: docs: update traffic signals catalog documentation
