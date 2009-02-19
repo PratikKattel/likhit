@@ -1,4 +1,3 @@
-- **2008-12-31 13:39**: feat: add keyboard navigation shortcuts for question selection
 - **2009-01-01 12:07**: perf: optimize image caching for traffic sign assets
 - **2009-01-02 19:10**: perf: lazy load signal graphics and question assets
 - **2009-01-03 18:14**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-02-19 10:33**: perf: index question IDs for rapid lookup
 - **2009-02-19 14:43**: feat: add result summary with passing threshold analysis
 - **2009-02-19 16:42**: style: improve dark/light mode and mobile UI responsiveness
+- **2009-02-19 19:48**: perf: index question IDs for rapid lookup
