@@ -1,4 +1,3 @@
-- **2008-12-30 09:14**: fix: update DOTM Nepal license syllabus questions
 - **2008-12-30 14:00**: style: polish typography and Nepali Unicode font rendering
 - **2008-12-30 18:01**: fix: adjust passing score threshold according to new rules
 - **2008-12-31 13:39**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-02-17 12:54**: docs: update traffic signals catalog documentation
 - **2009-02-17 19:18**: fix: typo in Nepali road safety regulations question
 - **2009-02-18 16:28**: fix: correct color specifications for mandatory traffic signs
+- **2009-02-19 10:33**: perf: index question IDs for rapid lookup
