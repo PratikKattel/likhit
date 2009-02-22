@@ -1,4 +1,3 @@
-- **2009-01-03 18:14**: fix: prevent option re-selection after submitting answer
 - **2009-01-04 15:49**: chore: update project metadata and build configuration
 - **2009-01-05 10:17**: feat: add search and filter by sign category
 - **2009-01-06 21:05**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2009-02-19 19:48**: perf: index question IDs for rapid lookup
 - **2009-02-20 21:57**: docs: add instructions for Nepali driving license written exam
 - **2009-02-21 18:58**: docs: update traffic signals catalog documentation
+- **2009-02-22 18:01**: refactor: modularize traffic app logic and event listeners
