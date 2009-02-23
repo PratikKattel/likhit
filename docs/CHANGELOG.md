@@ -1,4 +1,3 @@
-- **2009-01-05 10:17**: feat: add search and filter by sign category
 - **2009-01-06 21:05**: chore: update questions database with recent DOTM updates
 - **2009-01-07 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-01-07 15:01**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-02-21 18:58**: docs: update traffic signals catalog documentation
 - **2009-02-22 18:01**: refactor: modularize traffic app logic and event listeners
 - **2009-02-22 18:51**: refactor: modularize traffic app logic and event listeners
+- **2009-02-23 10:32**: style: improve dark/light mode and mobile UI responsiveness
