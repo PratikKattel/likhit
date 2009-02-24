@@ -1,4 +1,3 @@
-- **2009-01-07 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-01-07 15:01**: test: verify question extraction script against exam PDF
 - **2009-01-08 21:43**: feat: add search and filter by sign category
 - **2009-01-09 18:11**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-02-22 18:51**: refactor: modularize traffic app logic and event listeners
 - **2009-02-23 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-23 13:17**: refactor: optimize SVG rendering for road signs
+- **2009-02-24 17:07**: perf: lazy load signal graphics and question assets
