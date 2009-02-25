@@ -1,4 +1,3 @@
-- **2009-01-08 21:43**: feat: add search and filter by sign category
 - **2009-01-09 18:11**: style: polish typography and Nepali Unicode font rendering
 - **2009-01-09 20:01**: feat: add category A and B traffic test questions
 - **2009-01-10 19:23**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-02-23 13:17**: refactor: optimize SVG rendering for road signs
 - **2009-02-24 17:07**: perf: lazy load signal graphics and question assets
 - **2009-02-25 10:55**: chore: format code style and clean up redundant variables
+- **2009-02-25 14:48**: fix: adjust passing score threshold according to new rules
