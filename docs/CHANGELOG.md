@@ -1,4 +1,3 @@
-- **2009-01-09 20:01**: feat: add category A and B traffic test questions
 - **2009-01-10 19:23**: fix: prevent option re-selection after submitting answer
 - **2009-01-11 14:45**: docs: add instructions for Nepali driving license written exam
 - **2009-01-12 12:04**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-02-25 10:55**: chore: format code style and clean up redundant variables
 - **2009-02-25 14:48**: fix: adjust passing score threshold according to new rules
 - **2009-02-26 12:18**: feat: implement timer and score calculation for mock test
+- **2009-02-26 22:26**: style: improve dark/light mode and mobile UI responsiveness
