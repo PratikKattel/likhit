@@ -1,4 +1,3 @@
-- **2009-01-12 12:04**: docs: improve code comments and API documentation
 - **2009-01-13 19:24**: chore: update questions database with recent DOTM updates
 - **2009-01-14 17:50**: feat: add warning signs and informational road signs
 - **2009-01-15 17:21**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-02-26 22:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-27 15:41**: perf: optimize image caching for traffic sign assets
 - **2009-02-27 20:31**: refactor: optimize SVG rendering for road signs
+- **2009-02-28 22:26**: style: improve dark/light mode and mobile UI responsiveness
