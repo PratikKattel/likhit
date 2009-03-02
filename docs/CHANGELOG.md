@@ -1,4 +1,3 @@
-- **2009-01-16 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-01-17 11:15**: chore: organize assets and image directory structure
 - **2009-01-17 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2009-01-17 20:08**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2009-03-01 21:55**: feat: add result summary with passing threshold analysis
 - **2009-03-02 11:21**: feat: add keyboard navigation shortcuts for question selection
 - **2009-03-02 11:40**: feat: support multiple choice questions for motorcycle category
+- **2009-03-02 13:58**: perf: optimize image caching for traffic sign assets
