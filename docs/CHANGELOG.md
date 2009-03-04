@@ -1,4 +1,3 @@
-- **2009-01-18 17:52**: docs: improve code comments and API documentation
 - **2009-01-19 09:21**: style: polish typography and Nepali Unicode font rendering
 - **2009-01-20 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2009-01-21 21:00**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2009-03-02 20:11**: docs: update README with setup instructions and feature list
 - **2009-03-03 16:02**: chore: organize assets and image directory structure
 - **2009-03-03 19:09**: feat: add result summary with passing threshold analysis
+- **2009-03-04 16:33**: fix: resolve layout shift during question transitions
