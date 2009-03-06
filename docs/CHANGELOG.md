@@ -1,4 +1,3 @@
-- **2009-01-22 10:07**: fix: adjust passing score threshold according to new rules
 - **2009-01-22 15:49**: perf: lazy load signal graphics and question assets
 - **2009-01-22 19:19**: feat: add instant feedback and explanation on answer selection
 - **2009-01-23 16:47**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2009-03-05 10:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-06 11:00**: feat: add warning signs and informational road signs
 - **2009-03-06 12:51**: feat: add search and filter by sign category
+- **2009-03-06 13:14**: fix: resolve layout shift during question transitions
