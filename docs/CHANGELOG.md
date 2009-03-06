@@ -1,4 +1,3 @@
-- **2009-01-20 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2009-01-21 21:00**: style: enhance traffic sign card layout and responsiveness
 - **2009-01-22 10:07**: fix: adjust passing score threshold according to new rules
 - **2009-01-22 15:49**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-03-03 19:09**: feat: add result summary with passing threshold analysis
 - **2009-03-04 16:33**: fix: resolve layout shift during question transitions
 - **2009-03-05 10:50**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2009-03-06 11:00**: feat: add warning signs and informational road signs
