@@ -1,4 +1,3 @@
-- **2009-01-24 20:01**: feat: add regulatory traffic signs SVG graphics
 - **2009-01-25 12:44**: feat: add search and filter by sign category
 - **2009-01-26 12:45**: feat: add instant feedback and explanation on answer selection
 - **2009-01-27 15:19**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-03-08 14:58**: feat: add warning signs and informational road signs
 - **2009-03-09 12:28**: docs: add instructions for Nepali driving license written exam
 - **2009-03-09 20:37**: feat: add search and filter by sign category
+- **2009-03-10 09:09**: test: verify question extraction script against exam PDF
