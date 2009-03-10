@@ -1,4 +1,3 @@
-- **2009-01-26 12:45**: feat: add instant feedback and explanation on answer selection
 - **2009-01-27 15:19**: docs: improve code comments and API documentation
 - **2009-01-27 17:23**: feat: add category A and B traffic test questions
 - **2009-01-27 22:02**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-03-09 20:37**: feat: add search and filter by sign category
 - **2009-03-10 09:09**: test: verify question extraction script against exam PDF
 - **2009-03-10 14:05**: feat: add instant feedback and explanation on answer selection
+- **2009-03-10 14:49**: fix: resolve layout shift during question transitions
