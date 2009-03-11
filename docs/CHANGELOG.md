@@ -1,4 +1,3 @@
-- **2009-01-27 22:02**: style: polish typography and Nepali Unicode font rendering
 - **2009-01-28 10:57**: chore: organize assets and image directory structure
 - **2009-01-28 16:09**: fix: adjust passing score threshold according to new rules
 - **2009-01-28 17:12**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2009-03-10 14:49**: fix: resolve layout shift during question transitions
 - **2009-03-10 16:11**: perf: optimize image caching for traffic sign assets
 - **2009-03-11 09:11**: docs: add instructions for Nepali driving license written exam
+- **2009-03-11 15:30**: perf: optimize image caching for traffic sign assets
