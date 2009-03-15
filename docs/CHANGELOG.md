@@ -1,4 +1,3 @@
-- **2009-01-30 09:31**: docs: update traffic signals catalog documentation
 - **2009-01-31 10:58**: docs: update README with setup instructions and feature list
 - **2009-01-31 18:08**: feat: add warning signs and informational road signs
 - **2009-02-01 15:23**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-03-13 15:59**: chore: update questions database with recent DOTM updates
 - **2009-03-14 15:44**: test: verify question extraction script against exam PDF
 - **2009-03-15 15:41**: docs: update README with setup instructions and feature list
+- **2009-03-15 20:57**: style: polish typography and Nepali Unicode font rendering
