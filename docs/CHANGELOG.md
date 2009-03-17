@@ -1,4 +1,3 @@
-- **2009-01-31 18:08**: feat: add warning signs and informational road signs
 - **2009-02-01 15:23**: fix: adjust passing score threshold according to new rules
 - **2009-02-02 11:51**: docs: improve code comments and API documentation
 - **2009-02-02 12:01**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-03-15 15:41**: docs: update README with setup instructions and feature list
 - **2009-03-15 20:57**: style: polish typography and Nepali Unicode font rendering
 - **2009-03-16 17:45**: docs: update traffic signals catalog documentation
+- **2009-03-17 12:54**: fix: resolve layout shift during question transitions
