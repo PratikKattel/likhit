@@ -1,4 +1,3 @@
-- **2009-02-02 14:04**: feat: add category A and B traffic test questions
 - **2009-02-02 16:46**: docs: improve code comments and API documentation
 - **2009-02-03 10:49**: refactor: restructure question data schema for faster loading
 - **2009-02-03 14:07**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-03-18 17:46**: fix: update DOTM Nepal license syllabus questions
 - **2009-03-19 10:15**: chore: organize assets and image directory structure
 - **2009-03-19 14:09**: perf: index question IDs for rapid lookup
+- **2009-03-20 17:38**: docs: update traffic signals catalog documentation
