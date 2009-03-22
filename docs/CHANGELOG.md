@@ -1,4 +1,3 @@
-- **2009-02-03 10:49**: refactor: restructure question data schema for faster loading
 - **2009-02-03 14:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-02-04 16:28**: fix: typo in Nepali road safety regulations question
 - **2009-02-04 19:20**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-03-19 14:09**: perf: index question IDs for rapid lookup
 - **2009-03-20 17:38**: docs: update traffic signals catalog documentation
 - **2009-03-21 13:29**: chore: format code style and clean up redundant variables
+- **2009-03-22 15:50**: style: polish typography and Nepali Unicode font rendering
