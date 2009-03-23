@@ -1,4 +1,3 @@
-- **2009-02-04 16:28**: fix: typo in Nepali road safety regulations question
 - **2009-02-04 19:20**: feat: add category-specific practice modes
 - **2009-02-05 13:01**: perf: index question IDs for rapid lookup
 - **2009-02-06 18:14**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-03-21 13:29**: chore: format code style and clean up redundant variables
 - **2009-03-22 15:50**: style: polish typography and Nepali Unicode font rendering
 - **2009-03-23 12:08**: feat: add instant feedback and explanation on answer selection
+- **2009-03-23 14:43**: feat: add category-specific practice modes
