@@ -1,4 +1,3 @@
-- **2009-02-06 18:14**: fix: update DOTM Nepal license syllabus questions
 - **2009-02-07 09:43**: perf: index question IDs for rapid lookup
 - **2009-02-08 14:33**: feat: add category A and B traffic test questions
 - **2009-02-09 15:06**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-03-23 14:43**: feat: add category-specific practice modes
 - **2009-03-24 14:12**: docs: improve code comments and API documentation
 - **2009-03-25 14:06**: fix: prevent option re-selection after submitting answer
+- **2009-03-25 19:38**: docs: update traffic signals catalog documentation
