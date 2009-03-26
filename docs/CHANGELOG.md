@@ -1,4 +1,3 @@
-- **2009-02-08 14:33**: feat: add category A and B traffic test questions
 - **2009-02-09 15:06**: chore: format code style and clean up redundant variables
 - **2009-02-09 16:57**: feat: support multiple choice questions for motorcycle category
 - **2009-02-09 17:53**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-03-25 14:06**: fix: prevent option re-selection after submitting answer
 - **2009-03-25 19:38**: docs: update traffic signals catalog documentation
 - **2009-03-26 09:55**: perf: lazy load signal graphics and question assets
+- **2009-03-26 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
