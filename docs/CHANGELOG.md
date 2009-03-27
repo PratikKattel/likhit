@@ -1,4 +1,3 @@
-- **2009-02-09 16:57**: feat: support multiple choice questions for motorcycle category
 - **2009-02-09 17:53**: docs: improve code comments and API documentation
 - **2009-02-10 14:36**: chore: update questions database with recent DOTM updates
 - **2009-02-10 15:52**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-03-26 09:55**: perf: lazy load signal graphics and question assets
 - **2009-03-26 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-26 12:14**: refactor: optimize SVG rendering for road signs
+- **2009-03-27 11:11**: feat: add regulatory traffic signs SVG graphics
