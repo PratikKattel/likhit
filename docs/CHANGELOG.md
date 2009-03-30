@@ -1,4 +1,3 @@
-- **2009-02-12 14:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-13 14:22**: chore: update project metadata and build configuration
 - **2009-02-13 15:38**: refactor: modularize traffic app logic and event listeners
 - **2009-02-14 13:50**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-03-29 14:15**: refactor: modularize traffic app logic and event listeners
 - **2009-03-30 15:38**: feat: add search and filter by sign category
 - **2009-03-30 16:54**: fix: correct color specifications for mandatory traffic signs
+- **2009-03-30 16:57**: perf: index question IDs for rapid lookup
