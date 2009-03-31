@@ -1,4 +1,3 @@
-- **2009-02-13 14:22**: chore: update project metadata and build configuration
 - **2009-02-13 15:38**: refactor: modularize traffic app logic and event listeners
 - **2009-02-14 13:50**: feat: add category-specific practice modes
 - **2009-02-15 09:14**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-03-30 15:38**: feat: add search and filter by sign category
 - **2009-03-30 16:54**: fix: correct color specifications for mandatory traffic signs
 - **2009-03-30 16:57**: perf: index question IDs for rapid lookup
+- **2009-03-31 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
