@@ -1,4 +1,3 @@
-- **2009-02-15 09:14**: feat: add category A and B traffic test questions
 - **2009-02-16 11:36**: refactor: restructure question data schema for faster loading
 - **2009-02-17 12:54**: docs: update traffic signals catalog documentation
 - **2009-02-17 19:18**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2009-03-31 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-31 17:56**: docs: add instructions for Nepali driving license written exam
 - **2009-03-31 22:00**: fix: update DOTM Nepal license syllabus questions
+- **2009-04-01 10:36**: docs: add instructions for Nepali driving license written exam
