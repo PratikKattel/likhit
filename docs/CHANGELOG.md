@@ -1,4 +1,3 @@
-- **2009-02-17 12:54**: docs: update traffic signals catalog documentation
 - **2009-02-17 19:18**: fix: typo in Nepali road safety regulations question
 - **2009-02-18 16:28**: fix: correct color specifications for mandatory traffic signs
 - **2009-02-19 10:33**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2009-03-31 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-01 10:36**: docs: add instructions for Nepali driving license written exam
 - **2009-04-01 16:36**: feat: add search and filter by sign category
+- **2009-04-02 15:01**: feat: add category-specific practice modes
