@@ -1,4 +1,3 @@
-- **2009-02-18 16:28**: fix: correct color specifications for mandatory traffic signs
 - **2009-02-19 10:33**: perf: index question IDs for rapid lookup
 - **2009-02-19 14:43**: feat: add result summary with passing threshold analysis
 - **2009-02-19 16:42**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-04-01 16:36**: feat: add search and filter by sign category
 - **2009-04-02 15:01**: feat: add category-specific practice modes
 - **2009-04-02 22:17**: feat: add search and filter by sign category
+- **2009-04-03 14:35**: docs: improve code comments and API documentation
