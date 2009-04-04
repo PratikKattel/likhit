@@ -1,4 +1,3 @@
-- **2009-02-19 14:43**: feat: add result summary with passing threshold analysis
 - **2009-02-19 16:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-19 19:48**: perf: index question IDs for rapid lookup
 - **2009-02-20 21:57**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-04-02 22:17**: feat: add search and filter by sign category
 - **2009-04-03 14:35**: docs: improve code comments and API documentation
 - **2009-04-04 16:36**: chore: update questions database with recent DOTM updates
+- **2009-04-04 19:28**: test: verify question extraction script against exam PDF
