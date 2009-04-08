@@ -1,4 +1,3 @@
-- **2009-02-22 18:51**: refactor: modularize traffic app logic and event listeners
 - **2009-02-23 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-23 13:17**: refactor: optimize SVG rendering for road signs
 - **2009-02-24 17:07**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-04-06 17:29**: docs: update README with setup instructions and feature list
 - **2009-04-07 09:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-07 14:32**: perf: lazy load signal graphics and question assets
+- **2009-04-08 10:28**: fix: adjust passing score threshold according to new rules
