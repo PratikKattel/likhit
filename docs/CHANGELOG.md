@@ -1,4 +1,3 @@
-- **2009-02-23 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-23 13:17**: refactor: optimize SVG rendering for road signs
 - **2009-02-24 17:07**: perf: lazy load signal graphics and question assets
 - **2009-02-25 10:55**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-04-07 09:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-07 14:32**: perf: lazy load signal graphics and question assets
 - **2009-04-08 10:28**: fix: adjust passing score threshold according to new rules
+- **2009-04-08 20:07**: feat: implement timer and score calculation for mock test
