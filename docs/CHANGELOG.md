@@ -1,4 +1,3 @@
-- **2009-02-26 22:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-02-27 15:41**: perf: optimize image caching for traffic sign assets
 - **2009-02-27 20:31**: refactor: optimize SVG rendering for road signs
 - **2009-02-28 22:26**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-04-10 16:47**: feat: implement timer and score calculation for mock test
 - **2009-04-11 17:13**: fix: typo in Nepali road safety regulations question
 - **2009-04-12 16:31**: docs: add instructions for Nepali driving license written exam
+- **2009-04-13 15:54**: feat: add instant feedback and explanation on answer selection
