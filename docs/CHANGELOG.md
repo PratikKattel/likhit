@@ -1,4 +1,3 @@
-- **2009-02-27 20:31**: refactor: optimize SVG rendering for road signs
 - **2009-02-28 22:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-03-01 21:55**: feat: add result summary with passing threshold analysis
 - **2009-03-02 11:21**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-04-12 16:31**: docs: add instructions for Nepali driving license written exam
 - **2009-04-13 15:54**: feat: add instant feedback and explanation on answer selection
 - **2009-04-14 12:35**: fix: adjust passing score threshold according to new rules
+- **2009-04-14 16:29**: fix: update DOTM Nepal license syllabus questions
