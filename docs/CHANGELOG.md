@@ -1,4 +1,3 @@
-- **2009-03-01 21:55**: feat: add result summary with passing threshold analysis
 - **2009-03-02 11:21**: feat: add keyboard navigation shortcuts for question selection
 - **2009-03-02 11:40**: feat: support multiple choice questions for motorcycle category
 - **2009-03-02 13:58**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-04-14 12:35**: fix: adjust passing score threshold according to new rules
 - **2009-04-14 16:29**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-15 19:36**: feat: add search and filter by sign category
+- **2009-04-15 21:44**: chore: organize assets and image directory structure
