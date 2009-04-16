@@ -1,4 +1,3 @@
-- **2009-03-02 13:58**: perf: optimize image caching for traffic sign assets
 - **2009-03-02 20:11**: docs: update README with setup instructions and feature list
 - **2009-03-03 16:02**: chore: organize assets and image directory structure
 - **2009-03-03 19:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-04-15 21:44**: chore: organize assets and image directory structure
 - **2009-04-15 22:14**: chore: update questions database with recent DOTM updates
 - **2009-04-16 11:39**: test: verify question extraction script against exam PDF
+- **2009-04-16 19:04**: perf: index question IDs for rapid lookup
