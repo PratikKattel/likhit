@@ -1,4 +1,3 @@
-- **2009-03-02 11:40**: feat: support multiple choice questions for motorcycle category
 - **2009-03-02 13:58**: perf: optimize image caching for traffic sign assets
 - **2009-03-02 20:11**: docs: update README with setup instructions and feature list
 - **2009-03-03 16:02**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-04-15 19:36**: feat: add search and filter by sign category
 - **2009-04-15 21:44**: chore: organize assets and image directory structure
 - **2009-04-15 22:14**: chore: update questions database with recent DOTM updates
+- **2009-04-16 11:39**: test: verify question extraction script against exam PDF
