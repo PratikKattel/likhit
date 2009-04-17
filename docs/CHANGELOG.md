@@ -1,4 +1,3 @@
-- **2009-03-03 16:02**: chore: organize assets and image directory structure
 - **2009-03-03 19:09**: feat: add result summary with passing threshold analysis
 - **2009-03-04 16:33**: fix: resolve layout shift during question transitions
 - **2009-03-05 10:50**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-04-16 11:39**: test: verify question extraction script against exam PDF
 - **2009-04-16 19:04**: perf: index question IDs for rapid lookup
 - **2009-04-17 10:13**: docs: update traffic signals catalog documentation
+- **2009-04-17 14:01**: fix: resolve layout shift during question transitions
