@@ -1,4 +1,3 @@
-- **2009-03-04 16:33**: fix: resolve layout shift during question transitions
 - **2009-03-05 10:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-06 11:00**: feat: add warning signs and informational road signs
 - **2009-03-06 12:51**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-04-17 10:13**: docs: update traffic signals catalog documentation
 - **2009-04-17 14:01**: fix: resolve layout shift during question transitions
 - **2009-04-17 18:33**: feat: support multiple choice questions for motorcycle category
+- **2009-04-18 19:53**: perf: optimize image caching for traffic sign assets
