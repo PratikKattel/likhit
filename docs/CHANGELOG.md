@@ -1,4 +1,3 @@
-- **2009-03-06 13:25**: chore: organize assets and image directory structure
 - **2009-03-07 19:50**: refactor: restructure question data schema for faster loading
 - **2009-03-08 09:42**: style: polish typography and Nepali Unicode font rendering
 - **2009-03-08 14:58**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-04-19 14:02**: perf: optimize image caching for traffic sign assets
 - **2009-04-19 15:09**: feat: add keyboard navigation shortcuts for question selection
 - **2009-04-19 18:26**: chore: format code style and clean up redundant variables
+- **2009-04-20 13:26**: chore: organize assets and image directory structure
