@@ -1,4 +1,3 @@
-- **2009-03-09 12:28**: docs: add instructions for Nepali driving license written exam
 - **2009-03-09 20:37**: feat: add search and filter by sign category
 - **2009-03-10 09:09**: test: verify question extraction script against exam PDF
 - **2009-03-10 14:05**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-04-20 13:53**: perf: lazy load signal graphics and question assets
 - **2009-04-20 18:10**: chore: organize assets and image directory structure
 - **2009-04-20 19:20**: perf: index question IDs for rapid lookup
+- **2009-04-21 14:19**: style: improve dark/light mode and mobile UI responsiveness
