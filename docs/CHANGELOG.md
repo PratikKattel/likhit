@@ -1,4 +1,3 @@
-- **2009-03-10 14:49**: fix: resolve layout shift during question transitions
 - **2009-03-10 16:11**: perf: optimize image caching for traffic sign assets
 - **2009-03-11 09:11**: docs: add instructions for Nepali driving license written exam
 - **2009-03-11 15:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-04-21 21:03**: docs: update README with setup instructions and feature list
 - **2009-04-22 17:29**: feat: add keyboard navigation shortcuts for question selection
 - **2009-04-23 09:46**: style: enhance traffic sign card layout and responsiveness
+- **2009-04-23 13:36**: fix: prevent option re-selection after submitting answer
