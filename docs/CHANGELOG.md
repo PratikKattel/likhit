@@ -1,4 +1,3 @@
-- **2009-03-11 09:11**: docs: add instructions for Nepali driving license written exam
 - **2009-03-11 15:30**: perf: optimize image caching for traffic sign assets
 - **2009-03-12 13:58**: style: enhance traffic sign card layout and responsiveness
 - **2009-03-12 15:50**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2009-04-23 09:46**: style: enhance traffic sign card layout and responsiveness
 - **2009-04-23 13:36**: fix: prevent option re-selection after submitting answer
 - **2009-04-24 09:08**: fix: correct color specifications for mandatory traffic signs
+- **2009-04-25 11:04**: style: improve dark/light mode and mobile UI responsiveness
