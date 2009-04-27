@@ -1,4 +1,3 @@
-- **2009-03-12 13:58**: style: enhance traffic sign card layout and responsiveness
 - **2009-03-12 15:50**: chore: update questions database with recent DOTM updates
 - **2009-03-13 10:12**: refactor: restructure question data schema for faster loading
 - **2009-03-13 15:59**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2009-04-24 09:08**: fix: correct color specifications for mandatory traffic signs
 - **2009-04-25 11:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-26 12:48**: feat: support multiple choice questions for motorcycle category
+- **2009-04-27 12:07**: chore: organize assets and image directory structure
