@@ -1,4 +1,3 @@
-- **2009-03-13 15:59**: chore: update questions database with recent DOTM updates
 - **2009-03-14 15:44**: test: verify question extraction script against exam PDF
 - **2009-03-15 15:41**: docs: update README with setup instructions and feature list
 - **2009-03-15 20:57**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-04-27 12:07**: chore: organize assets and image directory structure
 - **2009-04-27 16:09**: style: polish typography and Nepali Unicode font rendering
 - **2009-04-27 18:10**: feat: add instant feedback and explanation on answer selection
+- **2009-04-28 19:56**: chore: format code style and clean up redundant variables
