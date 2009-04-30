@@ -1,4 +1,3 @@
-- **2009-03-15 20:57**: style: polish typography and Nepali Unicode font rendering
 - **2009-03-16 17:45**: docs: update traffic signals catalog documentation
 - **2009-03-17 12:54**: fix: resolve layout shift during question transitions
 - **2009-03-18 17:46**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-04-28 19:56**: chore: format code style and clean up redundant variables
 - **2009-04-29 11:52**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-29 16:11**: refactor: restructure question data schema for faster loading
+- **2009-04-30 14:00**: chore: update project metadata and build configuration
