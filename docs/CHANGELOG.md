@@ -1,4 +1,3 @@
-- **2009-03-18 17:46**: fix: update DOTM Nepal license syllabus questions
 - **2009-03-19 10:15**: chore: organize assets and image directory structure
 - **2009-03-19 14:09**: perf: index question IDs for rapid lookup
 - **2009-03-20 17:38**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-04-30 14:00**: chore: update project metadata and build configuration
 - **2009-05-01 10:27**: test: verify question extraction script against exam PDF
 - **2009-05-01 13:29**: fix: resolve layout shift during question transitions
+- **2009-05-02 12:08**: fix: adjust passing score threshold according to new rules
