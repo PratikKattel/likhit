@@ -1,4 +1,3 @@
-- **2009-03-19 14:09**: perf: index question IDs for rapid lookup
 - **2009-03-20 17:38**: docs: update traffic signals catalog documentation
 - **2009-03-21 13:29**: chore: format code style and clean up redundant variables
 - **2009-03-22 15:50**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-05-01 13:29**: fix: resolve layout shift during question transitions
 - **2009-05-02 12:08**: fix: adjust passing score threshold according to new rules
 - **2009-05-02 15:58**: feat: add result summary with passing threshold analysis
+- **2009-05-03 17:08**: feat: add warning signs and informational road signs
