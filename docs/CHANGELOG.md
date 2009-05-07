@@ -1,4 +1,3 @@
-- **2009-03-23 12:08**: feat: add instant feedback and explanation on answer selection
 - **2009-03-23 14:43**: feat: add category-specific practice modes
 - **2009-03-24 14:12**: docs: improve code comments and API documentation
 - **2009-03-25 14:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-05-04 09:37**: refactor: optimize SVG rendering for road signs
 - **2009-05-05 12:09**: docs: improve code comments and API documentation
 - **2009-05-06 20:31**: feat: add search and filter by sign category
+- **2009-05-07 14:41**: feat: add search and filter by sign category
