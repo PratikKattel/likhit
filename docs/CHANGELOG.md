@@ -1,4 +1,3 @@
-- **2009-03-24 14:12**: docs: improve code comments and API documentation
 - **2009-03-25 14:06**: fix: prevent option re-selection after submitting answer
 - **2009-03-25 19:38**: docs: update traffic signals catalog documentation
 - **2009-03-26 09:55**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-05-06 20:31**: feat: add search and filter by sign category
 - **2009-05-07 14:41**: feat: add search and filter by sign category
 - **2009-05-08 21:22**: feat: add search and filter by sign category
+- **2009-05-08 22:10**: perf: index question IDs for rapid lookup
