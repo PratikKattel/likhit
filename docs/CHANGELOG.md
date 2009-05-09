@@ -1,4 +1,3 @@
-- **2009-03-25 19:38**: docs: update traffic signals catalog documentation
 - **2009-03-26 09:55**: perf: lazy load signal graphics and question assets
 - **2009-03-26 11:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-26 12:14**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-05-08 21:22**: feat: add search and filter by sign category
 - **2009-05-08 22:10**: perf: index question IDs for rapid lookup
 - **2009-05-09 15:12**: fix: resolve layout shift during question transitions
+- **2009-05-09 17:47**: docs: improve code comments and API documentation
