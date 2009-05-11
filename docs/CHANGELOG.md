@@ -1,4 +1,3 @@
-- **2009-03-26 12:14**: refactor: optimize SVG rendering for road signs
 - **2009-03-27 11:11**: feat: add regulatory traffic signs SVG graphics
 - **2009-03-27 12:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-03-28 21:11**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2009-05-09 17:47**: docs: improve code comments and API documentation
 - **2009-05-10 16:34**: docs: improve code comments and API documentation
 - **2009-05-11 16:17**: refactor: optimize SVG rendering for road signs
+- **2009-05-11 21:47**: perf: optimize image caching for traffic sign assets
