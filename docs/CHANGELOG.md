@@ -1,4 +1,3 @@
-- **2009-03-27 12:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-03-28 21:11**: style: enhance traffic sign card layout and responsiveness
 - **2009-03-29 14:15**: refactor: modularize traffic app logic and event listeners
 - **2009-03-30 15:38**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-05-11 16:17**: refactor: optimize SVG rendering for road signs
 - **2009-05-11 21:47**: perf: optimize image caching for traffic sign assets
 - **2009-05-12 09:47**: perf: index question IDs for rapid lookup
+- **2009-05-12 10:56**: feat: add keyboard navigation shortcuts for question selection
