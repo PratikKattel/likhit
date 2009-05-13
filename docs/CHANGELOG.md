@@ -1,4 +1,3 @@
-- **2009-03-29 14:15**: refactor: modularize traffic app logic and event listeners
 - **2009-03-30 15:38**: feat: add search and filter by sign category
 - **2009-03-30 16:54**: fix: correct color specifications for mandatory traffic signs
 - **2009-03-30 16:57**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2009-05-12 09:47**: perf: index question IDs for rapid lookup
 - **2009-05-12 10:56**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-12 14:32**: perf: index question IDs for rapid lookup
+- **2009-05-13 18:12**: refactor: restructure question data schema for faster loading
