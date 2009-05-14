@@ -1,4 +1,3 @@
-- **2009-03-30 16:54**: fix: correct color specifications for mandatory traffic signs
 - **2009-03-30 16:57**: perf: index question IDs for rapid lookup
 - **2009-03-31 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-31 17:56**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-05-12 14:32**: perf: index question IDs for rapid lookup
 - **2009-05-13 18:12**: refactor: restructure question data schema for faster loading
 - **2009-05-13 21:25**: chore: update project metadata and build configuration
+- **2009-05-14 11:57**: docs: update README with setup instructions and feature list
