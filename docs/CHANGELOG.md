@@ -1,4 +1,3 @@
-- **2009-03-31 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-01 10:36**: docs: add instructions for Nepali driving license written exam
 - **2009-04-01 16:36**: feat: add search and filter by sign category
 - **2009-04-02 15:01**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-05-14 21:20**: fix: correct color specifications for mandatory traffic signs
 - **2009-05-15 09:44**: chore: update questions database with recent DOTM updates
 - **2009-05-15 13:43**: docs: update README with setup instructions and feature list
+- **2009-05-15 19:48**: refactor: modularize traffic app logic and event listeners
