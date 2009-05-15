@@ -1,4 +1,3 @@
-- **2009-03-31 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-03-31 17:56**: docs: add instructions for Nepali driving license written exam
 - **2009-03-31 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-01 10:36**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-05-13 21:25**: chore: update project metadata and build configuration
 - **2009-05-14 11:57**: docs: update README with setup instructions and feature list
 - **2009-05-14 21:20**: fix: correct color specifications for mandatory traffic signs
+- **2009-05-15 09:44**: chore: update questions database with recent DOTM updates
