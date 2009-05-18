@@ -1,4 +1,3 @@
-- **2009-04-02 22:17**: feat: add search and filter by sign category
 - **2009-04-03 14:35**: docs: improve code comments and API documentation
 - **2009-04-04 16:36**: chore: update questions database with recent DOTM updates
 - **2009-04-04 19:28**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-05-16 12:51**: fix: adjust passing score threshold according to new rules
 - **2009-05-17 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-18 17:20**: refactor: modularize traffic app logic and event listeners
+- **2009-05-18 21:45**: feat: add instant feedback and explanation on answer selection
