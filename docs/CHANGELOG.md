@@ -1,4 +1,3 @@
-- **2009-04-04 16:36**: chore: update questions database with recent DOTM updates
 - **2009-04-04 19:28**: test: verify question extraction script against exam PDF
 - **2009-04-05 16:37**: test: verify question extraction script against exam PDF
 - **2009-04-05 21:04**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2009-05-18 17:20**: refactor: modularize traffic app logic and event listeners
 - **2009-05-18 21:45**: feat: add instant feedback and explanation on answer selection
 - **2009-05-19 10:36**: fix: correct color specifications for mandatory traffic signs
+- **2009-05-20 11:42**: fix: resolve layout shift during question transitions
