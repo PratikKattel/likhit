@@ -1,4 +1,3 @@
-- **2009-04-07 09:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-07 14:32**: perf: lazy load signal graphics and question assets
 - **2009-04-08 10:28**: fix: adjust passing score threshold according to new rules
 - **2009-04-08 20:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-05-22 12:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-05-23 10:19**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-23 15:27**: style: enhance traffic sign card layout and responsiveness
+- **2009-05-23 19:22**: docs: update traffic signals catalog documentation
