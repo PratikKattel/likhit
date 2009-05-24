@@ -1,4 +1,3 @@
-- **2009-04-08 20:07**: feat: implement timer and score calculation for mock test
 - **2009-04-09 15:44**: refactor: optimize SVG rendering for road signs
 - **2009-04-10 09:11**: feat: add result summary with passing threshold analysis
 - **2009-04-10 16:47**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-05-23 19:22**: docs: update traffic signals catalog documentation
 - **2009-05-24 11:49**: fix: resolve layout shift during question transitions
 - **2009-05-24 21:24**: fix: typo in Nepali road safety regulations question
+- **2009-05-24 22:26**: feat: add instant feedback and explanation on answer selection
