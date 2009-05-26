@@ -1,4 +1,3 @@
-- **2009-04-13 15:54**: feat: add instant feedback and explanation on answer selection
 - **2009-04-14 12:35**: fix: adjust passing score threshold according to new rules
 - **2009-04-14 16:29**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-15 19:36**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-05-25 16:59**: fix: typo in Nepali road safety regulations question
 - **2009-05-26 10:30**: fix: typo in Nepali road safety regulations question
 - **2009-05-26 12:00**: fix: resolve layout shift during question transitions
+- **2009-05-26 18:22**: feat: add regulatory traffic signs SVG graphics
