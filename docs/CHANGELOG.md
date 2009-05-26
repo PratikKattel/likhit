@@ -1,4 +1,3 @@
-- **2009-04-11 17:13**: fix: typo in Nepali road safety regulations question
 - **2009-04-12 16:31**: docs: add instructions for Nepali driving license written exam
 - **2009-04-13 15:54**: feat: add instant feedback and explanation on answer selection
 - **2009-04-14 12:35**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-05-25 11:41**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-25 12:50**: docs: add instructions for Nepali driving license written exam
 - **2009-05-25 16:59**: fix: typo in Nepali road safety regulations question
+- **2009-05-26 10:30**: fix: typo in Nepali road safety regulations question
