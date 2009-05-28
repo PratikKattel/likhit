@@ -1,4 +1,3 @@
-- **2009-04-15 21:44**: chore: organize assets and image directory structure
 - **2009-04-15 22:14**: chore: update questions database with recent DOTM updates
 - **2009-04-16 11:39**: test: verify question extraction script against exam PDF
 - **2009-04-16 19:04**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2009-05-27 13:24**: docs: add instructions for Nepali driving license written exam
 - **2009-05-28 11:45**: test: verify question extraction script against exam PDF
 - **2009-05-28 19:27**: refactor: optimize SVG rendering for road signs
+- **2009-05-28 19:55**: refactor: restructure question data schema for faster loading
