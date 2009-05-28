@@ -1,4 +1,3 @@
-- **2009-04-15 19:36**: feat: add search and filter by sign category
 - **2009-04-15 21:44**: chore: organize assets and image directory structure
 - **2009-04-15 22:14**: chore: update questions database with recent DOTM updates
 - **2009-04-16 11:39**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-05-26 18:22**: feat: add regulatory traffic signs SVG graphics
 - **2009-05-27 13:24**: docs: add instructions for Nepali driving license written exam
 - **2009-05-28 11:45**: test: verify question extraction script against exam PDF
+- **2009-05-28 19:27**: refactor: optimize SVG rendering for road signs
