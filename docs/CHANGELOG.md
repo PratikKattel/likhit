@@ -1,4 +1,3 @@
-- **2009-04-16 11:39**: test: verify question extraction script against exam PDF
 - **2009-04-16 19:04**: perf: index question IDs for rapid lookup
 - **2009-04-17 10:13**: docs: update traffic signals catalog documentation
 - **2009-04-17 14:01**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2009-05-28 19:27**: refactor: optimize SVG rendering for road signs
 - **2009-05-28 19:55**: refactor: restructure question data schema for faster loading
 - **2009-05-28 22:06**: docs: improve code comments and API documentation
+- **2009-05-29 18:58**: refactor: modularize traffic app logic and event listeners
