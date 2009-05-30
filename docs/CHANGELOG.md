@@ -1,4 +1,3 @@
-- **2009-04-17 10:13**: docs: update traffic signals catalog documentation
 - **2009-04-17 14:01**: fix: resolve layout shift during question transitions
 - **2009-04-17 18:33**: feat: support multiple choice questions for motorcycle category
 - **2009-04-18 19:53**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-05-28 22:06**: docs: improve code comments and API documentation
 - **2009-05-29 18:58**: refactor: modularize traffic app logic and event listeners
 - **2009-05-29 19:38**: docs: update README with setup instructions and feature list
+- **2009-05-30 10:48**: fix: adjust passing score threshold according to new rules
