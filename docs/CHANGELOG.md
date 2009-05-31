@@ -1,4 +1,3 @@
-- **2009-04-18 19:53**: perf: optimize image caching for traffic sign assets
 - **2009-04-19 09:08**: perf: lazy load signal graphics and question assets
 - **2009-04-19 14:02**: perf: optimize image caching for traffic sign assets
 - **2009-04-19 15:09**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-05-30 10:48**: fix: adjust passing score threshold according to new rules
 - **2009-05-30 11:08**: fix: resolve layout shift during question transitions
 - **2009-05-31 09:05**: feat: add keyboard navigation shortcuts for question selection
+- **2009-05-31 18:51**: feat: add category-specific practice modes
