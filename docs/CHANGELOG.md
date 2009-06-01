@@ -1,4 +1,3 @@
-- **2009-04-19 14:02**: perf: optimize image caching for traffic sign assets
 - **2009-04-19 15:09**: feat: add keyboard navigation shortcuts for question selection
 - **2009-04-19 18:26**: chore: format code style and clean up redundant variables
 - **2009-04-20 13:26**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-05-31 09:05**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-31 18:51**: feat: add category-specific practice modes
 - **2009-06-01 17:12**: style: polish typography and Nepali Unicode font rendering
+- **2009-06-01 21:55**: chore: update project metadata and build configuration
