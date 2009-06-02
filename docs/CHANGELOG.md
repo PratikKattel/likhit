@@ -1,4 +1,3 @@
-- **2009-04-19 18:26**: chore: format code style and clean up redundant variables
 - **2009-04-20 13:26**: chore: organize assets and image directory structure
 - **2009-04-20 13:53**: perf: lazy load signal graphics and question assets
 - **2009-04-20 18:10**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-06-01 17:12**: style: polish typography and Nepali Unicode font rendering
 - **2009-06-01 21:55**: chore: update project metadata and build configuration
 - **2009-06-02 11:36**: feat: add search and filter by sign category
+- **2009-06-02 15:48**: docs: add instructions for Nepali driving license written exam
