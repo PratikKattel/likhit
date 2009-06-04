@@ -1,4 +1,3 @@
-- **2009-04-20 19:20**: perf: index question IDs for rapid lookup
 - **2009-04-21 14:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-21 21:03**: docs: update README with setup instructions and feature list
 - **2009-04-22 17:29**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-06-02 21:40**: style: polish typography and Nepali Unicode font rendering
 - **2009-06-03 17:41**: chore: organize assets and image directory structure
 - **2009-06-04 12:03**: docs: update README with setup instructions and feature list
+- **2009-06-04 19:43**: feat: implement timer and score calculation for mock test
