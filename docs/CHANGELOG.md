@@ -1,4 +1,3 @@
-- **2009-04-21 21:03**: docs: update README with setup instructions and feature list
 - **2009-04-22 17:29**: feat: add keyboard navigation shortcuts for question selection
 - **2009-04-23 09:46**: style: enhance traffic sign card layout and responsiveness
 - **2009-04-23 13:36**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-06-04 12:03**: docs: update README with setup instructions and feature list
 - **2009-06-04 19:43**: feat: implement timer and score calculation for mock test
 - **2009-06-05 14:55**: feat: add search and filter by sign category
+- **2009-06-05 17:09**: refactor: clean up unused CSS classes and optimize stylesheet
