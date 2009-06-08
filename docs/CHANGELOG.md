@@ -1,4 +1,3 @@
-- **2009-04-25 11:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-04-26 12:48**: feat: support multiple choice questions for motorcycle category
 - **2009-04-27 12:07**: chore: organize assets and image directory structure
 - **2009-04-27 16:09**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-06-06 21:14**: fix: update DOTM Nepal license syllabus questions
 - **2009-06-07 14:31**: feat: implement timer and score calculation for mock test
 - **2009-06-08 09:29**: feat: add category-specific practice modes
+- **2009-06-08 14:57**: feat: add regulatory traffic signs SVG graphics
