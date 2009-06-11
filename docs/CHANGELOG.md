@@ -1,4 +1,3 @@
-- **2009-04-28 19:56**: chore: format code style and clean up redundant variables
 - **2009-04-29 11:52**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-29 16:11**: refactor: restructure question data schema for faster loading
 - **2009-04-30 14:00**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2009-06-09 21:44**: fix: typo in Nepali road safety regulations question
 - **2009-06-10 10:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-06-10 12:20**: perf: optimize image caching for traffic sign assets
+- **2009-06-11 15:47**: perf: lazy load signal graphics and question assets
