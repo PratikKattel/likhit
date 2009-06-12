@@ -1,4 +1,3 @@
-- **2009-04-29 11:52**: fix: update DOTM Nepal license syllabus questions
 - **2009-04-29 16:11**: refactor: restructure question data schema for faster loading
 - **2009-04-30 14:00**: chore: update project metadata and build configuration
 - **2009-05-01 10:27**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-06-10 10:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-06-10 12:20**: perf: optimize image caching for traffic sign assets
 - **2009-06-11 15:47**: perf: lazy load signal graphics and question assets
+- **2009-06-12 14:04**: docs: update README with setup instructions and feature list
