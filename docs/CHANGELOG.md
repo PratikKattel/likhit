@@ -1,4 +1,3 @@
-- **2009-05-01 13:29**: fix: resolve layout shift during question transitions
 - **2009-05-02 12:08**: fix: adjust passing score threshold according to new rules
 - **2009-05-02 15:58**: feat: add result summary with passing threshold analysis
 - **2009-05-03 17:08**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-06-12 17:56**: style: polish typography and Nepali Unicode font rendering
 - **2009-06-12 20:31**: fix: resolve layout shift during question transitions
 - **2009-06-13 20:54**: refactor: optimize SVG rendering for road signs
+- **2009-06-14 11:58**: feat: support multiple choice questions for motorcycle category
