@@ -1,4 +1,3 @@
-- **2009-05-02 15:58**: feat: add result summary with passing threshold analysis
 - **2009-05-03 17:08**: feat: add warning signs and informational road signs
 - **2009-05-04 09:37**: refactor: optimize SVG rendering for road signs
 - **2009-05-05 12:09**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-06-13 20:54**: refactor: optimize SVG rendering for road signs
 - **2009-06-14 11:58**: feat: support multiple choice questions for motorcycle category
 - **2009-06-14 13:31**: chore: update project metadata and build configuration
+- **2009-06-15 19:25**: perf: index question IDs for rapid lookup
