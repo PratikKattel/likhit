@@ -1,4 +1,3 @@
-- **2009-05-07 14:41**: feat: add search and filter by sign category
 - **2009-05-08 21:22**: feat: add search and filter by sign category
 - **2009-05-08 22:10**: perf: index question IDs for rapid lookup
 - **2009-05-09 15:12**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2009-06-17 18:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-06-18 10:57**: feat: add search and filter by sign category
 - **2009-06-18 17:54**: chore: organize assets and image directory structure
+- **2009-06-19 20:37**: fix: prevent option re-selection after submitting answer
