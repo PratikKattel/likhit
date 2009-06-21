@@ -1,4 +1,3 @@
-- **2009-05-08 22:10**: perf: index question IDs for rapid lookup
 - **2009-05-09 15:12**: fix: resolve layout shift during question transitions
 - **2009-05-09 17:47**: docs: improve code comments and API documentation
 - **2009-05-10 16:34**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-06-18 17:54**: chore: organize assets and image directory structure
 - **2009-06-19 20:37**: fix: prevent option re-selection after submitting answer
 - **2009-06-20 09:42**: feat: add category A and B traffic test questions
+- **2009-06-21 20:58**: feat: add regulatory traffic signs SVG graphics
