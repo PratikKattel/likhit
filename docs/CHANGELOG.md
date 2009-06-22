@@ -1,4 +1,3 @@
-- **2009-05-09 15:12**: fix: resolve layout shift during question transitions
 - **2009-05-09 17:47**: docs: improve code comments and API documentation
 - **2009-05-10 16:34**: docs: improve code comments and API documentation
 - **2009-05-11 16:17**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-06-19 20:37**: fix: prevent option re-selection after submitting answer
 - **2009-06-20 09:42**: feat: add category A and B traffic test questions
 - **2009-06-21 20:58**: feat: add regulatory traffic signs SVG graphics
+- **2009-06-22 15:34**: refactor: clean up unused CSS classes and optimize stylesheet
