@@ -1,4 +1,3 @@
-- **2009-05-12 09:47**: perf: index question IDs for rapid lookup
 - **2009-05-12 10:56**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-12 14:32**: perf: index question IDs for rapid lookup
 - **2009-05-13 18:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2009-06-24 13:01**: refactor: restructure question data schema for faster loading
 - **2009-06-25 20:38**: feat: add instant feedback and explanation on answer selection
 - **2009-06-25 22:03**: fix: prevent option re-selection after submitting answer
+- **2009-06-26 09:31**: perf: lazy load signal graphics and question assets
