@@ -1,4 +1,3 @@
-- **2009-05-15 09:44**: chore: update questions database with recent DOTM updates
 - **2009-05-15 13:43**: docs: update README with setup instructions and feature list
 - **2009-05-15 19:48**: refactor: modularize traffic app logic and event listeners
 - **2009-05-16 12:51**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-06-28 10:01**: feat: add result summary with passing threshold analysis
 - **2009-06-28 18:07**: refactor: modularize traffic app logic and event listeners
 - **2009-06-29 15:14**: docs: update README with setup instructions and feature list
+- **2009-06-29 18:05**: feat: add warning signs and informational road signs
