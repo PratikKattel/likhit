@@ -1,4 +1,3 @@
-- **2009-05-15 19:48**: refactor: modularize traffic app logic and event listeners
 - **2009-05-16 12:51**: fix: adjust passing score threshold according to new rules
 - **2009-05-17 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-18 17:20**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2009-06-29 15:14**: docs: update README with setup instructions and feature list
 - **2009-06-29 18:05**: feat: add warning signs and informational road signs
 - **2009-06-30 11:37**: perf: index question IDs for rapid lookup
+- **2009-07-01 12:49**: feat: add instant feedback and explanation on answer selection
