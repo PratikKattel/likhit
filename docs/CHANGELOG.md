@@ -1,4 +1,3 @@
-- **2009-05-17 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-18 17:20**: refactor: modularize traffic app logic and event listeners
 - **2009-05-18 21:45**: feat: add instant feedback and explanation on answer selection
 - **2009-05-19 10:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2009-06-30 11:37**: perf: index question IDs for rapid lookup
 - **2009-07-01 12:49**: feat: add instant feedback and explanation on answer selection
 - **2009-07-01 16:50**: feat: implement timer and score calculation for mock test
+- **2009-07-02 15:28**: style: polish typography and Nepali Unicode font rendering
