@@ -1,4 +1,3 @@
-- **2009-05-19 10:36**: fix: correct color specifications for mandatory traffic signs
 - **2009-05-20 11:42**: fix: resolve layout shift during question transitions
 - **2009-05-21 15:40**: docs: update traffic signals catalog documentation
 - **2009-05-22 12:59**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-07-02 15:28**: style: polish typography and Nepali Unicode font rendering
 - **2009-07-03 10:47**: docs: improve code comments and API documentation
 - **2009-07-03 16:11**: docs: update traffic signals catalog documentation
+- **2009-07-03 18:16**: feat: add warning signs and informational road signs
