@@ -1,4 +1,3 @@
-- **2009-05-22 12:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-05-23 10:19**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-23 15:27**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-23 19:22**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-07-03 18:16**: feat: add warning signs and informational road signs
 - **2009-07-04 15:10**: refactor: restructure question data schema for faster loading
 - **2009-07-05 12:32**: docs: add instructions for Nepali driving license written exam
+- **2009-07-05 13:13**: perf: lazy load signal graphics and question assets
