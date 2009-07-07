@@ -1,4 +1,3 @@
-- **2009-05-23 19:22**: docs: update traffic signals catalog documentation
 - **2009-05-24 11:49**: fix: resolve layout shift during question transitions
 - **2009-05-24 21:24**: fix: typo in Nepali road safety regulations question
 - **2009-05-24 22:26**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-07-05 13:13**: perf: lazy load signal graphics and question assets
 - **2009-07-05 15:49**: feat: implement timer and score calculation for mock test
 - **2009-07-06 10:24**: feat: add result summary with passing threshold analysis
+- **2009-07-07 10:36**: perf: index question IDs for rapid lookup
