@@ -1,4 +1,3 @@
-- **2009-05-25 11:41**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-25 12:50**: docs: add instructions for Nepali driving license written exam
 - **2009-05-25 16:59**: fix: typo in Nepali road safety regulations question
 - **2009-05-26 10:30**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2009-07-07 19:28**: feat: add instant feedback and explanation on answer selection
 - **2009-07-08 13:03**: fix: resolve layout shift during question transitions
 - **2009-07-09 14:39**: refactor: optimize SVG rendering for road signs
+- **2009-07-09 18:54**: fix: update DOTM Nepal license syllabus questions
