@@ -1,4 +1,3 @@
-- **2009-05-24 22:26**: feat: add instant feedback and explanation on answer selection
 - **2009-05-25 11:41**: style: enhance traffic sign card layout and responsiveness
 - **2009-05-25 12:50**: docs: add instructions for Nepali driving license written exam
 - **2009-05-25 16:59**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2009-07-07 10:36**: perf: index question IDs for rapid lookup
 - **2009-07-07 19:28**: feat: add instant feedback and explanation on answer selection
 - **2009-07-08 13:03**: fix: resolve layout shift during question transitions
+- **2009-07-09 14:39**: refactor: optimize SVG rendering for road signs
