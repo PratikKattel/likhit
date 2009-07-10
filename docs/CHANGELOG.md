@@ -1,4 +1,3 @@
-- **2009-05-26 10:30**: fix: typo in Nepali road safety regulations question
 - **2009-05-26 12:00**: fix: resolve layout shift during question transitions
 - **2009-05-26 18:22**: feat: add regulatory traffic signs SVG graphics
 - **2009-05-27 13:24**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-07-09 18:54**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-10 10:55**: feat: add regulatory traffic signs SVG graphics
 - **2009-07-10 15:32**: feat: add result summary with passing threshold analysis
+- **2009-07-10 17:33**: style: improve dark/light mode and mobile UI responsiveness
