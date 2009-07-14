@@ -1,4 +1,3 @@
-- **2009-05-28 11:45**: test: verify question extraction script against exam PDF
 - **2009-05-28 19:27**: refactor: optimize SVG rendering for road signs
 - **2009-05-28 19:55**: refactor: restructure question data schema for faster loading
 - **2009-05-28 22:06**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-07-11 13:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-07-12 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2009-07-13 17:07**: feat: implement timer and score calculation for mock test
+- **2009-07-14 17:21**: docs: update README with setup instructions and feature list
