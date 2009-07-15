@@ -1,4 +1,3 @@
-- **2009-05-28 22:06**: docs: improve code comments and API documentation
 - **2009-05-29 18:58**: refactor: modularize traffic app logic and event listeners
 - **2009-05-29 19:38**: docs: update README with setup instructions and feature list
 - **2009-05-30 10:48**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-07-14 17:21**: docs: update README with setup instructions and feature list
 - **2009-07-14 19:11**: feat: add category-specific practice modes
 - **2009-07-14 21:43**: perf: index question IDs for rapid lookup
+- **2009-07-15 13:23**: chore: update questions database with recent DOTM updates
