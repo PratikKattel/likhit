@@ -1,4 +1,3 @@
-- **2009-05-29 19:38**: docs: update README with setup instructions and feature list
 - **2009-05-30 10:48**: fix: adjust passing score threshold according to new rules
 - **2009-05-30 11:08**: fix: resolve layout shift during question transitions
 - **2009-05-31 09:05**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-07-14 21:43**: perf: index question IDs for rapid lookup
 - **2009-07-15 13:23**: chore: update questions database with recent DOTM updates
 - **2009-07-15 14:06**: fix: prevent option re-selection after submitting answer
+- **2009-07-16 10:35**: feat: support multiple choice questions for motorcycle category
