@@ -1,4 +1,3 @@
-- **2009-05-30 10:48**: fix: adjust passing score threshold according to new rules
 - **2009-05-30 11:08**: fix: resolve layout shift during question transitions
 - **2009-05-31 09:05**: feat: add keyboard navigation shortcuts for question selection
 - **2009-05-31 18:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-07-15 13:23**: chore: update questions database with recent DOTM updates
 - **2009-07-15 14:06**: fix: prevent option re-selection after submitting answer
 - **2009-07-16 10:35**: feat: support multiple choice questions for motorcycle category
+- **2009-07-16 11:39**: chore: format code style and clean up redundant variables
