@@ -1,4 +1,3 @@
-- **2009-06-02 15:48**: docs: add instructions for Nepali driving license written exam
 - **2009-06-02 21:40**: style: polish typography and Nepali Unicode font rendering
 - **2009-06-03 17:41**: chore: organize assets and image directory structure
 - **2009-06-04 12:03**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-07-18 16:37**: feat: add category-specific practice modes
 - **2009-07-19 18:07**: docs: add instructions for Nepali driving license written exam
 - **2009-07-19 20:48**: fix: resolve layout shift during question transitions
+- **2009-07-20 14:44**: fix: update DOTM Nepal license syllabus questions
