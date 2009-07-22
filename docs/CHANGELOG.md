@@ -1,4 +1,3 @@
-- **2009-06-03 17:41**: chore: organize assets and image directory structure
 - **2009-06-04 12:03**: docs: update README with setup instructions and feature list
 - **2009-06-04 19:43**: feat: implement timer and score calculation for mock test
 - **2009-06-05 14:55**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2009-07-19 20:48**: fix: resolve layout shift during question transitions
 - **2009-07-20 14:44**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-21 12:27**: refactor: modularize traffic app logic and event listeners
+- **2009-07-22 19:16**: fix: resolve layout shift during question transitions
