@@ -1,4 +1,3 @@
-- **2009-06-06 17:30**: feat: add instant feedback and explanation on answer selection
 - **2009-06-06 21:14**: fix: update DOTM Nepal license syllabus questions
 - **2009-06-07 14:31**: feat: implement timer and score calculation for mock test
 - **2009-06-08 09:29**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-07-23 17:50**: feat: add category A and B traffic test questions
 - **2009-07-23 18:43**: docs: improve code comments and API documentation
 - **2009-07-24 15:05**: style: improve dark/light mode and mobile UI responsiveness
+- **2009-07-24 17:07**: chore: update project metadata and build configuration
