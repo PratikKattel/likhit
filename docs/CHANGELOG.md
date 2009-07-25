@@ -1,4 +1,3 @@
-- **2009-06-07 14:31**: feat: implement timer and score calculation for mock test
 - **2009-06-08 09:29**: feat: add category-specific practice modes
 - **2009-06-08 14:57**: feat: add regulatory traffic signs SVG graphics
 - **2009-06-09 10:15**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-07-24 15:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-07-24 17:07**: chore: update project metadata and build configuration
 - **2009-07-25 10:20**: style: polish typography and Nepali Unicode font rendering
+- **2009-07-25 19:27**: docs: update traffic signals catalog documentation
