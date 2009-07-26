@@ -1,4 +1,3 @@
-- **2009-06-08 14:57**: feat: add regulatory traffic signs SVG graphics
 - **2009-06-09 10:15**: docs: improve code comments and API documentation
 - **2009-06-09 21:44**: fix: typo in Nepali road safety regulations question
 - **2009-06-10 10:10**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-07-25 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2009-07-25 19:27**: docs: update traffic signals catalog documentation
 - **2009-07-25 21:14**: feat: implement timer and score calculation for mock test
+- **2009-07-26 15:30**: perf: optimize image caching for traffic sign assets
