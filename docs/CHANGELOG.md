@@ -1,4 +1,3 @@
-- **2009-06-09 10:15**: docs: improve code comments and API documentation
 - **2009-06-09 21:44**: fix: typo in Nepali road safety regulations question
 - **2009-06-10 10:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-06-10 12:20**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-07-25 19:27**: docs: update traffic signals catalog documentation
 - **2009-07-25 21:14**: feat: implement timer and score calculation for mock test
 - **2009-07-26 15:30**: perf: optimize image caching for traffic sign assets
+- **2009-07-27 13:18**: fix: prevent option re-selection after submitting answer
