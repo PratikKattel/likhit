@@ -1,4 +1,3 @@
-- **2009-06-10 12:20**: perf: optimize image caching for traffic sign assets
 - **2009-06-11 15:47**: perf: lazy load signal graphics and question assets
 - **2009-06-12 14:04**: docs: update README with setup instructions and feature list
 - **2009-06-12 17:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2009-07-27 13:18**: fix: prevent option re-selection after submitting answer
 - **2009-07-27 15:16**: fix: adjust passing score threshold according to new rules
 - **2009-07-28 19:49**: fix: update DOTM Nepal license syllabus questions
+- **2009-07-29 10:39**: feat: add category-specific practice modes
