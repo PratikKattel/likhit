@@ -1,4 +1,3 @@
-- **2009-06-12 17:56**: style: polish typography and Nepali Unicode font rendering
 - **2009-06-12 20:31**: fix: resolve layout shift during question transitions
 - **2009-06-13 20:54**: refactor: optimize SVG rendering for road signs
 - **2009-06-14 11:58**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2009-07-29 10:39**: feat: add category-specific practice modes
 - **2009-07-29 13:51**: feat: add search and filter by sign category
 - **2009-07-29 20:07**: feat: implement timer and score calculation for mock test
+- **2009-07-30 18:41**: fix: prevent option re-selection after submitting answer
