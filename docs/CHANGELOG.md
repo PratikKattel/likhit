@@ -1,4 +1,3 @@
-- **2009-06-14 11:58**: feat: support multiple choice questions for motorcycle category
 - **2009-06-14 13:31**: chore: update project metadata and build configuration
 - **2009-06-15 19:25**: perf: index question IDs for rapid lookup
 - **2009-06-16 21:11**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-07-30 18:41**: fix: prevent option re-selection after submitting answer
 - **2009-07-30 19:57**: feat: add result summary with passing threshold analysis
 - **2009-07-31 15:44**: refactor: optimize SVG rendering for road signs
+- **2009-07-31 19:21**: docs: add instructions for Nepali driving license written exam
