@@ -1,4 +1,3 @@
-- **2009-06-16 21:11**: perf: lazy load signal graphics and question assets
 - **2009-06-17 18:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-06-18 10:57**: feat: add search and filter by sign category
 - **2009-06-18 17:54**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-07-31 19:21**: docs: add instructions for Nepali driving license written exam
 - **2009-07-31 19:48**: chore: organize assets and image directory structure
 - **2009-08-01 16:59**: feat: add category-specific practice modes
+- **2009-08-01 22:07**: feat: add category-specific practice modes
