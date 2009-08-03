@@ -1,4 +1,3 @@
-- **2009-06-18 10:57**: feat: add search and filter by sign category
 - **2009-06-18 17:54**: chore: organize assets and image directory structure
 - **2009-06-19 20:37**: fix: prevent option re-selection after submitting answer
 - **2009-06-20 09:42**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-08-01 16:59**: feat: add category-specific practice modes
 - **2009-08-01 22:07**: feat: add category-specific practice modes
 - **2009-08-02 12:57**: chore: update questions database with recent DOTM updates
+- **2009-08-03 16:06**: feat: add warning signs and informational road signs
