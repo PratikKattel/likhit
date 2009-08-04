@@ -1,4 +1,3 @@
-- **2009-06-19 20:37**: fix: prevent option re-selection after submitting answer
 - **2009-06-20 09:42**: feat: add category A and B traffic test questions
 - **2009-06-21 20:58**: feat: add regulatory traffic signs SVG graphics
 - **2009-06-22 15:34**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-08-02 12:57**: chore: update questions database with recent DOTM updates
 - **2009-08-03 16:06**: feat: add warning signs and informational road signs
 - **2009-08-04 14:20**: refactor: restructure question data schema for faster loading
+- **2009-08-04 21:05**: perf: lazy load signal graphics and question assets
