@@ -1,4 +1,3 @@
-- **2009-06-21 20:58**: feat: add regulatory traffic signs SVG graphics
 - **2009-06-22 15:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-06-23 21:00**: feat: implement timer and score calculation for mock test
 - **2009-06-24 13:01**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2009-08-04 14:20**: refactor: restructure question data schema for faster loading
 - **2009-08-04 21:05**: perf: lazy load signal graphics and question assets
 - **2009-08-05 10:01**: fix: prevent option re-selection after submitting answer
+- **2009-08-05 14:40**: feat: add keyboard navigation shortcuts for question selection
