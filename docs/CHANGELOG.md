@@ -1,4 +1,3 @@
-- **2009-06-25 20:38**: feat: add instant feedback and explanation on answer selection
 - **2009-06-25 22:03**: fix: prevent option re-selection after submitting answer
 - **2009-06-26 09:31**: perf: lazy load signal graphics and question assets
 - **2009-06-26 16:39**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-08-05 17:07**: feat: support multiple choice questions for motorcycle category
 - **2009-08-06 14:15**: test: verify question extraction script against exam PDF
 - **2009-08-07 18:52**: fix: resolve layout shift during question transitions
+- **2009-08-08 09:33**: feat: support multiple choice questions for motorcycle category
