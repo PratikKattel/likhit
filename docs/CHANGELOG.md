@@ -1,4 +1,3 @@
-- **2009-06-28 10:01**: feat: add result summary with passing threshold analysis
 - **2009-06-28 18:07**: refactor: modularize traffic app logic and event listeners
 - **2009-06-29 15:14**: docs: update README with setup instructions and feature list
 - **2009-06-29 18:05**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-08-08 20:43**: feat: add keyboard navigation shortcuts for question selection
 - **2009-08-09 13:03**: test: verify question extraction script against exam PDF
 - **2009-08-09 20:04**: refactor: modularize traffic app logic and event listeners
+- **2009-08-10 09:10**: feat: add category A and B traffic test questions
