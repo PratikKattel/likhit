@@ -1,4 +1,3 @@
-- **2009-06-29 15:14**: docs: update README with setup instructions and feature list
 - **2009-06-29 18:05**: feat: add warning signs and informational road signs
 - **2009-06-30 11:37**: perf: index question IDs for rapid lookup
 - **2009-07-01 12:49**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-08-09 20:04**: refactor: modularize traffic app logic and event listeners
 - **2009-08-10 09:10**: feat: add category A and B traffic test questions
 - **2009-08-11 15:12**: docs: improve code comments and API documentation
+- **2009-08-12 12:34**: chore: update project metadata and build configuration
