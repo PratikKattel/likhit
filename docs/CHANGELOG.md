@@ -1,4 +1,3 @@
-- **2009-07-01 16:50**: feat: implement timer and score calculation for mock test
 - **2009-07-02 15:28**: style: polish typography and Nepali Unicode font rendering
 - **2009-07-03 10:47**: docs: improve code comments and API documentation
 - **2009-07-03 16:11**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-08-12 14:32**: refactor: modularize traffic app logic and event listeners
 - **2009-08-13 14:02**: refactor: modularize traffic app logic and event listeners
 - **2009-08-13 14:56**: fix: adjust passing score threshold according to new rules
+- **2009-08-13 22:22**: test: verify question extraction script against exam PDF
