@@ -1,4 +1,3 @@
-- **2009-07-05 13:13**: perf: lazy load signal graphics and question assets
 - **2009-07-05 15:49**: feat: implement timer and score calculation for mock test
 - **2009-07-06 10:24**: feat: add result summary with passing threshold analysis
 - **2009-07-07 10:36**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2009-08-15 17:21**: perf: optimize image caching for traffic sign assets
 - **2009-08-15 21:32**: chore: update questions database with recent DOTM updates
 - **2009-08-16 11:07**: feat: implement timer and score calculation for mock test
+- **2009-08-16 16:28**: fix: resolve layout shift during question transitions
