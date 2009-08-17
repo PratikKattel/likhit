@@ -1,4 +1,3 @@
-- **2009-07-07 10:36**: perf: index question IDs for rapid lookup
 - **2009-07-07 19:28**: feat: add instant feedback and explanation on answer selection
 - **2009-07-08 13:03**: fix: resolve layout shift during question transitions
 - **2009-07-09 14:39**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-08-16 16:28**: fix: resolve layout shift during question transitions
 - **2009-08-16 17:43**: refactor: modularize traffic app logic and event listeners
 - **2009-08-17 13:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2009-08-17 19:42**: style: improve dark/light mode and mobile UI responsiveness
