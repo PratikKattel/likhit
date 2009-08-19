@@ -1,4 +1,3 @@
-- **2009-07-09 14:39**: refactor: optimize SVG rendering for road signs
 - **2009-07-09 18:54**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-10 10:55**: feat: add regulatory traffic signs SVG graphics
 - **2009-07-10 15:32**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-08-17 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-08-18 17:26**: feat: support multiple choice questions for motorcycle category
 - **2009-08-18 18:23**: perf: optimize image caching for traffic sign assets
+- **2009-08-19 13:45**: style: improve dark/light mode and mobile UI responsiveness
