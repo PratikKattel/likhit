@@ -1,4 +1,3 @@
-- **2009-07-10 10:55**: feat: add regulatory traffic signs SVG graphics
 - **2009-07-10 15:32**: feat: add result summary with passing threshold analysis
 - **2009-07-10 17:33**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-07-11 13:50**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-08-18 18:23**: perf: optimize image caching for traffic sign assets
 - **2009-08-19 13:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-08-19 19:54**: docs: add instructions for Nepali driving license written exam
+- **2009-08-20 13:37**: feat: add keyboard navigation shortcuts for question selection
