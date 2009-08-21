@@ -1,4 +1,3 @@
-- **2009-07-10 17:33**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-07-11 13:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-07-12 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2009-07-13 17:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-08-19 19:54**: docs: add instructions for Nepali driving license written exam
 - **2009-08-20 13:37**: feat: add keyboard navigation shortcuts for question selection
 - **2009-08-20 19:58**: perf: lazy load signal graphics and question assets
+- **2009-08-21 20:33**: fix: resolve layout shift during question transitions
