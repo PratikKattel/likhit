@@ -1,4 +1,3 @@
-- **2009-07-12 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2009-07-13 17:07**: feat: implement timer and score calculation for mock test
 - **2009-07-14 17:21**: docs: update README with setup instructions and feature list
 - **2009-07-14 19:11**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-08-20 19:58**: perf: lazy load signal graphics and question assets
 - **2009-08-21 20:33**: fix: resolve layout shift during question transitions
 - **2009-08-22 16:55**: test: verify question extraction script against exam PDF
+- **2009-08-23 15:31**: perf: lazy load signal graphics and question assets
