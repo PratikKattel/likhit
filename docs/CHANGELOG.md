@@ -1,4 +1,3 @@
-- **2009-07-14 17:21**: docs: update README with setup instructions and feature list
 - **2009-07-14 19:11**: feat: add category-specific practice modes
 - **2009-07-14 21:43**: perf: index question IDs for rapid lookup
 - **2009-07-15 13:23**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2009-08-22 16:55**: test: verify question extraction script against exam PDF
 - **2009-08-23 15:31**: perf: lazy load signal graphics and question assets
 - **2009-08-24 17:06**: feat: add keyboard navigation shortcuts for question selection
+- **2009-08-25 09:37**: style: improve dark/light mode and mobile UI responsiveness
