@@ -1,4 +1,3 @@
-- **2009-07-15 14:06**: fix: prevent option re-selection after submitting answer
 - **2009-07-16 10:35**: feat: support multiple choice questions for motorcycle category
 - **2009-07-16 11:39**: chore: format code style and clean up redundant variables
 - **2009-07-17 16:09**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2009-08-25 17:09**: feat: add regulatory traffic signs SVG graphics
 - **2009-08-26 09:20**: feat: add instant feedback and explanation on answer selection
 - **2009-08-27 13:51**: docs: update README with setup instructions and feature list
+- **2009-08-27 14:46**: style: enhance traffic sign card layout and responsiveness
