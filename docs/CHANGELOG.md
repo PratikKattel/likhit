@@ -1,4 +1,3 @@
-- **2009-07-16 11:39**: chore: format code style and clean up redundant variables
 - **2009-07-17 16:09**: style: enhance traffic sign card layout and responsiveness
 - **2009-07-17 17:02**: feat: add keyboard navigation shortcuts for question selection
 - **2009-07-18 12:59**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-08-27 13:51**: docs: update README with setup instructions and feature list
 - **2009-08-27 14:46**: style: enhance traffic sign card layout and responsiveness
 - **2009-08-27 17:00**: refactor: restructure question data schema for faster loading
+- **2009-08-27 20:23**: feat: support multiple choice questions for motorcycle category
