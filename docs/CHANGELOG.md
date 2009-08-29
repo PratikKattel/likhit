@@ -1,4 +1,3 @@
-- **2009-07-18 12:59**: refactor: optimize SVG rendering for road signs
 - **2009-07-18 16:37**: feat: add category-specific practice modes
 - **2009-07-19 18:07**: docs: add instructions for Nepali driving license written exam
 - **2009-07-19 20:48**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2009-08-27 20:23**: feat: support multiple choice questions for motorcycle category
 - **2009-08-28 14:00**: docs: update README with setup instructions and feature list
 - **2009-08-29 17:17**: perf: index question IDs for rapid lookup
+- **2009-08-29 18:07**: docs: update README with setup instructions and feature list
