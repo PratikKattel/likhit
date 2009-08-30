@@ -1,4 +1,3 @@
-- **2009-07-19 18:07**: docs: add instructions for Nepali driving license written exam
 - **2009-07-19 20:48**: fix: resolve layout shift during question transitions
 - **2009-07-20 14:44**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-21 12:27**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2009-08-29 17:17**: perf: index question IDs for rapid lookup
 - **2009-08-29 18:07**: docs: update README with setup instructions and feature list
 - **2009-08-29 22:01**: fix: correct color specifications for mandatory traffic signs
+- **2009-08-30 09:57**: docs: improve code comments and API documentation
