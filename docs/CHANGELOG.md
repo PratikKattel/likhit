@@ -1,4 +1,3 @@
-- **2009-07-20 14:44**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-21 12:27**: refactor: modularize traffic app logic and event listeners
 - **2009-07-22 19:16**: fix: resolve layout shift during question transitions
 - **2009-07-23 12:33**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-08-29 22:01**: fix: correct color specifications for mandatory traffic signs
 - **2009-08-30 09:57**: docs: improve code comments and API documentation
 - **2009-08-31 16:08**: fix: resolve layout shift during question transitions
+- **2009-08-31 17:15**: feat: add warning signs and informational road signs
