@@ -1,4 +1,3 @@
-- **2009-07-24 15:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-07-24 17:07**: chore: update project metadata and build configuration
 - **2009-07-25 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2009-07-25 19:27**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-09-02 09:45**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-02 17:45**: fix: adjust passing score threshold according to new rules
 - **2009-09-02 20:35**: feat: add category-specific practice modes
+- **2009-09-03 15:09**: refactor: clean up unused CSS classes and optimize stylesheet
