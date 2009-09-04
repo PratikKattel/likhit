@@ -1,4 +1,3 @@
-- **2009-07-25 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2009-07-25 19:27**: docs: update traffic signals catalog documentation
 - **2009-07-25 21:14**: feat: implement timer and score calculation for mock test
 - **2009-07-26 15:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-09-02 20:35**: feat: add category-specific practice modes
 - **2009-09-03 15:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-09-03 19:42**: fix: resolve layout shift during question transitions
+- **2009-09-04 10:47**: style: polish typography and Nepali Unicode font rendering
