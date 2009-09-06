@@ -1,4 +1,3 @@
-- **2009-07-25 21:14**: feat: implement timer and score calculation for mock test
 - **2009-07-26 15:30**: perf: optimize image caching for traffic sign assets
 - **2009-07-27 13:18**: fix: prevent option re-selection after submitting answer
 - **2009-07-27 15:16**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-09-03 19:42**: fix: resolve layout shift during question transitions
 - **2009-09-04 10:47**: style: polish typography and Nepali Unicode font rendering
 - **2009-09-05 20:12**: perf: lazy load signal graphics and question assets
+- **2009-09-06 09:31**: perf: index question IDs for rapid lookup
