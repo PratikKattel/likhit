@@ -1,4 +1,3 @@
-- **2009-07-28 19:49**: fix: update DOTM Nepal license syllabus questions
 - **2009-07-29 10:39**: feat: add category-specific practice modes
 - **2009-07-29 13:51**: feat: add search and filter by sign category
 - **2009-07-29 20:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-09-06 12:34**: test: verify question extraction script against exam PDF
 - **2009-09-06 13:30**: style: polish typography and Nepali Unicode font rendering
 - **2009-09-07 20:50**: style: polish typography and Nepali Unicode font rendering
+- **2009-09-08 17:31**: fix: prevent option re-selection after submitting answer
