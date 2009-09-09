@@ -1,4 +1,3 @@
-- **2009-07-29 20:07**: feat: implement timer and score calculation for mock test
 - **2009-07-30 18:41**: fix: prevent option re-selection after submitting answer
 - **2009-07-30 19:57**: feat: add result summary with passing threshold analysis
 - **2009-07-31 15:44**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2009-09-08 17:31**: fix: prevent option re-selection after submitting answer
 - **2009-09-08 22:17**: feat: add search and filter by sign category
 - **2009-09-09 11:29**: feat: add regulatory traffic signs SVG graphics
+- **2009-09-09 14:08**: fix: resolve layout shift during question transitions
