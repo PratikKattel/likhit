@@ -1,4 +1,3 @@
-- **2009-07-31 15:44**: refactor: optimize SVG rendering for road signs
 - **2009-07-31 19:21**: docs: add instructions for Nepali driving license written exam
 - **2009-07-31 19:48**: chore: organize assets and image directory structure
 - **2009-08-01 16:59**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2009-09-09 14:08**: fix: resolve layout shift during question transitions
 - **2009-09-09 17:00**: fix: prevent option re-selection after submitting answer
 - **2009-09-09 21:14**: feat: add regulatory traffic signs SVG graphics
+- **2009-09-10 20:01**: feat: add warning signs and informational road signs
