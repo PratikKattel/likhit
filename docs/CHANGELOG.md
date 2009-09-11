@@ -1,4 +1,3 @@
-- **2009-08-01 16:59**: feat: add category-specific practice modes
 - **2009-08-01 22:07**: feat: add category-specific practice modes
 - **2009-08-02 12:57**: chore: update questions database with recent DOTM updates
 - **2009-08-03 16:06**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-09-10 20:01**: feat: add warning signs and informational road signs
 - **2009-09-11 12:40**: feat: add search and filter by sign category
 - **2009-09-11 12:52**: docs: add instructions for Nepali driving license written exam
+- **2009-09-11 13:28**: fix: correct color specifications for mandatory traffic signs
