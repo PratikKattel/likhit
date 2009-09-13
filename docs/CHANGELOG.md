@@ -1,4 +1,3 @@
-- **2009-08-02 12:57**: chore: update questions database with recent DOTM updates
 - **2009-08-03 16:06**: feat: add warning signs and informational road signs
 - **2009-08-04 14:20**: refactor: restructure question data schema for faster loading
 - **2009-08-04 21:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-09-11 12:52**: docs: add instructions for Nepali driving license written exam
 - **2009-09-11 13:28**: fix: correct color specifications for mandatory traffic signs
 - **2009-09-12 12:08**: feat: support multiple choice questions for motorcycle category
+- **2009-09-13 09:48**: chore: update questions database with recent DOTM updates
