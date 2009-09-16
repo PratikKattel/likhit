@@ -1,4 +1,3 @@
-- **2009-08-05 10:01**: fix: prevent option re-selection after submitting answer
 - **2009-08-05 14:40**: feat: add keyboard navigation shortcuts for question selection
 - **2009-08-05 17:07**: feat: support multiple choice questions for motorcycle category
 - **2009-08-06 14:15**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-09-13 14:50**: docs: update README with setup instructions and feature list
 - **2009-09-14 10:52**: refactor: restructure question data schema for faster loading
 - **2009-09-15 22:02**: feat: add keyboard navigation shortcuts for question selection
+- **2009-09-16 09:50**: feat: add instant feedback and explanation on answer selection
