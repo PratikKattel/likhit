@@ -1,4 +1,3 @@
-- **2009-08-05 17:07**: feat: support multiple choice questions for motorcycle category
 - **2009-08-06 14:15**: test: verify question extraction script against exam PDF
 - **2009-08-07 18:52**: fix: resolve layout shift during question transitions
 - **2009-08-08 09:33**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2009-09-15 22:02**: feat: add keyboard navigation shortcuts for question selection
 - **2009-09-16 09:50**: feat: add instant feedback and explanation on answer selection
 - **2009-09-17 14:36**: fix: adjust passing score threshold according to new rules
+- **2009-09-17 18:22**: feat: add result summary with passing threshold analysis
