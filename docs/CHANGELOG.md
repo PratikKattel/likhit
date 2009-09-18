@@ -1,4 +1,3 @@
-- **2009-08-07 18:52**: fix: resolve layout shift during question transitions
 - **2009-08-08 09:33**: feat: support multiple choice questions for motorcycle category
 - **2009-08-08 10:53**: fix: prevent option re-selection after submitting answer
 - **2009-08-08 18:28**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-09-17 14:36**: fix: adjust passing score threshold according to new rules
 - **2009-09-17 18:22**: feat: add result summary with passing threshold analysis
 - **2009-09-17 18:53**: test: verify question extraction script against exam PDF
+- **2009-09-18 18:28**: docs: update README with setup instructions and feature list
