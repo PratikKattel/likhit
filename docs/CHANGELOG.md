@@ -1,4 +1,3 @@
-- **2009-08-08 10:53**: fix: prevent option re-selection after submitting answer
 - **2009-08-08 18:28**: feat: implement timer and score calculation for mock test
 - **2009-08-08 20:43**: feat: add keyboard navigation shortcuts for question selection
 - **2009-08-09 13:03**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-09-17 18:53**: test: verify question extraction script against exam PDF
 - **2009-09-18 18:28**: docs: update README with setup instructions and feature list
 - **2009-09-19 22:00**: fix: typo in Nepali road safety regulations question
+- **2009-09-20 16:58**: style: improve dark/light mode and mobile UI responsiveness
