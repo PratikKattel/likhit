@@ -1,4 +1,3 @@
-- **2009-08-09 13:03**: test: verify question extraction script against exam PDF
 - **2009-08-09 20:04**: refactor: modularize traffic app logic and event listeners
 - **2009-08-10 09:10**: feat: add category A and B traffic test questions
 - **2009-08-11 15:12**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2009-09-20 16:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-09-21 14:28**: feat: add instant feedback and explanation on answer selection
 - **2009-09-21 21:08**: chore: format code style and clean up redundant variables
+- **2009-09-22 12:48**: style: enhance traffic sign card layout and responsiveness
