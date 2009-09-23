@@ -1,4 +1,3 @@
-- **2009-08-11 15:12**: docs: improve code comments and API documentation
 - **2009-08-12 12:34**: chore: update project metadata and build configuration
 - **2009-08-12 14:32**: refactor: modularize traffic app logic and event listeners
 - **2009-08-13 14:02**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2009-09-22 12:48**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-22 20:28**: feat: add category A and B traffic test questions
 - **2009-09-22 22:00**: chore: format code style and clean up redundant variables
+- **2009-09-23 12:43**: chore: organize assets and image directory structure
