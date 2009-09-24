@@ -1,4 +1,3 @@
-- **2009-08-12 14:32**: refactor: modularize traffic app logic and event listeners
 - **2009-08-13 14:02**: refactor: modularize traffic app logic and event listeners
 - **2009-08-13 14:56**: fix: adjust passing score threshold according to new rules
 - **2009-08-13 22:22**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-09-22 22:00**: chore: format code style and clean up redundant variables
 - **2009-09-23 12:43**: chore: organize assets and image directory structure
 - **2009-09-23 16:02**: chore: organize assets and image directory structure
+- **2009-09-24 13:02**: perf: index question IDs for rapid lookup
