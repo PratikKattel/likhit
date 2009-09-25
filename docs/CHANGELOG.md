@@ -1,4 +1,3 @@
-- **2009-08-13 14:56**: fix: adjust passing score threshold according to new rules
 - **2009-08-13 22:22**: test: verify question extraction script against exam PDF
 - **2009-08-14 09:43**: style: enhance traffic sign card layout and responsiveness
 - **2009-08-14 13:55**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-09-23 16:02**: chore: organize assets and image directory structure
 - **2009-09-24 13:02**: perf: index question IDs for rapid lookup
 - **2009-09-25 14:39**: feat: support multiple choice questions for motorcycle category
+- **2009-09-25 18:50**: perf: lazy load signal graphics and question assets
