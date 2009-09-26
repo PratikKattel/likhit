@@ -1,4 +1,3 @@
-- **2009-08-14 09:43**: style: enhance traffic sign card layout and responsiveness
 - **2009-08-14 13:55**: feat: add result summary with passing threshold analysis
 - **2009-08-15 13:37**: feat: add instant feedback and explanation on answer selection
 - **2009-08-15 17:21**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-09-25 14:39**: feat: support multiple choice questions for motorcycle category
 - **2009-09-25 18:50**: perf: lazy load signal graphics and question assets
 - **2009-09-26 17:57**: style: enhance traffic sign card layout and responsiveness
+- **2009-09-26 21:21**: feat: add category A and B traffic test questions
