@@ -1,4 +1,3 @@
-- **2009-08-15 13:37**: feat: add instant feedback and explanation on answer selection
 - **2009-08-15 17:21**: perf: optimize image caching for traffic sign assets
 - **2009-08-15 21:32**: chore: update questions database with recent DOTM updates
 - **2009-08-16 11:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2009-09-26 17:57**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-26 21:21**: feat: add category A and B traffic test questions
 - **2009-09-27 09:29**: chore: format code style and clean up redundant variables
+- **2009-09-28 20:22**: feat: add regulatory traffic signs SVG graphics
