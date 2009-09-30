@@ -1,4 +1,3 @@
-- **2009-08-16 11:07**: feat: implement timer and score calculation for mock test
 - **2009-08-16 16:28**: fix: resolve layout shift during question transitions
 - **2009-08-16 17:43**: refactor: modularize traffic app logic and event listeners
 - **2009-08-17 13:52**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-09-28 20:22**: feat: add regulatory traffic signs SVG graphics
 - **2009-09-29 16:35**: chore: update project metadata and build configuration
 - **2009-09-29 21:07**: fix: typo in Nepali road safety regulations question
+- **2009-09-30 19:53**: docs: add instructions for Nepali driving license written exam
