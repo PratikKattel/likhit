@@ -1,4 +1,3 @@
-- **2009-08-16 17:43**: refactor: modularize traffic app logic and event listeners
 - **2009-08-17 13:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-08-17 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-08-18 17:26**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2009-09-29 21:07**: fix: typo in Nepali road safety regulations question
 - **2009-09-30 19:53**: docs: add instructions for Nepali driving license written exam
 - **2009-10-01 17:18**: feat: add instant feedback and explanation on answer selection
+- **2009-10-01 20:08**: fix: correct color specifications for mandatory traffic signs
