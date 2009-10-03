@@ -1,4 +1,3 @@
-- **2009-08-18 18:23**: perf: optimize image caching for traffic sign assets
 - **2009-08-19 13:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-08-19 19:54**: docs: add instructions for Nepali driving license written exam
 - **2009-08-20 13:37**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2009-10-02 09:20**: fix: prevent option re-selection after submitting answer
 - **2009-10-02 12:11**: refactor: modularize traffic app logic and event listeners
 - **2009-10-02 19:18**: perf: lazy load signal graphics and question assets
+- **2009-10-03 10:25**: perf: lazy load signal graphics and question assets
