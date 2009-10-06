@@ -1,4 +1,3 @@
-- **2009-08-20 19:58**: perf: lazy load signal graphics and question assets
 - **2009-08-21 20:33**: fix: resolve layout shift during question transitions
 - **2009-08-22 16:55**: test: verify question extraction script against exam PDF
 - **2009-08-23 15:31**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-10-03 11:17**: feat: add warning signs and informational road signs
 - **2009-10-04 15:10**: feat: add warning signs and informational road signs
 - **2009-10-05 09:26**: test: verify question extraction script against exam PDF
+- **2009-10-06 10:27**: fix: typo in Nepali road safety regulations question
