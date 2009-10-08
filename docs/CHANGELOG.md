@@ -1,4 +1,3 @@
-- **2009-08-24 17:06**: feat: add keyboard navigation shortcuts for question selection
 - **2009-08-25 09:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-08-25 17:09**: feat: add regulatory traffic signs SVG graphics
 - **2009-08-26 09:20**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-10-06 20:27**: feat: add category A and B traffic test questions
 - **2009-10-07 12:24**: style: enhance traffic sign card layout and responsiveness
 - **2009-10-08 15:46**: perf: optimize image caching for traffic sign assets
+- **2009-10-08 21:44**: fix: resolve layout shift during question transitions
