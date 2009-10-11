@@ -1,4 +1,3 @@
-- **2009-08-26 09:20**: feat: add instant feedback and explanation on answer selection
 - **2009-08-27 13:51**: docs: update README with setup instructions and feature list
 - **2009-08-27 14:46**: style: enhance traffic sign card layout and responsiveness
 - **2009-08-27 17:00**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2009-10-08 21:44**: fix: resolve layout shift during question transitions
 - **2009-10-09 12:29**: docs: add instructions for Nepali driving license written exam
 - **2009-10-10 20:31**: fix: correct color specifications for mandatory traffic signs
+- **2009-10-11 10:46**: refactor: modularize traffic app logic and event listeners
