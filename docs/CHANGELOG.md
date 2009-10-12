@@ -1,4 +1,3 @@
-- **2009-08-27 20:23**: feat: support multiple choice questions for motorcycle category
 - **2009-08-28 14:00**: docs: update README with setup instructions and feature list
 - **2009-08-29 17:17**: perf: index question IDs for rapid lookup
 - **2009-08-29 18:07**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-10-11 15:49**: feat: add instant feedback and explanation on answer selection
 - **2009-10-11 17:19**: docs: improve code comments and API documentation
 - **2009-10-11 18:24**: perf: optimize image caching for traffic sign assets
+- **2009-10-12 13:00**: docs: update README with setup instructions and feature list
