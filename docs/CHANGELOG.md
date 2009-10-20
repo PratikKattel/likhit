@@ -1,4 +1,3 @@
-- **2009-09-02 17:45**: fix: adjust passing score threshold according to new rules
 - **2009-09-02 20:35**: feat: add category-specific practice modes
 - **2009-09-03 15:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-09-03 19:42**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2009-10-18 09:35**: perf: optimize image caching for traffic sign assets
 - **2009-10-19 09:43**: feat: add category A and B traffic test questions
 - **2009-10-20 13:20**: docs: improve code comments and API documentation
+- **2009-10-20 17:55**: feat: support multiple choice questions for motorcycle category
