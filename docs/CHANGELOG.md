@@ -1,4 +1,3 @@
-- **2009-09-04 10:47**: style: polish typography and Nepali Unicode font rendering
 - **2009-09-05 20:12**: perf: lazy load signal graphics and question assets
 - **2009-09-06 09:31**: perf: index question IDs for rapid lookup
 - **2009-09-06 12:34**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-10-20 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2009-10-21 09:31**: docs: add instructions for Nepali driving license written exam
 - **2009-10-21 15:59**: feat: add search and filter by sign category
+- **2009-10-21 16:19**: feat: add result summary with passing threshold analysis
