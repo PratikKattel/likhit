@@ -1,4 +1,3 @@
-- **2009-09-06 12:34**: test: verify question extraction script against exam PDF
 - **2009-09-06 13:30**: style: polish typography and Nepali Unicode font rendering
 - **2009-09-07 20:50**: style: polish typography and Nepali Unicode font rendering
 - **2009-09-08 17:31**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-10-21 16:19**: feat: add result summary with passing threshold analysis
 - **2009-10-22 10:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-10-23 13:07**: feat: support multiple choice questions for motorcycle category
+- **2009-10-24 09:03**: refactor: optimize SVG rendering for road signs
