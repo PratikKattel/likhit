@@ -1,4 +1,3 @@
-- **2009-09-08 22:17**: feat: add search and filter by sign category
 - **2009-09-09 11:29**: feat: add regulatory traffic signs SVG graphics
 - **2009-09-09 14:08**: fix: resolve layout shift during question transitions
 - **2009-09-09 17:00**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-10-24 12:00**: chore: format code style and clean up redundant variables
 - **2009-10-24 14:32**: fix: update DOTM Nepal license syllabus questions
 - **2009-10-25 09:41**: refactor: restructure question data schema for faster loading
+- **2009-10-26 10:26**: chore: organize assets and image directory structure
