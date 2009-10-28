@@ -1,4 +1,3 @@
-- **2009-09-10 20:01**: feat: add warning signs and informational road signs
 - **2009-09-11 12:40**: feat: add search and filter by sign category
 - **2009-09-11 12:52**: docs: add instructions for Nepali driving license written exam
 - **2009-09-11 13:28**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2009-10-27 20:42**: fix: prevent option re-selection after submitting answer
 - **2009-10-28 12:09**: feat: add keyboard navigation shortcuts for question selection
 - **2009-10-28 14:54**: fix: resolve layout shift during question transitions
+- **2009-10-28 22:05**: feat: add category A and B traffic test questions
