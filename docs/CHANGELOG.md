@@ -1,4 +1,3 @@
-- **2009-09-11 13:28**: fix: correct color specifications for mandatory traffic signs
 - **2009-09-12 12:08**: feat: support multiple choice questions for motorcycle category
 - **2009-09-13 09:48**: chore: update questions database with recent DOTM updates
 - **2009-09-13 14:50**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-10-28 22:05**: feat: add category A and B traffic test questions
 - **2009-10-29 13:21**: docs: add instructions for Nepali driving license written exam
 - **2009-10-29 17:11**: feat: add category A and B traffic test questions
+- **2009-10-29 19:38**: docs: add instructions for Nepali driving license written exam
