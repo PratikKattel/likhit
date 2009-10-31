@@ -1,4 +1,3 @@
-- **2009-09-13 14:50**: docs: update README with setup instructions and feature list
 - **2009-09-14 10:52**: refactor: restructure question data schema for faster loading
 - **2009-09-15 22:02**: feat: add keyboard navigation shortcuts for question selection
 - **2009-09-16 09:50**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-10-29 19:38**: docs: add instructions for Nepali driving license written exam
 - **2009-10-30 14:48**: feat: support multiple choice questions for motorcycle category
 - **2009-10-31 16:11**: perf: optimize image caching for traffic sign assets
+- **2009-10-31 17:33**: style: enhance traffic sign card layout and responsiveness
