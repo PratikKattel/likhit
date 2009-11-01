@@ -1,4 +1,3 @@
-- **2009-09-14 10:52**: refactor: restructure question data schema for faster loading
 - **2009-09-15 22:02**: feat: add keyboard navigation shortcuts for question selection
 - **2009-09-16 09:50**: feat: add instant feedback and explanation on answer selection
 - **2009-09-17 14:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-10-30 14:48**: feat: support multiple choice questions for motorcycle category
 - **2009-10-31 16:11**: perf: optimize image caching for traffic sign assets
 - **2009-10-31 17:33**: style: enhance traffic sign card layout and responsiveness
+- **2009-11-01 11:04**: feat: add instant feedback and explanation on answer selection
