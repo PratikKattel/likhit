@@ -1,4 +1,3 @@
-- **2009-09-17 14:36**: fix: adjust passing score threshold according to new rules
 - **2009-09-17 18:22**: feat: add result summary with passing threshold analysis
 - **2009-09-17 18:53**: test: verify question extraction script against exam PDF
 - **2009-09-18 18:28**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2009-11-01 11:04**: feat: add instant feedback and explanation on answer selection
 - **2009-11-02 09:36**: fix: adjust passing score threshold according to new rules
 - **2009-11-02 11:33**: feat: support multiple choice questions for motorcycle category
+- **2009-11-02 16:10**: feat: add warning signs and informational road signs
