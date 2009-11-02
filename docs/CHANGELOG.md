@@ -1,4 +1,3 @@
-- **2009-09-16 09:50**: feat: add instant feedback and explanation on answer selection
 - **2009-09-17 14:36**: fix: adjust passing score threshold according to new rules
 - **2009-09-17 18:22**: feat: add result summary with passing threshold analysis
 - **2009-09-17 18:53**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-10-31 17:33**: style: enhance traffic sign card layout and responsiveness
 - **2009-11-01 11:04**: feat: add instant feedback and explanation on answer selection
 - **2009-11-02 09:36**: fix: adjust passing score threshold according to new rules
+- **2009-11-02 11:33**: feat: support multiple choice questions for motorcycle category
