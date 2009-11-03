@@ -1,4 +1,3 @@
-- **2009-09-17 18:53**: test: verify question extraction script against exam PDF
 - **2009-09-18 18:28**: docs: update README with setup instructions and feature list
 - **2009-09-19 22:00**: fix: typo in Nepali road safety regulations question
 - **2009-09-20 16:58**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-11-02 11:33**: feat: support multiple choice questions for motorcycle category
 - **2009-11-02 16:10**: feat: add warning signs and informational road signs
 - **2009-11-03 10:03**: feat: add regulatory traffic signs SVG graphics
+- **2009-11-03 17:18**: refactor: clean up unused CSS classes and optimize stylesheet
