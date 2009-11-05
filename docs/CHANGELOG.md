@@ -1,4 +1,3 @@
-- **2009-09-22 12:48**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-22 20:28**: feat: add category A and B traffic test questions
 - **2009-09-22 22:00**: chore: format code style and clean up redundant variables
 - **2009-09-23 12:43**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2009-11-04 20:00**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-05 09:10**: chore: format code style and clean up redundant variables
 - **2009-11-05 18:12**: fix: update DOTM Nepal license syllabus questions
+- **2009-11-05 18:49**: chore: format code style and clean up redundant variables
