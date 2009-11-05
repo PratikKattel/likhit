@@ -1,4 +1,3 @@
-- **2009-09-21 14:28**: feat: add instant feedback and explanation on answer selection
 - **2009-09-21 21:08**: chore: format code style and clean up redundant variables
 - **2009-09-22 12:48**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-22 20:28**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-11-04 11:22**: perf: optimize image caching for traffic sign assets
 - **2009-11-04 12:53**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-04 20:00**: feat: add keyboard navigation shortcuts for question selection
+- **2009-11-05 09:10**: chore: format code style and clean up redundant variables
