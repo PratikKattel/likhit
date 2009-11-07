@@ -1,4 +1,3 @@
-- **2009-09-22 22:00**: chore: format code style and clean up redundant variables
 - **2009-09-23 12:43**: chore: organize assets and image directory structure
 - **2009-09-23 16:02**: chore: organize assets and image directory structure
 - **2009-09-24 13:02**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2009-11-05 18:12**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-05 18:49**: chore: format code style and clean up redundant variables
 - **2009-11-06 21:53**: feat: add regulatory traffic signs SVG graphics
+- **2009-11-07 21:29**: perf: lazy load signal graphics and question assets
