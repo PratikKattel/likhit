@@ -1,4 +1,3 @@
-- **2009-09-23 16:02**: chore: organize assets and image directory structure
 - **2009-09-24 13:02**: perf: index question IDs for rapid lookup
 - **2009-09-25 14:39**: feat: support multiple choice questions for motorcycle category
 - **2009-09-25 18:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-11-06 21:53**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-07 21:29**: perf: lazy load signal graphics and question assets
 - **2009-11-07 21:58**: docs: update traffic signals catalog documentation
+- **2009-11-08 10:48**: fix: prevent option re-selection after submitting answer
