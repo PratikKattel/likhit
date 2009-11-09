@@ -1,4 +1,3 @@
-- **2009-09-25 18:50**: perf: lazy load signal graphics and question assets
 - **2009-09-26 17:57**: style: enhance traffic sign card layout and responsiveness
 - **2009-09-26 21:21**: feat: add category A and B traffic test questions
 - **2009-09-27 09:29**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-11-08 10:48**: fix: prevent option re-selection after submitting answer
 - **2009-11-09 15:12**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-09 16:33**: feat: add result summary with passing threshold analysis
+- **2009-11-09 20:43**: fix: adjust passing score threshold according to new rules
