@@ -1,4 +1,3 @@
-- **2009-09-27 09:29**: chore: format code style and clean up redundant variables
 - **2009-09-28 20:22**: feat: add regulatory traffic signs SVG graphics
 - **2009-09-29 16:35**: chore: update project metadata and build configuration
 - **2009-09-29 21:07**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2009-11-09 20:43**: fix: adjust passing score threshold according to new rules
 - **2009-11-10 12:56**: fix: prevent option re-selection after submitting answer
 - **2009-11-10 17:39**: feat: add category A and B traffic test questions
+- **2009-11-11 21:06**: feat: support multiple choice questions for motorcycle category
