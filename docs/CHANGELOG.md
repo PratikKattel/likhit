@@ -1,4 +1,3 @@
-- **2009-09-28 20:22**: feat: add regulatory traffic signs SVG graphics
 - **2009-09-29 16:35**: chore: update project metadata and build configuration
 - **2009-09-29 21:07**: fix: typo in Nepali road safety regulations question
 - **2009-09-30 19:53**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-11-10 12:56**: fix: prevent option re-selection after submitting answer
 - **2009-11-10 17:39**: feat: add category A and B traffic test questions
 - **2009-11-11 21:06**: feat: support multiple choice questions for motorcycle category
+- **2009-11-12 20:27**: fix: update DOTM Nepal license syllabus questions
