@@ -1,4 +1,3 @@
-- **2009-09-29 16:35**: chore: update project metadata and build configuration
 - **2009-09-29 21:07**: fix: typo in Nepali road safety regulations question
 - **2009-09-30 19:53**: docs: add instructions for Nepali driving license written exam
 - **2009-10-01 17:18**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-11-10 17:39**: feat: add category A and B traffic test questions
 - **2009-11-11 21:06**: feat: support multiple choice questions for motorcycle category
 - **2009-11-12 20:27**: fix: update DOTM Nepal license syllabus questions
+- **2009-11-13 12:32**: feat: add instant feedback and explanation on answer selection
