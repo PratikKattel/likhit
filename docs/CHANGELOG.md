@@ -1,4 +1,3 @@
-- **2009-10-01 20:08**: fix: correct color specifications for mandatory traffic signs
 - **2009-10-02 09:20**: fix: prevent option re-selection after submitting answer
 - **2009-10-02 12:11**: refactor: modularize traffic app logic and event listeners
 - **2009-10-02 19:18**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2009-11-14 13:14**: feat: add result summary with passing threshold analysis
 - **2009-11-15 13:49**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-16 11:42**: feat: add category-specific practice modes
+- **2009-11-16 21:49**: docs: update README with setup instructions and feature list
