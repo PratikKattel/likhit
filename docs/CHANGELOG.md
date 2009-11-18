@@ -1,4 +1,3 @@
-- **2009-10-02 12:11**: refactor: modularize traffic app logic and event listeners
 - **2009-10-02 19:18**: perf: lazy load signal graphics and question assets
 - **2009-10-03 10:25**: perf: lazy load signal graphics and question assets
 - **2009-10-03 11:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2009-11-16 11:42**: feat: add category-specific practice modes
 - **2009-11-16 21:49**: docs: update README with setup instructions and feature list
 - **2009-11-17 13:55**: docs: update traffic signals catalog documentation
+- **2009-11-18 18:37**: fix: resolve layout shift during question transitions
