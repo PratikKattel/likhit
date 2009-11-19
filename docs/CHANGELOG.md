@@ -1,4 +1,3 @@
-- **2009-10-03 10:25**: perf: lazy load signal graphics and question assets
 - **2009-10-03 11:17**: feat: add warning signs and informational road signs
 - **2009-10-04 15:10**: feat: add warning signs and informational road signs
 - **2009-10-05 09:26**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2009-11-17 13:55**: docs: update traffic signals catalog documentation
 - **2009-11-18 18:37**: fix: resolve layout shift during question transitions
 - **2009-11-19 17:46**: perf: index question IDs for rapid lookup
+- **2009-11-19 21:53**: style: improve dark/light mode and mobile UI responsiveness
