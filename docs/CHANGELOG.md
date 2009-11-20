@@ -1,4 +1,3 @@
-- **2009-10-05 09:26**: test: verify question extraction script against exam PDF
 - **2009-10-06 10:27**: fix: typo in Nepali road safety regulations question
 - **2009-10-06 20:27**: feat: add category A and B traffic test questions
 - **2009-10-07 12:24**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2009-11-19 21:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2009-11-20 09:20**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-20 13:18**: docs: add instructions for Nepali driving license written exam
+- **2009-11-20 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
