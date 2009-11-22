@@ -1,4 +1,3 @@
-- **2009-10-07 12:24**: style: enhance traffic sign card layout and responsiveness
 - **2009-10-08 15:46**: perf: optimize image caching for traffic sign assets
 - **2009-10-08 21:44**: fix: resolve layout shift during question transitions
 - **2009-10-09 12:29**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-11-20 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-11-21 12:53**: fix: prevent option re-selection after submitting answer
 - **2009-11-21 19:25**: feat: implement timer and score calculation for mock test
+- **2009-11-22 10:54**: chore: update project metadata and build configuration
