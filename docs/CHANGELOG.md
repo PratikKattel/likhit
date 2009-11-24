@@ -1,4 +1,3 @@
-- **2009-10-11 10:46**: refactor: modularize traffic app logic and event listeners
 - **2009-10-11 15:49**: feat: add instant feedback and explanation on answer selection
 - **2009-10-11 17:19**: docs: improve code comments and API documentation
 - **2009-10-11 18:24**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-11-23 18:08**: feat: add category-specific practice modes
 - **2009-11-24 10:24**: test: verify question extraction script against exam PDF
 - **2009-11-24 17:05**: feat: add instant feedback and explanation on answer selection
+- **2009-11-24 21:21**: feat: implement timer and score calculation for mock test
