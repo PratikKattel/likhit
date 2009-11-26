@@ -1,4 +1,3 @@
-- **2009-10-11 18:24**: perf: optimize image caching for traffic sign assets
 - **2009-10-12 13:00**: docs: update README with setup instructions and feature list
 - **2009-10-12 18:45**: docs: improve code comments and API documentation
 - **2009-10-13 14:30**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-11-24 21:21**: feat: implement timer and score calculation for mock test
 - **2009-11-25 11:42**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-25 13:17**: feat: add category-specific practice modes
+- **2009-11-26 21:43**: refactor: optimize SVG rendering for road signs
