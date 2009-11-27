@@ -1,4 +1,3 @@
-- **2009-10-13 14:30**: chore: format code style and clean up redundant variables
 - **2009-10-14 19:23**: docs: improve code comments and API documentation
 - **2009-10-15 18:18**: fix: resolve layout shift during question transitions
 - **2009-10-16 12:11**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-11-26 21:43**: refactor: optimize SVG rendering for road signs
 - **2009-11-27 09:10**: feat: support multiple choice questions for motorcycle category
 - **2009-11-27 17:45**: docs: update traffic signals catalog documentation
+- **2009-11-27 17:48**: feat: add instant feedback and explanation on answer selection
