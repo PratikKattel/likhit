@@ -1,4 +1,3 @@
-- **2009-10-15 18:18**: fix: resolve layout shift during question transitions
 - **2009-10-16 12:11**: perf: optimize image caching for traffic sign assets
 - **2009-10-17 16:59**: fix: typo in Nepali road safety regulations question
 - **2009-10-17 21:35**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-11-27 17:45**: docs: update traffic signals catalog documentation
 - **2009-11-27 17:48**: feat: add instant feedback and explanation on answer selection
 - **2009-11-27 21:21**: feat: add search and filter by sign category
+- **2009-11-28 09:27**: feat: add category A and B traffic test questions
