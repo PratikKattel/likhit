@@ -1,4 +1,3 @@
-- **2009-10-19 09:43**: feat: add category A and B traffic test questions
 - **2009-10-20 13:20**: docs: improve code comments and API documentation
 - **2009-10-20 17:55**: feat: support multiple choice questions for motorcycle category
 - **2009-10-20 19:58**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-11-29 10:55**: fix: correct color specifications for mandatory traffic signs
 - **2009-11-30 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2009-11-30 16:51**: feat: add category-specific practice modes
+- **2009-11-30 17:05**: style: enhance traffic sign card layout and responsiveness
