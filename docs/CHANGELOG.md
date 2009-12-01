@@ -1,4 +1,3 @@
-- **2009-10-20 13:20**: docs: improve code comments and API documentation
 - **2009-10-20 17:55**: feat: support multiple choice questions for motorcycle category
 - **2009-10-20 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2009-10-21 09:31**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2009-11-30 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2009-11-30 16:51**: feat: add category-specific practice modes
 - **2009-11-30 17:05**: style: enhance traffic sign card layout and responsiveness
+- **2009-12-01 09:10**: feat: add keyboard navigation shortcuts for question selection
