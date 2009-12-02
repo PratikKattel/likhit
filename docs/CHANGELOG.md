@@ -1,4 +1,3 @@
-- **2009-10-20 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2009-10-21 09:31**: docs: add instructions for Nepali driving license written exam
 - **2009-10-21 15:59**: feat: add search and filter by sign category
 - **2009-10-21 16:19**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-11-30 17:05**: style: enhance traffic sign card layout and responsiveness
 - **2009-12-01 09:10**: feat: add keyboard navigation shortcuts for question selection
 - **2009-12-01 10:59**: feat: add regulatory traffic signs SVG graphics
+- **2009-12-02 12:38**: perf: optimize image caching for traffic sign assets
