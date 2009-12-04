@@ -1,4 +1,3 @@
-- **2009-10-22 10:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-10-23 13:07**: feat: support multiple choice questions for motorcycle category
 - **2009-10-24 09:03**: refactor: optimize SVG rendering for road signs
 - **2009-10-24 12:00**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-12-02 18:31**: chore: update questions database with recent DOTM updates
 - **2009-12-03 10:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-12-03 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2009-12-04 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
