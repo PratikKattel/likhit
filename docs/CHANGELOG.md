@@ -1,4 +1,3 @@
-- **2009-10-24 14:32**: fix: update DOTM Nepal license syllabus questions
 - **2009-10-25 09:41**: refactor: restructure question data schema for faster loading
 - **2009-10-26 10:26**: chore: organize assets and image directory structure
 - **2009-10-27 20:12**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-12-04 18:34**: perf: lazy load signal graphics and question assets
 - **2009-12-04 21:54**: chore: update questions database with recent DOTM updates
 - **2009-12-05 13:05**: chore: update questions database with recent DOTM updates
+- **2009-12-05 13:31**: feat: add regulatory traffic signs SVG graphics
