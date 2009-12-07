@@ -1,4 +1,3 @@
-- **2009-10-27 20:42**: fix: prevent option re-selection after submitting answer
 - **2009-10-28 12:09**: feat: add keyboard navigation shortcuts for question selection
 - **2009-10-28 14:54**: fix: resolve layout shift during question transitions
 - **2009-10-28 22:05**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-12-05 18:58**: feat: add instant feedback and explanation on answer selection
 - **2009-12-06 18:28**: docs: add instructions for Nepali driving license written exam
 - **2009-12-07 11:16**: refactor: restructure question data schema for faster loading
+- **2009-12-07 14:18**: feat: add search and filter by sign category
