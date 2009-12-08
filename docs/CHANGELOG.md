@@ -1,4 +1,3 @@
-- **2009-10-28 14:54**: fix: resolve layout shift during question transitions
 - **2009-10-28 22:05**: feat: add category A and B traffic test questions
 - **2009-10-29 13:21**: docs: add instructions for Nepali driving license written exam
 - **2009-10-29 17:11**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-12-07 11:16**: refactor: restructure question data schema for faster loading
 - **2009-12-07 14:18**: feat: add search and filter by sign category
 - **2009-12-07 16:11**: feat: add category-specific practice modes
+- **2009-12-08 10:18**: fix: correct color specifications for mandatory traffic signs
