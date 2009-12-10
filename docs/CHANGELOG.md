@@ -1,4 +1,3 @@
-- **2009-10-29 17:11**: feat: add category A and B traffic test questions
 - **2009-10-29 19:38**: docs: add instructions for Nepali driving license written exam
 - **2009-10-30 14:48**: feat: support multiple choice questions for motorcycle category
 - **2009-10-31 16:11**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2009-12-08 10:18**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-09 14:59**: docs: add instructions for Nepali driving license written exam
 - **2009-12-09 18:01**: chore: organize assets and image directory structure
+- **2009-12-10 14:26**: feat: implement timer and score calculation for mock test
