@@ -1,4 +1,3 @@
-- **2009-10-31 16:11**: perf: optimize image caching for traffic sign assets
 - **2009-10-31 17:33**: style: enhance traffic sign card layout and responsiveness
 - **2009-11-01 11:04**: feat: add instant feedback and explanation on answer selection
 - **2009-11-02 09:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2009-12-10 14:26**: feat: implement timer and score calculation for mock test
 - **2009-12-10 19:47**: perf: index question IDs for rapid lookup
 - **2009-12-11 21:11**: docs: update traffic signals catalog documentation
+- **2009-12-12 14:12**: feat: implement timer and score calculation for mock test
