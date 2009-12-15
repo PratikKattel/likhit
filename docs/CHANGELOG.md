@@ -1,4 +1,3 @@
-- **2009-11-02 11:33**: feat: support multiple choice questions for motorcycle category
 - **2009-11-02 16:10**: feat: add warning signs and informational road signs
 - **2009-11-03 10:03**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-03 17:18**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2009-12-12 18:36**: fix: adjust passing score threshold according to new rules
 - **2009-12-13 21:14**: perf: optimize image caching for traffic sign assets
 - **2009-12-14 09:42**: fix: adjust passing score threshold according to new rules
+- **2009-12-15 12:45**: fix: typo in Nepali road safety regulations question
