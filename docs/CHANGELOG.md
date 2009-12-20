@@ -1,4 +1,3 @@
-- **2009-11-04 12:53**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-04 20:00**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-05 09:10**: chore: format code style and clean up redundant variables
 - **2009-11-05 18:12**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2009-12-17 10:57**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-18 15:25**: perf: optimize image caching for traffic sign assets
 - **2009-12-19 15:19**: chore: update project metadata and build configuration
+- **2009-12-20 15:36**: fix: resolve layout shift during question transitions
