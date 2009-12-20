@@ -1,4 +1,3 @@
-- **2009-11-04 20:00**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-05 09:10**: chore: format code style and clean up redundant variables
 - **2009-11-05 18:12**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-05 18:49**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2009-12-18 15:25**: perf: optimize image caching for traffic sign assets
 - **2009-12-19 15:19**: chore: update project metadata and build configuration
 - **2009-12-20 15:36**: fix: resolve layout shift during question transitions
+- **2009-12-20 19:15**: feat: implement timer and score calculation for mock test
