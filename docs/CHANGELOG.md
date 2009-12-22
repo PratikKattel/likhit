@@ -1,4 +1,3 @@
-- **2009-11-07 21:58**: docs: update traffic signals catalog documentation
 - **2009-11-08 10:48**: fix: prevent option re-selection after submitting answer
 - **2009-11-09 15:12**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-09 16:33**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-12-21 16:36**: refactor: modularize traffic app logic and event listeners
 - **2009-12-22 09:19**: fix: update DOTM Nepal license syllabus questions
 - **2009-12-22 13:35**: perf: optimize image caching for traffic sign assets
+- **2009-12-22 17:14**: style: enhance traffic sign card layout and responsiveness
