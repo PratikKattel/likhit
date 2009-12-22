@@ -1,4 +1,3 @@
-- **2009-11-06 21:53**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-07 21:29**: perf: lazy load signal graphics and question assets
 - **2009-11-07 21:58**: docs: update traffic signals catalog documentation
 - **2009-11-08 10:48**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-12-21 12:59**: refactor: optimize SVG rendering for road signs
 - **2009-12-21 15:40**: perf: index question IDs for rapid lookup
 - **2009-12-21 16:36**: refactor: modularize traffic app logic and event listeners
+- **2009-12-22 09:19**: fix: update DOTM Nepal license syllabus questions
