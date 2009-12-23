@@ -1,4 +1,3 @@
-- **2009-11-09 15:12**: feat: add keyboard navigation shortcuts for question selection
 - **2009-11-09 16:33**: feat: add result summary with passing threshold analysis
 - **2009-11-09 20:43**: fix: adjust passing score threshold according to new rules
 - **2009-11-10 12:56**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-12-22 13:35**: perf: optimize image caching for traffic sign assets
 - **2009-12-22 17:14**: style: enhance traffic sign card layout and responsiveness
 - **2009-12-22 20:05**: fix: correct color specifications for mandatory traffic signs
+- **2009-12-23 19:57**: feat: add result summary with passing threshold analysis
