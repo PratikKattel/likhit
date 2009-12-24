@@ -1,4 +1,3 @@
-- **2009-11-09 16:33**: feat: add result summary with passing threshold analysis
 - **2009-11-09 20:43**: fix: adjust passing score threshold according to new rules
 - **2009-11-10 12:56**: fix: prevent option re-selection after submitting answer
 - **2009-11-10 17:39**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2009-12-22 17:14**: style: enhance traffic sign card layout and responsiveness
 - **2009-12-22 20:05**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-23 19:57**: feat: add result summary with passing threshold analysis
+- **2009-12-24 15:52**: fix: typo in Nepali road safety regulations question
