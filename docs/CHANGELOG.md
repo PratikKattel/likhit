@@ -1,4 +1,3 @@
-- **2009-11-11 21:06**: feat: support multiple choice questions for motorcycle category
 - **2009-11-12 20:27**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-13 12:32**: feat: add instant feedback and explanation on answer selection
 - **2009-11-14 13:14**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2009-12-24 20:18**: chore: format code style and clean up redundant variables
 - **2009-12-25 18:51**: feat: add category-specific practice modes
 - **2009-12-25 21:05**: docs: add instructions for Nepali driving license written exam
+- **2009-12-25 22:25**: style: polish typography and Nepali Unicode font rendering
