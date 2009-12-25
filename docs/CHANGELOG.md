@@ -1,4 +1,3 @@
-- **2009-11-10 17:39**: feat: add category A and B traffic test questions
 - **2009-11-11 21:06**: feat: support multiple choice questions for motorcycle category
 - **2009-11-12 20:27**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-13 12:32**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2009-12-24 15:52**: fix: typo in Nepali road safety regulations question
 - **2009-12-24 20:18**: chore: format code style and clean up redundant variables
 - **2009-12-25 18:51**: feat: add category-specific practice modes
+- **2009-12-25 21:05**: docs: add instructions for Nepali driving license written exam
