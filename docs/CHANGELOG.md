@@ -1,4 +1,3 @@
-- **2009-11-15 13:49**: feat: add regulatory traffic signs SVG graphics
 - **2009-11-16 11:42**: feat: add category-specific practice modes
 - **2009-11-16 21:49**: docs: update README with setup instructions and feature list
 - **2009-11-17 13:55**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2009-12-26 18:19**: chore: format code style and clean up redundant variables
 - **2009-12-27 15:45**: refactor: optimize SVG rendering for road signs
 - **2009-12-28 12:57**: feat: add category-specific practice modes
+- **2009-12-28 13:14**: feat: add search and filter by sign category
