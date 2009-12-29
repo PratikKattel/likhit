@@ -1,4 +1,3 @@
-- **2009-11-17 13:55**: docs: update traffic signals catalog documentation
 - **2009-11-18 18:37**: fix: resolve layout shift during question transitions
 - **2009-11-19 17:46**: perf: index question IDs for rapid lookup
 - **2009-11-19 21:53**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2009-12-28 13:14**: feat: add search and filter by sign category
 - **2009-12-28 18:45**: chore: format code style and clean up redundant variables
 - **2009-12-28 22:01**: perf: index question IDs for rapid lookup
+- **2009-12-29 09:52**: test: verify question extraction script against exam PDF
