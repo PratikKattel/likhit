@@ -1,4 +1,3 @@
-- **2009-11-20 09:20**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-20 13:18**: docs: add instructions for Nepali driving license written exam
 - **2009-11-20 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-11-21 12:53**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2009-12-29 14:33**: chore: organize assets and image directory structure
 - **2009-12-30 10:44**: style: polish typography and Nepali Unicode font rendering
 - **2009-12-31 12:45**: fix: correct color specifications for mandatory traffic signs
+- **2010-01-01 09:01**: fix: update DOTM Nepal license syllabus questions
