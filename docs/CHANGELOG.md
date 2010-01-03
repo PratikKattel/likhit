@@ -1,4 +1,3 @@
-- **2009-11-21 12:53**: fix: prevent option re-selection after submitting answer
 - **2009-11-21 19:25**: feat: implement timer and score calculation for mock test
 - **2009-11-22 10:54**: chore: update project metadata and build configuration
 - **2009-11-22 22:25**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2010-01-01 09:01**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-01 13:43**: docs: update traffic signals catalog documentation
 - **2010-01-02 10:50**: fix: update DOTM Nepal license syllabus questions
+- **2010-01-03 10:30**: chore: format code style and clean up redundant variables
