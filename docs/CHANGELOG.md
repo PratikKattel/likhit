@@ -1,4 +1,3 @@
-- **2009-11-22 10:54**: chore: update project metadata and build configuration
 - **2009-11-22 22:25**: chore: organize assets and image directory structure
 - **2009-11-23 18:08**: feat: add category-specific practice modes
 - **2009-11-24 10:24**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-01-02 10:50**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-03 10:30**: chore: format code style and clean up redundant variables
 - **2010-01-03 19:30**: fix: correct color specifications for mandatory traffic signs
+- **2010-01-04 14:35**: chore: update questions database with recent DOTM updates
