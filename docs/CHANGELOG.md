@@ -1,4 +1,3 @@
-- **2009-11-23 18:08**: feat: add category-specific practice modes
 - **2009-11-24 10:24**: test: verify question extraction script against exam PDF
 - **2009-11-24 17:05**: feat: add instant feedback and explanation on answer selection
 - **2009-11-24 21:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-01-03 19:30**: fix: correct color specifications for mandatory traffic signs
 - **2010-01-04 14:35**: chore: update questions database with recent DOTM updates
 - **2010-01-04 14:45**: perf: optimize image caching for traffic sign assets
+- **2010-01-05 09:39**: feat: add search and filter by sign category
