@@ -1,4 +1,3 @@
-- **2009-11-24 21:21**: feat: implement timer and score calculation for mock test
 - **2009-11-25 11:42**: fix: update DOTM Nepal license syllabus questions
 - **2009-11-25 13:17**: feat: add category-specific practice modes
 - **2009-11-26 21:43**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-01-05 09:39**: feat: add search and filter by sign category
 - **2010-01-05 10:24**: test: verify question extraction script against exam PDF
 - **2010-01-05 21:31**: feat: add instant feedback and explanation on answer selection
+- **2010-01-06 12:49**: docs: improve code comments and API documentation
