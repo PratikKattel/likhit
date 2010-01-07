@@ -1,4 +1,3 @@
-- **2009-11-25 13:17**: feat: add category-specific practice modes
 - **2009-11-26 21:43**: refactor: optimize SVG rendering for road signs
 - **2009-11-27 09:10**: feat: support multiple choice questions for motorcycle category
 - **2009-11-27 17:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2010-01-05 21:31**: feat: add instant feedback and explanation on answer selection
 - **2010-01-06 12:49**: docs: improve code comments and API documentation
 - **2010-01-06 14:40**: feat: add result summary with passing threshold analysis
+- **2010-01-07 19:12**: feat: add keyboard navigation shortcuts for question selection
