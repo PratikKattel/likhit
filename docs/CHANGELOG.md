@@ -1,4 +1,3 @@
-- **2009-11-27 17:48**: feat: add instant feedback and explanation on answer selection
 - **2009-11-27 21:21**: feat: add search and filter by sign category
 - **2009-11-28 09:27**: feat: add category A and B traffic test questions
 - **2009-11-28 14:43**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2010-01-07 22:18**: refactor: modularize traffic app logic and event listeners
 - **2010-01-08 10:11**: feat: add category A and B traffic test questions
 - **2010-01-09 22:27**: feat: support multiple choice questions for motorcycle category
+- **2010-01-10 17:24**: feat: add category-specific practice modes
