@@ -1,4 +1,3 @@
-- **2009-11-30 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2009-11-30 16:51**: feat: add category-specific practice modes
 - **2009-11-30 17:05**: style: enhance traffic sign card layout and responsiveness
 - **2009-12-01 09:10**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-01-12 10:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-01-12 12:09**: docs: improve code comments and API documentation
 - **2010-01-13 10:28**: feat: add instant feedback and explanation on answer selection
+- **2010-01-13 14:01**: refactor: optimize SVG rendering for road signs
