@@ -1,4 +1,3 @@
-- **2009-11-30 16:51**: feat: add category-specific practice modes
 - **2009-11-30 17:05**: style: enhance traffic sign card layout and responsiveness
 - **2009-12-01 09:10**: feat: add keyboard navigation shortcuts for question selection
 - **2009-12-01 10:59**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-01-12 12:09**: docs: improve code comments and API documentation
 - **2010-01-13 10:28**: feat: add instant feedback and explanation on answer selection
 - **2010-01-13 14:01**: refactor: optimize SVG rendering for road signs
+- **2010-01-14 12:39**: feat: add result summary with passing threshold analysis
