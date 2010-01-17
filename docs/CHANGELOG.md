@@ -1,4 +1,3 @@
-- **2009-12-02 12:38**: perf: optimize image caching for traffic sign assets
 - **2009-12-02 18:31**: chore: update questions database with recent DOTM updates
 - **2009-12-03 10:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-12-03 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2010-01-15 16:44**: fix: adjust passing score threshold according to new rules
 - **2010-01-15 22:28**: fix: prevent option re-selection after submitting answer
 - **2010-01-16 20:17**: docs: update README with setup instructions and feature list
+- **2010-01-17 21:10**: refactor: optimize SVG rendering for road signs
