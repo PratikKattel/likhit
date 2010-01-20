@@ -1,4 +1,3 @@
-- **2009-12-04 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2009-12-04 18:34**: perf: lazy load signal graphics and question assets
 - **2009-12-04 21:54**: chore: update questions database with recent DOTM updates
 - **2009-12-05 13:05**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-01-18 10:51**: fix: resolve layout shift during question transitions
 - **2010-01-18 17:35**: perf: lazy load signal graphics and question assets
 - **2010-01-19 18:12**: fix: correct color specifications for mandatory traffic signs
+- **2010-01-20 12:47**: fix: update DOTM Nepal license syllabus questions
