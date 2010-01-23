@@ -1,4 +1,3 @@
-- **2009-12-05 13:05**: chore: update questions database with recent DOTM updates
 - **2009-12-05 13:31**: feat: add regulatory traffic signs SVG graphics
 - **2009-12-05 18:58**: feat: add instant feedback and explanation on answer selection
 - **2009-12-06 18:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-01-20 12:47**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-21 11:08**: feat: add category-specific practice modes
 - **2010-01-22 19:56**: perf: optimize image caching for traffic sign assets
+- **2010-01-23 21:00**: style: improve dark/light mode and mobile UI responsiveness
