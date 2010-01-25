@@ -1,4 +1,3 @@
-- **2009-12-05 18:58**: feat: add instant feedback and explanation on answer selection
 - **2009-12-06 18:28**: docs: add instructions for Nepali driving license written exam
 - **2009-12-07 11:16**: refactor: restructure question data schema for faster loading
 - **2009-12-07 14:18**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-01-22 19:56**: perf: optimize image caching for traffic sign assets
 - **2010-01-23 21:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-01-24 17:06**: feat: add category-specific practice modes
+- **2010-01-25 18:24**: feat: add instant feedback and explanation on answer selection
