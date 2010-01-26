@@ -1,4 +1,3 @@
-- **2009-12-07 11:16**: refactor: restructure question data schema for faster loading
 - **2009-12-07 14:18**: feat: add search and filter by sign category
 - **2009-12-07 16:11**: feat: add category-specific practice modes
 - **2009-12-08 10:18**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2010-01-24 17:06**: feat: add category-specific practice modes
 - **2010-01-25 18:24**: feat: add instant feedback and explanation on answer selection
 - **2010-01-25 18:30**: feat: add instant feedback and explanation on answer selection
+- **2010-01-26 13:02**: style: polish typography and Nepali Unicode font rendering
