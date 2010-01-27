@@ -1,4 +1,3 @@
-- **2009-12-07 14:18**: feat: add search and filter by sign category
 - **2009-12-07 16:11**: feat: add category-specific practice modes
 - **2009-12-08 10:18**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-09 14:59**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-01-25 18:24**: feat: add instant feedback and explanation on answer selection
 - **2010-01-25 18:30**: feat: add instant feedback and explanation on answer selection
 - **2010-01-26 13:02**: style: polish typography and Nepali Unicode font rendering
+- **2010-01-27 11:22**: fix: prevent option re-selection after submitting answer
