@@ -1,4 +1,3 @@
-- **2009-12-08 10:18**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-09 14:59**: docs: add instructions for Nepali driving license written exam
 - **2009-12-09 18:01**: chore: organize assets and image directory structure
 - **2009-12-10 14:26**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-01-26 13:02**: style: polish typography and Nepali Unicode font rendering
 - **2010-01-27 11:22**: fix: prevent option re-selection after submitting answer
 - **2010-01-27 15:06**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-01-27 17:31**: fix: adjust passing score threshold according to new rules
