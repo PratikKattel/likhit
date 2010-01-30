@@ -1,4 +1,3 @@
-- **2009-12-10 19:47**: perf: index question IDs for rapid lookup
 - **2009-12-11 21:11**: docs: update traffic signals catalog documentation
 - **2009-12-12 14:12**: feat: implement timer and score calculation for mock test
 - **2009-12-12 18:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-01-28 16:22**: chore: update questions database with recent DOTM updates
 - **2010-01-28 21:46**: feat: add result summary with passing threshold analysis
 - **2010-01-29 10:29**: fix: correct color specifications for mandatory traffic signs
+- **2010-01-30 12:02**: feat: add warning signs and informational road signs
