@@ -1,4 +1,3 @@
-- **2009-12-13 21:14**: perf: optimize image caching for traffic sign assets
 - **2009-12-14 09:42**: fix: adjust passing score threshold according to new rules
 - **2009-12-15 12:45**: fix: typo in Nepali road safety regulations question
 - **2009-12-16 15:34**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-01-31 13:12**: feat: support multiple choice questions for motorcycle category
 - **2010-02-01 11:33**: feat: add category A and B traffic test questions
 - **2010-02-02 09:54**: test: verify question extraction script against exam PDF
+- **2010-02-03 10:23**: fix: update DOTM Nepal license syllabus questions
