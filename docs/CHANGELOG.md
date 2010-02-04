@@ -1,4 +1,3 @@
-- **2009-12-15 12:45**: fix: typo in Nepali road safety regulations question
 - **2009-12-16 15:34**: feat: add regulatory traffic signs SVG graphics
 - **2009-12-17 10:57**: fix: correct color specifications for mandatory traffic signs
 - **2009-12-18 15:25**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-02-02 09:54**: test: verify question extraction script against exam PDF
 - **2010-02-03 10:23**: fix: update DOTM Nepal license syllabus questions
 - **2010-02-03 17:12**: style: polish typography and Nepali Unicode font rendering
+- **2010-02-04 14:43**: feat: add search and filter by sign category
