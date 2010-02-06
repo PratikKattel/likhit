@@ -1,4 +1,3 @@
-- **2009-12-19 15:19**: chore: update project metadata and build configuration
 - **2009-12-20 15:36**: fix: resolve layout shift during question transitions
 - **2009-12-20 19:15**: feat: implement timer and score calculation for mock test
 - **2009-12-21 12:59**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-02-04 17:38**: feat: add search and filter by sign category
 - **2010-02-04 18:33**: perf: lazy load signal graphics and question assets
 - **2010-02-05 15:26**: docs: improve code comments and API documentation
+- **2010-02-06 13:54**: refactor: restructure question data schema for faster loading
