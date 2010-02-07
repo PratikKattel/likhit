@@ -1,4 +1,3 @@
-- **2009-12-20 19:15**: feat: implement timer and score calculation for mock test
 - **2009-12-21 12:59**: refactor: optimize SVG rendering for road signs
 - **2009-12-21 15:40**: perf: index question IDs for rapid lookup
 - **2009-12-21 16:36**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2010-02-05 15:26**: docs: improve code comments and API documentation
 - **2010-02-06 13:54**: refactor: restructure question data schema for faster loading
 - **2010-02-06 15:43**: refactor: restructure question data schema for faster loading
+- **2010-02-07 12:26**: fix: update DOTM Nepal license syllabus questions
