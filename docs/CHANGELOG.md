@@ -1,4 +1,3 @@
-- **2009-12-21 12:59**: refactor: optimize SVG rendering for road signs
 - **2009-12-21 15:40**: perf: index question IDs for rapid lookup
 - **2009-12-21 16:36**: refactor: modularize traffic app logic and event listeners
 - **2009-12-22 09:19**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2010-02-06 13:54**: refactor: restructure question data schema for faster loading
 - **2010-02-06 15:43**: refactor: restructure question data schema for faster loading
 - **2010-02-07 12:26**: fix: update DOTM Nepal license syllabus questions
+- **2010-02-08 09:51**: perf: index question IDs for rapid lookup
