@@ -1,4 +1,3 @@
-- **2009-12-23 19:57**: feat: add result summary with passing threshold analysis
 - **2009-12-24 15:52**: fix: typo in Nepali road safety regulations question
 - **2009-12-24 20:18**: chore: format code style and clean up redundant variables
 - **2009-12-25 18:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-02-10 14:10**: fix: typo in Nepali road safety regulations question
 - **2010-02-10 16:59**: fix: typo in Nepali road safety regulations question
 - **2010-02-11 10:11**: docs: update README with setup instructions and feature list
+- **2010-02-11 17:51**: style: polish typography and Nepali Unicode font rendering
