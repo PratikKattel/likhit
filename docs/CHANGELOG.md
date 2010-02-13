@@ -1,4 +1,3 @@
-- **2009-12-25 21:05**: docs: add instructions for Nepali driving license written exam
 - **2009-12-25 22:25**: style: polish typography and Nepali Unicode font rendering
 - **2009-12-26 18:19**: chore: format code style and clean up redundant variables
 - **2009-12-27 15:45**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-02-11 17:56**: chore: update questions database with recent DOTM updates
 - **2010-02-11 19:27**: fix: typo in Nepali road safety regulations question
 - **2010-02-12 14:56**: docs: add instructions for Nepali driving license written exam
+- **2010-02-13 20:50**: docs: improve code comments and API documentation
