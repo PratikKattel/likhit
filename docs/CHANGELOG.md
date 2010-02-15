@@ -1,4 +1,3 @@
-- **2009-12-27 15:45**: refactor: optimize SVG rendering for road signs
 - **2009-12-28 12:57**: feat: add category-specific practice modes
 - **2009-12-28 13:14**: feat: add search and filter by sign category
 - **2009-12-28 18:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-02-13 20:50**: docs: improve code comments and API documentation
 - **2010-02-14 13:02**: feat: add instant feedback and explanation on answer selection
 - **2010-02-15 11:20**: chore: format code style and clean up redundant variables
+- **2010-02-15 13:13**: docs: update README with setup instructions and feature list
