@@ -1,4 +1,3 @@
-- **2009-12-28 13:14**: feat: add search and filter by sign category
 - **2009-12-28 18:45**: chore: format code style and clean up redundant variables
 - **2009-12-28 22:01**: perf: index question IDs for rapid lookup
 - **2009-12-29 09:52**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-02-15 11:20**: chore: format code style and clean up redundant variables
 - **2010-02-15 13:13**: docs: update README with setup instructions and feature list
 - **2010-02-16 10:05**: docs: improve code comments and API documentation
+- **2010-02-17 10:51**: test: verify question extraction script against exam PDF
