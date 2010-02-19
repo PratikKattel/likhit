@@ -1,4 +1,3 @@
-- **2009-12-28 22:01**: perf: index question IDs for rapid lookup
 - **2009-12-29 09:52**: test: verify question extraction script against exam PDF
 - **2009-12-29 14:33**: chore: organize assets and image directory structure
 - **2009-12-30 10:44**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-02-16 10:05**: docs: improve code comments and API documentation
 - **2010-02-17 10:51**: test: verify question extraction script against exam PDF
 - **2010-02-18 16:59**: chore: update questions database with recent DOTM updates
+- **2010-02-19 11:44**: perf: lazy load signal graphics and question assets
