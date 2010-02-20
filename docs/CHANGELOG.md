@@ -1,4 +1,3 @@
-- **2009-12-30 10:44**: style: polish typography and Nepali Unicode font rendering
 - **2009-12-31 12:45**: fix: correct color specifications for mandatory traffic signs
 - **2010-01-01 09:01**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-01 13:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2010-02-19 11:44**: perf: lazy load signal graphics and question assets
 - **2010-02-19 20:20**: fix: update DOTM Nepal license syllabus questions
 - **2010-02-20 09:06**: feat: add search and filter by sign category
+- **2010-02-20 17:03**: fix: adjust passing score threshold according to new rules
