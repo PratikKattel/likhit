@@ -1,4 +1,3 @@
-- **2010-01-03 10:30**: chore: format code style and clean up redundant variables
 - **2010-01-03 19:30**: fix: correct color specifications for mandatory traffic signs
 - **2010-01-04 14:35**: chore: update questions database with recent DOTM updates
 - **2010-01-04 14:45**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-02-22 09:39**: test: verify question extraction script against exam PDF
 - **2010-02-22 13:12**: test: verify question extraction script against exam PDF
 - **2010-02-22 15:12**: chore: format code style and clean up redundant variables
+- **2010-02-22 15:19**: feat: add category A and B traffic test questions
