@@ -1,4 +1,3 @@
-- **2010-01-01 09:01**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-01 13:43**: docs: update traffic signals catalog documentation
 - **2010-01-02 10:50**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-03 10:30**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-02-20 09:06**: feat: add search and filter by sign category
 - **2010-02-20 17:03**: fix: adjust passing score threshold according to new rules
 - **2010-02-21 22:27**: chore: format code style and clean up redundant variables
+- **2010-02-22 09:39**: test: verify question extraction script against exam PDF
