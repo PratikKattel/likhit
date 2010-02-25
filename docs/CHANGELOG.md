@@ -1,4 +1,3 @@
-- **2010-01-04 14:45**: perf: optimize image caching for traffic sign assets
 - **2010-01-05 09:39**: feat: add search and filter by sign category
 - **2010-01-05 10:24**: test: verify question extraction script against exam PDF
 - **2010-01-05 21:31**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-02-22 15:19**: feat: add category A and B traffic test questions
 - **2010-02-23 17:58**: fix: prevent option re-selection after submitting answer
 - **2010-02-24 09:37**: style: polish typography and Nepali Unicode font rendering
+- **2010-02-25 22:28**: test: verify question extraction script against exam PDF
