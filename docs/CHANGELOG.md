@@ -1,4 +1,3 @@
-- **2010-01-05 09:39**: feat: add search and filter by sign category
 - **2010-01-05 10:24**: test: verify question extraction script against exam PDF
 - **2010-01-05 21:31**: feat: add instant feedback and explanation on answer selection
 - **2010-01-06 12:49**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2010-02-23 17:58**: fix: prevent option re-selection after submitting answer
 - **2010-02-24 09:37**: style: polish typography and Nepali Unicode font rendering
 - **2010-02-25 22:28**: test: verify question extraction script against exam PDF
+- **2010-02-26 17:32**: refactor: modularize traffic app logic and event listeners
