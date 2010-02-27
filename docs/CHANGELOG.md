@@ -1,4 +1,3 @@
-- **2010-01-05 21:31**: feat: add instant feedback and explanation on answer selection
 - **2010-01-06 12:49**: docs: improve code comments and API documentation
 - **2010-01-06 14:40**: feat: add result summary with passing threshold analysis
 - **2010-01-07 19:12**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-02-25 22:28**: test: verify question extraction script against exam PDF
 - **2010-02-26 17:32**: refactor: modularize traffic app logic and event listeners
 - **2010-02-26 17:35**: feat: add result summary with passing threshold analysis
+- **2010-02-27 17:36**: docs: update traffic signals catalog documentation
