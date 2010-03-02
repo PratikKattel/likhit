@@ -1,4 +1,3 @@
-- **2010-01-07 22:18**: refactor: modularize traffic app logic and event listeners
 - **2010-01-08 10:11**: feat: add category A and B traffic test questions
 - **2010-01-09 22:27**: feat: support multiple choice questions for motorcycle category
 - **2010-01-10 17:24**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-02-28 16:44**: chore: update project metadata and build configuration
 - **2010-02-28 19:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-03-01 15:07**: refactor: optimize SVG rendering for road signs
+- **2010-03-02 11:40**: fix: adjust passing score threshold according to new rules
