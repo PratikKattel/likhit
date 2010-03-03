@@ -1,4 +1,3 @@
-- **2010-01-11 14:50**: perf: optimize image caching for traffic sign assets
 - **2010-01-12 10:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-01-12 12:09**: docs: improve code comments and API documentation
 - **2010-01-13 10:28**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-03-03 14:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-03-03 17:21**: fix: adjust passing score threshold according to new rules
 - **2010-03-03 21:52**: docs: improve code comments and API documentation
+- **2010-03-03 22:11**: docs: add instructions for Nepali driving license written exam
