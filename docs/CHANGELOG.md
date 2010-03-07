@@ -1,4 +1,3 @@
-- **2010-01-14 12:39**: feat: add result summary with passing threshold analysis
 - **2010-01-15 16:44**: fix: adjust passing score threshold according to new rules
 - **2010-01-15 22:28**: fix: prevent option re-selection after submitting answer
 - **2010-01-16 20:17**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2010-03-05 10:03**: perf: optimize image caching for traffic sign assets
 - **2010-03-06 19:02**: style: polish typography and Nepali Unicode font rendering
 - **2010-03-07 09:27**: feat: support multiple choice questions for motorcycle category
+- **2010-03-07 09:52**: fix: resolve layout shift during question transitions
