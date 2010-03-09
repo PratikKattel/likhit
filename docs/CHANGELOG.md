@@ -1,4 +1,3 @@
-- **2010-01-16 20:17**: docs: update README with setup instructions and feature list
 - **2010-01-17 21:10**: refactor: optimize SVG rendering for road signs
 - **2010-01-18 10:51**: fix: resolve layout shift during question transitions
 - **2010-01-18 17:35**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-03-07 09:52**: fix: resolve layout shift during question transitions
 - **2010-03-08 18:24**: feat: add category A and B traffic test questions
 - **2010-03-09 11:36**: feat: add warning signs and informational road signs
+- **2010-03-09 17:15**: fix: typo in Nepali road safety regulations question
