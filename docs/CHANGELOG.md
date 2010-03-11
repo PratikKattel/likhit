@@ -1,4 +1,3 @@
-- **2010-01-18 17:35**: perf: lazy load signal graphics and question assets
 - **2010-01-19 18:12**: fix: correct color specifications for mandatory traffic signs
 - **2010-01-20 12:47**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-21 11:08**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-03-09 17:15**: fix: typo in Nepali road safety regulations question
 - **2010-03-10 16:08**: feat: support multiple choice questions for motorcycle category
 - **2010-03-11 13:12**: docs: update README with setup instructions and feature list
+- **2010-03-11 21:48**: feat: add category-specific practice modes
