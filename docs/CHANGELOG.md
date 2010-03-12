@@ -1,4 +1,3 @@
-- **2010-01-21 11:08**: feat: add category-specific practice modes
 - **2010-01-22 19:56**: perf: optimize image caching for traffic sign assets
 - **2010-01-23 21:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-01-24 17:06**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-03-11 21:48**: feat: add category-specific practice modes
 - **2010-03-12 09:16**: fix: adjust passing score threshold according to new rules
 - **2010-03-12 09:45**: chore: organize assets and image directory structure
+- **2010-03-12 14:58**: feat: add category A and B traffic test questions
