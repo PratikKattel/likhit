@@ -1,4 +1,3 @@
-- **2010-01-20 12:47**: fix: update DOTM Nepal license syllabus questions
 - **2010-01-21 11:08**: feat: add category-specific practice modes
 - **2010-01-22 19:56**: perf: optimize image caching for traffic sign assets
 - **2010-01-23 21:00**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-03-11 13:12**: docs: update README with setup instructions and feature list
 - **2010-03-11 21:48**: feat: add category-specific practice modes
 - **2010-03-12 09:16**: fix: adjust passing score threshold according to new rules
+- **2010-03-12 09:45**: chore: organize assets and image directory structure
