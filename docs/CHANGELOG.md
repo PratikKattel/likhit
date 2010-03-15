@@ -1,4 +1,3 @@
-- **2010-01-25 18:24**: feat: add instant feedback and explanation on answer selection
 - **2010-01-25 18:30**: feat: add instant feedback and explanation on answer selection
 - **2010-01-26 13:02**: style: polish typography and Nepali Unicode font rendering
 - **2010-01-27 11:22**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2010-03-13 21:31**: fix: update DOTM Nepal license syllabus questions
 - **2010-03-14 09:04**: feat: add regulatory traffic signs SVG graphics
 - **2010-03-14 18:35**: feat: add category-specific practice modes
+- **2010-03-15 19:14**: fix: prevent option re-selection after submitting answer
