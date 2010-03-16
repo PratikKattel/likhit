@@ -1,4 +1,3 @@
-- **2010-01-26 13:02**: style: polish typography and Nepali Unicode font rendering
 - **2010-01-27 11:22**: fix: prevent option re-selection after submitting answer
 - **2010-01-27 15:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-01-27 17:31**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-03-14 18:35**: feat: add category-specific practice modes
 - **2010-03-15 19:14**: fix: prevent option re-selection after submitting answer
 - **2010-03-16 13:47**: feat: add category-specific practice modes
+- **2010-03-16 18:27**: chore: update questions database with recent DOTM updates
