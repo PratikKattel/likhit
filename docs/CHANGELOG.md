@@ -1,4 +1,3 @@
-- **2010-01-27 15:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-01-27 17:31**: fix: adjust passing score threshold according to new rules
 - **2010-01-28 16:22**: chore: update questions database with recent DOTM updates
 - **2010-01-28 21:46**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2010-03-16 13:47**: feat: add category-specific practice modes
 - **2010-03-16 18:27**: chore: update questions database with recent DOTM updates
 - **2010-03-17 15:03**: feat: add warning signs and informational road signs
+- **2010-03-17 22:27**: feat: support multiple choice questions for motorcycle category
