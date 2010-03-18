@@ -1,4 +1,3 @@
-- **2010-01-28 21:46**: feat: add result summary with passing threshold analysis
 - **2010-01-29 10:29**: fix: correct color specifications for mandatory traffic signs
 - **2010-01-30 12:02**: feat: add warning signs and informational road signs
 - **2010-01-31 13:12**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-03-17 22:27**: feat: support multiple choice questions for motorcycle category
 - **2010-03-18 12:34**: style: polish typography and Nepali Unicode font rendering
 - **2010-03-18 15:52**: style: enhance traffic sign card layout and responsiveness
+- **2010-03-18 17:35**: fix: update DOTM Nepal license syllabus questions
