@@ -1,4 +1,3 @@
-- **2010-01-27 17:31**: fix: adjust passing score threshold according to new rules
 - **2010-01-28 16:22**: chore: update questions database with recent DOTM updates
 - **2010-01-28 21:46**: feat: add result summary with passing threshold analysis
 - **2010-01-29 10:29**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2010-03-16 18:27**: chore: update questions database with recent DOTM updates
 - **2010-03-17 15:03**: feat: add warning signs and informational road signs
 - **2010-03-17 22:27**: feat: support multiple choice questions for motorcycle category
+- **2010-03-18 12:34**: style: polish typography and Nepali Unicode font rendering
