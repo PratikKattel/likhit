@@ -1,4 +1,3 @@
-- **2010-02-03 17:12**: style: polish typography and Nepali Unicode font rendering
 - **2010-02-04 14:43**: feat: add search and filter by sign category
 - **2010-02-04 17:38**: feat: add search and filter by sign category
 - **2010-02-04 18:33**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-03-21 19:01**: fix: correct color specifications for mandatory traffic signs
 - **2010-03-22 10:48**: docs: update README with setup instructions and feature list
 - **2010-03-22 15:19**: refactor: restructure question data schema for faster loading
+- **2010-03-22 20:36**: docs: update traffic signals catalog documentation
