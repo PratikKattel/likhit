@@ -1,4 +1,3 @@
-- **2010-02-04 18:33**: perf: lazy load signal graphics and question assets
 - **2010-02-05 15:26**: docs: improve code comments and API documentation
 - **2010-02-06 13:54**: refactor: restructure question data schema for faster loading
 - **2010-02-06 15:43**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-03-22 20:36**: docs: update traffic signals catalog documentation
 - **2010-03-23 09:57**: feat: add result summary with passing threshold analysis
 - **2010-03-24 13:53**: feat: add result summary with passing threshold analysis
+- **2010-03-24 18:58**: fix: resolve layout shift during question transitions
