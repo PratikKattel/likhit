@@ -1,4 +1,3 @@
-- **2010-02-06 13:54**: refactor: restructure question data schema for faster loading
 - **2010-02-06 15:43**: refactor: restructure question data schema for faster loading
 - **2010-02-07 12:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-02-08 09:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2010-03-24 13:53**: feat: add result summary with passing threshold analysis
 - **2010-03-24 18:58**: fix: resolve layout shift during question transitions
 - **2010-03-25 10:40**: fix: resolve layout shift during question transitions
+- **2010-03-26 16:57**: docs: add instructions for Nepali driving license written exam
