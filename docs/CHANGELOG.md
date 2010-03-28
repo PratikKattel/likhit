@@ -1,4 +1,3 @@
-- **2010-02-08 09:51**: perf: index question IDs for rapid lookup
 - **2010-02-08 11:41**: feat: implement timer and score calculation for mock test
 - **2010-02-08 13:50**: chore: format code style and clean up redundant variables
 - **2010-02-09 10:10**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-03-26 16:57**: docs: add instructions for Nepali driving license written exam
 - **2010-03-26 21:12**: docs: update README with setup instructions and feature list
 - **2010-03-27 16:09**: chore: update questions database with recent DOTM updates
+- **2010-03-28 15:31**: style: improve dark/light mode and mobile UI responsiveness
