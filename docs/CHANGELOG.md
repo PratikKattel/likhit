@@ -1,4 +1,3 @@
-- **2010-02-08 13:50**: chore: format code style and clean up redundant variables
 - **2010-02-09 10:10**: perf: lazy load signal graphics and question assets
 - **2010-02-10 14:10**: fix: typo in Nepali road safety regulations question
 - **2010-02-10 16:59**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-03-27 16:09**: chore: update questions database with recent DOTM updates
 - **2010-03-28 15:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-03-28 17:50**: perf: lazy load signal graphics and question assets
+- **2010-03-28 19:02**: docs: update README with setup instructions and feature list
