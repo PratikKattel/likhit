@@ -1,4 +1,3 @@
-- **2010-02-11 10:11**: docs: update README with setup instructions and feature list
 - **2010-02-11 17:51**: style: polish typography and Nepali Unicode font rendering
 - **2010-02-11 17:56**: chore: update questions database with recent DOTM updates
 - **2010-02-11 19:27**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-03-29 09:18**: fix: adjust passing score threshold according to new rules
 - **2010-03-30 20:20**: fix: prevent option re-selection after submitting answer
 - **2010-03-31 12:43**: fix: resolve layout shift during question transitions
+- **2010-03-31 13:47**: fix: typo in Nepali road safety regulations question
