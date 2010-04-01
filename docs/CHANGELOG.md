@@ -1,4 +1,3 @@
-- **2010-02-11 17:51**: style: polish typography and Nepali Unicode font rendering
 - **2010-02-11 17:56**: chore: update questions database with recent DOTM updates
 - **2010-02-11 19:27**: fix: typo in Nepali road safety regulations question
 - **2010-02-12 14:56**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-03-30 20:20**: fix: prevent option re-selection after submitting answer
 - **2010-03-31 12:43**: fix: resolve layout shift during question transitions
 - **2010-03-31 13:47**: fix: typo in Nepali road safety regulations question
+- **2010-04-01 16:05**: chore: format code style and clean up redundant variables
