@@ -1,4 +1,3 @@
-- **2010-02-13 20:50**: docs: improve code comments and API documentation
 - **2010-02-14 13:02**: feat: add instant feedback and explanation on answer selection
 - **2010-02-15 11:20**: chore: format code style and clean up redundant variables
 - **2010-02-15 13:13**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2010-04-02 18:27**: perf: optimize image caching for traffic sign assets
 - **2010-04-03 15:07**: feat: add regulatory traffic signs SVG graphics
 - **2010-04-03 21:34**: fix: adjust passing score threshold according to new rules
+- **2010-04-04 14:41**: fix: resolve layout shift during question transitions
