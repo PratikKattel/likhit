@@ -1,4 +1,3 @@
-- **2010-02-15 11:20**: chore: format code style and clean up redundant variables
 - **2010-02-15 13:13**: docs: update README with setup instructions and feature list
 - **2010-02-16 10:05**: docs: improve code comments and API documentation
 - **2010-02-17 10:51**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-04-03 21:34**: fix: adjust passing score threshold according to new rules
 - **2010-04-04 14:41**: fix: resolve layout shift during question transitions
 - **2010-04-05 11:51**: docs: add instructions for Nepali driving license written exam
+- **2010-04-06 12:12**: style: enhance traffic sign card layout and responsiveness
