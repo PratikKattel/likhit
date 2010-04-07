@@ -1,4 +1,3 @@
-- **2010-02-16 10:05**: docs: improve code comments and API documentation
 - **2010-02-17 10:51**: test: verify question extraction script against exam PDF
 - **2010-02-18 16:59**: chore: update questions database with recent DOTM updates
 - **2010-02-19 11:44**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-04-05 11:51**: docs: add instructions for Nepali driving license written exam
 - **2010-04-06 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-06 17:14**: feat: add category A and B traffic test questions
+- **2010-04-07 20:34**: chore: update project metadata and build configuration
