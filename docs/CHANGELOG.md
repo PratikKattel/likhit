@@ -1,4 +1,3 @@
-- **2010-02-19 11:44**: perf: lazy load signal graphics and question assets
 - **2010-02-19 20:20**: fix: update DOTM Nepal license syllabus questions
 - **2010-02-20 09:06**: feat: add search and filter by sign category
 - **2010-02-20 17:03**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-04-07 20:34**: chore: update project metadata and build configuration
 - **2010-04-08 09:51**: docs: update README with setup instructions and feature list
 - **2010-04-09 14:47**: feat: support multiple choice questions for motorcycle category
+- **2010-04-10 09:41**: docs: add instructions for Nepali driving license written exam
