@@ -1,4 +1,3 @@
-- **2010-02-20 17:03**: fix: adjust passing score threshold according to new rules
 - **2010-02-21 22:27**: chore: format code style and clean up redundant variables
 - **2010-02-22 09:39**: test: verify question extraction script against exam PDF
 - **2010-02-22 13:12**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-04-10 09:41**: docs: add instructions for Nepali driving license written exam
 - **2010-04-11 10:30**: chore: format code style and clean up redundant variables
 - **2010-04-11 12:52**: perf: lazy load signal graphics and question assets
+- **2010-04-11 15:13**: chore: update questions database with recent DOTM updates
