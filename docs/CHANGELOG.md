@@ -1,4 +1,3 @@
-- **2010-02-22 15:19**: feat: add category A and B traffic test questions
 - **2010-02-23 17:58**: fix: prevent option re-selection after submitting answer
 - **2010-02-24 09:37**: style: polish typography and Nepali Unicode font rendering
 - **2010-02-25 22:28**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-04-12 11:30**: fix: prevent option re-selection after submitting answer
 - **2010-04-13 21:18**: feat: add category A and B traffic test questions
 - **2010-04-13 22:25**: refactor: optimize SVG rendering for road signs
+- **2010-04-14 18:30**: feat: add search and filter by sign category
