@@ -1,4 +1,3 @@
-- **2010-02-26 17:32**: refactor: modularize traffic app logic and event listeners
 - **2010-02-26 17:35**: feat: add result summary with passing threshold analysis
 - **2010-02-27 17:36**: docs: update traffic signals catalog documentation
 - **2010-02-28 16:44**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2010-04-15 13:17**: fix: typo in Nepali road safety regulations question
 - **2010-04-15 17:31**: feat: implement timer and score calculation for mock test
 - **2010-04-16 16:43**: docs: improve code comments and API documentation
+- **2010-04-16 17:05**: perf: lazy load signal graphics and question assets
