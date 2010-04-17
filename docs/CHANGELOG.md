@@ -1,4 +1,3 @@
-- **2010-02-26 17:35**: feat: add result summary with passing threshold analysis
 - **2010-02-27 17:36**: docs: update traffic signals catalog documentation
 - **2010-02-28 16:44**: chore: update project metadata and build configuration
 - **2010-02-28 19:00**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2010-04-15 17:31**: feat: implement timer and score calculation for mock test
 - **2010-04-16 16:43**: docs: improve code comments and API documentation
 - **2010-04-16 17:05**: perf: lazy load signal graphics and question assets
+- **2010-04-17 13:25**: fix: adjust passing score threshold according to new rules
