@@ -1,4 +1,3 @@
-- **2010-03-01 15:07**: refactor: optimize SVG rendering for road signs
 - **2010-03-02 11:40**: fix: adjust passing score threshold according to new rules
 - **2010-03-03 14:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-03-03 17:21**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-04-17 15:25**: fix: resolve layout shift during question transitions
 - **2010-04-17 16:47**: chore: format code style and clean up redundant variables
 - **2010-04-18 16:56**: style: enhance traffic sign card layout and responsiveness
+- **2010-04-19 14:03**: style: polish typography and Nepali Unicode font rendering
