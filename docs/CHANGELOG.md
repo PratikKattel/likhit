@@ -1,4 +1,3 @@
-- **2010-03-02 11:40**: fix: adjust passing score threshold according to new rules
 - **2010-03-03 14:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-03-03 17:21**: fix: adjust passing score threshold according to new rules
 - **2010-03-03 21:52**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2010-04-17 16:47**: chore: format code style and clean up redundant variables
 - **2010-04-18 16:56**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-19 14:03**: style: polish typography and Nepali Unicode font rendering
+- **2010-04-19 18:42**: perf: optimize image caching for traffic sign assets
