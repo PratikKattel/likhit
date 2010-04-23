@@ -1,4 +1,3 @@
-- **2010-03-04 13:45**: chore: update questions database with recent DOTM updates
 - **2010-03-05 10:03**: perf: optimize image caching for traffic sign assets
 - **2010-03-06 19:02**: style: polish typography and Nepali Unicode font rendering
 - **2010-03-07 09:27**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-04-21 17:39**: chore: format code style and clean up redundant variables
 - **2010-04-21 19:21**: chore: update questions database with recent DOTM updates
 - **2010-04-22 15:34**: fix: update DOTM Nepal license syllabus questions
+- **2010-04-23 14:40**: feat: add warning signs and informational road signs
