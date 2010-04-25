@@ -1,4 +1,3 @@
-- **2010-03-07 09:52**: fix: resolve layout shift during question transitions
 - **2010-03-08 18:24**: feat: add category A and B traffic test questions
 - **2010-03-09 11:36**: feat: add warning signs and informational road signs
 - **2010-03-09 17:15**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-04-23 18:22**: fix: typo in Nepali road safety regulations question
 - **2010-04-24 22:15**: feat: add instant feedback and explanation on answer selection
 - **2010-04-25 17:37**: perf: index question IDs for rapid lookup
+- **2010-04-25 22:25**: feat: add search and filter by sign category
