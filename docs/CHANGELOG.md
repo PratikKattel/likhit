@@ -1,4 +1,3 @@
-- **2010-03-11 13:12**: docs: update README with setup instructions and feature list
 - **2010-03-11 21:48**: feat: add category-specific practice modes
 - **2010-03-12 09:16**: fix: adjust passing score threshold according to new rules
 - **2010-03-12 09:45**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2010-04-26 10:05**: feat: add category-specific practice modes
 - **2010-04-26 11:25**: fix: adjust passing score threshold according to new rules
 - **2010-04-26 18:57**: docs: improve code comments and API documentation
+- **2010-04-26 19:05**: style: polish typography and Nepali Unicode font rendering
