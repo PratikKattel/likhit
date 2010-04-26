@@ -1,4 +1,3 @@
-- **2010-03-09 17:15**: fix: typo in Nepali road safety regulations question
 - **2010-03-10 16:08**: feat: support multiple choice questions for motorcycle category
 - **2010-03-11 13:12**: docs: update README with setup instructions and feature list
 - **2010-03-11 21:48**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-04-25 22:25**: feat: add search and filter by sign category
 - **2010-04-25 22:28**: fix: typo in Nepali road safety regulations question
 - **2010-04-26 10:05**: feat: add category-specific practice modes
+- **2010-04-26 11:25**: fix: adjust passing score threshold according to new rules
