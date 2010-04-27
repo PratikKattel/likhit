@@ -1,4 +1,3 @@
-- **2010-03-11 21:48**: feat: add category-specific practice modes
 - **2010-03-12 09:16**: fix: adjust passing score threshold according to new rules
 - **2010-03-12 09:45**: chore: organize assets and image directory structure
 - **2010-03-12 14:58**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-04-26 11:25**: fix: adjust passing score threshold according to new rules
 - **2010-04-26 18:57**: docs: improve code comments and API documentation
 - **2010-04-26 19:05**: style: polish typography and Nepali Unicode font rendering
+- **2010-04-27 10:39**: feat: add warning signs and informational road signs
