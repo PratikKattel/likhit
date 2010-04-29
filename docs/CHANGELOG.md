@@ -1,4 +1,3 @@
-- **2010-03-14 09:04**: feat: add regulatory traffic signs SVG graphics
 - **2010-03-14 18:35**: feat: add category-specific practice modes
 - **2010-03-15 19:14**: fix: prevent option re-selection after submitting answer
 - **2010-03-16 13:47**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-04-28 09:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-04-28 11:49**: feat: add warning signs and informational road signs
 - **2010-04-28 15:47**: docs: update traffic signals catalog documentation
+- **2010-04-29 12:32**: style: enhance traffic sign card layout and responsiveness
