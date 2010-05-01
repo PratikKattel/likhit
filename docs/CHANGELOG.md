@@ -1,4 +1,3 @@
-- **2010-03-15 19:14**: fix: prevent option re-selection after submitting answer
 - **2010-03-16 13:47**: feat: add category-specific practice modes
 - **2010-03-16 18:27**: chore: update questions database with recent DOTM updates
 - **2010-03-17 15:03**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2010-04-28 15:47**: docs: update traffic signals catalog documentation
 - **2010-04-29 12:32**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-30 13:48**: refactor: restructure question data schema for faster loading
+- **2010-05-01 17:03**: chore: format code style and clean up redundant variables
