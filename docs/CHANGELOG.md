@@ -1,4 +1,3 @@
-- **2010-03-17 15:03**: feat: add warning signs and informational road signs
 - **2010-03-17 22:27**: feat: support multiple choice questions for motorcycle category
 - **2010-03-18 12:34**: style: polish typography and Nepali Unicode font rendering
 - **2010-03-18 15:52**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2010-05-01 17:03**: chore: format code style and clean up redundant variables
 - **2010-05-02 10:33**: fix: adjust passing score threshold according to new rules
 - **2010-05-02 18:33**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-05-02 19:07**: style: polish typography and Nepali Unicode font rendering
