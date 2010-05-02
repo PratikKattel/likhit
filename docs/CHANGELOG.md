@@ -1,4 +1,3 @@
-- **2010-03-16 13:47**: feat: add category-specific practice modes
 - **2010-03-16 18:27**: chore: update questions database with recent DOTM updates
 - **2010-03-17 15:03**: feat: add warning signs and informational road signs
 - **2010-03-17 22:27**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-04-29 12:32**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-30 13:48**: refactor: restructure question data schema for faster loading
 - **2010-05-01 17:03**: chore: format code style and clean up redundant variables
+- **2010-05-02 10:33**: fix: adjust passing score threshold according to new rules
