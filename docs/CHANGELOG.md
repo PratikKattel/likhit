@@ -1,4 +1,3 @@
-- **2010-03-18 17:35**: fix: update DOTM Nepal license syllabus questions
 - **2010-03-19 20:22**: fix: correct color specifications for mandatory traffic signs
 - **2010-03-20 16:41**: feat: support multiple choice questions for motorcycle category
 - **2010-03-20 18:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2010-05-03 09:29**: chore: update project metadata and build configuration
 - **2010-05-04 10:04**: style: enhance traffic sign card layout and responsiveness
 - **2010-05-04 11:26**: fix: typo in Nepali road safety regulations question
+- **2010-05-05 10:12**: chore: update questions database with recent DOTM updates
