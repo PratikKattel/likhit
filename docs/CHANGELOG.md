@@ -1,4 +1,3 @@
-- **2010-03-20 16:41**: feat: support multiple choice questions for motorcycle category
 - **2010-03-20 18:13**: docs: improve code comments and API documentation
 - **2010-03-21 19:01**: fix: correct color specifications for mandatory traffic signs
 - **2010-03-22 10:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2010-05-04 11:26**: fix: typo in Nepali road safety regulations question
 - **2010-05-05 10:12**: chore: update questions database with recent DOTM updates
 - **2010-05-05 15:53**: chore: format code style and clean up redundant variables
+- **2010-05-06 12:49**: feat: add keyboard navigation shortcuts for question selection
