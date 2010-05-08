@@ -1,4 +1,3 @@
-- **2010-03-22 10:48**: docs: update README with setup instructions and feature list
 - **2010-03-22 15:19**: refactor: restructure question data schema for faster loading
 - **2010-03-22 20:36**: docs: update traffic signals catalog documentation
 - **2010-03-23 09:57**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2010-05-06 12:49**: feat: add keyboard navigation shortcuts for question selection
 - **2010-05-06 13:48**: feat: add category-specific practice modes
 - **2010-05-07 17:27**: chore: update questions database with recent DOTM updates
+- **2010-05-08 16:51**: docs: add instructions for Nepali driving license written exam
