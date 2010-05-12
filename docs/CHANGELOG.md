@@ -1,4 +1,3 @@
-- **2010-03-26 16:57**: docs: add instructions for Nepali driving license written exam
 - **2010-03-26 21:12**: docs: update README with setup instructions and feature list
 - **2010-03-27 16:09**: chore: update questions database with recent DOTM updates
 - **2010-03-28 15:31**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-05-10 21:55**: feat: support multiple choice questions for motorcycle category
 - **2010-05-11 10:08**: fix: adjust passing score threshold according to new rules
 - **2010-05-11 20:57**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-05-12 11:33**: docs: improve code comments and API documentation
