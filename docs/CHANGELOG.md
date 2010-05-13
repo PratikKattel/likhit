@@ -1,4 +1,3 @@
-- **2010-03-28 15:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-03-28 17:50**: perf: lazy load signal graphics and question assets
 - **2010-03-28 19:02**: docs: update README with setup instructions and feature list
 - **2010-03-29 09:18**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-05-12 11:33**: docs: improve code comments and API documentation
 - **2010-05-12 13:57**: perf: optimize image caching for traffic sign assets
 - **2010-05-12 21:46**: style: enhance traffic sign card layout and responsiveness
+- **2010-05-13 10:09**: fix: update DOTM Nepal license syllabus questions
