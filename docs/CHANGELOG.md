@@ -1,4 +1,3 @@
-- **2010-03-31 13:47**: fix: typo in Nepali road safety regulations question
 - **2010-04-01 16:05**: chore: format code style and clean up redundant variables
 - **2010-04-02 18:27**: perf: optimize image caching for traffic sign assets
 - **2010-04-03 15:07**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-05-14 18:25**: refactor: modularize traffic app logic and event listeners
 - **2010-05-15 11:31**: chore: organize assets and image directory structure
 - **2010-05-15 13:05**: fix: typo in Nepali road safety regulations question
+- **2010-05-15 18:53**: feat: add regulatory traffic signs SVG graphics
