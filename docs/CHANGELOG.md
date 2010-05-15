@@ -1,4 +1,3 @@
-- **2010-03-30 20:20**: fix: prevent option re-selection after submitting answer
 - **2010-03-31 12:43**: fix: resolve layout shift during question transitions
 - **2010-03-31 13:47**: fix: typo in Nepali road safety regulations question
 - **2010-04-01 16:05**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-05-13 19:02**: feat: implement timer and score calculation for mock test
 - **2010-05-14 10:38**: feat: add category-specific practice modes
 - **2010-05-14 18:25**: refactor: modularize traffic app logic and event listeners
+- **2010-05-15 11:31**: chore: organize assets and image directory structure
