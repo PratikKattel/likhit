@@ -1,4 +1,3 @@
-- **2010-04-03 21:34**: fix: adjust passing score threshold according to new rules
 - **2010-04-04 14:41**: fix: resolve layout shift during question transitions
 - **2010-04-05 11:51**: docs: add instructions for Nepali driving license written exam
 - **2010-04-06 12:12**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2010-05-16 18:00**: fix: prevent option re-selection after submitting answer
 - **2010-05-17 09:34**: fix: typo in Nepali road safety regulations question
 - **2010-05-17 09:53**: feat: add instant feedback and explanation on answer selection
+- **2010-05-17 16:06**: fix: update DOTM Nepal license syllabus questions
