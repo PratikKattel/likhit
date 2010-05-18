@@ -1,4 +1,3 @@
-- **2010-04-04 14:41**: fix: resolve layout shift during question transitions
 - **2010-04-05 11:51**: docs: add instructions for Nepali driving license written exam
 - **2010-04-06 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-06 17:14**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-05-17 09:34**: fix: typo in Nepali road safety regulations question
 - **2010-05-17 09:53**: feat: add instant feedback and explanation on answer selection
 - **2010-05-17 16:06**: fix: update DOTM Nepal license syllabus questions
+- **2010-05-18 19:52**: feat: add instant feedback and explanation on answer selection
