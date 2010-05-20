@@ -1,4 +1,3 @@
-- **2010-04-06 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-06 17:14**: feat: add category A and B traffic test questions
 - **2010-04-07 20:34**: chore: update project metadata and build configuration
 - **2010-04-08 09:51**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2010-05-17 16:06**: fix: update DOTM Nepal license syllabus questions
 - **2010-05-18 19:52**: feat: add instant feedback and explanation on answer selection
 - **2010-05-19 14:21**: perf: optimize image caching for traffic sign assets
+- **2010-05-20 17:10**: perf: lazy load signal graphics and question assets
