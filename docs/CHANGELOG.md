@@ -1,4 +1,3 @@
-- **2010-04-07 20:34**: chore: update project metadata and build configuration
 - **2010-04-08 09:51**: docs: update README with setup instructions and feature list
 - **2010-04-09 14:47**: feat: support multiple choice questions for motorcycle category
 - **2010-04-10 09:41**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-05-19 14:21**: perf: optimize image caching for traffic sign assets
 - **2010-05-20 17:10**: perf: lazy load signal graphics and question assets
 - **2010-05-20 20:13**: fix: resolve layout shift during question transitions
+- **2010-05-21 09:58**: feat: implement timer and score calculation for mock test
