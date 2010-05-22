@@ -1,4 +1,3 @@
-- **2010-04-10 09:41**: docs: add instructions for Nepali driving license written exam
 - **2010-04-11 10:30**: chore: format code style and clean up redundant variables
 - **2010-04-11 12:52**: perf: lazy load signal graphics and question assets
 - **2010-04-11 15:13**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-05-21 09:58**: feat: implement timer and score calculation for mock test
 - **2010-05-21 14:45**: feat: add instant feedback and explanation on answer selection
 - **2010-05-22 09:54**: feat: support multiple choice questions for motorcycle category
+- **2010-05-22 12:06**: fix: resolve layout shift during question transitions
