@@ -1,4 +1,3 @@
-- **2010-04-11 10:30**: chore: format code style and clean up redundant variables
 - **2010-04-11 12:52**: perf: lazy load signal graphics and question assets
 - **2010-04-11 15:13**: chore: update questions database with recent DOTM updates
 - **2010-04-11 18:04**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-05-21 14:45**: feat: add instant feedback and explanation on answer selection
 - **2010-05-22 09:54**: feat: support multiple choice questions for motorcycle category
 - **2010-05-22 12:06**: fix: resolve layout shift during question transitions
+- **2010-05-23 20:12**: feat: add search and filter by sign category
