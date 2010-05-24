@@ -1,4 +1,3 @@
-- **2010-04-11 15:13**: chore: update questions database with recent DOTM updates
 - **2010-04-11 18:04**: feat: add category A and B traffic test questions
 - **2010-04-12 11:30**: fix: prevent option re-selection after submitting answer
 - **2010-04-13 21:18**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-05-22 12:06**: fix: resolve layout shift during question transitions
 - **2010-05-23 20:12**: feat: add search and filter by sign category
 - **2010-05-24 12:24**: perf: lazy load signal graphics and question assets
+- **2010-05-24 14:44**: feat: add result summary with passing threshold analysis
