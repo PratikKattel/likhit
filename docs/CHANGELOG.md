@@ -1,4 +1,3 @@
-- **2010-04-13 22:25**: refactor: optimize SVG rendering for road signs
 - **2010-04-14 18:30**: feat: add search and filter by sign category
 - **2010-04-15 13:17**: fix: typo in Nepali road safety regulations question
 - **2010-04-15 17:31**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-05-25 13:01**: fix: adjust passing score threshold according to new rules
 - **2010-05-26 11:24**: chore: update project metadata and build configuration
 - **2010-05-26 15:09**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-05-26 15:52**: docs: improve code comments and API documentation
