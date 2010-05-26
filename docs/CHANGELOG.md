@@ -1,4 +1,3 @@
-- **2010-04-12 11:30**: fix: prevent option re-selection after submitting answer
 - **2010-04-13 21:18**: feat: add category A and B traffic test questions
 - **2010-04-13 22:25**: refactor: optimize SVG rendering for road signs
 - **2010-04-14 18:30**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-05-24 12:24**: perf: lazy load signal graphics and question assets
 - **2010-05-24 14:44**: feat: add result summary with passing threshold analysis
 - **2010-05-25 13:01**: fix: adjust passing score threshold according to new rules
+- **2010-05-26 11:24**: chore: update project metadata and build configuration
