@@ -1,4 +1,3 @@
-- **2010-04-15 17:31**: feat: implement timer and score calculation for mock test
 - **2010-04-16 16:43**: docs: improve code comments and API documentation
 - **2010-04-16 17:05**: perf: lazy load signal graphics and question assets
 - **2010-04-17 13:25**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-05-26 15:52**: docs: improve code comments and API documentation
 - **2010-05-26 16:23**: chore: update questions database with recent DOTM updates
 - **2010-05-27 19:48**: fix: typo in Nepali road safety regulations question
+- **2010-05-28 18:42**: refactor: modularize traffic app logic and event listeners
