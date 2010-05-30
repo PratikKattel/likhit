@@ -1,4 +1,3 @@
-- **2010-04-16 17:05**: perf: lazy load signal graphics and question assets
 - **2010-04-17 13:25**: fix: adjust passing score threshold according to new rules
 - **2010-04-17 15:25**: fix: resolve layout shift during question transitions
 - **2010-04-17 16:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-05-27 19:48**: fix: typo in Nepali road safety regulations question
 - **2010-05-28 18:42**: refactor: modularize traffic app logic and event listeners
 - **2010-05-29 14:13**: test: verify question extraction script against exam PDF
+- **2010-05-30 09:44**: feat: add category A and B traffic test questions
