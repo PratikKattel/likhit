@@ -1,4 +1,3 @@
-- **2010-04-19 18:42**: perf: optimize image caching for traffic sign assets
 - **2010-04-20 13:46**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-21 17:39**: chore: format code style and clean up redundant variables
 - **2010-04-21 19:21**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-05-31 16:55**: feat: add category-specific practice modes
 - **2010-06-01 12:04**: feat: add keyboard navigation shortcuts for question selection
 - **2010-06-01 15:48**: feat: add instant feedback and explanation on answer selection
+- **2010-06-01 16:32**: fix: correct color specifications for mandatory traffic signs
