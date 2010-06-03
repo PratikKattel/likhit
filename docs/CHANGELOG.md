@@ -1,4 +1,3 @@
-- **2010-04-21 19:21**: chore: update questions database with recent DOTM updates
 - **2010-04-22 15:34**: fix: update DOTM Nepal license syllabus questions
 - **2010-04-23 14:40**: feat: add warning signs and informational road signs
 - **2010-04-23 18:22**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-06-01 16:32**: fix: correct color specifications for mandatory traffic signs
 - **2010-06-02 10:25**: feat: add keyboard navigation shortcuts for question selection
 - **2010-06-03 11:29**: chore: format code style and clean up redundant variables
+- **2010-06-03 14:37**: docs: update traffic signals catalog documentation
