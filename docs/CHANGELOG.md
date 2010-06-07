@@ -1,4 +1,3 @@
-- **2010-04-24 22:15**: feat: add instant feedback and explanation on answer selection
 - **2010-04-25 17:37**: perf: index question IDs for rapid lookup
 - **2010-04-25 22:25**: feat: add search and filter by sign category
 - **2010-04-25 22:28**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-06-04 19:14**: feat: add regulatory traffic signs SVG graphics
 - **2010-06-05 15:24**: docs: add instructions for Nepali driving license written exam
 - **2010-06-06 09:58**: test: verify question extraction script against exam PDF
+- **2010-06-07 19:02**: feat: add warning signs and informational road signs
