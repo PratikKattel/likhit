@@ -1,4 +1,3 @@
-- **2010-04-25 17:37**: perf: index question IDs for rapid lookup
 - **2010-04-25 22:25**: feat: add search and filter by sign category
 - **2010-04-25 22:28**: fix: typo in Nepali road safety regulations question
 - **2010-04-26 10:05**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-06-05 15:24**: docs: add instructions for Nepali driving license written exam
 - **2010-06-06 09:58**: test: verify question extraction script against exam PDF
 - **2010-06-07 19:02**: feat: add warning signs and informational road signs
+- **2010-06-08 21:02**: chore: update questions database with recent DOTM updates
