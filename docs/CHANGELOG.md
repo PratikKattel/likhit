@@ -1,4 +1,3 @@
-- **2010-04-26 18:57**: docs: improve code comments and API documentation
 - **2010-04-26 19:05**: style: polish typography and Nepali Unicode font rendering
 - **2010-04-27 10:39**: feat: add warning signs and informational road signs
 - **2010-04-27 13:01**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-06-10 10:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-06-11 11:10**: fix: prevent option re-selection after submitting answer
 - **2010-06-11 11:12**: fix: resolve layout shift during question transitions
+- **2010-06-11 14:27**: feat: add category-specific practice modes
