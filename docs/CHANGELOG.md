@@ -1,4 +1,3 @@
-- **2010-04-26 10:05**: feat: add category-specific practice modes
 - **2010-04-26 11:25**: fix: adjust passing score threshold according to new rules
 - **2010-04-26 18:57**: docs: improve code comments and API documentation
 - **2010-04-26 19:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-06-08 21:02**: chore: update questions database with recent DOTM updates
 - **2010-06-09 12:56**: fix: correct color specifications for mandatory traffic signs
 - **2010-06-10 10:26**: fix: update DOTM Nepal license syllabus questions
+- **2010-06-11 11:10**: fix: prevent option re-selection after submitting answer
