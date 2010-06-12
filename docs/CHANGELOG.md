@@ -1,4 +1,3 @@
-- **2010-04-26 19:05**: style: polish typography and Nepali Unicode font rendering
 - **2010-04-27 10:39**: feat: add warning signs and informational road signs
 - **2010-04-27 13:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-04-28 09:43**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2010-06-11 11:10**: fix: prevent option re-selection after submitting answer
 - **2010-06-11 11:12**: fix: resolve layout shift during question transitions
 - **2010-06-11 14:27**: feat: add category-specific practice modes
+- **2010-06-12 17:17**: chore: organize assets and image directory structure
