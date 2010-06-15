@@ -1,4 +1,3 @@
-- **2010-04-28 15:47**: docs: update traffic signals catalog documentation
 - **2010-04-29 12:32**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-30 13:48**: refactor: restructure question data schema for faster loading
 - **2010-05-01 17:03**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-06-14 12:43**: feat: add keyboard navigation shortcuts for question selection
 - **2010-06-14 15:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-06-14 16:14**: feat: add category-specific practice modes
+- **2010-06-15 13:46**: chore: organize assets and image directory structure
