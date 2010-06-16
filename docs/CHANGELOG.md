@@ -1,4 +1,3 @@
-- **2010-04-29 12:32**: style: enhance traffic sign card layout and responsiveness
 - **2010-04-30 13:48**: refactor: restructure question data schema for faster loading
 - **2010-05-01 17:03**: chore: format code style and clean up redundant variables
 - **2010-05-02 10:33**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-06-14 15:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-06-14 16:14**: feat: add category-specific practice modes
 - **2010-06-15 13:46**: chore: organize assets and image directory structure
+- **2010-06-16 11:44**: feat: add instant feedback and explanation on answer selection
