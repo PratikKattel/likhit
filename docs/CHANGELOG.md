@@ -1,4 +1,3 @@
-- **2010-05-01 17:03**: chore: format code style and clean up redundant variables
 - **2010-05-02 10:33**: fix: adjust passing score threshold according to new rules
 - **2010-05-02 18:33**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-05-02 19:07**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-06-15 13:46**: chore: organize assets and image directory structure
 - **2010-06-16 11:44**: feat: add instant feedback and explanation on answer selection
 - **2010-06-16 17:16**: feat: add regulatory traffic signs SVG graphics
+- **2010-06-16 19:46**: fix: adjust passing score threshold according to new rules
