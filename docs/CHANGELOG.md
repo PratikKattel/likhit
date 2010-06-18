@@ -1,4 +1,3 @@
-- **2010-05-02 19:07**: style: polish typography and Nepali Unicode font rendering
 - **2010-05-03 09:29**: chore: update project metadata and build configuration
 - **2010-05-04 10:04**: style: enhance traffic sign card layout and responsiveness
 - **2010-05-04 11:26**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-06-16 19:46**: fix: adjust passing score threshold according to new rules
 - **2010-06-17 11:29**: docs: add instructions for Nepali driving license written exam
 - **2010-06-17 14:13**: fix: typo in Nepali road safety regulations question
+- **2010-06-18 20:34**: feat: add category A and B traffic test questions
