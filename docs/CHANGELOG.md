@@ -1,4 +1,3 @@
-- **2010-05-03 09:29**: chore: update project metadata and build configuration
 - **2010-05-04 10:04**: style: enhance traffic sign card layout and responsiveness
 - **2010-05-04 11:26**: fix: typo in Nepali road safety regulations question
 - **2010-05-05 10:12**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-06-17 11:29**: docs: add instructions for Nepali driving license written exam
 - **2010-06-17 14:13**: fix: typo in Nepali road safety regulations question
 - **2010-06-18 20:34**: feat: add category A and B traffic test questions
+- **2010-06-19 12:58**: style: enhance traffic sign card layout and responsiveness
