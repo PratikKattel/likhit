@@ -1,4 +1,3 @@
-- **2010-05-05 15:53**: chore: format code style and clean up redundant variables
 - **2010-05-06 12:49**: feat: add keyboard navigation shortcuts for question selection
 - **2010-05-06 13:48**: feat: add category-specific practice modes
 - **2010-05-07 17:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-06-19 15:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-06-20 12:27**: perf: optimize image caching for traffic sign assets
 - **2010-06-21 15:22**: docs: improve code comments and API documentation
+- **2010-06-21 16:31**: perf: optimize image caching for traffic sign assets
