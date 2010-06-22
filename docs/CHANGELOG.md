@@ -1,4 +1,3 @@
-- **2010-05-07 17:27**: chore: update questions database with recent DOTM updates
 - **2010-05-08 16:51**: docs: add instructions for Nepali driving license written exam
 - **2010-05-08 20:07**: perf: lazy load signal graphics and question assets
 - **2010-05-09 15:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2010-06-21 16:31**: perf: optimize image caching for traffic sign assets
 - **2010-06-22 09:06**: feat: add category-specific practice modes
 - **2010-06-22 19:11**: feat: add category A and B traffic test questions
+- **2010-06-22 21:52**: refactor: optimize SVG rendering for road signs
