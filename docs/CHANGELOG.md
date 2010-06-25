@@ -1,4 +1,3 @@
-- **2010-05-09 15:30**: docs: update traffic signals catalog documentation
 - **2010-05-10 18:58**: feat: add result summary with passing threshold analysis
 - **2010-05-10 21:55**: feat: support multiple choice questions for motorcycle category
 - **2010-05-11 10:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-06-22 21:52**: refactor: optimize SVG rendering for road signs
 - **2010-06-23 12:20**: refactor: modularize traffic app logic and event listeners
 - **2010-06-24 16:43**: feat: add result summary with passing threshold analysis
+- **2010-06-25 17:41**: fix: prevent option re-selection after submitting answer
