@@ -1,4 +1,3 @@
-- **2010-05-11 10:08**: fix: adjust passing score threshold according to new rules
 - **2010-05-11 20:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-05-12 11:33**: docs: improve code comments and API documentation
 - **2010-05-12 13:57**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-06-25 17:41**: fix: prevent option re-selection after submitting answer
 - **2010-06-26 14:00**: feat: add instant feedback and explanation on answer selection
 - **2010-06-26 19:42**: fix: typo in Nepali road safety regulations question
+- **2010-06-27 19:34**: feat: add search and filter by sign category
