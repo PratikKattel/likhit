@@ -1,4 +1,3 @@
-- **2010-05-12 13:57**: perf: optimize image caching for traffic sign assets
 - **2010-05-12 21:46**: style: enhance traffic sign card layout and responsiveness
 - **2010-05-13 10:09**: fix: update DOTM Nepal license syllabus questions
 - **2010-05-13 19:02**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-06-27 19:34**: feat: add search and filter by sign category
 - **2010-06-28 09:22**: feat: support multiple choice questions for motorcycle category
 - **2010-06-28 10:56**: fix: resolve layout shift during question transitions
+- **2010-06-28 15:22**: docs: improve code comments and API documentation
