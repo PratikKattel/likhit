@@ -1,4 +1,3 @@
-- **2010-05-13 10:09**: fix: update DOTM Nepal license syllabus questions
 - **2010-05-13 19:02**: feat: implement timer and score calculation for mock test
 - **2010-05-14 10:38**: feat: add category-specific practice modes
 - **2010-05-14 18:25**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2010-06-28 10:56**: fix: resolve layout shift during question transitions
 - **2010-06-28 15:22**: docs: improve code comments and API documentation
 - **2010-06-29 09:00**: fix: adjust passing score threshold according to new rules
+- **2010-06-29 18:07**: fix: typo in Nepali road safety regulations question
