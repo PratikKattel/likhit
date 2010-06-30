@@ -1,4 +1,3 @@
-- **2010-05-14 10:38**: feat: add category-specific practice modes
 - **2010-05-14 18:25**: refactor: modularize traffic app logic and event listeners
 - **2010-05-15 11:31**: chore: organize assets and image directory structure
 - **2010-05-15 13:05**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-06-29 09:00**: fix: adjust passing score threshold according to new rules
 - **2010-06-29 18:07**: fix: typo in Nepali road safety regulations question
 - **2010-06-29 19:47**: feat: implement timer and score calculation for mock test
+- **2010-06-30 13:18**: refactor: modularize traffic app logic and event listeners
