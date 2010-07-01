@@ -1,4 +1,3 @@
-- **2010-05-14 18:25**: refactor: modularize traffic app logic and event listeners
 - **2010-05-15 11:31**: chore: organize assets and image directory structure
 - **2010-05-15 13:05**: fix: typo in Nepali road safety regulations question
 - **2010-05-15 18:53**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-06-29 18:07**: fix: typo in Nepali road safety regulations question
 - **2010-06-29 19:47**: feat: implement timer and score calculation for mock test
 - **2010-06-30 13:18**: refactor: modularize traffic app logic and event listeners
+- **2010-07-01 09:14**: perf: index question IDs for rapid lookup
