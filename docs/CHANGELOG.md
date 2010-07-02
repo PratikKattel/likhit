@@ -1,4 +1,3 @@
-- **2010-05-15 13:05**: fix: typo in Nepali road safety regulations question
 - **2010-05-15 18:53**: feat: add regulatory traffic signs SVG graphics
 - **2010-05-16 18:00**: fix: prevent option re-selection after submitting answer
 - **2010-05-17 09:34**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-06-30 13:18**: refactor: modularize traffic app logic and event listeners
 - **2010-07-01 09:14**: perf: index question IDs for rapid lookup
 - **2010-07-01 18:00**: fix: prevent option re-selection after submitting answer
+- **2010-07-02 14:19**: style: polish typography and Nepali Unicode font rendering
