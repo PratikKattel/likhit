@@ -1,4 +1,3 @@
-- **2010-05-17 09:53**: feat: add instant feedback and explanation on answer selection
 - **2010-05-17 16:06**: fix: update DOTM Nepal license syllabus questions
 - **2010-05-18 19:52**: feat: add instant feedback and explanation on answer selection
 - **2010-05-19 14:21**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-07-03 17:19**: refactor: restructure question data schema for faster loading
 - **2010-07-04 09:12**: feat: add instant feedback and explanation on answer selection
 - **2010-07-04 11:38**: refactor: optimize SVG rendering for road signs
+- **2010-07-04 12:49**: feat: add warning signs and informational road signs
