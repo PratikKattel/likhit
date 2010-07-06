@@ -1,4 +1,3 @@
-- **2010-05-19 14:21**: perf: optimize image caching for traffic sign assets
 - **2010-05-20 17:10**: perf: lazy load signal graphics and question assets
 - **2010-05-20 20:13**: fix: resolve layout shift during question transitions
 - **2010-05-21 09:58**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-07-04 12:49**: feat: add warning signs and informational road signs
 - **2010-07-04 12:52**: feat: add warning signs and informational road signs
 - **2010-07-05 11:08**: feat: add result summary with passing threshold analysis
+- **2010-07-06 09:08**: test: verify question extraction script against exam PDF
