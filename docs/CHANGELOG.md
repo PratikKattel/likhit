@@ -1,4 +1,3 @@
-- **2010-05-21 14:45**: feat: add instant feedback and explanation on answer selection
 - **2010-05-22 09:54**: feat: support multiple choice questions for motorcycle category
 - **2010-05-22 12:06**: fix: resolve layout shift during question transitions
 - **2010-05-23 20:12**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-07-06 16:08**: feat: add regulatory traffic signs SVG graphics
 - **2010-07-07 11:13**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-07 15:07**: feat: implement timer and score calculation for mock test
+- **2010-07-08 13:46**: docs: add instructions for Nepali driving license written exam
