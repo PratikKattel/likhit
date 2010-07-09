@@ -1,4 +1,3 @@
-- **2010-05-22 12:06**: fix: resolve layout shift during question transitions
 - **2010-05-23 20:12**: feat: add search and filter by sign category
 - **2010-05-24 12:24**: perf: lazy load signal graphics and question assets
 - **2010-05-24 14:44**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2010-07-07 15:07**: feat: implement timer and score calculation for mock test
 - **2010-07-08 13:46**: docs: add instructions for Nepali driving license written exam
 - **2010-07-09 09:04**: fix: correct color specifications for mandatory traffic signs
+- **2010-07-09 15:02**: style: enhance traffic sign card layout and responsiveness
