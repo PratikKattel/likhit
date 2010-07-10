@@ -1,4 +1,3 @@
-- **2010-05-24 14:44**: feat: add result summary with passing threshold analysis
 - **2010-05-25 13:01**: fix: adjust passing score threshold according to new rules
 - **2010-05-26 11:24**: chore: update project metadata and build configuration
 - **2010-05-26 15:09**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-07-09 15:02**: style: enhance traffic sign card layout and responsiveness
 - **2010-07-09 21:38**: perf: index question IDs for rapid lookup
 - **2010-07-10 13:31**: feat: add category A and B traffic test questions
+- **2010-07-10 13:39**: style: enhance traffic sign card layout and responsiveness
