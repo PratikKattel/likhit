@@ -1,4 +1,3 @@
-- **2010-05-26 11:24**: chore: update project metadata and build configuration
 - **2010-05-26 15:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-05-26 15:52**: docs: improve code comments and API documentation
 - **2010-05-26 16:23**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-07-10 13:31**: feat: add category A and B traffic test questions
 - **2010-07-10 13:39**: style: enhance traffic sign card layout and responsiveness
 - **2010-07-11 12:47**: docs: update traffic signals catalog documentation
+- **2010-07-12 16:53**: feat: add category-specific practice modes
