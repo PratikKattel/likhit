@@ -1,4 +1,3 @@
-- **2010-05-26 15:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-05-26 15:52**: docs: improve code comments and API documentation
 - **2010-05-26 16:23**: chore: update questions database with recent DOTM updates
 - **2010-05-27 19:48**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-07-10 13:39**: style: enhance traffic sign card layout and responsiveness
 - **2010-07-11 12:47**: docs: update traffic signals catalog documentation
 - **2010-07-12 16:53**: feat: add category-specific practice modes
+- **2010-07-13 22:13**: fix: update DOTM Nepal license syllabus questions
