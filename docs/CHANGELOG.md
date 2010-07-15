@@ -1,4 +1,3 @@
-- **2010-05-28 18:42**: refactor: modularize traffic app logic and event listeners
 - **2010-05-29 14:13**: test: verify question extraction script against exam PDF
 - **2010-05-30 09:44**: feat: add category A and B traffic test questions
 - **2010-05-30 19:28**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-07-14 10:27**: docs: update traffic signals catalog documentation
 - **2010-07-14 10:36**: feat: add search and filter by sign category
 - **2010-07-14 17:49**: feat: add regulatory traffic signs SVG graphics
+- **2010-07-15 09:05**: test: verify question extraction script against exam PDF
