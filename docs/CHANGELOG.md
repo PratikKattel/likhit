@@ -1,4 +1,3 @@
-- **2010-05-31 09:25**: test: verify question extraction script against exam PDF
 - **2010-05-31 16:55**: feat: add category-specific practice modes
 - **2010-06-01 12:04**: feat: add keyboard navigation shortcuts for question selection
 - **2010-06-01 15:48**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-07-16 11:58**: feat: add search and filter by sign category
 - **2010-07-16 19:06**: docs: update traffic signals catalog documentation
 - **2010-07-17 09:38**: fix: typo in Nepali road safety regulations question
+- **2010-07-17 15:56**: feat: add regulatory traffic signs SVG graphics
