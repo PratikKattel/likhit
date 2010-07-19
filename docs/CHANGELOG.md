@@ -1,4 +1,3 @@
-- **2010-06-01 15:48**: feat: add instant feedback and explanation on answer selection
 - **2010-06-01 16:32**: fix: correct color specifications for mandatory traffic signs
 - **2010-06-02 10:25**: feat: add keyboard navigation shortcuts for question selection
 - **2010-06-03 11:29**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-07-17 15:56**: feat: add regulatory traffic signs SVG graphics
 - **2010-07-18 21:36**: perf: lazy load signal graphics and question assets
 - **2010-07-19 17:05**: feat: add result summary with passing threshold analysis
+- **2010-07-19 17:56**: refactor: optimize SVG rendering for road signs
