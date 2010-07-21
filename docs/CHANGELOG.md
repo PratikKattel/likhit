@@ -1,4 +1,3 @@
-- **2010-06-03 11:29**: chore: format code style and clean up redundant variables
 - **2010-06-03 14:37**: docs: update traffic signals catalog documentation
 - **2010-06-04 19:14**: feat: add regulatory traffic signs SVG graphics
 - **2010-06-05 15:24**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-07-19 17:56**: refactor: optimize SVG rendering for road signs
 - **2010-07-20 20:43**: feat: add instant feedback and explanation on answer selection
 - **2010-07-21 13:30**: refactor: restructure question data schema for faster loading
+- **2010-07-21 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
