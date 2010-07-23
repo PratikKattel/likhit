@@ -1,4 +1,3 @@
-- **2010-06-05 15:24**: docs: add instructions for Nepali driving license written exam
 - **2010-06-06 09:58**: test: verify question extraction script against exam PDF
 - **2010-06-07 19:02**: feat: add warning signs and informational road signs
 - **2010-06-08 21:02**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-07-21 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-07-21 17:18**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-22 09:35**: feat: implement timer and score calculation for mock test
+- **2010-07-23 18:13**: feat: add regulatory traffic signs SVG graphics
