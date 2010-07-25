@@ -1,4 +1,3 @@
-- **2010-06-07 19:02**: feat: add warning signs and informational road signs
 - **2010-06-08 21:02**: chore: update questions database with recent DOTM updates
 - **2010-06-09 12:56**: fix: correct color specifications for mandatory traffic signs
 - **2010-06-10 10:26**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2010-07-22 09:35**: feat: implement timer and score calculation for mock test
 - **2010-07-23 18:13**: feat: add regulatory traffic signs SVG graphics
 - **2010-07-24 13:45**: perf: index question IDs for rapid lookup
+- **2010-07-25 11:29**: chore: update questions database with recent DOTM updates
