@@ -1,4 +1,3 @@
-- **2010-06-09 12:56**: fix: correct color specifications for mandatory traffic signs
 - **2010-06-10 10:26**: fix: update DOTM Nepal license syllabus questions
 - **2010-06-11 11:10**: fix: prevent option re-selection after submitting answer
 - **2010-06-11 11:12**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-07-24 13:45**: perf: index question IDs for rapid lookup
 - **2010-07-25 11:29**: chore: update questions database with recent DOTM updates
 - **2010-07-26 15:56**: docs: add instructions for Nepali driving license written exam
+- **2010-07-27 13:57**: chore: update project metadata and build configuration
