@@ -1,4 +1,3 @@
-- **2010-06-11 11:10**: fix: prevent option re-selection after submitting answer
 - **2010-06-11 11:12**: fix: resolve layout shift during question transitions
 - **2010-06-11 14:27**: feat: add category-specific practice modes
 - **2010-06-12 17:17**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2010-07-26 15:56**: docs: add instructions for Nepali driving license written exam
 - **2010-07-27 13:57**: chore: update project metadata and build configuration
 - **2010-07-28 21:25**: feat: add keyboard navigation shortcuts for question selection
+- **2010-07-29 12:10**: chore: organize assets and image directory structure
