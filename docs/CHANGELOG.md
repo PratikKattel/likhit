@@ -1,4 +1,3 @@
-- **2010-06-14 15:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-06-14 16:14**: feat: add category-specific practice modes
 - **2010-06-15 13:46**: chore: organize assets and image directory structure
 - **2010-06-16 11:44**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-07-30 19:13**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-31 19:49**: docs: add instructions for Nepali driving license written exam
 - **2010-08-01 14:56**: fix: adjust passing score threshold according to new rules
+- **2010-08-02 14:02**: feat: add regulatory traffic signs SVG graphics
