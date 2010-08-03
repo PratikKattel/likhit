@@ -1,4 +1,3 @@
-- **2010-06-16 11:44**: feat: add instant feedback and explanation on answer selection
 - **2010-06-16 17:16**: feat: add regulatory traffic signs SVG graphics
 - **2010-06-16 19:46**: fix: adjust passing score threshold according to new rules
 - **2010-06-17 11:29**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-08-02 14:02**: feat: add regulatory traffic signs SVG graphics
 - **2010-08-02 19:00**: fix: typo in Nepali road safety regulations question
 - **2010-08-02 21:36**: feat: add result summary with passing threshold analysis
+- **2010-08-03 11:12**: fix: correct color specifications for mandatory traffic signs
