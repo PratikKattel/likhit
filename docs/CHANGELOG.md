@@ -1,4 +1,3 @@
-- **2010-06-17 14:13**: fix: typo in Nepali road safety regulations question
 - **2010-06-18 20:34**: feat: add category A and B traffic test questions
 - **2010-06-19 12:58**: style: enhance traffic sign card layout and responsiveness
 - **2010-06-19 15:28**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2010-08-04 11:50**: feat: add warning signs and informational road signs
 - **2010-08-04 18:15**: feat: implement timer and score calculation for mock test
 - **2010-08-05 13:09**: feat: add instant feedback and explanation on answer selection
+- **2010-08-05 18:40**: refactor: restructure question data schema for faster loading
