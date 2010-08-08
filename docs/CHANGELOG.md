@@ -1,4 +1,3 @@
-- **2010-06-21 16:31**: perf: optimize image caching for traffic sign assets
 - **2010-06-22 09:06**: feat: add category-specific practice modes
 - **2010-06-22 19:11**: feat: add category A and B traffic test questions
 - **2010-06-22 21:52**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-08-07 10:06**: refactor: restructure question data schema for faster loading
 - **2010-08-07 11:49**: refactor: restructure question data schema for faster loading
 - **2010-08-07 12:08**: feat: add keyboard navigation shortcuts for question selection
+- **2010-08-08 14:46**: feat: add category-specific practice modes
