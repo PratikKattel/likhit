@@ -1,4 +1,3 @@
-- **2010-06-23 12:20**: refactor: modularize traffic app logic and event listeners
 - **2010-06-24 16:43**: feat: add result summary with passing threshold analysis
 - **2010-06-25 17:41**: fix: prevent option re-selection after submitting answer
 - **2010-06-26 14:00**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-08-09 13:57**: docs: improve code comments and API documentation
 - **2010-08-09 19:14**: feat: add keyboard navigation shortcuts for question selection
 - **2010-08-10 21:43**: feat: add search and filter by sign category
+- **2010-08-11 17:01**: refactor: restructure question data schema for faster loading
