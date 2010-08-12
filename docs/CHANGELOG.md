@@ -1,4 +1,3 @@
-- **2010-06-25 17:41**: fix: prevent option re-selection after submitting answer
 - **2010-06-26 14:00**: feat: add instant feedback and explanation on answer selection
 - **2010-06-26 19:42**: fix: typo in Nepali road safety regulations question
 - **2010-06-27 19:34**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-08-10 21:43**: feat: add search and filter by sign category
 - **2010-08-11 17:01**: refactor: restructure question data schema for faster loading
 - **2010-08-12 11:33**: feat: support multiple choice questions for motorcycle category
+- **2010-08-12 17:37**: feat: support multiple choice questions for motorcycle category
