@@ -1,4 +1,3 @@
-- **2010-06-26 19:42**: fix: typo in Nepali road safety regulations question
 - **2010-06-27 19:34**: feat: add search and filter by sign category
 - **2010-06-28 09:22**: feat: support multiple choice questions for motorcycle category
 - **2010-06-28 10:56**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-08-12 11:33**: feat: support multiple choice questions for motorcycle category
 - **2010-08-12 17:37**: feat: support multiple choice questions for motorcycle category
 - **2010-08-12 19:36**: docs: add instructions for Nepali driving license written exam
+- **2010-08-13 12:21**: feat: add category-specific practice modes
