@@ -1,4 +1,3 @@
-- **2010-06-28 09:22**: feat: support multiple choice questions for motorcycle category
 - **2010-06-28 10:56**: fix: resolve layout shift during question transitions
 - **2010-06-28 15:22**: docs: improve code comments and API documentation
 - **2010-06-29 09:00**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-08-12 19:36**: docs: add instructions for Nepali driving license written exam
 - **2010-08-13 12:21**: feat: add category-specific practice modes
 - **2010-08-13 17:10**: feat: add search and filter by sign category
+- **2010-08-14 13:45**: style: enhance traffic sign card layout and responsiveness
