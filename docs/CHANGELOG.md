@@ -1,4 +1,3 @@
-- **2010-06-29 09:00**: fix: adjust passing score threshold according to new rules
 - **2010-06-29 18:07**: fix: typo in Nepali road safety regulations question
 - **2010-06-29 19:47**: feat: implement timer and score calculation for mock test
 - **2010-06-30 13:18**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2010-08-14 13:45**: style: enhance traffic sign card layout and responsiveness
 - **2010-08-15 14:45**: chore: format code style and clean up redundant variables
 - **2010-08-15 15:15**: chore: organize assets and image directory structure
+- **2010-08-15 21:45**: perf: lazy load signal graphics and question assets
