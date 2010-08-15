@@ -1,4 +1,3 @@
-- **2010-06-28 10:56**: fix: resolve layout shift during question transitions
 - **2010-06-28 15:22**: docs: improve code comments and API documentation
 - **2010-06-29 09:00**: fix: adjust passing score threshold according to new rules
 - **2010-06-29 18:07**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-08-13 12:21**: feat: add category-specific practice modes
 - **2010-08-13 17:10**: feat: add search and filter by sign category
 - **2010-08-14 13:45**: style: enhance traffic sign card layout and responsiveness
+- **2010-08-15 14:45**: chore: format code style and clean up redundant variables
