@@ -1,4 +1,3 @@
-- **2010-06-30 13:18**: refactor: modularize traffic app logic and event listeners
 - **2010-07-01 09:14**: perf: index question IDs for rapid lookup
 - **2010-07-01 18:00**: fix: prevent option re-selection after submitting answer
 - **2010-07-02 14:19**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-08-15 21:45**: perf: lazy load signal graphics and question assets
 - **2010-08-16 14:06**: refactor: modularize traffic app logic and event listeners
 - **2010-08-16 15:37**: feat: add warning signs and informational road signs
+- **2010-08-16 21:50**: fix: update DOTM Nepal license syllabus questions
