@@ -1,4 +1,3 @@
-- **2010-07-02 14:19**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-03 17:19**: refactor: restructure question data schema for faster loading
 - **2010-07-04 09:12**: feat: add instant feedback and explanation on answer selection
 - **2010-07-04 11:38**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-08-16 21:50**: fix: update DOTM Nepal license syllabus questions
 - **2010-08-17 11:50**: feat: add warning signs and informational road signs
 - **2010-08-17 19:37**: docs: update traffic signals catalog documentation
+- **2010-08-18 15:25**: fix: correct color specifications for mandatory traffic signs
