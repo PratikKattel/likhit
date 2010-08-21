@@ -1,4 +1,3 @@
-- **2010-07-04 12:52**: feat: add warning signs and informational road signs
 - **2010-07-05 11:08**: feat: add result summary with passing threshold analysis
 - **2010-07-06 09:08**: test: verify question extraction script against exam PDF
 - **2010-07-06 16:08**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-08-20 13:05**: feat: add search and filter by sign category
 - **2010-08-20 20:23**: perf: lazy load signal graphics and question assets
 - **2010-08-20 21:41**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2010-08-21 16:11**: feat: implement timer and score calculation for mock test
