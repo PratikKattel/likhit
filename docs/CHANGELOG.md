@@ -1,4 +1,3 @@
-- **2010-07-06 09:08**: test: verify question extraction script against exam PDF
 - **2010-07-06 16:08**: feat: add regulatory traffic signs SVG graphics
 - **2010-07-07 11:13**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-07 15:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-08-20 21:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-08-21 16:11**: feat: implement timer and score calculation for mock test
 - **2010-08-22 09:39**: fix: resolve layout shift during question transitions
+- **2010-08-23 10:43**: feat: add category-specific practice modes
