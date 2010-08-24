@@ -1,4 +1,3 @@
-- **2010-07-07 11:13**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-07 15:07**: feat: implement timer and score calculation for mock test
 - **2010-07-08 13:46**: docs: add instructions for Nepali driving license written exam
 - **2010-07-09 09:04**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2010-08-22 09:39**: fix: resolve layout shift during question transitions
 - **2010-08-23 10:43**: feat: add category-specific practice modes
 - **2010-08-23 15:34**: feat: add keyboard navigation shortcuts for question selection
+- **2010-08-24 11:24**: feat: support multiple choice questions for motorcycle category
