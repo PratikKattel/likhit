@@ -1,4 +1,3 @@
-- **2010-07-09 09:04**: fix: correct color specifications for mandatory traffic signs
 - **2010-07-09 15:02**: style: enhance traffic sign card layout and responsiveness
 - **2010-07-09 21:38**: perf: index question IDs for rapid lookup
 - **2010-07-10 13:31**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-08-24 11:24**: feat: support multiple choice questions for motorcycle category
 - **2010-08-25 13:16**: style: enhance traffic sign card layout and responsiveness
 - **2010-08-26 09:59**: feat: add warning signs and informational road signs
+- **2010-08-26 20:55**: style: improve dark/light mode and mobile UI responsiveness
