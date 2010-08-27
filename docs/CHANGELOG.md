@@ -1,4 +1,3 @@
-- **2010-07-09 21:38**: perf: index question IDs for rapid lookup
 - **2010-07-10 13:31**: feat: add category A and B traffic test questions
 - **2010-07-10 13:39**: style: enhance traffic sign card layout and responsiveness
 - **2010-07-11 12:47**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2010-08-26 09:59**: feat: add warning signs and informational road signs
 - **2010-08-26 20:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-08-27 16:44**: docs: update README with setup instructions and feature list
+- **2010-08-27 17:59**: refactor: modularize traffic app logic and event listeners
