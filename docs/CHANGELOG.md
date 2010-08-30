@@ -1,4 +1,3 @@
-- **2010-07-13 22:13**: fix: update DOTM Nepal license syllabus questions
 - **2010-07-14 10:27**: docs: update traffic signals catalog documentation
 - **2010-07-14 10:36**: feat: add search and filter by sign category
 - **2010-07-14 17:49**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-08-28 20:23**: feat: support multiple choice questions for motorcycle category
 - **2010-08-29 13:59**: perf: lazy load signal graphics and question assets
 - **2010-08-29 15:36**: chore: organize assets and image directory structure
+- **2010-08-30 15:12**: style: polish typography and Nepali Unicode font rendering
