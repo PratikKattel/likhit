@@ -1,4 +1,3 @@
-- **2010-07-15 09:05**: test: verify question extraction script against exam PDF
 - **2010-07-16 11:58**: feat: add search and filter by sign category
 - **2010-07-16 19:06**: docs: update traffic signals catalog documentation
 - **2010-07-17 09:38**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2010-08-31 16:03**: fix: typo in Nepali road safety regulations question
 - **2010-09-01 12:38**: feat: add warning signs and informational road signs
 - **2010-09-01 18:39**: feat: add category A and B traffic test questions
+- **2010-09-02 14:36**: fix: resolve layout shift during question transitions
