@@ -1,4 +1,3 @@
-- **2010-07-16 19:06**: docs: update traffic signals catalog documentation
 - **2010-07-17 09:38**: fix: typo in Nepali road safety regulations question
 - **2010-07-17 15:56**: feat: add regulatory traffic signs SVG graphics
 - **2010-07-18 21:36**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-09-01 18:39**: feat: add category A and B traffic test questions
 - **2010-09-02 14:36**: fix: resolve layout shift during question transitions
 - **2010-09-02 17:13**: fix: correct color specifications for mandatory traffic signs
+- **2010-09-03 21:32**: feat: add warning signs and informational road signs
