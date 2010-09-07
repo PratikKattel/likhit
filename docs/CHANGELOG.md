@@ -1,4 +1,3 @@
-- **2010-07-20 20:43**: feat: add instant feedback and explanation on answer selection
 - **2010-07-21 13:30**: refactor: restructure question data schema for faster loading
 - **2010-07-21 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-07-21 17:18**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-09-05 21:02**: chore: update questions database with recent DOTM updates
 - **2010-09-06 11:56**: feat: add warning signs and informational road signs
 - **2010-09-06 16:52**: feat: add search and filter by sign category
+- **2010-09-07 11:18**: docs: update traffic signals catalog documentation
