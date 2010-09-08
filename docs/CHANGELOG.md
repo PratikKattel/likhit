@@ -1,4 +1,3 @@
-- **2010-07-21 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-07-21 17:18**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-22 09:35**: feat: implement timer and score calculation for mock test
 - **2010-07-23 18:13**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-09-06 16:52**: feat: add search and filter by sign category
 - **2010-09-07 11:18**: docs: update traffic signals catalog documentation
 - **2010-09-07 21:48**: feat: support multiple choice questions for motorcycle category
+- **2010-09-08 21:11**: feat: add search and filter by sign category
