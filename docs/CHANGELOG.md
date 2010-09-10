@@ -1,4 +1,3 @@
-- **2010-07-24 13:45**: perf: index question IDs for rapid lookup
 - **2010-07-25 11:29**: chore: update questions database with recent DOTM updates
 - **2010-07-26 15:56**: docs: add instructions for Nepali driving license written exam
 - **2010-07-27 13:57**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2010-09-09 11:31**: perf: lazy load signal graphics and question assets
 - **2010-09-09 22:04**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-10 11:45**: feat: add category A and B traffic test questions
+- **2010-09-10 21:38**: refactor: restructure question data schema for faster loading
