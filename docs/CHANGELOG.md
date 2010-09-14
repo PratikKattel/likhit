@@ -1,4 +1,3 @@
-- **2010-07-29 12:10**: chore: organize assets and image directory structure
 - **2010-07-30 09:52**: perf: lazy load signal graphics and question assets
 - **2010-07-30 19:11**: feat: add instant feedback and explanation on answer selection
 - **2010-07-30 19:13**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-09-12 18:39**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-13 20:46**: style: enhance traffic sign card layout and responsiveness
 - **2010-09-14 12:12**: style: polish typography and Nepali Unicode font rendering
+- **2010-09-14 19:23**: refactor: modularize traffic app logic and event listeners
