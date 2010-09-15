@@ -1,4 +1,3 @@
-- **2010-07-30 19:13**: style: polish typography and Nepali Unicode font rendering
 - **2010-07-31 19:49**: docs: add instructions for Nepali driving license written exam
 - **2010-08-01 14:56**: fix: adjust passing score threshold according to new rules
 - **2010-08-02 14:02**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-09-14 19:23**: refactor: modularize traffic app logic and event listeners
 - **2010-09-15 16:03**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-15 19:08**: perf: index question IDs for rapid lookup
+- **2010-09-15 20:33**: fix: prevent option re-selection after submitting answer
