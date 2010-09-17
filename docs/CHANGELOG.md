@@ -1,4 +1,3 @@
-- **2010-08-03 11:12**: fix: correct color specifications for mandatory traffic signs
 - **2010-08-04 11:50**: feat: add warning signs and informational road signs
 - **2010-08-04 18:15**: feat: implement timer and score calculation for mock test
 - **2010-08-05 13:09**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2010-09-17 12:52**: fix: adjust passing score threshold according to new rules
 - **2010-09-17 13:22**: test: verify question extraction script against exam PDF
 - **2010-09-17 14:03**: perf: lazy load signal graphics and question assets
+- **2010-09-17 18:54**: refactor: clean up unused CSS classes and optimize stylesheet
