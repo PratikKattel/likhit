@@ -1,4 +1,3 @@
-- **2010-08-04 18:15**: feat: implement timer and score calculation for mock test
 - **2010-08-05 13:09**: feat: add instant feedback and explanation on answer selection
 - **2010-08-05 18:40**: refactor: restructure question data schema for faster loading
 - **2010-08-05 20:03**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-09-17 14:03**: perf: lazy load signal graphics and question assets
 - **2010-09-17 18:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-09-18 17:25**: test: verify question extraction script against exam PDF
+- **2010-09-18 20:38**: feat: add category-specific practice modes
