@@ -1,4 +1,3 @@
-- **2010-08-05 18:40**: refactor: restructure question data schema for faster loading
 - **2010-08-05 20:03**: fix: resolve layout shift during question transitions
 - **2010-08-06 11:40**: perf: optimize image caching for traffic sign assets
 - **2010-08-07 10:06**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-09-18 17:25**: test: verify question extraction script against exam PDF
 - **2010-09-18 20:38**: feat: add category-specific practice modes
 - **2010-09-19 21:42**: docs: improve code comments and API documentation
+- **2010-09-20 15:22**: fix: adjust passing score threshold according to new rules
