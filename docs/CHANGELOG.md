@@ -1,4 +1,3 @@
-- **2010-08-06 11:40**: perf: optimize image caching for traffic sign assets
 - **2010-08-07 10:06**: refactor: restructure question data schema for faster loading
 - **2010-08-07 11:49**: refactor: restructure question data schema for faster loading
 - **2010-08-07 12:08**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-09-19 21:42**: docs: improve code comments and API documentation
 - **2010-09-20 15:22**: fix: adjust passing score threshold according to new rules
 - **2010-09-21 11:49**: feat: implement timer and score calculation for mock test
+- **2010-09-21 12:35**: docs: add instructions for Nepali driving license written exam
