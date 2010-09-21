@@ -1,4 +1,3 @@
-- **2010-08-07 10:06**: refactor: restructure question data schema for faster loading
 - **2010-08-07 11:49**: refactor: restructure question data schema for faster loading
 - **2010-08-07 12:08**: feat: add keyboard navigation shortcuts for question selection
 - **2010-08-08 14:46**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-09-20 15:22**: fix: adjust passing score threshold according to new rules
 - **2010-09-21 11:49**: feat: implement timer and score calculation for mock test
 - **2010-09-21 12:35**: docs: add instructions for Nepali driving license written exam
+- **2010-09-21 16:27**: fix: prevent option re-selection after submitting answer
