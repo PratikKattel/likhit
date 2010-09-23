@@ -1,4 +1,3 @@
-- **2010-08-09 13:57**: docs: improve code comments and API documentation
 - **2010-08-09 19:14**: feat: add keyboard navigation shortcuts for question selection
 - **2010-08-10 21:43**: feat: add search and filter by sign category
 - **2010-08-11 17:01**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-09-22 12:54**: chore: organize assets and image directory structure
 - **2010-09-23 13:52**: feat: add category A and B traffic test questions
 - **2010-09-23 19:39**: style: polish typography and Nepali Unicode font rendering
+- **2010-09-23 21:30**: chore: format code style and clean up redundant variables
