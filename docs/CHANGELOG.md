@@ -1,4 +1,3 @@
-- **2010-08-07 12:08**: feat: add keyboard navigation shortcuts for question selection
 - **2010-08-08 14:46**: feat: add category-specific practice modes
 - **2010-08-09 13:57**: docs: improve code comments and API documentation
 - **2010-08-09 19:14**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-09-21 12:35**: docs: add instructions for Nepali driving license written exam
 - **2010-09-21 16:27**: fix: prevent option re-selection after submitting answer
 - **2010-09-22 12:54**: chore: organize assets and image directory structure
+- **2010-09-23 13:52**: feat: add category A and B traffic test questions
