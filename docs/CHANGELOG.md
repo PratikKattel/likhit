@@ -1,4 +1,3 @@
-- **2010-08-09 19:14**: feat: add keyboard navigation shortcuts for question selection
 - **2010-08-10 21:43**: feat: add search and filter by sign category
 - **2010-08-11 17:01**: refactor: restructure question data schema for faster loading
 - **2010-08-12 11:33**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-09-23 13:52**: feat: add category A and B traffic test questions
 - **2010-09-23 19:39**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-23 21:30**: chore: format code style and clean up redundant variables
+- **2010-09-24 11:27**: style: enhance traffic sign card layout and responsiveness
