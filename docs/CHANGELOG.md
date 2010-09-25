@@ -1,4 +1,3 @@
-- **2010-08-11 17:01**: refactor: restructure question data schema for faster loading
 - **2010-08-12 11:33**: feat: support multiple choice questions for motorcycle category
 - **2010-08-12 17:37**: feat: support multiple choice questions for motorcycle category
 - **2010-08-12 19:36**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-09-23 21:30**: chore: format code style and clean up redundant variables
 - **2010-09-24 11:27**: style: enhance traffic sign card layout and responsiveness
 - **2010-09-24 18:30**: fix: correct color specifications for mandatory traffic signs
+- **2010-09-25 09:39**: chore: update project metadata and build configuration
