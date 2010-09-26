@@ -1,4 +1,3 @@
-- **2010-08-12 17:37**: feat: support multiple choice questions for motorcycle category
 - **2010-08-12 19:36**: docs: add instructions for Nepali driving license written exam
 - **2010-08-13 12:21**: feat: add category-specific practice modes
 - **2010-08-13 17:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-09-24 18:30**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-25 09:39**: chore: update project metadata and build configuration
 - **2010-09-25 10:43**: docs: add instructions for Nepali driving license written exam
+- **2010-09-26 21:49**: style: polish typography and Nepali Unicode font rendering
