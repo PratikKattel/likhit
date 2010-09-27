@@ -1,4 +1,3 @@
-- **2010-08-12 19:36**: docs: add instructions for Nepali driving license written exam
 - **2010-08-13 12:21**: feat: add category-specific practice modes
 - **2010-08-13 17:10**: feat: add search and filter by sign category
 - **2010-08-14 13:45**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2010-09-25 09:39**: chore: update project metadata and build configuration
 - **2010-09-25 10:43**: docs: add instructions for Nepali driving license written exam
 - **2010-09-26 21:49**: style: polish typography and Nepali Unicode font rendering
+- **2010-09-27 19:24**: chore: organize assets and image directory structure
