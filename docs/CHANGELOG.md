@@ -1,4 +1,3 @@
-- **2010-08-14 13:45**: style: enhance traffic sign card layout and responsiveness
 - **2010-08-15 14:45**: chore: format code style and clean up redundant variables
 - **2010-08-15 15:15**: chore: organize assets and image directory structure
 - **2010-08-15 21:45**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-09-27 19:24**: chore: organize assets and image directory structure
 - **2010-09-28 18:52**: refactor: optimize SVG rendering for road signs
 - **2010-09-29 13:01**: style: polish typography and Nepali Unicode font rendering
+- **2010-09-29 18:40**: refactor: clean up unused CSS classes and optimize stylesheet
