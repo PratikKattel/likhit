@@ -1,4 +1,3 @@
-- **2010-08-15 15:15**: chore: organize assets and image directory structure
 - **2010-08-15 21:45**: perf: lazy load signal graphics and question assets
 - **2010-08-16 14:06**: refactor: modularize traffic app logic and event listeners
 - **2010-08-16 15:37**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2010-09-29 13:01**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-29 18:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-09-30 21:29**: refactor: optimize SVG rendering for road signs
+- **2010-10-01 09:02**: feat: implement timer and score calculation for mock test
