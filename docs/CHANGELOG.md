@@ -1,4 +1,3 @@
-- **2010-08-16 14:06**: refactor: modularize traffic app logic and event listeners
 - **2010-08-16 15:37**: feat: add warning signs and informational road signs
 - **2010-08-16 21:50**: fix: update DOTM Nepal license syllabus questions
 - **2010-08-17 11:50**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2010-09-30 21:29**: refactor: optimize SVG rendering for road signs
 - **2010-10-01 09:02**: feat: implement timer and score calculation for mock test
 - **2010-10-01 13:47**: feat: support multiple choice questions for motorcycle category
+- **2010-10-01 20:04**: feat: add search and filter by sign category
