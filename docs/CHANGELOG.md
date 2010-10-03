@@ -1,4 +1,3 @@
-- **2010-08-17 19:37**: docs: update traffic signals catalog documentation
 - **2010-08-18 15:25**: fix: correct color specifications for mandatory traffic signs
 - **2010-08-19 13:09**: feat: implement timer and score calculation for mock test
 - **2010-08-20 13:05**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-10-02 10:41**: docs: improve code comments and API documentation
 - **2010-10-03 10:21**: refactor: restructure question data schema for faster loading
 - **2010-10-03 17:18**: feat: add warning signs and informational road signs
+- **2010-10-03 17:49**: feat: add search and filter by sign category
