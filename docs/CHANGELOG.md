@@ -1,4 +1,3 @@
-- **2010-08-16 21:50**: fix: update DOTM Nepal license syllabus questions
 - **2010-08-17 11:50**: feat: add warning signs and informational road signs
 - **2010-08-17 19:37**: docs: update traffic signals catalog documentation
 - **2010-08-18 15:25**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2010-10-01 13:47**: feat: support multiple choice questions for motorcycle category
 - **2010-10-01 20:04**: feat: add search and filter by sign category
 - **2010-10-02 10:41**: docs: improve code comments and API documentation
+- **2010-10-03 10:21**: refactor: restructure question data schema for faster loading
