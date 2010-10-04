@@ -1,4 +1,3 @@
-- **2010-08-20 20:23**: perf: lazy load signal graphics and question assets
 - **2010-08-20 21:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-08-21 16:11**: feat: implement timer and score calculation for mock test
 - **2010-08-22 09:39**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-10-03 21:11**: docs: update README with setup instructions and feature list
 - **2010-10-04 13:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-04 16:47**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-10-04 18:03**: style: enhance traffic sign card layout and responsiveness
