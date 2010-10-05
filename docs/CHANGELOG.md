@@ -1,4 +1,3 @@
-- **2010-08-21 16:11**: feat: implement timer and score calculation for mock test
 - **2010-08-22 09:39**: fix: resolve layout shift during question transitions
 - **2010-08-23 10:43**: feat: add category-specific practice modes
 - **2010-08-23 15:34**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-10-04 16:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-04 18:03**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-05 13:16**: fix: adjust passing score threshold according to new rules
+- **2010-10-05 13:36**: perf: optimize image caching for traffic sign assets
