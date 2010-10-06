@@ -1,4 +1,3 @@
-- **2010-08-24 11:24**: feat: support multiple choice questions for motorcycle category
 - **2010-08-25 13:16**: style: enhance traffic sign card layout and responsiveness
 - **2010-08-26 09:59**: feat: add warning signs and informational road signs
 - **2010-08-26 20:55**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-10-05 18:33**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-05 22:21**: refactor: restructure question data schema for faster loading
 - **2010-10-06 19:46**: feat: implement timer and score calculation for mock test
+- **2010-10-06 20:07**: chore: update project metadata and build configuration
