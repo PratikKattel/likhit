@@ -1,4 +1,3 @@
-- **2010-08-27 17:59**: refactor: modularize traffic app logic and event listeners
 - **2010-08-28 18:35**: feat: implement timer and score calculation for mock test
 - **2010-08-28 20:23**: feat: support multiple choice questions for motorcycle category
 - **2010-08-29 13:59**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-10-08 10:45**: docs: improve code comments and API documentation
 - **2010-10-08 12:28**: docs: add instructions for Nepali driving license written exam
 - **2010-10-09 21:26**: test: verify question extraction script against exam PDF
+- **2010-10-10 14:24**: feat: add warning signs and informational road signs
