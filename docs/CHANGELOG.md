@@ -1,4 +1,3 @@
-- **2010-08-28 20:23**: feat: support multiple choice questions for motorcycle category
 - **2010-08-29 13:59**: perf: lazy load signal graphics and question assets
 - **2010-08-29 15:36**: chore: organize assets and image directory structure
 - **2010-08-30 15:12**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-10-09 21:26**: test: verify question extraction script against exam PDF
 - **2010-10-10 14:24**: feat: add warning signs and informational road signs
 - **2010-10-10 17:22**: docs: update traffic signals catalog documentation
+- **2010-10-11 19:35**: chore: organize assets and image directory structure
