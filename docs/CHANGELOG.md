@@ -1,4 +1,3 @@
-- **2010-08-30 15:12**: style: polish typography and Nepali Unicode font rendering
 - **2010-08-31 16:03**: fix: typo in Nepali road safety regulations question
 - **2010-09-01 12:38**: feat: add warning signs and informational road signs
 - **2010-09-01 18:39**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-10-11 19:35**: chore: organize assets and image directory structure
 - **2010-10-12 14:05**: refactor: restructure question data schema for faster loading
 - **2010-10-12 14:56**: refactor: optimize SVG rendering for road signs
+- **2010-10-13 12:16**: refactor: optimize SVG rendering for road signs
