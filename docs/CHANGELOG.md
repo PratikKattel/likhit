@@ -1,4 +1,3 @@
-- **2010-09-02 17:13**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-03 21:32**: feat: add warning signs and informational road signs
 - **2010-09-04 16:02**: refactor: optimize SVG rendering for road signs
 - **2010-09-04 16:47**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2010-10-13 17:59**: docs: update traffic signals catalog documentation
 - **2010-10-14 18:44**: feat: add search and filter by sign category
 - **2010-10-14 20:13**: feat: add keyboard navigation shortcuts for question selection
+- **2010-10-15 13:31**: test: verify question extraction script against exam PDF
