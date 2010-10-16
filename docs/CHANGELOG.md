@@ -1,4 +1,3 @@
-- **2010-09-03 21:32**: feat: add warning signs and informational road signs
 - **2010-09-04 16:02**: refactor: optimize SVG rendering for road signs
 - **2010-09-04 16:47**: refactor: modularize traffic app logic and event listeners
 - **2010-09-05 21:02**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2010-10-14 18:44**: feat: add search and filter by sign category
 - **2010-10-14 20:13**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-15 13:31**: test: verify question extraction script against exam PDF
+- **2010-10-16 12:27**: feat: add category A and B traffic test questions
