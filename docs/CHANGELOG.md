@@ -1,4 +1,3 @@
-- **2010-09-05 21:02**: chore: update questions database with recent DOTM updates
 - **2010-09-06 11:56**: feat: add warning signs and informational road signs
 - **2010-09-06 16:52**: feat: add search and filter by sign category
 - **2010-09-07 11:18**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2010-10-16 12:27**: feat: add category A and B traffic test questions
 - **2010-10-17 11:55**: fix: resolve layout shift during question transitions
 - **2010-10-17 19:45**: feat: add keyboard navigation shortcuts for question selection
+- **2010-10-18 15:04**: fix: typo in Nepali road safety regulations question
