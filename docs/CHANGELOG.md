@@ -1,4 +1,3 @@
-- **2010-09-06 16:52**: feat: add search and filter by sign category
 - **2010-09-07 11:18**: docs: update traffic signals catalog documentation
 - **2010-09-07 21:48**: feat: support multiple choice questions for motorcycle category
 - **2010-09-08 21:11**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-10-17 19:45**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-18 15:04**: fix: typo in Nepali road safety regulations question
 - **2010-10-19 16:31**: feat: support multiple choice questions for motorcycle category
+- **2010-10-19 21:46**: docs: update traffic signals catalog documentation
