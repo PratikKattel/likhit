@@ -1,4 +1,3 @@
-- **2010-09-08 21:11**: feat: add search and filter by sign category
 - **2010-09-09 11:31**: perf: lazy load signal graphics and question assets
 - **2010-09-09 22:04**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-10 11:45**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-10-19 21:46**: docs: update traffic signals catalog documentation
 - **2010-10-20 09:29**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-21 09:10**: docs: improve code comments and API documentation
+- **2010-10-21 20:41**: refactor: restructure question data schema for faster loading
