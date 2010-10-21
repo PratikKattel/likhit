@@ -1,4 +1,3 @@
-- **2010-09-09 11:31**: perf: lazy load signal graphics and question assets
 - **2010-09-09 22:04**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-10 11:45**: feat: add category A and B traffic test questions
 - **2010-09-10 21:38**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-10-20 09:29**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-21 09:10**: docs: improve code comments and API documentation
 - **2010-10-21 20:41**: refactor: restructure question data schema for faster loading
+- **2010-10-21 22:04**: perf: lazy load signal graphics and question assets
