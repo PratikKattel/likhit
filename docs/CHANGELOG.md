@@ -1,4 +1,3 @@
-- **2010-09-10 21:38**: refactor: restructure question data schema for faster loading
 - **2010-09-11 17:25**: feat: add keyboard navigation shortcuts for question selection
 - **2010-09-12 18:39**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-13 20:46**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2010-10-21 22:04**: perf: lazy load signal graphics and question assets
 - **2010-10-22 11:08**: perf: lazy load signal graphics and question assets
 - **2010-10-23 12:16**: perf: lazy load signal graphics and question assets
+- **2010-10-23 14:44**: feat: add search and filter by sign category
