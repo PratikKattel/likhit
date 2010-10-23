@@ -1,4 +1,3 @@
-- **2010-09-10 11:45**: feat: add category A and B traffic test questions
 - **2010-09-10 21:38**: refactor: restructure question data schema for faster loading
 - **2010-09-11 17:25**: feat: add keyboard navigation shortcuts for question selection
 - **2010-09-12 18:39**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-10-21 20:41**: refactor: restructure question data schema for faster loading
 - **2010-10-21 22:04**: perf: lazy load signal graphics and question assets
 - **2010-10-22 11:08**: perf: lazy load signal graphics and question assets
+- **2010-10-23 12:16**: perf: lazy load signal graphics and question assets
