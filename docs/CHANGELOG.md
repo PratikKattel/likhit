@@ -1,4 +1,3 @@
-- **2010-09-14 12:12**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-14 19:23**: refactor: modularize traffic app logic and event listeners
 - **2010-09-15 16:03**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-15 19:08**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2010-10-23 18:55**: fix: resolve layout shift during question transitions
 - **2010-10-24 18:18**: chore: format code style and clean up redundant variables
 - **2010-10-24 21:31**: feat: add search and filter by sign category
+- **2010-10-25 12:41**: fix: resolve layout shift during question transitions
