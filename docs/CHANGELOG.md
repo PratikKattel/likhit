@@ -1,4 +1,3 @@
-- **2010-09-15 16:03**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-15 19:08**: perf: index question IDs for rapid lookup
 - **2010-09-15 20:33**: fix: prevent option re-selection after submitting answer
 - **2010-09-16 09:17**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-10-24 21:31**: feat: add search and filter by sign category
 - **2010-10-25 12:41**: fix: resolve layout shift during question transitions
 - **2010-10-26 19:03**: style: improve dark/light mode and mobile UI responsiveness
+- **2010-10-27 11:38**: feat: add search and filter by sign category
