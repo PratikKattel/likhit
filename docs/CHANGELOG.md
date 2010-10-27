@@ -1,4 +1,3 @@
-- **2010-09-15 20:33**: fix: prevent option re-selection after submitting answer
 - **2010-09-16 09:17**: test: verify question extraction script against exam PDF
 - **2010-09-16 21:42**: refactor: modularize traffic app logic and event listeners
 - **2010-09-17 12:52**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2010-10-26 19:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-27 11:38**: feat: add search and filter by sign category
 - **2010-10-27 15:53**: feat: add category A and B traffic test questions
+- **2010-10-27 16:11**: feat: add keyboard navigation shortcuts for question selection
