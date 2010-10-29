@@ -1,4 +1,3 @@
-- **2010-09-17 12:52**: fix: adjust passing score threshold according to new rules
 - **2010-09-17 13:22**: test: verify question extraction script against exam PDF
 - **2010-09-17 14:03**: perf: lazy load signal graphics and question assets
 - **2010-09-17 18:54**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2010-10-27 16:11**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-28 12:39**: feat: support multiple choice questions for motorcycle category
 - **2010-10-28 18:15**: feat: add warning signs and informational road signs
+- **2010-10-29 09:40**: feat: add result summary with passing threshold analysis
