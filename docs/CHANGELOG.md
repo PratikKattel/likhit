@@ -1,4 +1,3 @@
-- **2010-09-17 14:03**: perf: lazy load signal graphics and question assets
 - **2010-09-17 18:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-09-18 17:25**: test: verify question extraction script against exam PDF
 - **2010-09-18 20:38**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-10-28 18:15**: feat: add warning signs and informational road signs
 - **2010-10-29 09:40**: feat: add result summary with passing threshold analysis
 - **2010-10-29 17:04**: feat: implement timer and score calculation for mock test
+- **2010-10-30 19:15**: test: verify question extraction script against exam PDF
