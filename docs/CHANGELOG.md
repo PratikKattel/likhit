@@ -1,4 +1,3 @@
-- **2010-09-18 20:38**: feat: add category-specific practice modes
 - **2010-09-19 21:42**: docs: improve code comments and API documentation
 - **2010-09-20 15:22**: fix: adjust passing score threshold according to new rules
 - **2010-09-21 11:49**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-10-30 19:15**: test: verify question extraction script against exam PDF
 - **2010-10-30 19:41**: fix: typo in Nepali road safety regulations question
 - **2010-10-30 20:45**: chore: format code style and clean up redundant variables
+- **2010-10-31 12:27**: fix: resolve layout shift during question transitions
