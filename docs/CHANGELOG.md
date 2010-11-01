@@ -1,4 +1,3 @@
-- **2010-09-20 15:22**: fix: adjust passing score threshold according to new rules
 - **2010-09-21 11:49**: feat: implement timer and score calculation for mock test
 - **2010-09-21 12:35**: docs: add instructions for Nepali driving license written exam
 - **2010-09-21 16:27**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2010-10-30 20:45**: chore: format code style and clean up redundant variables
 - **2010-10-31 12:27**: fix: resolve layout shift during question transitions
 - **2010-11-01 10:57**: refactor: modularize traffic app logic and event listeners
+- **2010-11-01 16:43**: chore: update questions database with recent DOTM updates
