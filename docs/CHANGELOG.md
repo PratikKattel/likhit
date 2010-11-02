@@ -1,4 +1,3 @@
-- **2010-09-21 11:49**: feat: implement timer and score calculation for mock test
 - **2010-09-21 12:35**: docs: add instructions for Nepali driving license written exam
 - **2010-09-21 16:27**: fix: prevent option re-selection after submitting answer
 - **2010-09-22 12:54**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2010-10-31 12:27**: fix: resolve layout shift during question transitions
 - **2010-11-01 10:57**: refactor: modularize traffic app logic and event listeners
 - **2010-11-01 16:43**: chore: update questions database with recent DOTM updates
+- **2010-11-02 12:25**: feat: add regulatory traffic signs SVG graphics
