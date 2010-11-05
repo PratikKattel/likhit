@@ -1,4 +1,3 @@
-- **2010-09-22 12:54**: chore: organize assets and image directory structure
 - **2010-09-23 13:52**: feat: add category A and B traffic test questions
 - **2010-09-23 19:39**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-23 21:30**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-11-02 12:25**: feat: add regulatory traffic signs SVG graphics
 - **2010-11-03 19:36**: docs: update README with setup instructions and feature list
 - **2010-11-04 21:45**: feat: add result summary with passing threshold analysis
+- **2010-11-05 14:16**: fix: resolve layout shift during question transitions
