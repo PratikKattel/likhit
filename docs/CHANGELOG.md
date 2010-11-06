@@ -1,4 +1,3 @@
-- **2010-09-23 19:39**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-23 21:30**: chore: format code style and clean up redundant variables
 - **2010-09-24 11:27**: style: enhance traffic sign card layout and responsiveness
 - **2010-09-24 18:30**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2010-11-04 21:45**: feat: add result summary with passing threshold analysis
 - **2010-11-05 14:16**: fix: resolve layout shift during question transitions
 - **2010-11-05 17:53**: refactor: restructure question data schema for faster loading
+- **2010-11-06 11:21**: perf: optimize image caching for traffic sign assets
