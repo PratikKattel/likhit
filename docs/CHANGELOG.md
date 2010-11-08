@@ -1,4 +1,3 @@
-- **2010-09-24 18:30**: fix: correct color specifications for mandatory traffic signs
 - **2010-09-25 09:39**: chore: update project metadata and build configuration
 - **2010-09-25 10:43**: docs: add instructions for Nepali driving license written exam
 - **2010-09-26 21:49**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2010-11-06 11:21**: perf: optimize image caching for traffic sign assets
 - **2010-11-07 16:02**: perf: index question IDs for rapid lookup
 - **2010-11-07 17:05**: feat: add search and filter by sign category
+- **2010-11-08 12:48**: refactor: optimize SVG rendering for road signs
