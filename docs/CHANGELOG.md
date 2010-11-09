@@ -1,4 +1,3 @@
-- **2010-09-25 10:43**: docs: add instructions for Nepali driving license written exam
 - **2010-09-26 21:49**: style: polish typography and Nepali Unicode font rendering
 - **2010-09-27 19:24**: chore: organize assets and image directory structure
 - **2010-09-28 18:52**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2010-11-07 17:05**: feat: add search and filter by sign category
 - **2010-11-08 12:48**: refactor: optimize SVG rendering for road signs
 - **2010-11-09 12:40**: refactor: optimize SVG rendering for road signs
+- **2010-11-09 16:20**: fix: resolve layout shift during question transitions
