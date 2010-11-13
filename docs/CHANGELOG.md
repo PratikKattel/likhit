@@ -1,4 +1,3 @@
-- **2010-10-01 09:02**: feat: implement timer and score calculation for mock test
 - **2010-10-01 13:47**: feat: support multiple choice questions for motorcycle category
 - **2010-10-01 20:04**: feat: add search and filter by sign category
 - **2010-10-02 10:41**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2010-11-12 13:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-11-12 15:51**: refactor: modularize traffic app logic and event listeners
 - **2010-11-12 17:50**: feat: add category-specific practice modes
+- **2010-11-13 13:46**: feat: add category A and B traffic test questions
