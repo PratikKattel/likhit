@@ -1,4 +1,3 @@
-- **2010-10-01 20:04**: feat: add search and filter by sign category
 - **2010-10-02 10:41**: docs: improve code comments and API documentation
 - **2010-10-03 10:21**: refactor: restructure question data schema for faster loading
 - **2010-10-03 17:18**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2010-11-12 17:50**: feat: add category-specific practice modes
 - **2010-11-13 13:46**: feat: add category A and B traffic test questions
 - **2010-11-13 19:28**: feat: add keyboard navigation shortcuts for question selection
+- **2010-11-14 11:23**: fix: resolve layout shift during question transitions
