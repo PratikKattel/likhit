@@ -1,4 +1,3 @@
-- **2010-10-03 10:21**: refactor: restructure question data schema for faster loading
 - **2010-10-03 17:18**: feat: add warning signs and informational road signs
 - **2010-10-03 17:49**: feat: add search and filter by sign category
 - **2010-10-03 21:11**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2010-11-13 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2010-11-14 11:23**: fix: resolve layout shift during question transitions
 - **2010-11-14 14:55**: feat: add warning signs and informational road signs
+- **2010-11-15 09:53**: docs: add instructions for Nepali driving license written exam
