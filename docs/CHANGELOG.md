@@ -1,4 +1,3 @@
-- **2010-10-03 21:11**: docs: update README with setup instructions and feature list
 - **2010-10-04 13:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-04 16:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-04 18:03**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2010-11-15 09:53**: docs: add instructions for Nepali driving license written exam
 - **2010-11-15 13:02**: docs: add instructions for Nepali driving license written exam
 - **2010-11-16 17:34**: perf: index question IDs for rapid lookup
+- **2010-11-17 14:44**: docs: add instructions for Nepali driving license written exam
