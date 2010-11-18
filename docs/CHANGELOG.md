@@ -1,4 +1,3 @@
-- **2010-10-05 13:16**: fix: adjust passing score threshold according to new rules
 - **2010-10-05 13:36**: perf: optimize image caching for traffic sign assets
 - **2010-10-05 18:33**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-05 22:21**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-11-17 14:59**: feat: add search and filter by sign category
 - **2010-11-17 16:12**: docs: add instructions for Nepali driving license written exam
 - **2010-11-17 22:01**: chore: update questions database with recent DOTM updates
+- **2010-11-18 12:24**: perf: index question IDs for rapid lookup
