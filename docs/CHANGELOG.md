@@ -1,4 +1,3 @@
-- **2010-10-05 22:21**: refactor: restructure question data schema for faster loading
 - **2010-10-06 19:46**: feat: implement timer and score calculation for mock test
 - **2010-10-06 20:07**: chore: update project metadata and build configuration
 - **2010-10-07 21:43**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2010-11-18 12:24**: perf: index question IDs for rapid lookup
 - **2010-11-18 14:58**: test: verify question extraction script against exam PDF
 - **2010-11-18 19:05**: fix: update DOTM Nepal license syllabus questions
+- **2010-11-19 17:33**: docs: update README with setup instructions and feature list
