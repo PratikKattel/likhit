@@ -1,4 +1,3 @@
-- **2010-10-07 21:43**: feat: add category-specific practice modes
 - **2010-10-08 10:45**: docs: improve code comments and API documentation
 - **2010-10-08 12:28**: docs: add instructions for Nepali driving license written exam
 - **2010-10-09 21:26**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-11-19 17:33**: docs: update README with setup instructions and feature list
 - **2010-11-20 09:54**: feat: add category-specific practice modes
 - **2010-11-20 10:51**: test: verify question extraction script against exam PDF
+- **2010-11-20 18:15**: chore: update project metadata and build configuration
