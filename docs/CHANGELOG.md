@@ -1,4 +1,3 @@
-- **2010-10-10 14:24**: feat: add warning signs and informational road signs
 - **2010-10-10 17:22**: docs: update traffic signals catalog documentation
 - **2010-10-11 19:35**: chore: organize assets and image directory structure
 - **2010-10-12 14:05**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2010-11-21 11:31**: feat: add search and filter by sign category
 - **2010-11-22 11:57**: feat: add regulatory traffic signs SVG graphics
 - **2010-11-22 18:35**: chore: organize assets and image directory structure
+- **2010-11-22 19:14**: style: enhance traffic sign card layout and responsiveness
