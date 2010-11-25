@@ -1,4 +1,3 @@
-- **2010-10-12 14:05**: refactor: restructure question data schema for faster loading
 - **2010-10-12 14:56**: refactor: optimize SVG rendering for road signs
 - **2010-10-13 12:16**: refactor: optimize SVG rendering for road signs
 - **2010-10-13 13:20**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-11-22 19:14**: style: enhance traffic sign card layout and responsiveness
 - **2010-11-23 12:19**: perf: optimize image caching for traffic sign assets
 - **2010-11-24 09:12**: feat: add instant feedback and explanation on answer selection
+- **2010-11-25 12:40**: feat: add category-specific practice modes
