@@ -1,4 +1,3 @@
-- **2010-10-13 12:16**: refactor: optimize SVG rendering for road signs
 - **2010-10-13 13:20**: feat: implement timer and score calculation for mock test
 - **2010-10-13 17:59**: docs: update traffic signals catalog documentation
 - **2010-10-14 18:44**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2010-11-24 09:12**: feat: add instant feedback and explanation on answer selection
 - **2010-11-25 12:40**: feat: add category-specific practice modes
 - **2010-11-26 18:17**: refactor: restructure question data schema for faster loading
+- **2010-11-26 21:08**: docs: update README with setup instructions and feature list
