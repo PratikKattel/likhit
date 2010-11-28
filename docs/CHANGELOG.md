@@ -1,4 +1,3 @@
-- **2010-10-13 17:59**: docs: update traffic signals catalog documentation
 - **2010-10-14 18:44**: feat: add search and filter by sign category
 - **2010-10-14 20:13**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-15 13:31**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2010-11-26 18:17**: refactor: restructure question data schema for faster loading
 - **2010-11-26 21:08**: docs: update README with setup instructions and feature list
 - **2010-11-27 15:02**: feat: add search and filter by sign category
+- **2010-11-28 17:30**: chore: update project metadata and build configuration
