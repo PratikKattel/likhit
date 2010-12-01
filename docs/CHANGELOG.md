@@ -1,4 +1,3 @@
-- **2010-10-17 11:55**: fix: resolve layout shift during question transitions
 - **2010-10-17 19:45**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-18 15:04**: fix: typo in Nepali road safety regulations question
 - **2010-10-19 16:31**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-11-29 22:12**: fix: typo in Nepali road safety regulations question
 - **2010-11-30 19:47**: test: verify question extraction script against exam PDF
 - **2010-11-30 20:38**: style: enhance traffic sign card layout and responsiveness
+- **2010-12-01 20:19**: perf: lazy load signal graphics and question assets
