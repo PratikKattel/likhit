@@ -1,4 +1,3 @@
-- **2010-10-20 09:29**: style: enhance traffic sign card layout and responsiveness
 - **2010-10-21 09:10**: docs: improve code comments and API documentation
 - **2010-10-21 20:41**: refactor: restructure question data schema for faster loading
 - **2010-10-21 22:04**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-12-03 10:47**: fix: adjust passing score threshold according to new rules
 - **2010-12-04 13:47**: feat: add category A and B traffic test questions
 - **2010-12-05 12:01**: feat: add search and filter by sign category
+- **2010-12-05 20:56**: chore: organize assets and image directory structure
