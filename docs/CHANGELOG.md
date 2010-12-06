@@ -1,4 +1,3 @@
-- **2010-10-21 20:41**: refactor: restructure question data schema for faster loading
 - **2010-10-21 22:04**: perf: lazy load signal graphics and question assets
 - **2010-10-22 11:08**: perf: lazy load signal graphics and question assets
 - **2010-10-23 12:16**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2010-12-05 12:01**: feat: add search and filter by sign category
 - **2010-12-05 20:56**: chore: organize assets and image directory structure
 - **2010-12-06 10:00**: test: verify question extraction script against exam PDF
+- **2010-12-06 13:59**: docs: update traffic signals catalog documentation
