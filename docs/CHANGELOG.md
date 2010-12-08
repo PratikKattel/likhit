@@ -1,4 +1,3 @@
-- **2010-10-23 12:16**: perf: lazy load signal graphics and question assets
 - **2010-10-23 14:44**: feat: add search and filter by sign category
 - **2010-10-23 18:55**: fix: resolve layout shift during question transitions
 - **2010-10-24 18:18**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-12-06 13:59**: docs: update traffic signals catalog documentation
 - **2010-12-07 22:02**: chore: organize assets and image directory structure
 - **2010-12-08 16:14**: feat: add regulatory traffic signs SVG graphics
+- **2010-12-08 19:15**: docs: add instructions for Nepali driving license written exam
