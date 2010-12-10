@@ -1,4 +1,3 @@
-- **2010-10-24 18:18**: chore: format code style and clean up redundant variables
 - **2010-10-24 21:31**: feat: add search and filter by sign category
 - **2010-10-25 12:41**: fix: resolve layout shift during question transitions
 - **2010-10-26 19:03**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2010-12-08 19:15**: docs: add instructions for Nepali driving license written exam
 - **2010-12-09 20:50**: perf: optimize image caching for traffic sign assets
 - **2010-12-10 09:58**: fix: correct color specifications for mandatory traffic signs
+- **2010-12-10 19:21**: refactor: modularize traffic app logic and event listeners
