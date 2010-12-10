@@ -1,4 +1,3 @@
-- **2010-10-23 18:55**: fix: resolve layout shift during question transitions
 - **2010-10-24 18:18**: chore: format code style and clean up redundant variables
 - **2010-10-24 21:31**: feat: add search and filter by sign category
 - **2010-10-25 12:41**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-12-08 16:14**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-08 19:15**: docs: add instructions for Nepali driving license written exam
 - **2010-12-09 20:50**: perf: optimize image caching for traffic sign assets
+- **2010-12-10 09:58**: fix: correct color specifications for mandatory traffic signs
