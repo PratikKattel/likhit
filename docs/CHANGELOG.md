@@ -1,4 +1,3 @@
-- **2010-10-25 12:41**: fix: resolve layout shift during question transitions
 - **2010-10-26 19:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-10-27 11:38**: feat: add search and filter by sign category
 - **2010-10-27 15:53**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2010-12-10 09:58**: fix: correct color specifications for mandatory traffic signs
 - **2010-12-10 19:21**: refactor: modularize traffic app logic and event listeners
 - **2010-12-11 13:08**: feat: add keyboard navigation shortcuts for question selection
+- **2010-12-11 17:29**: feat: support multiple choice questions for motorcycle category
