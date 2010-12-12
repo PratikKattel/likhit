@@ -1,4 +1,3 @@
-- **2010-10-27 11:38**: feat: add search and filter by sign category
 - **2010-10-27 15:53**: feat: add category A and B traffic test questions
 - **2010-10-27 16:11**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-28 12:39**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2010-12-11 13:08**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-11 17:29**: feat: support multiple choice questions for motorcycle category
 - **2010-12-11 21:37**: perf: optimize image caching for traffic sign assets
+- **2010-12-12 11:16**: style: polish typography and Nepali Unicode font rendering
