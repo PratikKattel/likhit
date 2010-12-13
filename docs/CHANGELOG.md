@@ -1,4 +1,3 @@
-- **2010-10-27 16:11**: feat: add keyboard navigation shortcuts for question selection
 - **2010-10-28 12:39**: feat: support multiple choice questions for motorcycle category
 - **2010-10-28 18:15**: feat: add warning signs and informational road signs
 - **2010-10-29 09:40**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2010-12-11 21:37**: perf: optimize image caching for traffic sign assets
 - **2010-12-12 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2010-12-12 20:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2010-12-13 11:28**: test: verify question extraction script against exam PDF
