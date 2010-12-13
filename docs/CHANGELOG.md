@@ -1,4 +1,3 @@
-- **2010-10-28 12:39**: feat: support multiple choice questions for motorcycle category
 - **2010-10-28 18:15**: feat: add warning signs and informational road signs
 - **2010-10-29 09:40**: feat: add result summary with passing threshold analysis
 - **2010-10-29 17:04**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2010-12-12 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2010-12-12 20:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-13 11:28**: test: verify question extraction script against exam PDF
+- **2010-12-13 15:09**: feat: add regulatory traffic signs SVG graphics
