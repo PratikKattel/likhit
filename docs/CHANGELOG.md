@@ -1,4 +1,3 @@
-- **2010-10-29 17:04**: feat: implement timer and score calculation for mock test
 - **2010-10-30 19:15**: test: verify question extraction script against exam PDF
 - **2010-10-30 19:41**: fix: typo in Nepali road safety regulations question
 - **2010-10-30 20:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2010-12-13 15:09**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-13 18:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-14 19:29**: style: enhance traffic sign card layout and responsiveness
+- **2010-12-14 20:17**: docs: improve code comments and API documentation
