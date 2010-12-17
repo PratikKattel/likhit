@@ -1,4 +1,3 @@
-- **2010-10-31 12:27**: fix: resolve layout shift during question transitions
 - **2010-11-01 10:57**: refactor: modularize traffic app logic and event listeners
 - **2010-11-01 16:43**: chore: update questions database with recent DOTM updates
 - **2010-11-02 12:25**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2010-12-15 17:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-12-15 18:07**: style: enhance traffic sign card layout and responsiveness
 - **2010-12-16 17:58**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2010-12-17 13:20**: fix: typo in Nepali road safety regulations question
