@@ -1,4 +1,3 @@
-- **2010-11-01 16:43**: chore: update questions database with recent DOTM updates
 - **2010-11-02 12:25**: feat: add regulatory traffic signs SVG graphics
 - **2010-11-03 19:36**: docs: update README with setup instructions and feature list
 - **2010-11-04 21:45**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2010-12-16 17:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-17 13:20**: fix: typo in Nepali road safety regulations question
 - **2010-12-17 17:41**: refactor: optimize SVG rendering for road signs
+- **2010-12-18 12:37**: feat: add regulatory traffic signs SVG graphics
