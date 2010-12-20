@@ -1,4 +1,3 @@
-- **2010-11-04 21:45**: feat: add result summary with passing threshold analysis
 - **2010-11-05 14:16**: fix: resolve layout shift during question transitions
 - **2010-11-05 17:53**: refactor: restructure question data schema for faster loading
 - **2010-11-06 11:21**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2010-12-18 12:37**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-19 11:46**: feat: add category-specific practice modes
 - **2010-12-19 20:01**: feat: add warning signs and informational road signs
+- **2010-12-20 19:49**: chore: update project metadata and build configuration
