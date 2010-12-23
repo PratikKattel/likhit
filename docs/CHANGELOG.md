@@ -1,4 +1,3 @@
-- **2010-11-07 17:05**: feat: add search and filter by sign category
 - **2010-11-08 12:48**: refactor: optimize SVG rendering for road signs
 - **2010-11-09 12:40**: refactor: optimize SVG rendering for road signs
 - **2010-11-09 16:20**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-12-22 10:50**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-22 21:34**: feat: support multiple choice questions for motorcycle category
 - **2010-12-23 09:55**: fix: update DOTM Nepal license syllabus questions
+- **2010-12-23 10:49**: feat: add warning signs and informational road signs
