@@ -1,4 +1,3 @@
-- **2010-11-10 17:42**: perf: index question IDs for rapid lookup
 - **2010-11-11 12:25**: docs: add instructions for Nepali driving license written exam
 - **2010-11-12 13:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-11-12 15:51**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2010-12-25 10:59**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-26 09:30**: feat: support multiple choice questions for motorcycle category
 - **2010-12-26 10:25**: feat: add instant feedback and explanation on answer selection
+- **2010-12-26 11:15**: feat: implement timer and score calculation for mock test
