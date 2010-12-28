@@ -1,4 +1,3 @@
-- **2010-11-12 15:51**: refactor: modularize traffic app logic and event listeners
 - **2010-11-12 17:50**: feat: add category-specific practice modes
 - **2010-11-13 13:46**: feat: add category A and B traffic test questions
 - **2010-11-13 19:28**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2010-12-26 11:15**: feat: implement timer and score calculation for mock test
 - **2010-12-27 19:20**: fix: correct color specifications for mandatory traffic signs
 - **2010-12-28 11:30**: feat: add instant feedback and explanation on answer selection
+- **2010-12-28 21:37**: chore: update questions database with recent DOTM updates
