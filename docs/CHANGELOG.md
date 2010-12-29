@@ -1,4 +1,3 @@
-- **2010-11-12 17:50**: feat: add category-specific practice modes
 - **2010-11-13 13:46**: feat: add category A and B traffic test questions
 - **2010-11-13 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2010-11-14 11:23**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2010-12-27 19:20**: fix: correct color specifications for mandatory traffic signs
 - **2010-12-28 11:30**: feat: add instant feedback and explanation on answer selection
 - **2010-12-28 21:37**: chore: update questions database with recent DOTM updates
+- **2010-12-29 10:21**: feat: add keyboard navigation shortcuts for question selection
