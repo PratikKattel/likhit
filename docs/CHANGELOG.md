@@ -1,4 +1,3 @@
-- **2010-11-14 14:55**: feat: add warning signs and informational road signs
 - **2010-11-15 09:53**: docs: add instructions for Nepali driving license written exam
 - **2010-11-15 13:02**: docs: add instructions for Nepali driving license written exam
 - **2010-11-16 17:34**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2010-12-30 12:49**: docs: improve code comments and API documentation
 - **2010-12-30 16:51**: docs: improve code comments and API documentation
 - **2010-12-31 10:57**: fix: adjust passing score threshold according to new rules
+- **2010-12-31 11:03**: feat: add instant feedback and explanation on answer selection
