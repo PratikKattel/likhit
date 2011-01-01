@@ -1,4 +1,3 @@
-- **2010-11-16 17:34**: perf: index question IDs for rapid lookup
 - **2010-11-17 14:44**: docs: add instructions for Nepali driving license written exam
 - **2010-11-17 14:59**: feat: add search and filter by sign category
 - **2010-11-17 16:12**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2010-12-31 11:03**: feat: add instant feedback and explanation on answer selection
 - **2010-12-31 14:58**: fix: typo in Nepali road safety regulations question
 - **2010-12-31 21:33**: fix: correct color specifications for mandatory traffic signs
+- **2011-01-01 16:17**: perf: lazy load signal graphics and question assets
