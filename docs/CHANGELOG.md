@@ -1,4 +1,3 @@
-- **2010-11-18 12:24**: perf: index question IDs for rapid lookup
 - **2010-11-18 14:58**: test: verify question extraction script against exam PDF
 - **2010-11-18 19:05**: fix: update DOTM Nepal license syllabus questions
 - **2010-11-19 17:33**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2011-01-02 12:53**: feat: add instant feedback and explanation on answer selection
 - **2011-01-02 21:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-03 10:31**: feat: add keyboard navigation shortcuts for question selection
+- **2011-01-03 13:58**: feat: add category A and B traffic test questions
