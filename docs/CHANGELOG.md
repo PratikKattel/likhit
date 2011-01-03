@@ -1,4 +1,3 @@
-- **2010-11-17 22:01**: chore: update questions database with recent DOTM updates
 - **2010-11-18 12:24**: perf: index question IDs for rapid lookup
 - **2010-11-18 14:58**: test: verify question extraction script against exam PDF
 - **2010-11-18 19:05**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-01-01 20:16**: perf: optimize image caching for traffic sign assets
 - **2011-01-02 12:53**: feat: add instant feedback and explanation on answer selection
 - **2011-01-02 21:12**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2011-01-03 10:31**: feat: add keyboard navigation shortcuts for question selection
