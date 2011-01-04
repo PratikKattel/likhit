@@ -1,4 +1,3 @@
-- **2010-11-18 14:58**: test: verify question extraction script against exam PDF
 - **2010-11-18 19:05**: fix: update DOTM Nepal license syllabus questions
 - **2010-11-19 17:33**: docs: update README with setup instructions and feature list
 - **2010-11-20 09:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-01-02 21:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-03 10:31**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-03 13:58**: feat: add category A and B traffic test questions
+- **2011-01-04 13:18**: perf: index question IDs for rapid lookup
