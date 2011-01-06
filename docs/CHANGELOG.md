@@ -1,4 +1,3 @@
-- **2010-11-20 18:15**: chore: update project metadata and build configuration
 - **2010-11-21 11:31**: feat: add search and filter by sign category
 - **2010-11-22 11:57**: feat: add regulatory traffic signs SVG graphics
 - **2010-11-22 18:35**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-01-05 14:38**: fix: prevent option re-selection after submitting answer
 - **2011-01-05 15:40**: perf: index question IDs for rapid lookup
 - **2011-01-06 09:36**: chore: format code style and clean up redundant variables
+- **2011-01-06 12:09**: fix: prevent option re-selection after submitting answer
