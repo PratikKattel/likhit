@@ -1,4 +1,3 @@
-- **2010-11-22 11:57**: feat: add regulatory traffic signs SVG graphics
 - **2010-11-22 18:35**: chore: organize assets and image directory structure
 - **2010-11-22 19:14**: style: enhance traffic sign card layout and responsiveness
 - **2010-11-23 12:19**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-01-06 09:36**: chore: format code style and clean up redundant variables
 - **2011-01-06 12:09**: fix: prevent option re-selection after submitting answer
 - **2011-01-07 13:08**: feat: add regulatory traffic signs SVG graphics
+- **2011-01-08 09:57**: docs: add instructions for Nepali driving license written exam
