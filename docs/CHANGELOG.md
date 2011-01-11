@@ -1,4 +1,3 @@
-- **2010-11-23 12:19**: perf: optimize image caching for traffic sign assets
 - **2010-11-24 09:12**: feat: add instant feedback and explanation on answer selection
 - **2010-11-25 12:40**: feat: add category-specific practice modes
 - **2010-11-26 18:17**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-01-08 09:57**: docs: add instructions for Nepali driving license written exam
 - **2011-01-09 12:12**: feat: add regulatory traffic signs SVG graphics
 - **2011-01-10 20:33**: feat: add category-specific practice modes
+- **2011-01-11 17:48**: fix: prevent option re-selection after submitting answer
