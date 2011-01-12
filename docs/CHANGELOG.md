@@ -1,4 +1,3 @@
-- **2010-11-25 12:40**: feat: add category-specific practice modes
 - **2010-11-26 18:17**: refactor: restructure question data schema for faster loading
 - **2010-11-26 21:08**: docs: update README with setup instructions and feature list
 - **2010-11-27 15:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-01-10 20:33**: feat: add category-specific practice modes
 - **2011-01-11 17:48**: fix: prevent option re-selection after submitting answer
 - **2011-01-12 13:26**: feat: add result summary with passing threshold analysis
+- **2011-01-12 15:58**: feat: add search and filter by sign category
