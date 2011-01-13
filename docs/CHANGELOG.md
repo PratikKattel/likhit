@@ -1,4 +1,3 @@
-- **2010-11-26 21:08**: docs: update README with setup instructions and feature list
 - **2010-11-27 15:02**: feat: add search and filter by sign category
 - **2010-11-28 17:30**: chore: update project metadata and build configuration
 - **2010-11-29 19:50**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-01-12 13:26**: feat: add result summary with passing threshold analysis
 - **2011-01-12 15:58**: feat: add search and filter by sign category
 - **2011-01-12 17:46**: feat: add keyboard navigation shortcuts for question selection
+- **2011-01-13 21:05**: feat: add warning signs and informational road signs
