@@ -1,4 +1,3 @@
-- **2010-11-29 19:50**: fix: correct color specifications for mandatory traffic signs
 - **2010-11-29 22:12**: fix: typo in Nepali road safety regulations question
 - **2010-11-30 19:47**: test: verify question extraction script against exam PDF
 - **2010-11-30 20:38**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-01-13 21:05**: feat: add warning signs and informational road signs
 - **2011-01-14 13:21**: feat: support multiple choice questions for motorcycle category
 - **2011-01-14 22:12**: feat: implement timer and score calculation for mock test
+- **2011-01-15 12:51**: fix: prevent option re-selection after submitting answer
