@@ -1,4 +1,3 @@
-- **2010-11-30 19:47**: test: verify question extraction script against exam PDF
 - **2010-11-30 20:38**: style: enhance traffic sign card layout and responsiveness
 - **2010-12-01 20:19**: perf: lazy load signal graphics and question assets
 - **2010-12-02 17:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2011-01-14 22:12**: feat: implement timer and score calculation for mock test
 - **2011-01-15 12:51**: fix: prevent option re-selection after submitting answer
 - **2011-01-16 17:07**: feat: add keyboard navigation shortcuts for question selection
+- **2011-01-17 09:35**: chore: organize assets and image directory structure
