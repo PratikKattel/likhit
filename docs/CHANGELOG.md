@@ -1,4 +1,3 @@
-- **2010-12-02 17:47**: fix: prevent option re-selection after submitting answer
 - **2010-12-03 10:47**: fix: adjust passing score threshold according to new rules
 - **2010-12-04 13:47**: feat: add category A and B traffic test questions
 - **2010-12-05 12:01**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-01-17 09:35**: chore: organize assets and image directory structure
 - **2011-01-18 13:01**: feat: add result summary with passing threshold analysis
 - **2011-01-19 12:29**: chore: organize assets and image directory structure
+- **2011-01-19 20:40**: style: enhance traffic sign card layout and responsiveness
