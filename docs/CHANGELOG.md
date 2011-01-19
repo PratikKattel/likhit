@@ -1,4 +1,3 @@
-- **2010-12-03 10:47**: fix: adjust passing score threshold according to new rules
 - **2010-12-04 13:47**: feat: add category A and B traffic test questions
 - **2010-12-05 12:01**: feat: add search and filter by sign category
 - **2010-12-05 20:56**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-01-18 13:01**: feat: add result summary with passing threshold analysis
 - **2011-01-19 12:29**: chore: organize assets and image directory structure
 - **2011-01-19 20:40**: style: enhance traffic sign card layout and responsiveness
+- **2011-01-19 21:21**: refactor: clean up unused CSS classes and optimize stylesheet
