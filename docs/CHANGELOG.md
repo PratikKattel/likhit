@@ -1,4 +1,3 @@
-- **2010-12-05 20:56**: chore: organize assets and image directory structure
 - **2010-12-06 10:00**: test: verify question extraction script against exam PDF
 - **2010-12-06 13:59**: docs: update traffic signals catalog documentation
 - **2010-12-07 22:02**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-01-19 21:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-20 10:45**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-20 17:07**: feat: add regulatory traffic signs SVG graphics
+- **2011-01-21 17:38**: style: improve dark/light mode and mobile UI responsiveness
