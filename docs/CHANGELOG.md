@@ -1,4 +1,3 @@
-- **2010-12-06 13:59**: docs: update traffic signals catalog documentation
 - **2010-12-07 22:02**: chore: organize assets and image directory structure
 - **2010-12-08 16:14**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-08 19:15**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-01-20 17:07**: feat: add regulatory traffic signs SVG graphics
 - **2011-01-21 17:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-01-21 22:18**: fix: correct color specifications for mandatory traffic signs
+- **2011-01-22 17:07**: refactor: modularize traffic app logic and event listeners
