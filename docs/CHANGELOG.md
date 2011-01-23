@@ -1,4 +1,3 @@
-- **2010-12-08 16:14**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-08 19:15**: docs: add instructions for Nepali driving license written exam
 - **2010-12-09 20:50**: perf: optimize image caching for traffic sign assets
 - **2010-12-10 09:58**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-01-21 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2011-01-22 17:07**: refactor: modularize traffic app logic and event listeners
 - **2011-01-22 18:59**: feat: add category-specific practice modes
+- **2011-01-23 09:18**: fix: update DOTM Nepal license syllabus questions
