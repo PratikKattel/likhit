@@ -1,4 +1,3 @@
-- **2010-12-10 19:21**: refactor: modularize traffic app logic and event listeners
 - **2010-12-11 13:08**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-11 17:29**: feat: support multiple choice questions for motorcycle category
 - **2010-12-11 21:37**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-01-23 12:48**: feat: add instant feedback and explanation on answer selection
 - **2011-01-24 12:54**: refactor: restructure question data schema for faster loading
 - **2011-01-25 11:59**: perf: optimize image caching for traffic sign assets
+- **2011-01-25 12:36**: feat: add search and filter by sign category
