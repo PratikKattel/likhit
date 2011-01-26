@@ -1,4 +1,3 @@
-- **2010-12-11 17:29**: feat: support multiple choice questions for motorcycle category
 - **2010-12-11 21:37**: perf: optimize image caching for traffic sign assets
 - **2010-12-12 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2010-12-12 20:44**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-01-25 11:59**: perf: optimize image caching for traffic sign assets
 - **2011-01-25 12:36**: feat: add search and filter by sign category
 - **2011-01-25 20:14**: feat: add category-specific practice modes
+- **2011-01-26 09:58**: refactor: modularize traffic app logic and event listeners
