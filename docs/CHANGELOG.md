@@ -1,4 +1,3 @@
-- **2010-12-12 11:16**: style: polish typography and Nepali Unicode font rendering
 - **2010-12-12 20:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-13 11:28**: test: verify question extraction script against exam PDF
 - **2010-12-13 15:09**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-01-25 20:14**: feat: add category-specific practice modes
 - **2011-01-26 09:58**: refactor: modularize traffic app logic and event listeners
 - **2011-01-27 16:45**: chore: format code style and clean up redundant variables
+- **2011-01-27 20:43**: feat: add search and filter by sign category
