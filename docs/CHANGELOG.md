@@ -1,4 +1,3 @@
-- **2010-12-14 19:29**: style: enhance traffic sign card layout and responsiveness
 - **2010-12-14 20:17**: docs: improve code comments and API documentation
 - **2010-12-15 17:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-12-15 18:07**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-01-28 17:45**: chore: update project metadata and build configuration
 - **2011-01-29 13:20**: feat: add result summary with passing threshold analysis
 - **2011-01-30 15:14**: fix: typo in Nepali road safety regulations question
+- **2011-01-30 17:49**: chore: update questions database with recent DOTM updates
