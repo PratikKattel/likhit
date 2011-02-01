@@ -1,4 +1,3 @@
-- **2010-12-15 17:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2010-12-15 18:07**: style: enhance traffic sign card layout and responsiveness
 - **2010-12-16 17:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-17 13:20**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-01-30 15:14**: fix: typo in Nepali road safety regulations question
 - **2011-01-30 17:49**: chore: update questions database with recent DOTM updates
 - **2011-01-31 16:13**: feat: support multiple choice questions for motorcycle category
+- **2011-02-01 09:25**: feat: add regulatory traffic signs SVG graphics
