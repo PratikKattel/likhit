@@ -1,4 +1,3 @@
-- **2010-12-19 11:46**: feat: add category-specific practice modes
 - **2010-12-19 20:01**: feat: add warning signs and informational road signs
 - **2010-12-20 19:49**: chore: update project metadata and build configuration
 - **2010-12-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-02-02 19:25**: chore: format code style and clean up redundant variables
 - **2011-02-02 21:42**: fix: typo in Nepali road safety regulations question
 - **2011-02-03 11:44**: test: verify question extraction script against exam PDF
+- **2011-02-03 17:18**: chore: format code style and clean up redundant variables
