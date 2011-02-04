@@ -1,4 +1,3 @@
-- **2010-12-20 19:49**: chore: update project metadata and build configuration
 - **2010-12-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-22 10:50**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-22 21:34**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-02-03 11:44**: test: verify question extraction script against exam PDF
 - **2011-02-03 17:18**: chore: format code style and clean up redundant variables
 - **2011-02-04 10:49**: feat: add instant feedback and explanation on answer selection
+- **2011-02-04 14:23**: fix: prevent option re-selection after submitting answer
