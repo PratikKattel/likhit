@@ -1,4 +1,3 @@
-- **2010-12-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2010-12-22 10:50**: feat: add regulatory traffic signs SVG graphics
 - **2010-12-22 21:34**: feat: support multiple choice questions for motorcycle category
 - **2010-12-23 09:55**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-02-03 17:18**: chore: format code style and clean up redundant variables
 - **2011-02-04 10:49**: feat: add instant feedback and explanation on answer selection
 - **2011-02-04 14:23**: fix: prevent option re-selection after submitting answer
+- **2011-02-04 22:18**: chore: format code style and clean up redundant variables
