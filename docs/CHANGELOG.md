@@ -1,4 +1,3 @@
-- **2010-12-23 09:55**: fix: update DOTM Nepal license syllabus questions
 - **2010-12-23 10:49**: feat: add warning signs and informational road signs
 - **2010-12-24 16:54**: feat: add warning signs and informational road signs
 - **2010-12-25 10:59**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2011-02-04 22:18**: chore: format code style and clean up redundant variables
 - **2011-02-05 10:21**: docs: add instructions for Nepali driving license written exam
 - **2011-02-05 14:12**: feat: add search and filter by sign category
+- **2011-02-05 17:12**: feat: add instant feedback and explanation on answer selection
