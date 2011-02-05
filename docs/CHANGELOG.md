@@ -1,4 +1,3 @@
-- **2010-12-22 21:34**: feat: support multiple choice questions for motorcycle category
 - **2010-12-23 09:55**: fix: update DOTM Nepal license syllabus questions
 - **2010-12-23 10:49**: feat: add warning signs and informational road signs
 - **2010-12-24 16:54**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2011-02-04 14:23**: fix: prevent option re-selection after submitting answer
 - **2011-02-04 22:18**: chore: format code style and clean up redundant variables
 - **2011-02-05 10:21**: docs: add instructions for Nepali driving license written exam
+- **2011-02-05 14:12**: feat: add search and filter by sign category
