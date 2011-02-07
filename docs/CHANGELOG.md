@@ -1,4 +1,3 @@
-- **2010-12-24 16:54**: feat: add warning signs and informational road signs
 - **2010-12-25 10:59**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-26 09:30**: feat: support multiple choice questions for motorcycle category
 - **2010-12-26 10:25**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-02-05 14:12**: feat: add search and filter by sign category
 - **2011-02-05 17:12**: feat: add instant feedback and explanation on answer selection
 - **2011-02-06 17:29**: perf: optimize image caching for traffic sign assets
+- **2011-02-07 12:15**: docs: update traffic signals catalog documentation
