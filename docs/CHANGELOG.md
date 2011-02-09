@@ -1,4 +1,3 @@
-- **2010-12-26 09:30**: feat: support multiple choice questions for motorcycle category
 - **2010-12-26 10:25**: feat: add instant feedback and explanation on answer selection
 - **2010-12-26 11:15**: feat: implement timer and score calculation for mock test
 - **2010-12-27 19:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-02-06 17:29**: perf: optimize image caching for traffic sign assets
 - **2011-02-07 12:15**: docs: update traffic signals catalog documentation
 - **2011-02-08 11:23**: docs: update README with setup instructions and feature list
+- **2011-02-09 11:41**: feat: add regulatory traffic signs SVG graphics
