@@ -1,4 +1,3 @@
-- **2010-12-26 10:25**: feat: add instant feedback and explanation on answer selection
 - **2010-12-26 11:15**: feat: implement timer and score calculation for mock test
 - **2010-12-27 19:20**: fix: correct color specifications for mandatory traffic signs
 - **2010-12-28 11:30**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-02-07 12:15**: docs: update traffic signals catalog documentation
 - **2011-02-08 11:23**: docs: update README with setup instructions and feature list
 - **2011-02-09 11:41**: feat: add regulatory traffic signs SVG graphics
+- **2011-02-09 14:14**: refactor: optimize SVG rendering for road signs
