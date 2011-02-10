@@ -1,4 +1,3 @@
-- **2010-12-28 11:30**: feat: add instant feedback and explanation on answer selection
 - **2010-12-28 21:37**: chore: update questions database with recent DOTM updates
 - **2010-12-29 10:21**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-30 12:49**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-02-09 14:14**: refactor: optimize SVG rendering for road signs
 - **2011-02-09 21:09**: docs: improve code comments and API documentation
 - **2011-02-10 17:37**: fix: update DOTM Nepal license syllabus questions
+- **2011-02-10 21:54**: docs: update traffic signals catalog documentation
