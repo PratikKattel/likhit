@@ -1,4 +1,3 @@
-- **2010-12-27 19:20**: fix: correct color specifications for mandatory traffic signs
 - **2010-12-28 11:30**: feat: add instant feedback and explanation on answer selection
 - **2010-12-28 21:37**: chore: update questions database with recent DOTM updates
 - **2010-12-29 10:21**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2011-02-09 11:41**: feat: add regulatory traffic signs SVG graphics
 - **2011-02-09 14:14**: refactor: optimize SVG rendering for road signs
 - **2011-02-09 21:09**: docs: improve code comments and API documentation
+- **2011-02-10 17:37**: fix: update DOTM Nepal license syllabus questions
