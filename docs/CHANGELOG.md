@@ -1,4 +1,3 @@
-- **2010-12-29 10:21**: feat: add keyboard navigation shortcuts for question selection
 - **2010-12-30 12:49**: docs: improve code comments and API documentation
 - **2010-12-30 16:51**: docs: improve code comments and API documentation
 - **2010-12-31 10:57**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2011-02-10 17:37**: fix: update DOTM Nepal license syllabus questions
 - **2011-02-10 21:54**: docs: update traffic signals catalog documentation
 - **2011-02-11 11:34**: perf: lazy load signal graphics and question assets
+- **2011-02-11 17:16**: feat: add search and filter by sign category
