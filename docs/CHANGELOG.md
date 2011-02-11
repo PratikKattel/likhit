@@ -1,4 +1,3 @@
-- **2010-12-30 12:49**: docs: improve code comments and API documentation
 - **2010-12-30 16:51**: docs: improve code comments and API documentation
 - **2010-12-31 10:57**: fix: adjust passing score threshold according to new rules
 - **2010-12-31 11:03**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-02-10 21:54**: docs: update traffic signals catalog documentation
 - **2011-02-11 11:34**: perf: lazy load signal graphics and question assets
 - **2011-02-11 17:16**: feat: add search and filter by sign category
+- **2011-02-11 17:41**: docs: improve code comments and API documentation
