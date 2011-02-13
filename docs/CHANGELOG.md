@@ -1,4 +1,3 @@
-- **2010-12-31 11:03**: feat: add instant feedback and explanation on answer selection
 - **2010-12-31 14:58**: fix: typo in Nepali road safety regulations question
 - **2010-12-31 21:33**: fix: correct color specifications for mandatory traffic signs
 - **2011-01-01 16:17**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-02-11 17:41**: docs: improve code comments and API documentation
 - **2011-02-12 09:46**: docs: update traffic signals catalog documentation
 - **2011-02-12 16:58**: feat: add regulatory traffic signs SVG graphics
+- **2011-02-13 10:30**: feat: add warning signs and informational road signs
