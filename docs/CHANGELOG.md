@@ -1,4 +1,3 @@
-- **2011-01-01 16:17**: perf: lazy load signal graphics and question assets
 - **2011-01-01 20:16**: perf: optimize image caching for traffic sign assets
 - **2011-01-02 12:53**: feat: add instant feedback and explanation on answer selection
 - **2011-01-02 21:12**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-02-13 10:30**: feat: add warning signs and informational road signs
 - **2011-02-13 16:09**: fix: update DOTM Nepal license syllabus questions
 - **2011-02-13 17:57**: style: enhance traffic sign card layout and responsiveness
+- **2011-02-14 16:27**: feat: add category A and B traffic test questions
