@@ -1,4 +1,3 @@
-- **2011-01-02 21:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-03 10:31**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-03 13:58**: feat: add category A and B traffic test questions
 - **2011-01-04 13:18**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-02-14 16:27**: feat: add category A and B traffic test questions
 - **2011-02-15 09:17**: fix: correct color specifications for mandatory traffic signs
 - **2011-02-15 11:03**: chore: format code style and clean up redundant variables
+- **2011-02-15 11:17**: chore: update questions database with recent DOTM updates
