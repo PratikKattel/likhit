@@ -1,4 +1,3 @@
-- **2011-01-03 10:31**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-03 13:58**: feat: add category A and B traffic test questions
 - **2011-01-04 13:18**: perf: index question IDs for rapid lookup
 - **2011-01-05 09:34**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-02-15 09:17**: fix: correct color specifications for mandatory traffic signs
 - **2011-02-15 11:03**: chore: format code style and clean up redundant variables
 - **2011-02-15 11:17**: chore: update questions database with recent DOTM updates
+- **2011-02-16 10:37**: docs: improve code comments and API documentation
