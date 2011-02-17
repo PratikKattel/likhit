@@ -1,4 +1,3 @@
-- **2011-01-04 13:18**: perf: index question IDs for rapid lookup
 - **2011-01-05 09:34**: style: enhance traffic sign card layout and responsiveness
 - **2011-01-05 14:38**: fix: prevent option re-selection after submitting answer
 - **2011-01-05 15:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-02-15 11:17**: chore: update questions database with recent DOTM updates
 - **2011-02-16 10:37**: docs: improve code comments and API documentation
 - **2011-02-16 19:06**: feat: add result summary with passing threshold analysis
+- **2011-02-17 12:58**: docs: update README with setup instructions and feature list
