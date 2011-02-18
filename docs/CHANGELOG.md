@@ -1,4 +1,3 @@
-- **2011-01-05 09:34**: style: enhance traffic sign card layout and responsiveness
 - **2011-01-05 14:38**: fix: prevent option re-selection after submitting answer
 - **2011-01-05 15:40**: perf: index question IDs for rapid lookup
 - **2011-01-06 09:36**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-02-16 10:37**: docs: improve code comments and API documentation
 - **2011-02-16 19:06**: feat: add result summary with passing threshold analysis
 - **2011-02-17 12:58**: docs: update README with setup instructions and feature list
+- **2011-02-18 10:25**: feat: add instant feedback and explanation on answer selection
