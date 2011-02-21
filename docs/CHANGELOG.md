@@ -1,4 +1,3 @@
-- **2011-01-06 12:09**: fix: prevent option re-selection after submitting answer
 - **2011-01-07 13:08**: feat: add regulatory traffic signs SVG graphics
 - **2011-01-08 09:57**: docs: add instructions for Nepali driving license written exam
 - **2011-01-09 12:12**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-02-19 14:03**: docs: add instructions for Nepali driving license written exam
 - **2011-02-19 17:17**: docs: improve code comments and API documentation
 - **2011-02-20 09:06**: docs: improve code comments and API documentation
+- **2011-02-21 17:34**: test: verify question extraction script against exam PDF
