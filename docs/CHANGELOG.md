@@ -1,4 +1,3 @@
-- **2011-01-10 20:33**: feat: add category-specific practice modes
 - **2011-01-11 17:48**: fix: prevent option re-selection after submitting answer
 - **2011-01-12 13:26**: feat: add result summary with passing threshold analysis
 - **2011-01-12 15:58**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-02-22 10:52**: feat: add keyboard navigation shortcuts for question selection
 - **2011-02-23 13:46**: perf: lazy load signal graphics and question assets
 - **2011-02-23 14:15**: refactor: restructure question data schema for faster loading
+- **2011-02-23 21:36**: fix: adjust passing score threshold according to new rules
