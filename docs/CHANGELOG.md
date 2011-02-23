@@ -1,4 +1,3 @@
-- **2011-01-08 09:57**: docs: add instructions for Nepali driving license written exam
 - **2011-01-09 12:12**: feat: add regulatory traffic signs SVG graphics
 - **2011-01-10 20:33**: feat: add category-specific practice modes
 - **2011-01-11 17:48**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2011-02-20 09:06**: docs: improve code comments and API documentation
 - **2011-02-21 17:34**: test: verify question extraction script against exam PDF
 - **2011-02-22 10:52**: feat: add keyboard navigation shortcuts for question selection
+- **2011-02-23 13:46**: perf: lazy load signal graphics and question assets
