@@ -1,4 +1,3 @@
-- **2011-01-12 17:46**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-13 21:05**: feat: add warning signs and informational road signs
 - **2011-01-14 13:21**: feat: support multiple choice questions for motorcycle category
 - **2011-01-14 22:12**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-02-24 14:36**: feat: add result summary with passing threshold analysis
 - **2011-02-24 19:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-02-24 19:54**: fix: correct color specifications for mandatory traffic signs
+- **2011-02-25 14:24**: docs: improve code comments and API documentation
