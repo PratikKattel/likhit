@@ -1,4 +1,3 @@
-- **2011-01-14 13:21**: feat: support multiple choice questions for motorcycle category
 - **2011-01-14 22:12**: feat: implement timer and score calculation for mock test
 - **2011-01-15 12:51**: fix: prevent option re-selection after submitting answer
 - **2011-01-16 17:07**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2011-02-24 19:54**: fix: correct color specifications for mandatory traffic signs
 - **2011-02-25 14:24**: docs: improve code comments and API documentation
 - **2011-02-26 09:31**: chore: organize assets and image directory structure
+- **2011-02-26 21:05**: feat: support multiple choice questions for motorcycle category
