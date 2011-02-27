@@ -1,4 +1,3 @@
-- **2011-01-15 12:51**: fix: prevent option re-selection after submitting answer
 - **2011-01-16 17:07**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-17 09:35**: chore: organize assets and image directory structure
 - **2011-01-18 13:01**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2011-02-26 09:31**: chore: organize assets and image directory structure
 - **2011-02-26 21:05**: feat: support multiple choice questions for motorcycle category
 - **2011-02-27 13:59**: fix: typo in Nepali road safety regulations question
+- **2011-02-27 14:10**: fix: update DOTM Nepal license syllabus questions
