@@ -1,4 +1,3 @@
-- **2011-01-19 20:40**: style: enhance traffic sign card layout and responsiveness
 - **2011-01-19 21:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-20 10:45**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-20 17:07**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-02-28 10:25**: perf: optimize image caching for traffic sign assets
 - **2011-02-28 14:39**: fix: typo in Nepali road safety regulations question
 - **2011-02-28 17:30**: feat: add regulatory traffic signs SVG graphics
+- **2011-03-01 20:05**: feat: add category-specific practice modes
