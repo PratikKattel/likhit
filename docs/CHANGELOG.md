@@ -1,4 +1,3 @@
-- **2011-01-19 21:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-01-20 10:45**: feat: add keyboard navigation shortcuts for question selection
 - **2011-01-20 17:07**: feat: add regulatory traffic signs SVG graphics
 - **2011-01-21 17:38**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-02-28 14:39**: fix: typo in Nepali road safety regulations question
 - **2011-02-28 17:30**: feat: add regulatory traffic signs SVG graphics
 - **2011-03-01 20:05**: feat: add category-specific practice modes
+- **2011-03-02 21:39**: docs: update README with setup instructions and feature list
