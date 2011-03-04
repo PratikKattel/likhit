@@ -1,4 +1,3 @@
-- **2011-01-21 17:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-01-21 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2011-01-22 17:07**: refactor: modularize traffic app logic and event listeners
 - **2011-01-22 18:59**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-03-02 21:39**: docs: update README with setup instructions and feature list
 - **2011-03-03 11:47**: refactor: restructure question data schema for faster loading
 - **2011-03-04 12:49**: feat: add category A and B traffic test questions
+- **2011-03-04 16:41**: feat: add regulatory traffic signs SVG graphics
