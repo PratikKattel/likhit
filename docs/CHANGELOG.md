@@ -1,4 +1,3 @@
-- **2011-01-22 17:07**: refactor: modularize traffic app logic and event listeners
 - **2011-01-22 18:59**: feat: add category-specific practice modes
 - **2011-01-23 09:18**: fix: update DOTM Nepal license syllabus questions
 - **2011-01-23 12:48**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-03-04 12:49**: feat: add category A and B traffic test questions
 - **2011-03-04 16:41**: feat: add regulatory traffic signs SVG graphics
 - **2011-03-05 11:16**: fix: resolve layout shift during question transitions
+- **2011-03-05 12:33**: feat: add search and filter by sign category
