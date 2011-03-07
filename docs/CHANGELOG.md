@@ -1,4 +1,3 @@
-- **2011-01-23 09:18**: fix: update DOTM Nepal license syllabus questions
 - **2011-01-23 12:48**: feat: add instant feedback and explanation on answer selection
 - **2011-01-24 12:54**: refactor: restructure question data schema for faster loading
 - **2011-01-25 11:59**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-03-05 11:16**: fix: resolve layout shift during question transitions
 - **2011-03-05 12:33**: feat: add search and filter by sign category
 - **2011-03-06 22:21**: chore: update project metadata and build configuration
+- **2011-03-07 12:49**: chore: update project metadata and build configuration
