@@ -1,4 +1,3 @@
-- **2011-01-25 12:36**: feat: add search and filter by sign category
 - **2011-01-25 20:14**: feat: add category-specific practice modes
 - **2011-01-26 09:58**: refactor: modularize traffic app logic and event listeners
 - **2011-01-27 16:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-03-07 14:54**: chore: update project metadata and build configuration
 - **2011-03-08 19:05**: perf: lazy load signal graphics and question assets
 - **2011-03-08 20:33**: feat: add instant feedback and explanation on answer selection
+- **2011-03-09 18:17**: chore: organize assets and image directory structure
