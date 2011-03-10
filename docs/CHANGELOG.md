@@ -1,4 +1,3 @@
-- **2011-01-27 16:45**: chore: format code style and clean up redundant variables
 - **2011-01-27 20:43**: feat: add search and filter by sign category
 - **2011-01-27 22:16**: chore: update questions database with recent DOTM updates
 - **2011-01-28 17:45**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-03-09 18:17**: chore: organize assets and image directory structure
 - **2011-03-10 10:31**: feat: implement timer and score calculation for mock test
 - **2011-03-10 20:30**: perf: lazy load signal graphics and question assets
+- **2011-03-10 21:21**: feat: support multiple choice questions for motorcycle category
