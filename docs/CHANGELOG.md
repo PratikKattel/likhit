@@ -1,4 +1,3 @@
-- **2011-01-29 13:20**: feat: add result summary with passing threshold analysis
 - **2011-01-30 15:14**: fix: typo in Nepali road safety regulations question
 - **2011-01-30 17:49**: chore: update questions database with recent DOTM updates
 - **2011-01-31 16:13**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-03-11 14:36**: chore: update questions database with recent DOTM updates
 - **2011-03-11 16:10**: feat: add result summary with passing threshold analysis
 - **2011-03-12 20:53**: fix: typo in Nepali road safety regulations question
+- **2011-03-13 20:47**: refactor: modularize traffic app logic and event listeners
