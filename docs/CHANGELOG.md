@@ -1,4 +1,3 @@
-- **2011-01-30 17:49**: chore: update questions database with recent DOTM updates
 - **2011-01-31 16:13**: feat: support multiple choice questions for motorcycle category
 - **2011-02-01 09:25**: feat: add regulatory traffic signs SVG graphics
 - **2011-02-01 21:30**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-03-12 20:53**: fix: typo in Nepali road safety regulations question
 - **2011-03-13 20:47**: refactor: modularize traffic app logic and event listeners
 - **2011-03-14 10:43**: refactor: modularize traffic app logic and event listeners
+- **2011-03-15 10:00**: feat: add search and filter by sign category
