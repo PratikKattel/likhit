@@ -1,4 +1,3 @@
-- **2011-02-01 21:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-02-02 10:20**: feat: support multiple choice questions for motorcycle category
 - **2011-02-02 19:25**: chore: format code style and clean up redundant variables
 - **2011-02-02 21:42**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-03-15 10:00**: feat: add search and filter by sign category
 - **2011-03-15 20:59**: style: polish typography and Nepali Unicode font rendering
 - **2011-03-15 21:53**: fix: update DOTM Nepal license syllabus questions
+- **2011-03-16 11:20**: feat: support multiple choice questions for motorcycle category
