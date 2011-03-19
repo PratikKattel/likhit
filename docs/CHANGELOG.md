@@ -1,4 +1,3 @@
-- **2011-02-04 10:49**: feat: add instant feedback and explanation on answer selection
 - **2011-02-04 14:23**: fix: prevent option re-selection after submitting answer
 - **2011-02-04 22:18**: chore: format code style and clean up redundant variables
 - **2011-02-05 10:21**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-03-18 16:10**: perf: index question IDs for rapid lookup
 - **2011-03-18 21:53**: fix: adjust passing score threshold according to new rules
 - **2011-03-19 11:19**: chore: organize assets and image directory structure
+- **2011-03-19 16:46**: style: enhance traffic sign card layout and responsiveness
