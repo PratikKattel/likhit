@@ -1,4 +1,3 @@
-- **2011-02-05 14:12**: feat: add search and filter by sign category
 - **2011-02-05 17:12**: feat: add instant feedback and explanation on answer selection
 - **2011-02-06 17:29**: perf: optimize image caching for traffic sign assets
 - **2011-02-07 12:15**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2011-03-19 19:08**: docs: update README with setup instructions and feature list
 - **2011-03-20 09:41**: perf: index question IDs for rapid lookup
 - **2011-03-20 11:14**: perf: index question IDs for rapid lookup
+- **2011-03-20 19:17**: style: enhance traffic sign card layout and responsiveness
