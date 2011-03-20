@@ -1,4 +1,3 @@
-- **2011-02-04 22:18**: chore: format code style and clean up redundant variables
 - **2011-02-05 10:21**: docs: add instructions for Nepali driving license written exam
 - **2011-02-05 14:12**: feat: add search and filter by sign category
 - **2011-02-05 17:12**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-03-19 11:19**: chore: organize assets and image directory structure
 - **2011-03-19 16:46**: style: enhance traffic sign card layout and responsiveness
 - **2011-03-19 19:08**: docs: update README with setup instructions and feature list
+- **2011-03-20 09:41**: perf: index question IDs for rapid lookup
