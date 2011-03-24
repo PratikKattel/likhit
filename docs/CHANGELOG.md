@@ -1,4 +1,3 @@
-- **2011-02-09 21:09**: docs: improve code comments and API documentation
 - **2011-02-10 17:37**: fix: update DOTM Nepal license syllabus questions
 - **2011-02-10 21:54**: docs: update traffic signals catalog documentation
 - **2011-02-11 11:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-03-23 13:05**: feat: add result summary with passing threshold analysis
 - **2011-03-23 15:42**: refactor: optimize SVG rendering for road signs
 - **2011-03-23 20:34**: feat: add keyboard navigation shortcuts for question selection
+- **2011-03-24 17:49**: feat: add instant feedback and explanation on answer selection
