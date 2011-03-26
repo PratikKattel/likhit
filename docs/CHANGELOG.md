@@ -1,4 +1,3 @@
-- **2011-02-11 11:34**: perf: lazy load signal graphics and question assets
 - **2011-02-11 17:16**: feat: add search and filter by sign category
 - **2011-02-11 17:41**: docs: improve code comments and API documentation
 - **2011-02-12 09:46**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2011-03-24 17:49**: feat: add instant feedback and explanation on answer selection
 - **2011-03-24 21:24**: chore: update project metadata and build configuration
 - **2011-03-25 11:37**: feat: implement timer and score calculation for mock test
+- **2011-03-26 15:01**: feat: add regulatory traffic signs SVG graphics
