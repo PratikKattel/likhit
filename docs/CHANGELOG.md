@@ -1,4 +1,3 @@
-- **2011-02-11 17:16**: feat: add search and filter by sign category
 - **2011-02-11 17:41**: docs: improve code comments and API documentation
 - **2011-02-12 09:46**: docs: update traffic signals catalog documentation
 - **2011-02-12 16:58**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-03-24 21:24**: chore: update project metadata and build configuration
 - **2011-03-25 11:37**: feat: implement timer and score calculation for mock test
 - **2011-03-26 15:01**: feat: add regulatory traffic signs SVG graphics
+- **2011-03-27 13:38**: docs: improve code comments and API documentation
