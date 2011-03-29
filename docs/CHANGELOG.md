@@ -1,4 +1,3 @@
-- **2011-02-12 16:58**: feat: add regulatory traffic signs SVG graphics
 - **2011-02-13 10:30**: feat: add warning signs and informational road signs
 - **2011-02-13 16:09**: fix: update DOTM Nepal license syllabus questions
 - **2011-02-13 17:57**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-03-27 13:38**: docs: improve code comments and API documentation
 - **2011-03-27 21:23**: docs: update traffic signals catalog documentation
 - **2011-03-28 16:12**: perf: lazy load signal graphics and question assets
+- **2011-03-29 10:17**: fix: correct color specifications for mandatory traffic signs
