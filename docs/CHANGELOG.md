@@ -1,4 +1,3 @@
-- **2011-02-14 16:27**: feat: add category A and B traffic test questions
 - **2011-02-15 09:17**: fix: correct color specifications for mandatory traffic signs
 - **2011-02-15 11:03**: chore: format code style and clean up redundant variables
 - **2011-02-15 11:17**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-03-29 13:30**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 14:23**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 19:20**: fix: adjust passing score threshold according to new rules
+- **2011-03-30 15:03**: perf: optimize image caching for traffic sign assets
