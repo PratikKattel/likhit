@@ -1,4 +1,3 @@
-- **2011-02-15 11:17**: chore: update questions database with recent DOTM updates
 - **2011-02-16 10:37**: docs: improve code comments and API documentation
 - **2011-02-16 19:06**: feat: add result summary with passing threshold analysis
 - **2011-02-17 12:58**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2011-03-30 15:03**: perf: optimize image caching for traffic sign assets
 - **2011-03-31 15:06**: feat: add category-specific practice modes
 - **2011-04-01 19:00**: fix: resolve layout shift during question transitions
+- **2011-04-02 15:10**: docs: improve code comments and API documentation
