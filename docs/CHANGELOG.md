@@ -1,4 +1,3 @@
-- **2011-02-16 19:06**: feat: add result summary with passing threshold analysis
 - **2011-02-17 12:58**: docs: update README with setup instructions and feature list
 - **2011-02-18 10:25**: feat: add instant feedback and explanation on answer selection
 - **2011-02-19 14:03**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-04-01 19:00**: fix: resolve layout shift during question transitions
 - **2011-04-02 15:10**: docs: improve code comments and API documentation
 - **2011-04-02 16:12**: refactor: restructure question data schema for faster loading
+- **2011-04-03 22:22**: docs: add instructions for Nepali driving license written exam
