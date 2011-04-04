@@ -1,4 +1,3 @@
-- **2011-02-18 10:25**: feat: add instant feedback and explanation on answer selection
 - **2011-02-19 14:03**: docs: add instructions for Nepali driving license written exam
 - **2011-02-19 17:17**: docs: improve code comments and API documentation
 - **2011-02-20 09:06**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-04-02 16:12**: refactor: restructure question data schema for faster loading
 - **2011-04-03 22:22**: docs: add instructions for Nepali driving license written exam
 - **2011-04-04 11:29**: style: polish typography and Nepali Unicode font rendering
+- **2011-04-04 13:06**: feat: add result summary with passing threshold analysis
