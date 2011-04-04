@@ -1,4 +1,3 @@
-- **2011-02-19 14:03**: docs: add instructions for Nepali driving license written exam
 - **2011-02-19 17:17**: docs: improve code comments and API documentation
 - **2011-02-20 09:06**: docs: improve code comments and API documentation
 - **2011-02-21 17:34**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2011-04-03 22:22**: docs: add instructions for Nepali driving license written exam
 - **2011-04-04 11:29**: style: polish typography and Nepali Unicode font rendering
 - **2011-04-04 13:06**: feat: add result summary with passing threshold analysis
+- **2011-04-04 15:57**: docs: add instructions for Nepali driving license written exam
