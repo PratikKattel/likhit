@@ -1,4 +1,3 @@
-- **2011-02-22 10:52**: feat: add keyboard navigation shortcuts for question selection
 - **2011-02-23 13:46**: perf: lazy load signal graphics and question assets
 - **2011-02-23 14:15**: refactor: restructure question data schema for faster loading
 - **2011-02-23 21:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2011-04-04 16:00**: chore: update questions database with recent DOTM updates
 - **2011-04-05 16:02**: docs: improve code comments and API documentation
 - **2011-04-05 18:08**: fix: correct color specifications for mandatory traffic signs
+- **2011-04-05 20:00**: feat: add search and filter by sign category
