@@ -1,4 +1,3 @@
-- **2011-02-23 14:15**: refactor: restructure question data schema for faster loading
 - **2011-02-23 21:36**: fix: adjust passing score threshold according to new rules
 - **2011-02-24 14:36**: feat: add result summary with passing threshold analysis
 - **2011-02-24 19:43**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-04-05 18:08**: fix: correct color specifications for mandatory traffic signs
 - **2011-04-05 20:00**: feat: add search and filter by sign category
 - **2011-04-06 10:15**: test: verify question extraction script against exam PDF
+- **2011-04-07 19:10**: perf: index question IDs for rapid lookup
