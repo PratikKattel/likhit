@@ -1,4 +1,3 @@
-- **2011-02-24 19:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-02-24 19:54**: fix: correct color specifications for mandatory traffic signs
 - **2011-02-25 14:24**: docs: improve code comments and API documentation
 - **2011-02-26 09:31**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-04-07 19:10**: perf: index question IDs for rapid lookup
 - **2011-04-07 20:23**: test: verify question extraction script against exam PDF
 - **2011-04-08 11:48**: docs: add instructions for Nepali driving license written exam
+- **2011-04-08 12:25**: docs: improve code comments and API documentation
