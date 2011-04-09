@@ -1,4 +1,3 @@
-- **2011-02-26 21:05**: feat: support multiple choice questions for motorcycle category
 - **2011-02-27 13:59**: fix: typo in Nepali road safety regulations question
 - **2011-02-27 14:10**: fix: update DOTM Nepal license syllabus questions
 - **2011-02-28 10:06**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-04-08 20:56**: perf: lazy load signal graphics and question assets
 - **2011-04-09 14:31**: fix: prevent option re-selection after submitting answer
 - **2011-04-09 19:52**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-04-09 20:48**: docs: add instructions for Nepali driving license written exam
