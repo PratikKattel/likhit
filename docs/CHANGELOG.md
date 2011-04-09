@@ -1,4 +1,3 @@
-- **2011-02-25 14:24**: docs: improve code comments and API documentation
 - **2011-02-26 09:31**: chore: organize assets and image directory structure
 - **2011-02-26 21:05**: feat: support multiple choice questions for motorcycle category
 - **2011-02-27 13:59**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-04-08 11:48**: docs: add instructions for Nepali driving license written exam
 - **2011-04-08 12:25**: docs: improve code comments and API documentation
 - **2011-04-08 20:56**: perf: lazy load signal graphics and question assets
+- **2011-04-09 14:31**: fix: prevent option re-selection after submitting answer
