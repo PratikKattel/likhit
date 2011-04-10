@@ -1,4 +1,3 @@
-- **2011-02-28 10:06**: chore: update project metadata and build configuration
 - **2011-02-28 10:25**: perf: optimize image caching for traffic sign assets
 - **2011-02-28 14:39**: fix: typo in Nepali road safety regulations question
 - **2011-02-28 17:30**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-04-09 20:48**: docs: add instructions for Nepali driving license written exam
 - **2011-04-10 15:10**: feat: add result summary with passing threshold analysis
 - **2011-04-10 19:32**: docs: improve code comments and API documentation
+- **2011-04-10 19:50**: chore: organize assets and image directory structure
