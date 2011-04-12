@@ -1,4 +1,3 @@
-- **2011-02-28 17:30**: feat: add regulatory traffic signs SVG graphics
 - **2011-03-01 20:05**: feat: add category-specific practice modes
 - **2011-03-02 21:39**: docs: update README with setup instructions and feature list
 - **2011-03-03 11:47**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-04-10 19:50**: chore: organize assets and image directory structure
 - **2011-04-11 10:28**: fix: resolve layout shift during question transitions
 - **2011-04-12 09:23**: fix: prevent option re-selection after submitting answer
+- **2011-04-12 10:36**: perf: index question IDs for rapid lookup
