@@ -1,4 +1,3 @@
-- **2011-03-02 21:39**: docs: update README with setup instructions and feature list
 - **2011-03-03 11:47**: refactor: restructure question data schema for faster loading
 - **2011-03-04 12:49**: feat: add category A and B traffic test questions
 - **2011-03-04 16:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-04-12 09:23**: fix: prevent option re-selection after submitting answer
 - **2011-04-12 10:36**: perf: index question IDs for rapid lookup
 - **2011-04-12 11:47**: feat: add regulatory traffic signs SVG graphics
+- **2011-04-12 20:14**: docs: update traffic signals catalog documentation
