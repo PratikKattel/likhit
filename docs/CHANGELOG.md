@@ -1,4 +1,3 @@
-- **2011-03-03 11:47**: refactor: restructure question data schema for faster loading
 - **2011-03-04 12:49**: feat: add category A and B traffic test questions
 - **2011-03-04 16:41**: feat: add regulatory traffic signs SVG graphics
 - **2011-03-05 11:16**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2011-04-12 10:36**: perf: index question IDs for rapid lookup
 - **2011-04-12 11:47**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-12 20:14**: docs: update traffic signals catalog documentation
+- **2011-04-13 09:27**: feat: support multiple choice questions for motorcycle category
