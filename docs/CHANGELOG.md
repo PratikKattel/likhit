@@ -1,4 +1,3 @@
-- **2011-03-05 11:16**: fix: resolve layout shift during question transitions
 - **2011-03-05 12:33**: feat: add search and filter by sign category
 - **2011-03-06 22:21**: chore: update project metadata and build configuration
 - **2011-03-07 12:49**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-04-13 09:27**: feat: support multiple choice questions for motorcycle category
 - **2011-04-13 11:04**: feat: add category A and B traffic test questions
 - **2011-04-13 13:21**: perf: index question IDs for rapid lookup
+- **2011-04-13 15:54**: style: improve dark/light mode and mobile UI responsiveness
