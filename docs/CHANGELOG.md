@@ -1,4 +1,3 @@
-- **2011-03-06 22:21**: chore: update project metadata and build configuration
 - **2011-03-07 12:49**: chore: update project metadata and build configuration
 - **2011-03-07 14:54**: chore: update project metadata and build configuration
 - **2011-03-08 19:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-04-13 13:21**: perf: index question IDs for rapid lookup
 - **2011-04-13 15:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-14 12:30**: feat: add instant feedback and explanation on answer selection
+- **2011-04-14 21:22**: perf: index question IDs for rapid lookup
