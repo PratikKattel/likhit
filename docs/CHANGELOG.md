@@ -1,4 +1,3 @@
-- **2011-03-09 18:17**: chore: organize assets and image directory structure
 - **2011-03-10 10:31**: feat: implement timer and score calculation for mock test
 - **2011-03-10 20:30**: perf: lazy load signal graphics and question assets
 - **2011-03-10 21:21**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-04-16 10:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-04-16 15:37**: perf: index question IDs for rapid lookup
 - **2011-04-16 16:48**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-04-17 11:05**: refactor: clean up unused CSS classes and optimize stylesheet
