@@ -1,4 +1,3 @@
-- **2011-03-11 16:10**: feat: add result summary with passing threshold analysis
 - **2011-03-12 20:53**: fix: typo in Nepali road safety regulations question
 - **2011-03-13 20:47**: refactor: modularize traffic app logic and event listeners
 - **2011-03-14 10:43**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2011-04-17 16:30**: perf: optimize image caching for traffic sign assets
 - **2011-04-18 10:17**: chore: format code style and clean up redundant variables
 - **2011-04-18 14:15**: refactor: optimize SVG rendering for road signs
+- **2011-04-19 11:58**: feat: add category-specific practice modes
