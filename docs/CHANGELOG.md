@@ -1,4 +1,3 @@
-- **2011-03-15 21:53**: fix: update DOTM Nepal license syllabus questions
 - **2011-03-16 11:20**: feat: support multiple choice questions for motorcycle category
 - **2011-03-16 20:03**: fix: correct color specifications for mandatory traffic signs
 - **2011-03-17 15:51**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2011-04-19 21:04**: chore: format code style and clean up redundant variables
 - **2011-04-20 15:25**: feat: add instant feedback and explanation on answer selection
 - **2011-04-21 14:53**: test: verify question extraction script against exam PDF
+- **2011-04-22 12:58**: style: improve dark/light mode and mobile UI responsiveness
