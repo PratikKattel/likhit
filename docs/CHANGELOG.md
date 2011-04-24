@@ -1,4 +1,3 @@
-- **2011-03-17 15:51**: feat: add category A and B traffic test questions
 - **2011-03-18 16:10**: perf: index question IDs for rapid lookup
 - **2011-03-18 21:53**: fix: adjust passing score threshold according to new rules
 - **2011-03-19 11:19**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-04-22 12:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-23 12:45**: feat: support multiple choice questions for motorcycle category
 - **2011-04-23 19:50**: feat: add warning signs and informational road signs
+- **2011-04-24 16:42**: chore: update project metadata and build configuration
