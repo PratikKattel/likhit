@@ -1,4 +1,3 @@
-- **2011-03-19 16:46**: style: enhance traffic sign card layout and responsiveness
 - **2011-03-19 19:08**: docs: update README with setup instructions and feature list
 - **2011-03-20 09:41**: perf: index question IDs for rapid lookup
 - **2011-03-20 11:14**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-04-24 18:55**: docs: add instructions for Nepali driving license written exam
 - **2011-04-24 21:03**: refactor: modularize traffic app logic and event listeners
 - **2011-04-25 16:55**: feat: add regulatory traffic signs SVG graphics
+- **2011-04-25 18:13**: feat: add result summary with passing threshold analysis
