@@ -1,4 +1,3 @@
-- **2011-03-20 19:17**: style: enhance traffic sign card layout and responsiveness
 - **2011-03-21 20:38**: docs: update README with setup instructions and feature list
 - **2011-03-22 09:29**: feat: add result summary with passing threshold analysis
 - **2011-03-22 20:30**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-04-26 15:54**: docs: update traffic signals catalog documentation
 - **2011-04-27 10:24**: perf: index question IDs for rapid lookup
 - **2011-04-27 11:45**: test: verify question extraction script against exam PDF
+- **2011-04-28 09:20**: fix: adjust passing score threshold according to new rules
