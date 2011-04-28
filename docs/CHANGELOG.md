@@ -1,4 +1,3 @@
-- **2011-03-21 20:38**: docs: update README with setup instructions and feature list
 - **2011-03-22 09:29**: feat: add result summary with passing threshold analysis
 - **2011-03-22 20:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-03-23 13:05**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2011-04-27 10:24**: perf: index question IDs for rapid lookup
 - **2011-04-27 11:45**: test: verify question extraction script against exam PDF
 - **2011-04-28 09:20**: fix: adjust passing score threshold according to new rules
+- **2011-04-28 18:38**: fix: resolve layout shift during question transitions
