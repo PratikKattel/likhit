@@ -1,4 +1,3 @@
-- **2011-03-22 09:29**: feat: add result summary with passing threshold analysis
 - **2011-03-22 20:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-03-23 13:05**: feat: add result summary with passing threshold analysis
 - **2011-03-23 15:42**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2011-04-27 11:45**: test: verify question extraction script against exam PDF
 - **2011-04-28 09:20**: fix: adjust passing score threshold according to new rules
 - **2011-04-28 18:38**: fix: resolve layout shift during question transitions
+- **2011-04-29 14:12**: feat: add search and filter by sign category
