@@ -1,4 +1,3 @@
-- **2011-03-23 15:42**: refactor: optimize SVG rendering for road signs
 - **2011-03-23 20:34**: feat: add keyboard navigation shortcuts for question selection
 - **2011-03-24 17:49**: feat: add instant feedback and explanation on answer selection
 - **2011-03-24 21:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-04-29 14:12**: feat: add search and filter by sign category
 - **2011-04-29 16:27**: fix: typo in Nepali road safety regulations question
 - **2011-04-29 20:44**: feat: add regulatory traffic signs SVG graphics
+- **2011-04-30 16:18**: feat: add instant feedback and explanation on answer selection
