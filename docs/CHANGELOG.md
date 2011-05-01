@@ -1,4 +1,3 @@
-- **2011-03-24 17:49**: feat: add instant feedback and explanation on answer selection
 - **2011-03-24 21:24**: chore: update project metadata and build configuration
 - **2011-03-25 11:37**: feat: implement timer and score calculation for mock test
 - **2011-03-26 15:01**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-04-29 20:44**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-30 16:18**: feat: add instant feedback and explanation on answer selection
 - **2011-05-01 09:59**: docs: add instructions for Nepali driving license written exam
+- **2011-05-01 22:19**: feat: add category-specific practice modes
