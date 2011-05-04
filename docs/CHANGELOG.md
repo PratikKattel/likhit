@@ -1,4 +1,3 @@
-- **2011-03-27 13:38**: docs: improve code comments and API documentation
 - **2011-03-27 21:23**: docs: update traffic signals catalog documentation
 - **2011-03-28 16:12**: perf: lazy load signal graphics and question assets
 - **2011-03-29 10:17**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-05-02 12:52**: fix: adjust passing score threshold according to new rules
 - **2011-05-03 22:25**: feat: add instant feedback and explanation on answer selection
 - **2011-05-04 16:08**: chore: update project metadata and build configuration
+- **2011-05-04 18:17**: docs: add instructions for Nepali driving license written exam
