@@ -1,4 +1,3 @@
-- **2011-03-26 15:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-03-27 13:38**: docs: improve code comments and API documentation
 - **2011-03-27 21:23**: docs: update traffic signals catalog documentation
 - **2011-03-28 16:12**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-05-01 22:19**: feat: add category-specific practice modes
 - **2011-05-02 12:52**: fix: adjust passing score threshold according to new rules
 - **2011-05-03 22:25**: feat: add instant feedback and explanation on answer selection
+- **2011-05-04 16:08**: chore: update project metadata and build configuration
