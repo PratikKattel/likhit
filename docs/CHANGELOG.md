@@ -1,4 +1,3 @@
-- **2011-03-29 10:17**: fix: correct color specifications for mandatory traffic signs
 - **2011-03-29 13:30**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 14:23**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 19:20**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2011-05-04 18:17**: docs: add instructions for Nepali driving license written exam
 - **2011-05-05 14:48**: style: enhance traffic sign card layout and responsiveness
 - **2011-05-05 19:54**: refactor: optimize SVG rendering for road signs
+- **2011-05-05 20:08**: refactor: clean up unused CSS classes and optimize stylesheet
