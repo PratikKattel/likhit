@@ -1,4 +1,3 @@
-- **2011-03-29 13:30**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 14:23**: fix: adjust passing score threshold according to new rules
 - **2011-03-29 19:20**: fix: adjust passing score threshold according to new rules
 - **2011-03-30 15:03**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-05-05 14:48**: style: enhance traffic sign card layout and responsiveness
 - **2011-05-05 19:54**: refactor: optimize SVG rendering for road signs
 - **2011-05-05 20:08**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2011-05-06 16:57**: feat: add search and filter by sign category
