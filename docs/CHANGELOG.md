@@ -1,4 +1,3 @@
-- **2011-03-30 15:03**: perf: optimize image caching for traffic sign assets
 - **2011-03-31 15:06**: feat: add category-specific practice modes
 - **2011-04-01 19:00**: fix: resolve layout shift during question transitions
 - **2011-04-02 15:10**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-05-06 16:57**: feat: add search and filter by sign category
 - **2011-05-06 19:47**: chore: organize assets and image directory structure
 - **2011-05-07 12:22**: chore: format code style and clean up redundant variables
+- **2011-05-07 15:23**: feat: add keyboard navigation shortcuts for question selection
