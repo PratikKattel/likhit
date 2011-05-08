@@ -1,4 +1,3 @@
-- **2011-03-31 15:06**: feat: add category-specific practice modes
 - **2011-04-01 19:00**: fix: resolve layout shift during question transitions
 - **2011-04-02 15:10**: docs: improve code comments and API documentation
 - **2011-04-02 16:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-05-06 19:47**: chore: organize assets and image directory structure
 - **2011-05-07 12:22**: chore: format code style and clean up redundant variables
 - **2011-05-07 15:23**: feat: add keyboard navigation shortcuts for question selection
+- **2011-05-08 09:31**: style: improve dark/light mode and mobile UI responsiveness
