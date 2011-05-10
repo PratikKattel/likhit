@@ -1,4 +1,3 @@
-- **2011-04-03 22:22**: docs: add instructions for Nepali driving license written exam
 - **2011-04-04 11:29**: style: polish typography and Nepali Unicode font rendering
 - **2011-04-04 13:06**: feat: add result summary with passing threshold analysis
 - **2011-04-04 15:57**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-05-08 12:52**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-09 18:25**: refactor: restructure question data schema for faster loading
 - **2011-05-10 11:55**: chore: organize assets and image directory structure
+- **2011-05-10 21:54**: refactor: modularize traffic app logic and event listeners
