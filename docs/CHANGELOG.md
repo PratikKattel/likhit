@@ -1,4 +1,3 @@
-- **2011-04-04 13:06**: feat: add result summary with passing threshold analysis
 - **2011-04-04 15:57**: docs: add instructions for Nepali driving license written exam
 - **2011-04-04 16:00**: chore: update questions database with recent DOTM updates
 - **2011-04-05 16:02**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-05-10 11:55**: chore: organize assets and image directory structure
 - **2011-05-10 21:54**: refactor: modularize traffic app logic and event listeners
 - **2011-05-11 11:18**: feat: add instant feedback and explanation on answer selection
+- **2011-05-11 13:50**: fix: correct color specifications for mandatory traffic signs
