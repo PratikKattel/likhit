@@ -1,4 +1,3 @@
-- **2011-04-05 16:02**: docs: improve code comments and API documentation
 - **2011-04-05 18:08**: fix: correct color specifications for mandatory traffic signs
 - **2011-04-05 20:00**: feat: add search and filter by sign category
 - **2011-04-06 10:15**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2011-05-11 13:50**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-12 13:21**: docs: update README with setup instructions and feature list
 - **2011-05-12 19:06**: fix: prevent option re-selection after submitting answer
+- **2011-05-12 20:29**: refactor: clean up unused CSS classes and optimize stylesheet
