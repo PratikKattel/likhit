@@ -1,4 +1,3 @@
-- **2011-04-06 10:15**: test: verify question extraction script against exam PDF
 - **2011-04-07 19:10**: perf: index question IDs for rapid lookup
 - **2011-04-07 20:23**: test: verify question extraction script against exam PDF
 - **2011-04-08 11:48**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-05-12 20:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-05-13 09:35**: feat: add search and filter by sign category
 - **2011-05-14 12:49**: fix: update DOTM Nepal license syllabus questions
+- **2011-05-14 14:27**: fix: resolve layout shift during question transitions
