@@ -1,4 +1,3 @@
-- **2011-04-08 20:56**: perf: lazy load signal graphics and question assets
 - **2011-04-09 14:31**: fix: prevent option re-selection after submitting answer
 - **2011-04-09 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-09 20:48**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-05-16 13:41**: chore: update questions database with recent DOTM updates
 - **2011-05-16 22:08**: chore: format code style and clean up redundant variables
 - **2011-05-17 16:26**: feat: add warning signs and informational road signs
+- **2011-05-18 09:34**: fix: typo in Nepali road safety regulations question
