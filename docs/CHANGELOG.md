@@ -1,4 +1,3 @@
-- **2011-04-09 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-09 20:48**: docs: add instructions for Nepali driving license written exam
 - **2011-04-10 15:10**: feat: add result summary with passing threshold analysis
 - **2011-04-10 19:32**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-05-17 16:26**: feat: add warning signs and informational road signs
 - **2011-05-18 09:34**: fix: typo in Nepali road safety regulations question
 - **2011-05-18 20:57**: fix: update DOTM Nepal license syllabus questions
+- **2011-05-19 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
