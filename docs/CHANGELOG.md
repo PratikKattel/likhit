@@ -1,4 +1,3 @@
-- **2011-04-09 20:48**: docs: add instructions for Nepali driving license written exam
 - **2011-04-10 15:10**: feat: add result summary with passing threshold analysis
 - **2011-04-10 19:32**: docs: improve code comments and API documentation
 - **2011-04-10 19:50**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-05-18 09:34**: fix: typo in Nepali road safety regulations question
 - **2011-05-18 20:57**: fix: update DOTM Nepal license syllabus questions
 - **2011-05-19 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2011-05-20 21:42**: refactor: clean up unused CSS classes and optimize stylesheet
