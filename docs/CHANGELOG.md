@@ -1,4 +1,3 @@
-- **2011-04-11 10:28**: fix: resolve layout shift during question transitions
 - **2011-04-12 09:23**: fix: prevent option re-selection after submitting answer
 - **2011-04-12 10:36**: perf: index question IDs for rapid lookup
 - **2011-04-12 11:47**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-05-21 21:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-05-22 12:11**: fix: prevent option re-selection after submitting answer
 - **2011-05-22 17:29**: feat: implement timer and score calculation for mock test
+- **2011-05-23 12:58**: docs: add instructions for Nepali driving license written exam
