@@ -1,4 +1,3 @@
-- **2011-04-12 10:36**: perf: index question IDs for rapid lookup
 - **2011-04-12 11:47**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-12 20:14**: docs: update traffic signals catalog documentation
 - **2011-04-13 09:27**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-05-22 17:29**: feat: implement timer and score calculation for mock test
 - **2011-05-23 12:58**: docs: add instructions for Nepali driving license written exam
 - **2011-05-24 22:23**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-05-25 13:29**: refactor: restructure question data schema for faster loading
