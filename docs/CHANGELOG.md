@@ -1,4 +1,3 @@
-- **2011-04-13 09:27**: feat: support multiple choice questions for motorcycle category
 - **2011-04-13 11:04**: feat: add category A and B traffic test questions
 - **2011-04-13 13:21**: perf: index question IDs for rapid lookup
 - **2011-04-13 15:54**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-05-25 13:29**: refactor: restructure question data schema for faster loading
 - **2011-05-25 18:40**: feat: add category A and B traffic test questions
 - **2011-05-26 11:49**: fix: correct color specifications for mandatory traffic signs
+- **2011-05-26 19:43**: fix: update DOTM Nepal license syllabus questions
