@@ -1,4 +1,3 @@
-- **2011-04-14 12:30**: feat: add instant feedback and explanation on answer selection
 - **2011-04-14 21:22**: perf: index question IDs for rapid lookup
 - **2011-04-15 13:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-04-16 10:24**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-05-27 13:33**: style: enhance traffic sign card layout and responsiveness
 - **2011-05-27 22:23**: feat: add keyboard navigation shortcuts for question selection
 - **2011-05-28 09:20**: chore: update questions database with recent DOTM updates
+- **2011-05-28 09:33**: feat: implement timer and score calculation for mock test
