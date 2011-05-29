@@ -1,4 +1,3 @@
-- **2011-04-15 13:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-04-16 10:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-04-16 15:37**: perf: index question IDs for rapid lookup
 - **2011-04-16 16:48**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-05-28 09:20**: chore: update questions database with recent DOTM updates
 - **2011-05-28 09:33**: feat: implement timer and score calculation for mock test
 - **2011-05-28 19:02**: docs: improve code comments and API documentation
+- **2011-05-29 20:13**: fix: correct color specifications for mandatory traffic signs
