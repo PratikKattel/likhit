@@ -1,4 +1,3 @@
-- **2011-04-16 16:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-17 11:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-04-17 16:06**: perf: lazy load signal graphics and question assets
 - **2011-04-17 16:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-05-29 20:13**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-30 17:58**: feat: add category-specific practice modes
 - **2011-05-31 11:55**: feat: add category-specific practice modes
+- **2011-05-31 18:36**: fix: prevent option re-selection after submitting answer
