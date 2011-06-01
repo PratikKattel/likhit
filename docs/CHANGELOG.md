@@ -1,4 +1,3 @@
-- **2011-04-17 16:30**: perf: optimize image caching for traffic sign assets
 - **2011-04-18 10:17**: chore: format code style and clean up redundant variables
 - **2011-04-18 14:15**: refactor: optimize SVG rendering for road signs
 - **2011-04-19 11:58**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-05-31 18:36**: fix: prevent option re-selection after submitting answer
 - **2011-05-31 20:56**: chore: format code style and clean up redundant variables
 - **2011-05-31 21:08**: fix: prevent option re-selection after submitting answer
+- **2011-06-01 09:49**: fix: update DOTM Nepal license syllabus questions
