@@ -1,4 +1,3 @@
-- **2011-04-18 14:15**: refactor: optimize SVG rendering for road signs
 - **2011-04-19 11:58**: feat: add category-specific practice modes
 - **2011-04-19 18:35**: style: enhance traffic sign card layout and responsiveness
 - **2011-04-19 18:58**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-05-31 21:08**: fix: prevent option re-selection after submitting answer
 - **2011-06-01 09:49**: fix: update DOTM Nepal license syllabus questions
 - **2011-06-02 09:14**: perf: lazy load signal graphics and question assets
+- **2011-06-02 20:26**: style: enhance traffic sign card layout and responsiveness
