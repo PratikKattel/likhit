@@ -1,4 +1,3 @@
-- **2011-04-19 18:35**: style: enhance traffic sign card layout and responsiveness
 - **2011-04-19 18:58**: fix: typo in Nepali road safety regulations question
 - **2011-04-19 21:04**: chore: format code style and clean up redundant variables
 - **2011-04-20 15:25**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-06-02 09:14**: perf: lazy load signal graphics and question assets
 - **2011-06-02 20:26**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-03 09:25**: perf: lazy load signal graphics and question assets
+- **2011-06-03 10:41**: chore: organize assets and image directory structure
