@@ -1,4 +1,3 @@
-- **2011-04-20 15:25**: feat: add instant feedback and explanation on answer selection
 - **2011-04-21 14:53**: test: verify question extraction script against exam PDF
 - **2011-04-22 12:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-04-23 12:45**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-06-03 10:41**: chore: organize assets and image directory structure
 - **2011-06-03 18:42**: perf: optimize image caching for traffic sign assets
 - **2011-06-04 11:20**: feat: add category A and B traffic test questions
+- **2011-06-05 14:14**: refactor: restructure question data schema for faster loading
