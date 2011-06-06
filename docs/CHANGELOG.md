@@ -1,4 +1,3 @@
-- **2011-04-23 12:45**: feat: support multiple choice questions for motorcycle category
 - **2011-04-23 19:50**: feat: add warning signs and informational road signs
 - **2011-04-24 16:42**: chore: update project metadata and build configuration
 - **2011-04-24 18:55**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-06-05 14:14**: refactor: restructure question data schema for faster loading
 - **2011-06-06 18:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-06 19:21**: docs: update README with setup instructions and feature list
+- **2011-06-06 22:04**: refactor: clean up unused CSS classes and optimize stylesheet
