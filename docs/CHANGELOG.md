@@ -1,4 +1,3 @@
-- **2011-04-24 18:55**: docs: add instructions for Nepali driving license written exam
 - **2011-04-24 21:03**: refactor: modularize traffic app logic and event listeners
 - **2011-04-25 16:55**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-25 18:13**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2011-06-06 22:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-07 20:13**: perf: lazy load signal graphics and question assets
 - **2011-06-08 11:37**: chore: format code style and clean up redundant variables
+- **2011-06-08 21:40**: feat: add category A and B traffic test questions
