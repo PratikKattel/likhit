@@ -1,4 +1,3 @@
-- **2011-04-25 16:55**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-25 18:13**: feat: add result summary with passing threshold analysis
 - **2011-04-26 15:54**: docs: update traffic signals catalog documentation
 - **2011-04-27 10:24**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-06-08 11:37**: chore: format code style and clean up redundant variables
 - **2011-06-08 21:40**: feat: add category A and B traffic test questions
 - **2011-06-09 14:38**: chore: update questions database with recent DOTM updates
+- **2011-06-09 14:52**: fix: typo in Nepali road safety regulations question
