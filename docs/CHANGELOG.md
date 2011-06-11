@@ -1,4 +1,3 @@
-- **2011-04-27 11:45**: test: verify question extraction script against exam PDF
 - **2011-04-28 09:20**: fix: adjust passing score threshold according to new rules
 - **2011-04-28 18:38**: fix: resolve layout shift during question transitions
 - **2011-04-29 14:12**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-06-09 17:57**: style: polish typography and Nepali Unicode font rendering
 - **2011-06-10 20:29**: feat: add category A and B traffic test questions
 - **2011-06-11 11:52**: fix: prevent option re-selection after submitting answer
+- **2011-06-11 22:21**: chore: update project metadata and build configuration
