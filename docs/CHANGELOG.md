@@ -1,4 +1,3 @@
-- **2011-04-28 18:38**: fix: resolve layout shift during question transitions
 - **2011-04-29 14:12**: feat: add search and filter by sign category
 - **2011-04-29 16:27**: fix: typo in Nepali road safety regulations question
 - **2011-04-29 20:44**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-06-11 11:52**: fix: prevent option re-selection after submitting answer
 - **2011-06-11 22:21**: chore: update project metadata and build configuration
 - **2011-06-12 09:48**: chore: update project metadata and build configuration
+- **2011-06-12 11:03**: chore: update project metadata and build configuration
