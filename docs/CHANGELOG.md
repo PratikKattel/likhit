@@ -1,4 +1,3 @@
-- **2011-04-29 20:44**: feat: add regulatory traffic signs SVG graphics
 - **2011-04-30 16:18**: feat: add instant feedback and explanation on answer selection
 - **2011-05-01 09:59**: docs: add instructions for Nepali driving license written exam
 - **2011-05-01 22:19**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-06-12 11:03**: chore: update project metadata and build configuration
 - **2011-06-12 16:31**: feat: add warning signs and informational road signs
 - **2011-06-13 10:25**: feat: add regulatory traffic signs SVG graphics
+- **2011-06-13 19:07**: test: verify question extraction script against exam PDF
