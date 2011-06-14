@@ -1,4 +1,3 @@
-- **2011-05-01 09:59**: docs: add instructions for Nepali driving license written exam
 - **2011-05-01 22:19**: feat: add category-specific practice modes
 - **2011-05-02 12:52**: fix: adjust passing score threshold according to new rules
 - **2011-05-03 22:25**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-06-13 10:25**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-13 19:07**: test: verify question extraction script against exam PDF
 - **2011-06-14 12:36**: docs: update README with setup instructions and feature list
+- **2011-06-14 21:34**: refactor: optimize SVG rendering for road signs
