@@ -1,4 +1,3 @@
-- **2011-05-03 22:25**: feat: add instant feedback and explanation on answer selection
 - **2011-05-04 16:08**: chore: update project metadata and build configuration
 - **2011-05-04 18:17**: docs: add instructions for Nepali driving license written exam
 - **2011-05-05 14:48**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-06-14 21:34**: refactor: optimize SVG rendering for road signs
 - **2011-06-15 10:36**: feat: add instant feedback and explanation on answer selection
 - **2011-06-16 20:41**: perf: index question IDs for rapid lookup
+- **2011-06-16 22:18**: feat: implement timer and score calculation for mock test
