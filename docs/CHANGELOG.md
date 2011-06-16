@@ -1,4 +1,3 @@
-- **2011-05-02 12:52**: fix: adjust passing score threshold according to new rules
 - **2011-05-03 22:25**: feat: add instant feedback and explanation on answer selection
 - **2011-05-04 16:08**: chore: update project metadata and build configuration
 - **2011-05-04 18:17**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-06-14 12:36**: docs: update README with setup instructions and feature list
 - **2011-06-14 21:34**: refactor: optimize SVG rendering for road signs
 - **2011-06-15 10:36**: feat: add instant feedback and explanation on answer selection
+- **2011-06-16 20:41**: perf: index question IDs for rapid lookup
