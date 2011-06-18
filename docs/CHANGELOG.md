@@ -1,4 +1,3 @@
-- **2011-05-05 19:54**: refactor: optimize SVG rendering for road signs
 - **2011-05-05 20:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-05-06 16:57**: feat: add search and filter by sign category
 - **2011-05-06 19:47**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-06-17 16:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-18 10:58**: refactor: optimize SVG rendering for road signs
 - **2011-06-18 15:41**: chore: update questions database with recent DOTM updates
+- **2011-06-18 20:51**: fix: typo in Nepali road safety regulations question
