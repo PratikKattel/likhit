@@ -1,4 +1,3 @@
-- **2011-05-04 18:17**: docs: add instructions for Nepali driving license written exam
 - **2011-05-05 14:48**: style: enhance traffic sign card layout and responsiveness
 - **2011-05-05 19:54**: refactor: optimize SVG rendering for road signs
 - **2011-05-05 20:08**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-06-16 20:41**: perf: index question IDs for rapid lookup
 - **2011-06-16 22:18**: feat: implement timer and score calculation for mock test
 - **2011-06-17 16:01**: feat: add regulatory traffic signs SVG graphics
+- **2011-06-18 10:58**: refactor: optimize SVG rendering for road signs
