@@ -1,4 +1,3 @@
-- **2011-05-06 16:57**: feat: add search and filter by sign category
 - **2011-05-06 19:47**: chore: organize assets and image directory structure
 - **2011-05-07 12:22**: chore: format code style and clean up redundant variables
 - **2011-05-07 15:23**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2011-06-18 15:41**: chore: update questions database with recent DOTM updates
 - **2011-06-18 20:51**: fix: typo in Nepali road safety regulations question
 - **2011-06-19 14:58**: feat: add category-specific practice modes
+- **2011-06-19 21:23**: docs: update README with setup instructions and feature list
