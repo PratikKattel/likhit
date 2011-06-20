@@ -1,4 +1,3 @@
-- **2011-05-07 12:22**: chore: format code style and clean up redundant variables
 - **2011-05-07 15:23**: feat: add keyboard navigation shortcuts for question selection
 - **2011-05-08 09:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-05-08 12:52**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-06-19 14:58**: feat: add category-specific practice modes
 - **2011-06-19 21:23**: docs: update README with setup instructions and feature list
 - **2011-06-20 12:34**: feat: add keyboard navigation shortcuts for question selection
+- **2011-06-20 17:45**: chore: format code style and clean up redundant variables
