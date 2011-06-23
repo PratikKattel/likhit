@@ -1,4 +1,3 @@
-- **2011-05-10 11:55**: chore: organize assets and image directory structure
 - **2011-05-10 21:54**: refactor: modularize traffic app logic and event listeners
 - **2011-05-11 11:18**: feat: add instant feedback and explanation on answer selection
 - **2011-05-11 13:50**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-06-22 11:16**: refactor: optimize SVG rendering for road signs
 - **2011-06-23 09:04**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-23 14:42**: feat: add regulatory traffic signs SVG graphics
+- **2011-06-23 14:46**: fix: prevent option re-selection after submitting answer
