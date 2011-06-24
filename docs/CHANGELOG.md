@@ -1,4 +1,3 @@
-- **2011-05-11 13:50**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-12 13:21**: docs: update README with setup instructions and feature list
 - **2011-05-12 19:06**: fix: prevent option re-selection after submitting answer
 - **2011-05-12 20:29**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-06-23 14:46**: fix: prevent option re-selection after submitting answer
 - **2011-06-23 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-06-24 12:32**: fix: correct color specifications for mandatory traffic signs
+- **2011-06-24 15:45**: feat: implement timer and score calculation for mock test
