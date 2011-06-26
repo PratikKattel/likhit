@@ -1,4 +1,3 @@
-- **2011-05-12 19:06**: fix: prevent option re-selection after submitting answer
 - **2011-05-12 20:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-05-13 09:35**: feat: add search and filter by sign category
 - **2011-05-14 12:49**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-06-24 12:32**: fix: correct color specifications for mandatory traffic signs
 - **2011-06-24 15:45**: feat: implement timer and score calculation for mock test
 - **2011-06-25 14:07**: feat: add warning signs and informational road signs
+- **2011-06-26 17:00**: fix: typo in Nepali road safety regulations question
