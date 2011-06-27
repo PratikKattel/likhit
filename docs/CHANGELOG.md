@@ -1,4 +1,3 @@
-- **2011-05-13 09:35**: feat: add search and filter by sign category
 - **2011-05-14 12:49**: fix: update DOTM Nepal license syllabus questions
 - **2011-05-14 14:27**: fix: resolve layout shift during question transitions
 - **2011-05-15 09:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-06-25 14:07**: feat: add warning signs and informational road signs
 - **2011-06-26 17:00**: fix: typo in Nepali road safety regulations question
 - **2011-06-27 10:51**: chore: update questions database with recent DOTM updates
+- **2011-06-27 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
