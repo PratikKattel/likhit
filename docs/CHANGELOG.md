@@ -1,4 +1,3 @@
-- **2011-05-15 09:12**: refactor: restructure question data schema for faster loading
 - **2011-05-16 13:41**: chore: update questions database with recent DOTM updates
 - **2011-05-16 22:08**: chore: format code style and clean up redundant variables
 - **2011-05-17 16:26**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2011-06-27 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-28 12:31**: chore: format code style and clean up redundant variables
 - **2011-06-28 13:42**: feat: support multiple choice questions for motorcycle category
+- **2011-06-28 21:47**: fix: adjust passing score threshold according to new rules
