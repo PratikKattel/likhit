@@ -1,4 +1,3 @@
-- **2011-05-16 22:08**: chore: format code style and clean up redundant variables
 - **2011-05-17 16:26**: feat: add warning signs and informational road signs
 - **2011-05-18 09:34**: fix: typo in Nepali road safety regulations question
 - **2011-05-18 20:57**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-06-28 13:42**: feat: support multiple choice questions for motorcycle category
 - **2011-06-28 21:47**: fix: adjust passing score threshold according to new rules
 - **2011-06-29 13:15**: feat: add search and filter by sign category
+- **2011-06-29 15:38**: feat: support multiple choice questions for motorcycle category
