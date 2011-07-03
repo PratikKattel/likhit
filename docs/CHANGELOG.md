@@ -1,4 +1,3 @@
-- **2011-05-20 21:42**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-05-21 21:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-05-22 12:11**: fix: prevent option re-selection after submitting answer
 - **2011-05-22 17:29**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-07-01 19:09**: fix: resolve layout shift during question transitions
 - **2011-07-02 10:50**: feat: add instant feedback and explanation on answer selection
 - **2011-07-02 15:15**: style: polish typography and Nepali Unicode font rendering
+- **2011-07-03 13:28**: style: enhance traffic sign card layout and responsiveness
