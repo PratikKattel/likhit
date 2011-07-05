@@ -1,4 +1,3 @@
-- **2011-05-22 17:29**: feat: implement timer and score calculation for mock test
 - **2011-05-23 12:58**: docs: add instructions for Nepali driving license written exam
 - **2011-05-24 22:23**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-05-25 13:29**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-07-03 13:28**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-03 21:43**: refactor: restructure question data schema for faster loading
 - **2011-07-04 11:53**: perf: optimize image caching for traffic sign assets
+- **2011-07-05 19:33**: test: verify question extraction script against exam PDF
