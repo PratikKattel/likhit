@@ -1,4 +1,3 @@
-- **2011-05-25 13:29**: refactor: restructure question data schema for faster loading
 - **2011-05-25 18:40**: feat: add category A and B traffic test questions
 - **2011-05-26 11:49**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-26 19:43**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-07-05 19:33**: test: verify question extraction script against exam PDF
 - **2011-07-06 20:56**: feat: add result summary with passing threshold analysis
 - **2011-07-07 12:47**: feat: add warning signs and informational road signs
+- **2011-07-07 19:29**: docs: add instructions for Nepali driving license written exam
