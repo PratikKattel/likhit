@@ -1,4 +1,3 @@
-- **2011-05-26 19:43**: fix: update DOTM Nepal license syllabus questions
 - **2011-05-27 13:33**: style: enhance traffic sign card layout and responsiveness
 - **2011-05-27 22:23**: feat: add keyboard navigation shortcuts for question selection
 - **2011-05-28 09:20**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-07-07 19:29**: docs: add instructions for Nepali driving license written exam
 - **2011-07-08 16:33**: fix: adjust passing score threshold according to new rules
 - **2011-07-09 15:07**: feat: implement timer and score calculation for mock test
+- **2011-07-09 21:26**: feat: add instant feedback and explanation on answer selection
