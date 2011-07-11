@@ -1,4 +1,3 @@
-- **2011-05-28 09:20**: chore: update questions database with recent DOTM updates
 - **2011-05-28 09:33**: feat: implement timer and score calculation for mock test
 - **2011-05-28 19:02**: docs: improve code comments and API documentation
 - **2011-05-29 20:13**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-07-09 21:26**: feat: add instant feedback and explanation on answer selection
 - **2011-07-10 16:34**: perf: lazy load signal graphics and question assets
 - **2011-07-10 22:24**: perf: lazy load signal graphics and question assets
+- **2011-07-11 12:23**: feat: add regulatory traffic signs SVG graphics
