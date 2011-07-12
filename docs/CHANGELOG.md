@@ -1,4 +1,3 @@
-- **2011-05-28 19:02**: docs: improve code comments and API documentation
 - **2011-05-29 20:13**: fix: correct color specifications for mandatory traffic signs
 - **2011-05-30 17:58**: feat: add category-specific practice modes
 - **2011-05-31 11:55**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-07-10 22:24**: perf: lazy load signal graphics and question assets
 - **2011-07-11 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-11 19:14**: feat: add instant feedback and explanation on answer selection
+- **2011-07-12 10:11**: docs: add instructions for Nepali driving license written exam
