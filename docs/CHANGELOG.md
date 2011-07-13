@@ -1,4 +1,3 @@
-- **2011-05-30 17:58**: feat: add category-specific practice modes
 - **2011-05-31 11:55**: feat: add category-specific practice modes
 - **2011-05-31 18:36**: fix: prevent option re-selection after submitting answer
 - **2011-05-31 20:56**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-07-11 19:14**: feat: add instant feedback and explanation on answer selection
 - **2011-07-12 10:11**: docs: add instructions for Nepali driving license written exam
 - **2011-07-12 17:34**: feat: add category-specific practice modes
+- **2011-07-13 14:00**: perf: index question IDs for rapid lookup
