@@ -1,4 +1,3 @@
-- **2011-06-01 09:49**: fix: update DOTM Nepal license syllabus questions
 - **2011-06-02 09:14**: perf: lazy load signal graphics and question assets
 - **2011-06-02 20:26**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-03 09:25**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-07-14 12:26**: docs: add instructions for Nepali driving license written exam
 - **2011-07-15 21:20**: chore: update questions database with recent DOTM updates
 - **2011-07-16 14:37**: docs: update README with setup instructions and feature list
+- **2011-07-17 13:46**: feat: add instant feedback and explanation on answer selection
