@@ -1,4 +1,3 @@
-- **2011-06-03 18:42**: perf: optimize image caching for traffic sign assets
 - **2011-06-04 11:20**: feat: add category A and B traffic test questions
 - **2011-06-05 14:14**: refactor: restructure question data schema for faster loading
 - **2011-06-06 18:25**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-07-18 10:21**: feat: support multiple choice questions for motorcycle category
 - **2011-07-18 10:36**: docs: update traffic signals catalog documentation
 - **2011-07-18 14:12**: feat: add category A and B traffic test questions
+- **2011-07-18 14:55**: feat: add regulatory traffic signs SVG graphics
