@@ -1,4 +1,3 @@
-- **2011-06-02 20:26**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-03 09:25**: perf: lazy load signal graphics and question assets
 - **2011-06-03 10:41**: chore: organize assets and image directory structure
 - **2011-06-03 18:42**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-07-16 14:37**: docs: update README with setup instructions and feature list
 - **2011-07-17 13:46**: feat: add instant feedback and explanation on answer selection
 - **2011-07-17 14:17**: perf: lazy load signal graphics and question assets
+- **2011-07-18 10:21**: feat: support multiple choice questions for motorcycle category
