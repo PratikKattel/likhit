@@ -1,4 +1,3 @@
-- **2011-06-05 14:14**: refactor: restructure question data schema for faster loading
 - **2011-06-06 18:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-06 19:21**: docs: update README with setup instructions and feature list
 - **2011-06-06 22:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-07-18 14:12**: feat: add category A and B traffic test questions
 - **2011-07-18 14:55**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-19 12:33**: perf: optimize image caching for traffic sign assets
+- **2011-07-19 14:03**: feat: add warning signs and informational road signs
