@@ -1,4 +1,3 @@
-- **2011-06-06 19:21**: docs: update README with setup instructions and feature list
 - **2011-06-06 22:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-07 20:13**: perf: lazy load signal graphics and question assets
 - **2011-06-08 11:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-07-19 12:33**: perf: optimize image caching for traffic sign assets
 - **2011-07-19 14:03**: feat: add warning signs and informational road signs
 - **2011-07-19 19:02**: feat: add regulatory traffic signs SVG graphics
+- **2011-07-20 10:52**: chore: format code style and clean up redundant variables
