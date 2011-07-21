@@ -1,4 +1,3 @@
-- **2011-06-07 20:13**: perf: lazy load signal graphics and question assets
 - **2011-06-08 11:37**: chore: format code style and clean up redundant variables
 - **2011-06-08 21:40**: feat: add category A and B traffic test questions
 - **2011-06-09 14:38**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-07-19 19:02**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-20 10:52**: chore: format code style and clean up redundant variables
 - **2011-07-20 12:35**: feat: add search and filter by sign category
+- **2011-07-21 18:51**: refactor: clean up unused CSS classes and optimize stylesheet
