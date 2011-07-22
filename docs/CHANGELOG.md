@@ -1,4 +1,3 @@
-- **2011-06-09 14:52**: fix: typo in Nepali road safety regulations question
 - **2011-06-09 17:57**: style: polish typography and Nepali Unicode font rendering
 - **2011-06-10 20:29**: feat: add category A and B traffic test questions
 - **2011-06-11 11:52**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2011-07-21 21:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-07-22 10:30**: perf: optimize image caching for traffic sign assets
 - **2011-07-22 11:05**: docs: update traffic signals catalog documentation
+- **2011-07-22 18:53**: chore: organize assets and image directory structure
