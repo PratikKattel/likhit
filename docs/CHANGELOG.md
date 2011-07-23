@@ -1,4 +1,3 @@
-- **2011-06-09 17:57**: style: polish typography and Nepali Unicode font rendering
 - **2011-06-10 20:29**: feat: add category A and B traffic test questions
 - **2011-06-11 11:52**: fix: prevent option re-selection after submitting answer
 - **2011-06-11 22:21**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-07-22 10:30**: perf: optimize image caching for traffic sign assets
 - **2011-07-22 11:05**: docs: update traffic signals catalog documentation
 - **2011-07-22 18:53**: chore: organize assets and image directory structure
+- **2011-07-23 13:25**: refactor: optimize SVG rendering for road signs
