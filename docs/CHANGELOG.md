@@ -1,4 +1,3 @@
-- **2011-06-11 11:52**: fix: prevent option re-selection after submitting answer
 - **2011-06-11 22:21**: chore: update project metadata and build configuration
 - **2011-06-12 09:48**: chore: update project metadata and build configuration
 - **2011-06-12 11:03**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-07-22 18:53**: chore: organize assets and image directory structure
 - **2011-07-23 13:25**: refactor: optimize SVG rendering for road signs
 - **2011-07-23 14:37**: feat: add category-specific practice modes
+- **2011-07-23 14:46**: feat: add instant feedback and explanation on answer selection
