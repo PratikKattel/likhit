@@ -1,4 +1,3 @@
-- **2011-06-14 12:36**: docs: update README with setup instructions and feature list
 - **2011-06-14 21:34**: refactor: optimize SVG rendering for road signs
 - **2011-06-15 10:36**: feat: add instant feedback and explanation on answer selection
 - **2011-06-16 20:41**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-07-26 16:32**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-27 09:00**: chore: update questions database with recent DOTM updates
 - **2011-07-27 13:58**: feat: add category-specific practice modes
+- **2011-07-27 20:20**: feat: add instant feedback and explanation on answer selection
