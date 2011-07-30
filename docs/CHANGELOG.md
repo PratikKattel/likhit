@@ -1,4 +1,3 @@
-- **2011-06-16 20:41**: perf: index question IDs for rapid lookup
 - **2011-06-16 22:18**: feat: implement timer and score calculation for mock test
 - **2011-06-17 16:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-18 10:58**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2011-07-27 20:20**: feat: add instant feedback and explanation on answer selection
 - **2011-07-28 15:58**: feat: add warning signs and informational road signs
 - **2011-07-29 16:57**: feat: implement timer and score calculation for mock test
+- **2011-07-30 15:18**: refactor: clean up unused CSS classes and optimize stylesheet
