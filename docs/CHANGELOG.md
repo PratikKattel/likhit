@@ -1,4 +1,3 @@
-- **2011-06-17 16:01**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-18 10:58**: refactor: optimize SVG rendering for road signs
 - **2011-06-18 15:41**: chore: update questions database with recent DOTM updates
 - **2011-06-18 20:51**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-07-29 16:57**: feat: implement timer and score calculation for mock test
 - **2011-07-30 15:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-30 19:28**: style: enhance traffic sign card layout and responsiveness
+- **2011-07-31 18:23**: refactor: optimize SVG rendering for road signs
