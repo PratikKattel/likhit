@@ -1,4 +1,3 @@
-- **2011-06-18 10:58**: refactor: optimize SVG rendering for road signs
 - **2011-06-18 15:41**: chore: update questions database with recent DOTM updates
 - **2011-06-18 20:51**: fix: typo in Nepali road safety regulations question
 - **2011-06-19 14:58**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-07-30 15:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-30 19:28**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-31 18:23**: refactor: optimize SVG rendering for road signs
+- **2011-08-01 10:25**: feat: add warning signs and informational road signs
