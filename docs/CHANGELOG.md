@@ -1,4 +1,3 @@
-- **2011-06-19 14:58**: feat: add category-specific practice modes
 - **2011-06-19 21:23**: docs: update README with setup instructions and feature list
 - **2011-06-20 12:34**: feat: add keyboard navigation shortcuts for question selection
 - **2011-06-20 17:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-08-01 10:25**: feat: add warning signs and informational road signs
 - **2011-08-02 14:19**: refactor: modularize traffic app logic and event listeners
 - **2011-08-03 09:22**: style: polish typography and Nepali Unicode font rendering
+- **2011-08-03 12:36**: feat: add instant feedback and explanation on answer selection
