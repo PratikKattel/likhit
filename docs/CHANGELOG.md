@@ -1,4 +1,3 @@
-- **2011-06-19 21:23**: docs: update README with setup instructions and feature list
 - **2011-06-20 12:34**: feat: add keyboard navigation shortcuts for question selection
 - **2011-06-20 17:45**: chore: format code style and clean up redundant variables
 - **2011-06-21 10:30**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-08-02 14:19**: refactor: modularize traffic app logic and event listeners
 - **2011-08-03 09:22**: style: polish typography and Nepali Unicode font rendering
 - **2011-08-03 12:36**: feat: add instant feedback and explanation on answer selection
+- **2011-08-04 13:41**: docs: update traffic signals catalog documentation
