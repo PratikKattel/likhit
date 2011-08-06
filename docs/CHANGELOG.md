@@ -1,4 +1,3 @@
-- **2011-06-21 10:30**: chore: update questions database with recent DOTM updates
 - **2011-06-22 11:16**: refactor: optimize SVG rendering for road signs
 - **2011-06-23 09:04**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-23 14:42**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-08-04 13:41**: docs: update traffic signals catalog documentation
 - **2011-08-05 15:04**: fix: update DOTM Nepal license syllabus questions
 - **2011-08-06 12:45**: fix: resolve layout shift during question transitions
+- **2011-08-06 15:10**: feat: add search and filter by sign category
