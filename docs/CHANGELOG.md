@@ -1,4 +1,3 @@
-- **2011-06-22 11:16**: refactor: optimize SVG rendering for road signs
 - **2011-06-23 09:04**: style: enhance traffic sign card layout and responsiveness
 - **2011-06-23 14:42**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-23 14:46**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2011-08-05 15:04**: fix: update DOTM Nepal license syllabus questions
 - **2011-08-06 12:45**: fix: resolve layout shift during question transitions
 - **2011-08-06 15:10**: feat: add search and filter by sign category
+- **2011-08-07 12:07**: fix: correct color specifications for mandatory traffic signs
