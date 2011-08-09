@@ -1,4 +1,3 @@
-- **2011-06-23 14:42**: feat: add regulatory traffic signs SVG graphics
 - **2011-06-23 14:46**: fix: prevent option re-selection after submitting answer
 - **2011-06-23 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-06-24 12:32**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-08-06 15:10**: feat: add search and filter by sign category
 - **2011-08-07 12:07**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-08 15:34**: docs: add instructions for Nepali driving license written exam
+- **2011-08-09 11:26**: perf: optimize image caching for traffic sign assets
