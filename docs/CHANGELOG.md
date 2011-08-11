@@ -1,4 +1,3 @@
-- **2011-06-24 12:32**: fix: correct color specifications for mandatory traffic signs
 - **2011-06-24 15:45**: feat: implement timer and score calculation for mock test
 - **2011-06-25 14:07**: feat: add warning signs and informational road signs
 - **2011-06-26 17:00**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-08-09 11:26**: perf: optimize image caching for traffic sign assets
 - **2011-08-10 12:33**: test: verify question extraction script against exam PDF
 - **2011-08-10 18:33**: docs: add instructions for Nepali driving license written exam
+- **2011-08-11 17:49**: feat: add search and filter by sign category
