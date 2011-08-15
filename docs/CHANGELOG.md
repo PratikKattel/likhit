@@ -1,4 +1,3 @@
-- **2011-06-28 12:31**: chore: format code style and clean up redundant variables
 - **2011-06-28 13:42**: feat: support multiple choice questions for motorcycle category
 - **2011-06-28 21:47**: fix: adjust passing score threshold according to new rules
 - **2011-06-29 13:15**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-08-14 20:57**: perf: optimize image caching for traffic sign assets
 - **2011-08-14 22:21**: feat: implement timer and score calculation for mock test
 - **2011-08-15 10:44**: fix: typo in Nepali road safety regulations question
+- **2011-08-15 10:48**: perf: optimize image caching for traffic sign assets
