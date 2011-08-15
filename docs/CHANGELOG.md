@@ -1,4 +1,3 @@
-- **2011-06-27 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-06-28 12:31**: chore: format code style and clean up redundant variables
 - **2011-06-28 13:42**: feat: support multiple choice questions for motorcycle category
 - **2011-06-28 21:47**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2011-08-13 20:37**: docs: add instructions for Nepali driving license written exam
 - **2011-08-14 20:57**: perf: optimize image caching for traffic sign assets
 - **2011-08-14 22:21**: feat: implement timer and score calculation for mock test
+- **2011-08-15 10:44**: fix: typo in Nepali road safety regulations question
