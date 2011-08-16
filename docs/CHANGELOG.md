@@ -1,4 +1,3 @@
-- **2011-06-28 21:47**: fix: adjust passing score threshold according to new rules
 - **2011-06-29 13:15**: feat: add search and filter by sign category
 - **2011-06-29 15:38**: feat: support multiple choice questions for motorcycle category
 - **2011-06-30 11:24**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2011-08-15 10:44**: fix: typo in Nepali road safety regulations question
 - **2011-08-15 10:48**: perf: optimize image caching for traffic sign assets
 - **2011-08-15 14:13**: refactor: restructure question data schema for faster loading
+- **2011-08-16 09:46**: chore: update questions database with recent DOTM updates
