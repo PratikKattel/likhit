@@ -1,4 +1,3 @@
-- **2011-06-30 11:24**: feat: add category-specific practice modes
 - **2011-07-01 19:09**: fix: resolve layout shift during question transitions
 - **2011-07-02 10:50**: feat: add instant feedback and explanation on answer selection
 - **2011-07-02 15:15**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2011-08-16 09:46**: chore: update questions database with recent DOTM updates
 - **2011-08-17 10:22**: fix: prevent option re-selection after submitting answer
 - **2011-08-17 12:09**: feat: add instant feedback and explanation on answer selection
+- **2011-08-17 15:54**: feat: add keyboard navigation shortcuts for question selection
