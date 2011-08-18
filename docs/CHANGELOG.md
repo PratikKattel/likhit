@@ -1,4 +1,3 @@
-- **2011-07-01 19:09**: fix: resolve layout shift during question transitions
 - **2011-07-02 10:50**: feat: add instant feedback and explanation on answer selection
 - **2011-07-02 15:15**: style: polish typography and Nepali Unicode font rendering
 - **2011-07-03 13:28**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-08-17 10:22**: fix: prevent option re-selection after submitting answer
 - **2011-08-17 12:09**: feat: add instant feedback and explanation on answer selection
 - **2011-08-17 15:54**: feat: add keyboard navigation shortcuts for question selection
+- **2011-08-18 09:16**: refactor: modularize traffic app logic and event listeners
