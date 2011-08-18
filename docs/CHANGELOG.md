@@ -1,4 +1,3 @@
-- **2011-07-02 10:50**: feat: add instant feedback and explanation on answer selection
 - **2011-07-02 15:15**: style: polish typography and Nepali Unicode font rendering
 - **2011-07-03 13:28**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-03 21:43**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-08-17 12:09**: feat: add instant feedback and explanation on answer selection
 - **2011-08-17 15:54**: feat: add keyboard navigation shortcuts for question selection
 - **2011-08-18 09:16**: refactor: modularize traffic app logic and event listeners
+- **2011-08-18 13:34**: chore: format code style and clean up redundant variables
