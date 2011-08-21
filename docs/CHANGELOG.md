@@ -1,4 +1,3 @@
-- **2011-07-06 20:56**: feat: add result summary with passing threshold analysis
 - **2011-07-07 12:47**: feat: add warning signs and informational road signs
 - **2011-07-07 19:29**: docs: add instructions for Nepali driving license written exam
 - **2011-07-08 16:33**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2011-08-20 16:50**: feat: support multiple choice questions for motorcycle category
 - **2011-08-20 19:46**: feat: add result summary with passing threshold analysis
 - **2011-08-21 12:38**: feat: support multiple choice questions for motorcycle category
+- **2011-08-21 13:59**: feat: add category A and B traffic test questions
