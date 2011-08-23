@@ -1,4 +1,3 @@
-- **2011-07-08 16:33**: fix: adjust passing score threshold according to new rules
 - **2011-07-09 15:07**: feat: implement timer and score calculation for mock test
 - **2011-07-09 21:26**: feat: add instant feedback and explanation on answer selection
 - **2011-07-10 16:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2011-08-21 13:59**: feat: add category A and B traffic test questions
 - **2011-08-21 16:42**: chore: update project metadata and build configuration
 - **2011-08-22 20:16**: feat: add instant feedback and explanation on answer selection
+- **2011-08-23 13:43**: feat: implement timer and score calculation for mock test
