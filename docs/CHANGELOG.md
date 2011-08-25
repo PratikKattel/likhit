@@ -1,4 +1,3 @@
-- **2011-07-10 22:24**: perf: lazy load signal graphics and question assets
 - **2011-07-11 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-11 19:14**: feat: add instant feedback and explanation on answer selection
 - **2011-07-12 10:11**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-08-23 19:22**: test: verify question extraction script against exam PDF
 - **2011-08-24 16:43**: perf: index question IDs for rapid lookup
 - **2011-08-24 21:17**: style: enhance traffic sign card layout and responsiveness
+- **2011-08-25 18:12**: perf: lazy load signal graphics and question assets
