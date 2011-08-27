@@ -1,4 +1,3 @@
-- **2011-07-11 19:14**: feat: add instant feedback and explanation on answer selection
 - **2011-07-12 10:11**: docs: add instructions for Nepali driving license written exam
 - **2011-07-12 17:34**: feat: add category-specific practice modes
 - **2011-07-13 14:00**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-08-24 21:17**: style: enhance traffic sign card layout and responsiveness
 - **2011-08-25 18:12**: perf: lazy load signal graphics and question assets
 - **2011-08-26 12:38**: refactor: modularize traffic app logic and event listeners
+- **2011-08-27 17:22**: fix: correct color specifications for mandatory traffic signs
