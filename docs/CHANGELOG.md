@@ -1,4 +1,3 @@
-- **2011-07-12 17:34**: feat: add category-specific practice modes
 - **2011-07-13 14:00**: perf: index question IDs for rapid lookup
 - **2011-07-14 11:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-14 12:26**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-08-26 12:38**: refactor: modularize traffic app logic and event listeners
 - **2011-08-27 17:22**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-28 13:14**: feat: add instant feedback and explanation on answer selection
+- **2011-08-28 14:24**: fix: adjust passing score threshold according to new rules
