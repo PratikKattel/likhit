@@ -1,4 +1,3 @@
-- **2011-07-17 13:46**: feat: add instant feedback and explanation on answer selection
 - **2011-07-17 14:17**: perf: lazy load signal graphics and question assets
 - **2011-07-18 10:21**: feat: support multiple choice questions for motorcycle category
 - **2011-07-18 10:36**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2011-08-29 21:45**: perf: optimize image caching for traffic sign assets
 - **2011-08-30 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-08-30 21:19**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2011-08-31 18:23**: feat: add instant feedback and explanation on answer selection
