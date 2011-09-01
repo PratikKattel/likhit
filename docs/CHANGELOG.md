@@ -1,4 +1,3 @@
-- **2011-07-18 10:21**: feat: support multiple choice questions for motorcycle category
 - **2011-07-18 10:36**: docs: update traffic signals catalog documentation
 - **2011-07-18 14:12**: feat: add category A and B traffic test questions
 - **2011-07-18 14:55**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-08-30 21:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-08-31 18:23**: feat: add instant feedback and explanation on answer selection
 - **2011-09-01 16:17**: fix: typo in Nepali road safety regulations question
+- **2011-09-01 18:16**: refactor: restructure question data schema for faster loading
