@@ -1,4 +1,3 @@
-- **2011-07-18 14:12**: feat: add category A and B traffic test questions
 - **2011-07-18 14:55**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-19 12:33**: perf: optimize image caching for traffic sign assets
 - **2011-07-19 14:03**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2011-09-01 16:17**: fix: typo in Nepali road safety regulations question
 - **2011-09-01 18:16**: refactor: restructure question data schema for faster loading
 - **2011-09-02 10:18**: chore: organize assets and image directory structure
+- **2011-09-02 10:41**: fix: typo in Nepali road safety regulations question
