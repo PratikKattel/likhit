@@ -1,4 +1,3 @@
-- **2011-07-19 12:33**: perf: optimize image caching for traffic sign assets
 - **2011-07-19 14:03**: feat: add warning signs and informational road signs
 - **2011-07-19 19:02**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-20 10:52**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-09-02 10:18**: chore: organize assets and image directory structure
 - **2011-09-02 10:41**: fix: typo in Nepali road safety regulations question
 - **2011-09-03 15:10**: fix: adjust passing score threshold according to new rules
+- **2011-09-04 15:02**: style: enhance traffic sign card layout and responsiveness
