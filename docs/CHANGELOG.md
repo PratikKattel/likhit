@@ -1,4 +1,3 @@
-- **2011-07-19 14:03**: feat: add warning signs and informational road signs
 - **2011-07-19 19:02**: feat: add regulatory traffic signs SVG graphics
 - **2011-07-20 10:52**: chore: format code style and clean up redundant variables
 - **2011-07-20 12:35**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-09-02 10:41**: fix: typo in Nepali road safety regulations question
 - **2011-09-03 15:10**: fix: adjust passing score threshold according to new rules
 - **2011-09-04 15:02**: style: enhance traffic sign card layout and responsiveness
+- **2011-09-05 11:38**: feat: add result summary with passing threshold analysis
