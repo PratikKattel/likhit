@@ -1,4 +1,3 @@
-- **2011-07-20 12:35**: feat: add search and filter by sign category
 - **2011-07-21 18:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-21 21:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-07-22 10:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-09-05 11:38**: feat: add result summary with passing threshold analysis
 - **2011-09-06 18:03**: refactor: modularize traffic app logic and event listeners
 - **2011-09-06 21:54**: docs: update README with setup instructions and feature list
+- **2011-09-07 14:34**: feat: support multiple choice questions for motorcycle category
