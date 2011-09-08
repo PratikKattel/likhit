@@ -1,4 +1,3 @@
-- **2011-07-21 21:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-07-22 10:30**: perf: optimize image caching for traffic sign assets
 - **2011-07-22 11:05**: docs: update traffic signals catalog documentation
 - **2011-07-22 18:53**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-09-06 21:54**: docs: update README with setup instructions and feature list
 - **2011-09-07 14:34**: feat: support multiple choice questions for motorcycle category
 - **2011-09-07 15:50**: feat: implement timer and score calculation for mock test
+- **2011-09-08 16:51**: chore: format code style and clean up redundant variables
