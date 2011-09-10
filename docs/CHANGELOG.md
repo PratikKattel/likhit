@@ -1,4 +1,3 @@
-- **2011-07-22 18:53**: chore: organize assets and image directory structure
 - **2011-07-23 13:25**: refactor: optimize SVG rendering for road signs
 - **2011-07-23 14:37**: feat: add category-specific practice modes
 - **2011-07-23 14:46**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-09-08 16:51**: chore: format code style and clean up redundant variables
 - **2011-09-09 12:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-09-09 20:55**: style: polish typography and Nepali Unicode font rendering
+- **2011-09-10 11:19**: refactor: modularize traffic app logic and event listeners
