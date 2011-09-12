@@ -1,4 +1,3 @@
-- **2011-07-23 14:46**: feat: add instant feedback and explanation on answer selection
 - **2011-07-24 14:42**: style: polish typography and Nepali Unicode font rendering
 - **2011-07-24 18:10**: style: polish typography and Nepali Unicode font rendering
 - **2011-07-25 19:02**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-09-10 11:19**: refactor: modularize traffic app logic and event listeners
 - **2011-09-11 14:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-09-11 17:06**: fix: correct color specifications for mandatory traffic signs
+- **2011-09-12 09:37**: feat: add keyboard navigation shortcuts for question selection
