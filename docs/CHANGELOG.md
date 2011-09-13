@@ -1,4 +1,3 @@
-- **2011-07-24 18:10**: style: polish typography and Nepali Unicode font rendering
 - **2011-07-25 19:02**: fix: typo in Nepali road safety regulations question
 - **2011-07-26 16:32**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-27 09:00**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-09-11 17:06**: fix: correct color specifications for mandatory traffic signs
 - **2011-09-12 09:37**: feat: add keyboard navigation shortcuts for question selection
 - **2011-09-12 19:43**: fix: correct color specifications for mandatory traffic signs
+- **2011-09-13 13:23**: feat: support multiple choice questions for motorcycle category
