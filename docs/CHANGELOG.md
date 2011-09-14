@@ -1,4 +1,3 @@
-- **2011-07-27 13:58**: feat: add category-specific practice modes
 - **2011-07-27 20:20**: feat: add instant feedback and explanation on answer selection
 - **2011-07-28 15:58**: feat: add warning signs and informational road signs
 - **2011-07-29 16:57**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-09-13 19:12**: chore: update project metadata and build configuration
 - **2011-09-14 09:28**: feat: implement timer and score calculation for mock test
 - **2011-09-14 11:41**: feat: add warning signs and informational road signs
+- **2011-09-14 17:29**: style: enhance traffic sign card layout and responsiveness
