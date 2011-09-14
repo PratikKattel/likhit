@@ -1,4 +1,3 @@
-- **2011-07-27 09:00**: chore: update questions database with recent DOTM updates
 - **2011-07-27 13:58**: feat: add category-specific practice modes
 - **2011-07-27 20:20**: feat: add instant feedback and explanation on answer selection
 - **2011-07-28 15:58**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2011-09-13 13:23**: feat: support multiple choice questions for motorcycle category
 - **2011-09-13 19:12**: chore: update project metadata and build configuration
 - **2011-09-14 09:28**: feat: implement timer and score calculation for mock test
+- **2011-09-14 11:41**: feat: add warning signs and informational road signs
