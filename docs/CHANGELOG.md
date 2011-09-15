@@ -1,4 +1,3 @@
-- **2011-07-28 15:58**: feat: add warning signs and informational road signs
 - **2011-07-29 16:57**: feat: implement timer and score calculation for mock test
 - **2011-07-30 15:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-30 19:28**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-09-14 11:41**: feat: add warning signs and informational road signs
 - **2011-09-14 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2011-09-15 11:56**: chore: format code style and clean up redundant variables
+- **2011-09-15 18:10**: fix: resolve layout shift during question transitions
