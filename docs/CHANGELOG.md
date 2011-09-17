@@ -1,4 +1,3 @@
-- **2011-07-30 15:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-07-30 19:28**: style: enhance traffic sign card layout and responsiveness
 - **2011-07-31 18:23**: refactor: optimize SVG rendering for road signs
 - **2011-08-01 10:25**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2011-09-15 11:56**: chore: format code style and clean up redundant variables
 - **2011-09-15 18:10**: fix: resolve layout shift during question transitions
 - **2011-09-16 17:47**: feat: add regulatory traffic signs SVG graphics
+- **2011-09-17 16:54**: test: verify question extraction script against exam PDF
