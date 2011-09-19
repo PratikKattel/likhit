@@ -1,4 +1,3 @@
-- **2011-08-01 10:25**: feat: add warning signs and informational road signs
 - **2011-08-02 14:19**: refactor: modularize traffic app logic and event listeners
 - **2011-08-03 09:22**: style: polish typography and Nepali Unicode font rendering
 - **2011-08-03 12:36**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-09-17 16:54**: test: verify question extraction script against exam PDF
 - **2011-09-17 17:56**: refactor: optimize SVG rendering for road signs
 - **2011-09-18 21:50**: feat: implement timer and score calculation for mock test
+- **2011-09-19 13:59**: refactor: modularize traffic app logic and event listeners
