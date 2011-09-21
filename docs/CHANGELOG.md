@@ -1,4 +1,3 @@
-- **2011-08-03 12:36**: feat: add instant feedback and explanation on answer selection
 - **2011-08-04 13:41**: docs: update traffic signals catalog documentation
 - **2011-08-05 15:04**: fix: update DOTM Nepal license syllabus questions
 - **2011-08-06 12:45**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2011-09-19 13:59**: refactor: modularize traffic app logic and event listeners
 - **2011-09-19 20:44**: feat: add result summary with passing threshold analysis
 - **2011-09-20 18:53**: feat: add category A and B traffic test questions
+- **2011-09-21 09:56**: perf: index question IDs for rapid lookup
