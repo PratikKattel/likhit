@@ -1,4 +1,3 @@
-- **2011-08-04 13:41**: docs: update traffic signals catalog documentation
 - **2011-08-05 15:04**: fix: update DOTM Nepal license syllabus questions
 - **2011-08-06 12:45**: fix: resolve layout shift during question transitions
 - **2011-08-06 15:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-09-19 20:44**: feat: add result summary with passing threshold analysis
 - **2011-09-20 18:53**: feat: add category A and B traffic test questions
 - **2011-09-21 09:56**: perf: index question IDs for rapid lookup
+- **2011-09-22 20:16**: feat: add result summary with passing threshold analysis
