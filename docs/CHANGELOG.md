@@ -1,4 +1,3 @@
-- **2011-08-06 12:45**: fix: resolve layout shift during question transitions
 - **2011-08-06 15:10**: feat: add search and filter by sign category
 - **2011-08-07 12:07**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-08 15:34**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-09-21 09:56**: perf: index question IDs for rapid lookup
 - **2011-09-22 20:16**: feat: add result summary with passing threshold analysis
 - **2011-09-23 20:00**: style: enhance traffic sign card layout and responsiveness
+- **2011-09-24 14:58**: feat: support multiple choice questions for motorcycle category
