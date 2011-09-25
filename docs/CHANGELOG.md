@@ -1,4 +1,3 @@
-- **2011-08-07 12:07**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-08 15:34**: docs: add instructions for Nepali driving license written exam
 - **2011-08-09 11:26**: perf: optimize image caching for traffic sign assets
 - **2011-08-10 12:33**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2011-09-23 20:00**: style: enhance traffic sign card layout and responsiveness
 - **2011-09-24 14:58**: feat: support multiple choice questions for motorcycle category
 - **2011-09-24 21:07**: test: verify question extraction script against exam PDF
+- **2011-09-25 10:19**: refactor: modularize traffic app logic and event listeners
