@@ -1,4 +1,3 @@
-- **2011-08-10 18:33**: docs: add instructions for Nepali driving license written exam
 - **2011-08-11 17:49**: feat: add search and filter by sign category
 - **2011-08-12 12:41**: fix: prevent option re-selection after submitting answer
 - **2011-08-13 20:37**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-09-26 13:39**: feat: support multiple choice questions for motorcycle category
 - **2011-09-26 17:14**: docs: update README with setup instructions and feature list
 - **2011-09-26 22:01**: fix: resolve layout shift during question transitions
+- **2011-09-27 13:40**: chore: organize assets and image directory structure
