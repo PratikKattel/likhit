@@ -1,4 +1,3 @@
-- **2011-08-12 12:41**: fix: prevent option re-selection after submitting answer
 - **2011-08-13 20:37**: docs: add instructions for Nepali driving license written exam
 - **2011-08-14 20:57**: perf: optimize image caching for traffic sign assets
 - **2011-08-14 22:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-09-26 22:01**: fix: resolve layout shift during question transitions
 - **2011-09-27 13:40**: chore: organize assets and image directory structure
 - **2011-09-27 18:47**: feat: add category-specific practice modes
+- **2011-09-28 18:08**: refactor: restructure question data schema for faster loading
