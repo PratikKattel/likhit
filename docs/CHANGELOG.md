@@ -1,4 +1,3 @@
-- **2011-08-14 22:21**: feat: implement timer and score calculation for mock test
 - **2011-08-15 10:44**: fix: typo in Nepali road safety regulations question
 - **2011-08-15 10:48**: perf: optimize image caching for traffic sign assets
 - **2011-08-15 14:13**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-09-28 18:08**: refactor: restructure question data schema for faster loading
 - **2011-09-28 18:09**: chore: update questions database with recent DOTM updates
 - **2011-09-28 22:13**: docs: add instructions for Nepali driving license written exam
+- **2011-09-29 16:07**: chore: update project metadata and build configuration
