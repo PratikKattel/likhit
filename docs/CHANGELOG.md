@@ -1,4 +1,3 @@
-- **2011-08-17 12:09**: feat: add instant feedback and explanation on answer selection
 - **2011-08-17 15:54**: feat: add keyboard navigation shortcuts for question selection
 - **2011-08-18 09:16**: refactor: modularize traffic app logic and event listeners
 - **2011-08-18 13:34**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-09-30 10:22**: chore: update questions database with recent DOTM updates
 - **2011-09-30 12:16**: fix: typo in Nepali road safety regulations question
 - **2011-10-01 10:45**: fix: update DOTM Nepal license syllabus questions
+- **2011-10-01 22:01**: docs: improve code comments and API documentation
