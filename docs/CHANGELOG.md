@@ -1,4 +1,3 @@
-- **2011-08-18 13:34**: chore: format code style and clean up redundant variables
 - **2011-08-18 20:10**: chore: update questions database with recent DOTM updates
 - **2011-08-19 18:12**: feat: add result summary with passing threshold analysis
 - **2011-08-20 16:50**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-10-01 22:01**: docs: improve code comments and API documentation
 - **2011-10-02 20:13**: feat: add category A and B traffic test questions
 - **2011-10-02 22:14**: feat: add regulatory traffic signs SVG graphics
+- **2011-10-03 14:20**: style: improve dark/light mode and mobile UI responsiveness
