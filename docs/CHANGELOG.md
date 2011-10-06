@@ -1,4 +1,3 @@
-- **2011-08-21 13:59**: feat: add category A and B traffic test questions
 - **2011-08-21 16:42**: chore: update project metadata and build configuration
 - **2011-08-22 20:16**: feat: add instant feedback and explanation on answer selection
 - **2011-08-23 13:43**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-10-04 22:02**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-05 15:05**: fix: correct color specifications for mandatory traffic signs
 - **2011-10-05 20:28**: refactor: optimize SVG rendering for road signs
+- **2011-10-06 09:46**: feat: add warning signs and informational road signs
