@@ -1,4 +1,3 @@
-- **2011-08-23 13:43**: feat: implement timer and score calculation for mock test
 - **2011-08-23 19:22**: test: verify question extraction script against exam PDF
 - **2011-08-24 16:43**: perf: index question IDs for rapid lookup
 - **2011-08-24 21:17**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-10-06 09:46**: feat: add warning signs and informational road signs
 - **2011-10-07 13:21**: feat: add warning signs and informational road signs
 - **2011-10-07 17:45**: chore: format code style and clean up redundant variables
+- **2011-10-08 10:12**: fix: adjust passing score threshold according to new rules
