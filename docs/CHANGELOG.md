@@ -1,4 +1,3 @@
-- **2011-08-25 18:12**: perf: lazy load signal graphics and question assets
 - **2011-08-26 12:38**: refactor: modularize traffic app logic and event listeners
 - **2011-08-27 17:22**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-28 13:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-10-08 18:08**: chore: update questions database with recent DOTM updates
 - **2011-10-09 18:32**: fix: typo in Nepali road safety regulations question
 - **2011-10-10 12:13**: perf: optimize image caching for traffic sign assets
+- **2011-10-11 19:23**: feat: add result summary with passing threshold analysis
