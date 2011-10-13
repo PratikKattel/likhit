@@ -1,4 +1,3 @@
-- **2011-08-27 17:22**: fix: correct color specifications for mandatory traffic signs
 - **2011-08-28 13:14**: feat: add instant feedback and explanation on answer selection
 - **2011-08-28 14:24**: fix: adjust passing score threshold according to new rules
 - **2011-08-28 16:43**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-10-10 12:13**: perf: optimize image caching for traffic sign assets
 - **2011-10-11 19:23**: feat: add result summary with passing threshold analysis
 - **2011-10-12 17:29**: feat: add instant feedback and explanation on answer selection
+- **2011-10-13 15:35**: fix: resolve layout shift during question transitions
