@@ -1,4 +1,3 @@
-- **2011-08-29 18:47**: refactor: restructure question data schema for faster loading
 - **2011-08-29 21:45**: perf: optimize image caching for traffic sign assets
 - **2011-08-30 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-08-30 21:19**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-10-14 10:04**: docs: add instructions for Nepali driving license written exam
 - **2011-10-15 09:36**: chore: update project metadata and build configuration
 - **2011-10-15 19:59**: feat: add regulatory traffic signs SVG graphics
+- **2011-10-16 16:18**: refactor: modularize traffic app logic and event listeners
