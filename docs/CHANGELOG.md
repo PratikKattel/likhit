@@ -1,4 +1,3 @@
-- **2011-08-29 21:45**: perf: optimize image caching for traffic sign assets
 - **2011-08-30 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-08-30 21:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-08-31 18:23**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-10-15 09:36**: chore: update project metadata and build configuration
 - **2011-10-15 19:59**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-16 16:18**: refactor: modularize traffic app logic and event listeners
+- **2011-10-17 16:27**: perf: lazy load signal graphics and question assets
