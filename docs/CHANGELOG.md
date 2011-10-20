@@ -1,4 +1,3 @@
-- **2011-09-01 16:17**: fix: typo in Nepali road safety regulations question
 - **2011-09-01 18:16**: refactor: restructure question data schema for faster loading
 - **2011-09-02 10:18**: chore: organize assets and image directory structure
 - **2011-09-02 10:41**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-10-18 17:48**: perf: lazy load signal graphics and question assets
 - **2011-10-18 21:07**: test: verify question extraction script against exam PDF
 - **2011-10-19 21:11**: refactor: restructure question data schema for faster loading
+- **2011-10-20 21:07**: fix: update DOTM Nepal license syllabus questions
