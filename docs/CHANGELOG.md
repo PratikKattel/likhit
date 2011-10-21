@@ -1,4 +1,3 @@
-- **2011-09-02 10:18**: chore: organize assets and image directory structure
 - **2011-09-02 10:41**: fix: typo in Nepali road safety regulations question
 - **2011-09-03 15:10**: fix: adjust passing score threshold according to new rules
 - **2011-09-04 15:02**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-10-19 21:11**: refactor: restructure question data schema for faster loading
 - **2011-10-20 21:07**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-20 21:48**: chore: update questions database with recent DOTM updates
+- **2011-10-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
