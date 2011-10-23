@@ -1,4 +1,3 @@
-- **2011-09-06 21:54**: docs: update README with setup instructions and feature list
 - **2011-09-07 14:34**: feat: support multiple choice questions for motorcycle category
 - **2011-09-07 15:50**: feat: implement timer and score calculation for mock test
 - **2011-09-08 16:51**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-10-22 18:08**: chore: update questions database with recent DOTM updates
 - **2011-10-23 10:11**: feat: add category A and B traffic test questions
 - **2011-10-23 15:57**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-10-23 19:09**: fix: resolve layout shift during question transitions
