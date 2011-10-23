@@ -1,4 +1,3 @@
-- **2011-09-05 11:38**: feat: add result summary with passing threshold analysis
 - **2011-09-06 18:03**: refactor: modularize traffic app logic and event listeners
 - **2011-09-06 21:54**: docs: update README with setup instructions and feature list
 - **2011-09-07 14:34**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2011-10-22 10:14**: docs: update README with setup instructions and feature list
 - **2011-10-22 10:50**: fix: typo in Nepali road safety regulations question
 - **2011-10-22 18:08**: chore: update questions database with recent DOTM updates
+- **2011-10-23 10:11**: feat: add category A and B traffic test questions
