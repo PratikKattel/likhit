@@ -1,4 +1,3 @@
-- **2011-09-07 15:50**: feat: implement timer and score calculation for mock test
 - **2011-09-08 16:51**: chore: format code style and clean up redundant variables
 - **2011-09-09 12:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-09-09 20:55**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2011-10-23 15:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-10-23 19:09**: fix: resolve layout shift during question transitions
 - **2011-10-24 10:55**: docs: add instructions for Nepali driving license written exam
+- **2011-10-24 19:21**: chore: update questions database with recent DOTM updates
