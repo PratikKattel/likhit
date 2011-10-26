@@ -1,4 +1,3 @@
-- **2011-09-09 12:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-09-09 20:55**: style: polish typography and Nepali Unicode font rendering
 - **2011-09-10 11:19**: refactor: modularize traffic app logic and event listeners
 - **2011-09-11 14:46**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-10-24 10:55**: docs: add instructions for Nepali driving license written exam
 - **2011-10-24 19:21**: chore: update questions database with recent DOTM updates
 - **2011-10-25 21:03**: feat: add regulatory traffic signs SVG graphics
+- **2011-10-26 11:06**: perf: optimize image caching for traffic sign assets
