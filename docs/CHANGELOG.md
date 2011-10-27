@@ -1,4 +1,3 @@
-- **2011-09-11 14:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-09-11 17:06**: fix: correct color specifications for mandatory traffic signs
 - **2011-09-12 09:37**: feat: add keyboard navigation shortcuts for question selection
 - **2011-09-12 19:43**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-10-26 11:06**: perf: optimize image caching for traffic sign assets
 - **2011-10-26 11:53**: docs: add instructions for Nepali driving license written exam
 - **2011-10-26 16:05**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-10-27 11:51**: feat: add regulatory traffic signs SVG graphics
