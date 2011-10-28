@@ -1,4 +1,3 @@
-- **2011-09-12 09:37**: feat: add keyboard navigation shortcuts for question selection
 - **2011-09-12 19:43**: fix: correct color specifications for mandatory traffic signs
 - **2011-09-13 13:23**: feat: support multiple choice questions for motorcycle category
 - **2011-09-13 19:12**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-10-26 16:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-10-27 11:51**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-27 20:08**: chore: organize assets and image directory structure
+- **2011-10-28 10:28**: docs: update traffic signals catalog documentation
