@@ -1,4 +1,3 @@
-- **2011-09-14 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2011-09-15 11:56**: chore: format code style and clean up redundant variables
 - **2011-09-15 18:10**: fix: resolve layout shift during question transitions
 - **2011-09-16 17:47**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-10-28 22:19**: refactor: optimize SVG rendering for road signs
 - **2011-10-29 17:09**: refactor: optimize SVG rendering for road signs
 - **2011-10-29 20:51**: feat: implement timer and score calculation for mock test
+- **2011-10-30 14:31**: fix: correct color specifications for mandatory traffic signs
