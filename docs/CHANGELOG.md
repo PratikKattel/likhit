@@ -1,4 +1,3 @@
-- **2011-09-16 17:47**: feat: add regulatory traffic signs SVG graphics
 - **2011-09-17 16:54**: test: verify question extraction script against exam PDF
 - **2011-09-17 17:56**: refactor: optimize SVG rendering for road signs
 - **2011-09-18 21:50**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2011-10-30 14:31**: fix: correct color specifications for mandatory traffic signs
 - **2011-10-30 21:20**: chore: update project metadata and build configuration
 - **2011-10-31 10:32**: feat: support multiple choice questions for motorcycle category
+- **2011-10-31 15:16**: refactor: clean up unused CSS classes and optimize stylesheet
