@@ -1,4 +1,3 @@
-- **2011-09-19 13:59**: refactor: modularize traffic app logic and event listeners
 - **2011-09-19 20:44**: feat: add result summary with passing threshold analysis
 - **2011-09-20 18:53**: feat: add category A and B traffic test questions
 - **2011-09-21 09:56**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2011-10-31 16:07**: feat: add instant feedback and explanation on answer selection
 - **2011-10-31 22:28**: chore: update questions database with recent DOTM updates
 - **2011-11-01 09:19**: fix: prevent option re-selection after submitting answer
+- **2011-11-01 11:13**: refactor: restructure question data schema for faster loading
