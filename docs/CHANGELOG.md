@@ -1,4 +1,3 @@
-- **2011-09-22 20:16**: feat: add result summary with passing threshold analysis
 - **2011-09-23 20:00**: style: enhance traffic sign card layout and responsiveness
 - **2011-09-24 14:58**: feat: support multiple choice questions for motorcycle category
 - **2011-09-24 21:07**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2011-11-01 19:34**: perf: optimize image caching for traffic sign assets
 - **2011-11-01 20:22**: style: polish typography and Nepali Unicode font rendering
 - **2011-11-02 09:09**: style: enhance traffic sign card layout and responsiveness
+- **2011-11-03 17:23**: refactor: optimize SVG rendering for road signs
