@@ -1,4 +1,3 @@
-- **2011-09-24 21:07**: test: verify question extraction script against exam PDF
 - **2011-09-25 10:19**: refactor: modularize traffic app logic and event listeners
 - **2011-09-26 13:39**: feat: support multiple choice questions for motorcycle category
 - **2011-09-26 17:14**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2011-11-03 17:23**: refactor: optimize SVG rendering for road signs
 - **2011-11-03 18:19**: refactor: restructure question data schema for faster loading
 - **2011-11-04 19:27**: style: polish typography and Nepali Unicode font rendering
+- **2011-11-05 09:39**: chore: update project metadata and build configuration
