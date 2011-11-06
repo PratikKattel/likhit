@@ -1,4 +1,3 @@
-- **2011-09-26 13:39**: feat: support multiple choice questions for motorcycle category
 - **2011-09-26 17:14**: docs: update README with setup instructions and feature list
 - **2011-09-26 22:01**: fix: resolve layout shift during question transitions
 - **2011-09-27 13:40**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-11-04 19:27**: style: polish typography and Nepali Unicode font rendering
 - **2011-11-05 09:39**: chore: update project metadata and build configuration
 - **2011-11-05 20:36**: docs: improve code comments and API documentation
+- **2011-11-06 19:37**: fix: prevent option re-selection after submitting answer
