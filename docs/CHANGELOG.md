@@ -1,4 +1,3 @@
-- **2011-09-27 18:47**: feat: add category-specific practice modes
 - **2011-09-28 18:08**: refactor: restructure question data schema for faster loading
 - **2011-09-28 18:09**: chore: update questions database with recent DOTM updates
 - **2011-09-28 22:13**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-11-06 20:19**: feat: add category-specific practice modes
 - **2011-11-07 21:59**: perf: index question IDs for rapid lookup
 - **2011-11-08 15:25**: chore: update project metadata and build configuration
+- **2011-11-08 16:19**: refactor: modularize traffic app logic and event listeners
