@@ -1,4 +1,3 @@
-- **2011-09-28 18:09**: chore: update questions database with recent DOTM updates
 - **2011-09-28 22:13**: docs: add instructions for Nepali driving license written exam
 - **2011-09-29 16:07**: chore: update project metadata and build configuration
 - **2011-09-29 19:20**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2011-11-08 15:25**: chore: update project metadata and build configuration
 - **2011-11-08 16:19**: refactor: modularize traffic app logic and event listeners
 - **2011-11-09 14:31**: feat: add result summary with passing threshold analysis
+- **2011-11-09 15:39**: feat: implement timer and score calculation for mock test
