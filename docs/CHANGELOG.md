@@ -1,4 +1,3 @@
-- **2011-09-29 22:24**: feat: add search and filter by sign category
 - **2011-09-30 10:22**: chore: update questions database with recent DOTM updates
 - **2011-09-30 12:16**: fix: typo in Nepali road safety regulations question
 - **2011-10-01 10:45**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2011-11-09 16:18**: perf: lazy load signal graphics and question assets
 - **2011-11-10 15:38**: perf: optimize image caching for traffic sign assets
 - **2011-11-10 15:50**: test: verify question extraction script against exam PDF
+- **2011-11-10 16:38**: chore: format code style and clean up redundant variables
