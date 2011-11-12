@@ -1,4 +1,3 @@
-- **2011-09-30 12:16**: fix: typo in Nepali road safety regulations question
 - **2011-10-01 10:45**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-01 22:01**: docs: improve code comments and API documentation
 - **2011-10-02 20:13**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2011-11-10 15:50**: test: verify question extraction script against exam PDF
 - **2011-11-10 16:38**: chore: format code style and clean up redundant variables
 - **2011-11-11 17:13**: docs: add instructions for Nepali driving license written exam
+- **2011-11-12 09:40**: refactor: optimize SVG rendering for road signs
