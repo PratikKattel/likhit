@@ -1,4 +1,3 @@
-- **2011-10-01 22:01**: docs: improve code comments and API documentation
 - **2011-10-02 20:13**: feat: add category A and B traffic test questions
 - **2011-10-02 22:14**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-03 14:20**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-11-11 17:13**: docs: add instructions for Nepali driving license written exam
 - **2011-11-12 09:40**: refactor: optimize SVG rendering for road signs
 - **2011-11-13 15:05**: fix: typo in Nepali road safety regulations question
+- **2011-11-13 18:41**: chore: organize assets and image directory structure
