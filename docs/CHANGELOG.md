@@ -1,4 +1,3 @@
-- **2011-10-04 21:33**: refactor: optimize SVG rendering for road signs
 - **2011-10-04 22:02**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-05 15:05**: fix: correct color specifications for mandatory traffic signs
 - **2011-10-05 20:28**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2011-11-14 12:09**: refactor: modularize traffic app logic and event listeners
 - **2011-11-14 14:37**: feat: support multiple choice questions for motorcycle category
 - **2011-11-14 14:58**: feat: add instant feedback and explanation on answer selection
+- **2011-11-14 18:32**: perf: lazy load signal graphics and question assets
