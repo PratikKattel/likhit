@@ -1,4 +1,3 @@
-- **2011-10-02 22:14**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-03 14:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-10-04 14:41**: test: verify question extraction script against exam PDF
 - **2011-10-04 21:33**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2011-11-13 15:05**: fix: typo in Nepali road safety regulations question
 - **2011-11-13 18:41**: chore: organize assets and image directory structure
 - **2011-11-13 21:09**: perf: lazy load signal graphics and question assets
+- **2011-11-14 12:09**: refactor: modularize traffic app logic and event listeners
