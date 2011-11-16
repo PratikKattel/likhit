@@ -1,4 +1,3 @@
-- **2011-10-05 20:28**: refactor: optimize SVG rendering for road signs
 - **2011-10-06 09:46**: feat: add warning signs and informational road signs
 - **2011-10-07 13:21**: feat: add warning signs and informational road signs
 - **2011-10-07 17:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-11-14 18:32**: perf: lazy load signal graphics and question assets
 - **2011-11-15 16:09**: docs: update README with setup instructions and feature list
 - **2011-11-16 09:08**: fix: adjust passing score threshold according to new rules
+- **2011-11-16 11:18**: feat: add regulatory traffic signs SVG graphics
