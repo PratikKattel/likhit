@@ -1,4 +1,3 @@
-- **2011-10-07 17:45**: chore: format code style and clean up redundant variables
 - **2011-10-08 10:12**: fix: adjust passing score threshold according to new rules
 - **2011-10-08 18:08**: chore: update questions database with recent DOTM updates
 - **2011-10-09 18:32**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-11-16 11:18**: feat: add regulatory traffic signs SVG graphics
 - **2011-11-17 18:18**: chore: format code style and clean up redundant variables
 - **2011-11-18 19:45**: chore: update project metadata and build configuration
+- **2011-11-19 10:45**: style: enhance traffic sign card layout and responsiveness
