@@ -1,4 +1,3 @@
-- **2011-10-09 18:32**: fix: typo in Nepali road safety regulations question
 - **2011-10-10 12:13**: perf: optimize image caching for traffic sign assets
 - **2011-10-11 19:23**: feat: add result summary with passing threshold analysis
 - **2011-10-12 17:29**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-11-19 10:45**: style: enhance traffic sign card layout and responsiveness
 - **2011-11-19 18:07**: fix: adjust passing score threshold according to new rules
 - **2011-11-20 16:51**: fix: typo in Nepali road safety regulations question
+- **2011-11-21 09:36**: feat: add result summary with passing threshold analysis
