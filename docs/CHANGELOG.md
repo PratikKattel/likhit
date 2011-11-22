@@ -1,4 +1,3 @@
-- **2011-10-12 17:29**: feat: add instant feedback and explanation on answer selection
 - **2011-10-13 15:35**: fix: resolve layout shift during question transitions
 - **2011-10-14 10:04**: docs: add instructions for Nepali driving license written exam
 - **2011-10-15 09:36**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-11-21 09:36**: feat: add result summary with passing threshold analysis
 - **2011-11-22 13:21**: chore: format code style and clean up redundant variables
 - **2011-11-22 14:49**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-11-22 21:57**: perf: index question IDs for rapid lookup
