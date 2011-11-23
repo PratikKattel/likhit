@@ -1,4 +1,3 @@
-- **2011-10-13 15:35**: fix: resolve layout shift during question transitions
 - **2011-10-14 10:04**: docs: add instructions for Nepali driving license written exam
 - **2011-10-15 09:36**: chore: update project metadata and build configuration
 - **2011-10-15 19:59**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-11-22 13:21**: chore: format code style and clean up redundant variables
 - **2011-11-22 14:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-11-22 21:57**: perf: index question IDs for rapid lookup
+- **2011-11-23 19:01**: fix: resolve layout shift during question transitions
