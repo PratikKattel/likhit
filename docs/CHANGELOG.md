@@ -1,4 +1,3 @@
-- **2011-10-16 16:18**: refactor: modularize traffic app logic and event listeners
 - **2011-10-17 16:27**: perf: lazy load signal graphics and question assets
 - **2011-10-18 17:48**: perf: lazy load signal graphics and question assets
 - **2011-10-18 21:07**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2011-11-24 17:27**: chore: format code style and clean up redundant variables
 - **2011-11-24 18:08**: docs: update README with setup instructions and feature list
 - **2011-11-24 19:28**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-11-24 19:34**: refactor: restructure question data schema for faster loading
