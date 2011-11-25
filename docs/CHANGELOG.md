@@ -1,4 +1,3 @@
-- **2011-10-17 16:27**: perf: lazy load signal graphics and question assets
 - **2011-10-18 17:48**: perf: lazy load signal graphics and question assets
 - **2011-10-18 21:07**: test: verify question extraction script against exam PDF
 - **2011-10-19 21:11**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-11-24 18:08**: docs: update README with setup instructions and feature list
 - **2011-11-24 19:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-11-24 19:34**: refactor: restructure question data schema for faster loading
+- **2011-11-25 10:59**: fix: resolve layout shift during question transitions
