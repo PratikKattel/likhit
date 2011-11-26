@@ -1,4 +1,3 @@
-- **2011-10-18 21:07**: test: verify question extraction script against exam PDF
 - **2011-10-19 21:11**: refactor: restructure question data schema for faster loading
 - **2011-10-20 21:07**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-20 21:48**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-11-24 19:34**: refactor: restructure question data schema for faster loading
 - **2011-11-25 10:59**: fix: resolve layout shift during question transitions
 - **2011-11-25 12:34**: chore: update questions database with recent DOTM updates
+- **2011-11-26 17:18**: style: improve dark/light mode and mobile UI responsiveness
