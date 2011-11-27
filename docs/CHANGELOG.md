@@ -1,4 +1,3 @@
-- **2011-10-19 21:11**: refactor: restructure question data schema for faster loading
 - **2011-10-20 21:07**: fix: update DOTM Nepal license syllabus questions
 - **2011-10-20 21:48**: chore: update questions database with recent DOTM updates
 - **2011-10-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-11-25 10:59**: fix: resolve layout shift during question transitions
 - **2011-11-25 12:34**: chore: update questions database with recent DOTM updates
 - **2011-11-26 17:18**: style: improve dark/light mode and mobile UI responsiveness
+- **2011-11-27 15:50**: refactor: restructure question data schema for faster loading
