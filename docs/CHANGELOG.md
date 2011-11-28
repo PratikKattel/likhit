@@ -1,4 +1,3 @@
-- **2011-10-21 19:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2011-10-22 10:14**: docs: update README with setup instructions and feature list
 - **2011-10-22 10:50**: fix: typo in Nepali road safety regulations question
 - **2011-10-22 18:08**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-11-27 15:50**: refactor: restructure question data schema for faster loading
 - **2011-11-28 09:18**: feat: add category-specific practice modes
 - **2011-11-28 09:48**: fix: typo in Nepali road safety regulations question
+- **2011-11-28 13:12**: fix: update DOTM Nepal license syllabus questions
