@@ -1,4 +1,3 @@
-- **2011-10-22 10:50**: fix: typo in Nepali road safety regulations question
 - **2011-10-22 18:08**: chore: update questions database with recent DOTM updates
 - **2011-10-23 10:11**: feat: add category A and B traffic test questions
 - **2011-10-23 15:57**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-11-28 09:48**: fix: typo in Nepali road safety regulations question
 - **2011-11-28 13:12**: fix: update DOTM Nepal license syllabus questions
 - **2011-11-29 15:37**: fix: correct color specifications for mandatory traffic signs
+- **2011-11-29 19:28**: fix: typo in Nepali road safety regulations question
