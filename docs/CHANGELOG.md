@@ -1,4 +1,3 @@
-- **2011-10-23 15:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-10-23 19:09**: fix: resolve layout shift during question transitions
 - **2011-10-24 10:55**: docs: add instructions for Nepali driving license written exam
 - **2011-10-24 19:21**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2011-11-29 19:28**: fix: typo in Nepali road safety regulations question
 - **2011-11-30 15:03**: perf: lazy load signal graphics and question assets
 - **2011-11-30 17:08**: feat: add regulatory traffic signs SVG graphics
+- **2011-12-01 10:05**: feat: add warning signs and informational road signs
