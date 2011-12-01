@@ -1,4 +1,3 @@
-- **2011-10-23 19:09**: fix: resolve layout shift during question transitions
 - **2011-10-24 10:55**: docs: add instructions for Nepali driving license written exam
 - **2011-10-24 19:21**: chore: update questions database with recent DOTM updates
 - **2011-10-25 21:03**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2011-11-30 15:03**: perf: lazy load signal graphics and question assets
 - **2011-11-30 17:08**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-01 10:05**: feat: add warning signs and informational road signs
+- **2011-12-01 21:34**: chore: update project metadata and build configuration
