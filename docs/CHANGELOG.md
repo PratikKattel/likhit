@@ -1,4 +1,3 @@
-- **2011-10-24 19:21**: chore: update questions database with recent DOTM updates
 - **2011-10-25 21:03**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-26 11:06**: perf: optimize image caching for traffic sign assets
 - **2011-10-26 11:53**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-12-01 10:05**: feat: add warning signs and informational road signs
 - **2011-12-01 21:34**: chore: update project metadata and build configuration
 - **2011-12-02 16:19**: docs: update traffic signals catalog documentation
+- **2011-12-02 17:21**: style: polish typography and Nepali Unicode font rendering
