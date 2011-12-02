@@ -1,4 +1,3 @@
-- **2011-10-25 21:03**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-26 11:06**: perf: optimize image caching for traffic sign assets
 - **2011-10-26 11:53**: docs: add instructions for Nepali driving license written exam
 - **2011-10-26 16:05**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2011-12-01 21:34**: chore: update project metadata and build configuration
 - **2011-12-02 16:19**: docs: update traffic signals catalog documentation
 - **2011-12-02 17:21**: style: polish typography and Nepali Unicode font rendering
+- **2011-12-02 19:42**: docs: add instructions for Nepali driving license written exam
