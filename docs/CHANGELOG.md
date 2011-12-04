@@ -1,4 +1,3 @@
-- **2011-10-26 11:53**: docs: add instructions for Nepali driving license written exam
 - **2011-10-26 16:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-10-27 11:51**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-27 20:08**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-12-02 17:21**: style: polish typography and Nepali Unicode font rendering
 - **2011-12-02 19:42**: docs: add instructions for Nepali driving license written exam
 - **2011-12-03 11:30**: perf: lazy load signal graphics and question assets
+- **2011-12-04 17:50**: refactor: modularize traffic app logic and event listeners
