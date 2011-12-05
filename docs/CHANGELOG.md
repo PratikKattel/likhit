@@ -1,4 +1,3 @@
-- **2011-10-27 11:51**: feat: add regulatory traffic signs SVG graphics
 - **2011-10-27 20:08**: chore: organize assets and image directory structure
 - **2011-10-28 10:28**: docs: update traffic signals catalog documentation
 - **2011-10-28 14:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2011-12-03 11:30**: perf: lazy load signal graphics and question assets
 - **2011-12-04 17:50**: refactor: modularize traffic app logic and event listeners
 - **2011-12-04 21:57**: chore: update questions database with recent DOTM updates
+- **2011-12-05 22:24**: fix: typo in Nepali road safety regulations question
