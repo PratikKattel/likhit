@@ -1,4 +1,3 @@
-- **2011-10-27 20:08**: chore: organize assets and image directory structure
 - **2011-10-28 10:28**: docs: update traffic signals catalog documentation
 - **2011-10-28 14:02**: feat: add search and filter by sign category
 - **2011-10-28 14:59**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-12-04 17:50**: refactor: modularize traffic app logic and event listeners
 - **2011-12-04 21:57**: chore: update questions database with recent DOTM updates
 - **2011-12-05 22:24**: fix: typo in Nepali road safety regulations question
+- **2011-12-06 21:37**: fix: resolve layout shift during question transitions
