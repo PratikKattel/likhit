@@ -1,4 +1,3 @@
-- **2011-10-28 22:19**: refactor: optimize SVG rendering for road signs
 - **2011-10-29 17:09**: refactor: optimize SVG rendering for road signs
 - **2011-10-29 20:51**: feat: implement timer and score calculation for mock test
 - **2011-10-30 14:31**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2011-12-07 12:29**: chore: update project metadata and build configuration
 - **2011-12-07 14:25**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-07 14:36**: chore: update project metadata and build configuration
+- **2011-12-07 21:16**: docs: add instructions for Nepali driving license written exam
