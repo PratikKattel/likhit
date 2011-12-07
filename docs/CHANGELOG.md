@@ -1,4 +1,3 @@
-- **2011-10-28 14:02**: feat: add search and filter by sign category
 - **2011-10-28 14:59**: docs: improve code comments and API documentation
 - **2011-10-28 22:19**: refactor: optimize SVG rendering for road signs
 - **2011-10-29 17:09**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2011-12-05 22:24**: fix: typo in Nepali road safety regulations question
 - **2011-12-06 21:37**: fix: resolve layout shift during question transitions
 - **2011-12-07 12:29**: chore: update project metadata and build configuration
+- **2011-12-07 14:25**: feat: add regulatory traffic signs SVG graphics
