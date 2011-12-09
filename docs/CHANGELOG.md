@@ -1,4 +1,3 @@
-- **2011-10-30 14:31**: fix: correct color specifications for mandatory traffic signs
 - **2011-10-30 21:20**: chore: update project metadata and build configuration
 - **2011-10-31 10:32**: feat: support multiple choice questions for motorcycle category
 - **2011-10-31 15:16**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2011-12-07 21:16**: docs: add instructions for Nepali driving license written exam
 - **2011-12-08 11:32**: refactor: restructure question data schema for faster loading
 - **2011-12-08 19:14**: docs: update README with setup instructions and feature list
+- **2011-12-09 19:25**: feat: add regulatory traffic signs SVG graphics
