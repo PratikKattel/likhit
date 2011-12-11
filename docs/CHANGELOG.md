@@ -1,4 +1,3 @@
-- **2011-10-31 16:07**: feat: add instant feedback and explanation on answer selection
 - **2011-10-31 22:28**: chore: update questions database with recent DOTM updates
 - **2011-11-01 09:19**: fix: prevent option re-selection after submitting answer
 - **2011-11-01 11:13**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-12-10 14:44**: feat: add instant feedback and explanation on answer selection
 - **2011-12-11 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-12-11 15:30**: feat: add instant feedback and explanation on answer selection
+- **2011-12-11 16:41**: fix: resolve layout shift during question transitions
