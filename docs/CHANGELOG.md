@@ -1,4 +1,3 @@
-- **2011-11-01 11:13**: refactor: restructure question data schema for faster loading
 - **2011-11-01 19:34**: perf: optimize image caching for traffic sign assets
 - **2011-11-01 20:22**: style: polish typography and Nepali Unicode font rendering
 - **2011-11-02 09:09**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2011-12-11 16:41**: fix: resolve layout shift during question transitions
 - **2011-12-12 12:05**: perf: lazy load signal graphics and question assets
 - **2011-12-13 12:39**: feat: add regulatory traffic signs SVG graphics
+- **2011-12-13 13:03**: feat: support multiple choice questions for motorcycle category
