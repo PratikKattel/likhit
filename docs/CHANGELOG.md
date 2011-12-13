@@ -1,4 +1,3 @@
-- **2011-11-01 20:22**: style: polish typography and Nepali Unicode font rendering
 - **2011-11-02 09:09**: style: enhance traffic sign card layout and responsiveness
 - **2011-11-03 17:23**: refactor: optimize SVG rendering for road signs
 - **2011-11-03 18:19**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2011-12-13 12:39**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-13 13:03**: feat: support multiple choice questions for motorcycle category
 - **2011-12-13 18:52**: feat: add instant feedback and explanation on answer selection
+- **2011-12-13 21:48**: fix: typo in Nepali road safety regulations question
