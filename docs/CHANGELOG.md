@@ -1,4 +1,3 @@
-- **2011-11-03 18:19**: refactor: restructure question data schema for faster loading
 - **2011-11-04 19:27**: style: polish typography and Nepali Unicode font rendering
 - **2011-11-05 09:39**: chore: update project metadata and build configuration
 - **2011-11-05 20:36**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2011-12-13 21:48**: fix: typo in Nepali road safety regulations question
 - **2011-12-14 19:19**: fix: correct color specifications for mandatory traffic signs
 - **2011-12-15 15:31**: fix: prevent option re-selection after submitting answer
+- **2011-12-16 17:35**: perf: optimize image caching for traffic sign assets
