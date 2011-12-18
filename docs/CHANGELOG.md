@@ -1,4 +1,3 @@
-- **2011-11-06 19:37**: fix: prevent option re-selection after submitting answer
 - **2011-11-06 20:19**: feat: add category-specific practice modes
 - **2011-11-07 21:59**: perf: index question IDs for rapid lookup
 - **2011-11-08 15:25**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2011-12-16 19:23**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-16 19:57**: feat: add category A and B traffic test questions
 - **2011-12-17 13:18**: docs: update traffic signals catalog documentation
+- **2011-12-18 14:08**: perf: lazy load signal graphics and question assets
