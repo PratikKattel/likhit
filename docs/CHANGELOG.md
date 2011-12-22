@@ -1,4 +1,3 @@
-- **2011-11-09 14:31**: feat: add result summary with passing threshold analysis
 - **2011-11-09 15:39**: feat: implement timer and score calculation for mock test
 - **2011-11-09 16:18**: perf: lazy load signal graphics and question assets
 - **2011-11-10 15:38**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2011-12-19 17:23**: chore: update questions database with recent DOTM updates
 - **2011-12-20 11:45**: chore: format code style and clean up redundant variables
 - **2011-12-21 16:36**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2011-12-22 18:10**: fix: typo in Nepali road safety regulations question
