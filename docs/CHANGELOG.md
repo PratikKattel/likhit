@@ -1,4 +1,3 @@
-- **2011-11-10 15:38**: perf: optimize image caching for traffic sign assets
 - **2011-11-10 15:50**: test: verify question extraction script against exam PDF
 - **2011-11-10 16:38**: chore: format code style and clean up redundant variables
 - **2011-11-11 17:13**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2011-12-22 18:10**: fix: typo in Nepali road safety regulations question
 - **2011-12-23 22:09**: chore: update project metadata and build configuration
 - **2011-12-24 09:03**: feat: add result summary with passing threshold analysis
+- **2011-12-24 13:56**: feat: add search and filter by sign category
