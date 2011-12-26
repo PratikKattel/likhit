@@ -1,4 +1,3 @@
-- **2011-11-13 15:05**: fix: typo in Nepali road safety regulations question
 - **2011-11-13 18:41**: chore: organize assets and image directory structure
 - **2011-11-13 21:09**: perf: lazy load signal graphics and question assets
 - **2011-11-14 12:09**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2011-12-26 18:14**: feat: implement timer and score calculation for mock test
 - **2011-12-26 18:46**: style: polish typography and Nepali Unicode font rendering
 - **2011-12-26 21:21**: chore: format code style and clean up redundant variables
+- **2011-12-26 22:13**: chore: organize assets and image directory structure
