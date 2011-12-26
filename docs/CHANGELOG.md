@@ -1,4 +1,3 @@
-- **2011-11-11 17:13**: docs: add instructions for Nepali driving license written exam
 - **2011-11-12 09:40**: refactor: optimize SVG rendering for road signs
 - **2011-11-13 15:05**: fix: typo in Nepali road safety regulations question
 - **2011-11-13 18:41**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2011-12-24 13:56**: feat: add search and filter by sign category
 - **2011-12-25 14:03**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-26 18:14**: feat: implement timer and score calculation for mock test
+- **2011-12-26 18:46**: style: polish typography and Nepali Unicode font rendering
