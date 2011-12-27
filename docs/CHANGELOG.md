@@ -1,4 +1,3 @@
-- **2011-11-13 21:09**: perf: lazy load signal graphics and question assets
 - **2011-11-14 12:09**: refactor: modularize traffic app logic and event listeners
 - **2011-11-14 14:37**: feat: support multiple choice questions for motorcycle category
 - **2011-11-14 14:58**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2011-12-26 21:21**: chore: format code style and clean up redundant variables
 - **2011-12-26 22:13**: chore: organize assets and image directory structure
 - **2011-12-27 11:53**: feat: add search and filter by sign category
+- **2011-12-27 22:11**: docs: improve code comments and API documentation
