@@ -1,4 +1,3 @@
-- **2011-11-14 14:37**: feat: support multiple choice questions for motorcycle category
 - **2011-11-14 14:58**: feat: add instant feedback and explanation on answer selection
 - **2011-11-14 18:32**: perf: lazy load signal graphics and question assets
 - **2011-11-15 16:09**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2011-12-27 11:53**: feat: add search and filter by sign category
 - **2011-12-27 22:11**: docs: improve code comments and API documentation
 - **2011-12-28 17:43**: docs: update traffic signals catalog documentation
+- **2011-12-29 15:35**: feat: add category A and B traffic test questions
