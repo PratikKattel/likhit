@@ -1,4 +1,3 @@
-- **2011-11-15 16:09**: docs: update README with setup instructions and feature list
 - **2011-11-16 09:08**: fix: adjust passing score threshold according to new rules
 - **2011-11-16 11:18**: feat: add regulatory traffic signs SVG graphics
 - **2011-11-17 18:18**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2011-12-29 15:35**: feat: add category A and B traffic test questions
 - **2011-12-30 17:44**: chore: update questions database with recent DOTM updates
 - **2011-12-30 18:32**: chore: update project metadata and build configuration
+- **2011-12-31 10:06**: perf: optimize image caching for traffic sign assets
