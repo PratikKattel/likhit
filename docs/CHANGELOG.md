@@ -1,4 +1,3 @@
-- **2011-11-19 18:07**: fix: adjust passing score threshold according to new rules
 - **2011-11-20 16:51**: fix: typo in Nepali road safety regulations question
 - **2011-11-21 09:36**: feat: add result summary with passing threshold analysis
 - **2011-11-22 13:21**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-01-01 19:49**: fix: correct color specifications for mandatory traffic signs
 - **2012-01-02 09:05**: refactor: optimize SVG rendering for road signs
 - **2012-01-02 10:55**: docs: improve code comments and API documentation
+- **2012-01-02 17:59**: feat: support multiple choice questions for motorcycle category
