@@ -1,4 +1,3 @@
-- **2011-11-18 19:45**: chore: update project metadata and build configuration
 - **2011-11-19 10:45**: style: enhance traffic sign card layout and responsiveness
 - **2011-11-19 18:07**: fix: adjust passing score threshold according to new rules
 - **2011-11-20 16:51**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2011-12-31 17:16**: docs: add instructions for Nepali driving license written exam
 - **2012-01-01 19:07**: fix: update DOTM Nepal license syllabus questions
 - **2012-01-01 19:49**: fix: correct color specifications for mandatory traffic signs
+- **2012-01-02 09:05**: refactor: optimize SVG rendering for road signs
