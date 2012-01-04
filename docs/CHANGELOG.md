@@ -1,4 +1,3 @@
-- **2011-11-22 13:21**: chore: format code style and clean up redundant variables
 - **2011-11-22 14:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-11-22 21:57**: perf: index question IDs for rapid lookup
 - **2011-11-23 19:01**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2012-01-02 17:59**: feat: support multiple choice questions for motorcycle category
 - **2012-01-02 18:17**: feat: add instant feedback and explanation on answer selection
 - **2012-01-03 17:09**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-01-04 22:27**: refactor: restructure question data schema for faster loading
