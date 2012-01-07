@@ -1,4 +1,3 @@
-- **2011-11-24 17:27**: chore: format code style and clean up redundant variables
 - **2011-11-24 18:08**: docs: update README with setup instructions and feature list
 - **2011-11-24 19:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-11-24 19:34**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-01-05 14:05**: docs: update traffic signals catalog documentation
 - **2012-01-05 17:21**: chore: update project metadata and build configuration
 - **2012-01-06 20:27**: chore: organize assets and image directory structure
+- **2012-01-07 09:01**: feat: add search and filter by sign category
