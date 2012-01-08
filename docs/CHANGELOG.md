@@ -1,4 +1,3 @@
-- **2011-11-25 12:34**: chore: update questions database with recent DOTM updates
 - **2011-11-26 17:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-11-27 15:50**: refactor: restructure question data schema for faster loading
 - **2011-11-28 09:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-01-07 12:48**: feat: add warning signs and informational road signs
 - **2012-01-08 19:50**: perf: optimize image caching for traffic sign assets
 - **2012-01-08 20:32**: feat: add search and filter by sign category
+- **2012-01-08 22:23**: perf: index question IDs for rapid lookup
