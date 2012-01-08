@@ -1,4 +1,3 @@
-- **2011-11-24 19:34**: refactor: restructure question data schema for faster loading
 - **2011-11-25 10:59**: fix: resolve layout shift during question transitions
 - **2011-11-25 12:34**: chore: update questions database with recent DOTM updates
 - **2011-11-26 17:18**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-01-07 09:01**: feat: add search and filter by sign category
 - **2012-01-07 10:24**: docs: improve code comments and API documentation
 - **2012-01-07 12:48**: feat: add warning signs and informational road signs
+- **2012-01-08 19:50**: perf: optimize image caching for traffic sign assets
