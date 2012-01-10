@@ -1,4 +1,3 @@
-- **2011-11-27 15:50**: refactor: restructure question data schema for faster loading
 - **2011-11-28 09:18**: feat: add category-specific practice modes
 - **2011-11-28 09:48**: fix: typo in Nepali road safety regulations question
 - **2011-11-28 13:12**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-01-08 20:32**: feat: add search and filter by sign category
 - **2012-01-08 22:23**: perf: index question IDs for rapid lookup
 - **2012-01-09 10:21**: fix: prevent option re-selection after submitting answer
+- **2012-01-10 13:10**: docs: improve code comments and API documentation
