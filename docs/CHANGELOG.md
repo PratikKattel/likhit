@@ -1,4 +1,3 @@
-- **2011-11-29 15:37**: fix: correct color specifications for mandatory traffic signs
 - **2011-11-29 19:28**: fix: typo in Nepali road safety regulations question
 - **2011-11-30 15:03**: perf: lazy load signal graphics and question assets
 - **2011-11-30 17:08**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-01-11 16:55**: feat: add search and filter by sign category
 - **2012-01-11 17:51**: test: verify question extraction script against exam PDF
 - **2012-01-11 19:26**: fix: correct color specifications for mandatory traffic signs
+- **2012-01-11 20:27**: docs: update README with setup instructions and feature list
