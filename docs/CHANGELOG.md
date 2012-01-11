@@ -1,4 +1,3 @@
-- **2011-11-28 13:12**: fix: update DOTM Nepal license syllabus questions
 - **2011-11-29 15:37**: fix: correct color specifications for mandatory traffic signs
 - **2011-11-29 19:28**: fix: typo in Nepali road safety regulations question
 - **2011-11-30 15:03**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-01-10 13:10**: docs: improve code comments and API documentation
 - **2012-01-11 16:55**: feat: add search and filter by sign category
 - **2012-01-11 17:51**: test: verify question extraction script against exam PDF
+- **2012-01-11 19:26**: fix: correct color specifications for mandatory traffic signs
