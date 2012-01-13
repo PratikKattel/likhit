@@ -1,4 +1,3 @@
-- **2011-11-30 17:08**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-01 10:05**: feat: add warning signs and informational road signs
 - **2011-12-01 21:34**: chore: update project metadata and build configuration
 - **2011-12-02 16:19**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-01-11 20:27**: docs: update README with setup instructions and feature list
 - **2012-01-12 11:36**: perf: optimize image caching for traffic sign assets
 - **2012-01-12 20:23**: feat: add category-specific practice modes
+- **2012-01-13 13:27**: feat: add keyboard navigation shortcuts for question selection
