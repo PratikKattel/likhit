@@ -1,4 +1,3 @@
-- **2011-12-02 16:19**: docs: update traffic signals catalog documentation
 - **2011-12-02 17:21**: style: polish typography and Nepali Unicode font rendering
 - **2011-12-02 19:42**: docs: add instructions for Nepali driving license written exam
 - **2011-12-03 11:30**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-01-13 13:27**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-13 16:17**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-01-14 13:53**: fix: update DOTM Nepal license syllabus questions
+- **2012-01-14 14:18**: docs: update README with setup instructions and feature list
