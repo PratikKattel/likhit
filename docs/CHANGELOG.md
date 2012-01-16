@@ -1,4 +1,3 @@
-- **2011-12-03 11:30**: perf: lazy load signal graphics and question assets
 - **2011-12-04 17:50**: refactor: modularize traffic app logic and event listeners
 - **2011-12-04 21:57**: chore: update questions database with recent DOTM updates
 - **2011-12-05 22:24**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2012-01-14 14:18**: docs: update README with setup instructions and feature list
 - **2012-01-14 21:28**: feat: add category A and B traffic test questions
 - **2012-01-15 12:46**: perf: lazy load signal graphics and question assets
+- **2012-01-16 13:51**: fix: update DOTM Nepal license syllabus questions
