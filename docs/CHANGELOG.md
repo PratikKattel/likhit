@@ -1,4 +1,3 @@
-- **2011-12-04 21:57**: chore: update questions database with recent DOTM updates
 - **2011-12-05 22:24**: fix: typo in Nepali road safety regulations question
 - **2011-12-06 21:37**: fix: resolve layout shift during question transitions
 - **2011-12-07 12:29**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-01-15 12:46**: perf: lazy load signal graphics and question assets
 - **2012-01-16 13:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-01-16 22:04**: refactor: optimize SVG rendering for road signs
+- **2012-01-17 20:57**: fix: prevent option re-selection after submitting answer
