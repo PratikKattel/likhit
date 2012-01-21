@@ -1,4 +1,3 @@
-- **2011-12-07 14:36**: chore: update project metadata and build configuration
 - **2011-12-07 21:16**: docs: add instructions for Nepali driving license written exam
 - **2011-12-08 11:32**: refactor: restructure question data schema for faster loading
 - **2011-12-08 19:14**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-01-19 11:02**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-20 10:11**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-20 19:31**: feat: add category A and B traffic test questions
+- **2012-01-21 09:36**: fix: typo in Nepali road safety regulations question
