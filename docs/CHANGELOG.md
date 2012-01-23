@@ -1,4 +1,3 @@
-- **2011-12-08 19:14**: docs: update README with setup instructions and feature list
 - **2011-12-09 19:25**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-10 14:44**: feat: add instant feedback and explanation on answer selection
 - **2011-12-11 09:19**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-01-21 09:36**: fix: typo in Nepali road safety regulations question
 - **2012-01-21 17:28**: chore: update project metadata and build configuration
 - **2012-01-22 09:18**: fix: adjust passing score threshold according to new rules
+- **2012-01-23 11:26**: feat: add category-specific practice modes
