@@ -1,4 +1,3 @@
-- **2011-12-11 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2011-12-11 15:30**: feat: add instant feedback and explanation on answer selection
 - **2011-12-11 16:41**: fix: resolve layout shift during question transitions
 - **2011-12-12 12:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-01-23 11:26**: feat: add category-specific practice modes
 - **2012-01-23 12:03**: refactor: restructure question data schema for faster loading
 - **2012-01-23 14:13**: refactor: restructure question data schema for faster loading
+- **2012-01-24 19:36**: perf: optimize image caching for traffic sign assets
