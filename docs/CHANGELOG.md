@@ -1,4 +1,3 @@
-- **2011-12-11 16:41**: fix: resolve layout shift during question transitions
 - **2011-12-12 12:05**: perf: lazy load signal graphics and question assets
 - **2011-12-13 12:39**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-13 13:03**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-01-23 14:13**: refactor: restructure question data schema for faster loading
 - **2012-01-24 19:36**: perf: optimize image caching for traffic sign assets
 - **2012-01-25 19:37**: fix: adjust passing score threshold according to new rules
+- **2012-01-25 21:19**: feat: add search and filter by sign category
