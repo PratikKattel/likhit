@@ -1,4 +1,3 @@
-- **2011-12-13 13:03**: feat: support multiple choice questions for motorcycle category
 - **2011-12-13 18:52**: feat: add instant feedback and explanation on answer selection
 - **2011-12-13 21:48**: fix: typo in Nepali road safety regulations question
 - **2011-12-14 19:19**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2012-01-25 21:19**: feat: add search and filter by sign category
 - **2012-01-26 11:43**: fix: resolve layout shift during question transitions
 - **2012-01-26 18:22**: docs: update README with setup instructions and feature list
+- **2012-01-27 15:46**: refactor: modularize traffic app logic and event listeners
