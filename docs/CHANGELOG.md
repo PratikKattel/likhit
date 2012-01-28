@@ -1,4 +1,3 @@
-- **2011-12-13 21:48**: fix: typo in Nepali road safety regulations question
 - **2011-12-14 19:19**: fix: correct color specifications for mandatory traffic signs
 - **2011-12-15 15:31**: fix: prevent option re-selection after submitting answer
 - **2011-12-16 17:35**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2012-01-26 18:22**: docs: update README with setup instructions and feature list
 - **2012-01-27 15:46**: refactor: modularize traffic app logic and event listeners
 - **2012-01-27 21:17**: style: enhance traffic sign card layout and responsiveness
+- **2012-01-28 20:39**: feat: add regulatory traffic signs SVG graphics
