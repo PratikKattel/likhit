@@ -1,4 +1,3 @@
-- **2011-12-15 15:31**: fix: prevent option re-selection after submitting answer
 - **2011-12-16 17:35**: perf: optimize image caching for traffic sign assets
 - **2011-12-16 19:23**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-16 19:57**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-01-27 21:17**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-28 20:39**: feat: add regulatory traffic signs SVG graphics
 - **2012-01-29 09:35**: perf: index question IDs for rapid lookup
+- **2012-01-29 18:14**: style: polish typography and Nepali Unicode font rendering
