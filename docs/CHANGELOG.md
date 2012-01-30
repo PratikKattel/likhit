@@ -1,4 +1,3 @@
-- **2011-12-16 19:23**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-16 19:57**: feat: add category A and B traffic test questions
 - **2011-12-17 13:18**: docs: update traffic signals catalog documentation
 - **2011-12-18 14:08**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-01-29 09:35**: perf: index question IDs for rapid lookup
 - **2012-01-29 18:14**: style: polish typography and Nepali Unicode font rendering
 - **2012-01-30 09:48**: docs: improve code comments and API documentation
+- **2012-01-30 13:10**: style: enhance traffic sign card layout and responsiveness
