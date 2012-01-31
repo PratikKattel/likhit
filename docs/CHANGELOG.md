@@ -1,4 +1,3 @@
-- **2011-12-19 16:01**: chore: update questions database with recent DOTM updates
 - **2011-12-19 17:23**: chore: update questions database with recent DOTM updates
 - **2011-12-20 11:45**: chore: format code style and clean up redundant variables
 - **2011-12-21 16:36**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-01-30 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-31 16:41**: refactor: restructure question data schema for faster loading
 - **2012-01-31 17:58**: feat: add category-specific practice modes
+- **2012-01-31 19:30**: style: polish typography and Nepali Unicode font rendering
