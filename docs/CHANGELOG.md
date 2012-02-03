@@ -1,4 +1,3 @@
-- **2011-12-22 18:10**: fix: typo in Nepali road safety regulations question
 - **2011-12-23 22:09**: chore: update project metadata and build configuration
 - **2011-12-24 09:03**: feat: add result summary with passing threshold analysis
 - **2011-12-24 13:56**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-02-01 09:26**: fix: prevent option re-selection after submitting answer
 - **2012-02-01 22:28**: feat: add search and filter by sign category
 - **2012-02-02 20:07**: perf: lazy load signal graphics and question assets
+- **2012-02-03 11:08**: docs: update traffic signals catalog documentation
