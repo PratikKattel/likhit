@@ -1,4 +1,3 @@
-- **2011-12-25 14:03**: feat: add regulatory traffic signs SVG graphics
 - **2011-12-26 18:14**: feat: implement timer and score calculation for mock test
 - **2011-12-26 18:46**: style: polish typography and Nepali Unicode font rendering
 - **2011-12-26 21:21**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-02-04 09:20**: style: polish typography and Nepali Unicode font rendering
 - **2012-02-04 09:43**: feat: add result summary with passing threshold analysis
 - **2012-02-04 12:36**: fix: correct color specifications for mandatory traffic signs
+- **2012-02-05 11:17**: feat: add keyboard navigation shortcuts for question selection
