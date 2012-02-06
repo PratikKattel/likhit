@@ -1,4 +1,3 @@
-- **2011-12-26 18:46**: style: polish typography and Nepali Unicode font rendering
 - **2011-12-26 21:21**: chore: format code style and clean up redundant variables
 - **2011-12-26 22:13**: chore: organize assets and image directory structure
 - **2011-12-27 11:53**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-02-04 12:36**: fix: correct color specifications for mandatory traffic signs
 - **2012-02-05 11:17**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-05 11:57**: feat: add keyboard navigation shortcuts for question selection
+- **2012-02-06 10:24**: chore: update project metadata and build configuration
