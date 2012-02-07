@@ -1,4 +1,3 @@
-- **2011-12-26 22:13**: chore: organize assets and image directory structure
 - **2011-12-27 11:53**: feat: add search and filter by sign category
 - **2011-12-27 22:11**: docs: improve code comments and API documentation
 - **2011-12-28 17:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-02-05 11:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-06 10:24**: chore: update project metadata and build configuration
 - **2012-02-07 16:18**: chore: format code style and clean up redundant variables
+- **2012-02-07 18:39**: docs: improve code comments and API documentation
