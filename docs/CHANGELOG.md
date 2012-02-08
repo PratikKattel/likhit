@@ -1,4 +1,3 @@
-- **2011-12-27 11:53**: feat: add search and filter by sign category
 - **2011-12-27 22:11**: docs: improve code comments and API documentation
 - **2011-12-28 17:43**: docs: update traffic signals catalog documentation
 - **2011-12-29 15:35**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-02-06 10:24**: chore: update project metadata and build configuration
 - **2012-02-07 16:18**: chore: format code style and clean up redundant variables
 - **2012-02-07 18:39**: docs: improve code comments and API documentation
+- **2012-02-08 18:18**: style: improve dark/light mode and mobile UI responsiveness
