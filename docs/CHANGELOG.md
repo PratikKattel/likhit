@@ -1,4 +1,3 @@
-- **2011-12-30 17:44**: chore: update questions database with recent DOTM updates
 - **2011-12-30 18:32**: chore: update project metadata and build configuration
 - **2011-12-31 10:06**: perf: optimize image caching for traffic sign assets
 - **2011-12-31 17:16**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2012-02-08 22:23**: feat: add category-specific practice modes
 - **2012-02-09 13:59**: feat: implement timer and score calculation for mock test
 - **2012-02-09 21:33**: feat: add search and filter by sign category
+- **2012-02-10 15:48**: refactor: clean up unused CSS classes and optimize stylesheet
