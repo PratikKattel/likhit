@@ -1,4 +1,3 @@
-- **2012-01-01 19:07**: fix: update DOTM Nepal license syllabus questions
 - **2012-01-01 19:49**: fix: correct color specifications for mandatory traffic signs
 - **2012-01-02 09:05**: refactor: optimize SVG rendering for road signs
 - **2012-01-02 10:55**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-02-11 20:02**: refactor: modularize traffic app logic and event listeners
 - **2012-02-12 16:37**: perf: lazy load signal graphics and question assets
 - **2012-02-13 14:27**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-02-13 15:27**: docs: update README with setup instructions and feature list
