@@ -1,4 +1,3 @@
-- **2012-01-02 09:05**: refactor: optimize SVG rendering for road signs
 - **2012-01-02 10:55**: docs: improve code comments and API documentation
 - **2012-01-02 17:59**: feat: support multiple choice questions for motorcycle category
 - **2012-01-02 18:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2012-02-13 14:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-13 15:27**: docs: update README with setup instructions and feature list
 - **2012-02-14 13:22**: chore: format code style and clean up redundant variables
+- **2012-02-14 21:54**: feat: add regulatory traffic signs SVG graphics
