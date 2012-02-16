@@ -1,4 +1,3 @@
-- **2012-01-04 22:27**: refactor: restructure question data schema for faster loading
 - **2012-01-05 14:05**: docs: update traffic signals catalog documentation
 - **2012-01-05 17:21**: chore: update project metadata and build configuration
 - **2012-01-06 20:27**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2012-02-16 10:04**: docs: update README with setup instructions and feature list
 - **2012-02-16 10:42**: feat: add instant feedback and explanation on answer selection
 - **2012-02-16 10:50**: refactor: optimize SVG rendering for road signs
+- **2012-02-16 21:05**: chore: update questions database with recent DOTM updates
