@@ -1,4 +1,3 @@
-- **2012-01-02 18:17**: feat: add instant feedback and explanation on answer selection
 - **2012-01-03 17:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-01-04 22:27**: refactor: restructure question data schema for faster loading
 - **2012-01-05 14:05**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-02-14 21:54**: feat: add regulatory traffic signs SVG graphics
 - **2012-02-15 21:07**: docs: update traffic signals catalog documentation
 - **2012-02-16 10:04**: docs: update README with setup instructions and feature list
+- **2012-02-16 10:42**: feat: add instant feedback and explanation on answer selection
