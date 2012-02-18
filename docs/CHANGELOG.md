@@ -1,4 +1,3 @@
-- **2012-01-06 20:27**: chore: organize assets and image directory structure
 - **2012-01-07 09:01**: feat: add search and filter by sign category
 - **2012-01-07 10:24**: docs: improve code comments and API documentation
 - **2012-01-07 12:48**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-02-16 21:05**: chore: update questions database with recent DOTM updates
 - **2012-02-17 17:53**: refactor: restructure question data schema for faster loading
 - **2012-02-18 15:23**: perf: index question IDs for rapid lookup
+- **2012-02-18 21:24**: perf: optimize image caching for traffic sign assets
