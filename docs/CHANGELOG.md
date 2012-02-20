@@ -1,4 +1,3 @@
-- **2012-01-07 10:24**: docs: improve code comments and API documentation
 - **2012-01-07 12:48**: feat: add warning signs and informational road signs
 - **2012-01-08 19:50**: perf: optimize image caching for traffic sign assets
 - **2012-01-08 20:32**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-02-18 15:23**: perf: index question IDs for rapid lookup
 - **2012-02-18 21:24**: perf: optimize image caching for traffic sign assets
 - **2012-02-19 09:21**: feat: implement timer and score calculation for mock test
+- **2012-02-20 13:30**: style: improve dark/light mode and mobile UI responsiveness
