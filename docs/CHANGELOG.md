@@ -1,4 +1,3 @@
-- **2012-01-08 20:32**: feat: add search and filter by sign category
 - **2012-01-08 22:23**: perf: index question IDs for rapid lookup
 - **2012-01-09 10:21**: fix: prevent option re-selection after submitting answer
 - **2012-01-10 13:10**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-02-20 13:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-20 21:37**: fix: update DOTM Nepal license syllabus questions
 - **2012-02-21 11:53**: feat: add instant feedback and explanation on answer selection
+- **2012-02-21 13:45**: feat: add keyboard navigation shortcuts for question selection
