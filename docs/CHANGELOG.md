@@ -1,4 +1,3 @@
-- **2012-01-10 13:10**: docs: improve code comments and API documentation
 - **2012-01-11 16:55**: feat: add search and filter by sign category
 - **2012-01-11 17:51**: test: verify question extraction script against exam PDF
 - **2012-01-11 19:26**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2012-02-21 13:45**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-21 19:12**: feat: add regulatory traffic signs SVG graphics
 - **2012-02-21 19:47**: chore: update questions database with recent DOTM updates
+- **2012-02-22 15:33**: docs: add instructions for Nepali driving license written exam
