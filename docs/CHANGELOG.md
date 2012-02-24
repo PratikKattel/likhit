@@ -1,4 +1,3 @@
-- **2012-01-11 20:27**: docs: update README with setup instructions and feature list
 - **2012-01-12 11:36**: perf: optimize image caching for traffic sign assets
 - **2012-01-12 20:23**: feat: add category-specific practice modes
 - **2012-01-13 13:27**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-02-22 16:25**: fix: resolve layout shift during question transitions
 - **2012-02-23 13:50**: feat: add search and filter by sign category
 - **2012-02-24 09:13**: chore: update project metadata and build configuration
+- **2012-02-24 14:02**: fix: adjust passing score threshold according to new rules
