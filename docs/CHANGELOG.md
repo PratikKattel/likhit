@@ -1,4 +1,3 @@
-- **2012-01-13 16:17**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-01-14 13:53**: fix: update DOTM Nepal license syllabus questions
 - **2012-01-14 14:18**: docs: update README with setup instructions and feature list
 - **2012-01-14 21:28**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-02-25 14:41**: chore: update project metadata and build configuration
 - **2012-02-26 09:37**: refactor: restructure question data schema for faster loading
 - **2012-02-26 17:27**: fix: correct color specifications for mandatory traffic signs
+- **2012-02-26 18:48**: chore: update project metadata and build configuration
