@@ -1,4 +1,3 @@
-- **2012-01-12 20:23**: feat: add category-specific practice modes
 - **2012-01-13 13:27**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-13 16:17**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-01-14 13:53**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-02-24 09:13**: chore: update project metadata and build configuration
 - **2012-02-24 14:02**: fix: adjust passing score threshold according to new rules
 - **2012-02-25 14:41**: chore: update project metadata and build configuration
+- **2012-02-26 09:37**: refactor: restructure question data schema for faster loading
