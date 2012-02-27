@@ -1,4 +1,3 @@
-- **2012-01-14 14:18**: docs: update README with setup instructions and feature list
 - **2012-01-14 21:28**: feat: add category A and B traffic test questions
 - **2012-01-15 12:46**: perf: lazy load signal graphics and question assets
 - **2012-01-16 13:51**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-02-26 17:27**: fix: correct color specifications for mandatory traffic signs
 - **2012-02-26 18:48**: chore: update project metadata and build configuration
 - **2012-02-27 16:26**: docs: update traffic signals catalog documentation
+- **2012-02-27 22:16**: feat: implement timer and score calculation for mock test
