@@ -1,4 +1,3 @@
-- **2012-01-15 12:46**: perf: lazy load signal graphics and question assets
 - **2012-01-16 13:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-01-16 22:04**: refactor: optimize SVG rendering for road signs
 - **2012-01-17 20:57**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-02-27 16:26**: docs: update traffic signals catalog documentation
 - **2012-02-27 22:16**: feat: implement timer and score calculation for mock test
 - **2012-02-28 15:00**: docs: update README with setup instructions and feature list
+- **2012-02-29 11:18**: feat: add keyboard navigation shortcuts for question selection
