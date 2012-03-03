@@ -1,4 +1,3 @@
-- **2012-01-20 10:11**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-20 19:31**: feat: add category A and B traffic test questions
 - **2012-01-21 09:36**: fix: typo in Nepali road safety regulations question
 - **2012-01-21 17:28**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-03-01 16:30**: feat: implement timer and score calculation for mock test
 - **2012-03-01 16:41**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-02 13:50**: chore: update project metadata and build configuration
+- **2012-03-03 20:09**: perf: index question IDs for rapid lookup
