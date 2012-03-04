@@ -1,4 +1,3 @@
-- **2012-01-21 09:36**: fix: typo in Nepali road safety regulations question
 - **2012-01-21 17:28**: chore: update project metadata and build configuration
 - **2012-01-22 09:18**: fix: adjust passing score threshold according to new rules
 - **2012-01-23 11:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-03-02 13:50**: chore: update project metadata and build configuration
 - **2012-03-03 20:09**: perf: index question IDs for rapid lookup
 - **2012-03-04 16:10**: style: enhance traffic sign card layout and responsiveness
+- **2012-03-04 19:31**: refactor: modularize traffic app logic and event listeners
