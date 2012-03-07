@@ -1,4 +1,3 @@
-- **2012-01-23 14:13**: refactor: restructure question data schema for faster loading
 - **2012-01-24 19:36**: perf: optimize image caching for traffic sign assets
 - **2012-01-25 19:37**: fix: adjust passing score threshold according to new rules
 - **2012-01-25 21:19**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-03-05 15:32**: fix: adjust passing score threshold according to new rules
 - **2012-03-05 18:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-06 14:41**: docs: add instructions for Nepali driving license written exam
+- **2012-03-07 12:16**: perf: lazy load signal graphics and question assets
