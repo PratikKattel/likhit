@@ -1,4 +1,3 @@
-- **2012-01-25 19:37**: fix: adjust passing score threshold according to new rules
 - **2012-01-25 21:19**: feat: add search and filter by sign category
 - **2012-01-26 11:43**: fix: resolve layout shift during question transitions
 - **2012-01-26 18:22**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-03-06 14:41**: docs: add instructions for Nepali driving license written exam
 - **2012-03-07 12:16**: perf: lazy load signal graphics and question assets
 - **2012-03-08 21:13**: refactor: restructure question data schema for faster loading
+- **2012-03-09 13:47**: feat: add category A and B traffic test questions
