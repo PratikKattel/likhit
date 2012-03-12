@@ -1,4 +1,3 @@
-- **2012-01-29 18:14**: style: polish typography and Nepali Unicode font rendering
 - **2012-01-30 09:48**: docs: improve code comments and API documentation
 - **2012-01-30 13:10**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-30 17:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-03-11 21:56**: fix: update DOTM Nepal license syllabus questions
 - **2012-03-12 10:47**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2012-03-12 19:18**: feat: add keyboard navigation shortcuts for question selection
