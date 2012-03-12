@@ -1,4 +1,3 @@
-- **2012-01-30 09:48**: docs: improve code comments and API documentation
 - **2012-01-30 13:10**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-30 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-31 16:41**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-03-12 10:47**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-12 19:18**: feat: add keyboard navigation shortcuts for question selection
+- **2012-03-12 21:30**: feat: add warning signs and informational road signs
