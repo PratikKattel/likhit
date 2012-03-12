@@ -1,4 +1,3 @@
-- **2012-01-29 09:35**: perf: index question IDs for rapid lookup
 - **2012-01-29 18:14**: style: polish typography and Nepali Unicode font rendering
 - **2012-01-30 09:48**: docs: improve code comments and API documentation
 - **2012-01-30 13:10**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2012-03-11 21:35**: chore: format code style and clean up redundant variables
 - **2012-03-11 21:56**: fix: update DOTM Nepal license syllabus questions
 - **2012-03-12 10:47**: style: enhance traffic sign card layout and responsiveness
+- **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
