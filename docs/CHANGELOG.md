@@ -1,4 +1,3 @@
-- **2012-01-30 13:10**: style: enhance traffic sign card layout and responsiveness
 - **2012-01-30 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-31 16:41**: refactor: restructure question data schema for faster loading
 - **2012-01-31 17:58**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-12 19:18**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-12 21:30**: feat: add warning signs and informational road signs
+- **2012-03-13 12:35**: feat: add category-specific practice modes
