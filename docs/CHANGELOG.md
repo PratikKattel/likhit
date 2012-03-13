@@ -1,4 +1,3 @@
-- **2012-01-30 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-01-31 16:41**: refactor: restructure question data schema for faster loading
 - **2012-01-31 17:58**: feat: add category-specific practice modes
 - **2012-01-31 19:30**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-03-12 19:18**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-12 21:30**: feat: add warning signs and informational road signs
 - **2012-03-13 12:35**: feat: add category-specific practice modes
+- **2012-03-13 18:57**: fix: typo in Nepali road safety regulations question
