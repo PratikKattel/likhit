@@ -1,4 +1,3 @@
-- **2012-01-31 17:58**: feat: add category-specific practice modes
 - **2012-01-31 19:30**: style: polish typography and Nepali Unicode font rendering
 - **2012-02-01 09:26**: fix: prevent option re-selection after submitting answer
 - **2012-02-01 22:28**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-03-13 12:35**: feat: add category-specific practice modes
 - **2012-03-13 18:57**: fix: typo in Nepali road safety regulations question
 - **2012-03-14 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2012-03-15 18:44**: fix: prevent option re-selection after submitting answer
