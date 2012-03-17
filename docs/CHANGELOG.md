@@ -1,4 +1,3 @@
-- **2012-02-04 09:20**: style: polish typography and Nepali Unicode font rendering
 - **2012-02-04 09:43**: feat: add result summary with passing threshold analysis
 - **2012-02-04 12:36**: fix: correct color specifications for mandatory traffic signs
 - **2012-02-05 11:17**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-03-17 09:57**: fix: update DOTM Nepal license syllabus questions
 - **2012-03-17 16:11**: feat: add warning signs and informational road signs
 - **2012-03-17 18:13**: chore: organize assets and image directory structure
+- **2012-03-17 21:44**: style: improve dark/light mode and mobile UI responsiveness
