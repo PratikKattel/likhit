@@ -1,4 +1,3 @@
-- **2012-02-02 20:07**: perf: lazy load signal graphics and question assets
 - **2012-02-03 11:08**: docs: update traffic signals catalog documentation
 - **2012-02-04 09:20**: style: polish typography and Nepali Unicode font rendering
 - **2012-02-04 09:43**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-03-15 20:19**: feat: add regulatory traffic signs SVG graphics
 - **2012-03-16 13:51**: chore: organize assets and image directory structure
 - **2012-03-17 09:57**: fix: update DOTM Nepal license syllabus questions
+- **2012-03-17 16:11**: feat: add warning signs and informational road signs
