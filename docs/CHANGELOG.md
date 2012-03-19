@@ -1,4 +1,3 @@
-- **2012-02-05 11:17**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-05 11:57**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-06 10:24**: chore: update project metadata and build configuration
 - **2012-02-07 16:18**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-03-17 21:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-18 15:25**: docs: add instructions for Nepali driving license written exam
 - **2012-03-18 21:14**: refactor: optimize SVG rendering for road signs
+- **2012-03-19 21:17**: docs: add instructions for Nepali driving license written exam
