@@ -1,4 +1,3 @@
-- **2012-02-07 16:18**: chore: format code style and clean up redundant variables
 - **2012-02-07 18:39**: docs: improve code comments and API documentation
 - **2012-02-08 18:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-08 22:23**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-03-19 21:17**: docs: add instructions for Nepali driving license written exam
 - **2012-03-20 09:49**: feat: add instant feedback and explanation on answer selection
 - **2012-03-21 10:37**: style: enhance traffic sign card layout and responsiveness
+- **2012-03-21 22:29**: test: verify question extraction script against exam PDF
