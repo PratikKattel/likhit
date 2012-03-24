@@ -1,4 +1,3 @@
-- **2012-02-08 22:23**: feat: add category-specific practice modes
 - **2012-02-09 13:59**: feat: implement timer and score calculation for mock test
 - **2012-02-09 21:33**: feat: add search and filter by sign category
 - **2012-02-10 15:48**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-03-21 22:29**: test: verify question extraction script against exam PDF
 - **2012-03-22 14:07**: docs: improve code comments and API documentation
 - **2012-03-23 17:54**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-03-24 20:52**: feat: add search and filter by sign category
