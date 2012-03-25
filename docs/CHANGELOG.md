@@ -1,4 +1,3 @@
-- **2012-02-09 21:33**: feat: add search and filter by sign category
 - **2012-02-10 15:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-02-11 20:02**: refactor: modularize traffic app logic and event listeners
 - **2012-02-12 16:37**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-03-23 17:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-24 20:52**: feat: add search and filter by sign category
 - **2012-03-25 09:45**: feat: add regulatory traffic signs SVG graphics
+- **2012-03-25 15:21**: feat: support multiple choice questions for motorcycle category
