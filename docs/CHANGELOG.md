@@ -1,4 +1,3 @@
-- **2012-02-11 20:02**: refactor: modularize traffic app logic and event listeners
 - **2012-02-12 16:37**: perf: lazy load signal graphics and question assets
 - **2012-02-13 14:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-13 15:27**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-03-25 09:45**: feat: add regulatory traffic signs SVG graphics
 - **2012-03-25 15:21**: feat: support multiple choice questions for motorcycle category
 - **2012-03-26 13:02**: feat: add keyboard navigation shortcuts for question selection
+- **2012-03-27 09:54**: feat: add category-specific practice modes
