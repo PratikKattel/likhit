@@ -1,4 +1,3 @@
-- **2012-02-13 14:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-13 15:27**: docs: update README with setup instructions and feature list
 - **2012-02-14 13:22**: chore: format code style and clean up redundant variables
 - **2012-02-14 21:54**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-03-26 13:02**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-27 09:54**: feat: add category-specific practice modes
 - **2012-03-27 11:01**: chore: organize assets and image directory structure
+- **2012-03-27 13:41**: refactor: optimize SVG rendering for road signs
