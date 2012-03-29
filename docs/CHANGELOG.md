@@ -1,4 +1,3 @@
-- **2012-02-14 13:22**: chore: format code style and clean up redundant variables
 - **2012-02-14 21:54**: feat: add regulatory traffic signs SVG graphics
 - **2012-02-15 21:07**: docs: update traffic signals catalog documentation
 - **2012-02-16 10:04**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-03-27 11:01**: chore: organize assets and image directory structure
 - **2012-03-27 13:41**: refactor: optimize SVG rendering for road signs
 - **2012-03-28 14:18**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-03-29 22:14**: docs: update README with setup instructions and feature list
