@@ -1,4 +1,3 @@
-- **2012-02-15 21:07**: docs: update traffic signals catalog documentation
 - **2012-02-16 10:04**: docs: update README with setup instructions and feature list
 - **2012-02-16 10:42**: feat: add instant feedback and explanation on answer selection
 - **2012-02-16 10:50**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-03-28 14:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-29 22:14**: docs: update README with setup instructions and feature list
 - **2012-03-30 11:31**: docs: improve code comments and API documentation
+- **2012-03-30 12:03**: docs: improve code comments and API documentation
