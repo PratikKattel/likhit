@@ -1,4 +1,3 @@
-- **2012-02-16 10:42**: feat: add instant feedback and explanation on answer selection
 - **2012-02-16 10:50**: refactor: optimize SVG rendering for road signs
 - **2012-02-16 21:05**: chore: update questions database with recent DOTM updates
 - **2012-02-17 17:53**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-03-30 11:31**: docs: improve code comments and API documentation
 - **2012-03-30 12:03**: docs: improve code comments and API documentation
 - **2012-03-30 17:13**: feat: add instant feedback and explanation on answer selection
+- **2012-03-31 14:02**: perf: lazy load signal graphics and question assets
