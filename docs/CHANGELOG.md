@@ -1,4 +1,3 @@
-- **2012-02-18 21:24**: perf: optimize image caching for traffic sign assets
 - **2012-02-19 09:21**: feat: implement timer and score calculation for mock test
 - **2012-02-20 13:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-02-20 21:37**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-04-02 18:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-02 19:50**: perf: lazy load signal graphics and question assets
 - **2012-04-02 20:13**: style: polish typography and Nepali Unicode font rendering
+- **2012-04-03 16:27**: style: improve dark/light mode and mobile UI responsiveness
