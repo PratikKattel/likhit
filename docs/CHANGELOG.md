@@ -1,4 +1,3 @@
-- **2012-02-21 11:53**: feat: add instant feedback and explanation on answer selection
 - **2012-02-21 13:45**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-21 19:12**: feat: add regulatory traffic signs SVG graphics
 - **2012-02-21 19:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2012-04-03 19:39**: docs: improve code comments and API documentation
 - **2012-04-04 11:47**: feat: add warning signs and informational road signs
 - **2012-04-04 19:45**: feat: add warning signs and informational road signs
+- **2012-04-05 14:39**: fix: prevent option re-selection after submitting answer
