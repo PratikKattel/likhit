@@ -1,4 +1,3 @@
-- **2012-02-21 13:45**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-21 19:12**: feat: add regulatory traffic signs SVG graphics
 - **2012-02-21 19:47**: chore: update questions database with recent DOTM updates
 - **2012-02-22 15:33**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2012-04-04 11:47**: feat: add warning signs and informational road signs
 - **2012-04-04 19:45**: feat: add warning signs and informational road signs
 - **2012-04-05 14:39**: fix: prevent option re-selection after submitting answer
+- **2012-04-06 09:24**: fix: update DOTM Nepal license syllabus questions
