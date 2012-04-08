@@ -1,4 +1,3 @@
-- **2012-02-23 13:50**: feat: add search and filter by sign category
 - **2012-02-24 09:13**: chore: update project metadata and build configuration
 - **2012-02-24 14:02**: fix: adjust passing score threshold according to new rules
 - **2012-02-25 14:41**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-04-07 20:20**: refactor: restructure question data schema for faster loading
 - **2012-04-08 14:36**: feat: support multiple choice questions for motorcycle category
 - **2012-04-08 18:44**: docs: update README with setup instructions and feature list
+- **2012-04-08 21:14**: refactor: restructure question data schema for faster loading
