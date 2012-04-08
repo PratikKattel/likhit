@@ -1,4 +1,3 @@
-- **2012-02-22 15:33**: docs: add instructions for Nepali driving license written exam
 - **2012-02-22 16:25**: fix: resolve layout shift during question transitions
 - **2012-02-23 13:50**: feat: add search and filter by sign category
 - **2012-02-24 09:13**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-04-06 09:24**: fix: update DOTM Nepal license syllabus questions
 - **2012-04-07 09:27**: chore: organize assets and image directory structure
 - **2012-04-07 20:20**: refactor: restructure question data schema for faster loading
+- **2012-04-08 14:36**: feat: support multiple choice questions for motorcycle category
