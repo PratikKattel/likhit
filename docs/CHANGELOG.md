@@ -1,4 +1,3 @@
-- **2012-02-26 09:37**: refactor: restructure question data schema for faster loading
 - **2012-02-26 17:27**: fix: correct color specifications for mandatory traffic signs
 - **2012-02-26 18:48**: chore: update project metadata and build configuration
 - **2012-02-27 16:26**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-04-09 09:15**: fix: adjust passing score threshold according to new rules
 - **2012-04-09 10:05**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-10 12:19**: fix: resolve layout shift during question transitions
+- **2012-04-10 14:29**: chore: organize assets and image directory structure
