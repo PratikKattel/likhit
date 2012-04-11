@@ -1,4 +1,3 @@
-- **2012-02-26 18:48**: chore: update project metadata and build configuration
 - **2012-02-27 16:26**: docs: update traffic signals catalog documentation
 - **2012-02-27 22:16**: feat: implement timer and score calculation for mock test
 - **2012-02-28 15:00**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-04-10 12:19**: fix: resolve layout shift during question transitions
 - **2012-04-10 14:29**: chore: organize assets and image directory structure
 - **2012-04-10 17:14**: feat: add instant feedback and explanation on answer selection
+- **2012-04-11 11:20**: feat: implement timer and score calculation for mock test
