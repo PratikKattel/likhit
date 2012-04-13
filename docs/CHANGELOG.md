@@ -1,4 +1,3 @@
-- **2012-02-28 15:00**: docs: update README with setup instructions and feature list
 - **2012-02-29 11:18**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-29 14:39**: feat: add keyboard navigation shortcuts for question selection
 - **2012-02-29 18:31**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-04-11 11:20**: feat: implement timer and score calculation for mock test
 - **2012-04-11 15:41**: docs: update traffic signals catalog documentation
 - **2012-04-12 13:56**: feat: add warning signs and informational road signs
+- **2012-04-13 13:14**: chore: update questions database with recent DOTM updates
