@@ -1,4 +1,3 @@
-- **2012-02-29 18:31**: refactor: optimize SVG rendering for road signs
 - **2012-03-01 16:30**: feat: implement timer and score calculation for mock test
 - **2012-03-01 16:41**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-02 13:50**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-04-13 13:14**: chore: update questions database with recent DOTM updates
 - **2012-04-13 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-04-13 19:05**: feat: implement timer and score calculation for mock test
+- **2012-04-14 12:34**: feat: add regulatory traffic signs SVG graphics
