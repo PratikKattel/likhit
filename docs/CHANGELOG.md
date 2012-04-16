@@ -1,4 +1,3 @@
-- **2012-03-04 16:10**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-04 19:31**: refactor: modularize traffic app logic and event listeners
 - **2012-03-05 14:51**: refactor: optimize SVG rendering for road signs
 - **2012-03-05 15:32**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2012-04-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2012-04-16 12:35**: feat: support multiple choice questions for motorcycle category
 - **2012-04-16 14:13**: feat: add instant feedback and explanation on answer selection
+- **2012-04-16 16:53**: style: improve dark/light mode and mobile UI responsiveness
