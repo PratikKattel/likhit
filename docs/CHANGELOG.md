@@ -1,4 +1,3 @@
-- **2012-03-03 20:09**: perf: index question IDs for rapid lookup
 - **2012-03-04 16:10**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-04 19:31**: refactor: modularize traffic app logic and event listeners
 - **2012-03-05 14:51**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-04-15 16:17**: feat: add result summary with passing threshold analysis
 - **2012-04-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2012-04-16 12:35**: feat: support multiple choice questions for motorcycle category
+- **2012-04-16 14:13**: feat: add instant feedback and explanation on answer selection
