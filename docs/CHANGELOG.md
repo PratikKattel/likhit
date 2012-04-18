@@ -1,4 +1,3 @@
-- **2012-03-05 15:32**: fix: adjust passing score threshold according to new rules
 - **2012-03-05 18:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-06 14:41**: docs: add instructions for Nepali driving license written exam
 - **2012-03-07 12:16**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-04-16 16:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-16 20:52**: chore: update project metadata and build configuration
 - **2012-04-17 17:16**: feat: implement timer and score calculation for mock test
+- **2012-04-18 14:50**: refactor: clean up unused CSS classes and optimize stylesheet
