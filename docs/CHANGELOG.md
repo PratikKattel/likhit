@@ -1,4 +1,3 @@
-- **2012-03-06 14:41**: docs: add instructions for Nepali driving license written exam
 - **2012-03-07 12:16**: perf: lazy load signal graphics and question assets
 - **2012-03-08 21:13**: refactor: restructure question data schema for faster loading
 - **2012-03-09 13:47**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-04-17 17:16**: feat: implement timer and score calculation for mock test
 - **2012-04-18 14:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-04-18 17:41**: fix: typo in Nepali road safety regulations question
+- **2012-04-19 13:36**: refactor: restructure question data schema for faster loading
