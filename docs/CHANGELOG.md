@@ -1,4 +1,3 @@
-- **2012-03-09 13:47**: feat: add category A and B traffic test questions
 - **2012-03-10 20:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-11 20:43**: fix: prevent option re-selection after submitting answer
 - **2012-03-11 20:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-04-19 13:36**: refactor: restructure question data schema for faster loading
 - **2012-04-19 21:36**: fix: typo in Nepali road safety regulations question
 - **2012-04-20 20:09**: fix: update DOTM Nepal license syllabus questions
+- **2012-04-21 09:45**: docs: improve code comments and API documentation
