@@ -1,4 +1,3 @@
-- **2012-03-11 20:43**: fix: prevent option re-selection after submitting answer
 - **2012-03-11 20:47**: fix: prevent option re-selection after submitting answer
 - **2012-03-11 21:35**: chore: format code style and clean up redundant variables
 - **2012-03-11 21:56**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-04-20 20:09**: fix: update DOTM Nepal license syllabus questions
 - **2012-04-21 09:45**: docs: improve code comments and API documentation
 - **2012-04-21 11:37**: chore: format code style and clean up redundant variables
+- **2012-04-22 10:45**: docs: update README with setup instructions and feature list
