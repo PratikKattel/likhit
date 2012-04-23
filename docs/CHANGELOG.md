@@ -1,4 +1,3 @@
-- **2012-03-11 21:35**: chore: format code style and clean up redundant variables
 - **2012-03-11 21:56**: fix: update DOTM Nepal license syllabus questions
 - **2012-03-12 10:47**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-04-21 11:37**: chore: format code style and clean up redundant variables
 - **2012-04-22 10:45**: docs: update README with setup instructions and feature list
 - **2012-04-22 12:43**: feat: add warning signs and informational road signs
+- **2012-04-23 12:58**: style: enhance traffic sign card layout and responsiveness
