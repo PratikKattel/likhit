@@ -1,4 +1,3 @@
-- **2012-03-12 10:47**: style: enhance traffic sign card layout and responsiveness
 - **2012-03-12 18:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-03-12 19:18**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-12 21:30**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-04-22 12:43**: feat: add warning signs and informational road signs
 - **2012-04-23 12:58**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-24 11:32**: fix: typo in Nepali road safety regulations question
+- **2012-04-25 21:37**: chore: format code style and clean up redundant variables
