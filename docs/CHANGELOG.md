@@ -1,4 +1,3 @@
-- **2012-03-12 21:30**: feat: add warning signs and informational road signs
 - **2012-03-13 12:35**: feat: add category-specific practice modes
 - **2012-03-13 18:57**: fix: typo in Nepali road safety regulations question
 - **2012-03-14 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-04-25 21:37**: chore: format code style and clean up redundant variables
 - **2012-04-26 10:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-26 15:25**: style: enhance traffic sign card layout and responsiveness
+- **2012-04-26 17:10**: style: improve dark/light mode and mobile UI responsiveness
