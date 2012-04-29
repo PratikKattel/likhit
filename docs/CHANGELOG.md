@@ -1,4 +1,3 @@
-- **2012-03-15 18:44**: fix: prevent option re-selection after submitting answer
 - **2012-03-15 20:19**: feat: add regulatory traffic signs SVG graphics
 - **2012-03-16 13:51**: chore: organize assets and image directory structure
 - **2012-03-17 09:57**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-04-27 16:40**: feat: add category A and B traffic test questions
 - **2012-04-27 19:31**: feat: add search and filter by sign category
 - **2012-04-28 15:00**: fix: typo in Nepali road safety regulations question
+- **2012-04-29 11:02**: feat: add category A and B traffic test questions
