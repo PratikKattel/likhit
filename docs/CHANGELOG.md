@@ -1,4 +1,3 @@
-- **2012-03-16 13:51**: chore: organize assets and image directory structure
 - **2012-03-17 09:57**: fix: update DOTM Nepal license syllabus questions
 - **2012-03-17 16:11**: feat: add warning signs and informational road signs
 - **2012-03-17 18:13**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2012-04-28 15:00**: fix: typo in Nepali road safety regulations question
 - **2012-04-29 11:02**: feat: add category A and B traffic test questions
 - **2012-04-29 20:43**: fix: correct color specifications for mandatory traffic signs
+- **2012-04-30 09:11**: refactor: restructure question data schema for faster loading
