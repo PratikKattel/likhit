@@ -1,4 +1,3 @@
-- **2012-03-17 16:11**: feat: add warning signs and informational road signs
 - **2012-03-17 18:13**: chore: organize assets and image directory structure
 - **2012-03-17 21:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-18 15:25**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2012-04-29 20:43**: fix: correct color specifications for mandatory traffic signs
 - **2012-04-30 09:11**: refactor: restructure question data schema for faster loading
 - **2012-04-30 11:57**: fix: prevent option re-selection after submitting answer
+- **2012-05-01 11:13**: feat: add warning signs and informational road signs
