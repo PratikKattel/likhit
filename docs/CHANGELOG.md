@@ -1,4 +1,3 @@
-- **2012-03-18 21:14**: refactor: optimize SVG rendering for road signs
 - **2012-03-19 21:17**: docs: add instructions for Nepali driving license written exam
 - **2012-03-20 09:49**: feat: add instant feedback and explanation on answer selection
 - **2012-03-21 10:37**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2012-05-01 12:08**: fix: update DOTM Nepal license syllabus questions
 - **2012-05-02 18:55**: feat: add regulatory traffic signs SVG graphics
 - **2012-05-02 19:11**: feat: implement timer and score calculation for mock test
+- **2012-05-03 20:28**: fix: adjust passing score threshold according to new rules
