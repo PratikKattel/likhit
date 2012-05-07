@@ -1,4 +1,3 @@
-- **2012-03-22 14:07**: docs: improve code comments and API documentation
 - **2012-03-23 17:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-24 20:52**: feat: add search and filter by sign category
 - **2012-03-25 09:45**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-05-05 11:24**: perf: optimize image caching for traffic sign assets
 - **2012-05-06 12:34**: feat: add instant feedback and explanation on answer selection
 - **2012-05-06 17:16**: docs: update README with setup instructions and feature list
+- **2012-05-07 18:50**: refactor: modularize traffic app logic and event listeners
