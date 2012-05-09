@@ -1,4 +1,3 @@
-- **2012-03-25 09:45**: feat: add regulatory traffic signs SVG graphics
 - **2012-03-25 15:21**: feat: support multiple choice questions for motorcycle category
 - **2012-03-26 13:02**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-27 09:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-05-07 18:50**: refactor: modularize traffic app logic and event listeners
 - **2012-05-08 13:13**: feat: support multiple choice questions for motorcycle category
 - **2012-05-08 18:48**: docs: update README with setup instructions and feature list
+- **2012-05-09 09:41**: feat: add keyboard navigation shortcuts for question selection
