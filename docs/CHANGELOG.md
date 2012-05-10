@@ -1,4 +1,3 @@
-- **2012-03-26 13:02**: feat: add keyboard navigation shortcuts for question selection
 - **2012-03-27 09:54**: feat: add category-specific practice modes
 - **2012-03-27 11:01**: chore: organize assets and image directory structure
 - **2012-03-27 13:41**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-05-08 18:48**: docs: update README with setup instructions and feature list
 - **2012-05-09 09:41**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-09 17:38**: feat: add search and filter by sign category
+- **2012-05-10 09:22**: test: verify question extraction script against exam PDF
