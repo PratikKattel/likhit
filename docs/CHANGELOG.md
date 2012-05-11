@@ -1,4 +1,3 @@
-- **2012-03-28 14:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-29 22:14**: docs: update README with setup instructions and feature list
 - **2012-03-30 11:31**: docs: improve code comments and API documentation
 - **2012-03-30 12:03**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-05-10 18:04**: docs: add instructions for Nepali driving license written exam
 - **2012-05-11 12:30**: feat: add instant feedback and explanation on answer selection
 - **2012-05-11 15:38**: chore: update questions database with recent DOTM updates
+- **2012-05-11 21:13**: feat: add keyboard navigation shortcuts for question selection
