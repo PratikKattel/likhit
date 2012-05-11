@@ -1,4 +1,3 @@
-- **2012-03-27 11:01**: chore: organize assets and image directory structure
 - **2012-03-27 13:41**: refactor: optimize SVG rendering for road signs
 - **2012-03-28 14:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-03-29 22:14**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-05-09 17:38**: feat: add search and filter by sign category
 - **2012-05-10 09:22**: test: verify question extraction script against exam PDF
 - **2012-05-10 18:04**: docs: add instructions for Nepali driving license written exam
+- **2012-05-11 12:30**: feat: add instant feedback and explanation on answer selection
