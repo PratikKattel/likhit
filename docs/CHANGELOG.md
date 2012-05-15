@@ -1,4 +1,3 @@
-- **2012-03-30 17:13**: feat: add instant feedback and explanation on answer selection
 - **2012-03-31 14:02**: perf: lazy load signal graphics and question assets
 - **2012-04-01 09:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-02 18:13**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-05-12 20:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-05-13 16:11**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-14 16:28**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-05-15 15:41**: feat: support multiple choice questions for motorcycle category
