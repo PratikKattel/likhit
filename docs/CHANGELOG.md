@@ -1,4 +1,3 @@
-- **2012-04-02 19:50**: perf: lazy load signal graphics and question assets
 - **2012-04-02 20:13**: style: polish typography and Nepali Unicode font rendering
 - **2012-04-03 16:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-03 19:39**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-05-15 20:38**: fix: prevent option re-selection after submitting answer
 - **2012-05-16 11:48**: fix: correct color specifications for mandatory traffic signs
 - **2012-05-16 15:29**: feat: add warning signs and informational road signs
+- **2012-05-16 16:04**: chore: organize assets and image directory structure
