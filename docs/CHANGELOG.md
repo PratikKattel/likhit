@@ -1,4 +1,3 @@
-- **2012-04-01 09:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-02 18:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-02 19:50**: perf: lazy load signal graphics and question assets
 - **2012-04-02 20:13**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-05-14 16:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-15 15:41**: feat: support multiple choice questions for motorcycle category
 - **2012-05-15 20:38**: fix: prevent option re-selection after submitting answer
+- **2012-05-16 11:48**: fix: correct color specifications for mandatory traffic signs
