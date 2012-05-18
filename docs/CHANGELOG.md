@@ -1,4 +1,3 @@
-- **2012-04-03 19:39**: docs: improve code comments and API documentation
 - **2012-04-04 11:47**: feat: add warning signs and informational road signs
 - **2012-04-04 19:45**: feat: add warning signs and informational road signs
 - **2012-04-05 14:39**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-05-16 16:04**: chore: organize assets and image directory structure
 - **2012-05-17 10:08**: fix: typo in Nepali road safety regulations question
 - **2012-05-17 13:53**: fix: resolve layout shift during question transitions
+- **2012-05-18 15:21**: feat: support multiple choice questions for motorcycle category
