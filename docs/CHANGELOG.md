@@ -1,4 +1,3 @@
-- **2012-04-04 11:47**: feat: add warning signs and informational road signs
 - **2012-04-04 19:45**: feat: add warning signs and informational road signs
 - **2012-04-05 14:39**: fix: prevent option re-selection after submitting answer
 - **2012-04-06 09:24**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-05-17 10:08**: fix: typo in Nepali road safety regulations question
 - **2012-05-17 13:53**: fix: resolve layout shift during question transitions
 - **2012-05-18 15:21**: feat: support multiple choice questions for motorcycle category
+- **2012-05-19 13:44**: style: improve dark/light mode and mobile UI responsiveness
