@@ -1,4 +1,3 @@
-- **2012-04-05 14:39**: fix: prevent option re-selection after submitting answer
 - **2012-04-06 09:24**: fix: update DOTM Nepal license syllabus questions
 - **2012-04-07 09:27**: chore: organize assets and image directory structure
 - **2012-04-07 20:20**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-05-18 15:21**: feat: support multiple choice questions for motorcycle category
 - **2012-05-19 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-20 21:53**: docs: update traffic signals catalog documentation
+- **2012-05-21 09:28**: perf: index question IDs for rapid lookup
