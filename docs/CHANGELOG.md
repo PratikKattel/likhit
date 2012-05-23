@@ -1,4 +1,3 @@
-- **2012-04-07 20:20**: refactor: restructure question data schema for faster loading
 - **2012-04-08 14:36**: feat: support multiple choice questions for motorcycle category
 - **2012-04-08 18:44**: docs: update README with setup instructions and feature list
 - **2012-04-08 21:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-05-21 09:28**: perf: index question IDs for rapid lookup
 - **2012-05-21 15:01**: refactor: modularize traffic app logic and event listeners
 - **2012-05-22 13:18**: feat: add category A and B traffic test questions
+- **2012-05-23 15:15**: style: improve dark/light mode and mobile UI responsiveness
