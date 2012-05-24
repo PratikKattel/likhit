@@ -1,4 +1,3 @@
-- **2012-04-08 21:14**: refactor: restructure question data schema for faster loading
 - **2012-04-09 09:15**: fix: adjust passing score threshold according to new rules
 - **2012-04-09 10:05**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-10 12:19**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2012-05-23 15:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-23 16:27**: refactor: optimize SVG rendering for road signs
 - **2012-05-23 21:01**: refactor: optimize SVG rendering for road signs
+- **2012-05-24 17:34**: feat: add instant feedback and explanation on answer selection
