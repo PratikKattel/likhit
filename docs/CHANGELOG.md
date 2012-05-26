@@ -1,4 +1,3 @@
-- **2012-04-09 10:05**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-10 12:19**: fix: resolve layout shift during question transitions
 - **2012-04-10 14:29**: chore: organize assets and image directory structure
 - **2012-04-10 17:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2012-05-23 21:01**: refactor: optimize SVG rendering for road signs
 - **2012-05-24 17:34**: feat: add instant feedback and explanation on answer selection
 - **2012-05-25 09:16**: feat: support multiple choice questions for motorcycle category
+- **2012-05-26 15:55**: docs: improve code comments and API documentation
