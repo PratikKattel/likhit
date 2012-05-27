@@ -1,4 +1,3 @@
-- **2012-04-11 11:20**: feat: implement timer and score calculation for mock test
 - **2012-04-11 15:41**: docs: update traffic signals catalog documentation
 - **2012-04-12 13:56**: feat: add warning signs and informational road signs
 - **2012-04-13 13:14**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2012-05-26 16:03**: perf: lazy load signal graphics and question assets
 - **2012-05-27 15:25**: refactor: restructure question data schema for faster loading
 - **2012-05-27 16:03**: perf: optimize image caching for traffic sign assets
+- **2012-05-27 18:58**: feat: add category A and B traffic test questions
