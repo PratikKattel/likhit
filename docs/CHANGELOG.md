@@ -1,4 +1,3 @@
-- **2012-04-13 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-04-13 19:05**: feat: implement timer and score calculation for mock test
 - **2012-04-14 12:34**: feat: add regulatory traffic signs SVG graphics
 - **2012-04-15 16:17**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-05-28 15:34**: refactor: restructure question data schema for faster loading
 - **2012-05-28 16:45**: test: verify question extraction script against exam PDF
 - **2012-05-29 15:33**: feat: add keyboard navigation shortcuts for question selection
+- **2012-05-30 17:45**: perf: index question IDs for rapid lookup
