@@ -1,4 +1,3 @@
-- **2012-04-14 12:34**: feat: add regulatory traffic signs SVG graphics
 - **2012-04-15 16:17**: feat: add result summary with passing threshold analysis
 - **2012-04-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2012-04-16 12:35**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-05-29 15:33**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-30 17:45**: perf: index question IDs for rapid lookup
 - **2012-05-31 15:27**: docs: improve code comments and API documentation
+- **2012-05-31 15:58**: style: improve dark/light mode and mobile UI responsiveness
