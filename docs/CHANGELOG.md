@@ -1,4 +1,3 @@
-- **2012-04-16 14:13**: feat: add instant feedback and explanation on answer selection
 - **2012-04-16 16:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-16 20:52**: chore: update project metadata and build configuration
 - **2012-04-17 17:16**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-06-01 21:58**: chore: organize assets and image directory structure
 - **2012-06-02 20:10**: test: verify question extraction script against exam PDF
 - **2012-06-02 20:32**: docs: improve code comments and API documentation
+- **2012-06-02 21:57**: fix: correct color specifications for mandatory traffic signs
