@@ -1,4 +1,3 @@
-- **2012-04-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2012-04-16 12:35**: feat: support multiple choice questions for motorcycle category
 - **2012-04-16 14:13**: feat: add instant feedback and explanation on answer selection
 - **2012-04-16 16:53**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-05-31 15:27**: docs: improve code comments and API documentation
 - **2012-05-31 15:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-06-01 21:58**: chore: organize assets and image directory structure
+- **2012-06-02 20:10**: test: verify question extraction script against exam PDF
