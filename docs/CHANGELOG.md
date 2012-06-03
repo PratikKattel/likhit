@@ -1,4 +1,3 @@
-- **2012-04-16 20:52**: chore: update project metadata and build configuration
 - **2012-04-17 17:16**: feat: implement timer and score calculation for mock test
 - **2012-04-18 14:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-04-18 17:41**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2012-06-02 20:32**: docs: improve code comments and API documentation
 - **2012-06-02 21:57**: fix: correct color specifications for mandatory traffic signs
 - **2012-06-03 09:00**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-06-03 14:44**: chore: update questions database with recent DOTM updates
