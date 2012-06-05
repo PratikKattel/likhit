@@ -1,4 +1,3 @@
-- **2012-04-18 17:41**: fix: typo in Nepali road safety regulations question
 - **2012-04-19 13:36**: refactor: restructure question data schema for faster loading
 - **2012-04-19 21:36**: fix: typo in Nepali road safety regulations question
 - **2012-04-20 20:09**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-06-03 14:44**: chore: update questions database with recent DOTM updates
 - **2012-06-03 22:28**: fix: typo in Nepali road safety regulations question
 - **2012-06-04 10:05**: fix: update DOTM Nepal license syllabus questions
+- **2012-06-05 15:03**: docs: add instructions for Nepali driving license written exam
