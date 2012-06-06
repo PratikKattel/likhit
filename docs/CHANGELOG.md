@@ -1,4 +1,3 @@
-- **2012-04-19 21:36**: fix: typo in Nepali road safety regulations question
 - **2012-04-20 20:09**: fix: update DOTM Nepal license syllabus questions
 - **2012-04-21 09:45**: docs: improve code comments and API documentation
 - **2012-04-21 11:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-06-04 10:05**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-05 15:03**: docs: add instructions for Nepali driving license written exam
 - **2012-06-05 16:50**: chore: update project metadata and build configuration
+- **2012-06-06 19:38**: docs: add instructions for Nepali driving license written exam
