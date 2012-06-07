@@ -1,4 +1,3 @@
-- **2012-04-21 09:45**: docs: improve code comments and API documentation
 - **2012-04-21 11:37**: chore: format code style and clean up redundant variables
 - **2012-04-22 10:45**: docs: update README with setup instructions and feature list
 - **2012-04-22 12:43**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-06-05 16:50**: chore: update project metadata and build configuration
 - **2012-06-06 19:38**: docs: add instructions for Nepali driving license written exam
 - **2012-06-07 11:53**: perf: lazy load signal graphics and question assets
+- **2012-06-07 20:27**: perf: index question IDs for rapid lookup
