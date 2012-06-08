@@ -1,4 +1,3 @@
-- **2012-04-22 10:45**: docs: update README with setup instructions and feature list
 - **2012-04-22 12:43**: feat: add warning signs and informational road signs
 - **2012-04-23 12:58**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-24 11:32**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2012-06-07 11:53**: perf: lazy load signal graphics and question assets
 - **2012-06-07 20:27**: perf: index question IDs for rapid lookup
 - **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
+- **2012-06-08 17:05**: feat: add regulatory traffic signs SVG graphics
