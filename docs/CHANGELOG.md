@@ -1,4 +1,3 @@
-- **2012-04-22 12:43**: feat: add warning signs and informational road signs
 - **2012-04-23 12:58**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-24 11:32**: fix: typo in Nepali road safety regulations question
 - **2012-04-25 21:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-06-07 20:27**: perf: index question IDs for rapid lookup
 - **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-08 17:05**: feat: add regulatory traffic signs SVG graphics
+- **2012-06-09 11:58**: style: polish typography and Nepali Unicode font rendering
