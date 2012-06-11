@@ -1,4 +1,3 @@
-- **2012-04-26 10:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-26 15:25**: style: enhance traffic sign card layout and responsiveness
 - **2012-04-26 17:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-04-27 16:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-06-09 18:16**: style: polish typography and Nepali Unicode font rendering
 - **2012-06-10 13:01**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-11 09:04**: fix: adjust passing score threshold according to new rules
+- **2012-06-11 15:53**: feat: support multiple choice questions for motorcycle category
