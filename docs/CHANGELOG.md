@@ -1,4 +1,3 @@
-- **2012-04-27 16:40**: feat: add category A and B traffic test questions
 - **2012-04-27 19:31**: feat: add search and filter by sign category
 - **2012-04-28 15:00**: fix: typo in Nepali road safety regulations question
 - **2012-04-29 11:02**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-06-11 15:53**: feat: support multiple choice questions for motorcycle category
 - **2012-06-11 16:37**: feat: add keyboard navigation shortcuts for question selection
 - **2012-06-12 22:21**: perf: index question IDs for rapid lookup
+- **2012-06-13 15:06**: perf: optimize image caching for traffic sign assets
