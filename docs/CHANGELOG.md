@@ -1,4 +1,3 @@
-- **2012-04-29 11:02**: feat: add category A and B traffic test questions
 - **2012-04-29 20:43**: fix: correct color specifications for mandatory traffic signs
 - **2012-04-30 09:11**: refactor: restructure question data schema for faster loading
 - **2012-04-30 11:57**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-06-13 15:06**: perf: optimize image caching for traffic sign assets
 - **2012-06-14 20:13**: feat: add keyboard navigation shortcuts for question selection
 - **2012-06-14 20:41**: fix: update DOTM Nepal license syllabus questions
+- **2012-06-15 18:16**: chore: update project metadata and build configuration
