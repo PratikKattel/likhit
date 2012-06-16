@@ -1,4 +1,3 @@
-- **2012-04-30 09:11**: refactor: restructure question data schema for faster loading
 - **2012-04-30 11:57**: fix: prevent option re-selection after submitting answer
 - **2012-05-01 11:13**: feat: add warning signs and informational road signs
 - **2012-05-01 12:08**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-06-14 20:41**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-15 18:16**: chore: update project metadata and build configuration
 - **2012-06-16 15:23**: fix: update DOTM Nepal license syllabus questions
+- **2012-06-16 20:22**: chore: update project metadata and build configuration
