@@ -1,4 +1,3 @@
-- **2012-05-01 11:13**: feat: add warning signs and informational road signs
 - **2012-05-01 12:08**: fix: update DOTM Nepal license syllabus questions
 - **2012-05-02 18:55**: feat: add regulatory traffic signs SVG graphics
 - **2012-05-02 19:11**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-06-16 15:23**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-16 20:22**: chore: update project metadata and build configuration
 - **2012-06-17 13:53**: docs: improve code comments and API documentation
+- **2012-06-17 19:57**: test: verify question extraction script against exam PDF
