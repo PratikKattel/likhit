@@ -1,4 +1,3 @@
-- **2012-05-02 19:11**: feat: implement timer and score calculation for mock test
 - **2012-05-03 20:28**: fix: adjust passing score threshold according to new rules
 - **2012-05-04 12:19**: refactor: modularize traffic app logic and event listeners
 - **2012-05-05 11:24**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2012-06-17 19:57**: test: verify question extraction script against exam PDF
 - **2012-06-18 10:09**: feat: add warning signs and informational road signs
 - **2012-06-18 21:30**: style: enhance traffic sign card layout and responsiveness
+- **2012-06-19 17:21**: style: enhance traffic sign card layout and responsiveness
