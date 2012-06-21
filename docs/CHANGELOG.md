@@ -1,4 +1,3 @@
-- **2012-05-04 12:19**: refactor: modularize traffic app logic and event listeners
 - **2012-05-05 11:24**: perf: optimize image caching for traffic sign assets
 - **2012-05-06 12:34**: feat: add instant feedback and explanation on answer selection
 - **2012-05-06 17:16**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-06-18 21:30**: style: enhance traffic sign card layout and responsiveness
 - **2012-06-19 17:21**: style: enhance traffic sign card layout and responsiveness
 - **2012-06-20 10:49**: test: verify question extraction script against exam PDF
+- **2012-06-21 20:45**: feat: support multiple choice questions for motorcycle category
