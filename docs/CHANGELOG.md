@@ -1,4 +1,3 @@
-- **2012-05-06 12:34**: feat: add instant feedback and explanation on answer selection
 - **2012-05-06 17:16**: docs: update README with setup instructions and feature list
 - **2012-05-07 18:50**: refactor: modularize traffic app logic and event listeners
 - **2012-05-08 13:13**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-06-20 10:49**: test: verify question extraction script against exam PDF
 - **2012-06-21 20:45**: feat: support multiple choice questions for motorcycle category
 - **2012-06-22 14:26**: fix: prevent option re-selection after submitting answer
+- **2012-06-23 11:11**: perf: lazy load signal graphics and question assets
