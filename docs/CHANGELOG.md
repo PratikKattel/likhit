@@ -1,4 +1,3 @@
-- **2012-05-09 17:38**: feat: add search and filter by sign category
 - **2012-05-10 09:22**: test: verify question extraction script against exam PDF
 - **2012-05-10 18:04**: docs: add instructions for Nepali driving license written exam
 - **2012-05-11 12:30**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2012-06-24 15:26**: perf: lazy load signal graphics and question assets
 - **2012-06-25 20:37**: fix: resolve layout shift during question transitions
 - **2012-06-25 21:44**: feat: add search and filter by sign category
+- **2012-06-26 19:00**: feat: support multiple choice questions for motorcycle category
