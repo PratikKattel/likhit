@@ -1,4 +1,3 @@
-- **2012-05-11 12:30**: feat: add instant feedback and explanation on answer selection
 - **2012-05-11 15:38**: chore: update questions database with recent DOTM updates
 - **2012-05-11 21:13**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-12 20:27**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-06-26 19:00**: feat: support multiple choice questions for motorcycle category
 - **2012-06-27 16:42**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-27 21:06**: perf: lazy load signal graphics and question assets
+- **2012-06-28 18:11**: chore: update questions database with recent DOTM updates
