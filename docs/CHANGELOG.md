@@ -1,4 +1,3 @@
-- **2012-05-15 15:41**: feat: support multiple choice questions for motorcycle category
 - **2012-05-15 20:38**: fix: prevent option re-selection after submitting answer
 - **2012-05-16 11:48**: fix: correct color specifications for mandatory traffic signs
 - **2012-05-16 15:29**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-06-29 12:19**: fix: resolve layout shift during question transitions
 - **2012-06-29 20:39**: feat: support multiple choice questions for motorcycle category
 - **2012-06-29 20:55**: chore: format code style and clean up redundant variables
+- **2012-06-29 21:08**: docs: improve code comments and API documentation
