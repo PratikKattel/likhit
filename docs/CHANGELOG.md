@@ -1,4 +1,3 @@
-- **2012-05-12 20:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-05-13 16:11**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-14 16:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-15 15:41**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-06-28 18:11**: chore: update questions database with recent DOTM updates
 - **2012-06-28 20:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-06-28 21:36**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2012-06-29 12:19**: fix: resolve layout shift during question transitions
