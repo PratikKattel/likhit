@@ -1,4 +1,3 @@
-- **2012-05-16 15:29**: feat: add warning signs and informational road signs
 - **2012-05-16 16:04**: chore: organize assets and image directory structure
 - **2012-05-17 10:08**: fix: typo in Nepali road safety regulations question
 - **2012-05-17 13:53**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2012-06-29 21:08**: docs: improve code comments and API documentation
 - **2012-06-30 18:18**: feat: add regulatory traffic signs SVG graphics
 - **2012-07-01 17:10**: chore: format code style and clean up redundant variables
+- **2012-07-01 18:46**: style: improve dark/light mode and mobile UI responsiveness
