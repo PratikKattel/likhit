@@ -1,4 +1,3 @@
-- **2012-05-19 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-20 21:53**: docs: update traffic signals catalog documentation
 - **2012-05-21 09:28**: perf: index question IDs for rapid lookup
 - **2012-05-21 15:01**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2012-07-03 15:46**: refactor: optimize SVG rendering for road signs
 - **2012-07-03 16:49**: fix: update DOTM Nepal license syllabus questions
 - **2012-07-03 18:57**: test: verify question extraction script against exam PDF
+- **2012-07-03 21:40**: refactor: restructure question data schema for faster loading
