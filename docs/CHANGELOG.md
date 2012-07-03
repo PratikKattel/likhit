@@ -1,4 +1,3 @@
-- **2012-05-17 13:53**: fix: resolve layout shift during question transitions
 - **2012-05-18 15:21**: feat: support multiple choice questions for motorcycle category
 - **2012-05-19 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-20 21:53**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-07-01 18:46**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-07-02 13:39**: fix: typo in Nepali road safety regulations question
 - **2012-07-03 15:46**: refactor: optimize SVG rendering for road signs
+- **2012-07-03 16:49**: fix: update DOTM Nepal license syllabus questions
