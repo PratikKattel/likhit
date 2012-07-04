@@ -1,4 +1,3 @@
-- **2012-05-21 09:28**: perf: index question IDs for rapid lookup
 - **2012-05-21 15:01**: refactor: modularize traffic app logic and event listeners
 - **2012-05-22 13:18**: feat: add category A and B traffic test questions
 - **2012-05-23 15:15**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-07-03 18:57**: test: verify question extraction script against exam PDF
 - **2012-07-03 21:40**: refactor: restructure question data schema for faster loading
 - **2012-07-04 11:31**: feat: implement timer and score calculation for mock test
+- **2012-07-04 12:45**: refactor: restructure question data schema for faster loading
