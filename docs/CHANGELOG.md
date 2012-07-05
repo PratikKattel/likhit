@@ -1,4 +1,3 @@
-- **2012-05-22 13:18**: feat: add category A and B traffic test questions
 - **2012-05-23 15:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-05-23 16:27**: refactor: optimize SVG rendering for road signs
 - **2012-05-23 21:01**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-07-04 11:31**: feat: implement timer and score calculation for mock test
 - **2012-07-04 12:45**: refactor: restructure question data schema for faster loading
 - **2012-07-04 21:20**: feat: add result summary with passing threshold analysis
+- **2012-07-05 13:00**: feat: add keyboard navigation shortcuts for question selection
