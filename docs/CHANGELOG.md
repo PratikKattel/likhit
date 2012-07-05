@@ -1,4 +1,3 @@
-- **2012-05-23 16:27**: refactor: optimize SVG rendering for road signs
 - **2012-05-23 21:01**: refactor: optimize SVG rendering for road signs
 - **2012-05-24 17:34**: feat: add instant feedback and explanation on answer selection
 - **2012-05-25 09:16**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-07-04 21:20**: feat: add result summary with passing threshold analysis
 - **2012-07-05 13:00**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-05 15:23**: fix: prevent option re-selection after submitting answer
+- **2012-07-05 18:18**: feat: support multiple choice questions for motorcycle category
