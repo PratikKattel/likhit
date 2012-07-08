@@ -1,4 +1,3 @@
-- **2012-05-25 09:16**: feat: support multiple choice questions for motorcycle category
 - **2012-05-26 15:55**: docs: improve code comments and API documentation
 - **2012-05-26 16:03**: perf: lazy load signal graphics and question assets
 - **2012-05-27 15:25**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-07-05 18:18**: feat: support multiple choice questions for motorcycle category
 - **2012-07-06 18:18**: refactor: restructure question data schema for faster loading
 - **2012-07-07 16:27**: feat: add warning signs and informational road signs
+- **2012-07-08 09:51**: chore: update project metadata and build configuration
