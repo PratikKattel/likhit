@@ -1,4 +1,3 @@
-- **2012-05-26 16:03**: perf: lazy load signal graphics and question assets
 - **2012-05-27 15:25**: refactor: restructure question data schema for faster loading
 - **2012-05-27 16:03**: perf: optimize image caching for traffic sign assets
 - **2012-05-27 18:58**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-07-07 16:27**: feat: add warning signs and informational road signs
 - **2012-07-08 09:51**: chore: update project metadata and build configuration
 - **2012-07-08 18:32**: feat: implement timer and score calculation for mock test
+- **2012-07-09 20:02**: fix: adjust passing score threshold according to new rules
