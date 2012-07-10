@@ -1,4 +1,3 @@
-- **2012-05-27 16:03**: perf: optimize image caching for traffic sign assets
 - **2012-05-27 18:58**: feat: add category A and B traffic test questions
 - **2012-05-28 15:34**: refactor: restructure question data schema for faster loading
 - **2012-05-28 16:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2012-07-08 18:32**: feat: implement timer and score calculation for mock test
 - **2012-07-09 20:02**: fix: adjust passing score threshold according to new rules
 - **2012-07-10 11:31**: feat: add keyboard navigation shortcuts for question selection
+- **2012-07-10 19:59**: fix: correct color specifications for mandatory traffic signs
