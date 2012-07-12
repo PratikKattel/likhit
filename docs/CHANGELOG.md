@@ -1,4 +1,3 @@
-- **2012-05-28 16:45**: test: verify question extraction script against exam PDF
 - **2012-05-29 15:33**: feat: add keyboard navigation shortcuts for question selection
 - **2012-05-30 17:45**: perf: index question IDs for rapid lookup
 - **2012-05-31 15:27**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-07-10 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2012-07-11 18:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-07-12 10:57**: feat: add search and filter by sign category
+- **2012-07-12 17:43**: feat: add keyboard navigation shortcuts for question selection
