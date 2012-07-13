@@ -1,4 +1,3 @@
-- **2012-05-30 17:45**: perf: index question IDs for rapid lookup
 - **2012-05-31 15:27**: docs: improve code comments and API documentation
 - **2012-05-31 15:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-06-01 21:58**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2012-07-12 10:57**: feat: add search and filter by sign category
 - **2012-07-12 17:43**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-12 21:07**: refactor: modularize traffic app logic and event listeners
+- **2012-07-13 12:43**: chore: format code style and clean up redundant variables
