@@ -1,4 +1,3 @@
-- **2012-06-02 20:10**: test: verify question extraction script against exam PDF
 - **2012-06-02 20:32**: docs: improve code comments and API documentation
 - **2012-06-02 21:57**: fix: correct color specifications for mandatory traffic signs
 - **2012-06-03 09:00**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-07-14 09:01**: docs: add instructions for Nepali driving license written exam
 - **2012-07-14 10:27**: perf: index question IDs for rapid lookup
 - **2012-07-14 19:26**: feat: add keyboard navigation shortcuts for question selection
+- **2012-07-14 19:31**: fix: prevent option re-selection after submitting answer
