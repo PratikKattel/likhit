@@ -1,4 +1,3 @@
-- **2012-05-31 15:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-06-01 21:58**: chore: organize assets and image directory structure
 - **2012-06-02 20:10**: test: verify question extraction script against exam PDF
 - **2012-06-02 20:32**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-07-12 21:07**: refactor: modularize traffic app logic and event listeners
 - **2012-07-13 12:43**: chore: format code style and clean up redundant variables
 - **2012-07-14 09:01**: docs: add instructions for Nepali driving license written exam
+- **2012-07-14 10:27**: perf: index question IDs for rapid lookup
