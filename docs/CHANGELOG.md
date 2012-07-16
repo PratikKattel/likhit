@@ -1,4 +1,3 @@
-- **2012-06-02 21:57**: fix: correct color specifications for mandatory traffic signs
 - **2012-06-03 09:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-06-03 14:44**: chore: update questions database with recent DOTM updates
 - **2012-06-03 22:28**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2012-07-14 19:26**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-14 19:31**: fix: prevent option re-selection after submitting answer
 - **2012-07-15 09:05**: feat: add regulatory traffic signs SVG graphics
+- **2012-07-16 12:51**: test: verify question extraction script against exam PDF
