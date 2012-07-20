@@ -1,4 +1,3 @@
-- **2012-06-05 15:03**: docs: add instructions for Nepali driving license written exam
 - **2012-06-05 16:50**: chore: update project metadata and build configuration
 - **2012-06-06 19:38**: docs: add instructions for Nepali driving license written exam
 - **2012-06-07 11:53**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-07-17 22:25**: style: enhance traffic sign card layout and responsiveness
 - **2012-07-18 22:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-07-19 14:49**: docs: add instructions for Nepali driving license written exam
+- **2012-07-20 18:30**: chore: update questions database with recent DOTM updates
