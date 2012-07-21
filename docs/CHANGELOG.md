@@ -1,4 +1,3 @@
-- **2012-06-07 11:53**: perf: lazy load signal graphics and question assets
 - **2012-06-07 20:27**: perf: index question IDs for rapid lookup
 - **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-08 17:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-07-20 18:30**: chore: update questions database with recent DOTM updates
 - **2012-07-20 22:02**: fix: correct color specifications for mandatory traffic signs
 - **2012-07-21 09:25**: chore: update project metadata and build configuration
+- **2012-07-21 20:01**: feat: support multiple choice questions for motorcycle category
