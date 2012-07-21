@@ -1,4 +1,3 @@
-- **2012-06-06 19:38**: docs: add instructions for Nepali driving license written exam
 - **2012-06-07 11:53**: perf: lazy load signal graphics and question assets
 - **2012-06-07 20:27**: perf: index question IDs for rapid lookup
 - **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-07-19 14:49**: docs: add instructions for Nepali driving license written exam
 - **2012-07-20 18:30**: chore: update questions database with recent DOTM updates
 - **2012-07-20 22:02**: fix: correct color specifications for mandatory traffic signs
+- **2012-07-21 09:25**: chore: update project metadata and build configuration
