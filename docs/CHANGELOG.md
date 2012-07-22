@@ -1,4 +1,3 @@
-- **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-08 17:05**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-09 11:58**: style: polish typography and Nepali Unicode font rendering
 - **2012-06-09 18:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-07-21 09:25**: chore: update project metadata and build configuration
 - **2012-07-21 20:01**: feat: support multiple choice questions for motorcycle category
 - **2012-07-22 09:28**: style: polish typography and Nepali Unicode font rendering
+- **2012-07-22 14:33**: docs: update README with setup instructions and feature list
