@@ -1,4 +1,3 @@
-- **2012-06-07 20:27**: perf: index question IDs for rapid lookup
 - **2012-06-08 16:20**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-08 17:05**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-09 11:58**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-07-20 22:02**: fix: correct color specifications for mandatory traffic signs
 - **2012-07-21 09:25**: chore: update project metadata and build configuration
 - **2012-07-21 20:01**: feat: support multiple choice questions for motorcycle category
+- **2012-07-22 09:28**: style: polish typography and Nepali Unicode font rendering
