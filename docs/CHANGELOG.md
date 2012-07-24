@@ -1,4 +1,3 @@
-- **2012-06-10 13:01**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-11 09:04**: fix: adjust passing score threshold according to new rules
 - **2012-06-11 15:53**: feat: support multiple choice questions for motorcycle category
 - **2012-06-11 16:37**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-07-23 10:09**: feat: support multiple choice questions for motorcycle category
 - **2012-07-23 10:38**: feat: add category-specific practice modes
 - **2012-07-24 14:42**: fix: update DOTM Nepal license syllabus questions
+- **2012-07-24 14:55**: feat: support multiple choice questions for motorcycle category
