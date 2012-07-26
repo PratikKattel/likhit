@@ -1,4 +1,3 @@
-- **2012-06-13 15:06**: perf: optimize image caching for traffic sign assets
 - **2012-06-14 20:13**: feat: add keyboard navigation shortcuts for question selection
 - **2012-06-14 20:41**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-15 18:16**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-07-24 22:03**: feat: implement timer and score calculation for mock test
 - **2012-07-25 14:48**: docs: improve code comments and API documentation
 - **2012-07-25 20:04**: chore: update questions database with recent DOTM updates
+- **2012-07-26 18:30**: feat: add search and filter by sign category
