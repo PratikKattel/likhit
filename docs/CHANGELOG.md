@@ -1,4 +1,3 @@
-- **2012-06-15 18:16**: chore: update project metadata and build configuration
 - **2012-06-16 15:23**: fix: update DOTM Nepal license syllabus questions
 - **2012-06-16 20:22**: chore: update project metadata and build configuration
 - **2012-06-17 13:53**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-07-26 18:30**: feat: add search and filter by sign category
 - **2012-07-26 21:15**: chore: update project metadata and build configuration
 - **2012-07-27 11:18**: feat: add category-specific practice modes
+- **2012-07-28 16:52**: feat: add category A and B traffic test questions
