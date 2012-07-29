@@ -1,4 +1,3 @@
-- **2012-06-17 13:53**: docs: improve code comments and API documentation
 - **2012-06-17 19:57**: test: verify question extraction script against exam PDF
 - **2012-06-18 10:09**: feat: add warning signs and informational road signs
 - **2012-06-18 21:30**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2012-07-28 16:52**: feat: add category A and B traffic test questions
 - **2012-07-28 19:59**: perf: optimize image caching for traffic sign assets
 - **2012-07-29 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2012-07-29 19:05**: chore: organize assets and image directory structure
