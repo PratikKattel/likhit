@@ -1,4 +1,3 @@
-- **2012-06-18 21:30**: style: enhance traffic sign card layout and responsiveness
 - **2012-06-19 17:21**: style: enhance traffic sign card layout and responsiveness
 - **2012-06-20 10:49**: test: verify question extraction script against exam PDF
 - **2012-06-21 20:45**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-07-29 19:05**: chore: organize assets and image directory structure
 - **2012-07-29 21:09**: perf: optimize image caching for traffic sign assets
 - **2012-07-29 22:29**: docs: update README with setup instructions and feature list
+- **2012-07-30 14:27**: fix: typo in Nepali road safety regulations question
