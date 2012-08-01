@@ -1,4 +1,3 @@
-- **2012-06-22 14:26**: fix: prevent option re-selection after submitting answer
 - **2012-06-23 11:11**: perf: lazy load signal graphics and question assets
 - **2012-06-23 16:54**: style: polish typography and Nepali Unicode font rendering
 - **2012-06-24 09:32**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2012-07-31 12:01**: feat: add instant feedback and explanation on answer selection
 - **2012-07-31 21:05**: chore: update project metadata and build configuration
 - **2012-08-01 10:18**: feat: add category-specific practice modes
+- **2012-08-01 11:57**: perf: optimize image caching for traffic sign assets
