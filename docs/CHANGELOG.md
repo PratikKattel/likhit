@@ -1,4 +1,3 @@
-- **2012-06-23 16:54**: style: polish typography and Nepali Unicode font rendering
 - **2012-06-24 09:32**: chore: organize assets and image directory structure
 - **2012-06-24 15:26**: perf: lazy load signal graphics and question assets
 - **2012-06-25 20:37**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2012-08-01 10:18**: feat: add category-specific practice modes
 - **2012-08-01 11:57**: perf: optimize image caching for traffic sign assets
 - **2012-08-01 22:00**: perf: lazy load signal graphics and question assets
+- **2012-08-02 09:39**: feat: add warning signs and informational road signs
