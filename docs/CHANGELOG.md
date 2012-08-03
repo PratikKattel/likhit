@@ -1,4 +1,3 @@
-- **2012-06-24 09:32**: chore: organize assets and image directory structure
 - **2012-06-24 15:26**: perf: lazy load signal graphics and question assets
 - **2012-06-25 20:37**: fix: resolve layout shift during question transitions
 - **2012-06-25 21:44**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-08-01 11:57**: perf: optimize image caching for traffic sign assets
 - **2012-08-01 22:00**: perf: lazy load signal graphics and question assets
 - **2012-08-02 09:39**: feat: add warning signs and informational road signs
+- **2012-08-03 15:19**: fix: correct color specifications for mandatory traffic signs
