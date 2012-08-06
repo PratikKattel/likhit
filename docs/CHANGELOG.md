@@ -1,4 +1,3 @@
-- **2012-06-26 19:00**: feat: support multiple choice questions for motorcycle category
 - **2012-06-27 16:42**: feat: add regulatory traffic signs SVG graphics
 - **2012-06-27 21:06**: perf: lazy load signal graphics and question assets
 - **2012-06-28 18:11**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2012-08-04 22:03**: fix: correct color specifications for mandatory traffic signs
 - **2012-08-05 17:52**: fix: update DOTM Nepal license syllabus questions
 - **2012-08-05 22:13**: style: polish typography and Nepali Unicode font rendering
+- **2012-08-06 20:50**: chore: organize assets and image directory structure
