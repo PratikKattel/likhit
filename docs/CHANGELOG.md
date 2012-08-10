@@ -1,4 +1,3 @@
-- **2012-06-28 21:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-06-29 12:19**: fix: resolve layout shift during question transitions
 - **2012-06-29 20:39**: feat: support multiple choice questions for motorcycle category
 - **2012-06-29 20:55**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-08-08 09:06**: perf: index question IDs for rapid lookup
 - **2012-08-08 10:11**: feat: add result summary with passing threshold analysis
 - **2012-08-09 12:21**: feat: add category-specific practice modes
+- **2012-08-10 10:27**: refactor: clean up unused CSS classes and optimize stylesheet
