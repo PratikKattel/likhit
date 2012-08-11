@@ -1,4 +1,3 @@
-- **2012-06-29 20:55**: chore: format code style and clean up redundant variables
 - **2012-06-29 21:08**: docs: improve code comments and API documentation
 - **2012-06-30 18:18**: feat: add regulatory traffic signs SVG graphics
 - **2012-07-01 17:10**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-08-10 10:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-08-10 15:59**: chore: update questions database with recent DOTM updates
 - **2012-08-11 09:40**: docs: update traffic signals catalog documentation
+- **2012-08-11 17:02**: docs: improve code comments and API documentation
