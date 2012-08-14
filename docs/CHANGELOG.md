@@ -1,4 +1,3 @@
-- **2012-07-02 13:39**: fix: typo in Nepali road safety regulations question
 - **2012-07-03 15:46**: refactor: optimize SVG rendering for road signs
 - **2012-07-03 16:49**: fix: update DOTM Nepal license syllabus questions
 - **2012-07-03 18:57**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2012-08-12 16:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-13 10:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-08-13 19:06**: fix: adjust passing score threshold according to new rules
+- **2012-08-14 12:40**: docs: improve code comments and API documentation
