@@ -1,4 +1,3 @@
-- **2012-07-03 18:57**: test: verify question extraction script against exam PDF
 - **2012-07-03 21:40**: refactor: restructure question data schema for faster loading
 - **2012-07-04 11:31**: feat: implement timer and score calculation for mock test
 - **2012-07-04 12:45**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-08-14 12:40**: docs: improve code comments and API documentation
 - **2012-08-15 10:08**: docs: update README with setup instructions and feature list
 - **2012-08-15 10:49**: feat: add warning signs and informational road signs
+- **2012-08-16 17:27**: feat: add result summary with passing threshold analysis
