@@ -1,4 +1,3 @@
-- **2012-07-05 15:23**: fix: prevent option re-selection after submitting answer
 - **2012-07-05 18:18**: feat: support multiple choice questions for motorcycle category
 - **2012-07-06 18:18**: refactor: restructure question data schema for faster loading
 - **2012-07-07 16:27**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-08-17 17:57**: feat: add category-specific practice modes
 - **2012-08-17 19:28**: fix: adjust passing score threshold according to new rules
 - **2012-08-18 17:44**: feat: add search and filter by sign category
+- **2012-08-18 18:01**: docs: update README with setup instructions and feature list
