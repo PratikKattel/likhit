@@ -1,4 +1,3 @@
-- **2012-07-06 18:18**: refactor: restructure question data schema for faster loading
 - **2012-07-07 16:27**: feat: add warning signs and informational road signs
 - **2012-07-08 09:51**: chore: update project metadata and build configuration
 - **2012-07-08 18:32**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-08-18 17:44**: feat: add search and filter by sign category
 - **2012-08-18 18:01**: docs: update README with setup instructions and feature list
 - **2012-08-19 12:48**: feat: add warning signs and informational road signs
+- **2012-08-19 20:36**: feat: add category-specific practice modes
