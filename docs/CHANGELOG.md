@@ -1,4 +1,3 @@
-- **2012-07-08 09:51**: chore: update project metadata and build configuration
 - **2012-07-08 18:32**: feat: implement timer and score calculation for mock test
 - **2012-07-09 20:02**: fix: adjust passing score threshold according to new rules
 - **2012-07-10 11:31**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-08-19 12:48**: feat: add warning signs and informational road signs
 - **2012-08-19 20:36**: feat: add category-specific practice modes
 - **2012-08-20 12:30**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-08-20 20:44**: feat: add instant feedback and explanation on answer selection
