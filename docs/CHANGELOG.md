@@ -1,4 +1,3 @@
-- **2012-07-09 20:02**: fix: adjust passing score threshold according to new rules
 - **2012-07-10 11:31**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-10 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2012-07-11 18:22**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-08-20 12:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-20 20:44**: feat: add instant feedback and explanation on answer selection
 - **2012-08-21 20:27**: refactor: modularize traffic app logic and event listeners
+- **2012-08-21 21:20**: feat: add keyboard navigation shortcuts for question selection
