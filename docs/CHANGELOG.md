@@ -1,4 +1,3 @@
-- **2012-07-12 10:57**: feat: add search and filter by sign category
 - **2012-07-12 17:43**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-12 21:07**: refactor: modularize traffic app logic and event listeners
 - **2012-07-13 12:43**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-08-22 10:44**: chore: format code style and clean up redundant variables
 - **2012-08-23 11:23**: fix: resolve layout shift during question transitions
 - **2012-08-23 18:31**: feat: implement timer and score calculation for mock test
+- **2012-08-23 18:42**: docs: update README with setup instructions and feature list
