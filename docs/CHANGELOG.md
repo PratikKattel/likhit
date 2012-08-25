@@ -1,4 +1,3 @@
-- **2012-07-13 12:43**: chore: format code style and clean up redundant variables
 - **2012-07-14 09:01**: docs: add instructions for Nepali driving license written exam
 - **2012-07-14 10:27**: perf: index question IDs for rapid lookup
 - **2012-07-14 19:26**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-08-23 18:42**: docs: update README with setup instructions and feature list
 - **2012-08-24 14:40**: style: enhance traffic sign card layout and responsiveness
 - **2012-08-24 15:33**: chore: format code style and clean up redundant variables
+- **2012-08-25 15:19**: refactor: optimize SVG rendering for road signs
