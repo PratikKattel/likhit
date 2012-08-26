@@ -1,4 +1,3 @@
-- **2012-07-14 10:27**: perf: index question IDs for rapid lookup
 - **2012-07-14 19:26**: feat: add keyboard navigation shortcuts for question selection
 - **2012-07-14 19:31**: fix: prevent option re-selection after submitting answer
 - **2012-07-15 09:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-08-24 15:33**: chore: format code style and clean up redundant variables
 - **2012-08-25 15:19**: refactor: optimize SVG rendering for road signs
 - **2012-08-25 20:17**: docs: add instructions for Nepali driving license written exam
+- **2012-08-26 11:57**: fix: resolve layout shift during question transitions
