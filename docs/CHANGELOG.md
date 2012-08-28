@@ -1,4 +1,3 @@
-- **2012-07-14 19:31**: fix: prevent option re-selection after submitting answer
 - **2012-07-15 09:05**: feat: add regulatory traffic signs SVG graphics
 - **2012-07-16 12:51**: test: verify question extraction script against exam PDF
 - **2012-07-16 22:03**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-08-25 20:17**: docs: add instructions for Nepali driving license written exam
 - **2012-08-26 11:57**: fix: resolve layout shift during question transitions
 - **2012-08-27 14:56**: fix: update DOTM Nepal license syllabus questions
+- **2012-08-28 09:49**: fix: update DOTM Nepal license syllabus questions
