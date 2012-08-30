@@ -1,4 +1,3 @@
-- **2012-07-17 22:25**: style: enhance traffic sign card layout and responsiveness
 - **2012-07-18 22:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-07-19 14:49**: docs: add instructions for Nepali driving license written exam
 - **2012-07-20 18:30**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2012-08-29 10:11**: test: verify question extraction script against exam PDF
 - **2012-08-30 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2012-08-30 11:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-08-30 13:49**: feat: add result summary with passing threshold analysis
