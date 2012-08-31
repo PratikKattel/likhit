@@ -1,4 +1,3 @@
-- **2012-07-19 14:49**: docs: add instructions for Nepali driving license written exam
 - **2012-07-20 18:30**: chore: update questions database with recent DOTM updates
 - **2012-07-20 22:02**: fix: correct color specifications for mandatory traffic signs
 - **2012-07-21 09:25**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-08-30 11:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-30 13:49**: feat: add result summary with passing threshold analysis
 - **2012-08-31 13:56**: refactor: optimize SVG rendering for road signs
+- **2012-08-31 14:46**: docs: update traffic signals catalog documentation
