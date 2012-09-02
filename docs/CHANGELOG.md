@@ -1,4 +1,3 @@
-- **2012-07-21 09:25**: chore: update project metadata and build configuration
 - **2012-07-21 20:01**: feat: support multiple choice questions for motorcycle category
 - **2012-07-22 09:28**: style: polish typography and Nepali Unicode font rendering
 - **2012-07-22 14:33**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-08-31 14:46**: docs: update traffic signals catalog documentation
 - **2012-09-01 09:47**: refactor: optimize SVG rendering for road signs
 - **2012-09-01 21:24**: feat: add warning signs and informational road signs
+- **2012-09-02 12:01**: style: polish typography and Nepali Unicode font rendering
