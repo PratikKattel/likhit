@@ -1,4 +1,3 @@
-- **2012-07-22 09:28**: style: polish typography and Nepali Unicode font rendering
 - **2012-07-22 14:33**: docs: update README with setup instructions and feature list
 - **2012-07-23 10:09**: feat: support multiple choice questions for motorcycle category
 - **2012-07-23 10:38**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-09-01 21:24**: feat: add warning signs and informational road signs
 - **2012-09-02 12:01**: style: polish typography and Nepali Unicode font rendering
 - **2012-09-03 20:20**: fix: update DOTM Nepal license syllabus questions
+- **2012-09-04 13:50**: docs: improve code comments and API documentation
