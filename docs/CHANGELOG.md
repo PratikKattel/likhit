@@ -1,4 +1,3 @@
-- **2012-07-23 10:38**: feat: add category-specific practice modes
 - **2012-07-24 14:42**: fix: update DOTM Nepal license syllabus questions
 - **2012-07-24 14:55**: feat: support multiple choice questions for motorcycle category
 - **2012-07-24 17:33**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2012-09-04 13:50**: docs: improve code comments and API documentation
 - **2012-09-05 20:40**: feat: add regulatory traffic signs SVG graphics
 - **2012-09-06 17:47**: perf: lazy load signal graphics and question assets
+- **2012-09-07 16:24**: refactor: restructure question data schema for faster loading
