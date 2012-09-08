@@ -1,4 +1,3 @@
-- **2012-07-24 14:55**: feat: support multiple choice questions for motorcycle category
 - **2012-07-24 17:33**: chore: update questions database with recent DOTM updates
 - **2012-07-24 22:03**: feat: implement timer and score calculation for mock test
 - **2012-07-25 14:48**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-09-06 17:47**: perf: lazy load signal graphics and question assets
 - **2012-09-07 16:24**: refactor: restructure question data schema for faster loading
 - **2012-09-08 20:04**: refactor: restructure question data schema for faster loading
+- **2012-09-08 21:28**: refactor: optimize SVG rendering for road signs
