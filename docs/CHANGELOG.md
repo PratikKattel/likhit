@@ -1,4 +1,3 @@
-- **2012-07-24 22:03**: feat: implement timer and score calculation for mock test
 - **2012-07-25 14:48**: docs: improve code comments and API documentation
 - **2012-07-25 20:04**: chore: update questions database with recent DOTM updates
 - **2012-07-26 18:30**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-09-08 20:04**: refactor: restructure question data schema for faster loading
 - **2012-09-08 21:28**: refactor: optimize SVG rendering for road signs
 - **2012-09-09 15:54**: feat: add category-specific practice modes
+- **2012-09-09 19:18**: feat: add category A and B traffic test questions
