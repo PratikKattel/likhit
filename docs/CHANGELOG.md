@@ -1,4 +1,3 @@
-- **2012-07-25 20:04**: chore: update questions database with recent DOTM updates
 - **2012-07-26 18:30**: feat: add search and filter by sign category
 - **2012-07-26 21:15**: chore: update project metadata and build configuration
 - **2012-07-27 11:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-09-09 15:54**: feat: add category-specific practice modes
 - **2012-09-09 19:18**: feat: add category A and B traffic test questions
 - **2012-09-09 20:35**: feat: add keyboard navigation shortcuts for question selection
+- **2012-09-10 16:03**: feat: add regulatory traffic signs SVG graphics
