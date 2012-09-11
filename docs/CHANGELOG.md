@@ -1,4 +1,3 @@
-- **2012-07-27 11:18**: feat: add category-specific practice modes
 - **2012-07-28 16:52**: feat: add category A and B traffic test questions
 - **2012-07-28 19:59**: perf: optimize image caching for traffic sign assets
 - **2012-07-29 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2012-09-10 16:03**: feat: add regulatory traffic signs SVG graphics
 - **2012-09-10 16:05**: docs: improve code comments and API documentation
 - **2012-09-11 10:26**: fix: correct color specifications for mandatory traffic signs
+- **2012-09-11 11:26**: feat: add search and filter by sign category
