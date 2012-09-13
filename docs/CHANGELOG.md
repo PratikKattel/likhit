@@ -1,4 +1,3 @@
-- **2012-07-29 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-07-29 19:05**: chore: organize assets and image directory structure
 - **2012-07-29 21:09**: perf: optimize image caching for traffic sign assets
 - **2012-07-29 22:29**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-09-11 11:26**: feat: add search and filter by sign category
 - **2012-09-12 17:13**: refactor: optimize SVG rendering for road signs
 - **2012-09-12 18:25**: feat: add category A and B traffic test questions
+- **2012-09-13 11:34**: style: enhance traffic sign card layout and responsiveness
