@@ -1,4 +1,3 @@
-- **2012-07-29 22:29**: docs: update README with setup instructions and feature list
 - **2012-07-30 14:27**: fix: typo in Nepali road safety regulations question
 - **2012-07-31 12:01**: feat: add instant feedback and explanation on answer selection
 - **2012-07-31 21:05**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-09-13 11:34**: style: enhance traffic sign card layout and responsiveness
 - **2012-09-14 10:02**: feat: add category A and B traffic test questions
 - **2012-09-14 16:36**: chore: update questions database with recent DOTM updates
+- **2012-09-15 16:37**: perf: optimize image caching for traffic sign assets
