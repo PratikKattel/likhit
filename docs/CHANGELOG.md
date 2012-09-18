@@ -1,4 +1,3 @@
-- **2012-08-01 10:18**: feat: add category-specific practice modes
 - **2012-08-01 11:57**: perf: optimize image caching for traffic sign assets
 - **2012-08-01 22:00**: perf: lazy load signal graphics and question assets
 - **2012-08-02 09:39**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-09-15 22:26**: refactor: modularize traffic app logic and event listeners
 - **2012-09-16 15:47**: style: polish typography and Nepali Unicode font rendering
 - **2012-09-17 15:20**: feat: add search and filter by sign category
+- **2012-09-18 21:36**: fix: resolve layout shift during question transitions
