@@ -1,4 +1,3 @@
-- **2012-08-02 09:39**: feat: add warning signs and informational road signs
 - **2012-08-03 15:19**: fix: correct color specifications for mandatory traffic signs
 - **2012-08-04 22:03**: fix: correct color specifications for mandatory traffic signs
 - **2012-08-05 17:52**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-09-18 21:36**: fix: resolve layout shift during question transitions
 - **2012-09-19 12:10**: docs: update traffic signals catalog documentation
 - **2012-09-19 19:22**: refactor: restructure question data schema for faster loading
+- **2012-09-20 16:52**: feat: add keyboard navigation shortcuts for question selection
