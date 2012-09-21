@@ -1,4 +1,3 @@
-- **2012-08-05 17:52**: fix: update DOTM Nepal license syllabus questions
 - **2012-08-05 22:13**: style: polish typography and Nepali Unicode font rendering
 - **2012-08-06 20:50**: chore: organize assets and image directory structure
 - **2012-08-07 09:12**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2012-09-20 16:52**: feat: add keyboard navigation shortcuts for question selection
 - **2012-09-20 19:44**: feat: add category-specific practice modes
 - **2012-09-21 10:45**: fix: adjust passing score threshold according to new rules
+- **2012-09-21 13:21**: fix: typo in Nepali road safety regulations question
