@@ -1,4 +1,3 @@
-- **2012-08-07 09:12**: perf: optimize image caching for traffic sign assets
 - **2012-08-08 09:06**: perf: index question IDs for rapid lookup
 - **2012-08-08 10:11**: feat: add result summary with passing threshold analysis
 - **2012-08-09 12:21**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-09-21 13:21**: fix: typo in Nepali road safety regulations question
 - **2012-09-22 20:42**: fix: resolve layout shift during question transitions
 - **2012-09-23 15:55**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-09-24 22:28**: feat: add regulatory traffic signs SVG graphics
