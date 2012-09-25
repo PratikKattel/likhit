@@ -1,4 +1,3 @@
-- **2012-08-09 12:21**: feat: add category-specific practice modes
 - **2012-08-10 10:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-08-10 15:59**: chore: update questions database with recent DOTM updates
 - **2012-08-11 09:40**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-09-24 22:28**: feat: add regulatory traffic signs SVG graphics
 - **2012-09-25 12:39**: perf: lazy load signal graphics and question assets
 - **2012-09-25 14:53**: chore: update questions database with recent DOTM updates
+- **2012-09-25 17:53**: fix: update DOTM Nepal license syllabus questions
