@@ -1,4 +1,3 @@
-- **2012-08-10 15:59**: chore: update questions database with recent DOTM updates
 - **2012-08-11 09:40**: docs: update traffic signals catalog documentation
 - **2012-08-11 17:02**: docs: improve code comments and API documentation
 - **2012-08-12 16:15**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2012-09-25 14:53**: chore: update questions database with recent DOTM updates
 - **2012-09-25 17:53**: fix: update DOTM Nepal license syllabus questions
 - **2012-09-26 12:27**: chore: format code style and clean up redundant variables
+- **2012-09-27 09:14**: chore: organize assets and image directory structure
