@@ -1,4 +1,3 @@
-- **2012-08-11 09:40**: docs: update traffic signals catalog documentation
 - **2012-08-11 17:02**: docs: improve code comments and API documentation
 - **2012-08-12 16:15**: feat: add instant feedback and explanation on answer selection
 - **2012-08-12 16:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-09-25 17:53**: fix: update DOTM Nepal license syllabus questions
 - **2012-09-26 12:27**: chore: format code style and clean up redundant variables
 - **2012-09-27 09:14**: chore: organize assets and image directory structure
+- **2012-09-28 20:15**: refactor: optimize SVG rendering for road signs
