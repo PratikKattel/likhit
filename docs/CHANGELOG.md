@@ -1,4 +1,3 @@
-- **2012-08-12 16:15**: feat: add instant feedback and explanation on answer selection
 - **2012-08-12 16:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-13 10:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-08-13 19:06**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2012-09-27 09:14**: chore: organize assets and image directory structure
 - **2012-09-28 20:15**: refactor: optimize SVG rendering for road signs
 - **2012-09-29 19:24**: feat: add instant feedback and explanation on answer selection
+- **2012-09-29 20:40**: perf: index question IDs for rapid lookup
