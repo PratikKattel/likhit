@@ -1,4 +1,3 @@
-- **2012-08-14 12:40**: docs: improve code comments and API documentation
 - **2012-08-15 10:08**: docs: update README with setup instructions and feature list
 - **2012-08-15 10:49**: feat: add warning signs and informational road signs
 - **2012-08-16 17:27**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-09-30 11:13**: feat: add category-specific practice modes
 - **2012-09-30 22:03**: fix: prevent option re-selection after submitting answer
 - **2012-10-01 13:13**: refactor: restructure question data schema for faster loading
+- **2012-10-01 21:59**: refactor: restructure question data schema for faster loading
