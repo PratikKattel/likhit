@@ -1,4 +1,3 @@
-- **2012-08-16 17:27**: feat: add result summary with passing threshold analysis
 - **2012-08-16 17:36**: fix: prevent option re-selection after submitting answer
 - **2012-08-17 16:50**: perf: index question IDs for rapid lookup
 - **2012-08-17 17:57**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-10-01 21:59**: refactor: restructure question data schema for faster loading
 - **2012-10-02 18:10**: refactor: modularize traffic app logic and event listeners
 - **2012-10-02 19:51**: style: polish typography and Nepali Unicode font rendering
+- **2012-10-02 21:26**: docs: update traffic signals catalog documentation
