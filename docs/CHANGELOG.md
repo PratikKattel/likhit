@@ -1,4 +1,3 @@
-- **2012-08-17 16:50**: perf: index question IDs for rapid lookup
 - **2012-08-17 17:57**: feat: add category-specific practice modes
 - **2012-08-17 19:28**: fix: adjust passing score threshold according to new rules
 - **2012-08-18 17:44**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-10-02 19:51**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-02 21:26**: docs: update traffic signals catalog documentation
 - **2012-10-03 19:52**: chore: update project metadata and build configuration
+- **2012-10-04 20:22**: feat: support multiple choice questions for motorcycle category
