@@ -1,4 +1,3 @@
-- **2012-08-18 17:44**: feat: add search and filter by sign category
 - **2012-08-18 18:01**: docs: update README with setup instructions and feature list
 - **2012-08-19 12:48**: feat: add warning signs and informational road signs
 - **2012-08-19 20:36**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-10-04 20:22**: feat: support multiple choice questions for motorcycle category
 - **2012-10-05 15:52**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-06 11:00**: feat: implement timer and score calculation for mock test
+- **2012-10-06 13:49**: fix: correct color specifications for mandatory traffic signs
