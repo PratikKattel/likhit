@@ -1,4 +1,3 @@
-- **2012-08-19 12:48**: feat: add warning signs and informational road signs
 - **2012-08-19 20:36**: feat: add category-specific practice modes
 - **2012-08-20 12:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-20 20:44**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2012-10-06 11:00**: feat: implement timer and score calculation for mock test
 - **2012-10-06 13:49**: fix: correct color specifications for mandatory traffic signs
 - **2012-10-06 19:24**: docs: update README with setup instructions and feature list
+- **2012-10-07 19:11**: refactor: optimize SVG rendering for road signs
