@@ -1,4 +1,3 @@
-- **2012-08-20 12:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-20 20:44**: feat: add instant feedback and explanation on answer selection
 - **2012-08-21 20:27**: refactor: modularize traffic app logic and event listeners
 - **2012-08-21 21:20**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-10-06 19:24**: docs: update README with setup instructions and feature list
 - **2012-10-07 19:11**: refactor: optimize SVG rendering for road signs
 - **2012-10-07 19:40**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-10-08 18:08**: fix: resolve layout shift during question transitions
