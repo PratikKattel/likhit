@@ -1,4 +1,3 @@
-- **2012-08-22 10:44**: chore: format code style and clean up redundant variables
 - **2012-08-23 11:23**: fix: resolve layout shift during question transitions
 - **2012-08-23 18:31**: feat: implement timer and score calculation for mock test
 - **2012-08-23 18:42**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-10-08 18:50**: chore: format code style and clean up redundant variables
 - **2012-10-08 21:46**: fix: correct color specifications for mandatory traffic signs
 - **2012-10-09 19:17**: perf: lazy load signal graphics and question assets
+- **2012-10-10 20:09**: docs: update traffic signals catalog documentation
