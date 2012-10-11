@@ -1,4 +1,3 @@
-- **2012-08-23 18:31**: feat: implement timer and score calculation for mock test
 - **2012-08-23 18:42**: docs: update README with setup instructions and feature list
 - **2012-08-24 14:40**: style: enhance traffic sign card layout and responsiveness
 - **2012-08-24 15:33**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-10-09 19:17**: perf: lazy load signal graphics and question assets
 - **2012-10-10 20:09**: docs: update traffic signals catalog documentation
 - **2012-10-10 22:21**: feat: add category-specific practice modes
+- **2012-10-11 21:36**: feat: implement timer and score calculation for mock test
