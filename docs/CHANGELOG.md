@@ -1,4 +1,3 @@
-- **2012-08-27 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2012-08-28 09:49**: fix: update DOTM Nepal license syllabus questions
 - **2012-08-29 10:11**: test: verify question extraction script against exam PDF
 - **2012-08-30 10:20**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-10-14 12:18**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-15 09:25**: refactor: optimize SVG rendering for road signs
 - **2012-10-16 09:32**: docs: improve code comments and API documentation
+- **2012-10-17 21:00**: perf: index question IDs for rapid lookup
