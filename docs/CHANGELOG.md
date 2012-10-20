@@ -1,4 +1,3 @@
-- **2012-08-30 11:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-08-30 13:49**: feat: add result summary with passing threshold analysis
 - **2012-08-31 13:56**: refactor: optimize SVG rendering for road signs
 - **2012-08-31 14:46**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-10-18 19:44**: fix: update DOTM Nepal license syllabus questions
 - **2012-10-19 14:22**: feat: implement timer and score calculation for mock test
 - **2012-10-19 18:24**: chore: update project metadata and build configuration
+- **2012-10-20 11:22**: fix: update DOTM Nepal license syllabus questions
