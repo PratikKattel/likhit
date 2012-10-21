@@ -1,4 +1,3 @@
-- **2012-09-01 09:47**: refactor: optimize SVG rendering for road signs
 - **2012-09-01 21:24**: feat: add warning signs and informational road signs
 - **2012-09-02 12:01**: style: polish typography and Nepali Unicode font rendering
 - **2012-09-03 20:20**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-10-20 15:42**: fix: prevent option re-selection after submitting answer
 - **2012-10-21 09:55**: feat: add category-specific practice modes
 - **2012-10-21 17:07**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-10-21 19:06**: feat: add keyboard navigation shortcuts for question selection
