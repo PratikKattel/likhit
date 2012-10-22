@@ -1,4 +1,3 @@
-- **2012-09-02 12:01**: style: polish typography and Nepali Unicode font rendering
 - **2012-09-03 20:20**: fix: update DOTM Nepal license syllabus questions
 - **2012-09-04 13:50**: docs: improve code comments and API documentation
 - **2012-09-05 20:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2012-10-21 17:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-21 19:06**: feat: add keyboard navigation shortcuts for question selection
 - **2012-10-22 10:44**: perf: optimize image caching for traffic sign assets
+- **2012-10-22 19:29**: feat: add result summary with passing threshold analysis
