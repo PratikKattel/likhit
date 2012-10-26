@@ -1,4 +1,3 @@
-- **2012-09-08 21:28**: refactor: optimize SVG rendering for road signs
 - **2012-09-09 15:54**: feat: add category-specific practice modes
 - **2012-09-09 19:18**: feat: add category A and B traffic test questions
 - **2012-09-09 20:35**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-10-25 18:49**: fix: adjust passing score threshold according to new rules
 - **2012-10-26 11:31**: fix: correct color specifications for mandatory traffic signs
 - **2012-10-26 17:54**: perf: lazy load signal graphics and question assets
+- **2012-10-26 18:05**: chore: update questions database with recent DOTM updates
