@@ -1,4 +1,3 @@
-- **2012-09-07 16:24**: refactor: restructure question data schema for faster loading
 - **2012-09-08 20:04**: refactor: restructure question data schema for faster loading
 - **2012-09-08 21:28**: refactor: optimize SVG rendering for road signs
 - **2012-09-09 15:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-10-24 15:37**: docs: add instructions for Nepali driving license written exam
 - **2012-10-24 15:59**: perf: lazy load signal graphics and question assets
 - **2012-10-25 18:49**: fix: adjust passing score threshold according to new rules
+- **2012-10-26 11:31**: fix: correct color specifications for mandatory traffic signs
