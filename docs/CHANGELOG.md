@@ -1,4 +1,3 @@
-- **2012-09-09 20:35**: feat: add keyboard navigation shortcuts for question selection
 - **2012-09-10 16:03**: feat: add regulatory traffic signs SVG graphics
 - **2012-09-10 16:05**: docs: improve code comments and API documentation
 - **2012-09-11 10:26**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2012-10-26 18:05**: chore: update questions database with recent DOTM updates
 - **2012-10-27 09:29**: feat: add warning signs and informational road signs
 - **2012-10-27 18:35**: refactor: restructure question data schema for faster loading
+- **2012-10-28 09:58**: chore: organize assets and image directory structure
