@@ -1,4 +1,3 @@
-- **2012-09-12 17:13**: refactor: optimize SVG rendering for road signs
 - **2012-09-12 18:25**: feat: add category A and B traffic test questions
 - **2012-09-13 11:34**: style: enhance traffic sign card layout and responsiveness
 - **2012-09-14 10:02**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-10-30 14:47**: feat: add instant feedback and explanation on answer selection
 - **2012-10-30 15:25**: chore: organize assets and image directory structure
 - **2012-10-30 18:58**: fix: prevent option re-selection after submitting answer
+- **2012-10-30 19:52**: feat: add regulatory traffic signs SVG graphics
