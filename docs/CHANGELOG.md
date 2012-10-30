@@ -1,4 +1,3 @@
-- **2012-09-10 16:05**: docs: improve code comments and API documentation
 - **2012-09-11 10:26**: fix: correct color specifications for mandatory traffic signs
 - **2012-09-11 11:26**: feat: add search and filter by sign category
 - **2012-09-12 17:13**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2012-10-27 18:35**: refactor: restructure question data schema for faster loading
 - **2012-10-28 09:58**: chore: organize assets and image directory structure
 - **2012-10-29 18:46**: feat: add category A and B traffic test questions
+- **2012-10-30 14:47**: feat: add instant feedback and explanation on answer selection
