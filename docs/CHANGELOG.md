@@ -1,4 +1,3 @@
-- **2012-09-13 11:34**: style: enhance traffic sign card layout and responsiveness
 - **2012-09-14 10:02**: feat: add category A and B traffic test questions
 - **2012-09-14 16:36**: chore: update questions database with recent DOTM updates
 - **2012-09-15 16:37**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2012-10-30 18:58**: fix: prevent option re-selection after submitting answer
 - **2012-10-30 19:52**: feat: add regulatory traffic signs SVG graphics
 - **2012-10-31 14:50**: refactor: modularize traffic app logic and event listeners
+- **2012-11-01 14:06**: style: polish typography and Nepali Unicode font rendering
