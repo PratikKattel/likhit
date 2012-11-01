@@ -1,4 +1,3 @@
-- **2012-09-14 16:36**: chore: update questions database with recent DOTM updates
 - **2012-09-15 16:37**: perf: optimize image caching for traffic sign assets
 - **2012-09-15 22:26**: refactor: modularize traffic app logic and event listeners
 - **2012-09-16 15:47**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-10-31 14:50**: refactor: modularize traffic app logic and event listeners
 - **2012-11-01 14:06**: style: polish typography and Nepali Unicode font rendering
 - **2012-11-01 17:36**: feat: implement timer and score calculation for mock test
+- **2012-11-01 21:06**: feat: add search and filter by sign category
