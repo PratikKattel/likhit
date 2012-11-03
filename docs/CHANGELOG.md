@@ -1,4 +1,3 @@
-- **2012-09-16 15:47**: style: polish typography and Nepali Unicode font rendering
 - **2012-09-17 15:20**: feat: add search and filter by sign category
 - **2012-09-18 21:36**: fix: resolve layout shift during question transitions
 - **2012-09-19 12:10**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-11-01 21:06**: feat: add search and filter by sign category
 - **2012-11-02 14:33**: feat: add search and filter by sign category
 - **2012-11-02 18:11**: fix: update DOTM Nepal license syllabus questions
+- **2012-11-03 12:11**: feat: add result summary with passing threshold analysis
