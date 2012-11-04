@@ -1,4 +1,3 @@
-- **2012-09-19 12:10**: docs: update traffic signals catalog documentation
 - **2012-09-19 19:22**: refactor: restructure question data schema for faster loading
 - **2012-09-20 16:52**: feat: add keyboard navigation shortcuts for question selection
 - **2012-09-20 19:44**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-11-03 12:11**: feat: add result summary with passing threshold analysis
 - **2012-11-03 20:32**: refactor: restructure question data schema for faster loading
 - **2012-11-04 10:55**: feat: add result summary with passing threshold analysis
+- **2012-11-04 20:48**: perf: lazy load signal graphics and question assets
