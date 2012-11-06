@@ -1,4 +1,3 @@
-- **2012-09-20 16:52**: feat: add keyboard navigation shortcuts for question selection
 - **2012-09-20 19:44**: feat: add category-specific practice modes
 - **2012-09-21 10:45**: fix: adjust passing score threshold according to new rules
 - **2012-09-21 13:21**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2012-11-04 10:55**: feat: add result summary with passing threshold analysis
 - **2012-11-04 20:48**: perf: lazy load signal graphics and question assets
 - **2012-11-05 11:58**: docs: update README with setup instructions and feature list
+- **2012-11-06 10:02**: style: improve dark/light mode and mobile UI responsiveness
