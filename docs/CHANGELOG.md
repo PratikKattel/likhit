@@ -1,4 +1,3 @@
-- **2012-09-21 10:45**: fix: adjust passing score threshold according to new rules
 - **2012-09-21 13:21**: fix: typo in Nepali road safety regulations question
 - **2012-09-22 20:42**: fix: resolve layout shift during question transitions
 - **2012-09-23 15:55**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2012-11-05 11:58**: docs: update README with setup instructions and feature list
 - **2012-11-06 10:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-11-06 17:06**: feat: add category-specific practice modes
+- **2012-11-07 13:48**: fix: correct color specifications for mandatory traffic signs
