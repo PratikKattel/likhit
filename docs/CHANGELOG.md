@@ -1,4 +1,3 @@
-- **2012-09-24 22:28**: feat: add regulatory traffic signs SVG graphics
 - **2012-09-25 12:39**: perf: lazy load signal graphics and question assets
 - **2012-09-25 14:53**: chore: update questions database with recent DOTM updates
 - **2012-09-25 17:53**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-11-07 14:46**: style: enhance traffic sign card layout and responsiveness
 - **2012-11-07 18:42**: style: polish typography and Nepali Unicode font rendering
 - **2012-11-08 10:25**: docs: add instructions for Nepali driving license written exam
+- **2012-11-08 11:53**: refactor: modularize traffic app logic and event listeners
