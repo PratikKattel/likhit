@@ -1,4 +1,3 @@
-- **2012-09-29 19:24**: feat: add instant feedback and explanation on answer selection
 - **2012-09-29 20:40**: perf: index question IDs for rapid lookup
 - **2012-09-30 11:13**: feat: add category-specific practice modes
 - **2012-09-30 22:03**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-11-10 12:59**: feat: add search and filter by sign category
 - **2012-11-10 15:21**: chore: update project metadata and build configuration
 - **2012-11-11 12:02**: feat: implement timer and score calculation for mock test
+- **2012-11-12 14:48**: docs: update traffic signals catalog documentation
