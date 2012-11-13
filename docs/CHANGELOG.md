@@ -1,4 +1,3 @@
-- **2012-09-30 11:13**: feat: add category-specific practice modes
 - **2012-09-30 22:03**: fix: prevent option re-selection after submitting answer
 - **2012-10-01 13:13**: refactor: restructure question data schema for faster loading
 - **2012-10-01 21:59**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-11-11 12:02**: feat: implement timer and score calculation for mock test
 - **2012-11-12 14:48**: docs: update traffic signals catalog documentation
 - **2012-11-12 19:19**: docs: update README with setup instructions and feature list
+- **2012-11-13 21:09**: perf: optimize image caching for traffic sign assets
