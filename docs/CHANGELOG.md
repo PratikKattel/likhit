@@ -1,4 +1,3 @@
-- **2012-10-01 13:13**: refactor: restructure question data schema for faster loading
 - **2012-10-01 21:59**: refactor: restructure question data schema for faster loading
 - **2012-10-02 18:10**: refactor: modularize traffic app logic and event listeners
 - **2012-10-02 19:51**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2012-11-12 19:19**: docs: update README with setup instructions and feature list
 - **2012-11-13 21:09**: perf: optimize image caching for traffic sign assets
 - **2012-11-14 13:45**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-11-15 09:13**: perf: optimize image caching for traffic sign assets
