@@ -1,4 +1,3 @@
-- **2012-10-02 19:51**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-02 21:26**: docs: update traffic signals catalog documentation
 - **2012-10-03 19:52**: chore: update project metadata and build configuration
 - **2012-10-04 20:22**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2012-11-15 09:13**: perf: optimize image caching for traffic sign assets
 - **2012-11-15 14:10**: feat: add keyboard navigation shortcuts for question selection
 - **2012-11-16 09:00**: chore: format code style and clean up redundant variables
+- **2012-11-16 21:54**: docs: improve code comments and API documentation
