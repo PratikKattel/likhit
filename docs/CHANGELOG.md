@@ -1,4 +1,3 @@
-- **2012-10-03 19:52**: chore: update project metadata and build configuration
 - **2012-10-04 20:22**: feat: support multiple choice questions for motorcycle category
 - **2012-10-05 15:52**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-06 11:00**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-11-16 09:00**: chore: format code style and clean up redundant variables
 - **2012-11-16 21:54**: docs: improve code comments and API documentation
 - **2012-11-16 22:01**: feat: add category-specific practice modes
+- **2012-11-17 17:13**: fix: update DOTM Nepal license syllabus questions
