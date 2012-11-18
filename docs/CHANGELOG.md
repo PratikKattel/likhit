@@ -1,4 +1,3 @@
-- **2012-10-05 15:52**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-06 11:00**: feat: implement timer and score calculation for mock test
 - **2012-10-06 13:49**: fix: correct color specifications for mandatory traffic signs
 - **2012-10-06 19:24**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-11-16 22:01**: feat: add category-specific practice modes
 - **2012-11-17 17:13**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-18 20:14**: fix: update DOTM Nepal license syllabus questions
+- **2012-11-18 21:50**: chore: update questions database with recent DOTM updates
