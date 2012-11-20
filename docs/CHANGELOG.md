@@ -1,4 +1,3 @@
-- **2012-10-06 19:24**: docs: update README with setup instructions and feature list
 - **2012-10-07 19:11**: refactor: optimize SVG rendering for road signs
 - **2012-10-07 19:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-08 18:08**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2012-11-18 21:50**: chore: update questions database with recent DOTM updates
 - **2012-11-19 09:42**: feat: add warning signs and informational road signs
 - **2012-11-20 09:13**: perf: lazy load signal graphics and question assets
+- **2012-11-20 11:34**: feat: implement timer and score calculation for mock test
