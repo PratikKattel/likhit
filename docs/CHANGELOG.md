@@ -1,4 +1,3 @@
-- **2012-10-07 19:11**: refactor: optimize SVG rendering for road signs
 - **2012-10-07 19:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-08 18:08**: fix: resolve layout shift during question transitions
 - **2012-10-08 18:50**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-11-19 09:42**: feat: add warning signs and informational road signs
 - **2012-11-20 09:13**: perf: lazy load signal graphics and question assets
 - **2012-11-20 11:34**: feat: implement timer and score calculation for mock test
+- **2012-11-20 16:50**: feat: add category A and B traffic test questions
