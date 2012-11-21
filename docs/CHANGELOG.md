@@ -1,4 +1,3 @@
-- **2012-10-07 19:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-08 18:08**: fix: resolve layout shift during question transitions
 - **2012-10-08 18:50**: chore: format code style and clean up redundant variables
 - **2012-10-08 21:46**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2012-11-20 09:13**: perf: lazy load signal graphics and question assets
 - **2012-11-20 11:34**: feat: implement timer and score calculation for mock test
 - **2012-11-20 16:50**: feat: add category A and B traffic test questions
+- **2012-11-21 12:07**: fix: adjust passing score threshold according to new rules
