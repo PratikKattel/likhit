@@ -1,4 +1,3 @@
-- **2012-10-08 18:50**: chore: format code style and clean up redundant variables
 - **2012-10-08 21:46**: fix: correct color specifications for mandatory traffic signs
 - **2012-10-09 19:17**: perf: lazy load signal graphics and question assets
 - **2012-10-10 20:09**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2012-11-20 16:50**: feat: add category A and B traffic test questions
 - **2012-11-21 12:07**: fix: adjust passing score threshold according to new rules
 - **2012-11-21 21:36**: feat: add result summary with passing threshold analysis
+- **2012-11-21 22:24**: refactor: clean up unused CSS classes and optimize stylesheet
