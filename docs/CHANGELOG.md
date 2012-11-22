@@ -1,4 +1,3 @@
-- **2012-10-09 19:17**: perf: lazy load signal graphics and question assets
 - **2012-10-10 20:09**: docs: update traffic signals catalog documentation
 - **2012-10-10 22:21**: feat: add category-specific practice modes
 - **2012-10-11 21:36**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-11-21 21:36**: feat: add result summary with passing threshold analysis
 - **2012-11-21 22:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-11-22 09:20**: docs: add instructions for Nepali driving license written exam
+- **2012-11-22 12:03**: feat: add result summary with passing threshold analysis
