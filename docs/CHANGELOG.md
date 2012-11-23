@@ -1,4 +1,3 @@
-- **2012-10-11 21:36**: feat: implement timer and score calculation for mock test
 - **2012-10-12 19:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-10-13 19:06**: feat: support multiple choice questions for motorcycle category
 - **2012-10-14 09:01**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2012-11-22 12:03**: feat: add result summary with passing threshold analysis
 - **2012-11-22 12:26**: chore: update questions database with recent DOTM updates
 - **2012-11-22 13:33**: feat: add warning signs and informational road signs
+- **2012-11-23 14:27**: refactor: restructure question data schema for faster loading
