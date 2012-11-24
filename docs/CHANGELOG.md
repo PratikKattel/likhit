@@ -1,4 +1,3 @@
-- **2012-10-14 09:01**: chore: format code style and clean up redundant variables
 - **2012-10-14 12:18**: style: polish typography and Nepali Unicode font rendering
 - **2012-10-15 09:25**: refactor: optimize SVG rendering for road signs
 - **2012-10-16 09:32**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-11-23 14:27**: refactor: restructure question data schema for faster loading
 - **2012-11-23 14:43**: fix: adjust passing score threshold according to new rules
 - **2012-11-24 15:44**: fix: update DOTM Nepal license syllabus questions
+- **2012-11-24 15:47**: perf: lazy load signal graphics and question assets
