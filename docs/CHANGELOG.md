@@ -1,4 +1,3 @@
-- **2012-10-17 21:00**: perf: index question IDs for rapid lookup
 - **2012-10-18 19:44**: fix: update DOTM Nepal license syllabus questions
 - **2012-10-19 14:22**: feat: implement timer and score calculation for mock test
 - **2012-10-19 18:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2012-11-24 18:11**: refactor: restructure question data schema for faster loading
 - **2012-11-24 22:10**: refactor: modularize traffic app logic and event listeners
 - **2012-11-25 14:36**: feat: add warning signs and informational road signs
+- **2012-11-26 19:58**: fix: update DOTM Nepal license syllabus questions
