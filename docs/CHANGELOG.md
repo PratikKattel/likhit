@@ -1,4 +1,3 @@
-- **2012-10-19 18:24**: chore: update project metadata and build configuration
 - **2012-10-20 11:22**: fix: update DOTM Nepal license syllabus questions
 - **2012-10-20 15:42**: fix: prevent option re-selection after submitting answer
 - **2012-10-21 09:55**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2012-11-26 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-27 14:08**: refactor: modularize traffic app logic and event listeners
 - **2012-11-27 18:36**: fix: typo in Nepali road safety regulations question
+- **2012-11-27 21:43**: refactor: restructure question data schema for faster loading
