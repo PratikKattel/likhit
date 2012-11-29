@@ -1,4 +1,3 @@
-- **2012-10-21 09:55**: feat: add category-specific practice modes
 - **2012-10-21 17:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-21 19:06**: feat: add keyboard navigation shortcuts for question selection
 - **2012-10-22 10:44**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2012-11-27 21:43**: refactor: restructure question data schema for faster loading
 - **2012-11-28 14:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-29 14:38**: perf: lazy load signal graphics and question assets
+- **2012-11-29 17:13**: fix: correct color specifications for mandatory traffic signs
