@@ -1,4 +1,3 @@
-- **2012-10-21 17:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-10-21 19:06**: feat: add keyboard navigation shortcuts for question selection
 - **2012-10-22 10:44**: perf: optimize image caching for traffic sign assets
 - **2012-10-22 19:29**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-11-28 14:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-29 14:38**: perf: lazy load signal graphics and question assets
 - **2012-11-29 17:13**: fix: correct color specifications for mandatory traffic signs
+- **2012-11-29 22:20**: perf: index question IDs for rapid lookup
