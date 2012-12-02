@@ -1,4 +1,3 @@
-- **2012-10-24 15:37**: docs: add instructions for Nepali driving license written exam
 - **2012-10-24 15:59**: perf: lazy load signal graphics and question assets
 - **2012-10-25 18:49**: fix: adjust passing score threshold according to new rules
 - **2012-10-26 11:31**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2012-11-30 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2012-12-01 10:42**: chore: update project metadata and build configuration
 - **2012-12-02 17:14**: feat: add result summary with passing threshold analysis
+- **2012-12-02 18:31**: feat: implement timer and score calculation for mock test
