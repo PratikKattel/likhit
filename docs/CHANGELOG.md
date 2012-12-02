@@ -1,4 +1,3 @@
-- **2012-10-23 15:23**: feat: add category A and B traffic test questions
 - **2012-10-24 15:37**: docs: add instructions for Nepali driving license written exam
 - **2012-10-24 15:59**: perf: lazy load signal graphics and question assets
 - **2012-10-25 18:49**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2012-11-30 15:31**: feat: support multiple choice questions for motorcycle category
 - **2012-11-30 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2012-12-01 10:42**: chore: update project metadata and build configuration
+- **2012-12-02 17:14**: feat: add result summary with passing threshold analysis
