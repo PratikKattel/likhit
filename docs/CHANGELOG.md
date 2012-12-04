@@ -1,4 +1,3 @@
-- **2012-10-26 17:54**: perf: lazy load signal graphics and question assets
 - **2012-10-26 18:05**: chore: update questions database with recent DOTM updates
 - **2012-10-27 09:29**: feat: add warning signs and informational road signs
 - **2012-10-27 18:35**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2012-12-02 21:21**: fix: resolve layout shift during question transitions
 - **2012-12-03 10:32**: refactor: optimize SVG rendering for road signs
 - **2012-12-03 16:37**: fix: typo in Nepali road safety regulations question
+- **2012-12-04 09:14**: docs: add instructions for Nepali driving license written exam
