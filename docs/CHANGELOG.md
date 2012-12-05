@@ -1,4 +1,3 @@
-- **2012-10-28 09:58**: chore: organize assets and image directory structure
 - **2012-10-29 18:46**: feat: add category A and B traffic test questions
 - **2012-10-30 14:47**: feat: add instant feedback and explanation on answer selection
 - **2012-10-30 15:25**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2012-12-04 11:16**: docs: improve code comments and API documentation
 - **2012-12-04 12:55**: feat: implement timer and score calculation for mock test
 - **2012-12-04 14:08**: feat: support multiple choice questions for motorcycle category
+- **2012-12-05 12:14**: feat: add warning signs and informational road signs
