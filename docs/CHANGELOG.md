@@ -1,4 +1,3 @@
-- **2012-10-29 18:46**: feat: add category A and B traffic test questions
 - **2012-10-30 14:47**: feat: add instant feedback and explanation on answer selection
 - **2012-10-30 15:25**: chore: organize assets and image directory structure
 - **2012-10-30 18:58**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2012-12-04 12:55**: feat: implement timer and score calculation for mock test
 - **2012-12-04 14:08**: feat: support multiple choice questions for motorcycle category
 - **2012-12-05 12:14**: feat: add warning signs and informational road signs
+- **2012-12-06 11:49**: perf: lazy load signal graphics and question assets
