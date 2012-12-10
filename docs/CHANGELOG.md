@@ -1,4 +1,3 @@
-- **2012-11-01 21:06**: feat: add search and filter by sign category
 - **2012-11-02 14:33**: feat: add search and filter by sign category
 - **2012-11-02 18:11**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-03 12:11**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-12-08 14:41**: feat: implement timer and score calculation for mock test
 - **2012-12-08 16:57**: test: verify question extraction script against exam PDF
 - **2012-12-09 17:41**: style: improve dark/light mode and mobile UI responsiveness
+- **2012-12-10 14:22**: feat: add result summary with passing threshold analysis
