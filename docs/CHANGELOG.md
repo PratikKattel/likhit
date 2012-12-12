@@ -1,4 +1,3 @@
-- **2012-11-03 20:32**: refactor: restructure question data schema for faster loading
 - **2012-11-04 10:55**: feat: add result summary with passing threshold analysis
 - **2012-11-04 20:48**: perf: lazy load signal graphics and question assets
 - **2012-11-05 11:58**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-12-10 14:23**: feat: add category A and B traffic test questions
 - **2012-12-11 12:11**: feat: add instant feedback and explanation on answer selection
 - **2012-12-11 17:26**: fix: typo in Nepali road safety regulations question
+- **2012-12-12 14:07**: fix: correct color specifications for mandatory traffic signs
