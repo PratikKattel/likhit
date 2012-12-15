@@ -1,4 +1,3 @@
-- **2012-11-06 10:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-11-06 17:06**: feat: add category-specific practice modes
 - **2012-11-07 13:48**: fix: correct color specifications for mandatory traffic signs
 - **2012-11-07 14:46**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2012-12-12 17:02**: perf: index question IDs for rapid lookup
 - **2012-12-13 14:17**: fix: resolve layout shift during question transitions
 - **2012-12-14 21:32**: chore: update project metadata and build configuration
+- **2012-12-15 11:14**: feat: add category A and B traffic test questions
