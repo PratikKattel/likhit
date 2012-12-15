@@ -1,4 +1,3 @@
-- **2012-11-07 14:46**: style: enhance traffic sign card layout and responsiveness
 - **2012-11-07 18:42**: style: polish typography and Nepali Unicode font rendering
 - **2012-11-08 10:25**: docs: add instructions for Nepali driving license written exam
 - **2012-11-08 11:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2012-12-15 11:14**: feat: add category A and B traffic test questions
 - **2012-12-15 12:27**: feat: add category A and B traffic test questions
 - **2012-12-15 15:56**: feat: add category-specific practice modes
+- **2012-12-15 20:05**: perf: index question IDs for rapid lookup
