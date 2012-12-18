@@ -1,4 +1,3 @@
-- **2012-11-09 09:23**: chore: update project metadata and build configuration
 - **2012-11-09 19:12**: chore: update project metadata and build configuration
 - **2012-11-10 12:06**: feat: support multiple choice questions for motorcycle category
 - **2012-11-10 12:59**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2012-12-16 20:32**: feat: support multiple choice questions for motorcycle category
 - **2012-12-17 11:00**: feat: add search and filter by sign category
 - **2012-12-17 12:38**: feat: add instant feedback and explanation on answer selection
+- **2012-12-18 10:27**: refactor: optimize SVG rendering for road signs
