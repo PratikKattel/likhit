@@ -1,4 +1,3 @@
-- **2012-11-10 12:06**: feat: support multiple choice questions for motorcycle category
 - **2012-11-10 12:59**: feat: add search and filter by sign category
 - **2012-11-10 15:21**: chore: update project metadata and build configuration
 - **2012-11-11 12:02**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2012-12-17 12:38**: feat: add instant feedback and explanation on answer selection
 - **2012-12-18 10:27**: refactor: optimize SVG rendering for road signs
 - **2012-12-18 13:23**: style: polish typography and Nepali Unicode font rendering
+- **2012-12-18 20:22**: docs: update traffic signals catalog documentation
