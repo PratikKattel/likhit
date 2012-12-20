@@ -1,4 +1,3 @@
-- **2012-11-10 15:21**: chore: update project metadata and build configuration
 - **2012-11-11 12:02**: feat: implement timer and score calculation for mock test
 - **2012-11-12 14:48**: docs: update traffic signals catalog documentation
 - **2012-11-12 19:19**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2012-12-18 13:23**: style: polish typography and Nepali Unicode font rendering
 - **2012-12-18 20:22**: docs: update traffic signals catalog documentation
 - **2012-12-19 09:24**: chore: update project metadata and build configuration
+- **2012-12-20 16:14**: style: improve dark/light mode and mobile UI responsiveness
