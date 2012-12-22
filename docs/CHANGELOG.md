@@ -1,4 +1,3 @@
-- **2012-11-13 21:09**: perf: optimize image caching for traffic sign assets
 - **2012-11-14 13:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-11-15 09:13**: perf: optimize image caching for traffic sign assets
 - **2012-11-15 14:10**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2012-12-20 18:12**: fix: adjust passing score threshold according to new rules
 - **2012-12-20 18:45**: feat: add instant feedback and explanation on answer selection
 - **2012-12-21 10:17**: refactor: restructure question data schema for faster loading
+- **2012-12-22 12:22**: feat: add warning signs and informational road signs
