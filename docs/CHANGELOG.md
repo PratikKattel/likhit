@@ -1,4 +1,3 @@
-- **2012-11-15 09:13**: perf: optimize image caching for traffic sign assets
 - **2012-11-15 14:10**: feat: add keyboard navigation shortcuts for question selection
 - **2012-11-16 09:00**: chore: format code style and clean up redundant variables
 - **2012-11-16 21:54**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2012-12-21 10:17**: refactor: restructure question data schema for faster loading
 - **2012-12-22 12:22**: feat: add warning signs and informational road signs
 - **2012-12-22 18:47**: style: polish typography and Nepali Unicode font rendering
+- **2012-12-23 14:17**: feat: add keyboard navigation shortcuts for question selection
