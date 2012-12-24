@@ -1,4 +1,3 @@
-- **2012-11-16 21:54**: docs: improve code comments and API documentation
 - **2012-11-16 22:01**: feat: add category-specific practice modes
 - **2012-11-17 17:13**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-18 20:14**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-12-23 14:17**: feat: add keyboard navigation shortcuts for question selection
 - **2012-12-23 18:08**: feat: add warning signs and informational road signs
 - **2012-12-23 18:21**: chore: organize assets and image directory structure
+- **2012-12-24 11:07**: feat: add warning signs and informational road signs
