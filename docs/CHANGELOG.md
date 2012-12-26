@@ -1,4 +1,3 @@
-- **2012-11-18 20:14**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-18 21:50**: chore: update questions database with recent DOTM updates
 - **2012-11-19 09:42**: feat: add warning signs and informational road signs
 - **2012-11-20 09:13**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2012-12-24 11:07**: feat: add warning signs and informational road signs
 - **2012-12-25 20:23**: fix: typo in Nepali road safety regulations question
 - **2012-12-26 16:53**: chore: update questions database with recent DOTM updates
+- **2012-12-26 18:12**: feat: add regulatory traffic signs SVG graphics
