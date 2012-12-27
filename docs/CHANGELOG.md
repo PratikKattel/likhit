@@ -1,4 +1,3 @@
-- **2012-11-19 09:42**: feat: add warning signs and informational road signs
 - **2012-11-20 09:13**: perf: lazy load signal graphics and question assets
 - **2012-11-20 11:34**: feat: implement timer and score calculation for mock test
 - **2012-11-20 16:50**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2012-12-26 16:53**: chore: update questions database with recent DOTM updates
 - **2012-12-26 18:12**: feat: add regulatory traffic signs SVG graphics
 - **2012-12-26 18:23**: perf: lazy load signal graphics and question assets
+- **2012-12-27 21:21**: feat: add keyboard navigation shortcuts for question selection
