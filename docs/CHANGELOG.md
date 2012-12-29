@@ -1,4 +1,3 @@
-- **2012-11-20 11:34**: feat: implement timer and score calculation for mock test
 - **2012-11-20 16:50**: feat: add category A and B traffic test questions
 - **2012-11-21 12:07**: fix: adjust passing score threshold according to new rules
 - **2012-11-21 21:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2012-12-26 18:23**: perf: lazy load signal graphics and question assets
 - **2012-12-27 21:21**: feat: add keyboard navigation shortcuts for question selection
 - **2012-12-28 09:18**: fix: correct color specifications for mandatory traffic signs
+- **2012-12-29 14:28**: refactor: clean up unused CSS classes and optimize stylesheet
