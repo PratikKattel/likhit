@@ -1,4 +1,3 @@
-- **2012-11-22 09:20**: docs: add instructions for Nepali driving license written exam
 - **2012-11-22 12:03**: feat: add result summary with passing threshold analysis
 - **2012-11-22 12:26**: chore: update questions database with recent DOTM updates
 - **2012-11-22 13:33**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2012-12-29 15:52**: feat: add category-specific practice modes
 - **2012-12-29 20:58**: refactor: restructure question data schema for faster loading
 - **2012-12-30 15:31**: feat: add instant feedback and explanation on answer selection
+- **2012-12-30 19:57**: chore: organize assets and image directory structure
