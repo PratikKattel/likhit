@@ -1,4 +1,3 @@
-- **2012-11-22 13:33**: feat: add warning signs and informational road signs
 - **2012-11-23 14:27**: refactor: restructure question data schema for faster loading
 - **2012-11-23 14:43**: fix: adjust passing score threshold according to new rules
 - **2012-11-24 15:44**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2012-12-30 19:57**: chore: organize assets and image directory structure
 - **2012-12-31 10:48**: chore: update questions database with recent DOTM updates
 - **2012-12-31 15:51**: fix: update DOTM Nepal license syllabus questions
+- **2013-01-01 21:22**: feat: add warning signs and informational road signs
