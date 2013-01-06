@@ -1,4 +1,3 @@
-- **2012-11-26 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-27 14:08**: refactor: modularize traffic app logic and event listeners
 - **2012-11-27 18:36**: fix: typo in Nepali road safety regulations question
 - **2012-11-27 21:43**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-01-05 18:17**: chore: format code style and clean up redundant variables
 - **2013-01-06 09:53**: feat: add instant feedback and explanation on answer selection
 - **2013-01-06 12:57**: refactor: restructure question data schema for faster loading
+- **2013-01-06 15:02**: perf: index question IDs for rapid lookup
