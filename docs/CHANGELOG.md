@@ -1,4 +1,3 @@
-- **2012-11-24 22:10**: refactor: modularize traffic app logic and event listeners
 - **2012-11-25 14:36**: feat: add warning signs and informational road signs
 - **2012-11-26 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-27 14:08**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2013-01-03 20:56**: chore: update project metadata and build configuration
 - **2013-01-04 14:40**: feat: add category A and B traffic test questions
 - **2013-01-05 18:17**: chore: format code style and clean up redundant variables
+- **2013-01-06 09:53**: feat: add instant feedback and explanation on answer selection
