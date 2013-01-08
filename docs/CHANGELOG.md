@@ -1,4 +1,3 @@
-- **2012-11-27 18:36**: fix: typo in Nepali road safety regulations question
 - **2012-11-27 21:43**: refactor: restructure question data schema for faster loading
 - **2012-11-28 14:51**: fix: update DOTM Nepal license syllabus questions
 - **2012-11-29 14:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-01-06 12:57**: refactor: restructure question data schema for faster loading
 - **2013-01-06 15:02**: perf: index question IDs for rapid lookup
 - **2013-01-07 18:47**: feat: add warning signs and informational road signs
+- **2013-01-08 16:22**: chore: organize assets and image directory structure
