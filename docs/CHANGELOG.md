@@ -1,4 +1,3 @@
-- **2012-11-29 17:13**: fix: correct color specifications for mandatory traffic signs
 - **2012-11-29 22:20**: perf: index question IDs for rapid lookup
 - **2012-11-30 15:31**: feat: support multiple choice questions for motorcycle category
 - **2012-11-30 22:00**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-01-09 12:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-09 18:26**: perf: index question IDs for rapid lookup
 - **2013-01-10 15:24**: docs: update README with setup instructions and feature list
+- **2013-01-10 17:46**: refactor: clean up unused CSS classes and optimize stylesheet
