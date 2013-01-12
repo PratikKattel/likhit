@@ -1,4 +1,3 @@
-- **2012-11-30 15:31**: feat: support multiple choice questions for motorcycle category
 - **2012-11-30 22:00**: fix: update DOTM Nepal license syllabus questions
 - **2012-12-01 10:42**: chore: update project metadata and build configuration
 - **2012-12-02 17:14**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-01-10 15:24**: docs: update README with setup instructions and feature list
 - **2013-01-10 17:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-11 15:54**: fix: update DOTM Nepal license syllabus questions
+- **2013-01-12 17:46**: feat: add category A and B traffic test questions
