@@ -1,4 +1,3 @@
-- **2012-12-04 09:14**: docs: add instructions for Nepali driving license written exam
 - **2012-12-04 11:16**: docs: improve code comments and API documentation
 - **2012-12-04 12:55**: feat: implement timer and score calculation for mock test
 - **2012-12-04 14:08**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-01-14 18:43**: chore: format code style and clean up redundant variables
 - **2013-01-14 20:10**: fix: typo in Nepali road safety regulations question
 - **2013-01-15 16:05**: feat: add regulatory traffic signs SVG graphics
+- **2013-01-15 19:23**: docs: add instructions for Nepali driving license written exam
