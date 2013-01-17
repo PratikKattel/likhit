@@ -1,4 +1,3 @@
-- **2012-12-04 14:08**: feat: support multiple choice questions for motorcycle category
 - **2012-12-05 12:14**: feat: add warning signs and informational road signs
 - **2012-12-06 11:49**: perf: lazy load signal graphics and question assets
 - **2012-12-06 14:19**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2013-01-15 19:23**: docs: add instructions for Nepali driving license written exam
 - **2013-01-16 12:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-16 18:24**: refactor: modularize traffic app logic and event listeners
+- **2013-01-17 09:44**: style: enhance traffic sign card layout and responsiveness
