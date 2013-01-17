@@ -1,4 +1,3 @@
-- **2012-12-05 12:14**: feat: add warning signs and informational road signs
 - **2012-12-06 11:49**: perf: lazy load signal graphics and question assets
 - **2012-12-06 14:19**: refactor: modularize traffic app logic and event listeners
 - **2012-12-06 20:04**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-01-16 12:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-16 18:24**: refactor: modularize traffic app logic and event listeners
 - **2013-01-17 09:44**: style: enhance traffic sign card layout and responsiveness
+- **2013-01-17 13:18**: test: verify question extraction script against exam PDF
