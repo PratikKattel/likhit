@@ -1,4 +1,3 @@
-- **2012-12-06 11:49**: perf: lazy load signal graphics and question assets
 - **2012-12-06 14:19**: refactor: modularize traffic app logic and event listeners
 - **2012-12-06 20:04**: perf: index question IDs for rapid lookup
 - **2012-12-07 11:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-01-16 18:24**: refactor: modularize traffic app logic and event listeners
 - **2013-01-17 09:44**: style: enhance traffic sign card layout and responsiveness
 - **2013-01-17 13:18**: test: verify question extraction script against exam PDF
+- **2013-01-17 15:39**: feat: implement timer and score calculation for mock test
