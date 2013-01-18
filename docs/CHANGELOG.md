@@ -1,4 +1,3 @@
-- **2012-12-06 20:04**: perf: index question IDs for rapid lookup
 - **2012-12-07 11:41**: feat: add regulatory traffic signs SVG graphics
 - **2012-12-08 13:03**: fix: resolve layout shift during question transitions
 - **2012-12-08 14:41**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2013-01-17 13:18**: test: verify question extraction script against exam PDF
 - **2013-01-17 15:39**: feat: implement timer and score calculation for mock test
 - **2013-01-17 21:39**: style: enhance traffic sign card layout and responsiveness
+- **2013-01-18 16:45**: feat: add warning signs and informational road signs
