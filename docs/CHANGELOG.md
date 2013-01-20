@@ -1,4 +1,3 @@
-- **2012-12-08 14:41**: feat: implement timer and score calculation for mock test
 - **2012-12-08 16:57**: test: verify question extraction script against exam PDF
 - **2012-12-09 17:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-12-10 14:22**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-01-18 16:45**: feat: add warning signs and informational road signs
 - **2013-01-19 15:44**: feat: implement timer and score calculation for mock test
 - **2013-01-19 21:21**: feat: add category-specific practice modes
+- **2013-01-20 10:08**: chore: update questions database with recent DOTM updates
