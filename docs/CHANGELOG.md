@@ -1,4 +1,3 @@
-- **2012-12-09 17:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-12-10 14:22**: feat: add result summary with passing threshold analysis
 - **2012-12-10 14:23**: feat: add category A and B traffic test questions
 - **2012-12-11 12:11**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-01-19 21:21**: feat: add category-specific practice modes
 - **2013-01-20 10:08**: chore: update questions database with recent DOTM updates
 - **2013-01-20 22:20**: fix: resolve layout shift during question transitions
+- **2013-01-21 17:46**: feat: add keyboard navigation shortcuts for question selection
