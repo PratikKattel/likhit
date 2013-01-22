@@ -1,4 +1,3 @@
-- **2012-12-10 14:22**: feat: add result summary with passing threshold analysis
 - **2012-12-10 14:23**: feat: add category A and B traffic test questions
 - **2012-12-11 12:11**: feat: add instant feedback and explanation on answer selection
 - **2012-12-11 17:26**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2013-01-20 10:08**: chore: update questions database with recent DOTM updates
 - **2013-01-20 22:20**: fix: resolve layout shift during question transitions
 - **2013-01-21 17:46**: feat: add keyboard navigation shortcuts for question selection
+- **2013-01-22 11:37**: feat: add regulatory traffic signs SVG graphics
