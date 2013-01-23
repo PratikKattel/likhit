@@ -1,4 +1,3 @@
-- **2012-12-11 17:26**: fix: typo in Nepali road safety regulations question
 - **2012-12-12 14:07**: fix: correct color specifications for mandatory traffic signs
 - **2012-12-12 17:02**: perf: index question IDs for rapid lookup
 - **2012-12-13 14:17**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-01-22 11:37**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-22 12:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-22 15:26**: docs: improve code comments and API documentation
+- **2013-01-23 13:44**: feat: add regulatory traffic signs SVG graphics
