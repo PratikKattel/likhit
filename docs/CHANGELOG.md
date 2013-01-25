@@ -1,4 +1,3 @@
-- **2012-12-13 14:17**: fix: resolve layout shift during question transitions
 - **2012-12-14 21:32**: chore: update project metadata and build configuration
 - **2012-12-15 11:14**: feat: add category A and B traffic test questions
 - **2012-12-15 12:27**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2013-01-23 13:44**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-23 15:18**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-24 16:17**: chore: format code style and clean up redundant variables
+- **2013-01-25 09:06**: chore: format code style and clean up redundant variables
