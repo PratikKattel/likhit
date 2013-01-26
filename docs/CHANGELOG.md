@@ -1,4 +1,3 @@
-- **2012-12-15 15:56**: feat: add category-specific practice modes
 - **2012-12-15 20:05**: perf: index question IDs for rapid lookup
 - **2012-12-16 20:32**: feat: support multiple choice questions for motorcycle category
 - **2012-12-17 11:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-01-25 20:32**: refactor: optimize SVG rendering for road signs
 - **2013-01-26 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-26 17:56**: fix: update DOTM Nepal license syllabus questions
+- **2013-01-26 19:18**: feat: add category-specific practice modes
