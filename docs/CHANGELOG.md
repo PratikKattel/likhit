@@ -1,4 +1,3 @@
-- **2012-12-15 11:14**: feat: add category A and B traffic test questions
 - **2012-12-15 12:27**: feat: add category A and B traffic test questions
 - **2012-12-15 15:56**: feat: add category-specific practice modes
 - **2012-12-15 20:05**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-01-24 16:17**: chore: format code style and clean up redundant variables
 - **2013-01-25 09:06**: chore: format code style and clean up redundant variables
 - **2013-01-25 20:32**: refactor: optimize SVG rendering for road signs
+- **2013-01-26 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
