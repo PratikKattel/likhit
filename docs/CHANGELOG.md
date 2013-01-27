@@ -1,4 +1,3 @@
-- **2012-12-17 11:00**: feat: add search and filter by sign category
 - **2012-12-17 12:38**: feat: add instant feedback and explanation on answer selection
 - **2012-12-18 10:27**: refactor: optimize SVG rendering for road signs
 - **2012-12-18 13:23**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-01-26 19:18**: feat: add category-specific practice modes
 - **2013-01-27 17:05**: chore: update questions database with recent DOTM updates
 - **2013-01-27 18:55**: docs: add instructions for Nepali driving license written exam
+- **2013-01-27 20:15**: feat: add warning signs and informational road signs
