@@ -1,4 +1,3 @@
-- **2012-12-18 10:27**: refactor: optimize SVG rendering for road signs
 - **2012-12-18 13:23**: style: polish typography and Nepali Unicode font rendering
 - **2012-12-18 20:22**: docs: update traffic signals catalog documentation
 - **2012-12-19 09:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2013-01-27 18:55**: docs: add instructions for Nepali driving license written exam
 - **2013-01-27 20:15**: feat: add warning signs and informational road signs
 - **2013-01-28 12:42**: fix: adjust passing score threshold according to new rules
+- **2013-01-28 16:32**: feat: add search and filter by sign category
