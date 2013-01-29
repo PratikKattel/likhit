@@ -1,4 +1,3 @@
-- **2012-12-18 20:22**: docs: update traffic signals catalog documentation
 - **2012-12-19 09:24**: chore: update project metadata and build configuration
 - **2012-12-20 16:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-12-20 18:12**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-01-28 12:42**: fix: adjust passing score threshold according to new rules
 - **2013-01-28 16:32**: feat: add search and filter by sign category
 - **2013-01-28 17:51**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-01-29 14:56**: refactor: clean up unused CSS classes and optimize stylesheet
