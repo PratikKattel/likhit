@@ -1,4 +1,3 @@
-- **2012-12-20 16:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2012-12-20 18:12**: fix: adjust passing score threshold according to new rules
 - **2012-12-20 18:45**: feat: add instant feedback and explanation on answer selection
 - **2012-12-21 10:17**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-01-28 17:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-29 14:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-29 16:06**: feat: add warning signs and informational road signs
+- **2013-01-29 22:08**: feat: add instant feedback and explanation on answer selection
