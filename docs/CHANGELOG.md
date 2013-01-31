@@ -1,4 +1,3 @@
-- **2012-12-21 10:17**: refactor: restructure question data schema for faster loading
 - **2012-12-22 12:22**: feat: add warning signs and informational road signs
 - **2012-12-22 18:47**: style: polish typography and Nepali Unicode font rendering
 - **2012-12-23 14:17**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-01-29 22:08**: feat: add instant feedback and explanation on answer selection
 - **2013-01-30 18:07**: fix: adjust passing score threshold according to new rules
 - **2013-01-31 13:36**: fix: adjust passing score threshold according to new rules
+- **2013-01-31 20:02**: perf: lazy load signal graphics and question assets
