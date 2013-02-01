@@ -1,4 +1,3 @@
-- **2012-12-23 18:08**: feat: add warning signs and informational road signs
 - **2012-12-23 18:21**: chore: organize assets and image directory structure
 - **2012-12-24 11:07**: feat: add warning signs and informational road signs
 - **2012-12-25 20:23**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2013-01-31 21:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-02-01 12:34**: refactor: modularize traffic app logic and event listeners
 - **2013-02-01 13:03**: feat: implement timer and score calculation for mock test
+- **2013-02-01 17:51**: style: polish typography and Nepali Unicode font rendering
