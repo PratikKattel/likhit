@@ -1,4 +1,3 @@
-- **2012-12-24 11:07**: feat: add warning signs and informational road signs
 - **2012-12-25 20:23**: fix: typo in Nepali road safety regulations question
 - **2012-12-26 16:53**: chore: update questions database with recent DOTM updates
 - **2012-12-26 18:12**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-02-01 13:03**: feat: implement timer and score calculation for mock test
 - **2013-02-01 17:51**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-02 12:25**: style: enhance traffic sign card layout and responsiveness
+- **2013-02-03 11:26**: perf: lazy load signal graphics and question assets
