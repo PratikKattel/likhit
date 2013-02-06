@@ -1,4 +1,3 @@
-- **2012-12-26 18:23**: perf: lazy load signal graphics and question assets
 - **2012-12-27 21:21**: feat: add keyboard navigation shortcuts for question selection
 - **2012-12-28 09:18**: fix: correct color specifications for mandatory traffic signs
 - **2012-12-29 14:28**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-02-04 20:35**: docs: improve code comments and API documentation
 - **2013-02-05 12:21**: fix: resolve layout shift during question transitions
 - **2013-02-05 14:21**: refactor: optimize SVG rendering for road signs
+- **2013-02-06 13:07**: feat: add warning signs and informational road signs
