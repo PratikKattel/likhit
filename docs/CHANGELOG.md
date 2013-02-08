@@ -1,4 +1,3 @@
-- **2012-12-28 09:18**: fix: correct color specifications for mandatory traffic signs
 - **2012-12-29 14:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2012-12-29 14:48**: feat: add search and filter by sign category
 - **2012-12-29 15:52**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2013-02-05 14:21**: refactor: optimize SVG rendering for road signs
 - **2013-02-06 13:07**: feat: add warning signs and informational road signs
 - **2013-02-07 20:37**: feat: support multiple choice questions for motorcycle category
+- **2013-02-08 16:35**: fix: typo in Nepali road safety regulations question
