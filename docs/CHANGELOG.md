@@ -1,4 +1,3 @@
-- **2012-12-29 20:58**: refactor: restructure question data schema for faster loading
 - **2012-12-30 15:31**: feat: add instant feedback and explanation on answer selection
 - **2012-12-30 19:57**: chore: organize assets and image directory structure
 - **2012-12-31 10:48**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2013-02-08 21:56**: fix: adjust passing score threshold according to new rules
 - **2013-02-09 20:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-02-09 21:55**: style: polish typography and Nepali Unicode font rendering
+- **2013-02-10 19:35**: test: verify question extraction script against exam PDF
