@@ -1,4 +1,3 @@
-- **2012-12-30 19:57**: chore: organize assets and image directory structure
 - **2012-12-31 10:48**: chore: update questions database with recent DOTM updates
 - **2012-12-31 15:51**: fix: update DOTM Nepal license syllabus questions
 - **2013-01-01 21:22**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2013-02-09 21:55**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-10 19:35**: test: verify question extraction script against exam PDF
 - **2013-02-11 19:08**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-02-12 16:53**: fix: adjust passing score threshold according to new rules
