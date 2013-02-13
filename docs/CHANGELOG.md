@@ -1,4 +1,3 @@
-- **2012-12-31 15:51**: fix: update DOTM Nepal license syllabus questions
 - **2013-01-01 21:22**: feat: add warning signs and informational road signs
 - **2013-01-02 09:30**: perf: index question IDs for rapid lookup
 - **2013-01-02 11:03**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-02-11 19:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-12 16:53**: fix: adjust passing score threshold according to new rules
 - **2013-02-12 18:46**: fix: correct color specifications for mandatory traffic signs
+- **2013-02-13 20:08**: refactor: restructure question data schema for faster loading
