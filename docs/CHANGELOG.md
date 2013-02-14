@@ -1,4 +1,3 @@
-- **2013-01-02 09:30**: perf: index question IDs for rapid lookup
 - **2013-01-02 11:03**: feat: add keyboard navigation shortcuts for question selection
 - **2013-01-03 20:56**: chore: update project metadata and build configuration
 - **2013-01-04 14:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2013-02-12 18:46**: fix: correct color specifications for mandatory traffic signs
 - **2013-02-13 20:08**: refactor: restructure question data schema for faster loading
 - **2013-02-13 22:18**: style: polish typography and Nepali Unicode font rendering
+- **2013-02-14 16:14**: fix: correct color specifications for mandatory traffic signs
