@@ -1,4 +1,3 @@
-- **2013-01-06 15:02**: perf: index question IDs for rapid lookup
 - **2013-01-07 18:47**: feat: add warning signs and informational road signs
 - **2013-01-08 16:22**: chore: organize assets and image directory structure
 - **2013-01-09 12:22**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-02-16 12:54**: docs: improve code comments and API documentation
 - **2013-02-17 10:38**: feat: implement timer and score calculation for mock test
 - **2013-02-17 10:59**: refactor: restructure question data schema for faster loading
+- **2013-02-17 16:44**: perf: optimize image caching for traffic sign assets
