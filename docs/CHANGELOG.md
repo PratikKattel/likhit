@@ -1,4 +1,3 @@
-- **2013-01-09 12:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-09 18:26**: perf: index question IDs for rapid lookup
 - **2013-01-10 15:24**: docs: update README with setup instructions and feature list
 - **2013-01-10 17:46**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-02-17 16:44**: perf: optimize image caching for traffic sign assets
 - **2013-02-17 21:18**: chore: organize assets and image directory structure
 - **2013-02-18 10:48**: fix: resolve layout shift during question transitions
+- **2013-02-19 18:15**: style: improve dark/light mode and mobile UI responsiveness
