@@ -1,4 +1,3 @@
-- **2013-01-10 17:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-11 15:54**: fix: update DOTM Nepal license syllabus questions
 - **2013-01-12 17:46**: feat: add category A and B traffic test questions
 - **2013-01-12 21:43**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-02-19 18:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-20 18:37**: refactor: modularize traffic app logic and event listeners
 - **2013-02-20 22:24**: docs: add instructions for Nepali driving license written exam
+- **2013-02-21 20:13**: chore: organize assets and image directory structure
