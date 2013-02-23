@@ -1,4 +1,3 @@
-- **2013-01-12 17:46**: feat: add category A and B traffic test questions
 - **2013-01-12 21:43**: perf: index question IDs for rapid lookup
 - **2013-01-13 20:47**: chore: organize assets and image directory structure
 - **2013-01-13 20:56**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-02-20 22:24**: docs: add instructions for Nepali driving license written exam
 - **2013-02-21 20:13**: chore: organize assets and image directory structure
 - **2013-02-22 18:56**: refactor: optimize SVG rendering for road signs
+- **2013-02-23 18:34**: style: polish typography and Nepali Unicode font rendering
