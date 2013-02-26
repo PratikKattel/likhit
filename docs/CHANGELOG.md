@@ -1,4 +1,3 @@
-- **2013-01-14 18:43**: chore: format code style and clean up redundant variables
 - **2013-01-14 20:10**: fix: typo in Nepali road safety regulations question
 - **2013-01-15 16:05**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-15 19:23**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-02-24 10:36**: feat: implement timer and score calculation for mock test
 - **2013-02-25 11:25**: fix: resolve layout shift during question transitions
 - **2013-02-25 12:26**: fix: typo in Nepali road safety regulations question
+- **2013-02-26 18:21**: perf: lazy load signal graphics and question assets
