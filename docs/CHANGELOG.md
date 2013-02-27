@@ -1,4 +1,3 @@
-- **2013-01-14 20:10**: fix: typo in Nepali road safety regulations question
 - **2013-01-15 16:05**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-15 19:23**: docs: add instructions for Nepali driving license written exam
 - **2013-01-16 12:31**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2013-02-25 11:25**: fix: resolve layout shift during question transitions
 - **2013-02-25 12:26**: fix: typo in Nepali road safety regulations question
 - **2013-02-26 18:21**: perf: lazy load signal graphics and question assets
+- **2013-02-27 10:27**: fix: adjust passing score threshold according to new rules
