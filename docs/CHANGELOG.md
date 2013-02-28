@@ -1,4 +1,3 @@
-- **2013-01-16 12:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-16 18:24**: refactor: modularize traffic app logic and event listeners
 - **2013-01-17 09:44**: style: enhance traffic sign card layout and responsiveness
 - **2013-01-17 13:18**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-02-27 10:27**: fix: adjust passing score threshold according to new rules
 - **2013-02-27 11:15**: feat: implement timer and score calculation for mock test
 - **2013-02-28 19:07**: test: verify question extraction script against exam PDF
+- **2013-02-28 21:07**: docs: update README with setup instructions and feature list
