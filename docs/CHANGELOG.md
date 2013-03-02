@@ -1,4 +1,3 @@
-- **2013-01-17 09:44**: style: enhance traffic sign card layout and responsiveness
 - **2013-01-17 13:18**: test: verify question extraction script against exam PDF
 - **2013-01-17 15:39**: feat: implement timer and score calculation for mock test
 - **2013-01-17 21:39**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-02-28 19:07**: test: verify question extraction script against exam PDF
 - **2013-02-28 21:07**: docs: update README with setup instructions and feature list
 - **2013-03-01 15:29**: fix: prevent option re-selection after submitting answer
+- **2013-03-02 17:00**: perf: optimize image caching for traffic sign assets
