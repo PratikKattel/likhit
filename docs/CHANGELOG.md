@@ -1,4 +1,3 @@
-- **2013-01-17 15:39**: feat: implement timer and score calculation for mock test
 - **2013-01-17 21:39**: style: enhance traffic sign card layout and responsiveness
 - **2013-01-18 16:45**: feat: add warning signs and informational road signs
 - **2013-01-19 15:44**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2013-03-01 15:29**: fix: prevent option re-selection after submitting answer
 - **2013-03-02 17:00**: perf: optimize image caching for traffic sign assets
 - **2013-03-02 20:21**: fix: prevent option re-selection after submitting answer
+- **2013-03-03 13:58**: fix: adjust passing score threshold according to new rules
