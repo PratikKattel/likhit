@@ -1,4 +1,3 @@
-- **2013-01-19 21:21**: feat: add category-specific practice modes
 - **2013-01-20 10:08**: chore: update questions database with recent DOTM updates
 - **2013-01-20 22:20**: fix: resolve layout shift during question transitions
 - **2013-01-21 17:46**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-03-04 11:03**: fix: resolve layout shift during question transitions
 - **2013-03-04 17:16**: docs: add instructions for Nepali driving license written exam
 - **2013-03-05 13:03**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-03-05 19:30**: style: enhance traffic sign card layout and responsiveness
