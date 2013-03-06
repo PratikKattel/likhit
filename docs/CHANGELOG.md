@@ -1,4 +1,3 @@
-- **2013-01-20 22:20**: fix: resolve layout shift during question transitions
 - **2013-01-21 17:46**: feat: add keyboard navigation shortcuts for question selection
 - **2013-01-22 11:37**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-22 12:42**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2013-03-05 13:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-03-05 19:30**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-05 21:40**: style: enhance traffic sign card layout and responsiveness
+- **2013-03-06 09:02**: feat: add warning signs and informational road signs
