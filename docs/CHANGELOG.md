@@ -1,4 +1,3 @@
-- **2013-01-22 12:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-22 15:26**: docs: improve code comments and API documentation
 - **2013-01-23 13:44**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-23 15:18**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-03-06 09:02**: feat: add warning signs and informational road signs
 - **2013-03-07 11:49**: feat: add search and filter by sign category
 - **2013-03-07 19:01**: refactor: optimize SVG rendering for road signs
+- **2013-03-08 19:29**: fix: update DOTM Nepal license syllabus questions
