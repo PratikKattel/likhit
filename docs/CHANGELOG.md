@@ -1,4 +1,3 @@
-- **2013-01-23 13:44**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-23 15:18**: feat: add regulatory traffic signs SVG graphics
 - **2013-01-24 16:17**: chore: format code style and clean up redundant variables
 - **2013-01-25 09:06**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-03-07 19:01**: refactor: optimize SVG rendering for road signs
 - **2013-03-08 19:29**: fix: update DOTM Nepal license syllabus questions
 - **2013-03-09 10:01**: docs: update README with setup instructions and feature list
+- **2013-03-09 20:09**: docs: update traffic signals catalog documentation
