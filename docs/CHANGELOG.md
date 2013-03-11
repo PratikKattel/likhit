@@ -1,4 +1,3 @@
-- **2013-01-25 09:06**: chore: format code style and clean up redundant variables
 - **2013-01-25 20:32**: refactor: optimize SVG rendering for road signs
 - **2013-01-26 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-26 17:56**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-03-09 20:09**: docs: update traffic signals catalog documentation
 - **2013-03-10 15:45**: feat: support multiple choice questions for motorcycle category
 - **2013-03-11 14:00**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-03-11 15:36**: feat: add regulatory traffic signs SVG graphics
