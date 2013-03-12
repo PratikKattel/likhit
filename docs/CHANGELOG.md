@@ -1,4 +1,3 @@
-- **2013-01-26 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-01-26 17:56**: fix: update DOTM Nepal license syllabus questions
 - **2013-01-26 19:18**: feat: add category-specific practice modes
 - **2013-01-27 17:05**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2013-03-11 14:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-03-11 15:36**: feat: add regulatory traffic signs SVG graphics
 - **2013-03-11 22:10**: docs: improve code comments and API documentation
+- **2013-03-12 16:02**: refactor: modularize traffic app logic and event listeners
