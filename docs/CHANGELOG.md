@@ -1,4 +1,3 @@
-- **2013-01-27 18:55**: docs: add instructions for Nepali driving license written exam
 - **2013-01-27 20:15**: feat: add warning signs and informational road signs
 - **2013-01-28 12:42**: fix: adjust passing score threshold according to new rules
 - **2013-01-28 16:32**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-03-13 09:16**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-13 15:45**: feat: add category A and B traffic test questions
 - **2013-03-14 13:52**: feat: add keyboard navigation shortcuts for question selection
+- **2013-03-15 12:11**: docs: add instructions for Nepali driving license written exam
