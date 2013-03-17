@@ -1,4 +1,3 @@
-- **2013-01-28 12:42**: fix: adjust passing score threshold according to new rules
 - **2013-01-28 16:32**: feat: add search and filter by sign category
 - **2013-01-28 17:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-01-29 14:56**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-03-14 13:52**: feat: add keyboard navigation shortcuts for question selection
 - **2013-03-15 12:11**: docs: add instructions for Nepali driving license written exam
 - **2013-03-16 10:09**: perf: index question IDs for rapid lookup
+- **2013-03-17 09:51**: style: enhance traffic sign card layout and responsiveness
