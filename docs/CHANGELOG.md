@@ -1,4 +1,3 @@
-- **2013-01-29 16:06**: feat: add warning signs and informational road signs
 - **2013-01-29 22:08**: feat: add instant feedback and explanation on answer selection
 - **2013-01-30 18:07**: fix: adjust passing score threshold according to new rules
 - **2013-01-31 13:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-03-18 19:04**: feat: add instant feedback and explanation on answer selection
 - **2013-03-18 22:21**: fix: correct color specifications for mandatory traffic signs
 - **2013-03-19 11:37**: chore: format code style and clean up redundant variables
+- **2013-03-19 11:51**: fix: adjust passing score threshold according to new rules
