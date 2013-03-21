@@ -1,4 +1,3 @@
-- **2013-01-31 21:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-02-01 12:34**: refactor: modularize traffic app logic and event listeners
 - **2013-02-01 13:03**: feat: implement timer and score calculation for mock test
 - **2013-02-01 17:51**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-03-20 21:28**: fix: update DOTM Nepal license syllabus questions
 - **2013-03-20 22:20**: feat: add warning signs and informational road signs
 - **2013-03-21 14:05**: test: verify question extraction script against exam PDF
+- **2013-03-21 16:07**: feat: add keyboard navigation shortcuts for question selection
