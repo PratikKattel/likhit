@@ -1,4 +1,3 @@
-- **2013-02-02 12:25**: style: enhance traffic sign card layout and responsiveness
 - **2013-02-03 11:26**: perf: lazy load signal graphics and question assets
 - **2013-02-04 20:35**: docs: improve code comments and API documentation
 - **2013-02-05 12:21**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-03-21 20:30**: test: verify question extraction script against exam PDF
 - **2013-03-22 11:04**: docs: update README with setup instructions and feature list
 - **2013-03-22 19:48**: feat: add instant feedback and explanation on answer selection
+- **2013-03-23 12:03**: feat: add regulatory traffic signs SVG graphics
