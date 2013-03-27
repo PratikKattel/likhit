@@ -1,4 +1,3 @@
-- **2013-02-06 13:07**: feat: add warning signs and informational road signs
 - **2013-02-07 20:37**: feat: support multiple choice questions for motorcycle category
 - **2013-02-08 16:35**: fix: typo in Nepali road safety regulations question
 - **2013-02-08 21:56**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-03-25 10:32**: feat: add category-specific practice modes
 - **2013-03-26 14:37**: docs: update README with setup instructions and feature list
 - **2013-03-27 20:17**: chore: update project metadata and build configuration
+- **2013-03-27 21:56**: feat: implement timer and score calculation for mock test
