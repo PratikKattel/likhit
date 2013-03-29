@@ -1,4 +1,3 @@
-- **2013-02-08 21:56**: fix: adjust passing score threshold according to new rules
 - **2013-02-09 20:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-02-09 21:55**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-10 19:35**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-03-27 21:56**: feat: implement timer and score calculation for mock test
 - **2013-03-28 09:01**: fix: adjust passing score threshold according to new rules
 - **2013-03-29 11:17**: fix: correct color specifications for mandatory traffic signs
+- **2013-03-29 17:14**: feat: add category A and B traffic test questions
