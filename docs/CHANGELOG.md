@@ -1,4 +1,3 @@
-- **2013-02-09 21:55**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-10 19:35**: test: verify question extraction script against exam PDF
 - **2013-02-11 19:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-12 16:53**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-03-29 11:17**: fix: correct color specifications for mandatory traffic signs
 - **2013-03-29 17:14**: feat: add category A and B traffic test questions
 - **2013-03-29 19:07**: feat: add result summary with passing threshold analysis
+- **2013-03-30 13:22**: perf: lazy load signal graphics and question assets
