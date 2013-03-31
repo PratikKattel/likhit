@@ -1,4 +1,3 @@
-- **2013-02-11 19:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-12 16:53**: fix: adjust passing score threshold according to new rules
 - **2013-02-12 18:46**: fix: correct color specifications for mandatory traffic signs
 - **2013-02-13 20:08**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-03-29 19:07**: feat: add result summary with passing threshold analysis
 - **2013-03-30 13:22**: perf: lazy load signal graphics and question assets
 - **2013-03-30 13:56**: fix: prevent option re-selection after submitting answer
+- **2013-03-31 15:13**: style: improve dark/light mode and mobile UI responsiveness
