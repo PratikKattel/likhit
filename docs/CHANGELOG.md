@@ -1,4 +1,3 @@
-- **2013-02-13 20:08**: refactor: restructure question data schema for faster loading
 - **2013-02-13 22:18**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-14 16:14**: fix: correct color specifications for mandatory traffic signs
 - **2013-02-14 16:47**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-03-31 15:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-04-01 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2013-04-01 17:43**: feat: support multiple choice questions for motorcycle category
+- **2013-04-01 19:24**: style: polish typography and Nepali Unicode font rendering
