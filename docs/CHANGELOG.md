@@ -1,4 +1,3 @@
-- **2013-02-14 16:47**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-14 22:09**: feat: add regulatory traffic signs SVG graphics
 - **2013-02-15 18:51**: fix: adjust passing score threshold according to new rules
 - **2013-02-16 12:54**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2013-04-01 19:24**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-02 10:18**: docs: update traffic signals catalog documentation
 - **2013-04-02 11:28**: feat: add regulatory traffic signs SVG graphics
+- **2013-04-03 11:07**: feat: add search and filter by sign category
