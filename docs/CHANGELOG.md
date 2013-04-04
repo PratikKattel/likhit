@@ -1,4 +1,3 @@
-- **2013-02-15 18:51**: fix: adjust passing score threshold according to new rules
 - **2013-02-16 12:54**: docs: improve code comments and API documentation
 - **2013-02-17 10:38**: feat: implement timer and score calculation for mock test
 - **2013-02-17 10:59**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-04-02 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2013-04-03 11:07**: feat: add search and filter by sign category
 - **2013-04-03 21:57**: refactor: restructure question data schema for faster loading
+- **2013-04-04 11:55**: docs: update README with setup instructions and feature list
