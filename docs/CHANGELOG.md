@@ -1,4 +1,3 @@
-- **2013-02-17 10:38**: feat: implement timer and score calculation for mock test
 - **2013-02-17 10:59**: refactor: restructure question data schema for faster loading
 - **2013-02-17 16:44**: perf: optimize image caching for traffic sign assets
 - **2013-02-17 21:18**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-04-03 21:57**: refactor: restructure question data schema for faster loading
 - **2013-04-04 11:55**: docs: update README with setup instructions and feature list
 - **2013-04-04 20:50**: feat: add result summary with passing threshold analysis
+- **2013-04-05 19:13**: feat: add instant feedback and explanation on answer selection
