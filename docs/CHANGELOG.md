@@ -1,4 +1,3 @@
-- **2013-02-17 21:18**: chore: organize assets and image directory structure
 - **2013-02-18 10:48**: fix: resolve layout shift during question transitions
 - **2013-02-19 18:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-20 18:37**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2013-04-05 19:13**: feat: add instant feedback and explanation on answer selection
 - **2013-04-06 17:12**: perf: optimize image caching for traffic sign assets
 - **2013-04-06 22:22**: chore: format code style and clean up redundant variables
+- **2013-04-07 13:24**: docs: update README with setup instructions and feature list
