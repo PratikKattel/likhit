@@ -1,4 +1,3 @@
-- **2013-02-19 18:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-02-20 18:37**: refactor: modularize traffic app logic and event listeners
 - **2013-02-20 22:24**: docs: add instructions for Nepali driving license written exam
 - **2013-02-21 20:13**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-04-06 22:22**: chore: format code style and clean up redundant variables
 - **2013-04-07 13:24**: docs: update README with setup instructions and feature list
 - **2013-04-07 17:19**: feat: add keyboard navigation shortcuts for question selection
+- **2013-04-08 20:44**: chore: update questions database with recent DOTM updates
