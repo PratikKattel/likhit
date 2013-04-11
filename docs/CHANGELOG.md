@@ -1,4 +1,3 @@
-- **2013-02-23 18:34**: style: polish typography and Nepali Unicode font rendering
 - **2013-02-23 20:01**: refactor: modularize traffic app logic and event listeners
 - **2013-02-24 10:36**: feat: implement timer and score calculation for mock test
 - **2013-02-25 11:25**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-04-10 12:46**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-11 10:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-11 12:33**: fix: update DOTM Nepal license syllabus questions
+- **2013-04-11 19:14**: refactor: optimize SVG rendering for road signs
