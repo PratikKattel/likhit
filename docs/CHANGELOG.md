@@ -1,4 +1,3 @@
-- **2013-02-27 11:15**: feat: implement timer and score calculation for mock test
 - **2013-02-28 19:07**: test: verify question extraction script against exam PDF
 - **2013-02-28 21:07**: docs: update README with setup instructions and feature list
 - **2013-03-01 15:29**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-04-13 21:16**: chore: format code style and clean up redundant variables
 - **2013-04-14 16:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-15 13:31**: style: polish typography and Nepali Unicode font rendering
+- **2013-04-16 10:11**: style: enhance traffic sign card layout and responsiveness
