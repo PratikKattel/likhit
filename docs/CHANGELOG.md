@@ -1,4 +1,3 @@
-- **2013-02-28 19:07**: test: verify question extraction script against exam PDF
 - **2013-02-28 21:07**: docs: update README with setup instructions and feature list
 - **2013-03-01 15:29**: fix: prevent option re-selection after submitting answer
 - **2013-03-02 17:00**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-04-14 16:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-15 13:31**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-16 10:11**: style: enhance traffic sign card layout and responsiveness
+- **2013-04-16 16:00**: docs: improve code comments and API documentation
