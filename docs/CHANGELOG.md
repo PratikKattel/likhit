@@ -1,4 +1,3 @@
-- **2013-02-28 21:07**: docs: update README with setup instructions and feature list
 - **2013-03-01 15:29**: fix: prevent option re-selection after submitting answer
 - **2013-03-02 17:00**: perf: optimize image caching for traffic sign assets
 - **2013-03-02 20:21**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-04-15 13:31**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-16 10:11**: style: enhance traffic sign card layout and responsiveness
 - **2013-04-16 16:00**: docs: improve code comments and API documentation
+- **2013-04-17 14:32**: style: enhance traffic sign card layout and responsiveness
