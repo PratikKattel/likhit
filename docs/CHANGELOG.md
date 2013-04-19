@@ -1,4 +1,3 @@
-- **2013-03-02 20:21**: fix: prevent option re-selection after submitting answer
 - **2013-03-03 13:58**: fix: adjust passing score threshold according to new rules
 - **2013-03-04 11:03**: fix: resolve layout shift during question transitions
 - **2013-03-04 17:16**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-04-17 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2013-04-18 17:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-19 14:23**: chore: format code style and clean up redundant variables
+- **2013-04-19 14:30**: feat: support multiple choice questions for motorcycle category
