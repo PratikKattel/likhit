@@ -1,4 +1,3 @@
-- **2013-03-05 13:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-03-05 19:30**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-05 21:40**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-06 09:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2013-04-19 16:21**: feat: support multiple choice questions for motorcycle category
 - **2013-04-20 10:31**: feat: support multiple choice questions for motorcycle category
 - **2013-04-20 10:59**: docs: update README with setup instructions and feature list
+- **2013-04-21 11:52**: feat: support multiple choice questions for motorcycle category
