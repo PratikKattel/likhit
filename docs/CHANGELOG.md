@@ -1,4 +1,3 @@
-- **2013-03-06 09:02**: feat: add warning signs and informational road signs
 - **2013-03-07 11:49**: feat: add search and filter by sign category
 - **2013-03-07 19:01**: refactor: optimize SVG rendering for road signs
 - **2013-03-08 19:29**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-04-21 11:52**: feat: support multiple choice questions for motorcycle category
 - **2013-04-22 10:30**: fix: resolve layout shift during question transitions
 - **2013-04-22 16:13**: fix: adjust passing score threshold according to new rules
+- **2013-04-22 21:53**: refactor: restructure question data schema for faster loading
