@@ -1,4 +1,3 @@
-- **2013-03-07 11:49**: feat: add search and filter by sign category
 - **2013-03-07 19:01**: refactor: optimize SVG rendering for road signs
 - **2013-03-08 19:29**: fix: update DOTM Nepal license syllabus questions
 - **2013-03-09 10:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-04-22 10:30**: fix: resolve layout shift during question transitions
 - **2013-04-22 16:13**: fix: adjust passing score threshold according to new rules
 - **2013-04-22 21:53**: refactor: restructure question data schema for faster loading
+- **2013-04-23 11:38**: perf: lazy load signal graphics and question assets
