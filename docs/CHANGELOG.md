@@ -1,4 +1,3 @@
-- **2013-03-11 15:36**: feat: add regulatory traffic signs SVG graphics
 - **2013-03-11 22:10**: docs: improve code comments and API documentation
 - **2013-03-12 16:02**: refactor: modularize traffic app logic and event listeners
 - **2013-03-13 09:16**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-04-25 21:52**: docs: add instructions for Nepali driving license written exam
 - **2013-04-26 09:36**: feat: add category-specific practice modes
 - **2013-04-26 09:58**: docs: update README with setup instructions and feature list
+- **2013-04-26 21:52**: docs: add instructions for Nepali driving license written exam
