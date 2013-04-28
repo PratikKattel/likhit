@@ -1,4 +1,3 @@
-- **2013-03-13 15:45**: feat: add category A and B traffic test questions
 - **2013-03-14 13:52**: feat: add keyboard navigation shortcuts for question selection
 - **2013-03-15 12:11**: docs: add instructions for Nepali driving license written exam
 - **2013-03-16 10:09**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-04-27 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-28 11:22**: docs: add instructions for Nepali driving license written exam
 - **2013-04-28 17:53**: refactor: restructure question data schema for faster loading
+- **2013-04-28 19:10**: feat: add result summary with passing threshold analysis
