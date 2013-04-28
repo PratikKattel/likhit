@@ -1,4 +1,3 @@
-- **2013-03-12 16:02**: refactor: modularize traffic app logic and event listeners
 - **2013-03-13 09:16**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-13 15:45**: feat: add category A and B traffic test questions
 - **2013-03-14 13:52**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-04-26 09:58**: docs: update README with setup instructions and feature list
 - **2013-04-26 21:52**: docs: add instructions for Nepali driving license written exam
 - **2013-04-27 18:26**: style: polish typography and Nepali Unicode font rendering
+- **2013-04-28 11:22**: docs: add instructions for Nepali driving license written exam
