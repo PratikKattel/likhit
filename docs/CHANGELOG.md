@@ -1,4 +1,3 @@
-- **2013-03-15 12:11**: docs: add instructions for Nepali driving license written exam
 - **2013-03-16 10:09**: perf: index question IDs for rapid lookup
 - **2013-03-17 09:51**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-18 19:04**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-04-28 17:53**: refactor: restructure question data schema for faster loading
 - **2013-04-28 19:10**: feat: add result summary with passing threshold analysis
 - **2013-04-29 18:22**: perf: index question IDs for rapid lookup
+- **2013-04-30 10:25**: refactor: modularize traffic app logic and event listeners
