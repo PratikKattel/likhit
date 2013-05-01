@@ -1,4 +1,3 @@
-- **2013-03-18 22:21**: fix: correct color specifications for mandatory traffic signs
 - **2013-03-19 11:37**: chore: format code style and clean up redundant variables
 - **2013-03-19 11:51**: fix: adjust passing score threshold according to new rules
 - **2013-03-20 17:39**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-04-30 11:13**: feat: add warning signs and informational road signs
 - **2013-05-01 15:03**: feat: add search and filter by sign category
 - **2013-05-01 18:14**: perf: lazy load signal graphics and question assets
+- **2013-05-01 19:10**: fix: update DOTM Nepal license syllabus questions
