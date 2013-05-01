@@ -1,4 +1,3 @@
-- **2013-03-17 09:51**: style: enhance traffic sign card layout and responsiveness
 - **2013-03-18 19:04**: feat: add instant feedback and explanation on answer selection
 - **2013-03-18 22:21**: fix: correct color specifications for mandatory traffic signs
 - **2013-03-19 11:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-04-29 18:22**: perf: index question IDs for rapid lookup
 - **2013-04-30 10:25**: refactor: modularize traffic app logic and event listeners
 - **2013-04-30 11:13**: feat: add warning signs and informational road signs
+- **2013-05-01 15:03**: feat: add search and filter by sign category
