@@ -1,4 +1,3 @@
-- **2013-03-20 17:39**: chore: format code style and clean up redundant variables
 - **2013-03-20 21:28**: fix: update DOTM Nepal license syllabus questions
 - **2013-03-20 22:20**: feat: add warning signs and informational road signs
 - **2013-03-21 14:05**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-05-01 19:10**: fix: update DOTM Nepal license syllabus questions
 - **2013-05-02 20:20**: docs: add instructions for Nepali driving license written exam
 - **2013-05-03 15:36**: fix: update DOTM Nepal license syllabus questions
+- **2013-05-03 17:47**: fix: adjust passing score threshold according to new rules
