@@ -1,4 +1,3 @@
-- **2013-03-20 22:20**: feat: add warning signs and informational road signs
 - **2013-03-21 14:05**: test: verify question extraction script against exam PDF
 - **2013-03-21 16:07**: feat: add keyboard navigation shortcuts for question selection
 - **2013-03-21 20:30**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-05-03 15:36**: fix: update DOTM Nepal license syllabus questions
 - **2013-05-03 17:47**: fix: adjust passing score threshold according to new rules
 - **2013-05-03 20:43**: refactor: restructure question data schema for faster loading
+- **2013-05-04 16:52**: feat: add regulatory traffic signs SVG graphics
