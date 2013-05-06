@@ -1,4 +1,3 @@
-- **2013-03-21 20:30**: test: verify question extraction script against exam PDF
 - **2013-03-22 11:04**: docs: update README with setup instructions and feature list
 - **2013-03-22 19:48**: feat: add instant feedback and explanation on answer selection
 - **2013-03-23 12:03**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-05-04 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-05 12:22**: feat: add instant feedback and explanation on answer selection
 - **2013-05-05 15:55**: feat: add category A and B traffic test questions
+- **2013-05-06 13:46**: feat: add result summary with passing threshold analysis
