@@ -1,4 +1,3 @@
-- **2013-03-23 12:03**: feat: add regulatory traffic signs SVG graphics
 - **2013-03-24 22:01**: docs: update traffic signals catalog documentation
 - **2013-03-25 10:32**: feat: add category-specific practice modes
 - **2013-03-26 14:37**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-05-06 13:46**: feat: add result summary with passing threshold analysis
 - **2013-05-06 18:55**: docs: update README with setup instructions and feature list
 - **2013-05-07 15:31**: chore: format code style and clean up redundant variables
+- **2013-05-08 14:28**: test: verify question extraction script against exam PDF
