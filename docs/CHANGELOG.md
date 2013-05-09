@@ -1,4 +1,3 @@
-- **2013-03-26 14:37**: docs: update README with setup instructions and feature list
 - **2013-03-27 20:17**: chore: update project metadata and build configuration
 - **2013-03-27 21:56**: feat: implement timer and score calculation for mock test
 - **2013-03-28 09:01**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-05-08 14:28**: test: verify question extraction script against exam PDF
 - **2013-05-08 16:04**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-08 17:17**: perf: lazy load signal graphics and question assets
+- **2013-05-09 18:32**: style: polish typography and Nepali Unicode font rendering
