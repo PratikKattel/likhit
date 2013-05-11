@@ -1,4 +1,3 @@
-- **2013-03-29 11:17**: fix: correct color specifications for mandatory traffic signs
 - **2013-03-29 17:14**: feat: add category A and B traffic test questions
 - **2013-03-29 19:07**: feat: add result summary with passing threshold analysis
 - **2013-03-30 13:22**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-05-10 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-05-10 15:58**: feat: implement timer and score calculation for mock test
 - **2013-05-10 16:15**: fix: typo in Nepali road safety regulations question
+- **2013-05-11 10:12**: style: polish typography and Nepali Unicode font rendering
