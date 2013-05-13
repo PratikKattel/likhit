@@ -1,4 +1,3 @@
-- **2013-03-31 15:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-04-01 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2013-04-01 17:43**: feat: support multiple choice questions for motorcycle category
 - **2013-04-01 19:24**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-05-12 15:25**: refactor: optimize SVG rendering for road signs
 - **2013-05-13 10:56**: chore: format code style and clean up redundant variables
 - **2013-05-13 13:38**: fix: adjust passing score threshold according to new rules
+- **2013-05-13 22:20**: fix: correct color specifications for mandatory traffic signs
