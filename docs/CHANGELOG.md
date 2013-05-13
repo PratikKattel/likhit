@@ -1,4 +1,3 @@
-- **2013-03-30 13:22**: perf: lazy load signal graphics and question assets
 - **2013-03-30 13:56**: fix: prevent option re-selection after submitting answer
 - **2013-03-31 15:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-04-01 10:05**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-05-11 10:12**: style: polish typography and Nepali Unicode font rendering
 - **2013-05-11 22:20**: fix: typo in Nepali road safety regulations question
 - **2013-05-12 15:25**: refactor: optimize SVG rendering for road signs
+- **2013-05-13 10:56**: chore: format code style and clean up redundant variables
