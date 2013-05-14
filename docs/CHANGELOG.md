@@ -1,4 +1,3 @@
-- **2013-04-01 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2013-04-01 17:43**: feat: support multiple choice questions for motorcycle category
 - **2013-04-01 19:24**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-02 10:18**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2013-05-13 10:56**: chore: format code style and clean up redundant variables
 - **2013-05-13 13:38**: fix: adjust passing score threshold according to new rules
 - **2013-05-13 22:20**: fix: correct color specifications for mandatory traffic signs
+- **2013-05-14 10:16**: perf: lazy load signal graphics and question assets
