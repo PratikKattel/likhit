@@ -1,4 +1,3 @@
-- **2013-04-02 10:18**: docs: update traffic signals catalog documentation
 - **2013-04-02 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2013-04-03 11:07**: feat: add search and filter by sign category
 - **2013-04-03 21:57**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-05-14 10:16**: perf: lazy load signal graphics and question assets
 - **2013-05-14 20:37**: feat: implement timer and score calculation for mock test
 - **2013-05-15 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-05-16 10:00**: chore: organize assets and image directory structure
