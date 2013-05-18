@@ -1,4 +1,3 @@
-- **2013-04-03 21:57**: refactor: restructure question data schema for faster loading
 - **2013-04-04 11:55**: docs: update README with setup instructions and feature list
 - **2013-04-04 20:50**: feat: add result summary with passing threshold analysis
 - **2013-04-05 19:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-05-16 10:00**: chore: organize assets and image directory structure
 - **2013-05-17 18:27**: refactor: modularize traffic app logic and event listeners
 - **2013-05-18 14:37**: refactor: optimize SVG rendering for road signs
+- **2013-05-18 20:51**: style: improve dark/light mode and mobile UI responsiveness
