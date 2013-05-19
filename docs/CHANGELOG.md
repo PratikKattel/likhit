@@ -1,4 +1,3 @@
-- **2013-04-04 20:50**: feat: add result summary with passing threshold analysis
 - **2013-04-05 19:13**: feat: add instant feedback and explanation on answer selection
 - **2013-04-06 17:12**: perf: optimize image caching for traffic sign assets
 - **2013-04-06 22:22**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-05-18 14:37**: refactor: optimize SVG rendering for road signs
 - **2013-05-18 20:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-05-19 10:29**: fix: typo in Nepali road safety regulations question
+- **2013-05-19 14:42**: feat: add keyboard navigation shortcuts for question selection
