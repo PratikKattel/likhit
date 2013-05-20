@@ -1,4 +1,3 @@
-- **2013-04-05 19:13**: feat: add instant feedback and explanation on answer selection
 - **2013-04-06 17:12**: perf: optimize image caching for traffic sign assets
 - **2013-04-06 22:22**: chore: format code style and clean up redundant variables
 - **2013-04-07 13:24**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-05-18 20:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-05-19 10:29**: fix: typo in Nepali road safety regulations question
 - **2013-05-19 14:42**: feat: add keyboard navigation shortcuts for question selection
+- **2013-05-20 13:37**: style: enhance traffic sign card layout and responsiveness
