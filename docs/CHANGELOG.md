@@ -1,4 +1,3 @@
-- **2013-04-07 17:19**: feat: add keyboard navigation shortcuts for question selection
 - **2013-04-08 20:44**: chore: update questions database with recent DOTM updates
 - **2013-04-09 20:57**: chore: organize assets and image directory structure
 - **2013-04-10 12:46**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-05-20 17:49**: fix: resolve layout shift during question transitions
 - **2013-05-20 21:06**: fix: resolve layout shift during question transitions
 - **2013-05-21 11:14**: chore: update project metadata and build configuration
+- **2013-05-21 12:04**: feat: add category-specific practice modes
