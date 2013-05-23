@@ -1,4 +1,3 @@
-- **2013-04-09 20:57**: chore: organize assets and image directory structure
 - **2013-04-10 12:46**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-11 10:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-11 12:33**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-05-21 11:14**: chore: update project metadata and build configuration
 - **2013-05-21 12:04**: feat: add category-specific practice modes
 - **2013-05-22 10:03**: perf: optimize image caching for traffic sign assets
+- **2013-05-23 17:56**: refactor: clean up unused CSS classes and optimize stylesheet
