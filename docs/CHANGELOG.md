@@ -1,4 +1,3 @@
-- **2013-04-11 12:33**: fix: update DOTM Nepal license syllabus questions
 - **2013-04-11 19:14**: refactor: optimize SVG rendering for road signs
 - **2013-04-11 21:17**: feat: add search and filter by sign category
 - **2013-04-12 17:32**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-05-23 17:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-05-24 09:07**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-24 22:06**: fix: correct color specifications for mandatory traffic signs
+- **2013-05-25 19:26**: style: enhance traffic sign card layout and responsiveness
