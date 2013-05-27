@@ -1,4 +1,3 @@
-- **2013-04-11 21:17**: feat: add search and filter by sign category
 - **2013-04-12 17:32**: perf: index question IDs for rapid lookup
 - **2013-04-13 12:39**: docs: add instructions for Nepali driving license written exam
 - **2013-04-13 21:16**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-05-24 22:06**: fix: correct color specifications for mandatory traffic signs
 - **2013-05-25 19:26**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-26 09:25**: perf: index question IDs for rapid lookup
+- **2013-05-27 10:22**: chore: format code style and clean up redundant variables
