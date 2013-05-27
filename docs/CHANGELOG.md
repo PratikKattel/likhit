@@ -1,4 +1,3 @@
-- **2013-04-13 12:39**: docs: add instructions for Nepali driving license written exam
 - **2013-04-13 21:16**: chore: format code style and clean up redundant variables
 - **2013-04-14 16:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-15 13:31**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-05-26 09:25**: perf: index question IDs for rapid lookup
 - **2013-05-27 10:22**: chore: format code style and clean up redundant variables
 - **2013-05-27 12:55**: fix: prevent option re-selection after submitting answer
+- **2013-05-27 18:17**: feat: add keyboard navigation shortcuts for question selection
