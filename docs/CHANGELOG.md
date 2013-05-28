@@ -1,4 +1,3 @@
-- **2013-04-15 13:31**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-16 10:11**: style: enhance traffic sign card layout and responsiveness
 - **2013-04-16 16:00**: docs: improve code comments and API documentation
 - **2013-04-17 14:32**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-05-27 18:17**: feat: add keyboard navigation shortcuts for question selection
 - **2013-05-28 12:07**: perf: optimize image caching for traffic sign assets
 - **2013-05-28 19:59**: fix: prevent option re-selection after submitting answer
+- **2013-05-28 20:53**: feat: add regulatory traffic signs SVG graphics
