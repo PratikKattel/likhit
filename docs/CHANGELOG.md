@@ -1,4 +1,3 @@
-- **2013-04-16 16:00**: docs: improve code comments and API documentation
 - **2013-04-17 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2013-04-18 17:54**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-04-19 14:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-05-28 19:59**: fix: prevent option re-selection after submitting answer
 - **2013-05-28 20:53**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-29 17:53**: feat: add result summary with passing threshold analysis
+- **2013-05-30 17:46**: docs: add instructions for Nepali driving license written exam
