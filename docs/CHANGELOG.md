@@ -1,4 +1,3 @@
-- **2013-04-19 14:23**: chore: format code style and clean up redundant variables
 - **2013-04-19 14:30**: feat: support multiple choice questions for motorcycle category
 - **2013-04-19 16:21**: feat: support multiple choice questions for motorcycle category
 - **2013-04-20 10:31**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-05-30 17:46**: docs: add instructions for Nepali driving license written exam
 - **2013-05-30 18:23**: test: verify question extraction script against exam PDF
 - **2013-05-31 12:37**: feat: add warning signs and informational road signs
+- **2013-05-31 19:13**: docs: add instructions for Nepali driving license written exam
