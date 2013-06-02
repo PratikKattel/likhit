@@ -1,4 +1,3 @@
-- **2013-04-21 11:52**: feat: support multiple choice questions for motorcycle category
 - **2013-04-22 10:30**: fix: resolve layout shift during question transitions
 - **2013-04-22 16:13**: fix: adjust passing score threshold according to new rules
 - **2013-04-22 21:53**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-05-31 22:06**: chore: update project metadata and build configuration
 - **2013-06-01 12:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-06-01 19:58**: test: verify question extraction script against exam PDF
+- **2013-06-02 15:26**: docs: update traffic signals catalog documentation
