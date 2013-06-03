@@ -1,4 +1,3 @@
-- **2013-04-22 10:30**: fix: resolve layout shift during question transitions
 - **2013-04-22 16:13**: fix: adjust passing score threshold according to new rules
 - **2013-04-22 21:53**: refactor: restructure question data schema for faster loading
 - **2013-04-23 11:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-06-01 12:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-06-01 19:58**: test: verify question extraction script against exam PDF
 - **2013-06-02 15:26**: docs: update traffic signals catalog documentation
+- **2013-06-03 15:43**: feat: add category-specific practice modes
