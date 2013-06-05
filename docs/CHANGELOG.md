@@ -1,4 +1,3 @@
-- **2013-04-24 15:21**: feat: support multiple choice questions for motorcycle category
 - **2013-04-25 10:28**: refactor: restructure question data schema for faster loading
 - **2013-04-25 21:52**: docs: add instructions for Nepali driving license written exam
 - **2013-04-26 09:36**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2013-06-04 21:43**: fix: update DOTM Nepal license syllabus questions
 - **2013-06-04 22:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-06-05 10:32**: refactor: restructure question data schema for faster loading
+- **2013-06-05 11:47**: docs: improve code comments and API documentation
