@@ -1,4 +1,3 @@
-- **2013-04-26 09:58**: docs: update README with setup instructions and feature list
 - **2013-04-26 21:52**: docs: add instructions for Nepali driving license written exam
 - **2013-04-27 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-28 11:22**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-06-05 14:15**: style: polish typography and Nepali Unicode font rendering
 - **2013-06-05 16:49**: chore: update questions database with recent DOTM updates
 - **2013-06-06 18:48**: fix: prevent option re-selection after submitting answer
+- **2013-06-07 10:08**: perf: lazy load signal graphics and question assets
