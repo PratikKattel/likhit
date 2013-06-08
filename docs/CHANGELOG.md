@@ -1,4 +1,3 @@
-- **2013-04-27 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2013-04-28 11:22**: docs: add instructions for Nepali driving license written exam
 - **2013-04-28 17:53**: refactor: restructure question data schema for faster loading
 - **2013-04-28 19:10**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-06-06 18:48**: fix: prevent option re-selection after submitting answer
 - **2013-06-07 10:08**: perf: lazy load signal graphics and question assets
 - **2013-06-07 10:45**: feat: support multiple choice questions for motorcycle category
+- **2013-06-08 12:48**: fix: resolve layout shift during question transitions
