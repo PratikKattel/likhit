@@ -1,4 +1,3 @@
-- **2013-04-28 19:10**: feat: add result summary with passing threshold analysis
 - **2013-04-29 18:22**: perf: index question IDs for rapid lookup
 - **2013-04-30 10:25**: refactor: modularize traffic app logic and event listeners
 - **2013-04-30 11:13**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2013-06-08 12:48**: fix: resolve layout shift during question transitions
 - **2013-06-08 16:18**: style: polish typography and Nepali Unicode font rendering
 - **2013-06-08 19:17**: perf: index question IDs for rapid lookup
+- **2013-06-08 19:27**: feat: add regulatory traffic signs SVG graphics
