@@ -1,4 +1,3 @@
-- **2013-04-30 11:13**: feat: add warning signs and informational road signs
 - **2013-05-01 15:03**: feat: add search and filter by sign category
 - **2013-05-01 18:14**: perf: lazy load signal graphics and question assets
 - **2013-05-01 19:10**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-06-08 19:27**: feat: add regulatory traffic signs SVG graphics
 - **2013-06-09 22:27**: feat: add keyboard navigation shortcuts for question selection
 - **2013-06-10 10:50**: docs: add instructions for Nepali driving license written exam
+- **2013-06-10 21:56**: chore: update project metadata and build configuration
