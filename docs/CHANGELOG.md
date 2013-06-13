@@ -1,4 +1,3 @@
-- **2013-05-03 17:47**: fix: adjust passing score threshold according to new rules
 - **2013-05-03 20:43**: refactor: restructure question data schema for faster loading
 - **2013-05-04 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-05 12:22**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-06-12 17:18**: chore: organize assets and image directory structure
 - **2013-06-13 10:16**: fix: typo in Nepali road safety regulations question
 - **2013-06-13 15:33**: perf: index question IDs for rapid lookup
+- **2013-06-13 16:40**: fix: resolve layout shift during question transitions
