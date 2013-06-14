@@ -1,4 +1,3 @@
-- **2013-05-04 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-05 12:22**: feat: add instant feedback and explanation on answer selection
 - **2013-05-05 15:55**: feat: add category A and B traffic test questions
 - **2013-05-06 13:46**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-06-13 15:33**: perf: index question IDs for rapid lookup
 - **2013-06-13 16:40**: fix: resolve layout shift during question transitions
 - **2013-06-14 09:16**: feat: support multiple choice questions for motorcycle category
+- **2013-06-14 10:45**: feat: add search and filter by sign category
