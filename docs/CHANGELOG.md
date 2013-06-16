@@ -1,4 +1,3 @@
-- **2013-05-06 18:55**: docs: update README with setup instructions and feature list
 - **2013-05-07 15:31**: chore: format code style and clean up redundant variables
 - **2013-05-08 14:28**: test: verify question extraction script against exam PDF
 - **2013-05-08 16:04**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-06-14 13:53**: test: verify question extraction script against exam PDF
 - **2013-06-14 20:22**: feat: implement timer and score calculation for mock test
 - **2013-06-15 21:27**: docs: improve code comments and API documentation
+- **2013-06-16 12:09**: chore: organize assets and image directory structure
