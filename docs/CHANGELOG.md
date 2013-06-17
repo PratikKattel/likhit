@@ -1,4 +1,3 @@
-- **2013-05-08 16:04**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-08 17:17**: perf: lazy load signal graphics and question assets
 - **2013-05-09 18:32**: style: polish typography and Nepali Unicode font rendering
 - **2013-05-10 14:12**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-06-16 12:09**: chore: organize assets and image directory structure
 - **2013-06-17 09:29**: feat: add instant feedback and explanation on answer selection
 - **2013-06-17 14:19**: perf: index question IDs for rapid lookup
+- **2013-06-17 19:38**: feat: add regulatory traffic signs SVG graphics
