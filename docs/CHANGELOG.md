@@ -1,4 +1,3 @@
-- **2013-05-10 16:15**: fix: typo in Nepali road safety regulations question
 - **2013-05-11 10:12**: style: polish typography and Nepali Unicode font rendering
 - **2013-05-11 22:20**: fix: typo in Nepali road safety regulations question
 - **2013-05-12 15:25**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2013-06-18 18:18**: perf: index question IDs for rapid lookup
 - **2013-06-19 15:39**: chore: organize assets and image directory structure
 - **2013-06-19 18:45**: docs: add instructions for Nepali driving license written exam
+- **2013-06-20 11:28**: style: enhance traffic sign card layout and responsiveness
