@@ -1,4 +1,3 @@
-- **2013-05-12 15:25**: refactor: optimize SVG rendering for road signs
 - **2013-05-13 10:56**: chore: format code style and clean up redundant variables
 - **2013-05-13 13:38**: fix: adjust passing score threshold according to new rules
 - **2013-05-13 22:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2013-06-20 11:28**: style: enhance traffic sign card layout and responsiveness
 - **2013-06-20 18:29**: feat: add category-specific practice modes
 - **2013-06-21 11:44**: fix: update DOTM Nepal license syllabus questions
+- **2013-06-22 09:05**: feat: add category A and B traffic test questions
