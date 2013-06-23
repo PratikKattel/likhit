@@ -1,4 +1,3 @@
-- **2013-05-13 10:56**: chore: format code style and clean up redundant variables
 - **2013-05-13 13:38**: fix: adjust passing score threshold according to new rules
 - **2013-05-13 22:20**: fix: correct color specifications for mandatory traffic signs
 - **2013-05-14 10:16**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-06-20 18:29**: feat: add category-specific practice modes
 - **2013-06-21 11:44**: fix: update DOTM Nepal license syllabus questions
 - **2013-06-22 09:05**: feat: add category A and B traffic test questions
+- **2013-06-23 19:20**: docs: update README with setup instructions and feature list
