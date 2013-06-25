@@ -1,4 +1,3 @@
-- **2013-05-14 10:16**: perf: lazy load signal graphics and question assets
 - **2013-05-14 20:37**: feat: implement timer and score calculation for mock test
 - **2013-05-15 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-05-16 10:00**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-06-23 19:20**: docs: update README with setup instructions and feature list
 - **2013-06-24 09:57**: chore: format code style and clean up redundant variables
 - **2013-06-24 19:59**: feat: implement timer and score calculation for mock test
+- **2013-06-25 11:06**: feat: add search and filter by sign category
