@@ -1,4 +1,3 @@
-- **2013-05-19 10:29**: fix: typo in Nepali road safety regulations question
 - **2013-05-19 14:42**: feat: add keyboard navigation shortcuts for question selection
 - **2013-05-20 13:37**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-20 17:49**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-06-27 16:49**: refactor: modularize traffic app logic and event listeners
 - **2013-06-28 16:29**: feat: add instant feedback and explanation on answer selection
 - **2013-06-29 15:20**: chore: update questions database with recent DOTM updates
+- **2013-06-29 19:21**: refactor: modularize traffic app logic and event listeners
