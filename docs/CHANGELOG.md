@@ -1,4 +1,3 @@
-- **2013-05-20 17:49**: fix: resolve layout shift during question transitions
 - **2013-05-20 21:06**: fix: resolve layout shift during question transitions
 - **2013-05-21 11:14**: chore: update project metadata and build configuration
 - **2013-05-21 12:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2013-06-29 19:21**: refactor: modularize traffic app logic and event listeners
 - **2013-06-29 22:25**: style: enhance traffic sign card layout and responsiveness
 - **2013-06-30 13:18**: docs: update README with setup instructions and feature list
+- **2013-07-01 14:04**: feat: add warning signs and informational road signs
