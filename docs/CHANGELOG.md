@@ -1,4 +1,3 @@
-- **2013-05-21 11:14**: chore: update project metadata and build configuration
 - **2013-05-21 12:04**: feat: add category-specific practice modes
 - **2013-05-22 10:03**: perf: optimize image caching for traffic sign assets
 - **2013-05-23 17:56**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-06-30 13:18**: docs: update README with setup instructions and feature list
 - **2013-07-01 14:04**: feat: add warning signs and informational road signs
 - **2013-07-01 17:43**: feat: add category-specific practice modes
+- **2013-07-02 13:48**: style: enhance traffic sign card layout and responsiveness
