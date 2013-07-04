@@ -1,4 +1,3 @@
-- **2013-05-23 17:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-05-24 09:07**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-24 22:06**: fix: correct color specifications for mandatory traffic signs
 - **2013-05-25 19:26**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-07-02 13:48**: style: enhance traffic sign card layout and responsiveness
 - **2013-07-03 11:09**: perf: optimize image caching for traffic sign assets
 - **2013-07-03 12:01**: perf: optimize image caching for traffic sign assets
+- **2013-07-04 12:33**: feat: add search and filter by sign category
