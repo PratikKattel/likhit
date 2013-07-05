@@ -1,4 +1,3 @@
-- **2013-05-25 19:26**: style: enhance traffic sign card layout and responsiveness
 - **2013-05-26 09:25**: perf: index question IDs for rapid lookup
 - **2013-05-27 10:22**: chore: format code style and clean up redundant variables
 - **2013-05-27 12:55**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-07-04 12:33**: feat: add search and filter by sign category
 - **2013-07-04 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-05 12:21**: fix: adjust passing score threshold according to new rules
+- **2013-07-05 15:14**: perf: index question IDs for rapid lookup
