@@ -1,4 +1,3 @@
-- **2013-05-27 18:17**: feat: add keyboard navigation shortcuts for question selection
 - **2013-05-28 12:07**: perf: optimize image caching for traffic sign assets
 - **2013-05-28 19:59**: fix: prevent option re-selection after submitting answer
 - **2013-05-28 20:53**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-07-06 12:02**: feat: add keyboard navigation shortcuts for question selection
 - **2013-07-07 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-07-07 13:36**: feat: implement timer and score calculation for mock test
+- **2013-07-07 20:00**: feat: add category-specific practice modes
