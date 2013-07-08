@@ -1,4 +1,3 @@
-- **2013-05-28 19:59**: fix: prevent option re-selection after submitting answer
 - **2013-05-28 20:53**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-29 17:53**: feat: add result summary with passing threshold analysis
 - **2013-05-30 17:46**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-07-07 13:36**: feat: implement timer and score calculation for mock test
 - **2013-07-07 20:00**: feat: add category-specific practice modes
 - **2013-07-08 13:22**: style: polish typography and Nepali Unicode font rendering
+- **2013-07-08 19:00**: chore: update project metadata and build configuration
