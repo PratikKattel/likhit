@@ -1,4 +1,3 @@
-- **2013-05-28 20:53**: feat: add regulatory traffic signs SVG graphics
 - **2013-05-29 17:53**: feat: add result summary with passing threshold analysis
 - **2013-05-30 17:46**: docs: add instructions for Nepali driving license written exam
 - **2013-05-30 18:23**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-07-07 20:00**: feat: add category-specific practice modes
 - **2013-07-08 13:22**: style: polish typography and Nepali Unicode font rendering
 - **2013-07-08 19:00**: chore: update project metadata and build configuration
+- **2013-07-08 20:29**: perf: lazy load signal graphics and question assets
