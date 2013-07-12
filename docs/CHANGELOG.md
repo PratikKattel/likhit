@@ -1,4 +1,3 @@
-- **2013-05-31 19:13**: docs: add instructions for Nepali driving license written exam
 - **2013-05-31 21:22**: chore: organize assets and image directory structure
 - **2013-05-31 22:06**: chore: update project metadata and build configuration
 - **2013-06-01 12:23**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-07-09 15:30**: feat: add regulatory traffic signs SVG graphics
 - **2013-07-10 09:10**: refactor: optimize SVG rendering for road signs
 - **2013-07-11 11:48**: feat: add regulatory traffic signs SVG graphics
+- **2013-07-12 10:09**: feat: add warning signs and informational road signs
