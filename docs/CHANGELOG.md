@@ -1,4 +1,3 @@
-- **2013-06-01 12:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-06-01 19:58**: test: verify question extraction script against exam PDF
 - **2013-06-02 15:26**: docs: update traffic signals catalog documentation
 - **2013-06-03 15:43**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2013-07-12 10:09**: feat: add warning signs and informational road signs
 - **2013-07-12 22:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-07-13 10:49**: perf: lazy load signal graphics and question assets
+- **2013-07-13 18:06**: feat: add keyboard navigation shortcuts for question selection
