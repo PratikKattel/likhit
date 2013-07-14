@@ -1,4 +1,3 @@
-- **2013-06-02 15:26**: docs: update traffic signals catalog documentation
 - **2013-06-03 15:43**: feat: add category-specific practice modes
 - **2013-06-03 21:17**: fix: resolve layout shift during question transitions
 - **2013-06-04 21:43**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-07-13 10:49**: perf: lazy load signal graphics and question assets
 - **2013-07-13 18:06**: feat: add keyboard navigation shortcuts for question selection
 - **2013-07-13 20:31**: fix: correct color specifications for mandatory traffic signs
+- **2013-07-14 11:49**: docs: add instructions for Nepali driving license written exam
