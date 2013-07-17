@@ -1,4 +1,3 @@
-- **2013-06-04 22:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-06-05 10:32**: refactor: restructure question data schema for faster loading
 - **2013-06-05 11:47**: docs: improve code comments and API documentation
 - **2013-06-05 14:15**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-07-14 19:57**: refactor: modularize traffic app logic and event listeners
 - **2013-07-15 18:29**: feat: add instant feedback and explanation on answer selection
 - **2013-07-16 13:38**: chore: format code style and clean up redundant variables
+- **2013-07-17 10:08**: fix: resolve layout shift during question transitions
