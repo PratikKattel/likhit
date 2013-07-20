@@ -1,4 +1,3 @@
-- **2013-06-06 18:48**: fix: prevent option re-selection after submitting answer
 - **2013-06-07 10:08**: perf: lazy load signal graphics and question assets
 - **2013-06-07 10:45**: feat: support multiple choice questions for motorcycle category
 - **2013-06-08 12:48**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-07-18 18:49**: style: enhance traffic sign card layout and responsiveness
 - **2013-07-19 10:19**: style: polish typography and Nepali Unicode font rendering
 - **2013-07-20 10:58**: feat: add regulatory traffic signs SVG graphics
+- **2013-07-20 12:58**: docs: update traffic signals catalog documentation
