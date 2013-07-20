@@ -1,4 +1,3 @@
-- **2013-06-05 16:49**: chore: update questions database with recent DOTM updates
 - **2013-06-06 18:48**: fix: prevent option re-selection after submitting answer
 - **2013-06-07 10:08**: perf: lazy load signal graphics and question assets
 - **2013-06-07 10:45**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-07-17 21:04**: refactor: restructure question data schema for faster loading
 - **2013-07-18 18:49**: style: enhance traffic sign card layout and responsiveness
 - **2013-07-19 10:19**: style: polish typography and Nepali Unicode font rendering
+- **2013-07-20 10:58**: feat: add regulatory traffic signs SVG graphics
