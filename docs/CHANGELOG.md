@@ -1,4 +1,3 @@
-- **2013-06-08 12:48**: fix: resolve layout shift during question transitions
 - **2013-06-08 16:18**: style: polish typography and Nepali Unicode font rendering
 - **2013-06-08 19:17**: perf: index question IDs for rapid lookup
 - **2013-06-08 19:27**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-07-20 12:58**: docs: update traffic signals catalog documentation
 - **2013-07-21 09:50**: refactor: restructure question data schema for faster loading
 - **2013-07-21 18:49**: perf: optimize image caching for traffic sign assets
+- **2013-07-21 20:56**: fix: prevent option re-selection after submitting answer
