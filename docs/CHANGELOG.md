@@ -1,4 +1,3 @@
-- **2013-06-08 19:17**: perf: index question IDs for rapid lookup
 - **2013-06-08 19:27**: feat: add regulatory traffic signs SVG graphics
 - **2013-06-09 22:27**: feat: add keyboard navigation shortcuts for question selection
 - **2013-06-10 10:50**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-07-21 18:49**: perf: optimize image caching for traffic sign assets
 - **2013-07-21 20:56**: fix: prevent option re-selection after submitting answer
 - **2013-07-21 21:44**: feat: add category-specific practice modes
+- **2013-07-22 16:35**: fix: update DOTM Nepal license syllabus questions
