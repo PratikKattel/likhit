@@ -1,4 +1,3 @@
-- **2013-06-09 22:27**: feat: add keyboard navigation shortcuts for question selection
 - **2013-06-10 10:50**: docs: add instructions for Nepali driving license written exam
 - **2013-06-10 21:56**: chore: update project metadata and build configuration
 - **2013-06-11 12:23**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-07-21 21:44**: feat: add category-specific practice modes
 - **2013-07-22 16:35**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-23 12:10**: chore: format code style and clean up redundant variables
+- **2013-07-24 15:36**: feat: add search and filter by sign category
