@@ -1,4 +1,3 @@
-- **2013-06-10 21:56**: chore: update project metadata and build configuration
 - **2013-06-11 12:23**: chore: organize assets and image directory structure
 - **2013-06-11 12:58**: feat: add result summary with passing threshold analysis
 - **2013-06-12 17:18**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-07-23 12:10**: chore: format code style and clean up redundant variables
 - **2013-07-24 15:36**: feat: add search and filter by sign category
 - **2013-07-24 17:17**: feat: add result summary with passing threshold analysis
+- **2013-07-25 13:02**: fix: correct color specifications for mandatory traffic signs
