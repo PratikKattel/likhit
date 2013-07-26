@@ -1,4 +1,3 @@
-- **2013-06-11 12:58**: feat: add result summary with passing threshold analysis
 - **2013-06-12 17:18**: chore: organize assets and image directory structure
 - **2013-06-13 10:16**: fix: typo in Nepali road safety regulations question
 - **2013-06-13 15:33**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-07-24 17:17**: feat: add result summary with passing threshold analysis
 - **2013-07-25 13:02**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-25 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-07-26 21:07**: feat: add warning signs and informational road signs
