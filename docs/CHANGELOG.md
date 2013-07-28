@@ -1,4 +1,3 @@
-- **2013-06-14 09:16**: feat: support multiple choice questions for motorcycle category
 - **2013-06-14 10:45**: feat: add search and filter by sign category
 - **2013-06-14 13:53**: test: verify question extraction script against exam PDF
 - **2013-06-14 20:22**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2013-07-27 11:51**: fix: resolve layout shift during question transitions
 - **2013-07-28 09:39**: docs: update README with setup instructions and feature list
 - **2013-07-28 15:01**: fix: update DOTM Nepal license syllabus questions
+- **2013-07-28 17:44**: chore: format code style and clean up redundant variables
