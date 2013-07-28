@@ -1,4 +1,3 @@
-- **2013-06-13 15:33**: perf: index question IDs for rapid lookup
 - **2013-06-13 16:40**: fix: resolve layout shift during question transitions
 - **2013-06-14 09:16**: feat: support multiple choice questions for motorcycle category
 - **2013-06-14 10:45**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-07-26 21:07**: feat: add warning signs and informational road signs
 - **2013-07-27 09:52**: refactor: restructure question data schema for faster loading
 - **2013-07-27 11:51**: fix: resolve layout shift during question transitions
+- **2013-07-28 09:39**: docs: update README with setup instructions and feature list
