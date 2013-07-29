@@ -1,4 +1,3 @@
-- **2013-06-14 13:53**: test: verify question extraction script against exam PDF
 - **2013-06-14 20:22**: feat: implement timer and score calculation for mock test
 - **2013-06-15 21:27**: docs: improve code comments and API documentation
 - **2013-06-16 12:09**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-07-28 15:01**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-28 17:44**: chore: format code style and clean up redundant variables
 - **2013-07-29 16:45**: refactor: restructure question data schema for faster loading
+- **2013-07-29 17:52**: fix: typo in Nepali road safety regulations question
