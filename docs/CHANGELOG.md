@@ -1,4 +1,3 @@
-- **2013-06-16 12:09**: chore: organize assets and image directory structure
 - **2013-06-17 09:29**: feat: add instant feedback and explanation on answer selection
 - **2013-06-17 14:19**: perf: index question IDs for rapid lookup
 - **2013-06-17 19:38**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-07-29 17:52**: fix: typo in Nepali road safety regulations question
 - **2013-07-29 18:57**: docs: update traffic signals catalog documentation
 - **2013-07-30 09:48**: fix: correct color specifications for mandatory traffic signs
+- **2013-07-30 10:11**: fix: resolve layout shift during question transitions
