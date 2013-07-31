@@ -1,4 +1,3 @@
-- **2013-06-17 14:19**: perf: index question IDs for rapid lookup
 - **2013-06-17 19:38**: feat: add regulatory traffic signs SVG graphics
 - **2013-06-17 22:21**: feat: add keyboard navigation shortcuts for question selection
 - **2013-06-18 18:18**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-07-30 09:48**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-30 10:11**: fix: resolve layout shift during question transitions
 - **2013-07-31 10:23**: feat: support multiple choice questions for motorcycle category
+- **2013-07-31 18:28**: feat: implement timer and score calculation for mock test
