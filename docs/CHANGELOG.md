@@ -1,4 +1,3 @@
-- **2013-06-17 22:21**: feat: add keyboard navigation shortcuts for question selection
 - **2013-06-18 18:18**: perf: index question IDs for rapid lookup
 - **2013-06-19 15:39**: chore: organize assets and image directory structure
 - **2013-06-19 18:45**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-07-31 10:23**: feat: support multiple choice questions for motorcycle category
 - **2013-07-31 18:28**: feat: implement timer and score calculation for mock test
 - **2013-08-01 12:38**: perf: lazy load signal graphics and question assets
+- **2013-08-02 09:23**: fix: prevent option re-selection after submitting answer
