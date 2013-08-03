@@ -1,4 +1,3 @@
-- **2013-06-19 15:39**: chore: organize assets and image directory structure
 - **2013-06-19 18:45**: docs: add instructions for Nepali driving license written exam
 - **2013-06-20 11:28**: style: enhance traffic sign card layout and responsiveness
 - **2013-06-20 18:29**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2013-08-01 12:38**: perf: lazy load signal graphics and question assets
 - **2013-08-02 09:23**: fix: prevent option re-selection after submitting answer
 - **2013-08-02 18:38**: chore: update questions database with recent DOTM updates
+- **2013-08-03 20:21**: fix: update DOTM Nepal license syllabus questions
