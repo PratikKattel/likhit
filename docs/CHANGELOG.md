@@ -1,4 +1,3 @@
-- **2013-06-20 11:28**: style: enhance traffic sign card layout and responsiveness
 - **2013-06-20 18:29**: feat: add category-specific practice modes
 - **2013-06-21 11:44**: fix: update DOTM Nepal license syllabus questions
 - **2013-06-22 09:05**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2013-08-02 18:38**: chore: update questions database with recent DOTM updates
 - **2013-08-03 20:21**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-04 12:31**: feat: support multiple choice questions for motorcycle category
+- **2013-08-04 19:53**: refactor: clean up unused CSS classes and optimize stylesheet
