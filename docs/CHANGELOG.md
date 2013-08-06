@@ -1,4 +1,3 @@
-- **2013-06-22 09:05**: feat: add category A and B traffic test questions
 - **2013-06-23 19:20**: docs: update README with setup instructions and feature list
 - **2013-06-24 09:57**: chore: format code style and clean up redundant variables
 - **2013-06-24 19:59**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2013-08-04 19:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-08-05 10:47**: docs: update traffic signals catalog documentation
 - **2013-08-05 21:32**: chore: update questions database with recent DOTM updates
+- **2013-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
