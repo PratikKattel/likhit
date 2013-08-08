@@ -1,4 +1,3 @@
-- **2013-06-24 09:57**: chore: format code style and clean up redundant variables
 - **2013-06-24 19:59**: feat: implement timer and score calculation for mock test
 - **2013-06-25 11:06**: feat: add search and filter by sign category
 - **2013-06-25 18:12**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-08-05 21:32**: chore: update questions database with recent DOTM updates
 - **2013-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
 - **2013-08-07 17:08**: test: verify question extraction script against exam PDF
+- **2013-08-08 14:51**: fix: correct color specifications for mandatory traffic signs
