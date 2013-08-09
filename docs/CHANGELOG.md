@@ -1,4 +1,3 @@
-- **2013-06-25 11:06**: feat: add search and filter by sign category
 - **2013-06-25 18:12**: perf: optimize image caching for traffic sign assets
 - **2013-06-26 12:19**: perf: lazy load signal graphics and question assets
 - **2013-06-27 09:53**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2013-08-07 17:08**: test: verify question extraction script against exam PDF
 - **2013-08-08 14:51**: fix: correct color specifications for mandatory traffic signs
 - **2013-08-09 15:44**: feat: add result summary with passing threshold analysis
+- **2013-08-09 17:21**: style: enhance traffic sign card layout and responsiveness
