@@ -1,4 +1,3 @@
-- **2013-06-27 09:53**: feat: add category A and B traffic test questions
 - **2013-06-27 16:49**: refactor: modularize traffic app logic and event listeners
 - **2013-06-28 16:29**: feat: add instant feedback and explanation on answer selection
 - **2013-06-29 15:20**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2013-08-09 17:21**: style: enhance traffic sign card layout and responsiveness
 - **2013-08-10 16:51**: perf: optimize image caching for traffic sign assets
 - **2013-08-11 21:22**: feat: add regulatory traffic signs SVG graphics
+- **2013-08-12 10:05**: refactor: modularize traffic app logic and event listeners
