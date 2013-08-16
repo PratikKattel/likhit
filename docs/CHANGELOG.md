@@ -1,4 +1,3 @@
-- **2013-06-30 13:18**: docs: update README with setup instructions and feature list
 - **2013-07-01 14:04**: feat: add warning signs and informational road signs
 - **2013-07-01 17:43**: feat: add category-specific practice modes
 - **2013-07-02 13:48**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-08-15 18:59**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-15 22:11**: style: enhance traffic sign card layout and responsiveness
 - **2013-08-16 10:49**: fix: prevent option re-selection after submitting answer
+- **2013-08-16 11:14**: perf: lazy load signal graphics and question assets
