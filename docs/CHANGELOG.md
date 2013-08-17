@@ -1,4 +1,3 @@
-- **2013-07-02 13:48**: style: enhance traffic sign card layout and responsiveness
 - **2013-07-03 11:09**: perf: optimize image caching for traffic sign assets
 - **2013-07-03 12:01**: perf: optimize image caching for traffic sign assets
 - **2013-07-04 12:33**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-08-16 11:14**: perf: lazy load signal graphics and question assets
 - **2013-08-17 10:44**: chore: update questions database with recent DOTM updates
 - **2013-08-17 16:28**: style: polish typography and Nepali Unicode font rendering
+- **2013-08-17 19:44**: fix: typo in Nepali road safety regulations question
