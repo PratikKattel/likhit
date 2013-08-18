@@ -1,4 +1,3 @@
-- **2013-07-03 12:01**: perf: optimize image caching for traffic sign assets
 - **2013-07-04 12:33**: feat: add search and filter by sign category
 - **2013-07-04 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-05 12:21**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2013-08-17 16:28**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-17 19:44**: fix: typo in Nepali road safety regulations question
 - **2013-08-18 13:13**: docs: update README with setup instructions and feature list
+- **2013-08-18 21:49**: chore: format code style and clean up redundant variables
