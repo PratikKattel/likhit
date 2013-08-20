@@ -1,4 +1,3 @@
-- **2013-07-05 15:14**: perf: index question IDs for rapid lookup
 - **2013-07-06 12:02**: feat: add keyboard navigation shortcuts for question selection
 - **2013-07-07 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-07-07 13:36**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2013-08-19 14:50**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-20 11:45**: chore: update project metadata and build configuration
 - **2013-08-20 17:33**: test: verify question extraction script against exam PDF
+- **2013-08-20 19:17**: refactor: restructure question data schema for faster loading
