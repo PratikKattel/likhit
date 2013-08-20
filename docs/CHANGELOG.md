@@ -1,4 +1,3 @@
-- **2013-07-04 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-05 12:21**: fix: adjust passing score threshold according to new rules
 - **2013-07-05 15:14**: perf: index question IDs for rapid lookup
 - **2013-07-06 12:02**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-08-18 13:13**: docs: update README with setup instructions and feature list
 - **2013-08-18 21:49**: chore: format code style and clean up redundant variables
 - **2013-08-19 14:50**: style: polish typography and Nepali Unicode font rendering
+- **2013-08-20 11:45**: chore: update project metadata and build configuration
