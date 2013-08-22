@@ -1,4 +1,3 @@
-- **2013-07-07 20:00**: feat: add category-specific practice modes
 - **2013-07-08 13:22**: style: polish typography and Nepali Unicode font rendering
 - **2013-07-08 19:00**: chore: update project metadata and build configuration
 - **2013-07-08 20:29**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-08-21 16:54**: fix: resolve layout shift during question transitions
 - **2013-08-21 20:46**: feat: support multiple choice questions for motorcycle category
 - **2013-08-22 20:57**: fix: prevent option re-selection after submitting answer
+- **2013-08-22 22:23**: feat: add keyboard navigation shortcuts for question selection
