@@ -1,4 +1,3 @@
-- **2013-07-07 13:36**: feat: implement timer and score calculation for mock test
 - **2013-07-07 20:00**: feat: add category-specific practice modes
 - **2013-07-08 13:22**: style: polish typography and Nepali Unicode font rendering
 - **2013-07-08 19:00**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2013-08-20 19:17**: refactor: restructure question data schema for faster loading
 - **2013-08-21 16:54**: fix: resolve layout shift during question transitions
 - **2013-08-21 20:46**: feat: support multiple choice questions for motorcycle category
+- **2013-08-22 20:57**: fix: prevent option re-selection after submitting answer
