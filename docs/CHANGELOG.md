@@ -1,4 +1,3 @@
-- **2013-07-12 10:09**: feat: add warning signs and informational road signs
 - **2013-07-12 22:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-07-13 10:49**: perf: lazy load signal graphics and question assets
 - **2013-07-13 18:06**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2013-08-25 19:24**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-26 21:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-08-27 16:23**: fix: update DOTM Nepal license syllabus questions
+- **2013-08-27 18:27**: docs: improve code comments and API documentation
