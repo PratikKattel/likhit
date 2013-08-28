@@ -1,4 +1,3 @@
-- **2013-07-13 20:31**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-14 11:49**: docs: add instructions for Nepali driving license written exam
 - **2013-07-14 19:57**: refactor: modularize traffic app logic and event listeners
 - **2013-07-15 18:29**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-08-27 19:47**: feat: add result summary with passing threshold analysis
 - **2013-08-28 13:52**: feat: add search and filter by sign category
 - **2013-08-28 17:33**: feat: add regulatory traffic signs SVG graphics
+- **2013-08-28 17:37**: chore: update questions database with recent DOTM updates
