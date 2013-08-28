@@ -1,4 +1,3 @@
-- **2013-07-13 18:06**: feat: add keyboard navigation shortcuts for question selection
 - **2013-07-13 20:31**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-14 11:49**: docs: add instructions for Nepali driving license written exam
 - **2013-07-14 19:57**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2013-08-27 18:27**: docs: improve code comments and API documentation
 - **2013-08-27 19:47**: feat: add result summary with passing threshold analysis
 - **2013-08-28 13:52**: feat: add search and filter by sign category
+- **2013-08-28 17:33**: feat: add regulatory traffic signs SVG graphics
