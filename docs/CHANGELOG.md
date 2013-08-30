@@ -1,4 +1,3 @@
-- **2013-07-15 18:29**: feat: add instant feedback and explanation on answer selection
 - **2013-07-16 13:38**: chore: format code style and clean up redundant variables
 - **2013-07-17 10:08**: fix: resolve layout shift during question transitions
 - **2013-07-17 21:04**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-08-28 17:37**: chore: update questions database with recent DOTM updates
 - **2013-08-28 19:42**: refactor: restructure question data schema for faster loading
 - **2013-08-29 14:02**: fix: update DOTM Nepal license syllabus questions
+- **2013-08-30 15:47**: chore: update project metadata and build configuration
