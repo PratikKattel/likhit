@@ -1,4 +1,3 @@
-- **2013-07-20 10:58**: feat: add regulatory traffic signs SVG graphics
 - **2013-07-20 12:58**: docs: update traffic signals catalog documentation
 - **2013-07-21 09:50**: refactor: restructure question data schema for faster loading
 - **2013-07-21 18:49**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-09-01 10:06**: feat: add category A and B traffic test questions
 - **2013-09-01 17:08**: feat: add search and filter by sign category
 - **2013-09-02 19:16**: style: polish typography and Nepali Unicode font rendering
+- **2013-09-03 11:18**: chore: organize assets and image directory structure
