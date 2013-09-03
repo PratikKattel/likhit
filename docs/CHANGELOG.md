@@ -1,4 +1,3 @@
-- **2013-07-20 12:58**: docs: update traffic signals catalog documentation
 - **2013-07-21 09:50**: refactor: restructure question data schema for faster loading
 - **2013-07-21 18:49**: perf: optimize image caching for traffic sign assets
 - **2013-07-21 20:56**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-09-01 17:08**: feat: add search and filter by sign category
 - **2013-09-02 19:16**: style: polish typography and Nepali Unicode font rendering
 - **2013-09-03 11:18**: chore: organize assets and image directory structure
+- **2013-09-03 13:02**: perf: lazy load signal graphics and question assets
