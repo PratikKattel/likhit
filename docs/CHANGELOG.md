@@ -1,4 +1,3 @@
-- **2013-07-21 18:49**: perf: optimize image caching for traffic sign assets
 - **2013-07-21 20:56**: fix: prevent option re-selection after submitting answer
 - **2013-07-21 21:44**: feat: add category-specific practice modes
 - **2013-07-22 16:35**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-09-03 11:18**: chore: organize assets and image directory structure
 - **2013-09-03 13:02**: perf: lazy load signal graphics and question assets
 - **2013-09-04 09:16**: docs: update README with setup instructions and feature list
+- **2013-09-04 11:26**: feat: add regulatory traffic signs SVG graphics
