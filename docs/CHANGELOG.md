@@ -1,4 +1,3 @@
-- **2013-07-21 21:44**: feat: add category-specific practice modes
 - **2013-07-22 16:35**: fix: update DOTM Nepal license syllabus questions
 - **2013-07-23 12:10**: chore: format code style and clean up redundant variables
 - **2013-07-24 15:36**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-09-04 09:16**: docs: update README with setup instructions and feature list
 - **2013-09-04 11:26**: feat: add regulatory traffic signs SVG graphics
 - **2013-09-04 19:52**: perf: index question IDs for rapid lookup
+- **2013-09-05 21:45**: feat: add result summary with passing threshold analysis
