@@ -1,4 +1,3 @@
-- **2013-07-23 12:10**: chore: format code style and clean up redundant variables
 - **2013-07-24 15:36**: feat: add search and filter by sign category
 - **2013-07-24 17:17**: feat: add result summary with passing threshold analysis
 - **2013-07-25 13:02**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2013-09-04 19:52**: perf: index question IDs for rapid lookup
 - **2013-09-05 21:45**: feat: add result summary with passing threshold analysis
 - **2013-09-06 14:42**: perf: optimize image caching for traffic sign assets
+- **2013-09-06 14:58**: fix: prevent option re-selection after submitting answer
