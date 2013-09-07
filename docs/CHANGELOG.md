@@ -1,4 +1,3 @@
-- **2013-07-24 17:17**: feat: add result summary with passing threshold analysis
 - **2013-07-25 13:02**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-25 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-07-26 21:07**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2013-09-06 14:42**: perf: optimize image caching for traffic sign assets
 - **2013-09-06 14:58**: fix: prevent option re-selection after submitting answer
 - **2013-09-07 11:04**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-09-07 12:57**: feat: support multiple choice questions for motorcycle category
