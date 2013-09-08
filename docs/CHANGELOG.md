@@ -1,4 +1,3 @@
-- **2013-07-25 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-07-26 21:07**: feat: add warning signs and informational road signs
 - **2013-07-27 09:52**: refactor: restructure question data schema for faster loading
 - **2013-07-27 11:51**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-09-07 11:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-09-07 12:57**: feat: support multiple choice questions for motorcycle category
 - **2013-09-07 16:07**: refactor: optimize SVG rendering for road signs
+- **2013-09-08 21:15**: feat: add warning signs and informational road signs
