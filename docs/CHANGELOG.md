@@ -1,4 +1,3 @@
-- **2013-07-27 09:52**: refactor: restructure question data schema for faster loading
 - **2013-07-27 11:51**: fix: resolve layout shift during question transitions
 - **2013-07-28 09:39**: docs: update README with setup instructions and feature list
 - **2013-07-28 15:01**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-09-07 16:07**: refactor: optimize SVG rendering for road signs
 - **2013-09-08 21:15**: feat: add warning signs and informational road signs
 - **2013-09-09 13:15**: fix: typo in Nepali road safety regulations question
+- **2013-09-09 20:00**: fix: typo in Nepali road safety regulations question
