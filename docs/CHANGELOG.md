@@ -1,4 +1,3 @@
-- **2013-07-29 17:52**: fix: typo in Nepali road safety regulations question
 - **2013-07-29 18:57**: docs: update traffic signals catalog documentation
 - **2013-07-30 09:48**: fix: correct color specifications for mandatory traffic signs
 - **2013-07-30 10:11**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-09-11 17:12**: feat: support multiple choice questions for motorcycle category
 - **2013-09-12 09:22**: chore: update questions database with recent DOTM updates
 - **2013-09-12 11:57**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-09-12 12:45**: refactor: clean up unused CSS classes and optimize stylesheet
