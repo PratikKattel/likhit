@@ -1,4 +1,3 @@
-- **2013-07-31 10:23**: feat: support multiple choice questions for motorcycle category
 - **2013-07-31 18:28**: feat: implement timer and score calculation for mock test
 - **2013-08-01 12:38**: perf: lazy load signal graphics and question assets
 - **2013-08-02 09:23**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-09-13 19:12**: feat: add search and filter by sign category
 - **2013-09-14 09:32**: chore: organize assets and image directory structure
 - **2013-09-14 10:01**: fix: update DOTM Nepal license syllabus questions
+- **2013-09-14 13:24**: refactor: clean up unused CSS classes and optimize stylesheet
