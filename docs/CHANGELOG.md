@@ -1,4 +1,3 @@
-- **2013-08-02 18:38**: chore: update questions database with recent DOTM updates
 - **2013-08-03 20:21**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-04 12:31**: feat: support multiple choice questions for motorcycle category
 - **2013-08-04 19:53**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-09-15 21:40**: feat: add instant feedback and explanation on answer selection
 - **2013-09-16 13:17**: refactor: optimize SVG rendering for road signs
 - **2013-09-17 18:25**: feat: add search and filter by sign category
+- **2013-09-18 11:28**: chore: update project metadata and build configuration
