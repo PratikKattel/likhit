@@ -1,4 +1,3 @@
-- **2013-08-05 10:47**: docs: update traffic signals catalog documentation
 - **2013-08-05 21:32**: chore: update questions database with recent DOTM updates
 - **2013-08-06 18:07**: feat: add keyboard navigation shortcuts for question selection
 - **2013-08-07 17:08**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-09-18 20:54**: chore: update project metadata and build configuration
 - **2013-09-19 15:03**: feat: add result summary with passing threshold analysis
 - **2013-09-20 18:40**: docs: add instructions for Nepali driving license written exam
+- **2013-09-20 21:29**: fix: update DOTM Nepal license syllabus questions
