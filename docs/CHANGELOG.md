@@ -1,4 +1,3 @@
-- **2013-08-14 18:02**: feat: add keyboard navigation shortcuts for question selection
 - **2013-08-15 18:59**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-15 22:11**: style: enhance traffic sign card layout and responsiveness
 - **2013-08-16 10:49**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-09-25 15:18**: fix: correct color specifications for mandatory traffic signs
 - **2013-09-25 15:28**: chore: update project metadata and build configuration
 - **2013-09-26 17:25**: feat: add instant feedback and explanation on answer selection
+- **2013-09-27 12:30**: style: polish typography and Nepali Unicode font rendering
