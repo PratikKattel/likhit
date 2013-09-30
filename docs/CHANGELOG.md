@@ -1,4 +1,3 @@
-- **2013-08-16 11:14**: perf: lazy load signal graphics and question assets
 - **2013-08-17 10:44**: chore: update questions database with recent DOTM updates
 - **2013-08-17 16:28**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-17 19:44**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2013-09-27 14:19**: perf: optimize image caching for traffic sign assets
 - **2013-09-28 11:44**: style: polish typography and Nepali Unicode font rendering
 - **2013-09-29 20:33**: chore: update questions database with recent DOTM updates
+- **2013-09-30 11:09**: refactor: modularize traffic app logic and event listeners
