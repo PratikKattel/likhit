@@ -1,4 +1,3 @@
-- **2013-08-17 16:28**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-17 19:44**: fix: typo in Nepali road safety regulations question
 - **2013-08-18 13:13**: docs: update README with setup instructions and feature list
 - **2013-08-18 21:49**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-09-29 20:33**: chore: update questions database with recent DOTM updates
 - **2013-09-30 11:09**: refactor: modularize traffic app logic and event listeners
 - **2013-09-30 19:22**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-09-30 20:27**: docs: update README with setup instructions and feature list
