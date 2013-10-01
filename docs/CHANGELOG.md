@@ -1,4 +1,3 @@
-- **2013-08-18 21:49**: chore: format code style and clean up redundant variables
 - **2013-08-19 14:50**: style: polish typography and Nepali Unicode font rendering
 - **2013-08-20 11:45**: chore: update project metadata and build configuration
 - **2013-08-20 17:33**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2013-09-30 20:27**: docs: update README with setup instructions and feature list
 - **2013-10-01 11:26**: style: polish typography and Nepali Unicode font rendering
 - **2013-10-01 11:29**: perf: lazy load signal graphics and question assets
+- **2013-10-01 18:16**: feat: add warning signs and informational road signs
