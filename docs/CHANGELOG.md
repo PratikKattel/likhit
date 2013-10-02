@@ -1,4 +1,3 @@
-- **2013-08-20 11:45**: chore: update project metadata and build configuration
 - **2013-08-20 17:33**: test: verify question extraction script against exam PDF
 - **2013-08-20 19:17**: refactor: restructure question data schema for faster loading
 - **2013-08-21 16:54**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-10-01 11:29**: perf: lazy load signal graphics and question assets
 - **2013-10-01 18:16**: feat: add warning signs and informational road signs
 - **2013-10-01 20:12**: fix: correct color specifications for mandatory traffic signs
+- **2013-10-02 13:41**: refactor: restructure question data schema for faster loading
