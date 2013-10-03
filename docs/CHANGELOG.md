@@ -1,4 +1,3 @@
-- **2013-08-20 19:17**: refactor: restructure question data schema for faster loading
 - **2013-08-21 16:54**: fix: resolve layout shift during question transitions
 - **2013-08-21 20:46**: feat: support multiple choice questions for motorcycle category
 - **2013-08-22 20:57**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-10-01 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2013-10-02 13:41**: refactor: restructure question data schema for faster loading
 - **2013-10-03 17:57**: docs: update README with setup instructions and feature list
+- **2013-10-03 18:48**: perf: optimize image caching for traffic sign assets
