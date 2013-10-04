@@ -1,4 +1,3 @@
-- **2013-08-22 20:57**: fix: prevent option re-selection after submitting answer
 - **2013-08-22 22:23**: feat: add keyboard navigation shortcuts for question selection
 - **2013-08-23 11:35**: fix: resolve layout shift during question transitions
 - **2013-08-23 20:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2013-10-03 18:48**: perf: optimize image caching for traffic sign assets
 - **2013-10-04 10:11**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-04 12:44**: chore: organize assets and image directory structure
+- **2013-10-04 21:54**: chore: format code style and clean up redundant variables
