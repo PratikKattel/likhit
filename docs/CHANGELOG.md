@@ -1,4 +1,3 @@
-- **2013-08-23 11:35**: fix: resolve layout shift during question transitions
 - **2013-08-23 20:30**: docs: update traffic signals catalog documentation
 - **2013-08-24 14:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-08-25 16:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2013-10-04 12:44**: chore: organize assets and image directory structure
 - **2013-10-04 21:54**: chore: format code style and clean up redundant variables
 - **2013-10-05 11:12**: chore: organize assets and image directory structure
+- **2013-10-06 14:16**: docs: update traffic signals catalog documentation
