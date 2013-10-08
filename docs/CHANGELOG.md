@@ -1,4 +1,3 @@
-- **2013-08-25 16:41**: feat: add regulatory traffic signs SVG graphics
 - **2013-08-25 19:24**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-26 21:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-08-27 16:23**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2013-10-06 14:16**: docs: update traffic signals catalog documentation
 - **2013-10-07 09:58**: feat: support multiple choice questions for motorcycle category
 - **2013-10-07 15:32**: style: polish typography and Nepali Unicode font rendering
+- **2013-10-08 10:58**: feat: add keyboard navigation shortcuts for question selection
