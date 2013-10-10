@@ -1,4 +1,3 @@
-- **2013-08-27 16:23**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-27 18:27**: docs: improve code comments and API documentation
 - **2013-08-27 19:47**: feat: add result summary with passing threshold analysis
 - **2013-08-28 13:52**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-10-08 10:58**: feat: add keyboard navigation shortcuts for question selection
 - **2013-10-08 12:10**: chore: format code style and clean up redundant variables
 - **2013-10-09 13:20**: fix: resolve layout shift during question transitions
+- **2013-10-10 09:19**: docs: update README with setup instructions and feature list
