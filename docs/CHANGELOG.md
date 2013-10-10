@@ -1,4 +1,3 @@
-- **2013-08-28 13:52**: feat: add search and filter by sign category
 - **2013-08-28 17:33**: feat: add regulatory traffic signs SVG graphics
 - **2013-08-28 17:37**: chore: update questions database with recent DOTM updates
 - **2013-08-28 19:42**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-10-10 09:19**: docs: update README with setup instructions and feature list
 - **2013-10-10 15:27**: docs: update traffic signals catalog documentation
 - **2013-10-10 16:50**: chore: organize assets and image directory structure
+- **2013-10-10 20:35**: refactor: modularize traffic app logic and event listeners
