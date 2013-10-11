@@ -1,4 +1,3 @@
-- **2013-08-29 14:02**: fix: update DOTM Nepal license syllabus questions
 - **2013-08-30 15:47**: chore: update project metadata and build configuration
 - **2013-08-30 18:52**: perf: optimize image caching for traffic sign assets
 - **2013-08-31 19:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-10-11 13:19**: style: enhance traffic sign card layout and responsiveness
 - **2013-10-11 14:08**: feat: implement timer and score calculation for mock test
 - **2013-10-11 14:14**: fix: resolve layout shift during question transitions
+- **2013-10-11 18:48**: docs: update README with setup instructions and feature list
