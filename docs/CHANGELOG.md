@@ -1,4 +1,3 @@
-- **2013-08-31 19:35**: fix: resolve layout shift during question transitions
 - **2013-09-01 10:06**: feat: add category A and B traffic test questions
 - **2013-09-01 17:08**: feat: add search and filter by sign category
 - **2013-09-02 19:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-10-11 18:48**: docs: update README with setup instructions and feature list
 - **2013-10-12 15:46**: feat: add keyboard navigation shortcuts for question selection
 - **2013-10-12 18:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-10-13 12:44**: docs: update README with setup instructions and feature list
