@@ -1,4 +1,3 @@
-- **2013-09-02 19:16**: style: polish typography and Nepali Unicode font rendering
 - **2013-09-03 11:18**: chore: organize assets and image directory structure
 - **2013-09-03 13:02**: perf: lazy load signal graphics and question assets
 - **2013-09-04 09:16**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-10-13 12:44**: docs: update README with setup instructions and feature list
 - **2013-10-13 13:22**: feat: add instant feedback and explanation on answer selection
 - **2013-10-13 16:29**: feat: add category A and B traffic test questions
+- **2013-10-13 18:20**: style: enhance traffic sign card layout and responsiveness
