@@ -1,4 +1,3 @@
-- **2013-09-04 09:16**: docs: update README with setup instructions and feature list
 - **2013-09-04 11:26**: feat: add regulatory traffic signs SVG graphics
 - **2013-09-04 19:52**: perf: index question IDs for rapid lookup
 - **2013-09-05 21:45**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-10-13 18:20**: style: enhance traffic sign card layout and responsiveness
 - **2013-10-14 09:37**: refactor: optimize SVG rendering for road signs
 - **2013-10-14 14:30**: feat: add result summary with passing threshold analysis
+- **2013-10-14 21:50**: refactor: clean up unused CSS classes and optimize stylesheet
