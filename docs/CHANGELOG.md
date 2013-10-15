@@ -1,4 +1,3 @@
-- **2013-09-04 11:26**: feat: add regulatory traffic signs SVG graphics
 - **2013-09-04 19:52**: perf: index question IDs for rapid lookup
 - **2013-09-05 21:45**: feat: add result summary with passing threshold analysis
 - **2013-09-06 14:42**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-10-14 09:37**: refactor: optimize SVG rendering for road signs
 - **2013-10-14 14:30**: feat: add result summary with passing threshold analysis
 - **2013-10-14 21:50**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2013-10-15 11:14**: fix: resolve layout shift during question transitions
