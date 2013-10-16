@@ -1,4 +1,3 @@
-- **2013-09-04 19:52**: perf: index question IDs for rapid lookup
 - **2013-09-05 21:45**: feat: add result summary with passing threshold analysis
 - **2013-09-06 14:42**: perf: optimize image caching for traffic sign assets
 - **2013-09-06 14:58**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2013-10-14 14:30**: feat: add result summary with passing threshold analysis
 - **2013-10-14 21:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-15 11:14**: fix: resolve layout shift during question transitions
+- **2013-10-16 11:48**: feat: add search and filter by sign category
