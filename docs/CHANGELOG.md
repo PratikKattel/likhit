@@ -1,4 +1,3 @@
-- **2013-09-06 14:42**: perf: optimize image caching for traffic sign assets
 - **2013-09-06 14:58**: fix: prevent option re-selection after submitting answer
 - **2013-09-07 11:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-09-07 12:57**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-10-15 11:14**: fix: resolve layout shift during question transitions
 - **2013-10-16 11:48**: feat: add search and filter by sign category
 - **2013-10-16 21:29**: feat: add regulatory traffic signs SVG graphics
+- **2013-10-17 13:37**: perf: index question IDs for rapid lookup
