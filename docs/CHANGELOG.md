@@ -1,4 +1,3 @@
-- **2013-09-09 13:15**: fix: typo in Nepali road safety regulations question
 - **2013-09-09 20:00**: fix: typo in Nepali road safety regulations question
 - **2013-09-09 20:06**: feat: add regulatory traffic signs SVG graphics
 - **2013-09-10 21:41**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-10-19 12:53**: feat: support multiple choice questions for motorcycle category
 - **2013-10-19 20:56**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-20 11:27**: docs: update traffic signals catalog documentation
+- **2013-10-20 20:21**: feat: add warning signs and informational road signs
