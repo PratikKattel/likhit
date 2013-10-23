@@ -1,4 +1,3 @@
-- **2013-09-11 17:12**: feat: support multiple choice questions for motorcycle category
 - **2013-09-12 09:22**: chore: update questions database with recent DOTM updates
 - **2013-09-12 11:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-09-12 12:45**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-10-21 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-22 11:50**: perf: optimize image caching for traffic sign assets
 - **2013-10-22 12:23**: chore: format code style and clean up redundant variables
+- **2013-10-23 09:17**: chore: update project metadata and build configuration
