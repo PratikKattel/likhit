@@ -1,4 +1,3 @@
-- **2013-09-13 19:12**: feat: add search and filter by sign category
 - **2013-09-14 09:32**: chore: organize assets and image directory structure
 - **2013-09-14 10:01**: fix: update DOTM Nepal license syllabus questions
 - **2013-09-14 13:24**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-10-23 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-23 16:05**: feat: add category-specific practice modes
 - **2013-10-24 21:41**: fix: typo in Nepali road safety regulations question
+- **2013-10-25 17:06**: refactor: restructure question data schema for faster loading
