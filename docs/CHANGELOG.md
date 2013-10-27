@@ -1,4 +1,3 @@
-- **2013-09-17 18:25**: feat: add search and filter by sign category
 - **2013-09-18 11:28**: chore: update project metadata and build configuration
 - **2013-09-18 20:54**: chore: update project metadata and build configuration
 - **2013-09-19 15:03**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2013-10-26 21:36**: feat: add result summary with passing threshold analysis
 - **2013-10-27 12:16**: feat: add instant feedback and explanation on answer selection
 - **2013-10-27 14:02**: feat: add regulatory traffic signs SVG graphics
+- **2013-10-27 16:18**: perf: lazy load signal graphics and question assets
