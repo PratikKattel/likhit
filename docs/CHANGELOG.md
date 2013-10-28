@@ -1,4 +1,3 @@
-- **2013-09-19 15:03**: feat: add result summary with passing threshold analysis
 - **2013-09-20 18:40**: docs: add instructions for Nepali driving license written exam
 - **2013-09-20 21:29**: fix: update DOTM Nepal license syllabus questions
 - **2013-09-21 09:23**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2013-10-27 16:18**: perf: lazy load signal graphics and question assets
 - **2013-10-28 12:28**: feat: support multiple choice questions for motorcycle category
 - **2013-10-28 12:50**: feat: implement timer and score calculation for mock test
+- **2013-10-28 16:04**: style: polish typography and Nepali Unicode font rendering
