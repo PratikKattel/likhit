@@ -1,4 +1,3 @@
-- **2013-09-20 18:40**: docs: add instructions for Nepali driving license written exam
 - **2013-09-20 21:29**: fix: update DOTM Nepal license syllabus questions
 - **2013-09-21 09:23**: style: enhance traffic sign card layout and responsiveness
 - **2013-09-22 11:16**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2013-10-28 12:28**: feat: support multiple choice questions for motorcycle category
 - **2013-10-28 12:50**: feat: implement timer and score calculation for mock test
 - **2013-10-28 16:04**: style: polish typography and Nepali Unicode font rendering
+- **2013-10-29 09:03**: fix: typo in Nepali road safety regulations question
