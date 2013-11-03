@@ -1,4 +1,3 @@
-- **2013-09-25 15:28**: chore: update project metadata and build configuration
 - **2013-09-26 17:25**: feat: add instant feedback and explanation on answer selection
 - **2013-09-27 12:30**: style: polish typography and Nepali Unicode font rendering
 - **2013-09-27 14:19**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-11-02 10:48**: chore: update project metadata and build configuration
 - **2013-11-02 16:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-11-02 16:39**: feat: implement timer and score calculation for mock test
+- **2013-11-03 11:03**: test: verify question extraction script against exam PDF
