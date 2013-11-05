@@ -1,4 +1,3 @@
-- **2013-09-30 19:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-09-30 20:27**: docs: update README with setup instructions and feature list
 - **2013-10-01 11:26**: style: polish typography and Nepali Unicode font rendering
 - **2013-10-01 11:29**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-11-04 15:37**: fix: adjust passing score threshold according to new rules
 - **2013-11-04 20:14**: perf: index question IDs for rapid lookup
 - **2013-11-04 20:57**: chore: update questions database with recent DOTM updates
+- **2013-11-05 10:53**: test: verify question extraction script against exam PDF
