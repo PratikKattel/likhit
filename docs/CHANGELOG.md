@@ -1,4 +1,3 @@
-- **2013-10-01 11:29**: perf: lazy load signal graphics and question assets
 - **2013-10-01 18:16**: feat: add warning signs and informational road signs
 - **2013-10-01 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2013-10-02 13:41**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-11-05 10:53**: test: verify question extraction script against exam PDF
 - **2013-11-06 11:58**: docs: update README with setup instructions and feature list
 - **2013-11-07 16:42**: chore: format code style and clean up redundant variables
+- **2013-11-07 19:31**: chore: organize assets and image directory structure
