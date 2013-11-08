@@ -1,4 +1,3 @@
-- **2013-10-01 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2013-10-02 13:41**: refactor: restructure question data schema for faster loading
 - **2013-10-03 17:57**: docs: update README with setup instructions and feature list
 - **2013-10-03 18:48**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-11-07 16:42**: chore: format code style and clean up redundant variables
 - **2013-11-07 19:31**: chore: organize assets and image directory structure
 - **2013-11-08 14:59**: fix: update DOTM Nepal license syllabus questions
+- **2013-11-08 21:10**: refactor: modularize traffic app logic and event listeners
