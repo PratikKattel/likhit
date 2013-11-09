@@ -1,4 +1,3 @@
-- **2013-10-03 17:57**: docs: update README with setup instructions and feature list
 - **2013-10-03 18:48**: perf: optimize image caching for traffic sign assets
 - **2013-10-04 10:11**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-04 12:44**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-11-08 14:59**: fix: update DOTM Nepal license syllabus questions
 - **2013-11-08 21:10**: refactor: modularize traffic app logic and event listeners
 - **2013-11-09 18:53**: fix: prevent option re-selection after submitting answer
+- **2013-11-09 20:15**: perf: optimize image caching for traffic sign assets
