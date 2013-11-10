@@ -1,4 +1,3 @@
-- **2013-10-04 12:44**: chore: organize assets and image directory structure
 - **2013-10-04 21:54**: chore: format code style and clean up redundant variables
 - **2013-10-05 11:12**: chore: organize assets and image directory structure
 - **2013-10-06 14:16**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2013-11-09 20:15**: perf: optimize image caching for traffic sign assets
 - **2013-11-10 10:47**: fix: typo in Nepali road safety regulations question
 - **2013-11-10 11:29**: feat: add result summary with passing threshold analysis
+- **2013-11-10 17:21**: refactor: restructure question data schema for faster loading
