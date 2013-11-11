@@ -1,4 +1,3 @@
-- **2013-10-05 11:12**: chore: organize assets and image directory structure
 - **2013-10-06 14:16**: docs: update traffic signals catalog documentation
 - **2013-10-07 09:58**: feat: support multiple choice questions for motorcycle category
 - **2013-10-07 15:32**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2013-11-10 11:29**: feat: add result summary with passing threshold analysis
 - **2013-11-10 17:21**: refactor: restructure question data schema for faster loading
 - **2013-11-11 15:16**: refactor: optimize SVG rendering for road signs
+- **2013-11-11 16:38**: perf: lazy load signal graphics and question assets
