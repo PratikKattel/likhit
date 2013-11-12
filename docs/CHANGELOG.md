@@ -1,4 +1,3 @@
-- **2013-10-07 15:32**: style: polish typography and Nepali Unicode font rendering
 - **2013-10-08 10:58**: feat: add keyboard navigation shortcuts for question selection
 - **2013-10-08 12:10**: chore: format code style and clean up redundant variables
 - **2013-10-09 13:20**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2013-11-11 16:38**: perf: lazy load signal graphics and question assets
 - **2013-11-11 17:53**: chore: organize assets and image directory structure
 - **2013-11-11 22:22**: style: enhance traffic sign card layout and responsiveness
+- **2013-11-12 16:24**: perf: optimize image caching for traffic sign assets
