@@ -1,4 +1,3 @@
-- **2013-10-09 13:20**: fix: resolve layout shift during question transitions
 - **2013-10-10 09:19**: docs: update README with setup instructions and feature list
 - **2013-10-10 15:27**: docs: update traffic signals catalog documentation
 - **2013-10-10 16:50**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-11-12 16:24**: perf: optimize image caching for traffic sign assets
 - **2013-11-12 17:22**: chore: organize assets and image directory structure
 - **2013-11-12 20:04**: style: polish typography and Nepali Unicode font rendering
+- **2013-11-13 15:56**: chore: update questions database with recent DOTM updates
