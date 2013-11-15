@@ -1,4 +1,3 @@
-- **2013-10-11 13:19**: style: enhance traffic sign card layout and responsiveness
 - **2013-10-11 14:08**: feat: implement timer and score calculation for mock test
 - **2013-10-11 14:14**: fix: resolve layout shift during question transitions
 - **2013-10-11 18:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-11-14 13:18**: docs: improve code comments and API documentation
 - **2013-11-15 09:07**: feat: add category A and B traffic test questions
 - **2013-11-15 09:34**: chore: update questions database with recent DOTM updates
+- **2013-11-15 11:08**: feat: support multiple choice questions for motorcycle category
