@@ -1,4 +1,3 @@
-- **2013-10-11 14:14**: fix: resolve layout shift during question transitions
 - **2013-10-11 18:48**: docs: update README with setup instructions and feature list
 - **2013-10-12 15:46**: feat: add keyboard navigation shortcuts for question selection
 - **2013-10-12 18:52**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-11-15 09:34**: chore: update questions database with recent DOTM updates
 - **2013-11-15 11:08**: feat: support multiple choice questions for motorcycle category
 - **2013-11-15 15:28**: chore: update questions database with recent DOTM updates
+- **2013-11-16 11:45**: refactor: restructure question data schema for faster loading
