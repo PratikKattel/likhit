@@ -1,4 +1,3 @@
-- **2013-10-12 15:46**: feat: add keyboard navigation shortcuts for question selection
 - **2013-10-12 18:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-13 12:44**: docs: update README with setup instructions and feature list
 - **2013-10-13 13:22**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-11-15 15:28**: chore: update questions database with recent DOTM updates
 - **2013-11-16 11:45**: refactor: restructure question data schema for faster loading
 - **2013-11-17 18:00**: feat: add keyboard navigation shortcuts for question selection
+- **2013-11-17 18:54**: docs: update traffic signals catalog documentation
