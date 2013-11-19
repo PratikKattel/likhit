@@ -1,4 +1,3 @@
-- **2013-10-13 13:22**: feat: add instant feedback and explanation on answer selection
 - **2013-10-13 16:29**: feat: add category A and B traffic test questions
 - **2013-10-13 18:20**: style: enhance traffic sign card layout and responsiveness
 - **2013-10-14 09:37**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2013-11-17 18:54**: docs: update traffic signals catalog documentation
 - **2013-11-18 15:44**: feat: add instant feedback and explanation on answer selection
 - **2013-11-19 10:23**: feat: add warning signs and informational road signs
+- **2013-11-19 14:51**: fix: correct color specifications for mandatory traffic signs
