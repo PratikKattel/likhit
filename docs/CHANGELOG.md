@@ -1,4 +1,3 @@
-- **2013-10-13 18:20**: style: enhance traffic sign card layout and responsiveness
 - **2013-10-14 09:37**: refactor: optimize SVG rendering for road signs
 - **2013-10-14 14:30**: feat: add result summary with passing threshold analysis
 - **2013-10-14 21:50**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-11-19 10:23**: feat: add warning signs and informational road signs
 - **2013-11-19 14:51**: fix: correct color specifications for mandatory traffic signs
 - **2013-11-20 20:04**: feat: implement timer and score calculation for mock test
+- **2013-11-21 09:45**: fix: prevent option re-selection after submitting answer
