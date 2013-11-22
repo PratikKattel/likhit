@@ -1,4 +1,3 @@
-- **2013-10-14 14:30**: feat: add result summary with passing threshold analysis
 - **2013-10-14 21:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-15 11:14**: fix: resolve layout shift during question transitions
 - **2013-10-16 11:48**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2013-11-20 20:04**: feat: implement timer and score calculation for mock test
 - **2013-11-21 09:45**: fix: prevent option re-selection after submitting answer
 - **2013-11-22 10:00**: feat: add keyboard navigation shortcuts for question selection
+- **2013-11-22 17:35**: refactor: restructure question data schema for faster loading
