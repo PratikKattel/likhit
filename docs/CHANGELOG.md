@@ -1,4 +1,3 @@
-- **2013-10-15 11:14**: fix: resolve layout shift during question transitions
 - **2013-10-16 11:48**: feat: add search and filter by sign category
 - **2013-10-16 21:29**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-17 13:37**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-11-22 10:00**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-22 17:35**: refactor: restructure question data schema for faster loading
 - **2013-11-22 22:14**: perf: lazy load signal graphics and question assets
+- **2013-11-23 11:16**: refactor: restructure question data schema for faster loading
