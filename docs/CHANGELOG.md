@@ -1,4 +1,3 @@
-- **2013-10-17 13:37**: perf: index question IDs for rapid lookup
 - **2013-10-18 20:17**: feat: implement timer and score calculation for mock test
 - **2013-10-19 10:50**: chore: update questions database with recent DOTM updates
 - **2013-10-19 12:53**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-11-23 11:16**: refactor: restructure question data schema for faster loading
 - **2013-11-23 17:24**: fix: resolve layout shift during question transitions
 - **2013-11-24 12:53**: fix: resolve layout shift during question transitions
+- **2013-11-24 13:03**: feat: add category-specific practice modes
