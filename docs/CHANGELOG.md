@@ -1,4 +1,3 @@
-- **2013-10-19 20:56**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-20 11:27**: docs: update traffic signals catalog documentation
 - **2013-10-20 20:21**: feat: add warning signs and informational road signs
 - **2013-10-21 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2013-11-25 19:29**: feat: add result summary with passing threshold analysis
 - **2013-11-26 09:43**: docs: update traffic signals catalog documentation
 - **2013-11-26 17:19**: feat: add keyboard navigation shortcuts for question selection
+- **2013-11-26 18:29**: refactor: clean up unused CSS classes and optimize stylesheet
