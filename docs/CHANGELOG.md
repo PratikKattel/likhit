@@ -1,4 +1,3 @@
-- **2013-10-20 20:21**: feat: add warning signs and informational road signs
 - **2013-10-21 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-22 11:50**: perf: optimize image caching for traffic sign assets
 - **2013-10-22 12:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2013-11-26 17:19**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-26 18:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-11-27 21:20**: docs: add instructions for Nepali driving license written exam
+- **2013-11-28 11:22**: feat: add warning signs and informational road signs
