@@ -1,4 +1,3 @@
-- **2013-10-23 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-10-23 16:05**: feat: add category-specific practice modes
 - **2013-10-24 21:41**: fix: typo in Nepali road safety regulations question
 - **2013-10-25 17:06**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-11-29 10:16**: refactor: modularize traffic app logic and event listeners
 - **2013-11-30 15:27**: chore: format code style and clean up redundant variables
 - **2013-12-01 12:55**: chore: update project metadata and build configuration
+- **2013-12-01 14:39**: refactor: restructure question data schema for faster loading
