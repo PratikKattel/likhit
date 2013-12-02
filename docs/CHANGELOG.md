@@ -1,4 +1,3 @@
-- **2013-10-25 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-26 16:02**: docs: improve code comments and API documentation
 - **2013-10-26 21:36**: feat: add result summary with passing threshold analysis
 - **2013-10-27 12:16**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-12-02 09:13**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-02 10:18**: chore: update questions database with recent DOTM updates
 - **2013-12-02 15:54**: perf: index question IDs for rapid lookup
+- **2013-12-02 19:39**: refactor: clean up unused CSS classes and optimize stylesheet
