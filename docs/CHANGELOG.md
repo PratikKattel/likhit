@@ -1,4 +1,3 @@
-- **2013-10-24 21:41**: fix: typo in Nepali road safety regulations question
 - **2013-10-25 17:06**: refactor: restructure question data schema for faster loading
 - **2013-10-25 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-26 16:02**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2013-12-01 12:55**: chore: update project metadata and build configuration
 - **2013-12-01 14:39**: refactor: restructure question data schema for faster loading
 - **2013-12-02 09:13**: fix: correct color specifications for mandatory traffic signs
+- **2013-12-02 10:18**: chore: update questions database with recent DOTM updates
