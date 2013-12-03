@@ -1,4 +1,3 @@
-- **2013-10-26 21:36**: feat: add result summary with passing threshold analysis
 - **2013-10-27 12:16**: feat: add instant feedback and explanation on answer selection
 - **2013-10-27 14:02**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-27 16:18**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-12-02 15:54**: perf: index question IDs for rapid lookup
 - **2013-12-02 19:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-03 13:06**: docs: update traffic signals catalog documentation
+- **2013-12-03 20:43**: feat: add search and filter by sign category
