@@ -1,4 +1,3 @@
-- **2013-10-27 12:16**: feat: add instant feedback and explanation on answer selection
 - **2013-10-27 14:02**: feat: add regulatory traffic signs SVG graphics
 - **2013-10-27 16:18**: perf: lazy load signal graphics and question assets
 - **2013-10-28 12:28**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-12-02 19:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-03 13:06**: docs: update traffic signals catalog documentation
 - **2013-12-03 20:43**: feat: add search and filter by sign category
+- **2013-12-04 13:38**: fix: resolve layout shift during question transitions
