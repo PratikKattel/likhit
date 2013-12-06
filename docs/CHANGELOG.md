@@ -1,4 +1,3 @@
-- **2013-10-28 12:50**: feat: implement timer and score calculation for mock test
 - **2013-10-28 16:04**: style: polish typography and Nepali Unicode font rendering
 - **2013-10-29 09:03**: fix: typo in Nepali road safety regulations question
 - **2013-10-29 12:20**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2013-12-04 14:27**: docs: update traffic signals catalog documentation
 - **2013-12-05 09:23**: refactor: modularize traffic app logic and event listeners
 - **2013-12-05 16:47**: feat: add category A and B traffic test questions
+- **2013-12-06 14:30**: docs: add instructions for Nepali driving license written exam
