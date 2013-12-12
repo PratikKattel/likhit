@@ -1,4 +1,3 @@
-- **2013-11-03 11:03**: test: verify question extraction script against exam PDF
 - **2013-11-03 13:59**: perf: index question IDs for rapid lookup
 - **2013-11-03 21:11**: feat: add warning signs and informational road signs
 - **2013-11-04 09:39**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2013-12-11 10:18**: chore: update questions database with recent DOTM updates
 - **2013-12-11 16:27**: docs: update README with setup instructions and feature list
 - **2013-12-11 20:09**: refactor: optimize SVG rendering for road signs
+- **2013-12-12 09:35**: style: improve dark/light mode and mobile UI responsiveness
