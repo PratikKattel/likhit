@@ -1,4 +1,3 @@
-- **2013-11-03 21:11**: feat: add warning signs and informational road signs
 - **2013-11-04 09:39**: docs: add instructions for Nepali driving license written exam
 - **2013-11-04 15:37**: fix: adjust passing score threshold according to new rules
 - **2013-11-04 20:14**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2013-12-11 20:09**: refactor: optimize SVG rendering for road signs
 - **2013-12-12 09:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-12-12 11:17**: feat: add warning signs and informational road signs
+- **2013-12-12 15:35**: refactor: clean up unused CSS classes and optimize stylesheet
