@@ -1,4 +1,3 @@
-- **2013-11-04 20:14**: perf: index question IDs for rapid lookup
 - **2013-11-04 20:57**: chore: update questions database with recent DOTM updates
 - **2013-11-05 10:53**: test: verify question extraction script against exam PDF
 - **2013-11-06 11:58**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2013-12-12 15:35**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-13 12:11**: perf: lazy load signal graphics and question assets
 - **2013-12-14 13:00**: feat: add warning signs and informational road signs
+- **2013-12-14 18:56**: feat: add regulatory traffic signs SVG graphics
