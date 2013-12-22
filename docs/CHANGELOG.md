@@ -1,4 +1,3 @@
-- **2013-11-10 11:29**: feat: add result summary with passing threshold analysis
 - **2013-11-10 17:21**: refactor: restructure question data schema for faster loading
 - **2013-11-11 15:16**: refactor: optimize SVG rendering for road signs
 - **2013-11-11 16:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2013-12-19 18:09**: feat: add result summary with passing threshold analysis
 - **2013-12-20 11:06**: test: verify question extraction script against exam PDF
 - **2013-12-21 14:09**: docs: update README with setup instructions and feature list
+- **2013-12-22 15:57**: fix: adjust passing score threshold according to new rules
