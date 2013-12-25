@@ -1,4 +1,3 @@
-- **2013-11-11 17:53**: chore: organize assets and image directory structure
 - **2013-11-11 22:22**: style: enhance traffic sign card layout and responsiveness
 - **2013-11-12 16:24**: perf: optimize image caching for traffic sign assets
 - **2013-11-12 17:22**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2013-12-23 16:59**: feat: add result summary with passing threshold analysis
 - **2013-12-24 11:03**: style: enhance traffic sign card layout and responsiveness
 - **2013-12-25 11:33**: chore: update questions database with recent DOTM updates
+- **2013-12-25 14:25**: fix: resolve layout shift during question transitions
