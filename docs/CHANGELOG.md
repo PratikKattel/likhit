@@ -1,4 +1,3 @@
-- **2013-11-12 16:24**: perf: optimize image caching for traffic sign assets
 - **2013-11-12 17:22**: chore: organize assets and image directory structure
 - **2013-11-12 20:04**: style: polish typography and Nepali Unicode font rendering
 - **2013-11-13 15:56**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2013-12-25 11:33**: chore: update questions database with recent DOTM updates
 - **2013-12-25 14:25**: fix: resolve layout shift during question transitions
 - **2013-12-25 18:49**: chore: organize assets and image directory structure
+- **2013-12-26 09:01**: feat: add instant feedback and explanation on answer selection
