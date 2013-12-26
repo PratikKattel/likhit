@@ -1,4 +1,3 @@
-- **2013-11-12 20:04**: style: polish typography and Nepali Unicode font rendering
 - **2013-11-13 15:56**: chore: update questions database with recent DOTM updates
 - **2013-11-13 21:13**: fix: update DOTM Nepal license syllabus questions
 - **2013-11-14 13:18**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2013-12-25 18:49**: chore: organize assets and image directory structure
 - **2013-12-26 09:01**: feat: add instant feedback and explanation on answer selection
 - **2013-12-26 13:49**: style: improve dark/light mode and mobile UI responsiveness
+- **2013-12-26 15:40**: docs: improve code comments and API documentation
