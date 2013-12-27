@@ -1,4 +1,3 @@
-- **2013-11-13 21:13**: fix: update DOTM Nepal license syllabus questions
 - **2013-11-14 13:18**: docs: improve code comments and API documentation
 - **2013-11-15 09:07**: feat: add category A and B traffic test questions
 - **2013-11-15 09:34**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2013-12-26 13:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-12-26 15:40**: docs: improve code comments and API documentation
 - **2013-12-27 10:23**: feat: add regulatory traffic signs SVG graphics
+- **2013-12-27 16:39**: feat: add keyboard navigation shortcuts for question selection
