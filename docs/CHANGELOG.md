@@ -1,4 +1,3 @@
-- **2013-11-14 13:18**: docs: improve code comments and API documentation
 - **2013-11-15 09:07**: feat: add category A and B traffic test questions
 - **2013-11-15 09:34**: chore: update questions database with recent DOTM updates
 - **2013-11-15 11:08**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2013-12-26 15:40**: docs: improve code comments and API documentation
 - **2013-12-27 10:23**: feat: add regulatory traffic signs SVG graphics
 - **2013-12-27 16:39**: feat: add keyboard navigation shortcuts for question selection
+- **2013-12-27 19:41**: feat: add category A and B traffic test questions
