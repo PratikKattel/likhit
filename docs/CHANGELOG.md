@@ -1,4 +1,3 @@
-- **2013-11-15 09:34**: chore: update questions database with recent DOTM updates
 - **2013-11-15 11:08**: feat: support multiple choice questions for motorcycle category
 - **2013-11-15 15:28**: chore: update questions database with recent DOTM updates
 - **2013-11-16 11:45**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2013-12-27 16:39**: feat: add keyboard navigation shortcuts for question selection
 - **2013-12-27 19:41**: feat: add category A and B traffic test questions
 - **2013-12-28 14:42**: feat: add keyboard navigation shortcuts for question selection
+- **2013-12-28 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
