@@ -1,4 +1,3 @@
-- **2013-11-16 11:45**: refactor: restructure question data schema for faster loading
 - **2013-11-17 18:00**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-17 18:54**: docs: update traffic signals catalog documentation
 - **2013-11-18 15:44**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2013-12-28 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-29 12:20**: docs: improve code comments and API documentation
 - **2013-12-30 11:37**: feat: add keyboard navigation shortcuts for question selection
+- **2013-12-31 09:06**: fix: correct color specifications for mandatory traffic signs
