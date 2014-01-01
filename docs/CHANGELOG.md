@@ -1,4 +1,3 @@
-- **2013-11-17 18:54**: docs: update traffic signals catalog documentation
 - **2013-11-18 15:44**: feat: add instant feedback and explanation on answer selection
 - **2013-11-19 10:23**: feat: add warning signs and informational road signs
 - **2013-11-19 14:51**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2013-12-30 11:37**: feat: add keyboard navigation shortcuts for question selection
 - **2013-12-31 09:06**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-31 20:57**: test: verify question extraction script against exam PDF
+- **2014-01-01 13:00**: perf: index question IDs for rapid lookup
