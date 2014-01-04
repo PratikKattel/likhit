@@ -1,4 +1,3 @@
-- **2013-11-20 20:04**: feat: implement timer and score calculation for mock test
 - **2013-11-21 09:45**: fix: prevent option re-selection after submitting answer
 - **2013-11-22 10:00**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-22 17:35**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-01-02 20:53**: refactor: optimize SVG rendering for road signs
 - **2014-01-03 14:42**: fix: typo in Nepali road safety regulations question
 - **2014-01-03 18:33**: perf: index question IDs for rapid lookup
+- **2014-01-04 10:18**: fix: update DOTM Nepal license syllabus questions
