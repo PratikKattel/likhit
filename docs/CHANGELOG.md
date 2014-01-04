@@ -1,4 +1,3 @@
-- **2013-11-21 09:45**: fix: prevent option re-selection after submitting answer
 - **2013-11-22 10:00**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-22 17:35**: refactor: restructure question data schema for faster loading
 - **2013-11-22 22:14**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2014-01-03 14:42**: fix: typo in Nepali road safety regulations question
 - **2014-01-03 18:33**: perf: index question IDs for rapid lookup
 - **2014-01-04 10:18**: fix: update DOTM Nepal license syllabus questions
+- **2014-01-04 15:19**: feat: add category A and B traffic test questions
