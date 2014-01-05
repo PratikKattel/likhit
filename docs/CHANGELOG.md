@@ -1,4 +1,3 @@
-- **2013-11-22 17:35**: refactor: restructure question data schema for faster loading
 - **2013-11-22 22:14**: perf: lazy load signal graphics and question assets
 - **2013-11-23 11:16**: refactor: restructure question data schema for faster loading
 - **2013-11-23 17:24**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-01-04 10:18**: fix: update DOTM Nepal license syllabus questions
 - **2014-01-04 15:19**: feat: add category A and B traffic test questions
 - **2014-01-04 16:39**: feat: add regulatory traffic signs SVG graphics
+- **2014-01-05 15:17**: feat: implement timer and score calculation for mock test
