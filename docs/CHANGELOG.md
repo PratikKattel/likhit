@@ -1,4 +1,3 @@
-- **2013-11-24 12:53**: fix: resolve layout shift during question transitions
 - **2013-11-24 13:03**: feat: add category-specific practice modes
 - **2013-11-25 19:29**: feat: add result summary with passing threshold analysis
 - **2013-11-26 09:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-01-06 16:11**: docs: update traffic signals catalog documentation
 - **2014-01-07 14:40**: feat: add regulatory traffic signs SVG graphics
 - **2014-01-08 21:02**: feat: add instant feedback and explanation on answer selection
+- **2014-01-09 21:52**: docs: update README with setup instructions and feature list
