@@ -1,4 +1,3 @@
-- **2013-11-26 09:43**: docs: update traffic signals catalog documentation
 - **2013-11-26 17:19**: feat: add keyboard navigation shortcuts for question selection
 - **2013-11-26 18:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-11-27 21:20**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2014-01-09 21:52**: docs: update README with setup instructions and feature list
 - **2014-01-10 10:55**: chore: update questions database with recent DOTM updates
 - **2014-01-10 19:37**: feat: add search and filter by sign category
+- **2014-01-11 16:22**: perf: optimize image caching for traffic sign assets
