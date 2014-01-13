@@ -1,4 +1,3 @@
-- **2013-11-28 11:22**: feat: add warning signs and informational road signs
 - **2013-11-28 22:28**: feat: add category-specific practice modes
 - **2013-11-29 10:16**: refactor: modularize traffic app logic and event listeners
 - **2013-11-30 15:27**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-01-11 17:57**: chore: update project metadata and build configuration
 - **2014-01-12 13:16**: docs: improve code comments and API documentation
 - **2014-01-12 17:08**: perf: index question IDs for rapid lookup
+- **2014-01-13 16:34**: fix: update DOTM Nepal license syllabus questions
