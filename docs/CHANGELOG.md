@@ -1,4 +1,3 @@
-- **2013-11-30 15:27**: chore: format code style and clean up redundant variables
 - **2013-12-01 12:55**: chore: update project metadata and build configuration
 - **2013-12-01 14:39**: refactor: restructure question data schema for faster loading
 - **2013-12-02 09:13**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-01-13 16:34**: fix: update DOTM Nepal license syllabus questions
 - **2014-01-14 13:39**: chore: update project metadata and build configuration
 - **2014-01-15 16:55**: chore: format code style and clean up redundant variables
+- **2014-01-15 19:12**: chore: organize assets and image directory structure
