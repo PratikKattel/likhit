@@ -1,4 +1,3 @@
-- **2013-12-01 14:39**: refactor: restructure question data schema for faster loading
 - **2013-12-02 09:13**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-02 10:18**: chore: update questions database with recent DOTM updates
 - **2013-12-02 15:54**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-01-15 16:55**: chore: format code style and clean up redundant variables
 - **2014-01-15 19:12**: chore: organize assets and image directory structure
 - **2014-01-16 19:20**: style: enhance traffic sign card layout and responsiveness
+- **2014-01-16 20:19**: perf: index question IDs for rapid lookup
