@@ -1,4 +1,3 @@
-- **2013-12-03 13:06**: docs: update traffic signals catalog documentation
 - **2013-12-03 20:43**: feat: add search and filter by sign category
 - **2013-12-04 13:38**: fix: resolve layout shift during question transitions
 - **2013-12-04 14:27**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-01-17 15:31**: feat: add result summary with passing threshold analysis
 - **2014-01-17 18:35**: fix: adjust passing score threshold according to new rules
 - **2014-01-18 10:36**: fix: resolve layout shift during question transitions
+- **2014-01-18 11:20**: fix: correct color specifications for mandatory traffic signs
