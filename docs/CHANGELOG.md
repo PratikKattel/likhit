@@ -1,4 +1,3 @@
-- **2013-12-04 13:38**: fix: resolve layout shift during question transitions
 - **2013-12-04 14:27**: docs: update traffic signals catalog documentation
 - **2013-12-05 09:23**: refactor: modularize traffic app logic and event listeners
 - **2013-12-05 16:47**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2014-01-18 10:36**: fix: resolve layout shift during question transitions
 - **2014-01-18 11:20**: fix: correct color specifications for mandatory traffic signs
 - **2014-01-18 14:52**: perf: index question IDs for rapid lookup
+- **2014-01-18 21:15**: fix: correct color specifications for mandatory traffic signs
