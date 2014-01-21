@@ -1,4 +1,3 @@
-- **2013-12-07 11:40**: docs: update README with setup instructions and feature list
 - **2013-12-08 13:43**: docs: improve code comments and API documentation
 - **2013-12-08 15:11**: feat: implement timer and score calculation for mock test
 - **2013-12-08 22:01**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-01-19 17:21**: chore: update questions database with recent DOTM updates
 - **2014-01-20 15:32**: docs: improve code comments and API documentation
 - **2014-01-20 17:30**: style: polish typography and Nepali Unicode font rendering
+- **2014-01-21 09:37**: test: verify question extraction script against exam PDF
