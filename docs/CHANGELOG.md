@@ -1,4 +1,3 @@
-- **2013-12-08 15:11**: feat: implement timer and score calculation for mock test
 - **2013-12-08 22:01**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-09 17:34**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-10 15:08**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-01-20 17:30**: style: polish typography and Nepali Unicode font rendering
 - **2014-01-21 09:37**: test: verify question extraction script against exam PDF
 - **2014-01-21 16:01**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-01-22 19:38**: feat: add keyboard navigation shortcuts for question selection
