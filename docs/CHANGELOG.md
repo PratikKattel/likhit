@@ -1,4 +1,3 @@
-- **2013-12-10 15:08**: chore: organize assets and image directory structure
 - **2013-12-10 20:08**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-11 09:33**: fix: adjust passing score threshold according to new rules
 - **2013-12-11 10:18**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-01-22 19:38**: feat: add keyboard navigation shortcuts for question selection
 - **2014-01-22 19:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-01-23 17:22**: feat: add regulatory traffic signs SVG graphics
+- **2014-01-24 19:13**: style: enhance traffic sign card layout and responsiveness
