@@ -1,4 +1,3 @@
-- **2013-12-11 20:09**: refactor: optimize SVG rendering for road signs
 - **2013-12-12 09:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-12-12 11:17**: feat: add warning signs and informational road signs
 - **2013-12-12 15:35**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-01-26 10:56**: feat: add category-specific practice modes
 - **2014-01-26 15:07**: feat: add category A and B traffic test questions
 - **2014-01-26 16:16**: feat: add warning signs and informational road signs
+- **2014-01-27 14:36**: fix: correct color specifications for mandatory traffic signs
