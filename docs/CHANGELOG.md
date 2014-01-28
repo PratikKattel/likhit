@@ -1,4 +1,3 @@
-- **2013-12-12 11:17**: feat: add warning signs and informational road signs
 - **2013-12-12 15:35**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-13 12:11**: perf: lazy load signal graphics and question assets
 - **2013-12-14 13:00**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-01-26 16:16**: feat: add warning signs and informational road signs
 - **2014-01-27 14:36**: fix: correct color specifications for mandatory traffic signs
 - **2014-01-28 12:18**: docs: update README with setup instructions and feature list
+- **2014-01-28 21:41**: docs: add instructions for Nepali driving license written exam
