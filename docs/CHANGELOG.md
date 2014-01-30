@@ -1,4 +1,3 @@
-- **2013-12-13 12:11**: perf: lazy load signal graphics and question assets
 - **2013-12-14 13:00**: feat: add warning signs and informational road signs
 - **2013-12-14 18:56**: feat: add regulatory traffic signs SVG graphics
 - **2013-12-15 13:08**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-01-28 12:18**: docs: update README with setup instructions and feature list
 - **2014-01-28 21:41**: docs: add instructions for Nepali driving license written exam
 - **2014-01-29 10:09**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-01-30 21:28**: docs: add instructions for Nepali driving license written exam
