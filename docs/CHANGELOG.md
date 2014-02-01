@@ -1,4 +1,3 @@
-- **2013-12-14 18:56**: feat: add regulatory traffic signs SVG graphics
 - **2013-12-15 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2013-12-15 15:43**: fix: prevent option re-selection after submitting answer
 - **2013-12-15 16:25**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-01-29 10:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-01-30 21:28**: docs: add instructions for Nepali driving license written exam
 - **2014-01-31 16:40**: docs: improve code comments and API documentation
+- **2014-02-01 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
