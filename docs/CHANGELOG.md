@@ -1,4 +1,3 @@
-- **2013-12-15 15:43**: fix: prevent option re-selection after submitting answer
 - **2013-12-15 16:25**: fix: adjust passing score threshold according to new rules
 - **2013-12-16 21:11**: feat: add instant feedback and explanation on answer selection
 - **2013-12-17 15:33**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-01-31 16:40**: docs: improve code comments and API documentation
 - **2014-02-01 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-02 21:06**: feat: add warning signs and informational road signs
+- **2014-02-03 13:23**: chore: update questions database with recent DOTM updates
