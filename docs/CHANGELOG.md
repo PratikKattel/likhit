@@ -1,4 +1,3 @@
-- **2013-12-16 21:11**: feat: add instant feedback and explanation on answer selection
 - **2013-12-17 15:33**: feat: add warning signs and informational road signs
 - **2013-12-18 12:26**: feat: support multiple choice questions for motorcycle category
 - **2013-12-19 09:57**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-02-02 21:06**: feat: add warning signs and informational road signs
 - **2014-02-03 13:23**: chore: update questions database with recent DOTM updates
 - **2014-02-03 18:24**: docs: update README with setup instructions and feature list
+- **2014-02-04 19:02**: refactor: optimize SVG rendering for road signs
