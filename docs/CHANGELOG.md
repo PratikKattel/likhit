@@ -1,4 +1,3 @@
-- **2013-12-21 14:09**: docs: update README with setup instructions and feature list
 - **2013-12-22 15:57**: fix: adjust passing score threshold according to new rules
 - **2013-12-23 16:59**: feat: add result summary with passing threshold analysis
 - **2013-12-24 11:03**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-02-05 20:56**: docs: update README with setup instructions and feature list
 - **2014-02-06 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2014-02-06 12:07**: chore: format code style and clean up redundant variables
+- **2014-02-06 13:53**: style: improve dark/light mode and mobile UI responsiveness
