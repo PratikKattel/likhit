@@ -1,4 +1,3 @@
-- **2013-12-19 18:09**: feat: add result summary with passing threshold analysis
 - **2013-12-20 11:06**: test: verify question extraction script against exam PDF
 - **2013-12-21 14:09**: docs: update README with setup instructions and feature list
 - **2013-12-22 15:57**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-02-04 20:39**: refactor: optimize SVG rendering for road signs
 - **2014-02-05 12:17**: feat: add warning signs and informational road signs
 - **2014-02-05 20:56**: docs: update README with setup instructions and feature list
+- **2014-02-06 11:08**: fix: update DOTM Nepal license syllabus questions
