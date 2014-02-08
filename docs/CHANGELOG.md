@@ -1,4 +1,3 @@
-- **2013-12-23 16:59**: feat: add result summary with passing threshold analysis
 - **2013-12-24 11:03**: style: enhance traffic sign card layout and responsiveness
 - **2013-12-25 11:33**: chore: update questions database with recent DOTM updates
 - **2013-12-25 14:25**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-02-06 12:07**: chore: format code style and clean up redundant variables
 - **2014-02-06 13:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-02-07 16:32**: chore: organize assets and image directory structure
+- **2014-02-08 10:58**: feat: add category A and B traffic test questions
