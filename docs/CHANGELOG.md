@@ -1,4 +1,3 @@
-- **2013-12-26 13:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2013-12-26 15:40**: docs: improve code comments and API documentation
 - **2013-12-27 10:23**: feat: add regulatory traffic signs SVG graphics
 - **2013-12-27 16:39**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-02-08 19:25**: chore: update project metadata and build configuration
 - **2014-02-09 19:54**: feat: add category A and B traffic test questions
 - **2014-02-10 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-02-10 14:41**: fix: adjust passing score threshold according to new rules
