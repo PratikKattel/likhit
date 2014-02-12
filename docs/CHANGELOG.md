@@ -1,4 +1,3 @@
-- **2013-12-27 19:41**: feat: add category A and B traffic test questions
 - **2013-12-28 14:42**: feat: add keyboard navigation shortcuts for question selection
 - **2013-12-28 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-29 12:20**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-02-11 09:11**: feat: add search and filter by sign category
 - **2014-02-11 10:51**: docs: update README with setup instructions and feature list
 - **2014-02-12 14:28**: docs: add instructions for Nepali driving license written exam
+- **2014-02-12 21:42**: docs: update README with setup instructions and feature list
