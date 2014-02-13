@@ -1,4 +1,3 @@
-- **2013-12-28 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2013-12-29 12:20**: docs: improve code comments and API documentation
 - **2013-12-30 11:37**: feat: add keyboard navigation shortcuts for question selection
 - **2013-12-31 09:06**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-02-12 14:28**: docs: add instructions for Nepali driving license written exam
 - **2014-02-12 21:42**: docs: update README with setup instructions and feature list
 - **2014-02-13 15:20**: chore: format code style and clean up redundant variables
+- **2014-02-13 22:01**: docs: update README with setup instructions and feature list
