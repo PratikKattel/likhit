@@ -1,4 +1,3 @@
-- **2013-12-31 09:06**: fix: correct color specifications for mandatory traffic signs
 - **2013-12-31 20:57**: test: verify question extraction script against exam PDF
 - **2014-01-01 13:00**: perf: index question IDs for rapid lookup
 - **2014-01-02 20:53**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2014-02-13 22:01**: docs: update README with setup instructions and feature list
 - **2014-02-14 21:45**: docs: add instructions for Nepali driving license written exam
 - **2014-02-15 09:26**: fix: prevent option re-selection after submitting answer
+- **2014-02-15 14:16**: refactor: modularize traffic app logic and event listeners
