@@ -1,4 +1,3 @@
-- **2014-01-03 14:42**: fix: typo in Nepali road safety regulations question
 - **2014-01-03 18:33**: perf: index question IDs for rapid lookup
 - **2014-01-04 10:18**: fix: update DOTM Nepal license syllabus questions
 - **2014-01-04 15:19**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2014-02-15 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2014-02-15 17:20**: chore: organize assets and image directory structure
 - **2014-02-16 13:08**: docs: improve code comments and API documentation
+- **2014-02-16 19:01**: refactor: optimize SVG rendering for road signs
