@@ -1,4 +1,3 @@
-- **2014-01-04 16:39**: feat: add regulatory traffic signs SVG graphics
 - **2014-01-05 15:17**: feat: implement timer and score calculation for mock test
 - **2014-01-06 16:11**: docs: update traffic signals catalog documentation
 - **2014-01-07 14:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-02-16 20:00**: fix: prevent option re-selection after submitting answer
 - **2014-02-17 17:12**: chore: update questions database with recent DOTM updates
 - **2014-02-18 15:01**: feat: implement timer and score calculation for mock test
+- **2014-02-18 16:24**: chore: organize assets and image directory structure
