@@ -1,4 +1,3 @@
-- **2014-01-06 16:11**: docs: update traffic signals catalog documentation
 - **2014-01-07 14:40**: feat: add regulatory traffic signs SVG graphics
 - **2014-01-08 21:02**: feat: add instant feedback and explanation on answer selection
 - **2014-01-09 21:52**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-02-18 15:01**: feat: implement timer and score calculation for mock test
 - **2014-02-18 16:24**: chore: organize assets and image directory structure
 - **2014-02-19 09:59**: fix: update DOTM Nepal license syllabus questions
+- **2014-02-19 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
