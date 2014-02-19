@@ -1,4 +1,3 @@
-- **2014-01-08 21:02**: feat: add instant feedback and explanation on answer selection
 - **2014-01-09 21:52**: docs: update README with setup instructions and feature list
 - **2014-01-10 10:55**: chore: update questions database with recent DOTM updates
 - **2014-01-10 19:37**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2014-02-19 09:59**: fix: update DOTM Nepal license syllabus questions
 - **2014-02-19 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-19 13:45**: feat: add search and filter by sign category
+- **2014-02-19 18:52**: perf: index question IDs for rapid lookup
