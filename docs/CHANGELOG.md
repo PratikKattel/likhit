@@ -1,4 +1,3 @@
-- **2014-01-10 10:55**: chore: update questions database with recent DOTM updates
 - **2014-01-10 19:37**: feat: add search and filter by sign category
 - **2014-01-11 16:22**: perf: optimize image caching for traffic sign assets
 - **2014-01-11 17:57**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-02-19 13:45**: feat: add search and filter by sign category
 - **2014-02-19 18:52**: perf: index question IDs for rapid lookup
 - **2014-02-20 14:07**: docs: update README with setup instructions and feature list
+- **2014-02-20 15:33**: chore: update project metadata and build configuration
