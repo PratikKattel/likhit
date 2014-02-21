@@ -1,4 +1,3 @@
-- **2014-01-12 13:16**: docs: improve code comments and API documentation
 - **2014-01-12 17:08**: perf: index question IDs for rapid lookup
 - **2014-01-13 16:34**: fix: update DOTM Nepal license syllabus questions
 - **2014-01-14 13:39**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-02-20 17:00**: feat: add warning signs and informational road signs
 - **2014-02-20 19:07**: perf: optimize image caching for traffic sign assets
 - **2014-02-21 11:41**: feat: implement timer and score calculation for mock test
+- **2014-02-21 12:42**: perf: index question IDs for rapid lookup
