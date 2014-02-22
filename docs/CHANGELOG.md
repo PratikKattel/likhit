@@ -1,4 +1,3 @@
-- **2014-01-13 16:34**: fix: update DOTM Nepal license syllabus questions
 - **2014-01-14 13:39**: chore: update project metadata and build configuration
 - **2014-01-15 16:55**: chore: format code style and clean up redundant variables
 - **2014-01-15 19:12**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-02-21 11:41**: feat: implement timer and score calculation for mock test
 - **2014-02-21 12:42**: perf: index question IDs for rapid lookup
 - **2014-02-22 16:27**: test: verify question extraction script against exam PDF
+- **2014-02-22 18:10**: chore: update project metadata and build configuration
