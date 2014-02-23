@@ -1,4 +1,3 @@
-- **2014-01-14 13:39**: chore: update project metadata and build configuration
 - **2014-01-15 16:55**: chore: format code style and clean up redundant variables
 - **2014-01-15 19:12**: chore: organize assets and image directory structure
 - **2014-01-16 19:20**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-02-21 12:42**: perf: index question IDs for rapid lookup
 - **2014-02-22 16:27**: test: verify question extraction script against exam PDF
 - **2014-02-22 18:10**: chore: update project metadata and build configuration
+- **2014-02-23 09:14**: feat: add regulatory traffic signs SVG graphics
