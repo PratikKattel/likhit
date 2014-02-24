@@ -1,4 +1,3 @@
-- **2014-01-15 19:12**: chore: organize assets and image directory structure
 - **2014-01-16 19:20**: style: enhance traffic sign card layout and responsiveness
 - **2014-01-16 20:19**: perf: index question IDs for rapid lookup
 - **2014-01-17 13:52**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-02-22 18:10**: chore: update project metadata and build configuration
 - **2014-02-23 09:14**: feat: add regulatory traffic signs SVG graphics
 - **2014-02-23 21:13**: docs: improve code comments and API documentation
+- **2014-02-24 13:17**: feat: add instant feedback and explanation on answer selection
