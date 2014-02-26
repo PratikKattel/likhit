@@ -1,4 +1,3 @@
-- **2014-01-17 15:31**: feat: add result summary with passing threshold analysis
 - **2014-01-17 18:35**: fix: adjust passing score threshold according to new rules
 - **2014-01-18 10:36**: fix: resolve layout shift during question transitions
 - **2014-01-18 11:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-02-24 22:11**: fix: prevent option re-selection after submitting answer
 - **2014-02-25 20:22**: feat: add category-specific practice modes
 - **2014-02-26 10:12**: chore: format code style and clean up redundant variables
+- **2014-02-26 18:54**: style: polish typography and Nepali Unicode font rendering
