@@ -1,4 +1,3 @@
-- **2014-01-18 10:36**: fix: resolve layout shift during question transitions
 - **2014-01-18 11:20**: fix: correct color specifications for mandatory traffic signs
 - **2014-01-18 14:52**: perf: index question IDs for rapid lookup
 - **2014-01-18 21:15**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-02-26 10:12**: chore: format code style and clean up redundant variables
 - **2014-02-26 18:54**: style: polish typography and Nepali Unicode font rendering
 - **2014-02-27 10:44**: feat: support multiple choice questions for motorcycle category
+- **2014-02-27 16:35**: perf: index question IDs for rapid lookup
