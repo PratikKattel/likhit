@@ -1,4 +1,3 @@
-- **2014-01-18 21:15**: fix: correct color specifications for mandatory traffic signs
 - **2014-01-19 11:25**: docs: improve code comments and API documentation
 - **2014-01-19 17:21**: chore: update questions database with recent DOTM updates
 - **2014-01-20 15:32**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-02-27 16:35**: perf: index question IDs for rapid lookup
 - **2014-02-27 20:11**: perf: index question IDs for rapid lookup
 - **2014-02-28 16:41**: feat: add instant feedback and explanation on answer selection
+- **2014-03-01 17:50**: feat: add warning signs and informational road signs
