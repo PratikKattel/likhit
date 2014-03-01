@@ -1,4 +1,3 @@
-- **2014-01-20 15:32**: docs: improve code comments and API documentation
 - **2014-01-20 17:30**: style: polish typography and Nepali Unicode font rendering
 - **2014-01-21 09:37**: test: verify question extraction script against exam PDF
 - **2014-01-21 16:01**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-03-01 17:50**: feat: add warning signs and informational road signs
 - **2014-03-01 18:47**: docs: improve code comments and API documentation
 - **2014-03-01 21:03**: refactor: restructure question data schema for faster loading
+- **2014-03-01 21:49**: perf: index question IDs for rapid lookup
