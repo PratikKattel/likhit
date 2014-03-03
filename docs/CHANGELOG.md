@@ -1,4 +1,3 @@
-- **2014-01-21 16:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-01-22 19:38**: feat: add keyboard navigation shortcuts for question selection
 - **2014-01-22 19:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-01-23 17:22**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-03-01 21:49**: perf: index question IDs for rapid lookup
 - **2014-03-02 20:30**: feat: support multiple choice questions for motorcycle category
 - **2014-03-03 10:07**: feat: add regulatory traffic signs SVG graphics
+- **2014-03-03 16:07**: perf: lazy load signal graphics and question assets
