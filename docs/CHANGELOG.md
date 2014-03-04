@@ -1,4 +1,3 @@
-- **2014-01-22 19:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-01-23 17:22**: feat: add regulatory traffic signs SVG graphics
 - **2014-01-24 19:13**: style: enhance traffic sign card layout and responsiveness
 - **2014-01-25 18:10**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-03-03 10:07**: feat: add regulatory traffic signs SVG graphics
 - **2014-03-03 16:07**: perf: lazy load signal graphics and question assets
 - **2014-03-04 10:19**: feat: add regulatory traffic signs SVG graphics
+- **2014-03-04 12:35**: refactor: clean up unused CSS classes and optimize stylesheet
