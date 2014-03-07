@@ -1,4 +1,3 @@
-- **2014-01-26 10:56**: feat: add category-specific practice modes
 - **2014-01-26 15:07**: feat: add category A and B traffic test questions
 - **2014-01-26 16:16**: feat: add warning signs and informational road signs
 - **2014-01-27 14:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-03-04 15:54**: feat: add warning signs and informational road signs
 - **2014-03-05 17:34**: perf: optimize image caching for traffic sign assets
 - **2014-03-06 17:38**: docs: update traffic signals catalog documentation
+- **2014-03-07 18:34**: fix: adjust passing score threshold according to new rules
