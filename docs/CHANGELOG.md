@@ -1,4 +1,3 @@
-- **2014-01-26 16:16**: feat: add warning signs and informational road signs
 - **2014-01-27 14:36**: fix: correct color specifications for mandatory traffic signs
 - **2014-01-28 12:18**: docs: update README with setup instructions and feature list
 - **2014-01-28 21:41**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2014-03-06 17:38**: docs: update traffic signals catalog documentation
 - **2014-03-07 18:34**: fix: adjust passing score threshold according to new rules
 - **2014-03-07 19:43**: fix: update DOTM Nepal license syllabus questions
+- **2014-03-07 21:43**: perf: index question IDs for rapid lookup
