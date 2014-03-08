@@ -1,4 +1,3 @@
-- **2014-01-28 12:18**: docs: update README with setup instructions and feature list
 - **2014-01-28 21:41**: docs: add instructions for Nepali driving license written exam
 - **2014-01-29 10:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-01-30 21:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2014-03-07 19:43**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-07 21:43**: perf: index question IDs for rapid lookup
 - **2014-03-08 16:02**: perf: optimize image caching for traffic sign assets
+- **2014-03-08 19:57**: fix: prevent option re-selection after submitting answer
