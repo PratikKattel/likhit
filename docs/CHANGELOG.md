@@ -1,4 +1,3 @@
-- **2014-01-29 10:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-01-30 21:28**: docs: add instructions for Nepali driving license written exam
 - **2014-01-31 16:40**: docs: improve code comments and API documentation
 - **2014-02-01 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-03-08 16:02**: perf: optimize image caching for traffic sign assets
 - **2014-03-08 19:57**: fix: prevent option re-selection after submitting answer
 - **2014-03-09 10:19**: chore: format code style and clean up redundant variables
+- **2014-03-09 18:00**: feat: add category A and B traffic test questions
