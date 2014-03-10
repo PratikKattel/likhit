@@ -1,4 +1,3 @@
-- **2014-01-31 16:40**: docs: improve code comments and API documentation
 - **2014-02-01 20:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-02 21:06**: feat: add warning signs and informational road signs
 - **2014-02-03 13:23**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-03-09 10:19**: chore: format code style and clean up redundant variables
 - **2014-03-09 18:00**: feat: add category A and B traffic test questions
 - **2014-03-10 13:28**: fix: adjust passing score threshold according to new rules
+- **2014-03-10 21:50**: chore: organize assets and image directory structure
