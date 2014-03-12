@@ -1,4 +1,3 @@
-- **2014-02-04 19:02**: refactor: optimize SVG rendering for road signs
 - **2014-02-04 20:39**: refactor: optimize SVG rendering for road signs
 - **2014-02-05 12:17**: feat: add warning signs and informational road signs
 - **2014-02-05 20:56**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-03-11 10:02**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-11 13:57**: chore: update project metadata and build configuration
 - **2014-03-11 15:45**: chore: update project metadata and build configuration
+- **2014-03-12 09:03**: fix: update DOTM Nepal license syllabus questions
