@@ -1,4 +1,3 @@
-- **2014-02-05 12:17**: feat: add warning signs and informational road signs
 - **2014-02-05 20:56**: docs: update README with setup instructions and feature list
 - **2014-02-06 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2014-02-06 12:07**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-03-11 15:45**: chore: update project metadata and build configuration
 - **2014-03-12 09:03**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-12 19:14**: style: polish typography and Nepali Unicode font rendering
+- **2014-03-13 18:17**: perf: lazy load signal graphics and question assets
