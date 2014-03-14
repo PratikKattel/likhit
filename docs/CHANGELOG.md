@@ -1,4 +1,3 @@
-- **2014-02-06 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2014-02-06 12:07**: chore: format code style and clean up redundant variables
 - **2014-02-06 13:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-02-07 16:32**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-03-12 19:14**: style: polish typography and Nepali Unicode font rendering
 - **2014-03-13 18:17**: perf: lazy load signal graphics and question assets
 - **2014-03-13 22:28**: fix: typo in Nepali road safety regulations question
+- **2014-03-14 14:56**: fix: prevent option re-selection after submitting answer
