@@ -1,4 +1,3 @@
-- **2014-02-06 12:07**: chore: format code style and clean up redundant variables
 - **2014-02-06 13:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-02-07 16:32**: chore: organize assets and image directory structure
 - **2014-02-08 10:58**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2014-03-13 18:17**: perf: lazy load signal graphics and question assets
 - **2014-03-13 22:28**: fix: typo in Nepali road safety regulations question
 - **2014-03-14 14:56**: fix: prevent option re-selection after submitting answer
+- **2014-03-14 15:15**: fix: adjust passing score threshold according to new rules
