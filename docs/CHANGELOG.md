@@ -1,4 +1,3 @@
-- **2014-02-07 16:32**: chore: organize assets and image directory structure
 - **2014-02-08 10:58**: feat: add category A and B traffic test questions
 - **2014-02-08 17:03**: refactor: restructure question data schema for faster loading
 - **2014-02-08 18:13**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-03-14 14:56**: fix: prevent option re-selection after submitting answer
 - **2014-03-14 15:15**: fix: adjust passing score threshold according to new rules
 - **2014-03-15 14:46**: style: polish typography and Nepali Unicode font rendering
+- **2014-03-15 22:15**: fix: typo in Nepali road safety regulations question
