@@ -1,4 +1,3 @@
-- **2014-02-08 19:25**: chore: update project metadata and build configuration
 - **2014-02-09 19:54**: feat: add category A and B traffic test questions
 - **2014-02-10 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-10 14:41**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-03-16 10:17**: chore: update questions database with recent DOTM updates
 - **2014-03-16 21:45**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-16 21:53**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-03-17 13:44**: feat: add warning signs and informational road signs
