@@ -1,4 +1,3 @@
-- **2014-02-10 13:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-10 14:41**: fix: adjust passing score threshold according to new rules
 - **2014-02-11 09:11**: feat: add search and filter by sign category
 - **2014-02-11 10:51**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-03-16 21:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-03-17 13:44**: feat: add warning signs and informational road signs
 - **2014-03-17 14:21**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-03-17 14:53**: feat: implement timer and score calculation for mock test
