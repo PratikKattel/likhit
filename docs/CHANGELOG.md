@@ -1,4 +1,3 @@
-- **2014-02-12 14:28**: docs: add instructions for Nepali driving license written exam
 - **2014-02-12 21:42**: docs: update README with setup instructions and feature list
 - **2014-02-13 15:20**: chore: format code style and clean up redundant variables
 - **2014-02-13 22:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-03-18 11:27**: perf: lazy load signal graphics and question assets
 - **2014-03-19 16:44**: style: enhance traffic sign card layout and responsiveness
 - **2014-03-19 16:50**: feat: implement timer and score calculation for mock test
+- **2014-03-19 17:28**: perf: index question IDs for rapid lookup
