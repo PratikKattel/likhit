@@ -1,4 +1,3 @@
-- **2014-02-11 09:11**: feat: add search and filter by sign category
 - **2014-02-11 10:51**: docs: update README with setup instructions and feature list
 - **2014-02-12 14:28**: docs: add instructions for Nepali driving license written exam
 - **2014-02-12 21:42**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-03-17 14:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-03-17 14:53**: feat: implement timer and score calculation for mock test
 - **2014-03-18 11:27**: perf: lazy load signal graphics and question assets
+- **2014-03-19 16:44**: style: enhance traffic sign card layout and responsiveness
