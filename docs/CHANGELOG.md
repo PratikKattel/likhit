@@ -1,4 +1,3 @@
-- **2014-02-13 22:01**: docs: update README with setup instructions and feature list
 - **2014-02-14 21:45**: docs: add instructions for Nepali driving license written exam
 - **2014-02-15 09:26**: fix: prevent option re-selection after submitting answer
 - **2014-02-15 14:16**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2014-03-19 17:28**: perf: index question IDs for rapid lookup
 - **2014-03-20 09:57**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-20 14:46**: feat: add category-specific practice modes
+- **2014-03-20 16:15**: refactor: restructure question data schema for faster loading
