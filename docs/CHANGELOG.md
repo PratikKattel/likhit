@@ -1,4 +1,3 @@
-- **2014-02-14 21:45**: docs: add instructions for Nepali driving license written exam
 - **2014-02-15 09:26**: fix: prevent option re-selection after submitting answer
 - **2014-02-15 14:16**: refactor: modularize traffic app logic and event listeners
 - **2014-02-15 16:52**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-03-20 09:57**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-20 14:46**: feat: add category-specific practice modes
 - **2014-03-20 16:15**: refactor: restructure question data schema for faster loading
+- **2014-03-21 17:18**: feat: add warning signs and informational road signs
