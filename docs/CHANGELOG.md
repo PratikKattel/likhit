@@ -1,4 +1,3 @@
-- **2014-02-16 13:08**: docs: improve code comments and API documentation
 - **2014-02-16 19:01**: refactor: optimize SVG rendering for road signs
 - **2014-02-16 20:00**: fix: prevent option re-selection after submitting answer
 - **2014-02-17 17:12**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-03-22 17:31**: refactor: modularize traffic app logic and event listeners
 - **2014-03-23 13:28**: chore: update project metadata and build configuration
 - **2014-03-23 14:43**: feat: add keyboard navigation shortcuts for question selection
+- **2014-03-23 15:04**: refactor: restructure question data schema for faster loading
