@@ -1,4 +1,3 @@
-- **2014-02-16 20:00**: fix: prevent option re-selection after submitting answer
 - **2014-02-17 17:12**: chore: update questions database with recent DOTM updates
 - **2014-02-18 15:01**: feat: implement timer and score calculation for mock test
 - **2014-02-18 16:24**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-03-23 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-23 15:04**: refactor: restructure question data schema for faster loading
 - **2014-03-24 12:08**: perf: lazy load signal graphics and question assets
+- **2014-03-24 14:40**: chore: organize assets and image directory structure
