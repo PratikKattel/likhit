@@ -1,4 +1,3 @@
-- **2014-02-17 17:12**: chore: update questions database with recent DOTM updates
 - **2014-02-18 15:01**: feat: implement timer and score calculation for mock test
 - **2014-02-18 16:24**: chore: organize assets and image directory structure
 - **2014-02-19 09:59**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-03-23 15:04**: refactor: restructure question data schema for faster loading
 - **2014-03-24 12:08**: perf: lazy load signal graphics and question assets
 - **2014-03-24 14:40**: chore: organize assets and image directory structure
+- **2014-03-25 18:49**: docs: update traffic signals catalog documentation
