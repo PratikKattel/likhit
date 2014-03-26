@@ -1,4 +1,3 @@
-- **2014-02-18 16:24**: chore: organize assets and image directory structure
 - **2014-02-19 09:59**: fix: update DOTM Nepal license syllabus questions
 - **2014-02-19 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-19 13:45**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2014-03-24 14:40**: chore: organize assets and image directory structure
 - **2014-03-25 18:49**: docs: update traffic signals catalog documentation
 - **2014-03-26 12:15**: feat: add regulatory traffic signs SVG graphics
+- **2014-03-26 21:32**: docs: update traffic signals catalog documentation
