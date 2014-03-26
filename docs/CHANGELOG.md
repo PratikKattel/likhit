@@ -1,4 +1,3 @@
-- **2014-02-19 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-02-19 13:45**: feat: add search and filter by sign category
 - **2014-02-19 18:52**: perf: index question IDs for rapid lookup
 - **2014-02-20 14:07**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-03-26 12:15**: feat: add regulatory traffic signs SVG graphics
 - **2014-03-26 21:32**: docs: update traffic signals catalog documentation
 - **2014-03-26 21:54**: fix: typo in Nepali road safety regulations question
+- **2014-03-26 22:12**: perf: lazy load signal graphics and question assets
