@@ -1,4 +1,3 @@
-- **2014-02-19 18:52**: perf: index question IDs for rapid lookup
 - **2014-02-20 14:07**: docs: update README with setup instructions and feature list
 - **2014-02-20 15:33**: chore: update project metadata and build configuration
 - **2014-02-20 17:00**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-03-26 21:54**: fix: typo in Nepali road safety regulations question
 - **2014-03-26 22:12**: perf: lazy load signal graphics and question assets
 - **2014-03-27 16:32**: feat: add regulatory traffic signs SVG graphics
+- **2014-03-27 21:16**: refactor: restructure question data schema for faster loading
