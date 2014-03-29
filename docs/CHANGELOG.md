@@ -1,4 +1,3 @@
-- **2014-02-20 17:00**: feat: add warning signs and informational road signs
 - **2014-02-20 19:07**: perf: optimize image caching for traffic sign assets
 - **2014-02-21 11:41**: feat: implement timer and score calculation for mock test
 - **2014-02-21 12:42**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-03-27 21:16**: refactor: restructure question data schema for faster loading
 - **2014-03-28 11:31**: docs: improve code comments and API documentation
 - **2014-03-28 14:31**: feat: add keyboard navigation shortcuts for question selection
+- **2014-03-29 14:19**: feat: add search and filter by sign category
