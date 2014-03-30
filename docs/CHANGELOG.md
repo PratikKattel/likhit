@@ -1,4 +1,3 @@
-- **2014-02-21 11:41**: feat: implement timer and score calculation for mock test
 - **2014-02-21 12:42**: perf: index question IDs for rapid lookup
 - **2014-02-22 16:27**: test: verify question extraction script against exam PDF
 - **2014-02-22 18:10**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-03-28 14:31**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-29 14:19**: feat: add search and filter by sign category
 - **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
+- **2014-03-30 11:20**: fix: resolve layout shift during question transitions
