@@ -1,4 +1,3 @@
-- **2014-02-22 16:27**: test: verify question extraction script against exam PDF
 - **2014-02-22 18:10**: chore: update project metadata and build configuration
 - **2014-02-23 09:14**: feat: add regulatory traffic signs SVG graphics
 - **2014-02-23 21:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
 - **2014-03-30 11:20**: fix: resolve layout shift during question transitions
 - **2014-03-30 11:26**: fix: adjust passing score threshold according to new rules
+- **2014-03-30 12:12**: feat: add category A and B traffic test questions
