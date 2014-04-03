@@ -1,4 +1,3 @@
-- **2014-02-25 20:22**: feat: add category-specific practice modes
 - **2014-02-26 10:12**: chore: format code style and clean up redundant variables
 - **2014-02-26 18:54**: style: polish typography and Nepali Unicode font rendering
 - **2014-02-27 10:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2014-04-01 10:24**: test: verify question extraction script against exam PDF
 - **2014-04-02 21:22**: refactor: restructure question data schema for faster loading
 - **2014-04-03 10:33**: perf: index question IDs for rapid lookup
+- **2014-04-03 16:30**: refactor: modularize traffic app logic and event listeners
