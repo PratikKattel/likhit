@@ -1,4 +1,3 @@
-- **2014-02-24 22:11**: fix: prevent option re-selection after submitting answer
 - **2014-02-25 20:22**: feat: add category-specific practice modes
 - **2014-02-26 10:12**: chore: format code style and clean up redundant variables
 - **2014-02-26 18:54**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-03-31 14:23**: chore: organize assets and image directory structure
 - **2014-04-01 10:24**: test: verify question extraction script against exam PDF
 - **2014-04-02 21:22**: refactor: restructure question data schema for faster loading
+- **2014-04-03 10:33**: perf: index question IDs for rapid lookup
