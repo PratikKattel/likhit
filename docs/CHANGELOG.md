@@ -1,4 +1,3 @@
-- **2014-02-27 16:35**: perf: index question IDs for rapid lookup
 - **2014-02-27 20:11**: perf: index question IDs for rapid lookup
 - **2014-02-28 16:41**: feat: add instant feedback and explanation on answer selection
 - **2014-03-01 17:50**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-04-04 09:02**: docs: add instructions for Nepali driving license written exam
 - **2014-04-04 11:48**: fix: update DOTM Nepal license syllabus questions
 - **2014-04-04 15:27**: feat: add keyboard navigation shortcuts for question selection
+- **2014-04-04 21:13**: chore: update questions database with recent DOTM updates
