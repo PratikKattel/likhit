@@ -1,4 +1,3 @@
-- **2014-03-01 17:50**: feat: add warning signs and informational road signs
 - **2014-03-01 18:47**: docs: improve code comments and API documentation
 - **2014-03-01 21:03**: refactor: restructure question data schema for faster loading
 - **2014-03-01 21:49**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-04-04 21:13**: chore: update questions database with recent DOTM updates
 - **2014-04-05 17:58**: chore: format code style and clean up redundant variables
 - **2014-04-06 09:28**: docs: update README with setup instructions and feature list
+- **2014-04-06 17:49**: refactor: modularize traffic app logic and event listeners
