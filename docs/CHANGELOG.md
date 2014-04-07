@@ -1,4 +1,3 @@
-- **2014-03-01 21:03**: refactor: restructure question data schema for faster loading
 - **2014-03-01 21:49**: perf: index question IDs for rapid lookup
 - **2014-03-02 20:30**: feat: support multiple choice questions for motorcycle category
 - **2014-03-03 10:07**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-04-06 09:28**: docs: update README with setup instructions and feature list
 - **2014-04-06 17:49**: refactor: modularize traffic app logic and event listeners
 - **2014-04-07 12:45**: docs: update traffic signals catalog documentation
+- **2014-04-07 16:30**: feat: add warning signs and informational road signs
