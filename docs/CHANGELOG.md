@@ -1,4 +1,3 @@
-- **2014-03-04 15:54**: feat: add warning signs and informational road signs
 - **2014-03-05 17:34**: perf: optimize image caching for traffic sign assets
 - **2014-03-06 17:38**: docs: update traffic signals catalog documentation
 - **2014-03-07 18:34**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-04-09 18:50**: perf: optimize image caching for traffic sign assets
 - **2014-04-10 16:49**: fix: typo in Nepali road safety regulations question
 - **2014-04-10 21:43**: refactor: optimize SVG rendering for road signs
+- **2014-04-11 09:58**: docs: update README with setup instructions and feature list
