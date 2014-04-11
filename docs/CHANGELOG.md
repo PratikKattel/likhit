@@ -1,4 +1,3 @@
-- **2014-03-06 17:38**: docs: update traffic signals catalog documentation
 - **2014-03-07 18:34**: fix: adjust passing score threshold according to new rules
 - **2014-03-07 19:43**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-07 21:43**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-04-10 21:43**: refactor: optimize SVG rendering for road signs
 - **2014-04-11 09:58**: docs: update README with setup instructions and feature list
 - **2014-04-11 16:28**: feat: add instant feedback and explanation on answer selection
+- **2014-04-11 17:38**: chore: format code style and clean up redundant variables
