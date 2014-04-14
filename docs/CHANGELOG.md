@@ -1,4 +1,3 @@
-- **2014-03-07 21:43**: perf: index question IDs for rapid lookup
 - **2014-03-08 16:02**: perf: optimize image caching for traffic sign assets
 - **2014-03-08 19:57**: fix: prevent option re-selection after submitting answer
 - **2014-03-09 10:19**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-04-11 17:38**: chore: format code style and clean up redundant variables
 - **2014-04-12 12:48**: docs: improve code comments and API documentation
 - **2014-04-13 10:01**: style: enhance traffic sign card layout and responsiveness
+- **2014-04-14 12:23**: feat: add regulatory traffic signs SVG graphics
