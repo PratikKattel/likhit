@@ -1,4 +1,3 @@
-- **2014-03-09 10:19**: chore: format code style and clean up redundant variables
 - **2014-03-09 18:00**: feat: add category A and B traffic test questions
 - **2014-03-10 13:28**: fix: adjust passing score threshold according to new rules
 - **2014-03-10 21:50**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-04-14 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-15 09:50**: docs: update traffic signals catalog documentation
 - **2014-04-15 12:00**: style: polish typography and Nepali Unicode font rendering
+- **2014-04-15 19:19**: feat: add category-specific practice modes
