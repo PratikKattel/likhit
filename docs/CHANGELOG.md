@@ -1,4 +1,3 @@
-- **2014-03-10 13:28**: fix: adjust passing score threshold according to new rules
 - **2014-03-10 21:50**: chore: organize assets and image directory structure
 - **2014-03-11 09:32**: fix: typo in Nepali road safety regulations question
 - **2014-03-11 10:02**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-04-15 12:00**: style: polish typography and Nepali Unicode font rendering
 - **2014-04-15 19:19**: feat: add category-specific practice modes
 - **2014-04-16 13:40**: docs: update traffic signals catalog documentation
+- **2014-04-16 13:53**: feat: add regulatory traffic signs SVG graphics
