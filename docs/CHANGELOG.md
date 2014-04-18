@@ -1,4 +1,3 @@
-- **2014-03-11 09:32**: fix: typo in Nepali road safety regulations question
 - **2014-03-11 10:02**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-11 13:57**: chore: update project metadata and build configuration
 - **2014-03-11 15:45**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-04-16 13:40**: docs: update traffic signals catalog documentation
 - **2014-04-16 13:53**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-17 21:56**: feat: implement timer and score calculation for mock test
+- **2014-04-18 20:35**: feat: add category-specific practice modes
