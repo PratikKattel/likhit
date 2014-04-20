@@ -1,4 +1,3 @@
-- **2014-03-12 19:14**: style: polish typography and Nepali Unicode font rendering
 - **2014-03-13 18:17**: perf: lazy load signal graphics and question assets
 - **2014-03-13 22:28**: fix: typo in Nepali road safety regulations question
 - **2014-03-14 14:56**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-04-19 11:00**: fix: resolve layout shift during question transitions
 - **2014-04-20 12:04**: fix: update DOTM Nepal license syllabus questions
 - **2014-04-20 15:26**: refactor: restructure question data schema for faster loading
+- **2014-04-20 22:07**: feat: add result summary with passing threshold analysis
