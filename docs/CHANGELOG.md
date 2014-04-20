@@ -1,4 +1,3 @@
-- **2014-03-11 15:45**: chore: update project metadata and build configuration
 - **2014-03-12 09:03**: fix: update DOTM Nepal license syllabus questions
 - **2014-03-12 19:14**: style: polish typography and Nepali Unicode font rendering
 - **2014-03-13 18:17**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2014-04-18 20:35**: feat: add category-specific practice modes
 - **2014-04-18 21:13**: fix: correct color specifications for mandatory traffic signs
 - **2014-04-19 11:00**: fix: resolve layout shift during question transitions
+- **2014-04-20 12:04**: fix: update DOTM Nepal license syllabus questions
