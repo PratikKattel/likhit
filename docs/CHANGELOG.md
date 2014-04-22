@@ -1,4 +1,3 @@
-- **2014-03-14 15:15**: fix: adjust passing score threshold according to new rules
 - **2014-03-15 14:46**: style: polish typography and Nepali Unicode font rendering
 - **2014-03-15 22:15**: fix: typo in Nepali road safety regulations question
 - **2014-03-16 10:17**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-04-21 09:48**: fix: correct color specifications for mandatory traffic signs
 - **2014-04-21 15:43**: feat: add category A and B traffic test questions
 - **2014-04-22 11:11**: test: verify question extraction script against exam PDF
+- **2014-04-22 11:13**: feat: add category-specific practice modes
