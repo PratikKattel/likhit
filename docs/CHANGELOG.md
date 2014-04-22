@@ -1,4 +1,3 @@
-- **2014-03-15 22:15**: fix: typo in Nepali road safety regulations question
 - **2014-03-16 10:17**: chore: update questions database with recent DOTM updates
 - **2014-03-16 21:45**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-16 21:53**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-04-22 11:11**: test: verify question extraction script against exam PDF
 - **2014-04-22 11:13**: feat: add category-specific practice modes
 - **2014-04-22 17:24**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-04-22 20:49**: chore: update project metadata and build configuration
