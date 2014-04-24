@@ -1,4 +1,3 @@
-- **2014-03-16 21:45**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-16 21:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-03-17 13:44**: feat: add warning signs and informational road signs
 - **2014-03-17 14:21**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-04-22 17:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-04-22 20:49**: chore: update project metadata and build configuration
 - **2014-04-23 19:52**: chore: format code style and clean up redundant variables
+- **2014-04-24 11:15**: feat: add warning signs and informational road signs
