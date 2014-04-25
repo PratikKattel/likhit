@@ -1,4 +1,3 @@
-- **2014-03-17 14:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-03-17 14:53**: feat: implement timer and score calculation for mock test
 - **2014-03-18 11:27**: perf: lazy load signal graphics and question assets
 - **2014-03-19 16:44**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-04-24 11:15**: feat: add warning signs and informational road signs
 - **2014-04-24 12:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-04-24 19:37**: chore: update questions database with recent DOTM updates
+- **2014-04-25 14:21**: refactor: modularize traffic app logic and event listeners
