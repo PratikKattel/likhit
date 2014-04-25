@@ -1,4 +1,3 @@
-- **2014-03-18 11:27**: perf: lazy load signal graphics and question assets
 - **2014-03-19 16:44**: style: enhance traffic sign card layout and responsiveness
 - **2014-03-19 16:50**: feat: implement timer and score calculation for mock test
 - **2014-03-19 17:28**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-04-24 19:37**: chore: update questions database with recent DOTM updates
 - **2014-04-25 14:21**: refactor: modularize traffic app logic and event listeners
 - **2014-04-25 16:11**: feat: add regulatory traffic signs SVG graphics
+- **2014-04-25 22:17**: feat: add instant feedback and explanation on answer selection
