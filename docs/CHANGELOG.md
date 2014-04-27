@@ -1,4 +1,3 @@
-- **2014-03-19 16:50**: feat: implement timer and score calculation for mock test
 - **2014-03-19 17:28**: perf: index question IDs for rapid lookup
 - **2014-03-20 09:57**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-20 14:46**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-04-25 16:11**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-25 22:17**: feat: add instant feedback and explanation on answer selection
 - **2014-04-26 11:25**: perf: index question IDs for rapid lookup
+- **2014-04-27 14:56**: perf: optimize image caching for traffic sign assets
