@@ -1,4 +1,3 @@
-- **2014-03-20 09:57**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-20 14:46**: feat: add category-specific practice modes
 - **2014-03-20 16:15**: refactor: restructure question data schema for faster loading
 - **2014-03-21 17:18**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-04-26 11:25**: perf: index question IDs for rapid lookup
 - **2014-04-27 14:56**: perf: optimize image caching for traffic sign assets
 - **2014-04-28 22:24**: feat: add category-specific practice modes
+- **2014-04-29 20:15**: feat: add regulatory traffic signs SVG graphics
