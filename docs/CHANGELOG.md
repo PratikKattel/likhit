@@ -1,4 +1,3 @@
-- **2014-03-21 17:18**: feat: add warning signs and informational road signs
 - **2014-03-22 16:58**: test: verify question extraction script against exam PDF
 - **2014-03-22 17:31**: refactor: modularize traffic app logic and event listeners
 - **2014-03-23 13:28**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-04-29 20:15**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-29 20:41**: fix: typo in Nepali road safety regulations question
 - **2014-04-30 14:05**: refactor: restructure question data schema for faster loading
+- **2014-05-01 10:03**: refactor: clean up unused CSS classes and optimize stylesheet
