@@ -1,4 +1,3 @@
-- **2014-03-23 13:28**: chore: update project metadata and build configuration
 - **2014-03-23 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-23 15:04**: refactor: restructure question data schema for faster loading
 - **2014-03-24 12:08**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2014-05-01 10:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-01 16:28**: feat: implement timer and score calculation for mock test
 - **2014-05-02 11:03**: perf: optimize image caching for traffic sign assets
+- **2014-05-03 13:32**: style: improve dark/light mode and mobile UI responsiveness
