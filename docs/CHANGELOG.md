@@ -1,4 +1,3 @@
-- **2014-03-23 15:04**: refactor: restructure question data schema for faster loading
 - **2014-03-24 12:08**: perf: lazy load signal graphics and question assets
 - **2014-03-24 14:40**: chore: organize assets and image directory structure
 - **2014-03-25 18:49**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-05-02 11:03**: perf: optimize image caching for traffic sign assets
 - **2014-05-03 13:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-05-04 13:03**: feat: add category-specific practice modes
+- **2014-05-04 15:23**: chore: update project metadata and build configuration
