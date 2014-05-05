@@ -1,4 +1,3 @@
-- **2014-03-24 12:08**: perf: lazy load signal graphics and question assets
 - **2014-03-24 14:40**: chore: organize assets and image directory structure
 - **2014-03-25 18:49**: docs: update traffic signals catalog documentation
 - **2014-03-26 12:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-05-03 13:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-05-04 13:03**: feat: add category-specific practice modes
 - **2014-05-04 15:23**: chore: update project metadata and build configuration
+- **2014-05-05 11:43**: feat: add result summary with passing threshold analysis
