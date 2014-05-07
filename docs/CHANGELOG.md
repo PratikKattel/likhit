@@ -1,4 +1,3 @@
-- **2014-03-26 22:12**: perf: lazy load signal graphics and question assets
 - **2014-03-27 16:32**: feat: add regulatory traffic signs SVG graphics
 - **2014-03-27 21:16**: refactor: restructure question data schema for faster loading
 - **2014-03-28 11:31**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-05-06 10:03**: feat: implement timer and score calculation for mock test
 - **2014-05-06 14:12**: refactor: restructure question data schema for faster loading
 - **2014-05-07 20:13**: docs: update traffic signals catalog documentation
+- **2014-05-07 21:38**: fix: update DOTM Nepal license syllabus questions
