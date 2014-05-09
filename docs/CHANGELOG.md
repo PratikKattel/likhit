@@ -1,4 +1,3 @@
-- **2014-03-28 11:31**: docs: improve code comments and API documentation
 - **2014-03-28 14:31**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-29 14:19**: feat: add search and filter by sign category
 - **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-05-07 21:38**: fix: update DOTM Nepal license syllabus questions
 - **2014-05-08 12:13**: test: verify question extraction script against exam PDF
 - **2014-05-08 15:41**: feat: add keyboard navigation shortcuts for question selection
+- **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
