@@ -1,4 +1,3 @@
-- **2014-03-28 14:31**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-29 14:19**: feat: add search and filter by sign category
 - **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
 - **2014-03-30 11:20**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-05-08 12:13**: test: verify question extraction script against exam PDF
 - **2014-05-08 15:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
+- **2014-05-10 17:03**: fix: prevent option re-selection after submitting answer
