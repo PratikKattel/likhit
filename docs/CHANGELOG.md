@@ -1,4 +1,3 @@
-- **2014-03-29 14:19**: feat: add search and filter by sign category
 - **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
 - **2014-03-30 11:20**: fix: resolve layout shift during question transitions
 - **2014-03-30 11:26**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-05-08 15:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
 - **2014-05-10 17:03**: fix: prevent option re-selection after submitting answer
+- **2014-05-11 11:02**: style: enhance traffic sign card layout and responsiveness
