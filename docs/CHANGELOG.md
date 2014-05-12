@@ -1,4 +1,3 @@
-- **2014-03-30 11:26**: fix: adjust passing score threshold according to new rules
 - **2014-03-30 12:12**: feat: add category A and B traffic test questions
 - **2014-03-31 10:16**: feat: add keyboard navigation shortcuts for question selection
 - **2014-03-31 14:23**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-05-11 11:02**: style: enhance traffic sign card layout and responsiveness
 - **2014-05-12 17:11**: feat: add instant feedback and explanation on answer selection
 - **2014-05-12 20:09**: feat: add search and filter by sign category
+- **2014-05-12 20:10**: fix: correct color specifications for mandatory traffic signs
