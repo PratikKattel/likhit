@@ -1,4 +1,3 @@
-- **2014-03-29 19:43**: feat: add result summary with passing threshold analysis
 - **2014-03-30 11:20**: fix: resolve layout shift during question transitions
 - **2014-03-30 11:26**: fix: adjust passing score threshold according to new rules
 - **2014-03-30 12:12**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
 - **2014-05-10 17:03**: fix: prevent option re-selection after submitting answer
 - **2014-05-11 11:02**: style: enhance traffic sign card layout and responsiveness
+- **2014-05-12 17:11**: feat: add instant feedback and explanation on answer selection
