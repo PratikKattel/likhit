@@ -1,4 +1,3 @@
-- **2014-03-31 14:23**: chore: organize assets and image directory structure
 - **2014-04-01 10:24**: test: verify question extraction script against exam PDF
 - **2014-04-02 21:22**: refactor: restructure question data schema for faster loading
 - **2014-04-03 10:33**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-05-12 20:10**: fix: correct color specifications for mandatory traffic signs
 - **2014-05-13 16:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-13 18:35**: feat: implement timer and score calculation for mock test
+- **2014-05-14 11:07**: perf: lazy load signal graphics and question assets
