@@ -1,4 +1,3 @@
-- **2014-04-03 10:33**: perf: index question IDs for rapid lookup
 - **2014-04-03 16:30**: refactor: modularize traffic app logic and event listeners
 - **2014-04-04 09:02**: docs: add instructions for Nepali driving license written exam
 - **2014-04-04 11:48**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-05-14 11:07**: perf: lazy load signal graphics and question assets
 - **2014-05-14 13:44**: chore: organize assets and image directory structure
 - **2014-05-15 19:37**: fix: typo in Nepali road safety regulations question
+- **2014-05-16 12:09**: fix: prevent option re-selection after submitting answer
