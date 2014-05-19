@@ -1,4 +1,3 @@
-- **2014-04-04 15:27**: feat: add keyboard navigation shortcuts for question selection
 - **2014-04-04 21:13**: chore: update questions database with recent DOTM updates
 - **2014-04-05 17:58**: chore: format code style and clean up redundant variables
 - **2014-04-06 09:28**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-05-17 19:04**: fix: adjust passing score threshold according to new rules
 - **2014-05-18 18:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-18 18:35**: feat: add regulatory traffic signs SVG graphics
+- **2014-05-19 22:04**: feat: add keyboard navigation shortcuts for question selection
