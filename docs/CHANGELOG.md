@@ -1,4 +1,3 @@
-- **2014-04-06 09:28**: docs: update README with setup instructions and feature list
 - **2014-04-06 17:49**: refactor: modularize traffic app logic and event listeners
 - **2014-04-07 12:45**: docs: update traffic signals catalog documentation
 - **2014-04-07 16:30**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-05-19 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-20 16:11**: style: enhance traffic sign card layout and responsiveness
 - **2014-05-20 17:40**: fix: correct color specifications for mandatory traffic signs
+- **2014-05-21 11:58**: fix: prevent option re-selection after submitting answer
