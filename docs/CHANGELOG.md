@@ -1,4 +1,3 @@
-- **2014-04-07 12:45**: docs: update traffic signals catalog documentation
 - **2014-04-07 16:30**: feat: add warning signs and informational road signs
 - **2014-04-08 13:36**: docs: add instructions for Nepali driving license written exam
 - **2014-04-08 15:03**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-05-20 17:40**: fix: correct color specifications for mandatory traffic signs
 - **2014-05-21 11:58**: fix: prevent option re-selection after submitting answer
 - **2014-05-21 19:14**: docs: update README with setup instructions and feature list
+- **2014-05-21 21:01**: feat: add warning signs and informational road signs
