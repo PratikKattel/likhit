@@ -1,4 +1,3 @@
-- **2014-04-09 09:29**: style: polish typography and Nepali Unicode font rendering
 - **2014-04-09 18:50**: perf: optimize image caching for traffic sign assets
 - **2014-04-10 16:49**: fix: typo in Nepali road safety regulations question
 - **2014-04-10 21:43**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2014-05-22 12:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-22 20:19**: feat: add warning signs and informational road signs
 - **2014-05-22 20:59**: feat: add regulatory traffic signs SVG graphics
+- **2014-05-23 10:21**: refactor: modularize traffic app logic and event listeners
