@@ -1,4 +1,3 @@
-- **2014-04-10 16:49**: fix: typo in Nepali road safety regulations question
 - **2014-04-10 21:43**: refactor: optimize SVG rendering for road signs
 - **2014-04-11 09:58**: docs: update README with setup instructions and feature list
 - **2014-04-11 16:28**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-05-22 20:59**: feat: add regulatory traffic signs SVG graphics
 - **2014-05-23 10:21**: refactor: modularize traffic app logic and event listeners
 - **2014-05-23 12:33**: feat: add category-specific practice modes
+- **2014-05-24 17:16**: fix: resolve layout shift during question transitions
