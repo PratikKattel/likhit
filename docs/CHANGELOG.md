@@ -1,4 +1,3 @@
-- **2014-04-11 09:58**: docs: update README with setup instructions and feature list
 - **2014-04-11 16:28**: feat: add instant feedback and explanation on answer selection
 - **2014-04-11 17:38**: chore: format code style and clean up redundant variables
 - **2014-04-12 12:48**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-05-23 12:33**: feat: add category-specific practice modes
 - **2014-05-24 17:16**: fix: resolve layout shift during question transitions
 - **2014-05-25 09:01**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-05-25 20:28**: refactor: optimize SVG rendering for road signs
