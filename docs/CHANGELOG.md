@@ -1,4 +1,3 @@
-- **2014-04-14 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-15 09:50**: docs: update traffic signals catalog documentation
 - **2014-04-15 12:00**: style: polish typography and Nepali Unicode font rendering
 - **2014-04-15 19:19**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-05-27 20:54**: chore: organize assets and image directory structure
 - **2014-05-28 18:13**: fix: adjust passing score threshold according to new rules
 - **2014-05-28 21:51**: fix: update DOTM Nepal license syllabus questions
+- **2014-05-29 10:54**: feat: add instant feedback and explanation on answer selection
