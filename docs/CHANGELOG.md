@@ -1,4 +1,3 @@
-- **2014-04-17 21:56**: feat: implement timer and score calculation for mock test
 - **2014-04-18 20:35**: feat: add category-specific practice modes
 - **2014-04-18 21:13**: fix: correct color specifications for mandatory traffic signs
 - **2014-04-19 11:00**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-05-30 14:52**: docs: add instructions for Nepali driving license written exam
 - **2014-05-31 17:52**: feat: add category-specific practice modes
 - **2014-06-01 12:04**: docs: improve code comments and API documentation
+- **2014-06-01 16:21**: fix: typo in Nepali road safety regulations question
