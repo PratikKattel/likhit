@@ -1,4 +1,3 @@
-- **2014-04-22 11:11**: test: verify question extraction script against exam PDF
 - **2014-04-22 11:13**: feat: add category-specific practice modes
 - **2014-04-22 17:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-04-22 20:49**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-06-04 21:17**: feat: add category-specific practice modes
 - **2014-06-05 14:05**: feat: add instant feedback and explanation on answer selection
 - **2014-06-05 16:48**: fix: correct color specifications for mandatory traffic signs
+- **2014-06-06 16:26**: refactor: optimize SVG rendering for road signs
