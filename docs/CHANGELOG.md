@@ -1,4 +1,3 @@
-- **2014-04-24 19:37**: chore: update questions database with recent DOTM updates
 - **2014-04-25 14:21**: refactor: modularize traffic app logic and event listeners
 - **2014-04-25 16:11**: feat: add regulatory traffic signs SVG graphics
 - **2014-04-25 22:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-06-08 10:23**: fix: resolve layout shift during question transitions
 - **2014-06-08 16:44**: feat: add search and filter by sign category
 - **2014-06-08 17:42**: docs: improve code comments and API documentation
+- **2014-06-08 20:16**: feat: add warning signs and informational road signs
