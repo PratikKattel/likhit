@@ -1,4 +1,3 @@
-- **2014-04-24 11:15**: feat: add warning signs and informational road signs
 - **2014-04-24 12:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-04-24 19:37**: chore: update questions database with recent DOTM updates
 - **2014-04-25 14:21**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2014-06-07 10:03**: refactor: modularize traffic app logic and event listeners
 - **2014-06-07 21:53**: chore: update project metadata and build configuration
 - **2014-06-08 10:23**: fix: resolve layout shift during question transitions
+- **2014-06-08 16:44**: feat: add search and filter by sign category
