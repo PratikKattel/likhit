@@ -1,4 +1,3 @@
-- **2014-04-25 22:17**: feat: add instant feedback and explanation on answer selection
 - **2014-04-26 11:25**: perf: index question IDs for rapid lookup
 - **2014-04-27 14:56**: perf: optimize image caching for traffic sign assets
 - **2014-04-28 22:24**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-06-08 20:16**: feat: add warning signs and informational road signs
 - **2014-06-09 11:33**: style: enhance traffic sign card layout and responsiveness
 - **2014-06-09 17:41**: feat: add keyboard navigation shortcuts for question selection
+- **2014-06-10 14:06**: fix: correct color specifications for mandatory traffic signs
