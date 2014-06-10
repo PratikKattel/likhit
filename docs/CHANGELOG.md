@@ -1,4 +1,3 @@
-- **2014-04-26 11:25**: perf: index question IDs for rapid lookup
 - **2014-04-27 14:56**: perf: optimize image caching for traffic sign assets
 - **2014-04-28 22:24**: feat: add category-specific practice modes
 - **2014-04-29 20:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-06-09 11:33**: style: enhance traffic sign card layout and responsiveness
 - **2014-06-09 17:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-06-10 14:06**: fix: correct color specifications for mandatory traffic signs
+- **2014-06-10 18:01**: refactor: clean up unused CSS classes and optimize stylesheet
