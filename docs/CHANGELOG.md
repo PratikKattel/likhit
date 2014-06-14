@@ -1,4 +1,3 @@
-- **2014-04-29 20:41**: fix: typo in Nepali road safety regulations question
 - **2014-04-30 14:05**: refactor: restructure question data schema for faster loading
 - **2014-05-01 10:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-01 16:28**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2014-06-11 12:41**: refactor: restructure question data schema for faster loading
 - **2014-06-12 14:51**: feat: add warning signs and informational road signs
 - **2014-06-13 16:10**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-06-14 17:56**: docs: update traffic signals catalog documentation
