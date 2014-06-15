@@ -1,4 +1,3 @@
-- **2014-05-01 10:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-01 16:28**: feat: implement timer and score calculation for mock test
 - **2014-05-02 11:03**: perf: optimize image caching for traffic sign assets
 - **2014-05-03 13:32**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-06-13 16:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-06-14 17:56**: docs: update traffic signals catalog documentation
 - **2014-06-14 19:47**: fix: adjust passing score threshold according to new rules
+- **2014-06-15 09:26**: style: improve dark/light mode and mobile UI responsiveness
