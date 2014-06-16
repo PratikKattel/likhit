@@ -1,4 +1,3 @@
-- **2014-05-03 13:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-05-04 13:03**: feat: add category-specific practice modes
 - **2014-05-04 15:23**: chore: update project metadata and build configuration
 - **2014-05-05 11:43**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-06-15 09:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-06-15 19:24**: fix: typo in Nepali road safety regulations question
 - **2014-06-16 10:34**: docs: improve code comments and API documentation
+- **2014-06-16 12:22**: refactor: restructure question data schema for faster loading
