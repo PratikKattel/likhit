@@ -1,4 +1,3 @@
-- **2014-05-05 11:43**: feat: add result summary with passing threshold analysis
 - **2014-05-05 16:40**: docs: add instructions for Nepali driving license written exam
 - **2014-05-05 20:08**: chore: format code style and clean up redundant variables
 - **2014-05-06 10:03**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2014-06-16 12:22**: refactor: restructure question data schema for faster loading
 - **2014-06-17 17:02**: chore: update project metadata and build configuration
 - **2014-06-18 21:11**: feat: add search and filter by sign category
+- **2014-06-19 18:53**: feat: add category-specific practice modes
