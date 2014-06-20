@@ -1,4 +1,3 @@
-- **2014-05-07 21:38**: fix: update DOTM Nepal license syllabus questions
 - **2014-05-08 12:13**: test: verify question extraction script against exam PDF
 - **2014-05-08 15:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-06-20 17:10**: feat: add category A and B traffic test questions
 - **2014-06-20 17:52**: test: verify question extraction script against exam PDF
 - **2014-06-20 18:03**: perf: index question IDs for rapid lookup
+- **2014-06-20 21:01**: feat: add warning signs and informational road signs
