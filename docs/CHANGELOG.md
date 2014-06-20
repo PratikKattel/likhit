@@ -1,4 +1,3 @@
-- **2014-05-06 10:03**: feat: implement timer and score calculation for mock test
 - **2014-05-06 14:12**: refactor: restructure question data schema for faster loading
 - **2014-05-07 20:13**: docs: update traffic signals catalog documentation
 - **2014-05-07 21:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-06-19 18:53**: feat: add category-specific practice modes
 - **2014-06-19 21:40**: perf: optimize image caching for traffic sign assets
 - **2014-06-19 22:29**: chore: update project metadata and build configuration
+- **2014-06-20 17:10**: feat: add category A and B traffic test questions
