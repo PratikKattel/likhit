@@ -1,4 +1,3 @@
-- **2014-05-08 12:13**: test: verify question extraction script against exam PDF
 - **2014-05-08 15:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
 - **2014-05-10 17:03**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-06-20 17:52**: test: verify question extraction script against exam PDF
 - **2014-06-20 18:03**: perf: index question IDs for rapid lookup
 - **2014-06-20 21:01**: feat: add warning signs and informational road signs
+- **2014-06-21 09:13**: chore: format code style and clean up redundant variables
