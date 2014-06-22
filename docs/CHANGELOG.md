@@ -1,4 +1,3 @@
-- **2014-05-09 13:39**: refactor: restructure question data schema for faster loading
 - **2014-05-10 17:03**: fix: prevent option re-selection after submitting answer
 - **2014-05-11 11:02**: style: enhance traffic sign card layout and responsiveness
 - **2014-05-12 17:11**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-06-20 21:01**: feat: add warning signs and informational road signs
 - **2014-06-21 09:13**: chore: format code style and clean up redundant variables
 - **2014-06-21 11:32**: chore: organize assets and image directory structure
+- **2014-06-22 13:23**: feat: add warning signs and informational road signs
