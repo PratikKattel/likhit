@@ -1,4 +1,3 @@
-- **2014-05-12 20:09**: feat: add search and filter by sign category
 - **2014-05-12 20:10**: fix: correct color specifications for mandatory traffic signs
 - **2014-05-13 16:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-13 18:35**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2014-06-22 20:33**: test: verify question extraction script against exam PDF
 - **2014-06-23 19:22**: fix: resolve layout shift during question transitions
 - **2014-06-23 19:42**: fix: typo in Nepali road safety regulations question
+- **2014-06-24 10:36**: chore: format code style and clean up redundant variables
