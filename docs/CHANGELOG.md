@@ -1,4 +1,3 @@
-- **2014-05-13 18:35**: feat: implement timer and score calculation for mock test
 - **2014-05-14 11:07**: perf: lazy load signal graphics and question assets
 - **2014-05-14 13:44**: chore: organize assets and image directory structure
 - **2014-05-15 19:37**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2014-06-24 10:36**: chore: format code style and clean up redundant variables
 - **2014-06-25 14:25**: docs: update traffic signals catalog documentation
 - **2014-06-25 20:05**: fix: prevent option re-selection after submitting answer
+- **2014-06-26 15:00**: perf: lazy load signal graphics and question assets
