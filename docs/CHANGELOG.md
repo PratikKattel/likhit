@@ -1,4 +1,3 @@
-- **2014-05-15 19:37**: fix: typo in Nepali road safety regulations question
 - **2014-05-16 12:09**: fix: prevent option re-selection after submitting answer
 - **2014-05-17 19:04**: fix: adjust passing score threshold according to new rules
 - **2014-05-18 18:10**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-06-26 15:00**: perf: lazy load signal graphics and question assets
 - **2014-06-26 16:29**: refactor: restructure question data schema for faster loading
 - **2014-06-27 11:26**: fix: typo in Nepali road safety regulations question
+- **2014-06-28 10:26**: feat: add warning signs and informational road signs
