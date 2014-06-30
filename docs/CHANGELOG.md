@@ -1,4 +1,3 @@
-- **2014-05-19 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2014-05-20 16:11**: style: enhance traffic sign card layout and responsiveness
 - **2014-05-20 17:40**: fix: correct color specifications for mandatory traffic signs
 - **2014-05-21 11:58**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-06-29 11:26**: fix: adjust passing score threshold according to new rules
 - **2014-06-29 15:12**: chore: format code style and clean up redundant variables
 - **2014-06-30 17:06**: feat: add search and filter by sign category
+- **2014-06-30 20:47**: docs: add instructions for Nepali driving license written exam
