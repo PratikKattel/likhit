@@ -1,4 +1,3 @@
-- **2014-05-21 21:01**: feat: add warning signs and informational road signs
 - **2014-05-22 12:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-05-22 20:19**: feat: add warning signs and informational road signs
 - **2014-05-22 20:59**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-07-01 14:39**: chore: organize assets and image directory structure
 - **2014-07-01 18:59**: perf: index question IDs for rapid lookup
 - **2014-07-02 12:00**: docs: add instructions for Nepali driving license written exam
+- **2014-07-02 18:36**: docs: improve code comments and API documentation
