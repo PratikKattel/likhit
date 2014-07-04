@@ -1,4 +1,3 @@
-- **2014-05-23 10:21**: refactor: modularize traffic app logic and event listeners
 - **2014-05-23 12:33**: feat: add category-specific practice modes
 - **2014-05-24 17:16**: fix: resolve layout shift during question transitions
 - **2014-05-25 09:01**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-07-03 12:45**: fix: prevent option re-selection after submitting answer
 - **2014-07-04 11:03**: feat: add category-specific practice modes
 - **2014-07-04 16:42**: style: polish typography and Nepali Unicode font rendering
+- **2014-07-04 19:18**: perf: optimize image caching for traffic sign assets
