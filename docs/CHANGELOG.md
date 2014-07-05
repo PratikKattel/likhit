@@ -1,4 +1,3 @@
-- **2014-05-23 12:33**: feat: add category-specific practice modes
 - **2014-05-24 17:16**: fix: resolve layout shift during question transitions
 - **2014-05-25 09:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-05-25 20:28**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2014-07-04 11:03**: feat: add category-specific practice modes
 - **2014-07-04 16:42**: style: polish typography and Nepali Unicode font rendering
 - **2014-07-04 19:18**: perf: optimize image caching for traffic sign assets
+- **2014-07-05 19:01**: docs: update README with setup instructions and feature list
