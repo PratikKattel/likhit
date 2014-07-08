@@ -1,4 +1,3 @@
-- **2014-05-27 20:54**: chore: organize assets and image directory structure
 - **2014-05-28 18:13**: fix: adjust passing score threshold according to new rules
 - **2014-05-28 21:51**: fix: update DOTM Nepal license syllabus questions
 - **2014-05-29 10:54**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-07-06 11:36**: feat: add result summary with passing threshold analysis
 - **2014-07-06 15:30**: refactor: restructure question data schema for faster loading
 - **2014-07-07 17:17**: feat: add category-specific practice modes
+- **2014-07-08 16:34**: chore: update project metadata and build configuration
