@@ -1,4 +1,3 @@
-- **2014-05-28 21:51**: fix: update DOTM Nepal license syllabus questions
 - **2014-05-29 10:54**: feat: add instant feedback and explanation on answer selection
 - **2014-05-29 16:03**: feat: add category A and B traffic test questions
 - **2014-05-30 11:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-07-07 17:17**: feat: add category-specific practice modes
 - **2014-07-08 16:34**: chore: update project metadata and build configuration
 - **2014-07-09 14:13**: perf: index question IDs for rapid lookup
+- **2014-07-09 14:19**: feat: add warning signs and informational road signs
