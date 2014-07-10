@@ -1,4 +1,3 @@
-- **2014-05-30 11:40**: perf: index question IDs for rapid lookup
 - **2014-05-30 14:52**: docs: add instructions for Nepali driving license written exam
 - **2014-05-31 17:52**: feat: add category-specific practice modes
 - **2014-06-01 12:04**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-07-09 14:19**: feat: add warning signs and informational road signs
 - **2014-07-09 16:02**: feat: add instant feedback and explanation on answer selection
 - **2014-07-09 18:42**: feat: implement timer and score calculation for mock test
+- **2014-07-10 17:10**: perf: index question IDs for rapid lookup
