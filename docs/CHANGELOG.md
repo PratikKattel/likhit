@@ -1,4 +1,3 @@
-- **2014-05-31 17:52**: feat: add category-specific practice modes
 - **2014-06-01 12:04**: docs: improve code comments and API documentation
 - **2014-06-01 16:21**: fix: typo in Nepali road safety regulations question
 - **2014-06-02 12:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-07-09 18:42**: feat: implement timer and score calculation for mock test
 - **2014-07-10 17:10**: perf: index question IDs for rapid lookup
 - **2014-07-11 15:38**: style: enhance traffic sign card layout and responsiveness
+- **2014-07-12 11:32**: docs: improve code comments and API documentation
