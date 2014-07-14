@@ -1,4 +1,3 @@
-- **2014-06-02 14:44**: feat: add category A and B traffic test questions
 - **2014-06-03 10:03**: feat: support multiple choice questions for motorcycle category
 - **2014-06-03 14:50**: fix: typo in Nepali road safety regulations question
 - **2014-06-03 22:01**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2014-07-13 09:25**: feat: add category A and B traffic test questions
 - **2014-07-13 14:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-07-14 11:18**: feat: add instant feedback and explanation on answer selection
+- **2014-07-14 19:33**: feat: add regulatory traffic signs SVG graphics
