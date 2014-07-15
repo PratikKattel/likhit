@@ -1,4 +1,3 @@
-- **2014-06-03 14:50**: fix: typo in Nepali road safety regulations question
 - **2014-06-03 22:01**: refactor: modularize traffic app logic and event listeners
 - **2014-06-04 21:17**: feat: add category-specific practice modes
 - **2014-06-05 14:05**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-07-14 11:18**: feat: add instant feedback and explanation on answer selection
 - **2014-07-14 19:33**: feat: add regulatory traffic signs SVG graphics
 - **2014-07-15 11:22**: fix: correct color specifications for mandatory traffic signs
+- **2014-07-15 11:48**: feat: add search and filter by sign category
