@@ -1,4 +1,3 @@
-- **2014-06-04 21:17**: feat: add category-specific practice modes
 - **2014-06-05 14:05**: feat: add instant feedback and explanation on answer selection
 - **2014-06-05 16:48**: fix: correct color specifications for mandatory traffic signs
 - **2014-06-06 16:26**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2014-07-15 11:22**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-15 11:48**: feat: add search and filter by sign category
 - **2014-07-16 14:09**: refactor: optimize SVG rendering for road signs
+- **2014-07-17 14:20**: docs: update README with setup instructions and feature list
