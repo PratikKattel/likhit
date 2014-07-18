@@ -1,4 +1,3 @@
-- **2014-06-05 16:48**: fix: correct color specifications for mandatory traffic signs
 - **2014-06-06 16:26**: refactor: optimize SVG rendering for road signs
 - **2014-06-06 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2014-06-07 10:03**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2014-07-16 14:09**: refactor: optimize SVG rendering for road signs
 - **2014-07-17 14:20**: docs: update README with setup instructions and feature list
 - **2014-07-17 18:43**: fix: typo in Nepali road safety regulations question
+- **2014-07-18 15:31**: fix: resolve layout shift during question transitions
