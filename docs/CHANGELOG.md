@@ -1,4 +1,3 @@
-- **2014-06-06 19:58**: fix: update DOTM Nepal license syllabus questions
 - **2014-06-07 10:03**: refactor: modularize traffic app logic and event listeners
 - **2014-06-07 21:53**: chore: update project metadata and build configuration
 - **2014-06-08 10:23**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-07-17 18:43**: fix: typo in Nepali road safety regulations question
 - **2014-07-18 15:31**: fix: resolve layout shift during question transitions
 - **2014-07-19 18:22**: fix: prevent option re-selection after submitting answer
+- **2014-07-19 19:17**: style: polish typography and Nepali Unicode font rendering
