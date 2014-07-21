@@ -1,4 +1,3 @@
-- **2014-06-08 16:44**: feat: add search and filter by sign category
 - **2014-06-08 17:42**: docs: improve code comments and API documentation
 - **2014-06-08 20:16**: feat: add warning signs and informational road signs
 - **2014-06-09 11:33**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-07-20 12:27**: chore: update questions database with recent DOTM updates
 - **2014-07-20 13:41**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-21 15:25**: docs: update README with setup instructions and feature list
+- **2014-07-21 20:21**: feat: add category-specific practice modes
