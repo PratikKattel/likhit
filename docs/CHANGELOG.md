@@ -1,4 +1,3 @@
-- **2014-06-08 17:42**: docs: improve code comments and API documentation
 - **2014-06-08 20:16**: feat: add warning signs and informational road signs
 - **2014-06-09 11:33**: style: enhance traffic sign card layout and responsiveness
 - **2014-06-09 17:41**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-07-20 13:41**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-21 15:25**: docs: update README with setup instructions and feature list
 - **2014-07-21 20:21**: feat: add category-specific practice modes
+- **2014-07-22 19:13**: feat: add result summary with passing threshold analysis
