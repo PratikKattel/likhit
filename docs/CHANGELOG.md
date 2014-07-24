@@ -1,4 +1,3 @@
-- **2014-06-09 11:33**: style: enhance traffic sign card layout and responsiveness
 - **2014-06-09 17:41**: feat: add keyboard navigation shortcuts for question selection
 - **2014-06-10 14:06**: fix: correct color specifications for mandatory traffic signs
 - **2014-06-10 18:01**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-07-21 20:21**: feat: add category-specific practice modes
 - **2014-07-22 19:13**: feat: add result summary with passing threshold analysis
 - **2014-07-23 13:01**: docs: update README with setup instructions and feature list
+- **2014-07-24 19:43**: feat: add category A and B traffic test questions
