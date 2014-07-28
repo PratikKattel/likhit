@@ -1,4 +1,3 @@
-- **2014-06-11 12:41**: refactor: restructure question data schema for faster loading
 - **2014-06-12 14:51**: feat: add warning signs and informational road signs
 - **2014-06-13 16:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-06-14 17:56**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-07-25 21:34**: refactor: optimize SVG rendering for road signs
 - **2014-07-26 14:20**: chore: update project metadata and build configuration
 - **2014-07-27 20:10**: perf: lazy load signal graphics and question assets
+- **2014-07-28 20:02**: refactor: optimize SVG rendering for road signs
