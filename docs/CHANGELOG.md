@@ -1,4 +1,3 @@
-- **2014-06-15 09:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-06-15 19:24**: fix: typo in Nepali road safety regulations question
 - **2014-06-16 10:34**: docs: improve code comments and API documentation
 - **2014-06-16 12:22**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-07-29 12:52**: perf: lazy load signal graphics and question assets
 - **2014-07-29 16:48**: test: verify question extraction script against exam PDF
 - **2014-07-30 11:15**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-07-30 17:29**: perf: optimize image caching for traffic sign assets
