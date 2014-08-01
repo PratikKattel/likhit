@@ -1,4 +1,3 @@
-- **2014-06-16 12:22**: refactor: restructure question data schema for faster loading
 - **2014-06-17 17:02**: chore: update project metadata and build configuration
 - **2014-06-18 21:11**: feat: add search and filter by sign category
 - **2014-06-19 18:53**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-07-30 17:29**: perf: optimize image caching for traffic sign assets
 - **2014-07-31 12:48**: perf: optimize image caching for traffic sign assets
 - **2014-07-31 15:33**: refactor: optimize SVG rendering for road signs
+- **2014-08-01 19:47**: fix: resolve layout shift during question transitions
