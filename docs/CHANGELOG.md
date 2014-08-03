@@ -1,4 +1,3 @@
-- **2014-06-19 21:40**: perf: optimize image caching for traffic sign assets
 - **2014-06-19 22:29**: chore: update project metadata and build configuration
 - **2014-06-20 17:10**: feat: add category A and B traffic test questions
 - **2014-06-20 17:52**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2014-08-01 19:50**: perf: optimize image caching for traffic sign assets
 - **2014-08-02 12:34**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-02 15:28**: docs: update traffic signals catalog documentation
+- **2014-08-03 22:04**: feat: add keyboard navigation shortcuts for question selection
