@@ -1,4 +1,3 @@
-- **2014-06-20 17:52**: test: verify question extraction script against exam PDF
 - **2014-06-20 18:03**: perf: index question IDs for rapid lookup
 - **2014-06-20 21:01**: feat: add warning signs and informational road signs
 - **2014-06-21 09:13**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-08-03 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2014-08-04 19:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-08-05 12:49**: fix: correct color specifications for mandatory traffic signs
+- **2014-08-06 14:49**: fix: resolve layout shift during question transitions
