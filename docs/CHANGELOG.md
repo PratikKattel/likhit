@@ -1,4 +1,3 @@
-- **2014-06-20 21:01**: feat: add warning signs and informational road signs
 - **2014-06-21 09:13**: chore: format code style and clean up redundant variables
 - **2014-06-21 11:32**: chore: organize assets and image directory structure
 - **2014-06-22 13:23**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-08-05 12:49**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-06 14:49**: fix: resolve layout shift during question transitions
 - **2014-08-07 14:27**: fix: correct color specifications for mandatory traffic signs
+- **2014-08-08 16:23**: refactor: modularize traffic app logic and event listeners
