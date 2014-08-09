@@ -1,4 +1,3 @@
-- **2014-06-21 11:32**: chore: organize assets and image directory structure
 - **2014-06-22 13:23**: feat: add warning signs and informational road signs
 - **2014-06-22 20:33**: test: verify question extraction script against exam PDF
 - **2014-06-23 19:22**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-08-07 14:27**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-08 16:23**: refactor: modularize traffic app logic and event listeners
 - **2014-08-09 15:43**: fix: typo in Nepali road safety regulations question
+- **2014-08-09 16:31**: fix: update DOTM Nepal license syllabus questions
