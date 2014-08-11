@@ -1,4 +1,3 @@
-- **2014-06-22 20:33**: test: verify question extraction script against exam PDF
 - **2014-06-23 19:22**: fix: resolve layout shift during question transitions
 - **2014-06-23 19:42**: fix: typo in Nepali road safety regulations question
 - **2014-06-24 10:36**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-08-09 15:43**: fix: typo in Nepali road safety regulations question
 - **2014-08-09 16:31**: fix: update DOTM Nepal license syllabus questions
 - **2014-08-10 21:51**: chore: organize assets and image directory structure
+- **2014-08-11 11:45**: refactor: optimize SVG rendering for road signs
