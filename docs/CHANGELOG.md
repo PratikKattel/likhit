@@ -1,4 +1,3 @@
-- **2014-06-23 19:42**: fix: typo in Nepali road safety regulations question
 - **2014-06-24 10:36**: chore: format code style and clean up redundant variables
 - **2014-06-25 14:25**: docs: update traffic signals catalog documentation
 - **2014-06-25 20:05**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-08-10 21:51**: chore: organize assets and image directory structure
 - **2014-08-11 11:45**: refactor: optimize SVG rendering for road signs
 - **2014-08-11 18:49**: refactor: modularize traffic app logic and event listeners
+- **2014-08-12 14:11**: chore: update questions database with recent DOTM updates
