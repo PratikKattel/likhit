@@ -1,4 +1,3 @@
-- **2014-06-25 20:05**: fix: prevent option re-selection after submitting answer
 - **2014-06-26 15:00**: perf: lazy load signal graphics and question assets
 - **2014-06-26 16:29**: refactor: restructure question data schema for faster loading
 - **2014-06-27 11:26**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2014-08-12 14:11**: chore: update questions database with recent DOTM updates
 - **2014-08-13 13:43**: style: enhance traffic sign card layout and responsiveness
 - **2014-08-13 17:20**: refactor: modularize traffic app logic and event listeners
+- **2014-08-14 15:50**: fix: correct color specifications for mandatory traffic signs
