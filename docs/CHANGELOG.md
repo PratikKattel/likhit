@@ -1,4 +1,3 @@
-- **2014-06-26 15:00**: perf: lazy load signal graphics and question assets
 - **2014-06-26 16:29**: refactor: restructure question data schema for faster loading
 - **2014-06-27 11:26**: fix: typo in Nepali road safety regulations question
 - **2014-06-28 10:26**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-08-13 13:43**: style: enhance traffic sign card layout and responsiveness
 - **2014-08-13 17:20**: refactor: modularize traffic app logic and event listeners
 - **2014-08-14 15:50**: fix: correct color specifications for mandatory traffic signs
+- **2014-08-14 21:48**: refactor: clean up unused CSS classes and optimize stylesheet
