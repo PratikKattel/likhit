@@ -1,4 +1,3 @@
-- **2014-06-26 16:29**: refactor: restructure question data schema for faster loading
 - **2014-06-27 11:26**: fix: typo in Nepali road safety regulations question
 - **2014-06-28 10:26**: feat: add warning signs and informational road signs
 - **2014-06-28 11:27**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2014-08-13 17:20**: refactor: modularize traffic app logic and event listeners
 - **2014-08-14 15:50**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-14 21:48**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-08-15 11:26**: fix: typo in Nepali road safety regulations question
