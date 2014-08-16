@@ -1,4 +1,3 @@
-- **2014-06-28 10:26**: feat: add warning signs and informational road signs
 - **2014-06-28 11:27**: refactor: modularize traffic app logic and event listeners
 - **2014-06-29 11:26**: fix: adjust passing score threshold according to new rules
 - **2014-06-29 15:12**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-08-14 21:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-08-15 11:26**: fix: typo in Nepali road safety regulations question
 - **2014-08-16 13:57**: docs: improve code comments and API documentation
+- **2014-08-16 16:14**: feat: add search and filter by sign category
