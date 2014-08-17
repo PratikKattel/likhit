@@ -1,4 +1,3 @@
-- **2014-06-29 11:26**: fix: adjust passing score threshold according to new rules
 - **2014-06-29 15:12**: chore: format code style and clean up redundant variables
 - **2014-06-30 17:06**: feat: add search and filter by sign category
 - **2014-06-30 20:47**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2014-08-16 13:57**: docs: improve code comments and API documentation
 - **2014-08-16 16:14**: feat: add search and filter by sign category
 - **2014-08-16 18:29**: feat: add instant feedback and explanation on answer selection
+- **2014-08-17 11:55**: feat: support multiple choice questions for motorcycle category
