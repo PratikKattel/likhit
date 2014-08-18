@@ -1,4 +1,3 @@
-- **2014-06-29 15:12**: chore: format code style and clean up redundant variables
 - **2014-06-30 17:06**: feat: add search and filter by sign category
 - **2014-06-30 20:47**: docs: add instructions for Nepali driving license written exam
 - **2014-07-01 14:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-08-16 16:14**: feat: add search and filter by sign category
 - **2014-08-16 18:29**: feat: add instant feedback and explanation on answer selection
 - **2014-08-17 11:55**: feat: support multiple choice questions for motorcycle category
+- **2014-08-18 10:53**: style: improve dark/light mode and mobile UI responsiveness
