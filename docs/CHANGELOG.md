@@ -1,4 +1,3 @@
-- **2014-06-30 20:47**: docs: add instructions for Nepali driving license written exam
 - **2014-07-01 14:09**: feat: add warning signs and informational road signs
 - **2014-07-01 14:39**: chore: organize assets and image directory structure
 - **2014-07-01 18:59**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-08-17 11:55**: feat: support multiple choice questions for motorcycle category
 - **2014-08-18 10:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-08-18 13:09**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-08-19 10:07**: chore: update questions database with recent DOTM updates
