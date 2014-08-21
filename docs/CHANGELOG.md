@@ -1,4 +1,3 @@
-- **2014-07-01 18:59**: perf: index question IDs for rapid lookup
 - **2014-07-02 12:00**: docs: add instructions for Nepali driving license written exam
 - **2014-07-02 18:36**: docs: improve code comments and API documentation
 - **2014-07-03 12:45**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-08-19 10:07**: chore: update questions database with recent DOTM updates
 - **2014-08-20 10:44**: style: enhance traffic sign card layout and responsiveness
 - **2014-08-20 18:07**: refactor: restructure question data schema for faster loading
+- **2014-08-21 16:23**: refactor: optimize SVG rendering for road signs
