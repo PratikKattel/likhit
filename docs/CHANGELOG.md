@@ -1,4 +1,3 @@
-- **2014-07-02 18:36**: docs: improve code comments and API documentation
 - **2014-07-03 12:45**: fix: prevent option re-selection after submitting answer
 - **2014-07-04 11:03**: feat: add category-specific practice modes
 - **2014-07-04 16:42**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-08-20 18:07**: refactor: restructure question data schema for faster loading
 - **2014-08-21 16:23**: refactor: optimize SVG rendering for road signs
 - **2014-08-22 12:40**: perf: optimize image caching for traffic sign assets
+- **2014-08-22 13:58**: feat: add search and filter by sign category
