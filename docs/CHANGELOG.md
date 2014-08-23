@@ -1,4 +1,3 @@
-- **2014-07-04 11:03**: feat: add category-specific practice modes
 - **2014-07-04 16:42**: style: polish typography and Nepali Unicode font rendering
 - **2014-07-04 19:18**: perf: optimize image caching for traffic sign assets
 - **2014-07-05 19:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-08-22 12:40**: perf: optimize image caching for traffic sign assets
 - **2014-08-22 13:58**: feat: add search and filter by sign category
 - **2014-08-22 22:17**: test: verify question extraction script against exam PDF
+- **2014-08-23 10:04**: chore: update questions database with recent DOTM updates
