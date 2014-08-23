@@ -1,4 +1,3 @@
-- **2014-07-04 19:18**: perf: optimize image caching for traffic sign assets
 - **2014-07-05 19:01**: docs: update README with setup instructions and feature list
 - **2014-07-06 11:15**: perf: lazy load signal graphics and question assets
 - **2014-07-06 11:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-08-22 22:17**: test: verify question extraction script against exam PDF
 - **2014-08-23 10:04**: chore: update questions database with recent DOTM updates
 - **2014-08-23 10:16**: chore: update questions database with recent DOTM updates
+- **2014-08-23 15:25**: feat: add keyboard navigation shortcuts for question selection
