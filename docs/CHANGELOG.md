@@ -1,4 +1,3 @@
-- **2014-07-06 11:36**: feat: add result summary with passing threshold analysis
 - **2014-07-06 15:30**: refactor: restructure question data schema for faster loading
 - **2014-07-07 17:17**: feat: add category-specific practice modes
 - **2014-07-08 16:34**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-08-23 15:25**: feat: add keyboard navigation shortcuts for question selection
 - **2014-08-24 15:24**: docs: add instructions for Nepali driving license written exam
 - **2014-08-24 17:52**: refactor: restructure question data schema for faster loading
+- **2014-08-25 19:15**: feat: add regulatory traffic signs SVG graphics
