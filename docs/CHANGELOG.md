@@ -1,4 +1,3 @@
-- **2014-07-09 14:19**: feat: add warning signs and informational road signs
 - **2014-07-09 16:02**: feat: add instant feedback and explanation on answer selection
 - **2014-07-09 18:42**: feat: implement timer and score calculation for mock test
 - **2014-07-10 17:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-08-26 16:33**: perf: optimize image caching for traffic sign assets
 - **2014-08-27 13:04**: feat: add result summary with passing threshold analysis
 - **2014-08-27 20:15**: fix: typo in Nepali road safety regulations question
+- **2014-08-28 17:51**: fix: adjust passing score threshold according to new rules
