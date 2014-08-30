@@ -1,4 +1,3 @@
-- **2014-07-11 15:38**: style: enhance traffic sign card layout and responsiveness
 - **2014-07-12 11:32**: docs: improve code comments and API documentation
 - **2014-07-13 09:25**: feat: add category A and B traffic test questions
 - **2014-07-13 14:15**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-08-28 19:24**: feat: add category A and B traffic test questions
 - **2014-08-29 14:01**: test: verify question extraction script against exam PDF
 - **2014-08-29 15:59**: refactor: optimize SVG rendering for road signs
+- **2014-08-30 16:41**: feat: support multiple choice questions for motorcycle category
