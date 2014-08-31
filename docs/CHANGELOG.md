@@ -1,4 +1,3 @@
-- **2014-07-13 09:25**: feat: add category A and B traffic test questions
 - **2014-07-13 14:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-07-14 11:18**: feat: add instant feedback and explanation on answer selection
 - **2014-07-14 19:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-08-29 15:59**: refactor: optimize SVG rendering for road signs
 - **2014-08-30 16:41**: feat: support multiple choice questions for motorcycle category
 - **2014-08-31 16:21**: chore: update questions database with recent DOTM updates
+- **2014-08-31 22:29**: feat: add keyboard navigation shortcuts for question selection
