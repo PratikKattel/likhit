@@ -1,4 +1,3 @@
-- **2014-07-13 14:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-07-14 11:18**: feat: add instant feedback and explanation on answer selection
 - **2014-07-14 19:33**: feat: add regulatory traffic signs SVG graphics
 - **2014-07-15 11:22**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-08-30 16:41**: feat: support multiple choice questions for motorcycle category
 - **2014-08-31 16:21**: chore: update questions database with recent DOTM updates
 - **2014-08-31 22:29**: feat: add keyboard navigation shortcuts for question selection
+- **2014-09-01 10:07**: chore: update questions database with recent DOTM updates
