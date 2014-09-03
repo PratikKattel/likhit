@@ -1,4 +1,3 @@
-- **2014-07-15 11:22**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-15 11:48**: feat: add search and filter by sign category
 - **2014-07-16 14:09**: refactor: optimize SVG rendering for road signs
 - **2014-07-17 14:20**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-09-01 10:07**: chore: update questions database with recent DOTM updates
 - **2014-09-01 17:17**: fix: resolve layout shift during question transitions
 - **2014-09-02 15:32**: fix: update DOTM Nepal license syllabus questions
+- **2014-09-03 10:18**: fix: update DOTM Nepal license syllabus questions
