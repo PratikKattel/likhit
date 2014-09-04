@@ -1,4 +1,3 @@
-- **2014-07-18 15:31**: fix: resolve layout shift during question transitions
 - **2014-07-19 18:22**: fix: prevent option re-selection after submitting answer
 - **2014-07-19 19:17**: style: polish typography and Nepali Unicode font rendering
 - **2014-07-20 12:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-09-03 15:47**: chore: update questions database with recent DOTM updates
 - **2014-09-04 09:47**: chore: format code style and clean up redundant variables
 - **2014-09-04 10:20**: feat: add instant feedback and explanation on answer selection
+- **2014-09-04 15:23**: refactor: modularize traffic app logic and event listeners
