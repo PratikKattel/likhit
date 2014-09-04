@@ -1,4 +1,3 @@
-- **2014-07-17 14:20**: docs: update README with setup instructions and feature list
 - **2014-07-17 18:43**: fix: typo in Nepali road safety regulations question
 - **2014-07-18 15:31**: fix: resolve layout shift during question transitions
 - **2014-07-19 18:22**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-09-03 10:18**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-03 11:33**: docs: update traffic signals catalog documentation
 - **2014-09-03 15:47**: chore: update questions database with recent DOTM updates
+- **2014-09-04 09:47**: chore: format code style and clean up redundant variables
