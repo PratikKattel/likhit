@@ -1,4 +1,3 @@
-- **2014-07-20 13:41**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-21 15:25**: docs: update README with setup instructions and feature list
 - **2014-07-21 20:21**: feat: add category-specific practice modes
 - **2014-07-22 19:13**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-09-05 21:06**: fix: prevent option re-selection after submitting answer
 - **2014-09-06 10:36**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-06 21:58**: fix: resolve layout shift during question transitions
+- **2014-09-07 17:49**: docs: add instructions for Nepali driving license written exam
