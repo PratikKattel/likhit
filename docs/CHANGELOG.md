@@ -1,4 +1,3 @@
-- **2014-07-22 19:13**: feat: add result summary with passing threshold analysis
 - **2014-07-23 13:01**: docs: update README with setup instructions and feature list
 - **2014-07-24 19:43**: feat: add category A and B traffic test questions
 - **2014-07-25 21:34**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2014-09-07 17:49**: docs: add instructions for Nepali driving license written exam
 - **2014-09-08 15:11**: feat: add category A and B traffic test questions
 - **2014-09-09 22:04**: feat: add keyboard navigation shortcuts for question selection
+- **2014-09-10 14:31**: feat: add search and filter by sign category
