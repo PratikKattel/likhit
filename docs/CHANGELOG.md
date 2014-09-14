@@ -1,4 +1,3 @@
-- **2014-07-29 12:52**: perf: lazy load signal graphics and question assets
 - **2014-07-29 16:48**: test: verify question extraction script against exam PDF
 - **2014-07-30 11:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-07-30 17:29**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2014-09-13 19:48**: feat: support multiple choice questions for motorcycle category
 - **2014-09-14 16:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-09-14 20:19**: chore: organize assets and image directory structure
+- **2014-09-14 20:56**: feat: implement timer and score calculation for mock test
