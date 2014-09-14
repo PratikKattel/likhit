@@ -1,4 +1,3 @@
-- **2014-07-28 20:02**: refactor: optimize SVG rendering for road signs
 - **2014-07-29 09:24**: fix: correct color specifications for mandatory traffic signs
 - **2014-07-29 12:52**: perf: lazy load signal graphics and question assets
 - **2014-07-29 16:48**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2014-09-13 10:20**: feat: add result summary with passing threshold analysis
 - **2014-09-13 12:19**: feat: support multiple choice questions for motorcycle category
 - **2014-09-13 19:48**: feat: support multiple choice questions for motorcycle category
+- **2014-09-14 16:53**: refactor: clean up unused CSS classes and optimize stylesheet
