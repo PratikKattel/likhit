@@ -1,4 +1,3 @@
-- **2014-08-01 19:47**: fix: resolve layout shift during question transitions
 - **2014-08-01 19:50**: perf: optimize image caching for traffic sign assets
 - **2014-08-02 12:34**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-02 15:28**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-09-16 10:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-09-16 11:42**: chore: format code style and clean up redundant variables
 - **2014-09-17 19:06**: chore: organize assets and image directory structure
+- **2014-09-18 13:06**: feat: add warning signs and informational road signs
