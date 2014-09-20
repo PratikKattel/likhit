@@ -1,4 +1,3 @@
-- **2014-08-02 12:34**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-02 15:28**: docs: update traffic signals catalog documentation
 - **2014-08-03 22:04**: feat: add keyboard navigation shortcuts for question selection
 - **2014-08-04 19:02**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-09-17 19:06**: chore: organize assets and image directory structure
 - **2014-09-18 13:06**: feat: add warning signs and informational road signs
 - **2014-09-19 11:12**: fix: adjust passing score threshold according to new rules
+- **2014-09-20 10:25**: fix: update DOTM Nepal license syllabus questions
