@@ -1,4 +1,3 @@
-- **2014-08-04 19:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-08-05 12:49**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-06 14:49**: fix: resolve layout shift during question transitions
 - **2014-08-07 14:27**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2014-09-20 10:25**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-20 20:52**: fix: adjust passing score threshold according to new rules
 - **2014-09-20 21:20**: fix: typo in Nepali road safety regulations question
+- **2014-09-21 15:06**: refactor: restructure question data schema for faster loading
