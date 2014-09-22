@@ -1,4 +1,3 @@
-- **2014-08-06 14:49**: fix: resolve layout shift during question transitions
 - **2014-08-07 14:27**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-08 16:23**: refactor: modularize traffic app logic and event listeners
 - **2014-08-09 15:43**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2014-09-20 21:20**: fix: typo in Nepali road safety regulations question
 - **2014-09-21 15:06**: refactor: restructure question data schema for faster loading
 - **2014-09-22 21:46**: fix: prevent option re-selection after submitting answer
+- **2014-09-22 22:14**: feat: add keyboard navigation shortcuts for question selection
