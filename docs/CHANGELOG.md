@@ -1,4 +1,3 @@
-- **2014-08-08 16:23**: refactor: modularize traffic app logic and event listeners
 - **2014-08-09 15:43**: fix: typo in Nepali road safety regulations question
 - **2014-08-09 16:31**: fix: update DOTM Nepal license syllabus questions
 - **2014-08-10 21:51**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-09-22 21:46**: fix: prevent option re-selection after submitting answer
 - **2014-09-22 22:14**: feat: add keyboard navigation shortcuts for question selection
 - **2014-09-23 10:29**: chore: organize assets and image directory structure
+- **2014-09-23 13:18**: feat: add category-specific practice modes
