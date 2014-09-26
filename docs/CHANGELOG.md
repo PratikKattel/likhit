@@ -1,4 +1,3 @@
-- **2014-08-13 13:43**: style: enhance traffic sign card layout and responsiveness
 - **2014-08-13 17:20**: refactor: modularize traffic app logic and event listeners
 - **2014-08-14 15:50**: fix: correct color specifications for mandatory traffic signs
 - **2014-08-14 21:48**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-09-25 13:54**: style: enhance traffic sign card layout and responsiveness
 - **2014-09-25 14:54**: fix: typo in Nepali road safety regulations question
 - **2014-09-26 10:39**: feat: add category-specific practice modes
+- **2014-09-26 12:08**: feat: add category-specific practice modes
