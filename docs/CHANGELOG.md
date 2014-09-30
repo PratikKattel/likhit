@@ -1,4 +1,3 @@
-- **2014-08-15 11:26**: fix: typo in Nepali road safety regulations question
 - **2014-08-16 13:57**: docs: improve code comments and API documentation
 - **2014-08-16 16:14**: feat: add search and filter by sign category
 - **2014-08-16 18:29**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-09-27 17:56**: fix: correct color specifications for mandatory traffic signs
 - **2014-09-28 12:38**: fix: prevent option re-selection after submitting answer
 - **2014-09-29 20:04**: refactor: restructure question data schema for faster loading
+- **2014-09-30 09:18**: fix: resolve layout shift during question transitions
