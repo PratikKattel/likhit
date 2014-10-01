@@ -1,4 +1,3 @@
-- **2014-08-16 16:14**: feat: add search and filter by sign category
 - **2014-08-16 18:29**: feat: add instant feedback and explanation on answer selection
 - **2014-08-17 11:55**: feat: support multiple choice questions for motorcycle category
 - **2014-08-18 10:53**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-09-29 20:04**: refactor: restructure question data schema for faster loading
 - **2014-09-30 09:18**: fix: resolve layout shift during question transitions
 - **2014-09-30 19:17**: chore: update project metadata and build configuration
+- **2014-10-01 11:53**: docs: update traffic signals catalog documentation
