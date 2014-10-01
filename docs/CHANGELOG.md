@@ -1,4 +1,3 @@
-- **2014-08-17 11:55**: feat: support multiple choice questions for motorcycle category
 - **2014-08-18 10:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-08-18 13:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-08-19 10:07**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-09-30 19:17**: chore: update project metadata and build configuration
 - **2014-10-01 11:53**: docs: update traffic signals catalog documentation
 - **2014-10-01 21:38**: perf: index question IDs for rapid lookup
+- **2014-10-01 22:17**: docs: update README with setup instructions and feature list
