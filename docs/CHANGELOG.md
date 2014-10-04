@@ -1,4 +1,3 @@
-- **2014-08-20 10:44**: style: enhance traffic sign card layout and responsiveness
 - **2014-08-20 18:07**: refactor: restructure question data schema for faster loading
 - **2014-08-21 16:23**: refactor: optimize SVG rendering for road signs
 - **2014-08-22 12:40**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2014-10-02 17:40**: style: polish typography and Nepali Unicode font rendering
 - **2014-10-03 22:08**: feat: add search and filter by sign category
 - **2014-10-04 12:25**: test: verify question extraction script against exam PDF
+- **2014-10-04 19:55**: style: improve dark/light mode and mobile UI responsiveness
