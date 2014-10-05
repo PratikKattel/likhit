@@ -1,4 +1,3 @@
-- **2014-08-21 16:23**: refactor: optimize SVG rendering for road signs
 - **2014-08-22 12:40**: perf: optimize image caching for traffic sign assets
 - **2014-08-22 13:58**: feat: add search and filter by sign category
 - **2014-08-22 22:17**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2014-10-04 12:25**: test: verify question extraction script against exam PDF
 - **2014-10-04 19:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-10-05 10:57**: fix: update DOTM Nepal license syllabus questions
+- **2014-10-05 15:20**: feat: add regulatory traffic signs SVG graphics
