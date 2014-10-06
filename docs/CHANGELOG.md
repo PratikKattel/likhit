@@ -1,4 +1,3 @@
-- **2014-08-22 22:17**: test: verify question extraction script against exam PDF
 - **2014-08-23 10:04**: chore: update questions database with recent DOTM updates
 - **2014-08-23 10:16**: chore: update questions database with recent DOTM updates
 - **2014-08-23 15:25**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-10-05 15:20**: feat: add regulatory traffic signs SVG graphics
 - **2014-10-05 15:23**: chore: format code style and clean up redundant variables
 - **2014-10-06 13:20**: chore: format code style and clean up redundant variables
+- **2014-10-06 13:48**: test: verify question extraction script against exam PDF
