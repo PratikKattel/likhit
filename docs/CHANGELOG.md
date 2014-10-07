@@ -1,4 +1,3 @@
-- **2014-08-23 10:16**: chore: update questions database with recent DOTM updates
 - **2014-08-23 15:25**: feat: add keyboard navigation shortcuts for question selection
 - **2014-08-24 15:24**: docs: add instructions for Nepali driving license written exam
 - **2014-08-24 17:52**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-10-06 13:20**: chore: format code style and clean up redundant variables
 - **2014-10-06 13:48**: test: verify question extraction script against exam PDF
 - **2014-10-06 16:53**: fix: prevent option re-selection after submitting answer
+- **2014-10-07 13:44**: perf: index question IDs for rapid lookup
