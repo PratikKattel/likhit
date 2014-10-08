@@ -1,4 +1,3 @@
-- **2014-08-23 15:25**: feat: add keyboard navigation shortcuts for question selection
 - **2014-08-24 15:24**: docs: add instructions for Nepali driving license written exam
 - **2014-08-24 17:52**: refactor: restructure question data schema for faster loading
 - **2014-08-25 19:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-10-06 13:48**: test: verify question extraction script against exam PDF
 - **2014-10-06 16:53**: fix: prevent option re-selection after submitting answer
 - **2014-10-07 13:44**: perf: index question IDs for rapid lookup
+- **2014-10-08 11:53**: feat: support multiple choice questions for motorcycle category
