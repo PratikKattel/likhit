@@ -1,4 +1,3 @@
-- **2014-08-25 19:15**: feat: add regulatory traffic signs SVG graphics
 - **2014-08-26 14:18**: chore: organize assets and image directory structure
 - **2014-08-26 16:33**: perf: optimize image caching for traffic sign assets
 - **2014-08-27 13:04**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-10-08 11:53**: feat: support multiple choice questions for motorcycle category
 - **2014-10-09 11:12**: perf: lazy load signal graphics and question assets
 - **2014-10-09 15:16**: style: enhance traffic sign card layout and responsiveness
+- **2014-10-10 11:22**: perf: lazy load signal graphics and question assets
