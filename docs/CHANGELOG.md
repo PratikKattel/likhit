@@ -1,4 +1,3 @@
-- **2014-08-26 16:33**: perf: optimize image caching for traffic sign assets
 - **2014-08-27 13:04**: feat: add result summary with passing threshold analysis
 - **2014-08-27 20:15**: fix: typo in Nepali road safety regulations question
 - **2014-08-28 17:51**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-10-09 15:16**: style: enhance traffic sign card layout and responsiveness
 - **2014-10-10 11:22**: perf: lazy load signal graphics and question assets
 - **2014-10-10 14:00**: docs: update README with setup instructions and feature list
+- **2014-10-11 10:32**: feat: support multiple choice questions for motorcycle category
