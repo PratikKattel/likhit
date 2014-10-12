@@ -1,4 +1,3 @@
-- **2014-08-27 20:15**: fix: typo in Nepali road safety regulations question
 - **2014-08-28 17:51**: fix: adjust passing score threshold according to new rules
 - **2014-08-28 19:24**: feat: add category A and B traffic test questions
 - **2014-08-29 14:01**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2014-10-10 14:00**: docs: update README with setup instructions and feature list
 - **2014-10-11 10:32**: feat: support multiple choice questions for motorcycle category
 - **2014-10-12 13:15**: feat: add category-specific practice modes
+- **2014-10-12 16:54**: feat: add search and filter by sign category
