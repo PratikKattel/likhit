@@ -1,4 +1,3 @@
-- **2014-08-29 14:01**: test: verify question extraction script against exam PDF
 - **2014-08-29 15:59**: refactor: optimize SVG rendering for road signs
 - **2014-08-30 16:41**: feat: support multiple choice questions for motorcycle category
 - **2014-08-31 16:21**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2014-10-12 16:54**: feat: add search and filter by sign category
 - **2014-10-13 16:04**: feat: support multiple choice questions for motorcycle category
 - **2014-10-13 17:03**: feat: add search and filter by sign category
+- **2014-10-13 18:15**: feat: implement timer and score calculation for mock test
