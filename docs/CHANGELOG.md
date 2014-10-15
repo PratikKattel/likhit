@@ -1,4 +1,3 @@
-- **2014-08-31 16:21**: chore: update questions database with recent DOTM updates
 - **2014-08-31 22:29**: feat: add keyboard navigation shortcuts for question selection
 - **2014-09-01 10:07**: chore: update questions database with recent DOTM updates
 - **2014-09-01 17:17**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-10-13 18:15**: feat: implement timer and score calculation for mock test
 - **2014-10-13 19:19**: fix: typo in Nepali road safety regulations question
 - **2014-10-14 22:02**: fix: adjust passing score threshold according to new rules
+- **2014-10-15 14:03**: chore: update project metadata and build configuration
