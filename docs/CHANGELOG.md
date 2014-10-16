@@ -1,4 +1,3 @@
-- **2014-09-01 10:07**: chore: update questions database with recent DOTM updates
 - **2014-09-01 17:17**: fix: resolve layout shift during question transitions
 - **2014-09-02 15:32**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-03 10:18**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-10-14 22:02**: fix: adjust passing score threshold according to new rules
 - **2014-10-15 14:03**: chore: update project metadata and build configuration
 - **2014-10-16 16:28**: chore: organize assets and image directory structure
+- **2014-10-16 20:48**: style: polish typography and Nepali Unicode font rendering
