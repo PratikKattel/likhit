@@ -1,4 +1,3 @@
-- **2014-09-01 17:17**: fix: resolve layout shift during question transitions
 - **2014-09-02 15:32**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-03 10:18**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-03 11:33**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2014-10-15 14:03**: chore: update project metadata and build configuration
 - **2014-10-16 16:28**: chore: organize assets and image directory structure
 - **2014-10-16 20:48**: style: polish typography and Nepali Unicode font rendering
+- **2014-10-17 18:41**: feat: support multiple choice questions for motorcycle category
