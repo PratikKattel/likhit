@@ -1,4 +1,3 @@
-- **2014-09-03 10:18**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-03 11:33**: docs: update traffic signals catalog documentation
 - **2014-09-03 15:47**: chore: update questions database with recent DOTM updates
 - **2014-09-04 09:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-10-16 20:48**: style: polish typography and Nepali Unicode font rendering
 - **2014-10-17 18:41**: feat: support multiple choice questions for motorcycle category
 - **2014-10-17 21:32**: chore: format code style and clean up redundant variables
+- **2014-10-18 15:07**: feat: add instant feedback and explanation on answer selection
