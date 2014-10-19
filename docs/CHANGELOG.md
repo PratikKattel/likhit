@@ -1,4 +1,3 @@
-- **2014-09-03 11:33**: docs: update traffic signals catalog documentation
 - **2014-09-03 15:47**: chore: update questions database with recent DOTM updates
 - **2014-09-04 09:47**: chore: format code style and clean up redundant variables
 - **2014-09-04 10:20**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-10-17 18:41**: feat: support multiple choice questions for motorcycle category
 - **2014-10-17 21:32**: chore: format code style and clean up redundant variables
 - **2014-10-18 15:07**: feat: add instant feedback and explanation on answer selection
+- **2014-10-19 09:22**: feat: add keyboard navigation shortcuts for question selection
