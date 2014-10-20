@@ -1,4 +1,3 @@
-- **2014-09-04 09:47**: chore: format code style and clean up redundant variables
 - **2014-09-04 10:20**: feat: add instant feedback and explanation on answer selection
 - **2014-09-04 15:23**: refactor: modularize traffic app logic and event listeners
 - **2014-09-05 21:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2014-10-18 15:07**: feat: add instant feedback and explanation on answer selection
 - **2014-10-19 09:22**: feat: add keyboard navigation shortcuts for question selection
 - **2014-10-19 20:17**: feat: add keyboard navigation shortcuts for question selection
+- **2014-10-20 11:22**: fix: prevent option re-selection after submitting answer
