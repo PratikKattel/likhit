@@ -1,4 +1,3 @@
-- **2014-09-04 15:23**: refactor: modularize traffic app logic and event listeners
 - **2014-09-05 21:06**: fix: prevent option re-selection after submitting answer
 - **2014-09-06 10:36**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-06 21:58**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-10-19 20:17**: feat: add keyboard navigation shortcuts for question selection
 - **2014-10-20 11:22**: fix: prevent option re-selection after submitting answer
 - **2014-10-20 22:26**: fix: adjust passing score threshold according to new rules
+- **2014-10-21 16:36**: feat: add regulatory traffic signs SVG graphics
