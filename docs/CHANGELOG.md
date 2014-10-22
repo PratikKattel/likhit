@@ -1,4 +1,3 @@
-- **2014-09-06 21:58**: fix: resolve layout shift during question transitions
 - **2014-09-07 17:49**: docs: add instructions for Nepali driving license written exam
 - **2014-09-08 15:11**: feat: add category A and B traffic test questions
 - **2014-09-09 22:04**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-10-21 16:36**: feat: add regulatory traffic signs SVG graphics
 - **2014-10-22 10:00**: docs: add instructions for Nepali driving license written exam
 - **2014-10-22 11:43**: feat: add instant feedback and explanation on answer selection
+- **2014-10-22 13:51**: feat: add search and filter by sign category
