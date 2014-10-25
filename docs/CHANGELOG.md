@@ -1,4 +1,3 @@
-- **2014-09-11 17:50**: fix: typo in Nepali road safety regulations question
 - **2014-09-12 13:08**: refactor: optimize SVG rendering for road signs
 - **2014-09-13 10:20**: feat: add result summary with passing threshold analysis
 - **2014-09-13 12:19**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2014-10-23 16:23**: chore: update project metadata and build configuration
 - **2014-10-24 17:12**: fix: update DOTM Nepal license syllabus questions
 - **2014-10-25 09:35**: fix: adjust passing score threshold according to new rules
+- **2014-10-25 09:46**: docs: improve code comments and API documentation
