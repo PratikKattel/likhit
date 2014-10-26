@@ -1,4 +1,3 @@
-- **2014-09-13 10:20**: feat: add result summary with passing threshold analysis
 - **2014-09-13 12:19**: feat: support multiple choice questions for motorcycle category
 - **2014-09-13 19:48**: feat: support multiple choice questions for motorcycle category
 - **2014-09-14 16:53**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-10-25 09:35**: fix: adjust passing score threshold according to new rules
 - **2014-10-25 09:46**: docs: improve code comments and API documentation
 - **2014-10-25 14:12**: docs: improve code comments and API documentation
+- **2014-10-26 14:39**: chore: organize assets and image directory structure
