@@ -1,4 +1,3 @@
-- **2014-09-16 10:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-09-16 11:42**: chore: format code style and clean up redundant variables
 - **2014-09-17 19:06**: chore: organize assets and image directory structure
 - **2014-09-18 13:06**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2014-10-28 14:47**: refactor: modularize traffic app logic and event listeners
 - **2014-10-29 19:10**: docs: update traffic signals catalog documentation
 - **2014-10-30 21:22**: style: improve dark/light mode and mobile UI responsiveness
+- **2014-10-31 09:42**: chore: organize assets and image directory structure
