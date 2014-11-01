@@ -1,4 +1,3 @@
-- **2014-09-17 19:06**: chore: organize assets and image directory structure
 - **2014-09-18 13:06**: feat: add warning signs and informational road signs
 - **2014-09-19 11:12**: fix: adjust passing score threshold according to new rules
 - **2014-09-20 10:25**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-10-30 21:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-10-31 09:42**: chore: organize assets and image directory structure
 - **2014-10-31 11:14**: docs: improve code comments and API documentation
+- **2014-11-01 17:50**: feat: add instant feedback and explanation on answer selection
