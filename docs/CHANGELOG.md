@@ -1,4 +1,3 @@
-- **2014-09-20 10:25**: fix: update DOTM Nepal license syllabus questions
 - **2014-09-20 20:52**: fix: adjust passing score threshold according to new rules
 - **2014-09-20 21:20**: fix: typo in Nepali road safety regulations question
 - **2014-09-21 15:06**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-11-01 17:50**: feat: add instant feedback and explanation on answer selection
 - **2014-11-02 13:06**: feat: add category A and B traffic test questions
 - **2014-11-03 12:38**: fix: typo in Nepali road safety regulations question
+- **2014-11-04 16:03**: fix: typo in Nepali road safety regulations question
