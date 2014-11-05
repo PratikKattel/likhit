@@ -1,4 +1,3 @@
-- **2014-09-20 21:20**: fix: typo in Nepali road safety regulations question
 - **2014-09-21 15:06**: refactor: restructure question data schema for faster loading
 - **2014-09-22 21:46**: fix: prevent option re-selection after submitting answer
 - **2014-09-22 22:14**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-11-03 12:38**: fix: typo in Nepali road safety regulations question
 - **2014-11-04 16:03**: fix: typo in Nepali road safety regulations question
 - **2014-11-05 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2014-11-05 16:05**: style: improve dark/light mode and mobile UI responsiveness
