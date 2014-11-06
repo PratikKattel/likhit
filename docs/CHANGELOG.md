@@ -1,4 +1,3 @@
-- **2014-09-22 22:14**: feat: add keyboard navigation shortcuts for question selection
 - **2014-09-23 10:29**: chore: organize assets and image directory structure
 - **2014-09-23 13:18**: feat: add category-specific practice modes
 - **2014-09-24 09:28**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-11-05 16:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-11-05 17:05**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-06 09:06**: feat: add result summary with passing threshold analysis
+- **2014-11-06 18:28**: docs: update README with setup instructions and feature list
