@@ -1,4 +1,3 @@
-- **2014-09-24 09:39**: chore: update project metadata and build configuration
 - **2014-09-25 12:58**: feat: add result summary with passing threshold analysis
 - **2014-09-25 13:54**: style: enhance traffic sign card layout and responsiveness
 - **2014-09-25 14:54**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2014-11-07 22:29**: fix: update DOTM Nepal license syllabus questions
 - **2014-11-08 10:40**: feat: add category-specific practice modes
 - **2014-11-08 11:19**: refactor: optimize SVG rendering for road signs
+- **2014-11-08 14:25**: refactor: restructure question data schema for faster loading
