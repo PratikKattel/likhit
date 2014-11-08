@@ -1,4 +1,3 @@
-- **2014-09-23 13:18**: feat: add category-specific practice modes
 - **2014-09-24 09:28**: perf: index question IDs for rapid lookup
 - **2014-09-24 09:39**: chore: update project metadata and build configuration
 - **2014-09-25 12:58**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-11-06 09:06**: feat: add result summary with passing threshold analysis
 - **2014-11-06 18:28**: docs: update README with setup instructions and feature list
 - **2014-11-07 22:29**: fix: update DOTM Nepal license syllabus questions
+- **2014-11-08 10:40**: feat: add category-specific practice modes
