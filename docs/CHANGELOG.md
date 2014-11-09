@@ -1,4 +1,3 @@
-- **2014-09-25 13:54**: style: enhance traffic sign card layout and responsiveness
 - **2014-09-25 14:54**: fix: typo in Nepali road safety regulations question
 - **2014-09-26 10:39**: feat: add category-specific practice modes
 - **2014-09-26 12:08**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-11-08 11:19**: refactor: optimize SVG rendering for road signs
 - **2014-11-08 14:25**: refactor: restructure question data schema for faster loading
 - **2014-11-08 18:31**: docs: improve code comments and API documentation
+- **2014-11-09 16:57**: feat: support multiple choice questions for motorcycle category
