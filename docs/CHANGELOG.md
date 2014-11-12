@@ -1,4 +1,3 @@
-- **2014-09-26 12:08**: feat: add category-specific practice modes
 - **2014-09-27 17:56**: fix: correct color specifications for mandatory traffic signs
 - **2014-09-28 12:38**: fix: prevent option re-selection after submitting answer
 - **2014-09-29 20:04**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-11-09 16:57**: feat: support multiple choice questions for motorcycle category
 - **2014-11-10 20:41**: feat: add search and filter by sign category
 - **2014-11-11 15:30**: fix: update DOTM Nepal license syllabus questions
+- **2014-11-12 14:32**: docs: update traffic signals catalog documentation
