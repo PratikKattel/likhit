@@ -1,4 +1,3 @@
-- **2014-09-27 17:56**: fix: correct color specifications for mandatory traffic signs
 - **2014-09-28 12:38**: fix: prevent option re-selection after submitting answer
 - **2014-09-29 20:04**: refactor: restructure question data schema for faster loading
 - **2014-09-30 09:18**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2014-11-10 20:41**: feat: add search and filter by sign category
 - **2014-11-11 15:30**: fix: update DOTM Nepal license syllabus questions
 - **2014-11-12 14:32**: docs: update traffic signals catalog documentation
+- **2014-11-13 09:31**: feat: add keyboard navigation shortcuts for question selection
