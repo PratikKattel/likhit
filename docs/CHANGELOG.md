@@ -1,4 +1,3 @@
-- **2014-09-30 09:18**: fix: resolve layout shift during question transitions
 - **2014-09-30 19:17**: chore: update project metadata and build configuration
 - **2014-10-01 11:53**: docs: update traffic signals catalog documentation
 - **2014-10-01 21:38**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-11-13 09:31**: feat: add keyboard navigation shortcuts for question selection
 - **2014-11-13 21:52**: style: polish typography and Nepali Unicode font rendering
 - **2014-11-14 11:10**: chore: update project metadata and build configuration
+- **2014-11-14 12:48**: perf: index question IDs for rapid lookup
