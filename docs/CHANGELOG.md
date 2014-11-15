@@ -1,4 +1,3 @@
-- **2014-10-01 11:53**: docs: update traffic signals catalog documentation
 - **2014-10-01 21:38**: perf: index question IDs for rapid lookup
 - **2014-10-01 22:17**: docs: update README with setup instructions and feature list
 - **2014-10-02 17:40**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-11-14 11:10**: chore: update project metadata and build configuration
 - **2014-11-14 12:48**: perf: index question IDs for rapid lookup
 - **2014-11-14 22:28**: feat: add regulatory traffic signs SVG graphics
+- **2014-11-15 12:15**: feat: add search and filter by sign category
