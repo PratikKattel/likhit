@@ -1,4 +1,3 @@
-- **2014-10-04 12:25**: test: verify question extraction script against exam PDF
 - **2014-10-04 19:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-10-05 10:57**: fix: update DOTM Nepal license syllabus questions
 - **2014-10-05 15:20**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-11-16 17:14**: feat: implement timer and score calculation for mock test
 - **2014-11-16 17:57**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-17 13:29**: test: verify question extraction script against exam PDF
+- **2014-11-17 17:20**: perf: optimize image caching for traffic sign assets
