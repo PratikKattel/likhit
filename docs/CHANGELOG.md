@@ -1,4 +1,3 @@
-- **2014-10-05 10:57**: fix: update DOTM Nepal license syllabus questions
 - **2014-10-05 15:20**: feat: add regulatory traffic signs SVG graphics
 - **2014-10-05 15:23**: chore: format code style and clean up redundant variables
 - **2014-10-06 13:20**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2014-11-17 13:29**: test: verify question extraction script against exam PDF
 - **2014-11-17 17:20**: perf: optimize image caching for traffic sign assets
 - **2014-11-18 15:58**: chore: update project metadata and build configuration
+- **2014-11-18 20:09**: refactor: clean up unused CSS classes and optimize stylesheet
