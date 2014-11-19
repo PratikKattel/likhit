@@ -1,4 +1,3 @@
-- **2014-10-06 13:20**: chore: format code style and clean up redundant variables
 - **2014-10-06 13:48**: test: verify question extraction script against exam PDF
 - **2014-10-06 16:53**: fix: prevent option re-selection after submitting answer
 - **2014-10-07 13:44**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2014-11-18 20:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-11-18 21:18**: refactor: modularize traffic app logic and event listeners
 - **2014-11-19 09:57**: chore: organize assets and image directory structure
+- **2014-11-19 21:52**: feat: add category A and B traffic test questions
