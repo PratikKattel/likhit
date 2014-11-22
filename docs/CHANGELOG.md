@@ -1,4 +1,3 @@
-- **2014-10-09 11:12**: perf: lazy load signal graphics and question assets
 - **2014-10-09 15:16**: style: enhance traffic sign card layout and responsiveness
 - **2014-10-10 11:22**: perf: lazy load signal graphics and question assets
 - **2014-10-10 14:00**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2014-11-21 13:11**: chore: format code style and clean up redundant variables
 - **2014-11-21 19:30**: fix: adjust passing score threshold according to new rules
 - **2014-11-22 16:29**: feat: add instant feedback and explanation on answer selection
+- **2014-11-22 19:01**: feat: add regulatory traffic signs SVG graphics
