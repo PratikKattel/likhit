@@ -1,4 +1,3 @@
-- **2014-10-11 10:32**: feat: support multiple choice questions for motorcycle category
 - **2014-10-12 13:15**: feat: add category-specific practice modes
 - **2014-10-12 16:54**: feat: add search and filter by sign category
 - **2014-10-13 16:04**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2014-11-23 10:52**: feat: support multiple choice questions for motorcycle category
 - **2014-11-23 13:50**: feat: support multiple choice questions for motorcycle category
 - **2014-11-24 12:22**: test: verify question extraction script against exam PDF
+- **2014-11-24 17:49**: chore: format code style and clean up redundant variables
