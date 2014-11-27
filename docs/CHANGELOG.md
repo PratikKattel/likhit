@@ -1,4 +1,3 @@
-- **2014-10-13 17:03**: feat: add search and filter by sign category
 - **2014-10-13 18:15**: feat: implement timer and score calculation for mock test
 - **2014-10-13 19:19**: fix: typo in Nepali road safety regulations question
 - **2014-10-14 22:02**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-11-25 15:49**: refactor: modularize traffic app logic and event listeners
 - **2014-11-26 10:04**: style: polish typography and Nepali Unicode font rendering
 - **2014-11-26 19:37**: feat: add result summary with passing threshold analysis
+- **2014-11-27 19:14**: fix: correct color specifications for mandatory traffic signs
