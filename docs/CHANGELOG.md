@@ -1,4 +1,3 @@
-- **2014-10-13 19:19**: fix: typo in Nepali road safety regulations question
 - **2014-10-14 22:02**: fix: adjust passing score threshold according to new rules
 - **2014-10-15 14:03**: chore: update project metadata and build configuration
 - **2014-10-16 16:28**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2014-11-26 19:37**: feat: add result summary with passing threshold analysis
 - **2014-11-27 19:14**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-28 09:01**: docs: update README with setup instructions and feature list
+- **2014-11-29 13:05**: style: improve dark/light mode and mobile UI responsiveness
