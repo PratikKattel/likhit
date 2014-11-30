@@ -1,4 +1,3 @@
-- **2014-10-15 14:03**: chore: update project metadata and build configuration
 - **2014-10-16 16:28**: chore: organize assets and image directory structure
 - **2014-10-16 20:48**: style: polish typography and Nepali Unicode font rendering
 - **2014-10-17 18:41**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2014-11-28 09:01**: docs: update README with setup instructions and feature list
 - **2014-11-29 13:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-11-30 12:46**: perf: lazy load signal graphics and question assets
+- **2014-11-30 18:12**: chore: update questions database with recent DOTM updates
