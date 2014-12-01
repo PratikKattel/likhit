@@ -1,4 +1,3 @@
-- **2014-10-16 20:48**: style: polish typography and Nepali Unicode font rendering
 - **2014-10-17 18:41**: feat: support multiple choice questions for motorcycle category
 - **2014-10-17 21:32**: chore: format code style and clean up redundant variables
 - **2014-10-18 15:07**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2014-11-30 12:46**: perf: lazy load signal graphics and question assets
 - **2014-11-30 18:12**: chore: update questions database with recent DOTM updates
 - **2014-11-30 21:51**: feat: add category-specific practice modes
+- **2014-12-01 16:47**: fix: prevent option re-selection after submitting answer
