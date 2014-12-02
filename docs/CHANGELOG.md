@@ -1,4 +1,3 @@
-- **2014-10-17 21:32**: chore: format code style and clean up redundant variables
 - **2014-10-18 15:07**: feat: add instant feedback and explanation on answer selection
 - **2014-10-19 09:22**: feat: add keyboard navigation shortcuts for question selection
 - **2014-10-19 20:17**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2014-11-30 21:51**: feat: add category-specific practice modes
 - **2014-12-01 16:47**: fix: prevent option re-selection after submitting answer
 - **2014-12-01 20:39**: style: enhance traffic sign card layout and responsiveness
+- **2014-12-02 09:07**: perf: optimize image caching for traffic sign assets
