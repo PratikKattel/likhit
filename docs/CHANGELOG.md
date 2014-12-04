@@ -1,4 +1,3 @@
-- **2014-10-19 20:17**: feat: add keyboard navigation shortcuts for question selection
 - **2014-10-20 11:22**: fix: prevent option re-selection after submitting answer
 - **2014-10-20 22:26**: fix: adjust passing score threshold according to new rules
 - **2014-10-21 16:36**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-12-02 09:07**: perf: optimize image caching for traffic sign assets
 - **2014-12-02 19:12**: feat: add category A and B traffic test questions
 - **2014-12-03 16:43**: chore: format code style and clean up redundant variables
+- **2014-12-04 21:20**: feat: add category-specific practice modes
