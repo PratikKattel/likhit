@@ -1,4 +1,3 @@
-- **2014-10-21 16:36**: feat: add regulatory traffic signs SVG graphics
 - **2014-10-22 10:00**: docs: add instructions for Nepali driving license written exam
 - **2014-10-22 11:43**: feat: add instant feedback and explanation on answer selection
 - **2014-10-22 13:51**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2014-12-04 21:20**: feat: add category-specific practice modes
 - **2014-12-05 16:30**: perf: lazy load signal graphics and question assets
 - **2014-12-05 18:20**: refactor: modularize traffic app logic and event listeners
+- **2014-12-06 09:10**: feat: add result summary with passing threshold analysis
