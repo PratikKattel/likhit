@@ -1,4 +1,3 @@
-- **2014-10-22 11:43**: feat: add instant feedback and explanation on answer selection
 - **2014-10-22 13:51**: feat: add search and filter by sign category
 - **2014-10-22 20:10**: chore: update project metadata and build configuration
 - **2014-10-23 16:23**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2014-12-05 18:20**: refactor: modularize traffic app logic and event listeners
 - **2014-12-06 09:10**: feat: add result summary with passing threshold analysis
 - **2014-12-06 12:40**: docs: add instructions for Nepali driving license written exam
+- **2014-12-07 13:15**: chore: organize assets and image directory structure
