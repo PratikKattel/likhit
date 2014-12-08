@@ -1,4 +1,3 @@
-- **2014-10-22 20:10**: chore: update project metadata and build configuration
 - **2014-10-23 16:23**: chore: update project metadata and build configuration
 - **2014-10-24 17:12**: fix: update DOTM Nepal license syllabus questions
 - **2014-10-25 09:35**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2014-12-06 12:40**: docs: add instructions for Nepali driving license written exam
 - **2014-12-07 13:15**: chore: organize assets and image directory structure
 - **2014-12-07 21:46**: perf: optimize image caching for traffic sign assets
+- **2014-12-08 19:38**: feat: implement timer and score calculation for mock test
