@@ -1,4 +1,3 @@
-- **2014-10-24 17:12**: fix: update DOTM Nepal license syllabus questions
 - **2014-10-25 09:35**: fix: adjust passing score threshold according to new rules
 - **2014-10-25 09:46**: docs: improve code comments and API documentation
 - **2014-10-25 14:12**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-12-07 21:46**: perf: optimize image caching for traffic sign assets
 - **2014-12-08 19:38**: feat: implement timer and score calculation for mock test
 - **2014-12-09 11:17**: fix: typo in Nepali road safety regulations question
+- **2014-12-09 15:09**: chore: update questions database with recent DOTM updates
