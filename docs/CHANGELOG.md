@@ -1,4 +1,3 @@
-- **2014-10-25 09:46**: docs: improve code comments and API documentation
 - **2014-10-25 14:12**: docs: improve code comments and API documentation
 - **2014-10-26 14:39**: chore: organize assets and image directory structure
 - **2014-10-26 17:58**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2014-12-09 11:17**: fix: typo in Nepali road safety regulations question
 - **2014-12-09 15:09**: chore: update questions database with recent DOTM updates
 - **2014-12-10 11:08**: style: polish typography and Nepali Unicode font rendering
+- **2014-12-11 21:15**: feat: add category A and B traffic test questions
