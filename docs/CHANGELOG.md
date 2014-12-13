@@ -1,4 +1,3 @@
-- **2014-10-26 17:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-10-27 11:11**: feat: add result summary with passing threshold analysis
 - **2014-10-27 16:25**: refactor: optimize SVG rendering for road signs
 - **2014-10-27 18:40**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2014-12-11 21:15**: feat: add category A and B traffic test questions
 - **2014-12-12 09:41**: feat: add warning signs and informational road signs
 - **2014-12-12 19:44**: feat: add instant feedback and explanation on answer selection
+- **2014-12-13 10:29**: refactor: restructure question data schema for faster loading
