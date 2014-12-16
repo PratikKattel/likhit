@@ -1,4 +1,3 @@
-- **2014-10-29 19:10**: docs: update traffic signals catalog documentation
 - **2014-10-30 21:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-10-31 09:42**: chore: organize assets and image directory structure
 - **2014-10-31 11:14**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2014-12-15 10:30**: style: polish typography and Nepali Unicode font rendering
 - **2014-12-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-15 19:04**: docs: update README with setup instructions and feature list
+- **2014-12-16 20:55**: fix: resolve layout shift during question transitions
