@@ -1,4 +1,3 @@
-- **2014-10-31 09:42**: chore: organize assets and image directory structure
 - **2014-10-31 11:14**: docs: improve code comments and API documentation
 - **2014-11-01 17:50**: feat: add instant feedback and explanation on answer selection
 - **2014-11-02 13:06**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2014-12-15 19:04**: docs: update README with setup instructions and feature list
 - **2014-12-16 20:55**: fix: resolve layout shift during question transitions
 - **2014-12-17 18:06**: feat: add warning signs and informational road signs
+- **2014-12-17 18:16**: feat: add result summary with passing threshold analysis
