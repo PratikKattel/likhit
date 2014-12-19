@@ -1,4 +1,3 @@
-- **2014-11-02 13:06**: feat: add category A and B traffic test questions
 - **2014-11-03 12:38**: fix: typo in Nepali road safety regulations question
 - **2014-11-04 16:03**: fix: typo in Nepali road safety regulations question
 - **2014-11-05 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2014-12-17 18:16**: feat: add result summary with passing threshold analysis
 - **2014-12-17 22:12**: fix: typo in Nepali road safety regulations question
 - **2014-12-18 21:27**: feat: add search and filter by sign category
+- **2014-12-19 21:53**: feat: add category A and B traffic test questions
