@@ -1,4 +1,3 @@
-- **2014-11-05 14:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-11-05 16:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-11-05 17:05**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-06 09:06**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2014-12-19 21:53**: feat: add category A and B traffic test questions
 - **2014-12-20 14:17**: perf: optimize image caching for traffic sign assets
 - **2014-12-20 20:35**: docs: add instructions for Nepali driving license written exam
+- **2014-12-21 10:31**: feat: add search and filter by sign category
