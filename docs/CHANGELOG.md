@@ -1,4 +1,3 @@
-- **2014-11-05 17:05**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-06 09:06**: feat: add result summary with passing threshold analysis
 - **2014-11-06 18:28**: docs: update README with setup instructions and feature list
 - **2014-11-07 22:29**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2014-12-20 20:35**: docs: add instructions for Nepali driving license written exam
 - **2014-12-21 10:31**: feat: add search and filter by sign category
 - **2014-12-22 13:48**: feat: add search and filter by sign category
+- **2014-12-22 21:49**: perf: index question IDs for rapid lookup
