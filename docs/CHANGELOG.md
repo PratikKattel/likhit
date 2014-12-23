@@ -1,4 +1,3 @@
-- **2014-11-06 09:06**: feat: add result summary with passing threshold analysis
 - **2014-11-06 18:28**: docs: update README with setup instructions and feature list
 - **2014-11-07 22:29**: fix: update DOTM Nepal license syllabus questions
 - **2014-11-08 10:40**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2014-12-21 10:31**: feat: add search and filter by sign category
 - **2014-12-22 13:48**: feat: add search and filter by sign category
 - **2014-12-22 21:49**: perf: index question IDs for rapid lookup
+- **2014-12-23 15:04**: chore: update questions database with recent DOTM updates
