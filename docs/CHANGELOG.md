@@ -1,4 +1,3 @@
-- **2014-11-07 22:29**: fix: update DOTM Nepal license syllabus questions
 - **2014-11-08 10:40**: feat: add category-specific practice modes
 - **2014-11-08 11:19**: refactor: optimize SVG rendering for road signs
 - **2014-11-08 14:25**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2014-12-22 21:49**: perf: index question IDs for rapid lookup
 - **2014-12-23 15:04**: chore: update questions database with recent DOTM updates
 - **2014-12-24 14:50**: fix: correct color specifications for mandatory traffic signs
+- **2014-12-24 16:57**: test: verify question extraction script against exam PDF
