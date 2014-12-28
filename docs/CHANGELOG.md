@@ -1,4 +1,3 @@
-- **2014-11-11 15:30**: fix: update DOTM Nepal license syllabus questions
 - **2014-11-12 14:32**: docs: update traffic signals catalog documentation
 - **2014-11-13 09:31**: feat: add keyboard navigation shortcuts for question selection
 - **2014-11-13 21:52**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2014-12-27 11:51**: feat: add keyboard navigation shortcuts for question selection
 - **2014-12-27 19:00**: perf: optimize image caching for traffic sign assets
 - **2014-12-28 17:21**: test: verify question extraction script against exam PDF
+- **2014-12-28 20:44**: style: improve dark/light mode and mobile UI responsiveness
