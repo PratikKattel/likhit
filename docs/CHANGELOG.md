@@ -1,4 +1,3 @@
-- **2014-11-14 11:10**: chore: update project metadata and build configuration
 - **2014-11-14 12:48**: perf: index question IDs for rapid lookup
 - **2014-11-14 22:28**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-15 12:15**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2014-12-29 11:19**: chore: organize assets and image directory structure
 - **2014-12-29 14:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-30 20:34**: perf: lazy load signal graphics and question assets
+- **2014-12-31 20:16**: feat: add instant feedback and explanation on answer selection
