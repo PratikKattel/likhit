@@ -1,4 +1,3 @@
-- **2014-11-14 12:48**: perf: index question IDs for rapid lookup
 - **2014-11-14 22:28**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-15 12:15**: feat: add search and filter by sign category
 - **2014-11-16 10:57**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2014-12-29 14:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-30 20:34**: perf: lazy load signal graphics and question assets
 - **2014-12-31 20:16**: feat: add instant feedback and explanation on answer selection
+- **2015-01-01 09:59**: perf: optimize image caching for traffic sign assets
