@@ -1,4 +1,3 @@
-- **2014-11-15 12:15**: feat: add search and filter by sign category
 - **2014-11-16 10:57**: fix: typo in Nepali road safety regulations question
 - **2014-11-16 17:14**: feat: implement timer and score calculation for mock test
 - **2014-11-16 17:57**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2014-12-31 20:16**: feat: add instant feedback and explanation on answer selection
 - **2015-01-01 09:59**: perf: optimize image caching for traffic sign assets
 - **2015-01-01 16:23**: feat: add instant feedback and explanation on answer selection
+- **2015-01-02 12:33**: refactor: restructure question data schema for faster loading
