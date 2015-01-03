@@ -1,4 +1,3 @@
-- **2014-11-16 17:57**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-17 13:29**: test: verify question extraction script against exam PDF
 - **2014-11-17 17:20**: perf: optimize image caching for traffic sign assets
 - **2014-11-18 15:58**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-01-02 12:33**: refactor: restructure question data schema for faster loading
 - **2015-01-02 15:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-01-03 13:02**: refactor: restructure question data schema for faster loading
+- **2015-01-03 17:23**: feat: support multiple choice questions for motorcycle category
