@@ -1,4 +1,3 @@
-- **2014-11-16 17:14**: feat: implement timer and score calculation for mock test
 - **2014-11-16 17:57**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-17 13:29**: test: verify question extraction script against exam PDF
 - **2014-11-17 17:20**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-01-01 16:23**: feat: add instant feedback and explanation on answer selection
 - **2015-01-02 12:33**: refactor: restructure question data schema for faster loading
 - **2015-01-02 15:28**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-01-03 13:02**: refactor: restructure question data schema for faster loading
