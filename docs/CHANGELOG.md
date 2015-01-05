@@ -1,4 +1,3 @@
-- **2014-11-17 17:20**: perf: optimize image caching for traffic sign assets
 - **2014-11-18 15:58**: chore: update project metadata and build configuration
 - **2014-11-18 20:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2014-11-18 21:18**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-01-03 13:02**: refactor: restructure question data schema for faster loading
 - **2015-01-03 17:23**: feat: support multiple choice questions for motorcycle category
 - **2015-01-04 15:00**: feat: add warning signs and informational road signs
+- **2015-01-05 21:39**: feat: add instant feedback and explanation on answer selection
