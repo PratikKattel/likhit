@@ -1,4 +1,3 @@
-- **2014-11-22 16:29**: feat: add instant feedback and explanation on answer selection
 - **2014-11-22 19:01**: feat: add regulatory traffic signs SVG graphics
 - **2014-11-23 10:52**: feat: support multiple choice questions for motorcycle category
 - **2014-11-23 13:50**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-01-09 20:48**: chore: organize assets and image directory structure
 - **2015-01-10 09:22**: style: polish typography and Nepali Unicode font rendering
 - **2015-01-10 14:24**: feat: add category A and B traffic test questions
+- **2015-01-10 14:47**: feat: add category-specific practice modes
