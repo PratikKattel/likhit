@@ -1,4 +1,3 @@
-- **2014-11-23 13:50**: feat: support multiple choice questions for motorcycle category
 - **2014-11-24 12:22**: test: verify question extraction script against exam PDF
 - **2014-11-24 17:49**: chore: format code style and clean up redundant variables
 - **2014-11-25 15:49**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-01-10 14:47**: feat: add category-specific practice modes
 - **2015-01-10 21:45**: docs: add instructions for Nepali driving license written exam
 - **2015-01-11 10:55**: perf: optimize image caching for traffic sign assets
+- **2015-01-12 19:57**: fix: resolve layout shift during question transitions
