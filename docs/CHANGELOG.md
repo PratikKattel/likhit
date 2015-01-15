@@ -1,4 +1,3 @@
-- **2014-11-26 10:04**: style: polish typography and Nepali Unicode font rendering
 - **2014-11-26 19:37**: feat: add result summary with passing threshold analysis
 - **2014-11-27 19:14**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-28 09:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-01-13 16:36**: feat: add warning signs and informational road signs
 - **2015-01-14 13:00**: feat: add warning signs and informational road signs
 - **2015-01-15 12:26**: feat: add regulatory traffic signs SVG graphics
+- **2015-01-15 13:51**: feat: add keyboard navigation shortcuts for question selection
