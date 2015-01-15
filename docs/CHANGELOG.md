@@ -1,4 +1,3 @@
-- **2014-11-27 19:14**: fix: correct color specifications for mandatory traffic signs
 - **2014-11-28 09:01**: docs: update README with setup instructions and feature list
 - **2014-11-29 13:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-11-30 12:46**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2015-01-15 12:26**: feat: add regulatory traffic signs SVG graphics
 - **2015-01-15 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2015-01-15 14:48**: feat: add category-specific practice modes
+- **2015-01-15 15:39**: feat: implement timer and score calculation for mock test
