@@ -1,4 +1,3 @@
-- **2014-11-28 09:01**: docs: update README with setup instructions and feature list
 - **2014-11-29 13:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-11-30 12:46**: perf: lazy load signal graphics and question assets
 - **2014-11-30 18:12**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2015-01-15 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2015-01-15 14:48**: feat: add category-specific practice modes
 - **2015-01-15 15:39**: feat: implement timer and score calculation for mock test
+- **2015-01-16 09:27**: fix: resolve layout shift during question transitions
