@@ -1,4 +1,3 @@
-- **2014-11-30 12:46**: perf: lazy load signal graphics and question assets
 - **2014-11-30 18:12**: chore: update questions database with recent DOTM updates
 - **2014-11-30 21:51**: feat: add category-specific practice modes
 - **2014-12-01 16:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-01-15 15:39**: feat: implement timer and score calculation for mock test
 - **2015-01-16 09:27**: fix: resolve layout shift during question transitions
 - **2015-01-16 11:48**: chore: update project metadata and build configuration
+- **2015-01-16 19:01**: feat: implement timer and score calculation for mock test
