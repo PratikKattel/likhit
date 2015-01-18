@@ -1,4 +1,3 @@
-- **2014-11-30 21:51**: feat: add category-specific practice modes
 - **2014-12-01 16:47**: fix: prevent option re-selection after submitting answer
 - **2014-12-01 20:39**: style: enhance traffic sign card layout and responsiveness
 - **2014-12-02 09:07**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-01-16 11:48**: chore: update project metadata and build configuration
 - **2015-01-16 19:01**: feat: implement timer and score calculation for mock test
 - **2015-01-17 12:59**: refactor: modularize traffic app logic and event listeners
+- **2015-01-18 09:00**: perf: optimize image caching for traffic sign assets
