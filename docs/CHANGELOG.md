@@ -1,4 +1,3 @@
-- **2014-12-01 20:39**: style: enhance traffic sign card layout and responsiveness
 - **2014-12-02 09:07**: perf: optimize image caching for traffic sign assets
 - **2014-12-02 19:12**: feat: add category A and B traffic test questions
 - **2014-12-03 16:43**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-01-17 12:59**: refactor: modularize traffic app logic and event listeners
 - **2015-01-18 09:00**: perf: optimize image caching for traffic sign assets
 - **2015-01-18 12:44**: perf: index question IDs for rapid lookup
+- **2015-01-19 19:13**: docs: update README with setup instructions and feature list
