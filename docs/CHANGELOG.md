@@ -1,4 +1,3 @@
-- **2014-12-02 19:12**: feat: add category A and B traffic test questions
 - **2014-12-03 16:43**: chore: format code style and clean up redundant variables
 - **2014-12-04 21:20**: feat: add category-specific practice modes
 - **2014-12-05 16:30**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2015-01-18 12:44**: perf: index question IDs for rapid lookup
 - **2015-01-19 19:13**: docs: update README with setup instructions and feature list
 - **2015-01-19 19:48**: perf: optimize image caching for traffic sign assets
+- **2015-01-20 11:25**: docs: add instructions for Nepali driving license written exam
