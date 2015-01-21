@@ -1,4 +1,3 @@
-- **2014-12-03 16:43**: chore: format code style and clean up redundant variables
 - **2014-12-04 21:20**: feat: add category-specific practice modes
 - **2014-12-05 16:30**: perf: lazy load signal graphics and question assets
 - **2014-12-05 18:20**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-01-19 19:13**: docs: update README with setup instructions and feature list
 - **2015-01-19 19:48**: perf: optimize image caching for traffic sign assets
 - **2015-01-20 11:25**: docs: add instructions for Nepali driving license written exam
+- **2015-01-21 09:11**: feat: support multiple choice questions for motorcycle category
