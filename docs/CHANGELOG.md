@@ -1,4 +1,3 @@
-- **2014-12-05 16:30**: perf: lazy load signal graphics and question assets
 - **2014-12-05 18:20**: refactor: modularize traffic app logic and event listeners
 - **2014-12-06 09:10**: feat: add result summary with passing threshold analysis
 - **2014-12-06 12:40**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-01-20 11:25**: docs: add instructions for Nepali driving license written exam
 - **2015-01-21 09:11**: feat: support multiple choice questions for motorcycle category
 - **2015-01-22 18:22**: fix: update DOTM Nepal license syllabus questions
+- **2015-01-23 12:00**: docs: add instructions for Nepali driving license written exam
