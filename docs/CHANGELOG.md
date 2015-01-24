@@ -1,4 +1,3 @@
-- **2014-12-07 13:15**: chore: organize assets and image directory structure
 - **2014-12-07 21:46**: perf: optimize image caching for traffic sign assets
 - **2014-12-08 19:38**: feat: implement timer and score calculation for mock test
 - **2014-12-09 11:17**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-01-23 21:15**: feat: add regulatory traffic signs SVG graphics
 - **2015-01-24 10:30**: docs: improve code comments and API documentation
 - **2015-01-24 15:30**: feat: add category-specific practice modes
+- **2015-01-24 22:16**: fix: typo in Nepali road safety regulations question
