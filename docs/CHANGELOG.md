@@ -1,4 +1,3 @@
-- **2014-12-08 19:38**: feat: implement timer and score calculation for mock test
 - **2014-12-09 11:17**: fix: typo in Nepali road safety regulations question
 - **2014-12-09 15:09**: chore: update questions database with recent DOTM updates
 - **2014-12-10 11:08**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2015-01-24 15:30**: feat: add category-specific practice modes
 - **2015-01-24 22:16**: fix: typo in Nepali road safety regulations question
 - **2015-01-25 17:03**: feat: add search and filter by sign category
+- **2015-01-26 20:49**: fix: typo in Nepali road safety regulations question
