@@ -1,4 +1,3 @@
-- **2014-12-11 21:15**: feat: add category A and B traffic test questions
 - **2014-12-12 09:41**: feat: add warning signs and informational road signs
 - **2014-12-12 19:44**: feat: add instant feedback and explanation on answer selection
 - **2014-12-13 10:29**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-01-27 11:23**: test: verify question extraction script against exam PDF
 - **2015-01-27 16:51**: chore: organize assets and image directory structure
 - **2015-01-28 09:41**: perf: index question IDs for rapid lookup
+- **2015-01-28 11:37**: perf: index question IDs for rapid lookup
