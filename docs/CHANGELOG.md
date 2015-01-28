@@ -1,4 +1,3 @@
-- **2014-12-10 11:08**: style: polish typography and Nepali Unicode font rendering
 - **2014-12-11 21:15**: feat: add category A and B traffic test questions
 - **2014-12-12 09:41**: feat: add warning signs and informational road signs
 - **2014-12-12 19:44**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-01-26 20:49**: fix: typo in Nepali road safety regulations question
 - **2015-01-27 11:23**: test: verify question extraction script against exam PDF
 - **2015-01-27 16:51**: chore: organize assets and image directory structure
+- **2015-01-28 09:41**: perf: index question IDs for rapid lookup
