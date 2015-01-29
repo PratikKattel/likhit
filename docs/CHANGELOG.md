@@ -1,4 +1,3 @@
-- **2014-12-13 10:29**: refactor: restructure question data schema for faster loading
 - **2014-12-14 09:38**: chore: format code style and clean up redundant variables
 - **2014-12-15 10:30**: style: polish typography and Nepali Unicode font rendering
 - **2014-12-15 18:45**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-01-28 11:37**: perf: index question IDs for rapid lookup
 - **2015-01-28 15:00**: refactor: optimize SVG rendering for road signs
 - **2015-01-28 16:26**: feat: add result summary with passing threshold analysis
+- **2015-01-29 10:47**: docs: add instructions for Nepali driving license written exam
