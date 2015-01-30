@@ -1,4 +1,3 @@
-- **2014-12-15 10:30**: style: polish typography and Nepali Unicode font rendering
 - **2014-12-15 18:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-15 19:04**: docs: update README with setup instructions and feature list
 - **2014-12-16 20:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-01-28 16:26**: feat: add result summary with passing threshold analysis
 - **2015-01-29 10:47**: docs: add instructions for Nepali driving license written exam
 - **2015-01-29 21:52**: style: enhance traffic sign card layout and responsiveness
+- **2015-01-30 19:26**: feat: add warning signs and informational road signs
