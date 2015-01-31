@@ -1,4 +1,3 @@
-- **2014-12-15 19:04**: docs: update README with setup instructions and feature list
 - **2014-12-16 20:55**: fix: resolve layout shift during question transitions
 - **2014-12-17 18:06**: feat: add warning signs and informational road signs
 - **2014-12-17 18:16**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-01-29 21:52**: style: enhance traffic sign card layout and responsiveness
 - **2015-01-30 19:26**: feat: add warning signs and informational road signs
 - **2015-01-30 20:36**: fix: resolve layout shift during question transitions
+- **2015-01-31 12:28**: test: verify question extraction script against exam PDF
