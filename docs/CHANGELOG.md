@@ -1,4 +1,3 @@
-- **2014-12-17 18:06**: feat: add warning signs and informational road signs
 - **2014-12-17 18:16**: feat: add result summary with passing threshold analysis
 - **2014-12-17 22:12**: fix: typo in Nepali road safety regulations question
 - **2014-12-18 21:27**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-01-30 20:36**: fix: resolve layout shift during question transitions
 - **2015-01-31 12:28**: test: verify question extraction script against exam PDF
 - **2015-01-31 16:30**: chore: update project metadata and build configuration
+- **2015-02-01 15:28**: style: polish typography and Nepali Unicode font rendering
