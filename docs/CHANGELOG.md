@@ -1,4 +1,3 @@
-- **2014-12-19 21:53**: feat: add category A and B traffic test questions
 - **2014-12-20 14:17**: perf: optimize image caching for traffic sign assets
 - **2014-12-20 20:35**: docs: add instructions for Nepali driving license written exam
 - **2014-12-21 10:31**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-02-02 14:15**: chore: organize assets and image directory structure
 - **2015-02-03 14:31**: feat: add warning signs and informational road signs
 - **2015-02-03 22:21**: refactor: modularize traffic app logic and event listeners
+- **2015-02-04 19:48**: feat: add search and filter by sign category
