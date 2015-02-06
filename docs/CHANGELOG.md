@@ -1,4 +1,3 @@
-- **2014-12-21 10:31**: feat: add search and filter by sign category
 - **2014-12-22 13:48**: feat: add search and filter by sign category
 - **2014-12-22 21:49**: perf: index question IDs for rapid lookup
 - **2014-12-23 15:04**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2015-02-04 19:48**: feat: add search and filter by sign category
 - **2015-02-05 19:45**: chore: update project metadata and build configuration
 - **2015-02-06 15:16**: chore: organize assets and image directory structure
+- **2015-02-06 18:47**: style: improve dark/light mode and mobile UI responsiveness
