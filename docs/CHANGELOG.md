@@ -1,4 +1,3 @@
-- **2014-12-23 15:04**: chore: update questions database with recent DOTM updates
 - **2014-12-24 14:50**: fix: correct color specifications for mandatory traffic signs
 - **2014-12-24 16:57**: test: verify question extraction script against exam PDF
 - **2014-12-25 11:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-02-06 18:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-02-06 20:26**: fix: prevent option re-selection after submitting answer
 - **2015-02-07 15:06**: feat: add keyboard navigation shortcuts for question selection
+- **2015-02-07 16:11**: feat: add search and filter by sign category
