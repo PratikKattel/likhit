@@ -1,4 +1,3 @@
-- **2014-12-24 16:57**: test: verify question extraction script against exam PDF
 - **2014-12-25 11:43**: docs: update traffic signals catalog documentation
 - **2014-12-25 19:26**: fix: adjust passing score threshold according to new rules
 - **2014-12-26 14:49**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2015-02-07 15:06**: feat: add keyboard navigation shortcuts for question selection
 - **2015-02-07 16:11**: feat: add search and filter by sign category
 - **2015-02-08 15:18**: refactor: optimize SVG rendering for road signs
+- **2015-02-09 15:19**: docs: improve code comments and API documentation
