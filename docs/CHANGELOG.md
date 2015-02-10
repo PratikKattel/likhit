@@ -1,4 +1,3 @@
-- **2014-12-25 19:26**: fix: adjust passing score threshold according to new rules
 - **2014-12-26 14:49**: chore: organize assets and image directory structure
 - **2014-12-27 11:51**: feat: add keyboard navigation shortcuts for question selection
 - **2014-12-27 19:00**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-02-08 15:18**: refactor: optimize SVG rendering for road signs
 - **2015-02-09 15:19**: docs: improve code comments and API documentation
 - **2015-02-09 21:07**: fix: typo in Nepali road safety regulations question
+- **2015-02-10 12:46**: chore: update project metadata and build configuration
