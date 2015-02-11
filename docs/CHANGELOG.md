@@ -1,4 +1,3 @@
-- **2014-12-27 19:00**: perf: optimize image caching for traffic sign assets
 - **2014-12-28 17:21**: test: verify question extraction script against exam PDF
 - **2014-12-28 20:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-12-29 11:19**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2015-02-10 12:46**: chore: update project metadata and build configuration
 - **2015-02-10 18:28**: chore: organize assets and image directory structure
 - **2015-02-11 09:25**: chore: update questions database with recent DOTM updates
+- **2015-02-11 10:20**: perf: optimize image caching for traffic sign assets
