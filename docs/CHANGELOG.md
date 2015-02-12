@@ -1,4 +1,3 @@
-- **2014-12-28 20:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2014-12-29 11:19**: chore: organize assets and image directory structure
 - **2014-12-29 14:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-30 20:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2015-02-11 09:25**: chore: update questions database with recent DOTM updates
 - **2015-02-11 10:20**: perf: optimize image caching for traffic sign assets
 - **2015-02-11 18:27**: chore: organize assets and image directory structure
+- **2015-02-12 12:03**: test: verify question extraction script against exam PDF
