@@ -1,4 +1,3 @@
-- **2014-12-30 20:34**: perf: lazy load signal graphics and question assets
 - **2014-12-31 20:16**: feat: add instant feedback and explanation on answer selection
 - **2015-01-01 09:59**: perf: optimize image caching for traffic sign assets
 - **2015-01-01 16:23**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-02-12 12:03**: test: verify question extraction script against exam PDF
 - **2015-02-12 21:07**: perf: optimize image caching for traffic sign assets
 - **2015-02-13 10:44**: docs: update README with setup instructions and feature list
+- **2015-02-13 18:29**: fix: typo in Nepali road safety regulations question
