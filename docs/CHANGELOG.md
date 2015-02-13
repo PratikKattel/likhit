@@ -1,4 +1,3 @@
-- **2014-12-29 14:45**: perf: optimize image caching for traffic sign assets
 - **2014-12-30 20:34**: perf: lazy load signal graphics and question assets
 - **2014-12-31 20:16**: feat: add instant feedback and explanation on answer selection
 - **2015-01-01 09:59**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-02-11 18:27**: chore: organize assets and image directory structure
 - **2015-02-12 12:03**: test: verify question extraction script against exam PDF
 - **2015-02-12 21:07**: perf: optimize image caching for traffic sign assets
+- **2015-02-13 10:44**: docs: update README with setup instructions and feature list
