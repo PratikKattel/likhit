@@ -1,4 +1,3 @@
-- **2015-01-01 09:59**: perf: optimize image caching for traffic sign assets
 - **2015-01-01 16:23**: feat: add instant feedback and explanation on answer selection
 - **2015-01-02 12:33**: refactor: restructure question data schema for faster loading
 - **2015-01-02 15:28**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-02-13 10:44**: docs: update README with setup instructions and feature list
 - **2015-02-13 18:29**: fix: typo in Nepali road safety regulations question
 - **2015-02-13 19:35**: feat: add warning signs and informational road signs
+- **2015-02-14 15:29**: feat: add category-specific practice modes
