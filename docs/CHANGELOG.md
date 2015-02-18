@@ -1,4 +1,3 @@
-- **2015-01-03 13:02**: refactor: restructure question data schema for faster loading
 - **2015-01-03 17:23**: feat: support multiple choice questions for motorcycle category
 - **2015-01-04 15:00**: feat: add warning signs and informational road signs
 - **2015-01-05 21:39**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-02-15 09:47**: fix: prevent option re-selection after submitting answer
 - **2015-02-16 12:58**: feat: add category-specific practice modes
 - **2015-02-17 12:08**: chore: format code style and clean up redundant variables
+- **2015-02-18 18:22**: feat: add category-specific practice modes
