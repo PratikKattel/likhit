@@ -1,4 +1,3 @@
-- **2015-01-06 20:58**: fix: adjust passing score threshold according to new rules
 - **2015-01-07 20:47**: style: enhance traffic sign card layout and responsiveness
 - **2015-01-08 18:15**: feat: support multiple choice questions for motorcycle category
 - **2015-01-09 20:48**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2015-02-20 11:11**: feat: add result summary with passing threshold analysis
 - **2015-02-20 14:49**: docs: add instructions for Nepali driving license written exam
 - **2015-02-20 16:53**: docs: add instructions for Nepali driving license written exam
+- **2015-02-20 20:13**: fix: adjust passing score threshold according to new rules
