@@ -1,4 +1,3 @@
-- **2015-01-05 21:39**: feat: add instant feedback and explanation on answer selection
 - **2015-01-06 13:58**: feat: add result summary with passing threshold analysis
 - **2015-01-06 16:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-01-06 20:58**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-02-18 18:22**: feat: add category-specific practice modes
 - **2015-02-19 09:26**: feat: add search and filter by sign category
 - **2015-02-19 09:54**: fix: correct color specifications for mandatory traffic signs
+- **2015-02-20 11:11**: feat: add result summary with passing threshold analysis
