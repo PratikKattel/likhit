@@ -1,4 +1,3 @@
-- **2015-01-09 20:48**: chore: organize assets and image directory structure
 - **2015-01-10 09:22**: style: polish typography and Nepali Unicode font rendering
 - **2015-01-10 14:24**: feat: add category A and B traffic test questions
 - **2015-01-10 14:47**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-02-20 20:13**: fix: adjust passing score threshold according to new rules
 - **2015-02-21 13:32**: feat: add regulatory traffic signs SVG graphics
 - **2015-02-22 15:35**: feat: implement timer and score calculation for mock test
+- **2015-02-22 16:21**: fix: adjust passing score threshold according to new rules
