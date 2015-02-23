@@ -1,4 +1,3 @@
-- **2015-01-10 14:47**: feat: add category-specific practice modes
 - **2015-01-10 21:45**: docs: add instructions for Nepali driving license written exam
 - **2015-01-11 10:55**: perf: optimize image caching for traffic sign assets
 - **2015-01-12 19:57**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-02-22 16:21**: fix: adjust passing score threshold according to new rules
 - **2015-02-22 19:42**: style: enhance traffic sign card layout and responsiveness
 - **2015-02-22 21:20**: feat: add result summary with passing threshold analysis
+- **2015-02-23 19:51**: feat: add warning signs and informational road signs
