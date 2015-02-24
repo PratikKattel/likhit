@@ -1,4 +1,3 @@
-- **2015-01-12 19:57**: fix: resolve layout shift during question transitions
 - **2015-01-13 16:36**: feat: add warning signs and informational road signs
 - **2015-01-14 13:00**: feat: add warning signs and informational road signs
 - **2015-01-15 12:26**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-02-23 19:51**: feat: add warning signs and informational road signs
 - **2015-02-24 09:20**: docs: add instructions for Nepali driving license written exam
 - **2015-02-24 09:35**: feat: add category A and B traffic test questions
+- **2015-02-24 10:33**: fix: prevent option re-selection after submitting answer
