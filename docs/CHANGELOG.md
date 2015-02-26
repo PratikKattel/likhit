@@ -1,4 +1,3 @@
-- **2015-01-15 12:26**: feat: add regulatory traffic signs SVG graphics
 - **2015-01-15 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2015-01-15 14:48**: feat: add category-specific practice modes
 - **2015-01-15 15:39**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-02-24 10:33**: fix: prevent option re-selection after submitting answer
 - **2015-02-25 19:15**: chore: update project metadata and build configuration
 - **2015-02-25 20:18**: refactor: restructure question data schema for faster loading
+- **2015-02-26 15:59**: fix: update DOTM Nepal license syllabus questions
