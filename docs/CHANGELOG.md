@@ -1,4 +1,3 @@
-- **2015-01-15 14:48**: feat: add category-specific practice modes
 - **2015-01-15 15:39**: feat: implement timer and score calculation for mock test
 - **2015-01-16 09:27**: fix: resolve layout shift during question transitions
 - **2015-01-16 11:48**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-02-25 20:18**: refactor: restructure question data schema for faster loading
 - **2015-02-26 15:59**: fix: update DOTM Nepal license syllabus questions
 - **2015-02-26 19:54**: perf: optimize image caching for traffic sign assets
+- **2015-02-27 21:30**: feat: add result summary with passing threshold analysis
