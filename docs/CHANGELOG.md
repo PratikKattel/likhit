@@ -1,4 +1,3 @@
-- **2015-01-16 11:48**: chore: update project metadata and build configuration
 - **2015-01-16 19:01**: feat: implement timer and score calculation for mock test
 - **2015-01-17 12:59**: refactor: modularize traffic app logic and event listeners
 - **2015-01-18 09:00**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-02-27 21:30**: feat: add result summary with passing threshold analysis
 - **2015-02-27 21:47**: docs: add instructions for Nepali driving license written exam
 - **2015-02-28 09:36**: feat: add instant feedback and explanation on answer selection
+- **2015-02-28 13:57**: fix: correct color specifications for mandatory traffic signs
