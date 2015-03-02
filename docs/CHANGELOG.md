@@ -1,4 +1,3 @@
-- **2015-01-18 09:00**: perf: optimize image caching for traffic sign assets
 - **2015-01-18 12:44**: perf: index question IDs for rapid lookup
 - **2015-01-19 19:13**: docs: update README with setup instructions and feature list
 - **2015-01-19 19:48**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-02-28 13:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-01 10:10**: fix: prevent option re-selection after submitting answer
 - **2015-03-01 19:12**: feat: add search and filter by sign category
+- **2015-03-02 21:22**: perf: index question IDs for rapid lookup
