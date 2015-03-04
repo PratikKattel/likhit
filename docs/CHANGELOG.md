@@ -1,4 +1,3 @@
-- **2015-01-19 19:48**: perf: optimize image caching for traffic sign assets
 - **2015-01-20 11:25**: docs: add instructions for Nepali driving license written exam
 - **2015-01-21 09:11**: feat: support multiple choice questions for motorcycle category
 - **2015-01-22 18:22**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2015-03-02 21:22**: perf: index question IDs for rapid lookup
 - **2015-03-03 17:13**: feat: add instant feedback and explanation on answer selection
 - **2015-03-03 18:50**: fix: adjust passing score threshold according to new rules
+- **2015-03-04 15:30**: refactor: restructure question data schema for faster loading
