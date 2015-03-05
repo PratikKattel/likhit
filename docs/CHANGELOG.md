@@ -1,4 +1,3 @@
-- **2015-01-21 09:11**: feat: support multiple choice questions for motorcycle category
 - **2015-01-22 18:22**: fix: update DOTM Nepal license syllabus questions
 - **2015-01-23 12:00**: docs: add instructions for Nepali driving license written exam
 - **2015-01-23 21:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-03-03 18:50**: fix: adjust passing score threshold according to new rules
 - **2015-03-04 15:30**: refactor: restructure question data schema for faster loading
 - **2015-03-04 19:50**: feat: add instant feedback and explanation on answer selection
+- **2015-03-05 21:25**: docs: update traffic signals catalog documentation
