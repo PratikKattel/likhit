@@ -1,4 +1,3 @@
-- **2015-01-23 12:00**: docs: add instructions for Nepali driving license written exam
 - **2015-01-23 21:15**: feat: add regulatory traffic signs SVG graphics
 - **2015-01-24 10:30**: docs: improve code comments and API documentation
 - **2015-01-24 15:30**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-03-04 19:50**: feat: add instant feedback and explanation on answer selection
 - **2015-03-05 21:25**: docs: update traffic signals catalog documentation
 - **2015-03-05 22:18**: style: polish typography and Nepali Unicode font rendering
+- **2015-03-06 13:46**: feat: add instant feedback and explanation on answer selection
