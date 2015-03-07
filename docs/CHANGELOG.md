@@ -1,4 +1,3 @@
-- **2015-01-24 10:30**: docs: improve code comments and API documentation
 - **2015-01-24 15:30**: feat: add category-specific practice modes
 - **2015-01-24 22:16**: fix: typo in Nepali road safety regulations question
 - **2015-01-25 17:03**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-03-05 22:18**: style: polish typography and Nepali Unicode font rendering
 - **2015-03-06 13:46**: feat: add instant feedback and explanation on answer selection
 - **2015-03-06 15:10**: feat: add category A and B traffic test questions
+- **2015-03-07 10:32**: perf: index question IDs for rapid lookup
