@@ -1,4 +1,3 @@
-- **2015-01-25 17:03**: feat: add search and filter by sign category
 - **2015-01-26 20:49**: fix: typo in Nepali road safety regulations question
 - **2015-01-27 11:23**: test: verify question extraction script against exam PDF
 - **2015-01-27 16:51**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2015-03-07 10:32**: perf: index question IDs for rapid lookup
 - **2015-03-07 13:50**: test: verify question extraction script against exam PDF
 - **2015-03-08 14:55**: feat: add result summary with passing threshold analysis
+- **2015-03-08 17:05**: feat: add result summary with passing threshold analysis
