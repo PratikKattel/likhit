@@ -1,4 +1,3 @@
-- **2015-01-27 16:51**: chore: organize assets and image directory structure
 - **2015-01-28 09:41**: perf: index question IDs for rapid lookup
 - **2015-01-28 11:37**: perf: index question IDs for rapid lookup
 - **2015-01-28 15:00**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-03-08 17:05**: feat: add result summary with passing threshold analysis
 - **2015-03-09 12:05**: refactor: restructure question data schema for faster loading
 - **2015-03-09 13:40**: chore: organize assets and image directory structure
+- **2015-03-09 17:13**: fix: typo in Nepali road safety regulations question
