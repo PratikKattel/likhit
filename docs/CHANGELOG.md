@@ -1,4 +1,3 @@
-- **2015-01-28 15:00**: refactor: optimize SVG rendering for road signs
 - **2015-01-28 16:26**: feat: add result summary with passing threshold analysis
 - **2015-01-29 10:47**: docs: add instructions for Nepali driving license written exam
 - **2015-01-29 21:52**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2015-03-09 17:13**: fix: typo in Nepali road safety regulations question
 - **2015-03-10 19:58**: docs: update README with setup instructions and feature list
 - **2015-03-11 09:22**: feat: add warning signs and informational road signs
+- **2015-03-11 19:31**: fix: correct color specifications for mandatory traffic signs
