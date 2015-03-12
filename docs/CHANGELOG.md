@@ -1,4 +1,3 @@
-- **2015-01-29 21:52**: style: enhance traffic sign card layout and responsiveness
 - **2015-01-30 19:26**: feat: add warning signs and informational road signs
 - **2015-01-30 20:36**: fix: resolve layout shift during question transitions
 - **2015-01-31 12:28**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-03-11 19:31**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-12 18:09**: fix: update DOTM Nepal license syllabus questions
 - **2015-03-12 21:09**: feat: add instant feedback and explanation on answer selection
+- **2015-03-12 21:57**: feat: add category-specific practice modes
