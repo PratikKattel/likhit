@@ -1,4 +1,3 @@
-- **2015-01-31 12:28**: test: verify question extraction script against exam PDF
 - **2015-01-31 16:30**: chore: update project metadata and build configuration
 - **2015-02-01 15:28**: style: polish typography and Nepali Unicode font rendering
 - **2015-02-02 14:15**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2015-03-12 21:57**: feat: add category-specific practice modes
 - **2015-03-13 16:11**: docs: add instructions for Nepali driving license written exam
 - **2015-03-13 22:02**: docs: improve code comments and API documentation
+- **2015-03-14 11:36**: style: polish typography and Nepali Unicode font rendering
