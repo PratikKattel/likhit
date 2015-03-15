@@ -1,4 +1,3 @@
-- **2015-02-02 14:15**: chore: organize assets and image directory structure
 - **2015-02-03 14:31**: feat: add warning signs and informational road signs
 - **2015-02-03 22:21**: refactor: modularize traffic app logic and event listeners
 - **2015-02-04 19:48**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-03-14 11:36**: style: polish typography and Nepali Unicode font rendering
 - **2015-03-15 09:28**: perf: optimize image caching for traffic sign assets
 - **2015-03-15 11:25**: test: verify question extraction script against exam PDF
+- **2015-03-15 13:30**: test: verify question extraction script against exam PDF
