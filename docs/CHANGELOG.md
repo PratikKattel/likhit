@@ -1,4 +1,3 @@
-- **2015-02-01 15:28**: style: polish typography and Nepali Unicode font rendering
 - **2015-02-02 14:15**: chore: organize assets and image directory structure
 - **2015-02-03 14:31**: feat: add warning signs and informational road signs
 - **2015-02-03 22:21**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-03-13 22:02**: docs: improve code comments and API documentation
 - **2015-03-14 11:36**: style: polish typography and Nepali Unicode font rendering
 - **2015-03-15 09:28**: perf: optimize image caching for traffic sign assets
+- **2015-03-15 11:25**: test: verify question extraction script against exam PDF
