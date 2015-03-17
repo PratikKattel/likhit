@@ -1,4 +1,3 @@
-- **2015-02-05 19:45**: chore: update project metadata and build configuration
 - **2015-02-06 15:16**: chore: organize assets and image directory structure
 - **2015-02-06 18:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-02-06 20:26**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-03-16 19:08**: docs: update README with setup instructions and feature list
 - **2015-03-17 11:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-03-17 12:09**: fix: typo in Nepali road safety regulations question
+- **2015-03-17 13:49**: fix: typo in Nepali road safety regulations question
