@@ -1,4 +1,3 @@
-- **2015-02-06 18:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-02-06 20:26**: fix: prevent option re-selection after submitting answer
 - **2015-02-07 15:06**: feat: add keyboard navigation shortcuts for question selection
 - **2015-02-07 16:11**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-03-17 12:09**: fix: typo in Nepali road safety regulations question
 - **2015-03-17 13:49**: fix: typo in Nepali road safety regulations question
 - **2015-03-17 15:52**: perf: index question IDs for rapid lookup
+- **2015-03-18 12:34**: refactor: optimize SVG rendering for road signs
