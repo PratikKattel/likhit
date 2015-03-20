@@ -1,4 +1,3 @@
-- **2015-02-07 16:11**: feat: add search and filter by sign category
 - **2015-02-08 15:18**: refactor: optimize SVG rendering for road signs
 - **2015-02-09 15:19**: docs: improve code comments and API documentation
 - **2015-02-09 21:07**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-03-18 12:34**: refactor: optimize SVG rendering for road signs
 - **2015-03-19 20:25**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-20 10:22**: docs: add instructions for Nepali driving license written exam
+- **2015-03-20 13:29**: docs: update README with setup instructions and feature list
