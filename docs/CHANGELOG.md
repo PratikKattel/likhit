@@ -1,4 +1,3 @@
-- **2015-02-07 15:06**: feat: add keyboard navigation shortcuts for question selection
 - **2015-02-07 16:11**: feat: add search and filter by sign category
 - **2015-02-08 15:18**: refactor: optimize SVG rendering for road signs
 - **2015-02-09 15:19**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-03-17 15:52**: perf: index question IDs for rapid lookup
 - **2015-03-18 12:34**: refactor: optimize SVG rendering for road signs
 - **2015-03-19 20:25**: fix: correct color specifications for mandatory traffic signs
+- **2015-03-20 10:22**: docs: add instructions for Nepali driving license written exam
