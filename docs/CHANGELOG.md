@@ -1,4 +1,3 @@
-- **2015-02-10 12:46**: chore: update project metadata and build configuration
 - **2015-02-10 18:28**: chore: organize assets and image directory structure
 - **2015-02-11 09:25**: chore: update questions database with recent DOTM updates
 - **2015-02-11 10:20**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-03-20 17:37**: chore: update project metadata and build configuration
 - **2015-03-21 12:47**: feat: add instant feedback and explanation on answer selection
 - **2015-03-21 14:04**: refactor: optimize SVG rendering for road signs
+- **2015-03-21 19:38**: style: improve dark/light mode and mobile UI responsiveness
