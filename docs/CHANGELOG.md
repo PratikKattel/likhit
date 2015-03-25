@@ -1,4 +1,3 @@
-- **2015-02-11 18:27**: chore: organize assets and image directory structure
 - **2015-02-12 12:03**: test: verify question extraction script against exam PDF
 - **2015-02-12 21:07**: perf: optimize image caching for traffic sign assets
 - **2015-02-13 10:44**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-03-22 12:28**: feat: implement timer and score calculation for mock test
 - **2015-03-23 15:29**: fix: adjust passing score threshold according to new rules
 - **2015-03-24 20:21**: feat: add warning signs and informational road signs
+- **2015-03-25 11:49**: chore: update questions database with recent DOTM updates
