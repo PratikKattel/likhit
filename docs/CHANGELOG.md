@@ -1,4 +1,3 @@
-- **2015-02-13 10:44**: docs: update README with setup instructions and feature list
 - **2015-02-13 18:29**: fix: typo in Nepali road safety regulations question
 - **2015-02-13 19:35**: feat: add warning signs and informational road signs
 - **2015-02-14 15:29**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-03-25 11:49**: chore: update questions database with recent DOTM updates
 - **2015-03-25 13:28**: fix: resolve layout shift during question transitions
 - **2015-03-26 15:36**: fix: typo in Nepali road safety regulations question
+- **2015-03-27 16:46**: refactor: restructure question data schema for faster loading
