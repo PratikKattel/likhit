@@ -1,4 +1,3 @@
-- **2015-02-13 18:29**: fix: typo in Nepali road safety regulations question
 - **2015-02-13 19:35**: feat: add warning signs and informational road signs
 - **2015-02-14 15:29**: feat: add category-specific practice modes
 - **2015-02-15 09:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-03-25 13:28**: fix: resolve layout shift during question transitions
 - **2015-03-26 15:36**: fix: typo in Nepali road safety regulations question
 - **2015-03-27 16:46**: refactor: restructure question data schema for faster loading
+- **2015-03-28 10:33**: refactor: restructure question data schema for faster loading
