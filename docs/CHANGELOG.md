@@ -1,4 +1,3 @@
-- **2015-02-14 15:29**: feat: add category-specific practice modes
 - **2015-02-15 09:47**: fix: prevent option re-selection after submitting answer
 - **2015-02-16 12:58**: feat: add category-specific practice modes
 - **2015-02-17 12:08**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-03-27 16:46**: refactor: restructure question data schema for faster loading
 - **2015-03-28 10:33**: refactor: restructure question data schema for faster loading
 - **2015-03-29 16:07**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-03-30 10:51**: perf: lazy load signal graphics and question assets
