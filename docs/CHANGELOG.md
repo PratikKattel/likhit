@@ -1,4 +1,3 @@
-- **2015-02-18 18:22**: feat: add category-specific practice modes
 - **2015-02-19 09:26**: feat: add search and filter by sign category
 - **2015-02-19 09:54**: fix: correct color specifications for mandatory traffic signs
 - **2015-02-20 11:11**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-03-30 15:45**: chore: update project metadata and build configuration
 - **2015-03-31 11:29**: perf: index question IDs for rapid lookup
 - **2015-03-31 17:06**: chore: organize assets and image directory structure
+- **2015-03-31 19:27**: feat: add regulatory traffic signs SVG graphics
