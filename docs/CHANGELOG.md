@@ -1,4 +1,3 @@
-- **2015-02-16 12:58**: feat: add category-specific practice modes
 - **2015-02-17 12:08**: chore: format code style and clean up redundant variables
 - **2015-02-18 18:22**: feat: add category-specific practice modes
 - **2015-02-19 09:26**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-03-29 16:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-03-30 10:51**: perf: lazy load signal graphics and question assets
 - **2015-03-30 15:45**: chore: update project metadata and build configuration
+- **2015-03-31 11:29**: perf: index question IDs for rapid lookup
