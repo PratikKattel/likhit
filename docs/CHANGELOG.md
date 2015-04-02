@@ -1,4 +1,3 @@
-- **2015-02-20 11:11**: feat: add result summary with passing threshold analysis
 - **2015-02-20 14:49**: docs: add instructions for Nepali driving license written exam
 - **2015-02-20 16:53**: docs: add instructions for Nepali driving license written exam
 - **2015-02-20 20:13**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-03-31 19:27**: feat: add regulatory traffic signs SVG graphics
 - **2015-03-31 19:52**: chore: format code style and clean up redundant variables
 - **2015-04-01 19:13**: chore: format code style and clean up redundant variables
+- **2015-04-02 22:10**: feat: add category-specific practice modes
