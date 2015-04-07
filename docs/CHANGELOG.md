@@ -1,4 +1,3 @@
-- **2015-02-22 15:35**: feat: implement timer and score calculation for mock test
 - **2015-02-22 16:21**: fix: adjust passing score threshold according to new rules
 - **2015-02-22 19:42**: style: enhance traffic sign card layout and responsiveness
 - **2015-02-22 21:20**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-04-04 09:43**: docs: add instructions for Nepali driving license written exam
 - **2015-04-05 17:20**: feat: add instant feedback and explanation on answer selection
 - **2015-04-06 19:35**: chore: update questions database with recent DOTM updates
+- **2015-04-07 12:47**: perf: optimize image caching for traffic sign assets
