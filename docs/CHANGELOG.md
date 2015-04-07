@@ -1,4 +1,3 @@
-- **2015-02-22 21:20**: feat: add result summary with passing threshold analysis
 - **2015-02-23 19:51**: feat: add warning signs and informational road signs
 - **2015-02-24 09:20**: docs: add instructions for Nepali driving license written exam
 - **2015-02-24 09:35**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2015-04-07 12:47**: perf: optimize image caching for traffic sign assets
 - **2015-04-07 15:47**: style: enhance traffic sign card layout and responsiveness
 - **2015-04-07 19:18**: chore: update questions database with recent DOTM updates
+- **2015-04-07 21:35**: fix: typo in Nepali road safety regulations question
