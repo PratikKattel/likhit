@@ -1,4 +1,3 @@
-- **2015-02-24 09:35**: feat: add category A and B traffic test questions
 - **2015-02-24 10:33**: fix: prevent option re-selection after submitting answer
 - **2015-02-25 19:15**: chore: update project metadata and build configuration
 - **2015-02-25 20:18**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-04-07 21:35**: fix: typo in Nepali road safety regulations question
 - **2015-04-08 17:50**: fix: prevent option re-selection after submitting answer
 - **2015-04-08 18:02**: feat: implement timer and score calculation for mock test
+- **2015-04-09 12:05**: fix: adjust passing score threshold according to new rules
