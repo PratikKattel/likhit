@@ -1,4 +1,3 @@
-- **2015-02-25 19:15**: chore: update project metadata and build configuration
 - **2015-02-25 20:18**: refactor: restructure question data schema for faster loading
 - **2015-02-26 15:59**: fix: update DOTM Nepal license syllabus questions
 - **2015-02-26 19:54**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-04-08 18:02**: feat: implement timer and score calculation for mock test
 - **2015-04-09 12:05**: fix: adjust passing score threshold according to new rules
 - **2015-04-09 22:19**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-04-10 09:18**: feat: add result summary with passing threshold analysis
