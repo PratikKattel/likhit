@@ -1,4 +1,3 @@
-- **2015-02-26 15:59**: fix: update DOTM Nepal license syllabus questions
 - **2015-02-26 19:54**: perf: optimize image caching for traffic sign assets
 - **2015-02-27 21:30**: feat: add result summary with passing threshold analysis
 - **2015-02-27 21:47**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-04-09 22:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-04-10 09:18**: feat: add result summary with passing threshold analysis
 - **2015-04-11 11:59**: perf: optimize image caching for traffic sign assets
+- **2015-04-11 17:43**: refactor: restructure question data schema for faster loading
