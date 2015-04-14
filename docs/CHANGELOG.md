@@ -1,4 +1,3 @@
-- **2015-02-27 21:47**: docs: add instructions for Nepali driving license written exam
 - **2015-02-28 09:36**: feat: add instant feedback and explanation on answer selection
 - **2015-02-28 13:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-01 10:10**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-04-11 17:43**: refactor: restructure question data schema for faster loading
 - **2015-04-12 10:40**: fix: prevent option re-selection after submitting answer
 - **2015-04-13 14:53**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-04-14 19:23**: feat: add category A and B traffic test questions
