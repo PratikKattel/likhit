@@ -1,4 +1,3 @@
-- **2015-03-01 10:10**: fix: prevent option re-selection after submitting answer
 - **2015-03-01 19:12**: feat: add search and filter by sign category
 - **2015-03-02 21:22**: perf: index question IDs for rapid lookup
 - **2015-03-03 17:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-04-14 19:23**: feat: add category A and B traffic test questions
 - **2015-04-14 22:05**: fix: prevent option re-selection after submitting answer
 - **2015-04-14 22:08**: fix: adjust passing score threshold according to new rules
+- **2015-04-15 22:15**: docs: improve code comments and API documentation
