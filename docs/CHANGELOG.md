@@ -1,4 +1,3 @@
-- **2015-03-03 18:50**: fix: adjust passing score threshold according to new rules
 - **2015-03-04 15:30**: refactor: restructure question data schema for faster loading
 - **2015-03-04 19:50**: feat: add instant feedback and explanation on answer selection
 - **2015-03-05 21:25**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-04-16 17:46**: refactor: modularize traffic app logic and event listeners
 - **2015-04-17 09:05**: feat: add category-specific practice modes
 - **2015-04-18 12:39**: docs: update README with setup instructions and feature list
+- **2015-04-18 16:45**: fix: correct color specifications for mandatory traffic signs
