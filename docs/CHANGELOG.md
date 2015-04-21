@@ -1,4 +1,3 @@
-- **2015-03-05 22:18**: style: polish typography and Nepali Unicode font rendering
 - **2015-03-06 13:46**: feat: add instant feedback and explanation on answer selection
 - **2015-03-06 15:10**: feat: add category A and B traffic test questions
 - **2015-03-07 10:32**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-04-18 21:47**: feat: add keyboard navigation shortcuts for question selection
 - **2015-04-19 12:33**: refactor: optimize SVG rendering for road signs
 - **2015-04-20 15:22**: refactor: optimize SVG rendering for road signs
+- **2015-04-21 20:36**: feat: add regulatory traffic signs SVG graphics
