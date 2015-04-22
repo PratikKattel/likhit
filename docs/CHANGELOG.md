@@ -1,4 +1,3 @@
-- **2015-03-07 10:32**: perf: index question IDs for rapid lookup
 - **2015-03-07 13:50**: test: verify question extraction script against exam PDF
 - **2015-03-08 14:55**: feat: add result summary with passing threshold analysis
 - **2015-03-08 17:05**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-04-21 20:36**: feat: add regulatory traffic signs SVG graphics
 - **2015-04-22 11:49**: feat: add search and filter by sign category
 - **2015-04-22 11:59**: docs: update README with setup instructions and feature list
+- **2015-04-22 13:25**: perf: lazy load signal graphics and question assets
