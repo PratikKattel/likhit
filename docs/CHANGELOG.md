@@ -1,4 +1,3 @@
-- **2015-03-07 13:50**: test: verify question extraction script against exam PDF
 - **2015-03-08 14:55**: feat: add result summary with passing threshold analysis
 - **2015-03-08 17:05**: feat: add result summary with passing threshold analysis
 - **2015-03-09 12:05**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-04-22 11:49**: feat: add search and filter by sign category
 - **2015-04-22 11:59**: docs: update README with setup instructions and feature list
 - **2015-04-22 13:25**: perf: lazy load signal graphics and question assets
+- **2015-04-23 14:37**: feat: add instant feedback and explanation on answer selection
