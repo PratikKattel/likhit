@@ -1,4 +1,3 @@
-- **2015-03-09 12:05**: refactor: restructure question data schema for faster loading
 - **2015-03-09 13:40**: chore: organize assets and image directory structure
 - **2015-03-09 17:13**: fix: typo in Nepali road safety regulations question
 - **2015-03-10 19:58**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-04-23 14:37**: feat: add instant feedback and explanation on answer selection
 - **2015-04-24 09:39**: docs: update traffic signals catalog documentation
 - **2015-04-24 20:20**: chore: update project metadata and build configuration
+- **2015-04-25 15:47**: docs: improve code comments and API documentation
