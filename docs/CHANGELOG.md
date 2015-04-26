@@ -1,4 +1,3 @@
-- **2015-03-09 17:13**: fix: typo in Nepali road safety regulations question
 - **2015-03-10 19:58**: docs: update README with setup instructions and feature list
 - **2015-03-11 09:22**: feat: add warning signs and informational road signs
 - **2015-03-11 19:31**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-04-24 20:20**: chore: update project metadata and build configuration
 - **2015-04-25 15:47**: docs: improve code comments and API documentation
 - **2015-04-25 18:21**: fix: correct color specifications for mandatory traffic signs
+- **2015-04-26 19:32**: feat: add search and filter by sign category
