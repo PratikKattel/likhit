@@ -1,4 +1,3 @@
-- **2015-03-11 19:31**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-12 18:09**: fix: update DOTM Nepal license syllabus questions
 - **2015-03-12 21:09**: feat: add instant feedback and explanation on answer selection
 - **2015-03-12 21:57**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-04-26 19:32**: feat: add search and filter by sign category
 - **2015-04-27 21:48**: refactor: restructure question data schema for faster loading
 - **2015-04-28 10:47**: fix: resolve layout shift during question transitions
+- **2015-04-29 10:17**: perf: lazy load signal graphics and question assets
