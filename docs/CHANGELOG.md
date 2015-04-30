@@ -1,4 +1,3 @@
-- **2015-03-13 16:11**: docs: add instructions for Nepali driving license written exam
 - **2015-03-13 22:02**: docs: improve code comments and API documentation
 - **2015-03-14 11:36**: style: polish typography and Nepali Unicode font rendering
 - **2015-03-15 09:28**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-04-29 12:49**: fix: update DOTM Nepal license syllabus questions
 - **2015-04-29 19:59**: fix: prevent option re-selection after submitting answer
 - **2015-04-29 21:20**: docs: update README with setup instructions and feature list
+- **2015-04-30 10:08**: fix: correct color specifications for mandatory traffic signs
