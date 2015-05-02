@@ -1,4 +1,3 @@
-- **2015-03-15 09:28**: perf: optimize image caching for traffic sign assets
 - **2015-03-15 11:25**: test: verify question extraction script against exam PDF
 - **2015-03-15 13:30**: test: verify question extraction script against exam PDF
 - **2015-03-16 19:08**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-04-30 10:08**: fix: correct color specifications for mandatory traffic signs
 - **2015-04-30 17:34**: chore: update questions database with recent DOTM updates
 - **2015-05-01 16:55**: feat: add warning signs and informational road signs
+- **2015-05-02 12:26**: feat: support multiple choice questions for motorcycle category
