@@ -1,4 +1,3 @@
-- **2015-03-15 13:30**: test: verify question extraction script against exam PDF
 - **2015-03-16 19:08**: docs: update README with setup instructions and feature list
 - **2015-03-17 11:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-03-17 12:09**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-05-01 16:55**: feat: add warning signs and informational road signs
 - **2015-05-02 12:26**: feat: support multiple choice questions for motorcycle category
 - **2015-05-02 16:46**: feat: add category-specific practice modes
+- **2015-05-02 20:07**: feat: add search and filter by sign category
