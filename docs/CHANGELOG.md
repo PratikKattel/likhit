@@ -1,4 +1,3 @@
-- **2015-03-17 11:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-03-17 12:09**: fix: typo in Nepali road safety regulations question
 - **2015-03-17 13:49**: fix: typo in Nepali road safety regulations question
 - **2015-03-17 15:52**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-05-02 16:46**: feat: add category-specific practice modes
 - **2015-05-02 20:07**: feat: add search and filter by sign category
 - **2015-05-03 16:06**: docs: update traffic signals catalog documentation
+- **2015-05-04 12:13**: feat: add instant feedback and explanation on answer selection
