@@ -1,4 +1,3 @@
-- **2015-03-17 13:49**: fix: typo in Nepali road safety regulations question
 - **2015-03-17 15:52**: perf: index question IDs for rapid lookup
 - **2015-03-18 12:34**: refactor: optimize SVG rendering for road signs
 - **2015-03-19 20:25**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-05-03 16:06**: docs: update traffic signals catalog documentation
 - **2015-05-04 12:13**: feat: add instant feedback and explanation on answer selection
 - **2015-05-04 14:01**: feat: add category-specific practice modes
+- **2015-05-05 18:27**: feat: add category A and B traffic test questions
