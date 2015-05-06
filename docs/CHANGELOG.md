@@ -1,4 +1,3 @@
-- **2015-03-17 15:52**: perf: index question IDs for rapid lookup
 - **2015-03-18 12:34**: refactor: optimize SVG rendering for road signs
 - **2015-03-19 20:25**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-20 10:22**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-05-04 12:13**: feat: add instant feedback and explanation on answer selection
 - **2015-05-04 14:01**: feat: add category-specific practice modes
 - **2015-05-05 18:27**: feat: add category A and B traffic test questions
+- **2015-05-06 18:57**: feat: add instant feedback and explanation on answer selection
