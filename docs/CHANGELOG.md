@@ -1,4 +1,3 @@
-- **2015-03-19 20:25**: fix: correct color specifications for mandatory traffic signs
 - **2015-03-20 10:22**: docs: add instructions for Nepali driving license written exam
 - **2015-03-20 13:29**: docs: update README with setup instructions and feature list
 - **2015-03-20 17:37**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-05-05 18:27**: feat: add category A and B traffic test questions
 - **2015-05-06 18:57**: feat: add instant feedback and explanation on answer selection
 - **2015-05-07 18:24**: refactor: modularize traffic app logic and event listeners
+- **2015-05-07 18:54**: chore: update project metadata and build configuration
