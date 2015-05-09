@@ -1,4 +1,3 @@
-- **2015-03-20 17:37**: chore: update project metadata and build configuration
 - **2015-03-21 12:47**: feat: add instant feedback and explanation on answer selection
 - **2015-03-21 14:04**: refactor: optimize SVG rendering for road signs
 - **2015-03-21 19:38**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-05-07 18:54**: chore: update project metadata and build configuration
 - **2015-05-08 12:11**: chore: update questions database with recent DOTM updates
 - **2015-05-08 13:52**: docs: update traffic signals catalog documentation
+- **2015-05-09 12:51**: feat: add result summary with passing threshold analysis
