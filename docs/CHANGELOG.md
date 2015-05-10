@@ -1,4 +1,3 @@
-- **2015-03-21 19:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-03-22 12:28**: feat: implement timer and score calculation for mock test
 - **2015-03-23 15:29**: fix: adjust passing score threshold according to new rules
 - **2015-03-24 20:21**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2015-05-09 12:51**: feat: add result summary with passing threshold analysis
 - **2015-05-09 20:57**: style: polish typography and Nepali Unicode font rendering
 - **2015-05-10 16:48**: chore: update project metadata and build configuration
+- **2015-05-10 17:44**: refactor: restructure question data schema for faster loading
