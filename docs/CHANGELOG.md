@@ -1,4 +1,3 @@
-- **2015-03-24 20:21**: feat: add warning signs and informational road signs
 - **2015-03-25 11:49**: chore: update questions database with recent DOTM updates
 - **2015-03-25 13:28**: fix: resolve layout shift during question transitions
 - **2015-03-26 15:36**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-05-10 17:44**: refactor: restructure question data schema for faster loading
 - **2015-05-11 19:53**: feat: add instant feedback and explanation on answer selection
 - **2015-05-12 19:20**: fix: typo in Nepali road safety regulations question
+- **2015-05-12 21:30**: feat: add search and filter by sign category
