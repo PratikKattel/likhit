@@ -1,4 +1,3 @@
-- **2015-03-23 15:29**: fix: adjust passing score threshold according to new rules
 - **2015-03-24 20:21**: feat: add warning signs and informational road signs
 - **2015-03-25 11:49**: chore: update questions database with recent DOTM updates
 - **2015-03-25 13:28**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-05-10 16:48**: chore: update project metadata and build configuration
 - **2015-05-10 17:44**: refactor: restructure question data schema for faster loading
 - **2015-05-11 19:53**: feat: add instant feedback and explanation on answer selection
+- **2015-05-12 19:20**: fix: typo in Nepali road safety regulations question
