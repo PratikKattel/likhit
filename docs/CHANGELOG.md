@@ -1,4 +1,3 @@
-- **2015-03-28 10:33**: refactor: restructure question data schema for faster loading
 - **2015-03-29 16:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-03-30 10:51**: perf: lazy load signal graphics and question assets
 - **2015-03-30 15:45**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-05-14 11:25**: fix: resolve layout shift during question transitions
 - **2015-05-15 10:59**: chore: update project metadata and build configuration
 - **2015-05-16 18:46**: chore: organize assets and image directory structure
+- **2015-05-17 15:36**: refactor: modularize traffic app logic and event listeners
