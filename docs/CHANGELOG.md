@@ -1,4 +1,3 @@
-- **2015-03-31 19:27**: feat: add regulatory traffic signs SVG graphics
 - **2015-03-31 19:52**: chore: format code style and clean up redundant variables
 - **2015-04-01 19:13**: chore: format code style and clean up redundant variables
 - **2015-04-02 22:10**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-05-18 11:49**: docs: improve code comments and API documentation
 - **2015-05-18 17:51**: chore: update questions database with recent DOTM updates
 - **2015-05-19 16:54**: feat: implement timer and score calculation for mock test
+- **2015-05-20 11:28**: fix: typo in Nepali road safety regulations question
