@@ -1,4 +1,3 @@
-- **2015-04-02 22:10**: feat: add category-specific practice modes
 - **2015-04-03 12:45**: fix: prevent option re-selection after submitting answer
 - **2015-04-04 09:43**: docs: add instructions for Nepali driving license written exam
 - **2015-04-05 17:20**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-05-20 11:28**: fix: typo in Nepali road safety regulations question
 - **2015-05-20 19:00**: feat: support multiple choice questions for motorcycle category
 - **2015-05-20 20:47**: fix: typo in Nepali road safety regulations question
+- **2015-05-21 12:20**: docs: update traffic signals catalog documentation
