@@ -1,4 +1,3 @@
-- **2015-04-04 09:43**: docs: add instructions for Nepali driving license written exam
 - **2015-04-05 17:20**: feat: add instant feedback and explanation on answer selection
 - **2015-04-06 19:35**: chore: update questions database with recent DOTM updates
 - **2015-04-07 12:47**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-05-20 20:47**: fix: typo in Nepali road safety regulations question
 - **2015-05-21 12:20**: docs: update traffic signals catalog documentation
 - **2015-05-22 10:05**: docs: update README with setup instructions and feature list
+- **2015-05-22 11:22**: feat: add category A and B traffic test questions
