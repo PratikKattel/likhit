@@ -1,4 +1,3 @@
-- **2015-04-07 12:47**: perf: optimize image caching for traffic sign assets
 - **2015-04-07 15:47**: style: enhance traffic sign card layout and responsiveness
 - **2015-04-07 19:18**: chore: update questions database with recent DOTM updates
 - **2015-04-07 21:35**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-05-22 11:22**: feat: add category A and B traffic test questions
 - **2015-05-22 16:44**: docs: update README with setup instructions and feature list
 - **2015-05-23 15:13**: docs: add instructions for Nepali driving license written exam
+- **2015-05-24 17:51**: style: enhance traffic sign card layout and responsiveness
