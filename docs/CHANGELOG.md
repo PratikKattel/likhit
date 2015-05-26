@@ -1,4 +1,3 @@
-- **2015-04-07 21:35**: fix: typo in Nepali road safety regulations question
 - **2015-04-08 17:50**: fix: prevent option re-selection after submitting answer
 - **2015-04-08 18:02**: feat: implement timer and score calculation for mock test
 - **2015-04-09 12:05**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-05-24 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-25 20:54**: feat: add regulatory traffic signs SVG graphics
 - **2015-05-26 14:26**: feat: add result summary with passing threshold analysis
+- **2015-05-26 18:45**: chore: format code style and clean up redundant variables
