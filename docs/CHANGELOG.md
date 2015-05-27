@@ -1,4 +1,3 @@
-- **2015-04-08 18:02**: feat: implement timer and score calculation for mock test
 - **2015-04-09 12:05**: fix: adjust passing score threshold according to new rules
 - **2015-04-09 22:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-04-10 09:18**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-05-26 14:26**: feat: add result summary with passing threshold analysis
 - **2015-05-26 18:45**: chore: format code style and clean up redundant variables
 - **2015-05-26 20:40**: perf: optimize image caching for traffic sign assets
+- **2015-05-27 10:44**: refactor: optimize SVG rendering for road signs
