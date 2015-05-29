@@ -1,4 +1,3 @@
-- **2015-04-11 11:59**: perf: optimize image caching for traffic sign assets
 - **2015-04-11 17:43**: refactor: restructure question data schema for faster loading
 - **2015-04-12 10:40**: fix: prevent option re-selection after submitting answer
 - **2015-04-13 14:53**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-05-27 21:22**: chore: update questions database with recent DOTM updates
 - **2015-05-28 12:31**: refactor: optimize SVG rendering for road signs
 - **2015-05-28 16:11**: chore: organize assets and image directory structure
+- **2015-05-29 18:43**: docs: improve code comments and API documentation
