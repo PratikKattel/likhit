@@ -1,4 +1,3 @@
-- **2015-04-13 14:53**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-04-14 19:23**: feat: add category A and B traffic test questions
 - **2015-04-14 22:05**: fix: prevent option re-selection after submitting answer
 - **2015-04-14 22:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-05-29 18:43**: docs: improve code comments and API documentation
 - **2015-05-29 20:26**: feat: add category-specific practice modes
 - **2015-05-30 09:58**: feat: support multiple choice questions for motorcycle category
+- **2015-05-30 22:18**: style: enhance traffic sign card layout and responsiveness
