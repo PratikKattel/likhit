@@ -1,4 +1,3 @@
-- **2015-04-14 22:05**: fix: prevent option re-selection after submitting answer
 - **2015-04-14 22:08**: fix: adjust passing score threshold according to new rules
 - **2015-04-15 22:15**: docs: improve code comments and API documentation
 - **2015-04-16 17:46**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-05-30 09:58**: feat: support multiple choice questions for motorcycle category
 - **2015-05-30 22:18**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-31 10:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2015-05-31 15:48**: refactor: optimize SVG rendering for road signs
