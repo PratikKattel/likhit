@@ -1,4 +1,3 @@
-- **2015-04-16 17:46**: refactor: modularize traffic app logic and event listeners
 - **2015-04-17 09:05**: feat: add category-specific practice modes
 - **2015-04-18 12:39**: docs: update README with setup instructions and feature list
 - **2015-04-18 16:45**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-05-31 15:48**: refactor: optimize SVG rendering for road signs
 - **2015-06-01 13:20**: perf: index question IDs for rapid lookup
 - **2015-06-01 18:16**: docs: improve code comments and API documentation
+- **2015-06-02 13:51**: feat: add regulatory traffic signs SVG graphics
