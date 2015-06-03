@@ -1,4 +1,3 @@
-- **2015-04-17 09:05**: feat: add category-specific practice modes
 - **2015-04-18 12:39**: docs: update README with setup instructions and feature list
 - **2015-04-18 16:45**: fix: correct color specifications for mandatory traffic signs
 - **2015-04-18 21:47**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2015-06-01 13:20**: perf: index question IDs for rapid lookup
 - **2015-06-01 18:16**: docs: improve code comments and API documentation
 - **2015-06-02 13:51**: feat: add regulatory traffic signs SVG graphics
+- **2015-06-03 09:57**: chore: update project metadata and build configuration
