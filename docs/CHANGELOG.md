@@ -1,4 +1,3 @@
-- **2015-04-19 12:33**: refactor: optimize SVG rendering for road signs
 - **2015-04-20 15:22**: refactor: optimize SVG rendering for road signs
 - **2015-04-21 20:36**: feat: add regulatory traffic signs SVG graphics
 - **2015-04-22 11:49**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-06-04 11:16**: docs: update traffic signals catalog documentation
 - **2015-06-04 14:39**: refactor: restructure question data schema for faster loading
 - **2015-06-05 18:03**: perf: optimize image caching for traffic sign assets
+- **2015-06-05 21:02**: feat: add keyboard navigation shortcuts for question selection
