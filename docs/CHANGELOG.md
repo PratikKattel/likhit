@@ -1,4 +1,3 @@
-- **2015-04-21 20:36**: feat: add regulatory traffic signs SVG graphics
 - **2015-04-22 11:49**: feat: add search and filter by sign category
 - **2015-04-22 11:59**: docs: update README with setup instructions and feature list
 - **2015-04-22 13:25**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2015-06-05 18:03**: perf: optimize image caching for traffic sign assets
 - **2015-06-05 21:02**: feat: add keyboard navigation shortcuts for question selection
 - **2015-06-06 19:51**: perf: optimize image caching for traffic sign assets
+- **2015-06-07 10:58**: fix: adjust passing score threshold according to new rules
