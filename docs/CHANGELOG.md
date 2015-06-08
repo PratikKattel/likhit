@@ -1,4 +1,3 @@
-- **2015-04-22 13:25**: perf: lazy load signal graphics and question assets
 - **2015-04-23 14:37**: feat: add instant feedback and explanation on answer selection
 - **2015-04-24 09:39**: docs: update traffic signals catalog documentation
 - **2015-04-24 20:20**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-06-07 10:58**: fix: adjust passing score threshold according to new rules
 - **2015-06-07 17:04**: feat: add category A and B traffic test questions
 - **2015-06-08 11:10**: refactor: optimize SVG rendering for road signs
+- **2015-06-08 18:26**: style: polish typography and Nepali Unicode font rendering
