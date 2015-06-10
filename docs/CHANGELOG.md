@@ -1,4 +1,3 @@
-- **2015-04-25 18:21**: fix: correct color specifications for mandatory traffic signs
 - **2015-04-26 19:32**: feat: add search and filter by sign category
 - **2015-04-27 21:48**: refactor: restructure question data schema for faster loading
 - **2015-04-28 10:47**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-06-10 09:55**: test: verify question extraction script against exam PDF
 - **2015-06-10 14:21**: style: enhance traffic sign card layout and responsiveness
 - **2015-06-10 16:01**: docs: improve code comments and API documentation
+- **2015-06-10 22:08**: feat: add warning signs and informational road signs
