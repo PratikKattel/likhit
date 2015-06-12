@@ -1,4 +1,3 @@
-- **2015-04-28 10:47**: fix: resolve layout shift during question transitions
 - **2015-04-29 10:17**: perf: lazy load signal graphics and question assets
 - **2015-04-29 12:49**: fix: update DOTM Nepal license syllabus questions
 - **2015-04-29 19:59**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-06-10 22:08**: feat: add warning signs and informational road signs
 - **2015-06-11 11:23**: style: polish typography and Nepali Unicode font rendering
 - **2015-06-11 13:25**: refactor: restructure question data schema for faster loading
+- **2015-06-12 12:25**: fix: prevent option re-selection after submitting answer
