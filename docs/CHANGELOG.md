@@ -1,4 +1,3 @@
-- **2015-04-29 12:49**: fix: update DOTM Nepal license syllabus questions
 - **2015-04-29 19:59**: fix: prevent option re-selection after submitting answer
 - **2015-04-29 21:20**: docs: update README with setup instructions and feature list
 - **2015-04-30 10:08**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-06-11 13:25**: refactor: restructure question data schema for faster loading
 - **2015-06-12 12:25**: fix: prevent option re-selection after submitting answer
 - **2015-06-13 21:19**: feat: add search and filter by sign category
+- **2015-06-14 16:08**: chore: format code style and clean up redundant variables
