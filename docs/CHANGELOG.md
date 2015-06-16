@@ -1,4 +1,3 @@
-- **2015-04-30 10:08**: fix: correct color specifications for mandatory traffic signs
 - **2015-04-30 17:34**: chore: update questions database with recent DOTM updates
 - **2015-05-01 16:55**: feat: add warning signs and informational road signs
 - **2015-05-02 12:26**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-06-14 16:08**: chore: format code style and clean up redundant variables
 - **2015-06-15 20:38**: chore: update questions database with recent DOTM updates
 - **2015-06-16 10:42**: style: enhance traffic sign card layout and responsiveness
+- **2015-06-16 14:28**: fix: adjust passing score threshold according to new rules
