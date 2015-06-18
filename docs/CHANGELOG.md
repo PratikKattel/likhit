@@ -1,4 +1,3 @@
-- **2015-05-02 20:07**: feat: add search and filter by sign category
 - **2015-05-03 16:06**: docs: update traffic signals catalog documentation
 - **2015-05-04 12:13**: feat: add instant feedback and explanation on answer selection
 - **2015-05-04 14:01**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-06-18 11:27**: feat: add category A and B traffic test questions
 - **2015-06-18 12:23**: fix: resolve layout shift during question transitions
 - **2015-06-18 14:37**: chore: format code style and clean up redundant variables
+- **2015-06-18 15:36**: feat: add category-specific practice modes
