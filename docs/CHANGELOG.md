@@ -1,4 +1,3 @@
-- **2015-05-01 16:55**: feat: add warning signs and informational road signs
 - **2015-05-02 12:26**: feat: support multiple choice questions for motorcycle category
 - **2015-05-02 16:46**: feat: add category-specific practice modes
 - **2015-05-02 20:07**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-06-16 10:42**: style: enhance traffic sign card layout and responsiveness
 - **2015-06-16 14:28**: fix: adjust passing score threshold according to new rules
 - **2015-06-17 14:50**: feat: implement timer and score calculation for mock test
+- **2015-06-18 11:27**: feat: add category A and B traffic test questions
