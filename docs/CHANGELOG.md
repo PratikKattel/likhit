@@ -1,4 +1,3 @@
-- **2015-05-06 18:57**: feat: add instant feedback and explanation on answer selection
 - **2015-05-07 18:24**: refactor: modularize traffic app logic and event listeners
 - **2015-05-07 18:54**: chore: update project metadata and build configuration
 - **2015-05-08 12:11**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2015-06-19 20:27**: feat: add result summary with passing threshold analysis
 - **2015-06-20 10:14**: fix: prevent option re-selection after submitting answer
 - **2015-06-20 12:02**: feat: add keyboard navigation shortcuts for question selection
+- **2015-06-20 19:55**: refactor: clean up unused CSS classes and optimize stylesheet
