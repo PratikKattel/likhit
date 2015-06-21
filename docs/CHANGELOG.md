@@ -1,4 +1,3 @@
-- **2015-05-07 18:24**: refactor: modularize traffic app logic and event listeners
 - **2015-05-07 18:54**: chore: update project metadata and build configuration
 - **2015-05-08 12:11**: chore: update questions database with recent DOTM updates
 - **2015-05-08 13:52**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-06-20 10:14**: fix: prevent option re-selection after submitting answer
 - **2015-06-20 12:02**: feat: add keyboard navigation shortcuts for question selection
 - **2015-06-20 19:55**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2015-06-21 21:01**: fix: adjust passing score threshold according to new rules
