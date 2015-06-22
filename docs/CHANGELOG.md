@@ -1,4 +1,3 @@
-- **2015-05-07 18:54**: chore: update project metadata and build configuration
 - **2015-05-08 12:11**: chore: update questions database with recent DOTM updates
 - **2015-05-08 13:52**: docs: update traffic signals catalog documentation
 - **2015-05-09 12:51**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-06-20 12:02**: feat: add keyboard navigation shortcuts for question selection
 - **2015-06-20 19:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-06-21 21:01**: fix: adjust passing score threshold according to new rules
+- **2015-06-22 17:39**: fix: typo in Nepali road safety regulations question
