@@ -1,4 +1,3 @@
-- **2015-05-09 12:51**: feat: add result summary with passing threshold analysis
 - **2015-05-09 20:57**: style: polish typography and Nepali Unicode font rendering
 - **2015-05-10 16:48**: chore: update project metadata and build configuration
 - **2015-05-10 17:44**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-06-22 17:39**: fix: typo in Nepali road safety regulations question
 - **2015-06-23 14:30**: chore: organize assets and image directory structure
 - **2015-06-24 11:11**: fix: typo in Nepali road safety regulations question
+- **2015-06-24 22:17**: feat: add regulatory traffic signs SVG graphics
