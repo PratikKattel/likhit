@@ -1,4 +1,3 @@
-- **2015-05-11 19:53**: feat: add instant feedback and explanation on answer selection
 - **2015-05-12 19:20**: fix: typo in Nepali road safety regulations question
 - **2015-05-12 21:30**: feat: add search and filter by sign category
 - **2015-05-13 13:56**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2015-06-25 12:50**: feat: add warning signs and informational road signs
 - **2015-06-25 15:15**: docs: update traffic signals catalog documentation
 - **2015-06-26 18:04**: refactor: optimize SVG rendering for road signs
+- **2015-06-27 09:34**: chore: update questions database with recent DOTM updates
