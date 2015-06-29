@@ -1,4 +1,3 @@
-- **2015-05-14 11:25**: fix: resolve layout shift during question transitions
 - **2015-05-15 10:59**: chore: update project metadata and build configuration
 - **2015-05-16 18:46**: chore: organize assets and image directory structure
 - **2015-05-17 15:36**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-06-28 10:08**: feat: support multiple choice questions for motorcycle category
 - **2015-06-29 14:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-06-29 15:23**: chore: update project metadata and build configuration
+- **2015-06-29 18:15**: feat: add category A and B traffic test questions
