@@ -1,4 +1,3 @@
-- **2015-05-17 20:24**: perf: optimize image caching for traffic sign assets
 - **2015-05-18 11:49**: docs: improve code comments and API documentation
 - **2015-05-18 17:51**: chore: update questions database with recent DOTM updates
 - **2015-05-19 16:54**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-06-30 19:15**: chore: update project metadata and build configuration
 - **2015-07-01 16:18**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-01 18:42**: feat: add keyboard navigation shortcuts for question selection
+- **2015-07-01 20:33**: fix: correct color specifications for mandatory traffic signs
