@@ -1,4 +1,3 @@
-- **2015-05-17 15:36**: refactor: modularize traffic app logic and event listeners
 - **2015-05-17 20:06**: feat: add category-specific practice modes
 - **2015-05-17 20:24**: perf: optimize image caching for traffic sign assets
 - **2015-05-18 11:49**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-06-29 18:15**: feat: add category A and B traffic test questions
 - **2015-06-30 15:28**: chore: update project metadata and build configuration
 - **2015-06-30 19:15**: chore: update project metadata and build configuration
+- **2015-07-01 16:18**: feat: add regulatory traffic signs SVG graphics
