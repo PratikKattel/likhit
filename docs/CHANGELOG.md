@@ -1,4 +1,3 @@
-- **2015-05-18 17:51**: chore: update questions database with recent DOTM updates
 - **2015-05-19 16:54**: feat: implement timer and score calculation for mock test
 - **2015-05-20 11:28**: fix: typo in Nepali road safety regulations question
 - **2015-05-20 19:00**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-07-01 18:42**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-01 20:33**: fix: correct color specifications for mandatory traffic signs
 - **2015-07-02 18:41**: fix: prevent option re-selection after submitting answer
+- **2015-07-02 19:14**: docs: improve code comments and API documentation
