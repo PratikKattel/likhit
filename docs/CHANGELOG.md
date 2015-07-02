@@ -1,4 +1,3 @@
-- **2015-05-19 16:54**: feat: implement timer and score calculation for mock test
 - **2015-05-20 11:28**: fix: typo in Nepali road safety regulations question
 - **2015-05-20 19:00**: feat: support multiple choice questions for motorcycle category
 - **2015-05-20 20:47**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-07-01 20:33**: fix: correct color specifications for mandatory traffic signs
 - **2015-07-02 18:41**: fix: prevent option re-selection after submitting answer
 - **2015-07-02 19:14**: docs: improve code comments and API documentation
+- **2015-07-02 21:28**: perf: index question IDs for rapid lookup
