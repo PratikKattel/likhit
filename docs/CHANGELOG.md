@@ -1,4 +1,3 @@
-- **2015-05-21 12:20**: docs: update traffic signals catalog documentation
 - **2015-05-22 10:05**: docs: update README with setup instructions and feature list
 - **2015-05-22 11:22**: feat: add category A and B traffic test questions
 - **2015-05-22 16:44**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-07-03 13:31**: feat: add category-specific practice modes
 - **2015-07-03 18:01**: docs: update README with setup instructions and feature list
 - **2015-07-04 15:31**: test: verify question extraction script against exam PDF
+- **2015-07-04 19:31**: docs: improve code comments and API documentation
