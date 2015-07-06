@@ -1,4 +1,3 @@
-- **2015-05-22 16:44**: docs: update README with setup instructions and feature list
 - **2015-05-23 15:13**: docs: add instructions for Nepali driving license written exam
 - **2015-05-24 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-25 20:54**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-07-04 19:31**: docs: improve code comments and API documentation
 - **2015-07-04 22:22**: feat: add search and filter by sign category
 - **2015-07-05 18:21**: feat: add regulatory traffic signs SVG graphics
+- **2015-07-06 10:30**: docs: update traffic signals catalog documentation
