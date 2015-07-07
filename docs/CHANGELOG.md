@@ -1,4 +1,3 @@
-- **2015-05-24 17:51**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-25 20:54**: feat: add regulatory traffic signs SVG graphics
 - **2015-05-26 14:26**: feat: add result summary with passing threshold analysis
 - **2015-05-26 18:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-07-05 18:21**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-06 10:30**: docs: update traffic signals catalog documentation
 - **2015-07-06 21:17**: docs: add instructions for Nepali driving license written exam
+- **2015-07-07 10:04**: style: improve dark/light mode and mobile UI responsiveness
