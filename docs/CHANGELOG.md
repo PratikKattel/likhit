@@ -1,4 +1,3 @@
-- **2015-05-28 16:11**: chore: organize assets and image directory structure
 - **2015-05-29 18:43**: docs: improve code comments and API documentation
 - **2015-05-29 20:26**: feat: add category-specific practice modes
 - **2015-05-30 09:58**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-07-10 09:59**: refactor: optimize SVG rendering for road signs
 - **2015-07-11 17:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-11 20:10**: docs: add instructions for Nepali driving license written exam
+- **2015-07-12 15:30**: feat: add warning signs and informational road signs
