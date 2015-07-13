@@ -1,4 +1,3 @@
-- **2015-05-29 20:26**: feat: add category-specific practice modes
 - **2015-05-30 09:58**: feat: support multiple choice questions for motorcycle category
 - **2015-05-30 22:18**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-31 10:44**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2015-07-11 20:10**: docs: add instructions for Nepali driving license written exam
 - **2015-07-12 15:30**: feat: add warning signs and informational road signs
 - **2015-07-13 09:02**: feat: add search and filter by sign category
+- **2015-07-13 18:26**: feat: implement timer and score calculation for mock test
