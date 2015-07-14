@@ -1,4 +1,3 @@
-- **2015-05-30 22:18**: style: enhance traffic sign card layout and responsiveness
 - **2015-05-31 10:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-05-31 15:48**: refactor: optimize SVG rendering for road signs
 - **2015-06-01 13:20**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-07-13 09:02**: feat: add search and filter by sign category
 - **2015-07-13 18:26**: feat: implement timer and score calculation for mock test
 - **2015-07-14 11:27**: feat: add instant feedback and explanation on answer selection
+- **2015-07-14 12:07**: feat: add instant feedback and explanation on answer selection
