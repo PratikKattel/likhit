@@ -1,4 +1,3 @@
-- **2015-05-31 15:48**: refactor: optimize SVG rendering for road signs
 - **2015-06-01 13:20**: perf: index question IDs for rapid lookup
 - **2015-06-01 18:16**: docs: improve code comments and API documentation
 - **2015-06-02 13:51**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-07-14 11:27**: feat: add instant feedback and explanation on answer selection
 - **2015-07-14 12:07**: feat: add instant feedback and explanation on answer selection
 - **2015-07-14 13:13**: feat: add result summary with passing threshold analysis
+- **2015-07-15 10:49**: test: verify question extraction script against exam PDF
