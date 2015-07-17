@@ -1,4 +1,3 @@
-- **2015-06-04 14:39**: refactor: restructure question data schema for faster loading
 - **2015-06-05 18:03**: perf: optimize image caching for traffic sign assets
 - **2015-06-05 21:02**: feat: add keyboard navigation shortcuts for question selection
 - **2015-06-06 19:51**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-07-16 10:11**: perf: lazy load signal graphics and question assets
 - **2015-07-16 18:16**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-17 14:26**: chore: update project metadata and build configuration
+- **2015-07-17 18:36**: fix: update DOTM Nepal license syllabus questions
