@@ -1,4 +1,3 @@
-- **2015-06-06 19:51**: perf: optimize image caching for traffic sign assets
 - **2015-06-07 10:58**: fix: adjust passing score threshold according to new rules
 - **2015-06-07 17:04**: feat: add category A and B traffic test questions
 - **2015-06-08 11:10**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-07-17 18:36**: fix: update DOTM Nepal license syllabus questions
 - **2015-07-18 16:00**: feat: add search and filter by sign category
 - **2015-07-18 19:07**: perf: optimize image caching for traffic sign assets
+- **2015-07-19 18:35**: style: improve dark/light mode and mobile UI responsiveness
