@@ -1,4 +1,3 @@
-- **2015-06-07 17:04**: feat: add category A and B traffic test questions
 - **2015-06-08 11:10**: refactor: optimize SVG rendering for road signs
 - **2015-06-08 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2015-06-09 17:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-07-18 19:07**: perf: optimize image caching for traffic sign assets
 - **2015-07-19 18:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-07-20 15:04**: refactor: modularize traffic app logic and event listeners
+- **2015-07-21 09:48**: fix: correct color specifications for mandatory traffic signs
