@@ -1,4 +1,3 @@
-- **2015-06-08 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2015-06-09 17:21**: feat: implement timer and score calculation for mock test
 - **2015-06-10 09:55**: test: verify question extraction script against exam PDF
 - **2015-06-10 14:21**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2015-07-20 15:04**: refactor: modularize traffic app logic and event listeners
 - **2015-07-21 09:48**: fix: correct color specifications for mandatory traffic signs
 - **2015-07-22 13:14**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2015-07-23 22:29**: feat: support multiple choice questions for motorcycle category
