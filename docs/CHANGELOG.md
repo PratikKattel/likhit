@@ -1,4 +1,3 @@
-- **2015-06-10 09:55**: test: verify question extraction script against exam PDF
 - **2015-06-10 14:21**: style: enhance traffic sign card layout and responsiveness
 - **2015-06-10 16:01**: docs: improve code comments and API documentation
 - **2015-06-10 22:08**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2015-07-22 13:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-07-23 22:29**: feat: support multiple choice questions for motorcycle category
 - **2015-07-24 16:18**: refactor: optimize SVG rendering for road signs
+- **2015-07-25 11:06**: fix: adjust passing score threshold according to new rules
