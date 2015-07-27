@@ -1,4 +1,3 @@
-- **2015-06-10 22:08**: feat: add warning signs and informational road signs
 - **2015-06-11 11:23**: style: polish typography and Nepali Unicode font rendering
 - **2015-06-11 13:25**: refactor: restructure question data schema for faster loading
 - **2015-06-12 12:25**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2015-07-25 11:06**: fix: adjust passing score threshold according to new rules
 - **2015-07-26 20:11**: fix: prevent option re-selection after submitting answer
 - **2015-07-27 15:37**: feat: add search and filter by sign category
+- **2015-07-27 17:28**: refactor: modularize traffic app logic and event listeners
