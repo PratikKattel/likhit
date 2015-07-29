@@ -1,4 +1,3 @@
-- **2015-06-11 13:25**: refactor: restructure question data schema for faster loading
 - **2015-06-12 12:25**: fix: prevent option re-selection after submitting answer
 - **2015-06-13 21:19**: feat: add search and filter by sign category
 - **2015-06-14 16:08**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-07-27 15:37**: feat: add search and filter by sign category
 - **2015-07-27 17:28**: refactor: modularize traffic app logic and event listeners
 - **2015-07-28 21:37**: perf: index question IDs for rapid lookup
+- **2015-07-29 22:15**: feat: add search and filter by sign category
