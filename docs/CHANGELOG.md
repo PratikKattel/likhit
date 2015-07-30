@@ -1,4 +1,3 @@
-- **2015-06-13 21:19**: feat: add search and filter by sign category
 - **2015-06-14 16:08**: chore: format code style and clean up redundant variables
 - **2015-06-15 20:38**: chore: update questions database with recent DOTM updates
 - **2015-06-16 10:42**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2015-07-28 21:37**: perf: index question IDs for rapid lookup
 - **2015-07-29 22:15**: feat: add search and filter by sign category
 - **2015-07-30 13:27**: refactor: optimize SVG rendering for road signs
+- **2015-07-30 13:43**: fix: typo in Nepali road safety regulations question
