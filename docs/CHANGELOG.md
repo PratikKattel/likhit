@@ -1,4 +1,3 @@
-- **2015-06-12 12:25**: fix: prevent option re-selection after submitting answer
 - **2015-06-13 21:19**: feat: add search and filter by sign category
 - **2015-06-14 16:08**: chore: format code style and clean up redundant variables
 - **2015-06-15 20:38**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2015-07-27 17:28**: refactor: modularize traffic app logic and event listeners
 - **2015-07-28 21:37**: perf: index question IDs for rapid lookup
 - **2015-07-29 22:15**: feat: add search and filter by sign category
+- **2015-07-30 13:27**: refactor: optimize SVG rendering for road signs
