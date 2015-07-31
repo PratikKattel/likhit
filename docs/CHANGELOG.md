@@ -1,4 +1,3 @@
-- **2015-06-16 14:28**: fix: adjust passing score threshold according to new rules
 - **2015-06-17 14:50**: feat: implement timer and score calculation for mock test
 - **2015-06-18 11:27**: feat: add category A and B traffic test questions
 - **2015-06-18 12:23**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-07-30 17:20**: chore: organize assets and image directory structure
 - **2015-07-30 18:35**: docs: update README with setup instructions and feature list
 - **2015-07-31 12:31**: docs: improve code comments and API documentation
+- **2015-07-31 14:37**: feat: support multiple choice questions for motorcycle category
