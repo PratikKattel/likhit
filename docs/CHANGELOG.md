@@ -1,4 +1,3 @@
-- **2015-06-18 14:37**: chore: format code style and clean up redundant variables
 - **2015-06-18 15:36**: feat: add category-specific practice modes
 - **2015-06-19 18:52**: chore: format code style and clean up redundant variables
 - **2015-06-19 20:27**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-07-31 22:07**: feat: add result summary with passing threshold analysis
 - **2015-08-01 11:03**: feat: implement timer and score calculation for mock test
 - **2015-08-02 20:15**: docs: update traffic signals catalog documentation
+- **2015-08-03 09:56**: test: verify question extraction script against exam PDF
