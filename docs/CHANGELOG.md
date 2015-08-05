@@ -1,4 +1,3 @@
-- **2015-06-19 20:27**: feat: add result summary with passing threshold analysis
 - **2015-06-20 10:14**: fix: prevent option re-selection after submitting answer
 - **2015-06-20 12:02**: feat: add keyboard navigation shortcuts for question selection
 - **2015-06-20 19:55**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2015-08-03 09:56**: test: verify question extraction script against exam PDF
 - **2015-08-04 22:10**: fix: resolve layout shift during question transitions
 - **2015-08-05 14:10**: perf: index question IDs for rapid lookup
+- **2015-08-05 17:14**: feat: implement timer and score calculation for mock test
