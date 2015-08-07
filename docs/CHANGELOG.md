@@ -1,4 +1,3 @@
-- **2015-06-21 21:01**: fix: adjust passing score threshold according to new rules
 - **2015-06-22 17:39**: fix: typo in Nepali road safety regulations question
 - **2015-06-23 14:30**: chore: organize assets and image directory structure
 - **2015-06-24 11:11**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-08-05 20:10**: feat: add search and filter by sign category
 - **2015-08-06 22:02**: feat: add category A and B traffic test questions
 - **2015-08-07 09:14**: chore: update questions database with recent DOTM updates
+- **2015-08-07 09:25**: style: improve dark/light mode and mobile UI responsiveness
