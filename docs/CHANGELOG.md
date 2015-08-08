@@ -1,4 +1,3 @@
-- **2015-06-23 14:30**: chore: organize assets and image directory structure
 - **2015-06-24 11:11**: fix: typo in Nepali road safety regulations question
 - **2015-06-24 22:17**: feat: add regulatory traffic signs SVG graphics
 - **2015-06-25 12:50**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2015-08-07 09:14**: chore: update questions database with recent DOTM updates
 - **2015-08-07 09:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-08-08 13:21**: feat: implement timer and score calculation for mock test
+- **2015-08-08 19:08**: refactor: optimize SVG rendering for road signs
