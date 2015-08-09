@@ -1,4 +1,3 @@
-- **2015-06-24 22:17**: feat: add regulatory traffic signs SVG graphics
 - **2015-06-25 12:50**: feat: add warning signs and informational road signs
 - **2015-06-25 15:15**: docs: update traffic signals catalog documentation
 - **2015-06-26 18:04**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-08-08 13:21**: feat: implement timer and score calculation for mock test
 - **2015-08-08 19:08**: refactor: optimize SVG rendering for road signs
 - **2015-08-09 12:55**: refactor: modularize traffic app logic and event listeners
+- **2015-08-09 17:45**: feat: add category-specific practice modes
