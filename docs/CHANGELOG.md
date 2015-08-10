@@ -1,4 +1,3 @@
-- **2015-06-27 09:34**: chore: update questions database with recent DOTM updates
 - **2015-06-28 10:08**: feat: support multiple choice questions for motorcycle category
 - **2015-06-29 14:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-06-29 15:23**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2015-08-09 20:10**: perf: optimize image caching for traffic sign assets
 - **2015-08-09 20:32**: feat: add warning signs and informational road signs
 - **2015-08-10 10:15**: style: enhance traffic sign card layout and responsiveness
+- **2015-08-10 20:51**: fix: typo in Nepali road safety regulations question
