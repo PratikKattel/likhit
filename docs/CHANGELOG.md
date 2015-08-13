@@ -1,4 +1,3 @@
-- **2015-06-29 18:15**: feat: add category A and B traffic test questions
 - **2015-06-30 15:28**: chore: update project metadata and build configuration
 - **2015-06-30 19:15**: chore: update project metadata and build configuration
 - **2015-07-01 16:18**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-08-11 13:30**: fix: resolve layout shift during question transitions
 - **2015-08-11 14:45**: feat: add search and filter by sign category
 - **2015-08-12 09:26**: perf: index question IDs for rapid lookup
+- **2015-08-13 20:26**: perf: optimize image caching for traffic sign assets
