@@ -1,4 +1,3 @@
-- **2015-06-30 19:15**: chore: update project metadata and build configuration
 - **2015-07-01 16:18**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-01 18:42**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-01 20:33**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-08-12 09:26**: perf: index question IDs for rapid lookup
 - **2015-08-13 20:26**: perf: optimize image caching for traffic sign assets
 - **2015-08-14 09:03**: docs: add instructions for Nepali driving license written exam
+- **2015-08-14 11:51**: style: polish typography and Nepali Unicode font rendering
