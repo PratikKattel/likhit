@@ -1,4 +1,3 @@
-- **2015-07-01 18:42**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-01 20:33**: fix: correct color specifications for mandatory traffic signs
 - **2015-07-02 18:41**: fix: prevent option re-selection after submitting answer
 - **2015-07-02 19:14**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-08-14 09:03**: docs: add instructions for Nepali driving license written exam
 - **2015-08-14 11:51**: style: polish typography and Nepali Unicode font rendering
 - **2015-08-15 14:31**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-08-16 14:30**: perf: index question IDs for rapid lookup
