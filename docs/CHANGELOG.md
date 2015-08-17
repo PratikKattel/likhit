@@ -1,4 +1,3 @@
-- **2015-07-02 19:14**: docs: improve code comments and API documentation
 - **2015-07-02 21:28**: perf: index question IDs for rapid lookup
 - **2015-07-03 13:31**: feat: add category-specific practice modes
 - **2015-07-03 18:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-08-16 14:30**: perf: index question IDs for rapid lookup
 - **2015-08-16 15:02**: feat: add result summary with passing threshold analysis
 - **2015-08-17 10:35**: chore: update questions database with recent DOTM updates
+- **2015-08-17 14:05**: feat: add regulatory traffic signs SVG graphics
