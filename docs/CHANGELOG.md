@@ -1,4 +1,3 @@
-- **2015-07-03 13:31**: feat: add category-specific practice modes
 - **2015-07-03 18:01**: docs: update README with setup instructions and feature list
 - **2015-07-04 15:31**: test: verify question extraction script against exam PDF
 - **2015-07-04 19:31**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-08-17 10:35**: chore: update questions database with recent DOTM updates
 - **2015-08-17 14:05**: feat: add regulatory traffic signs SVG graphics
 - **2015-08-17 14:50**: fix: typo in Nepali road safety regulations question
+- **2015-08-18 11:06**: fix: typo in Nepali road safety regulations question
