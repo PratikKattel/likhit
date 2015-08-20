@@ -1,4 +1,3 @@
-- **2015-07-04 19:31**: docs: improve code comments and API documentation
 - **2015-07-04 22:22**: feat: add search and filter by sign category
 - **2015-07-05 18:21**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-06 10:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-08-18 11:06**: fix: typo in Nepali road safety regulations question
 - **2015-08-18 19:57**: style: polish typography and Nepali Unicode font rendering
 - **2015-08-19 13:51**: docs: improve code comments and API documentation
+- **2015-08-20 16:44**: fix: resolve layout shift during question transitions
