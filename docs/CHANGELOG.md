@@ -1,4 +1,3 @@
-- **2015-07-07 10:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-07-08 09:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-07-08 10:39**: refactor: modularize traffic app logic and event listeners
 - **2015-07-09 15:01**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-08-22 20:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-08-23 10:40**: feat: add result summary with passing threshold analysis
 - **2015-08-24 15:03**: feat: add warning signs and informational road signs
+- **2015-08-25 15:58**: feat: support multiple choice questions for motorcycle category
