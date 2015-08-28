@@ -1,4 +1,3 @@
-- **2015-07-09 15:01**: test: verify question extraction script against exam PDF
 - **2015-07-10 09:59**: refactor: optimize SVG rendering for road signs
 - **2015-07-11 17:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-11 20:10**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-08-25 15:58**: feat: support multiple choice questions for motorcycle category
 - **2015-08-26 10:46**: feat: add regulatory traffic signs SVG graphics
 - **2015-08-27 19:25**: feat: add keyboard navigation shortcuts for question selection
+- **2015-08-28 10:11**: feat: support multiple choice questions for motorcycle category
