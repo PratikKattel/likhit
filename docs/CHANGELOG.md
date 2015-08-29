@@ -1,4 +1,3 @@
-- **2015-07-11 17:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-07-11 20:10**: docs: add instructions for Nepali driving license written exam
 - **2015-07-12 15:30**: feat: add warning signs and informational road signs
 - **2015-07-13 09:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-08-27 19:25**: feat: add keyboard navigation shortcuts for question selection
 - **2015-08-28 10:11**: feat: support multiple choice questions for motorcycle category
 - **2015-08-28 20:40**: fix: update DOTM Nepal license syllabus questions
+- **2015-08-29 18:41**: refactor: modularize traffic app logic and event listeners
