@@ -1,4 +1,3 @@
-- **2015-07-12 15:30**: feat: add warning signs and informational road signs
 - **2015-07-13 09:02**: feat: add search and filter by sign category
 - **2015-07-13 18:26**: feat: implement timer and score calculation for mock test
 - **2015-07-14 11:27**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-08-28 20:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-08-29 18:41**: refactor: modularize traffic app logic and event listeners
 - **2015-08-29 21:44**: docs: update README with setup instructions and feature list
+- **2015-08-30 10:06**: feat: add category-specific practice modes
