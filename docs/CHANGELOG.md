@@ -1,4 +1,3 @@
-- **2015-07-14 11:27**: feat: add instant feedback and explanation on answer selection
 - **2015-07-14 12:07**: feat: add instant feedback and explanation on answer selection
 - **2015-07-14 13:13**: feat: add result summary with passing threshold analysis
 - **2015-07-15 10:49**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-08-30 10:06**: feat: add category-specific practice modes
 - **2015-08-30 21:03**: feat: add category A and B traffic test questions
 - **2015-08-31 12:53**: chore: format code style and clean up redundant variables
+- **2015-08-31 16:09**: refactor: optimize SVG rendering for road signs
