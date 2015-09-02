@@ -1,4 +1,3 @@
-- **2015-07-15 14:34**: feat: implement timer and score calculation for mock test
 - **2015-07-15 17:42**: feat: add result summary with passing threshold analysis
 - **2015-07-16 10:11**: perf: lazy load signal graphics and question assets
 - **2015-07-16 18:16**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-08-31 17:21**: feat: implement timer and score calculation for mock test
 - **2015-09-01 15:49**: docs: update traffic signals catalog documentation
 - **2015-09-01 16:44**: chore: format code style and clean up redundant variables
+- **2015-09-02 17:41**: feat: add warning signs and informational road signs
