@@ -1,4 +1,3 @@
-- **2015-07-16 18:16**: feat: add regulatory traffic signs SVG graphics
 - **2015-07-17 14:26**: chore: update project metadata and build configuration
 - **2015-07-17 18:36**: fix: update DOTM Nepal license syllabus questions
 - **2015-07-18 16:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-09-02 17:41**: feat: add warning signs and informational road signs
 - **2015-09-03 12:09**: test: verify question extraction script against exam PDF
 - **2015-09-04 22:00**: chore: update project metadata and build configuration
+- **2015-09-05 17:48**: feat: add instant feedback and explanation on answer selection
