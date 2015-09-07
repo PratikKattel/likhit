@@ -1,4 +1,3 @@
-- **2015-07-17 18:36**: fix: update DOTM Nepal license syllabus questions
 - **2015-07-18 16:00**: feat: add search and filter by sign category
 - **2015-07-18 19:07**: perf: optimize image caching for traffic sign assets
 - **2015-07-19 18:35**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-09-04 22:00**: chore: update project metadata and build configuration
 - **2015-09-05 17:48**: feat: add instant feedback and explanation on answer selection
 - **2015-09-06 19:24**: fix: prevent option re-selection after submitting answer
+- **2015-09-07 14:17**: refactor: clean up unused CSS classes and optimize stylesheet
