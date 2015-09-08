@@ -1,4 +1,3 @@
-- **2015-07-18 19:07**: perf: optimize image caching for traffic sign assets
 - **2015-07-19 18:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-07-20 15:04**: refactor: modularize traffic app logic and event listeners
 - **2015-07-21 09:48**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-09-06 19:24**: fix: prevent option re-selection after submitting answer
 - **2015-09-07 14:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-09-08 09:53**: feat: add keyboard navigation shortcuts for question selection
+- **2015-09-08 19:53**: feat: add category-specific practice modes
