@@ -1,4 +1,3 @@
-- **2015-07-21 09:48**: fix: correct color specifications for mandatory traffic signs
 - **2015-07-22 13:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-07-23 22:29**: feat: support multiple choice questions for motorcycle category
 - **2015-07-24 16:18**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-09-08 19:53**: feat: add category-specific practice modes
 - **2015-09-09 14:13**: feat: support multiple choice questions for motorcycle category
 - **2015-09-09 20:24**: perf: index question IDs for rapid lookup
+- **2015-09-10 21:31**: perf: lazy load signal graphics and question assets
