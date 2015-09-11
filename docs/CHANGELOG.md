@@ -1,4 +1,3 @@
-- **2015-07-22 13:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-07-23 22:29**: feat: support multiple choice questions for motorcycle category
 - **2015-07-24 16:18**: refactor: optimize SVG rendering for road signs
 - **2015-07-25 11:06**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-09-09 14:13**: feat: support multiple choice questions for motorcycle category
 - **2015-09-09 20:24**: perf: index question IDs for rapid lookup
 - **2015-09-10 21:31**: perf: lazy load signal graphics and question assets
+- **2015-09-11 11:02**: docs: update traffic signals catalog documentation
