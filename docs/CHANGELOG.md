@@ -1,4 +1,3 @@
-- **2015-07-25 11:06**: fix: adjust passing score threshold according to new rules
 - **2015-07-26 20:11**: fix: prevent option re-selection after submitting answer
 - **2015-07-27 15:37**: feat: add search and filter by sign category
 - **2015-07-27 17:28**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-09-11 11:02**: docs: update traffic signals catalog documentation
 - **2015-09-12 17:41**: style: enhance traffic sign card layout and responsiveness
 - **2015-09-13 12:32**: test: verify question extraction script against exam PDF
+- **2015-09-13 14:40**: feat: add result summary with passing threshold analysis
