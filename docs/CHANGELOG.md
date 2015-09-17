@@ -1,4 +1,3 @@
-- **2015-07-30 13:27**: refactor: optimize SVG rendering for road signs
 - **2015-07-30 13:43**: fix: typo in Nepali road safety regulations question
 - **2015-07-30 17:20**: chore: organize assets and image directory structure
 - **2015-07-30 18:35**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-09-15 12:53**: style: enhance traffic sign card layout and responsiveness
 - **2015-09-16 09:49**: refactor: restructure question data schema for faster loading
 - **2015-09-16 21:43**: fix: correct color specifications for mandatory traffic signs
+- **2015-09-17 11:16**: fix: resolve layout shift during question transitions
