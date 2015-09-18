@@ -1,4 +1,3 @@
-- **2015-07-31 12:31**: docs: improve code comments and API documentation
 - **2015-07-31 14:37**: feat: support multiple choice questions for motorcycle category
 - **2015-07-31 22:07**: feat: add result summary with passing threshold analysis
 - **2015-08-01 11:03**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-09-17 16:50**: refactor: restructure question data schema for faster loading
 - **2015-09-18 12:17**: docs: improve code comments and API documentation
 - **2015-09-18 12:18**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2015-09-18 19:51**: feat: support multiple choice questions for motorcycle category
