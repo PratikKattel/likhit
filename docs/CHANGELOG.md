@@ -1,4 +1,3 @@
-- **2015-07-31 22:07**: feat: add result summary with passing threshold analysis
 - **2015-08-01 11:03**: feat: implement timer and score calculation for mock test
 - **2015-08-02 20:15**: docs: update traffic signals catalog documentation
 - **2015-08-03 09:56**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-09-18 12:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-09-18 19:51**: feat: support multiple choice questions for motorcycle category
 - **2015-09-19 11:41**: fix: adjust passing score threshold according to new rules
+- **2015-09-19 18:47**: perf: index question IDs for rapid lookup
