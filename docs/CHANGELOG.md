@@ -1,4 +1,3 @@
-- **2015-08-02 20:15**: docs: update traffic signals catalog documentation
 - **2015-08-03 09:56**: test: verify question extraction script against exam PDF
 - **2015-08-04 22:10**: fix: resolve layout shift during question transitions
 - **2015-08-05 14:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-09-19 11:41**: fix: adjust passing score threshold according to new rules
 - **2015-09-19 18:47**: perf: index question IDs for rapid lookup
 - **2015-09-20 12:16**: test: verify question extraction script against exam PDF
+- **2015-09-21 13:00**: feat: add regulatory traffic signs SVG graphics
