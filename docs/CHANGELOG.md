@@ -1,4 +1,3 @@
-- **2015-08-04 22:10**: fix: resolve layout shift during question transitions
 - **2015-08-05 14:10**: perf: index question IDs for rapid lookup
 - **2015-08-05 17:14**: feat: implement timer and score calculation for mock test
 - **2015-08-05 20:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-09-20 12:16**: test: verify question extraction script against exam PDF
 - **2015-09-21 13:00**: feat: add regulatory traffic signs SVG graphics
 - **2015-09-22 10:21**: perf: index question IDs for rapid lookup
+- **2015-09-22 13:20**: fix: typo in Nepali road safety regulations question
