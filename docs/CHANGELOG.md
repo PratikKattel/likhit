@@ -1,4 +1,3 @@
-- **2015-08-05 17:14**: feat: implement timer and score calculation for mock test
 - **2015-08-05 20:10**: feat: add search and filter by sign category
 - **2015-08-06 22:02**: feat: add category A and B traffic test questions
 - **2015-08-07 09:14**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2015-09-22 10:21**: perf: index question IDs for rapid lookup
 - **2015-09-22 13:20**: fix: typo in Nepali road safety regulations question
 - **2015-09-22 14:35**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-09-23 21:10**: style: improve dark/light mode and mobile UI responsiveness
