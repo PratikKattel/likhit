@@ -1,4 +1,3 @@
-- **2015-08-06 22:02**: feat: add category A and B traffic test questions
 - **2015-08-07 09:14**: chore: update questions database with recent DOTM updates
 - **2015-08-07 09:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-08-08 13:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-09-22 14:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 21:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 22:20**: chore: format code style and clean up redundant variables
+- **2015-09-24 10:23**: fix: correct color specifications for mandatory traffic signs
