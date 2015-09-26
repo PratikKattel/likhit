@@ -1,4 +1,3 @@
-- **2015-08-09 17:45**: feat: add category-specific practice modes
 - **2015-08-09 20:10**: perf: optimize image caching for traffic sign assets
 - **2015-08-09 20:32**: feat: add warning signs and informational road signs
 - **2015-08-10 10:15**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2015-09-25 12:09**: refactor: restructure question data schema for faster loading
 - **2015-09-26 09:31**: feat: add category-specific practice modes
 - **2015-09-26 13:50**: feat: add keyboard navigation shortcuts for question selection
+- **2015-09-26 19:29**: refactor: optimize SVG rendering for road signs
