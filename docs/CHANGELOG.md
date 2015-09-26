@@ -1,4 +1,3 @@
-- **2015-08-08 19:08**: refactor: optimize SVG rendering for road signs
 - **2015-08-09 12:55**: refactor: modularize traffic app logic and event listeners
 - **2015-08-09 17:45**: feat: add category-specific practice modes
 - **2015-08-09 20:10**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-09-24 19:42**: feat: support multiple choice questions for motorcycle category
 - **2015-09-25 09:05**: fix: update DOTM Nepal license syllabus questions
 - **2015-09-25 12:09**: refactor: restructure question data schema for faster loading
+- **2015-09-26 09:31**: feat: add category-specific practice modes
