@@ -1,4 +1,3 @@
-- **2015-08-09 20:32**: feat: add warning signs and informational road signs
 - **2015-08-10 10:15**: style: enhance traffic sign card layout and responsiveness
 - **2015-08-10 20:51**: fix: typo in Nepali road safety regulations question
 - **2015-08-11 13:30**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-09-26 13:50**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-26 19:29**: refactor: optimize SVG rendering for road signs
 - **2015-09-27 09:42**: docs: update traffic signals catalog documentation
+- **2015-09-27 12:53**: feat: implement timer and score calculation for mock test
