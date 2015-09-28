@@ -1,4 +1,3 @@
-- **2015-08-11 13:30**: fix: resolve layout shift during question transitions
 - **2015-08-11 14:45**: feat: add search and filter by sign category
 - **2015-08-12 09:26**: perf: index question IDs for rapid lookup
 - **2015-08-13 20:26**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-09-27 12:53**: feat: implement timer and score calculation for mock test
 - **2015-09-27 13:29**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-27 15:11**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2015-09-28 22:11**: feat: add result summary with passing threshold analysis
