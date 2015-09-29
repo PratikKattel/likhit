@@ -1,4 +1,3 @@
-- **2015-08-12 09:26**: perf: index question IDs for rapid lookup
 - **2015-08-13 20:26**: perf: optimize image caching for traffic sign assets
 - **2015-08-14 09:03**: docs: add instructions for Nepali driving license written exam
 - **2015-08-14 11:51**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2015-09-27 15:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-09-28 22:11**: feat: add result summary with passing threshold analysis
 - **2015-09-29 09:44**: docs: update README with setup instructions and feature list
+- **2015-09-29 11:44**: fix: typo in Nepali road safety regulations question
