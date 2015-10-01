@@ -1,4 +1,3 @@
-- **2015-08-14 11:51**: style: polish typography and Nepali Unicode font rendering
 - **2015-08-15 14:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-08-16 14:30**: perf: index question IDs for rapid lookup
 - **2015-08-16 15:02**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-09-29 11:44**: fix: typo in Nepali road safety regulations question
 - **2015-09-30 13:51**: fix: prevent option re-selection after submitting answer
 - **2015-09-30 22:05**: perf: lazy load signal graphics and question assets
+- **2015-10-01 11:52**: fix: adjust passing score threshold according to new rules
