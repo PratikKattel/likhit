@@ -1,4 +1,3 @@
-- **2015-08-16 14:30**: perf: index question IDs for rapid lookup
 - **2015-08-16 15:02**: feat: add result summary with passing threshold analysis
 - **2015-08-17 10:35**: chore: update questions database with recent DOTM updates
 - **2015-08-17 14:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-09-30 22:05**: perf: lazy load signal graphics and question assets
 - **2015-10-01 11:52**: fix: adjust passing score threshold according to new rules
 - **2015-10-01 13:25**: docs: add instructions for Nepali driving license written exam
+- **2015-10-01 20:41**: test: verify question extraction script against exam PDF
