@@ -1,4 +1,3 @@
-- **2015-08-17 10:35**: chore: update questions database with recent DOTM updates
 - **2015-08-17 14:05**: feat: add regulatory traffic signs SVG graphics
 - **2015-08-17 14:50**: fix: typo in Nepali road safety regulations question
 - **2015-08-18 11:06**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-10-01 13:25**: docs: add instructions for Nepali driving license written exam
 - **2015-10-01 20:41**: test: verify question extraction script against exam PDF
 - **2015-10-01 21:36**: style: polish typography and Nepali Unicode font rendering
+- **2015-10-02 11:52**: feat: add category A and B traffic test questions
