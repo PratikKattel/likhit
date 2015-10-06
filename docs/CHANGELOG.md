@@ -1,4 +1,3 @@
-- **2015-08-21 13:03**: fix: resolve layout shift during question transitions
 - **2015-08-22 10:28**: docs: update README with setup instructions and feature list
 - **2015-08-22 20:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-08-23 10:40**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-10-04 14:03**: feat: add result summary with passing threshold analysis
 - **2015-10-05 14:28**: fix: typo in Nepali road safety regulations question
 - **2015-10-06 12:01**: fix: update DOTM Nepal license syllabus questions
+- **2015-10-06 18:40**: feat: add search and filter by sign category
