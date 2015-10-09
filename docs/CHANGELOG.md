@@ -1,4 +1,3 @@
-- **2015-08-23 10:40**: feat: add result summary with passing threshold analysis
 - **2015-08-24 15:03**: feat: add warning signs and informational road signs
 - **2015-08-25 15:58**: feat: support multiple choice questions for motorcycle category
 - **2015-08-26 10:46**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-10-06 18:40**: feat: add search and filter by sign category
 - **2015-10-07 11:48**: feat: add instant feedback and explanation on answer selection
 - **2015-10-08 13:03**: refactor: restructure question data schema for faster loading
+- **2015-10-09 10:16**: feat: add regulatory traffic signs SVG graphics
