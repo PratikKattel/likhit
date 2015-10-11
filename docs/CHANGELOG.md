@@ -1,4 +1,3 @@
-- **2015-08-28 20:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-08-29 18:41**: refactor: modularize traffic app logic and event listeners
 - **2015-08-29 21:44**: docs: update README with setup instructions and feature list
 - **2015-08-30 10:06**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-10-10 15:12**: chore: format code style and clean up redundant variables
 - **2015-10-11 11:34**: feat: support multiple choice questions for motorcycle category
 - **2015-10-11 12:17**: refactor: modularize traffic app logic and event listeners
+- **2015-10-11 21:39**: fix: correct color specifications for mandatory traffic signs
