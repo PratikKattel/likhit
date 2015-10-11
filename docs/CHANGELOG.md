@@ -1,4 +1,3 @@
-- **2015-08-27 19:25**: feat: add keyboard navigation shortcuts for question selection
 - **2015-08-28 10:11**: feat: support multiple choice questions for motorcycle category
 - **2015-08-28 20:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-08-29 18:41**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2015-10-09 22:06**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-10-10 09:58**: feat: support multiple choice questions for motorcycle category
 - **2015-10-10 15:12**: chore: format code style and clean up redundant variables
+- **2015-10-11 11:34**: feat: support multiple choice questions for motorcycle category
