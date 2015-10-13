@@ -1,4 +1,3 @@
-- **2015-08-30 10:06**: feat: add category-specific practice modes
 - **2015-08-30 21:03**: feat: add category A and B traffic test questions
 - **2015-08-31 12:53**: chore: format code style and clean up redundant variables
 - **2015-08-31 16:09**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-10-11 21:39**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-12 12:54**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-13 10:14**: fix: adjust passing score threshold according to new rules
+- **2015-10-13 20:28**: fix: resolve layout shift during question transitions
