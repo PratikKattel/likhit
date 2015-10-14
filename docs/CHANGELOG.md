@@ -1,4 +1,3 @@
-- **2015-08-31 12:53**: chore: format code style and clean up redundant variables
 - **2015-08-31 16:09**: refactor: optimize SVG rendering for road signs
 - **2015-08-31 17:21**: feat: implement timer and score calculation for mock test
 - **2015-09-01 15:49**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-10-13 10:14**: fix: adjust passing score threshold according to new rules
 - **2015-10-13 20:28**: fix: resolve layout shift during question transitions
 - **2015-10-14 14:30**: feat: add category A and B traffic test questions
+- **2015-10-14 16:53**: fix: prevent option re-selection after submitting answer
