@@ -1,4 +1,3 @@
-- **2015-09-02 17:41**: feat: add warning signs and informational road signs
 - **2015-09-03 12:09**: test: verify question extraction script against exam PDF
 - **2015-09-04 22:00**: chore: update project metadata and build configuration
 - **2015-09-05 17:48**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2015-10-15 14:43**: chore: format code style and clean up redundant variables
 - **2015-10-16 20:36**: fix: prevent option re-selection after submitting answer
 - **2015-10-17 12:00**: style: polish typography and Nepali Unicode font rendering
+- **2015-10-18 13:54**: style: improve dark/light mode and mobile UI responsiveness
