@@ -1,4 +1,3 @@
-- **2015-09-08 09:53**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-08 19:53**: feat: add category-specific practice modes
 - **2015-09-09 14:13**: feat: support multiple choice questions for motorcycle category
 - **2015-09-09 20:24**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-10-19 18:52**: feat: add search and filter by sign category
 - **2015-10-20 15:26**: docs: update README with setup instructions and feature list
 - **2015-10-20 19:12**: docs: improve code comments and API documentation
+- **2015-10-21 13:48**: fix: update DOTM Nepal license syllabus questions
