@@ -1,4 +1,3 @@
-- **2015-09-09 14:13**: feat: support multiple choice questions for motorcycle category
 - **2015-09-09 20:24**: perf: index question IDs for rapid lookup
 - **2015-09-10 21:31**: perf: lazy load signal graphics and question assets
 - **2015-09-11 11:02**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-10-20 19:12**: docs: improve code comments and API documentation
 - **2015-10-21 13:48**: fix: update DOTM Nepal license syllabus questions
 - **2015-10-21 16:24**: style: polish typography and Nepali Unicode font rendering
+- **2015-10-22 12:00**: chore: format code style and clean up redundant variables
