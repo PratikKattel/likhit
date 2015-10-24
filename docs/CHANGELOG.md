@@ -1,4 +1,3 @@
-- **2015-09-10 21:31**: perf: lazy load signal graphics and question assets
 - **2015-09-11 11:02**: docs: update traffic signals catalog documentation
 - **2015-09-12 17:41**: style: enhance traffic sign card layout and responsiveness
 - **2015-09-13 12:32**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-10-21 16:24**: style: polish typography and Nepali Unicode font rendering
 - **2015-10-22 12:00**: chore: format code style and clean up redundant variables
 - **2015-10-23 22:27**: refactor: restructure question data schema for faster loading
+- **2015-10-24 14:54**: feat: add search and filter by sign category
