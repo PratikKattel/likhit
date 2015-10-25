@@ -1,4 +1,3 @@
-- **2015-09-13 12:32**: test: verify question extraction script against exam PDF
 - **2015-09-13 14:40**: feat: add result summary with passing threshold analysis
 - **2015-09-14 10:04**: test: verify question extraction script against exam PDF
 - **2015-09-14 20:59**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-10-24 14:54**: feat: add search and filter by sign category
 - **2015-10-25 09:20**: perf: optimize image caching for traffic sign assets
 - **2015-10-25 14:35**: feat: add category-specific practice modes
+- **2015-10-25 22:00**: fix: prevent option re-selection after submitting answer
