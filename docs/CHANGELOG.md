@@ -1,4 +1,3 @@
-- **2015-09-16 09:49**: refactor: restructure question data schema for faster loading
 - **2015-09-16 21:43**: fix: correct color specifications for mandatory traffic signs
 - **2015-09-17 11:16**: fix: resolve layout shift during question transitions
 - **2015-09-17 16:50**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-10-27 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-10-28 12:20**: perf: optimize image caching for traffic sign assets
 - **2015-10-29 14:34**: fix: correct color specifications for mandatory traffic signs
+- **2015-10-29 16:29**: perf: index question IDs for rapid lookup
