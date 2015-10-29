@@ -1,4 +1,3 @@
-- **2015-09-15 12:53**: style: enhance traffic sign card layout and responsiveness
 - **2015-09-16 09:49**: refactor: restructure question data schema for faster loading
 - **2015-09-16 21:43**: fix: correct color specifications for mandatory traffic signs
 - **2015-09-17 11:16**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-10-26 14:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-10-27 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-10-28 12:20**: perf: optimize image caching for traffic sign assets
+- **2015-10-29 14:34**: fix: correct color specifications for mandatory traffic signs
