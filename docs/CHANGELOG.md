@@ -1,4 +1,3 @@
-- **2015-09-17 16:50**: refactor: restructure question data schema for faster loading
 - **2015-09-18 12:17**: docs: improve code comments and API documentation
 - **2015-09-18 12:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-09-18 19:51**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-10-29 16:29**: perf: index question IDs for rapid lookup
 - **2015-10-29 20:20**: fix: prevent option re-selection after submitting answer
 - **2015-10-30 12:40**: feat: add category-specific practice modes
+- **2015-10-30 19:02**: docs: update README with setup instructions and feature list
