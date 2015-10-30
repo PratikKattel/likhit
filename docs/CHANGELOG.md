@@ -1,4 +1,3 @@
-- **2015-09-17 11:16**: fix: resolve layout shift during question transitions
 - **2015-09-17 16:50**: refactor: restructure question data schema for faster loading
 - **2015-09-18 12:17**: docs: improve code comments and API documentation
 - **2015-09-18 12:18**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2015-10-29 14:34**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-29 16:29**: perf: index question IDs for rapid lookup
 - **2015-10-29 20:20**: fix: prevent option re-selection after submitting answer
+- **2015-10-30 12:40**: feat: add category-specific practice modes
