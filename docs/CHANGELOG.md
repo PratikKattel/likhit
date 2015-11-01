@@ -1,4 +1,3 @@
-- **2015-09-18 19:51**: feat: support multiple choice questions for motorcycle category
 - **2015-09-19 11:41**: fix: adjust passing score threshold according to new rules
 - **2015-09-19 18:47**: perf: index question IDs for rapid lookup
 - **2015-09-20 12:16**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2015-10-30 19:02**: docs: update README with setup instructions and feature list
 - **2015-10-31 18:30**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-31 21:59**: fix: resolve layout shift during question transitions
+- **2015-11-01 12:06**: fix: resolve layout shift during question transitions
