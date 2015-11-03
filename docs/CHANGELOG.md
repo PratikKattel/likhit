@@ -1,4 +1,3 @@
-- **2015-09-19 18:47**: perf: index question IDs for rapid lookup
 - **2015-09-20 12:16**: test: verify question extraction script against exam PDF
 - **2015-09-21 13:00**: feat: add regulatory traffic signs SVG graphics
 - **2015-09-22 10:21**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-10-31 21:59**: fix: resolve layout shift during question transitions
 - **2015-11-01 12:06**: fix: resolve layout shift during question transitions
 - **2015-11-02 11:14**: fix: resolve layout shift during question transitions
+- **2015-11-03 21:22**: docs: improve code comments and API documentation
