@@ -1,4 +1,3 @@
-- **2015-09-22 10:21**: perf: index question IDs for rapid lookup
 - **2015-09-22 13:20**: fix: typo in Nepali road safety regulations question
 - **2015-09-22 14:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 21:10**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-11-03 21:22**: docs: improve code comments and API documentation
 - **2015-11-04 15:19**: fix: prevent option re-selection after submitting answer
 - **2015-11-05 12:56**: docs: add instructions for Nepali driving license written exam
+- **2015-11-05 22:18**: feat: add category-specific practice modes
