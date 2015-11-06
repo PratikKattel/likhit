@@ -1,4 +1,3 @@
-- **2015-09-22 13:20**: fix: typo in Nepali road safety regulations question
 - **2015-09-22 14:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 21:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 22:20**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-11-04 15:19**: fix: prevent option re-selection after submitting answer
 - **2015-11-05 12:56**: docs: add instructions for Nepali driving license written exam
 - **2015-11-05 22:18**: feat: add category-specific practice modes
+- **2015-11-06 21:13**: fix: update DOTM Nepal license syllabus questions
