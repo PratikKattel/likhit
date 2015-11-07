@@ -1,4 +1,3 @@
-- **2015-09-22 14:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 21:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-09-23 22:20**: chore: format code style and clean up redundant variables
 - **2015-09-24 10:23**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-11-05 12:56**: docs: add instructions for Nepali driving license written exam
 - **2015-11-05 22:18**: feat: add category-specific practice modes
 - **2015-11-06 21:13**: fix: update DOTM Nepal license syllabus questions
+- **2015-11-07 16:30**: perf: index question IDs for rapid lookup
