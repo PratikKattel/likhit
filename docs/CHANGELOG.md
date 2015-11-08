@@ -1,4 +1,3 @@
-- **2015-09-23 22:20**: chore: format code style and clean up redundant variables
 - **2015-09-24 10:23**: fix: correct color specifications for mandatory traffic signs
 - **2015-09-24 19:42**: feat: support multiple choice questions for motorcycle category
 - **2015-09-25 09:05**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2015-11-06 21:13**: fix: update DOTM Nepal license syllabus questions
 - **2015-11-07 16:30**: perf: index question IDs for rapid lookup
 - **2015-11-08 10:26**: feat: add result summary with passing threshold analysis
+- **2015-11-08 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
