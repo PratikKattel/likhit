@@ -1,4 +1,3 @@
-- **2015-09-24 19:42**: feat: support multiple choice questions for motorcycle category
 - **2015-09-25 09:05**: fix: update DOTM Nepal license syllabus questions
 - **2015-09-25 12:09**: refactor: restructure question data schema for faster loading
 - **2015-09-26 09:31**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2015-11-08 10:26**: feat: add result summary with passing threshold analysis
 - **2015-11-08 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-11-09 12:57**: feat: add warning signs and informational road signs
+- **2015-11-10 15:41**: feat: support multiple choice questions for motorcycle category
