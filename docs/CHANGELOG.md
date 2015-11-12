@@ -1,4 +1,3 @@
-- **2015-09-25 12:09**: refactor: restructure question data schema for faster loading
 - **2015-09-26 09:31**: feat: add category-specific practice modes
 - **2015-09-26 13:50**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-26 19:29**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2015-11-09 12:57**: feat: add warning signs and informational road signs
 - **2015-11-10 15:41**: feat: support multiple choice questions for motorcycle category
 - **2015-11-11 16:30**: docs: update README with setup instructions and feature list
+- **2015-11-12 11:58**: feat: add search and filter by sign category
