@@ -1,4 +1,3 @@
-- **2015-09-26 13:50**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-26 19:29**: refactor: optimize SVG rendering for road signs
 - **2015-09-27 09:42**: docs: update traffic signals catalog documentation
 - **2015-09-27 12:53**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2015-11-11 16:30**: docs: update README with setup instructions and feature list
 - **2015-11-12 11:58**: feat: add search and filter by sign category
 - **2015-11-12 14:55**: perf: index question IDs for rapid lookup
+- **2015-11-12 21:22**: docs: add instructions for Nepali driving license written exam
