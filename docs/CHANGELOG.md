@@ -1,4 +1,3 @@
-- **2015-09-27 09:42**: docs: update traffic signals catalog documentation
 - **2015-09-27 12:53**: feat: implement timer and score calculation for mock test
 - **2015-09-27 13:29**: feat: add keyboard navigation shortcuts for question selection
 - **2015-09-27 15:11**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2015-11-12 14:55**: perf: index question IDs for rapid lookup
 - **2015-11-12 21:22**: docs: add instructions for Nepali driving license written exam
 - **2015-11-13 17:07**: docs: add instructions for Nepali driving license written exam
+- **2015-11-13 20:03**: fix: adjust passing score threshold according to new rules
