@@ -1,4 +1,3 @@
-- **2015-09-27 15:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-09-28 22:11**: feat: add result summary with passing threshold analysis
 - **2015-09-29 09:44**: docs: update README with setup instructions and feature list
 - **2015-09-29 11:44**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2015-11-13 20:03**: fix: adjust passing score threshold according to new rules
 - **2015-11-14 09:17**: fix: typo in Nepali road safety regulations question
 - **2015-11-15 11:17**: feat: add category A and B traffic test questions
+- **2015-11-15 14:20**: docs: improve code comments and API documentation
