@@ -1,4 +1,3 @@
-- **2015-09-30 13:51**: fix: prevent option re-selection after submitting answer
 - **2015-09-30 22:05**: perf: lazy load signal graphics and question assets
 - **2015-10-01 11:52**: fix: adjust passing score threshold according to new rules
 - **2015-10-01 13:25**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-11-16 10:16**: feat: support multiple choice questions for motorcycle category
 - **2015-11-17 10:45**: feat: implement timer and score calculation for mock test
 - **2015-11-17 15:47**: chore: update questions database with recent DOTM updates
+- **2015-11-17 20:09**: chore: format code style and clean up redundant variables
