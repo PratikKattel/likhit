@@ -1,4 +1,3 @@
-- **2015-09-29 09:44**: docs: update README with setup instructions and feature list
 - **2015-09-29 11:44**: fix: typo in Nepali road safety regulations question
 - **2015-09-30 13:51**: fix: prevent option re-selection after submitting answer
 - **2015-09-30 22:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2015-11-15 11:17**: feat: add category A and B traffic test questions
 - **2015-11-15 14:20**: docs: improve code comments and API documentation
 - **2015-11-16 10:16**: feat: support multiple choice questions for motorcycle category
+- **2015-11-17 10:45**: feat: implement timer and score calculation for mock test
