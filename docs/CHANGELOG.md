@@ -1,4 +1,3 @@
-- **2015-10-01 11:52**: fix: adjust passing score threshold according to new rules
 - **2015-10-01 13:25**: docs: add instructions for Nepali driving license written exam
 - **2015-10-01 20:41**: test: verify question extraction script against exam PDF
 - **2015-10-01 21:36**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2015-11-17 15:47**: chore: update questions database with recent DOTM updates
 - **2015-11-17 20:09**: chore: format code style and clean up redundant variables
 - **2015-11-17 21:37**: fix: typo in Nepali road safety regulations question
+- **2015-11-18 18:12**: fix: prevent option re-selection after submitting answer
