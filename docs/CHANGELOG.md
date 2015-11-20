@@ -1,4 +1,3 @@
-- **2015-10-01 20:41**: test: verify question extraction script against exam PDF
 - **2015-10-01 21:36**: style: polish typography and Nepali Unicode font rendering
 - **2015-10-02 11:52**: feat: add category A and B traffic test questions
 - **2015-10-03 12:23**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2015-11-17 21:37**: fix: typo in Nepali road safety regulations question
 - **2015-11-18 18:12**: fix: prevent option re-selection after submitting answer
 - **2015-11-19 22:18**: chore: update project metadata and build configuration
+- **2015-11-20 21:02**: docs: update README with setup instructions and feature list
