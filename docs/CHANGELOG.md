@@ -1,4 +1,3 @@
-- **2015-10-03 12:23**: feat: add search and filter by sign category
 - **2015-10-03 13:07**: chore: update questions database with recent DOTM updates
 - **2015-10-04 09:41**: fix: adjust passing score threshold according to new rules
 - **2015-10-04 14:03**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2015-11-20 21:02**: docs: update README with setup instructions and feature list
 - **2015-11-21 20:04**: test: verify question extraction script against exam PDF
 - **2015-11-22 12:22**: perf: index question IDs for rapid lookup
+- **2015-11-22 14:51**: feat: add result summary with passing threshold analysis
