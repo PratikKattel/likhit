@@ -1,4 +1,3 @@
-- **2015-10-04 09:41**: fix: adjust passing score threshold according to new rules
 - **2015-10-04 14:03**: feat: add result summary with passing threshold analysis
 - **2015-10-05 14:28**: fix: typo in Nepali road safety regulations question
 - **2015-10-06 12:01**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2015-11-22 12:22**: perf: index question IDs for rapid lookup
 - **2015-11-22 14:51**: feat: add result summary with passing threshold analysis
 - **2015-11-23 17:38**: docs: update README with setup instructions and feature list
+- **2015-11-24 10:09**: docs: improve code comments and API documentation
