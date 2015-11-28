@@ -1,4 +1,3 @@
-- **2015-10-06 18:40**: feat: add search and filter by sign category
 - **2015-10-07 11:48**: feat: add instant feedback and explanation on answer selection
 - **2015-10-08 13:03**: refactor: restructure question data schema for faster loading
 - **2015-10-09 10:16**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2015-11-25 15:27**: fix: resolve layout shift during question transitions
 - **2015-11-26 21:56**: feat: add keyboard navigation shortcuts for question selection
 - **2015-11-27 17:31**: refactor: restructure question data schema for faster loading
+- **2015-11-28 09:43**: fix: resolve layout shift during question transitions
