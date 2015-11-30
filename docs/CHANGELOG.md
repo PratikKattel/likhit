@@ -1,4 +1,3 @@
-- **2015-10-09 10:16**: feat: add regulatory traffic signs SVG graphics
 - **2015-10-09 22:06**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-10-10 09:58**: feat: support multiple choice questions for motorcycle category
 - **2015-10-10 15:12**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2015-11-28 09:43**: fix: resolve layout shift during question transitions
 - **2015-11-29 17:50**: feat: add regulatory traffic signs SVG graphics
 - **2015-11-29 18:45**: docs: add instructions for Nepali driving license written exam
+- **2015-11-30 12:06**: feat: add search and filter by sign category
