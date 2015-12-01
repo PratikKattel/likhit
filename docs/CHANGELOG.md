@@ -1,4 +1,3 @@
-- **2015-10-11 12:17**: refactor: modularize traffic app logic and event listeners
 - **2015-10-11 21:39**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-12 12:54**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-13 10:14**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2015-11-30 19:23**: chore: format code style and clean up redundant variables
 - **2015-12-01 10:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-01 15:23**: feat: add search and filter by sign category
+- **2015-12-01 20:39**: test: verify question extraction script against exam PDF
