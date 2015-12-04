@@ -1,4 +1,3 @@
-- **2015-10-13 20:28**: fix: resolve layout shift during question transitions
 - **2015-10-14 14:30**: feat: add category A and B traffic test questions
 - **2015-10-14 16:53**: fix: prevent option re-selection after submitting answer
 - **2015-10-15 10:18**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-12-02 20:30**: test: verify question extraction script against exam PDF
 - **2015-12-03 11:09**: style: enhance traffic sign card layout and responsiveness
 - **2015-12-03 16:12**: feat: add category A and B traffic test questions
+- **2015-12-04 09:46**: fix: update DOTM Nepal license syllabus questions
