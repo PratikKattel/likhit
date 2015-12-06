@@ -1,4 +1,3 @@
-- **2015-10-15 14:43**: chore: format code style and clean up redundant variables
 - **2015-10-16 20:36**: fix: prevent option re-selection after submitting answer
 - **2015-10-17 12:00**: style: polish typography and Nepali Unicode font rendering
 - **2015-10-18 13:54**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2015-12-05 14:22**: chore: format code style and clean up redundant variables
 - **2015-12-06 11:50**: docs: improve code comments and API documentation
 - **2015-12-06 13:52**: feat: add search and filter by sign category
+- **2015-12-06 14:03**: style: polish typography and Nepali Unicode font rendering
