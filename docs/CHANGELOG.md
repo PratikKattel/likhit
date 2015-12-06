@@ -1,4 +1,3 @@
-- **2015-10-16 20:36**: fix: prevent option re-selection after submitting answer
 - **2015-10-17 12:00**: style: polish typography and Nepali Unicode font rendering
 - **2015-10-18 13:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-10-18 22:27**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2015-12-06 11:50**: docs: improve code comments and API documentation
 - **2015-12-06 13:52**: feat: add search and filter by sign category
 - **2015-12-06 14:03**: style: polish typography and Nepali Unicode font rendering
+- **2015-12-06 15:45**: feat: add regulatory traffic signs SVG graphics
