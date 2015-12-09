@@ -1,4 +1,3 @@
-- **2015-10-18 22:27**: docs: update traffic signals catalog documentation
 - **2015-10-19 11:40**: feat: add result summary with passing threshold analysis
 - **2015-10-19 18:52**: feat: add search and filter by sign category
 - **2015-10-20 15:26**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-12-06 15:45**: feat: add regulatory traffic signs SVG graphics
 - **2015-12-07 11:48**: feat: add instant feedback and explanation on answer selection
 - **2015-12-08 17:43**: style: polish typography and Nepali Unicode font rendering
+- **2015-12-09 20:58**: feat: add warning signs and informational road signs
