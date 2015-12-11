@@ -1,4 +1,3 @@
-- **2015-10-19 18:52**: feat: add search and filter by sign category
 - **2015-10-20 15:26**: docs: update README with setup instructions and feature list
 - **2015-10-20 19:12**: docs: improve code comments and API documentation
 - **2015-10-21 13:48**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2015-12-08 17:43**: style: polish typography and Nepali Unicode font rendering
 - **2015-12-09 20:58**: feat: add warning signs and informational road signs
 - **2015-12-10 19:11**: fix: adjust passing score threshold according to new rules
+- **2015-12-11 17:02**: style: improve dark/light mode and mobile UI responsiveness
