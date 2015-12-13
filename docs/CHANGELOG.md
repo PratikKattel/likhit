@@ -1,4 +1,3 @@
-- **2015-10-21 13:48**: fix: update DOTM Nepal license syllabus questions
 - **2015-10-21 16:24**: style: polish typography and Nepali Unicode font rendering
 - **2015-10-22 12:00**: chore: format code style and clean up redundant variables
 - **2015-10-23 22:27**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2015-12-11 17:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-12-12 19:30**: feat: add keyboard navigation shortcuts for question selection
 - **2015-12-13 09:46**: fix: update DOTM Nepal license syllabus questions
+- **2015-12-13 15:27**: fix: adjust passing score threshold according to new rules
