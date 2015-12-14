@@ -1,4 +1,3 @@
-- **2015-10-22 12:00**: chore: format code style and clean up redundant variables
 - **2015-10-23 22:27**: refactor: restructure question data schema for faster loading
 - **2015-10-24 14:54**: feat: add search and filter by sign category
 - **2015-10-25 09:20**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2015-12-13 09:46**: fix: update DOTM Nepal license syllabus questions
 - **2015-12-13 15:27**: fix: adjust passing score threshold according to new rules
 - **2015-12-13 19:53**: style: enhance traffic sign card layout and responsiveness
+- **2015-12-14 20:12**: fix: correct color specifications for mandatory traffic signs
