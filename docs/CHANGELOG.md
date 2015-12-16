@@ -1,4 +1,3 @@
-- **2015-10-25 14:35**: feat: add category-specific practice modes
 - **2015-10-25 22:00**: fix: prevent option re-selection after submitting answer
 - **2015-10-26 14:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-10-27 10:35**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2015-12-15 11:52**: refactor: optimize SVG rendering for road signs
 - **2015-12-15 15:36**: refactor: optimize SVG rendering for road signs
 - **2015-12-15 20:25**: style: improve dark/light mode and mobile UI responsiveness
+- **2015-12-16 16:30**: docs: update traffic signals catalog documentation
