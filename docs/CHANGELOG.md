@@ -1,4 +1,3 @@
-- **2015-10-26 14:40**: fix: update DOTM Nepal license syllabus questions
 - **2015-10-27 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-10-28 12:20**: perf: optimize image caching for traffic sign assets
 - **2015-10-29 14:34**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2015-12-15 20:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-12-16 16:30**: docs: update traffic signals catalog documentation
 - **2015-12-16 17:17**: style: enhance traffic sign card layout and responsiveness
+- **2015-12-17 12:47**: fix: correct color specifications for mandatory traffic signs
