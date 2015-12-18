@@ -1,4 +1,3 @@
-- **2015-10-27 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2015-10-28 12:20**: perf: optimize image caching for traffic sign assets
 - **2015-10-29 14:34**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-29 16:29**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-12-16 16:30**: docs: update traffic signals catalog documentation
 - **2015-12-16 17:17**: style: enhance traffic sign card layout and responsiveness
 - **2015-12-17 12:47**: fix: correct color specifications for mandatory traffic signs
+- **2015-12-18 09:42**: docs: update README with setup instructions and feature list
