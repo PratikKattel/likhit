@@ -1,4 +1,3 @@
-- **2015-10-30 12:40**: feat: add category-specific practice modes
 - **2015-10-30 19:02**: docs: update README with setup instructions and feature list
 - **2015-10-31 18:30**: fix: correct color specifications for mandatory traffic signs
 - **2015-10-31 21:59**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2015-12-19 19:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-20 10:23**: perf: lazy load signal graphics and question assets
 - **2015-12-21 13:28**: chore: update questions database with recent DOTM updates
+- **2015-12-21 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
