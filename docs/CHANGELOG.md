@@ -1,4 +1,3 @@
-- **2015-10-31 21:59**: fix: resolve layout shift during question transitions
 - **2015-11-01 12:06**: fix: resolve layout shift during question transitions
 - **2015-11-02 11:14**: fix: resolve layout shift during question transitions
 - **2015-11-03 21:22**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2015-12-21 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-21 21:08**: perf: optimize image caching for traffic sign assets
 - **2015-12-21 22:29**: feat: support multiple choice questions for motorcycle category
+- **2015-12-22 15:39**: fix: typo in Nepali road safety regulations question
