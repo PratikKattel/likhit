@@ -1,4 +1,3 @@
-- **2015-11-02 11:14**: fix: resolve layout shift during question transitions
 - **2015-11-03 21:22**: docs: improve code comments and API documentation
 - **2015-11-04 15:19**: fix: prevent option re-selection after submitting answer
 - **2015-11-05 12:56**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-12-21 22:29**: feat: support multiple choice questions for motorcycle category
 - **2015-12-22 15:39**: fix: typo in Nepali road safety regulations question
 - **2015-12-23 15:06**: perf: lazy load signal graphics and question assets
+- **2015-12-24 14:57**: fix: correct color specifications for mandatory traffic signs
