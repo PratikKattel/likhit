@@ -1,4 +1,3 @@
-- **2015-11-04 15:19**: fix: prevent option re-selection after submitting answer
 - **2015-11-05 12:56**: docs: add instructions for Nepali driving license written exam
 - **2015-11-05 22:18**: feat: add category-specific practice modes
 - **2015-11-06 21:13**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2015-12-23 15:06**: perf: lazy load signal graphics and question assets
 - **2015-12-24 14:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-12-25 13:22**: feat: add result summary with passing threshold analysis
+- **2015-12-25 19:12**: feat: add category-specific practice modes
