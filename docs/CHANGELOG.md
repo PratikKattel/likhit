@@ -1,4 +1,3 @@
-- **2015-11-07 16:30**: perf: index question IDs for rapid lookup
 - **2015-11-08 10:26**: feat: add result summary with passing threshold analysis
 - **2015-11-08 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-11-09 12:57**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2015-12-26 17:50**: perf: index question IDs for rapid lookup
 - **2015-12-26 20:31**: feat: add instant feedback and explanation on answer selection
 - **2015-12-26 22:06**: style: polish typography and Nepali Unicode font rendering
+- **2015-12-27 16:20**: feat: add category-specific practice modes
