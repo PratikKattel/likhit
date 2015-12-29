@@ -1,4 +1,3 @@
-- **2015-11-08 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-11-09 12:57**: feat: add warning signs and informational road signs
 - **2015-11-10 15:41**: feat: support multiple choice questions for motorcycle category
 - **2015-11-11 16:30**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2015-12-26 22:06**: style: polish typography and Nepali Unicode font rendering
 - **2015-12-27 16:20**: feat: add category-specific practice modes
 - **2015-12-28 21:59**: feat: implement timer and score calculation for mock test
+- **2015-12-29 10:12**: feat: add result summary with passing threshold analysis
