@@ -1,4 +1,3 @@
-- **2015-11-10 15:41**: feat: support multiple choice questions for motorcycle category
 - **2015-11-11 16:30**: docs: update README with setup instructions and feature list
 - **2015-11-12 11:58**: feat: add search and filter by sign category
 - **2015-11-12 14:55**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2015-12-28 21:59**: feat: implement timer and score calculation for mock test
 - **2015-12-29 10:12**: feat: add result summary with passing threshold analysis
 - **2015-12-29 11:16**: docs: update traffic signals catalog documentation
+- **2015-12-29 15:46**: fix: adjust passing score threshold according to new rules
