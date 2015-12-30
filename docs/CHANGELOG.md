@@ -1,4 +1,3 @@
-- **2015-11-12 11:58**: feat: add search and filter by sign category
 - **2015-11-12 14:55**: perf: index question IDs for rapid lookup
 - **2015-11-12 21:22**: docs: add instructions for Nepali driving license written exam
 - **2015-11-13 17:07**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2015-12-29 11:16**: docs: update traffic signals catalog documentation
 - **2015-12-29 15:46**: fix: adjust passing score threshold according to new rules
 - **2015-12-29 16:27**: feat: add category A and B traffic test questions
+- **2015-12-30 09:26**: feat: add instant feedback and explanation on answer selection
