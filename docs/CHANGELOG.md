@@ -1,4 +1,3 @@
-- **2015-11-13 17:07**: docs: add instructions for Nepali driving license written exam
 - **2015-11-13 20:03**: fix: adjust passing score threshold according to new rules
 - **2015-11-14 09:17**: fix: typo in Nepali road safety regulations question
 - **2015-11-15 11:17**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2015-12-30 09:26**: feat: add instant feedback and explanation on answer selection
 - **2015-12-31 09:14**: refactor: restructure question data schema for faster loading
 - **2015-12-31 14:30**: chore: update questions database with recent DOTM updates
+- **2016-01-01 18:51**: style: improve dark/light mode and mobile UI responsiveness
