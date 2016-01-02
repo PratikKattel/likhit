@@ -1,4 +1,3 @@
-- **2015-11-14 09:17**: fix: typo in Nepali road safety regulations question
 - **2015-11-15 11:17**: feat: add category A and B traffic test questions
 - **2015-11-15 14:20**: docs: improve code comments and API documentation
 - **2015-11-16 10:16**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2015-12-31 14:30**: chore: update questions database with recent DOTM updates
 - **2016-01-01 18:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-01-02 15:18**: fix: resolve layout shift during question transitions
+- **2016-01-02 15:39**: perf: index question IDs for rapid lookup
