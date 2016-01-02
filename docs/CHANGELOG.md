@@ -1,4 +1,3 @@
-- **2015-11-15 11:17**: feat: add category A and B traffic test questions
 - **2015-11-15 14:20**: docs: improve code comments and API documentation
 - **2015-11-16 10:16**: feat: support multiple choice questions for motorcycle category
 - **2015-11-17 10:45**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-01-01 18:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-01-02 15:18**: fix: resolve layout shift during question transitions
 - **2016-01-02 15:39**: perf: index question IDs for rapid lookup
+- **2016-01-02 20:26**: feat: implement timer and score calculation for mock test
