@@ -1,4 +1,3 @@
-- **2015-11-15 14:20**: docs: improve code comments and API documentation
 - **2015-11-16 10:16**: feat: support multiple choice questions for motorcycle category
 - **2015-11-17 10:45**: feat: implement timer and score calculation for mock test
 - **2015-11-17 15:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-01-02 15:18**: fix: resolve layout shift during question transitions
 - **2016-01-02 15:39**: perf: index question IDs for rapid lookup
 - **2016-01-02 20:26**: feat: implement timer and score calculation for mock test
+- **2016-01-03 22:11**: feat: add warning signs and informational road signs
