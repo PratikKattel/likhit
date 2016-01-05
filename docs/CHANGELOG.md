@@ -1,4 +1,3 @@
-- **2015-11-17 10:45**: feat: implement timer and score calculation for mock test
 - **2015-11-17 15:47**: chore: update questions database with recent DOTM updates
 - **2015-11-17 20:09**: chore: format code style and clean up redundant variables
 - **2015-11-17 21:37**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2016-01-02 20:26**: feat: implement timer and score calculation for mock test
 - **2016-01-03 22:11**: feat: add warning signs and informational road signs
 - **2016-01-04 16:57**: fix: update DOTM Nepal license syllabus questions
+- **2016-01-05 19:20**: fix: prevent option re-selection after submitting answer
