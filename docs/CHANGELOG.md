@@ -1,4 +1,3 @@
-- **2015-11-17 20:09**: chore: format code style and clean up redundant variables
 - **2015-11-17 21:37**: fix: typo in Nepali road safety regulations question
 - **2015-11-18 18:12**: fix: prevent option re-selection after submitting answer
 - **2015-11-19 22:18**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-01-04 16:57**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-05 19:20**: fix: prevent option re-selection after submitting answer
 - **2016-01-06 13:47**: feat: add keyboard navigation shortcuts for question selection
+- **2016-01-07 10:17**: perf: index question IDs for rapid lookup
