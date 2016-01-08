@@ -1,4 +1,3 @@
-- **2015-11-19 22:18**: chore: update project metadata and build configuration
 - **2015-11-20 21:02**: docs: update README with setup instructions and feature list
 - **2015-11-21 20:04**: test: verify question extraction script against exam PDF
 - **2015-11-22 12:22**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-01-07 10:17**: perf: index question IDs for rapid lookup
 - **2016-01-07 16:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-08 13:34**: fix: update DOTM Nepal license syllabus questions
+- **2016-01-08 19:19**: feat: add warning signs and informational road signs
