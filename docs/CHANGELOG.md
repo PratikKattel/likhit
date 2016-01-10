@@ -1,4 +1,3 @@
-- **2015-11-21 20:04**: test: verify question extraction script against exam PDF
 - **2015-11-22 12:22**: perf: index question IDs for rapid lookup
 - **2015-11-22 14:51**: feat: add result summary with passing threshold analysis
 - **2015-11-23 17:38**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-01-08 13:34**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-08 19:19**: feat: add warning signs and informational road signs
 - **2016-01-09 13:41**: fix: typo in Nepali road safety regulations question
+- **2016-01-10 19:09**: fix: typo in Nepali road safety regulations question
