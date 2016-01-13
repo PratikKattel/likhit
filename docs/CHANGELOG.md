@@ -1,4 +1,3 @@
-- **2015-11-23 17:38**: docs: update README with setup instructions and feature list
 - **2015-11-24 10:09**: docs: improve code comments and API documentation
 - **2015-11-25 15:27**: fix: resolve layout shift during question transitions
 - **2015-11-26 21:56**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2016-01-10 19:09**: fix: typo in Nepali road safety regulations question
 - **2016-01-11 21:04**: docs: update README with setup instructions and feature list
 - **2016-01-12 18:19**: style: enhance traffic sign card layout and responsiveness
+- **2016-01-13 11:39**: fix: prevent option re-selection after submitting answer
