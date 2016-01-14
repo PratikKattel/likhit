@@ -1,4 +1,3 @@
-- **2015-11-25 15:27**: fix: resolve layout shift during question transitions
 - **2015-11-26 21:56**: feat: add keyboard navigation shortcuts for question selection
 - **2015-11-27 17:31**: refactor: restructure question data schema for faster loading
 - **2015-11-28 09:43**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-01-12 18:19**: style: enhance traffic sign card layout and responsiveness
 - **2016-01-13 11:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-14 13:07**: perf: index question IDs for rapid lookup
+- **2016-01-14 15:29**: refactor: restructure question data schema for faster loading
