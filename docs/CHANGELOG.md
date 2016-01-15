@@ -1,4 +1,3 @@
-- **2015-11-27 17:31**: refactor: restructure question data schema for faster loading
 - **2015-11-28 09:43**: fix: resolve layout shift during question transitions
 - **2015-11-29 17:50**: feat: add regulatory traffic signs SVG graphics
 - **2015-11-29 18:45**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-01-14 13:07**: perf: index question IDs for rapid lookup
 - **2016-01-14 15:29**: refactor: restructure question data schema for faster loading
 - **2016-01-15 10:50**: feat: add warning signs and informational road signs
+- **2016-01-15 14:06**: chore: update project metadata and build configuration
