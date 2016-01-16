@@ -1,4 +1,3 @@
-- **2015-11-29 17:50**: feat: add regulatory traffic signs SVG graphics
 - **2015-11-29 18:45**: docs: add instructions for Nepali driving license written exam
 - **2015-11-30 12:06**: feat: add search and filter by sign category
 - **2015-11-30 17:53**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-01-15 10:50**: feat: add warning signs and informational road signs
 - **2016-01-15 14:06**: chore: update project metadata and build configuration
 - **2016-01-16 15:55**: perf: optimize image caching for traffic sign assets
+- **2016-01-16 18:23**: chore: format code style and clean up redundant variables
