@@ -1,4 +1,3 @@
-- **2015-11-30 19:23**: chore: format code style and clean up redundant variables
 - **2015-12-01 10:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-01 15:23**: feat: add search and filter by sign category
 - **2015-12-01 20:39**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2016-01-17 17:50**: chore: update project metadata and build configuration
 - **2016-01-18 14:15**: chore: update project metadata and build configuration
 - **2016-01-18 16:31**: perf: index question IDs for rapid lookup
+- **2016-01-18 19:25**: feat: add result summary with passing threshold analysis
