@@ -1,4 +1,3 @@
-- **2015-12-01 15:23**: feat: add search and filter by sign category
 - **2015-12-01 20:39**: test: verify question extraction script against exam PDF
 - **2015-12-02 20:30**: test: verify question extraction script against exam PDF
 - **2015-12-03 11:09**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-01-18 16:31**: perf: index question IDs for rapid lookup
 - **2016-01-18 19:25**: feat: add result summary with passing threshold analysis
 - **2016-01-19 09:28**: perf: optimize image caching for traffic sign assets
+- **2016-01-20 09:50**: refactor: restructure question data schema for faster loading
