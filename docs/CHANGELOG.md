@@ -1,4 +1,3 @@
-- **2015-12-03 16:12**: feat: add category A and B traffic test questions
 - **2015-12-04 09:46**: fix: update DOTM Nepal license syllabus questions
 - **2015-12-05 14:22**: chore: format code style and clean up redundant variables
 - **2015-12-06 11:50**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2016-01-21 09:31**: docs: update traffic signals catalog documentation
 - **2016-01-21 13:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-01-21 19:56**: style: polish typography and Nepali Unicode font rendering
+- **2016-01-22 12:15**: feat: add result summary with passing threshold analysis
