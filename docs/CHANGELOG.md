@@ -1,4 +1,3 @@
-- **2015-12-05 14:22**: chore: format code style and clean up redundant variables
 - **2015-12-06 11:50**: docs: improve code comments and API documentation
 - **2015-12-06 13:52**: feat: add search and filter by sign category
 - **2015-12-06 14:03**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-01-21 19:56**: style: polish typography and Nepali Unicode font rendering
 - **2016-01-22 12:15**: feat: add result summary with passing threshold analysis
 - **2016-01-23 11:28**: feat: add regulatory traffic signs SVG graphics
+- **2016-01-23 12:13**: fix: typo in Nepali road safety regulations question
