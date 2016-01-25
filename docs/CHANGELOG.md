@@ -1,4 +1,3 @@
-- **2015-12-06 13:52**: feat: add search and filter by sign category
 - **2015-12-06 14:03**: style: polish typography and Nepali Unicode font rendering
 - **2015-12-06 15:45**: feat: add regulatory traffic signs SVG graphics
 - **2015-12-07 11:48**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-01-23 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2016-01-23 12:13**: fix: typo in Nepali road safety regulations question
 - **2016-01-24 12:05**: docs: update traffic signals catalog documentation
+- **2016-01-25 21:37**: feat: add search and filter by sign category
