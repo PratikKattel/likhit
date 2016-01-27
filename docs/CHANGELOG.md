@@ -1,4 +1,3 @@
-- **2015-12-07 11:48**: feat: add instant feedback and explanation on answer selection
 - **2015-12-08 17:43**: style: polish typography and Nepali Unicode font rendering
 - **2015-12-09 20:58**: feat: add warning signs and informational road signs
 - **2015-12-10 19:11**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-01-25 21:37**: feat: add search and filter by sign category
 - **2016-01-26 10:47**: chore: organize assets and image directory structure
 - **2016-01-27 09:02**: feat: implement timer and score calculation for mock test
+- **2016-01-27 10:52**: feat: add result summary with passing threshold analysis
