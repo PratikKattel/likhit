@@ -1,4 +1,3 @@
-- **2015-12-13 09:46**: fix: update DOTM Nepal license syllabus questions
 - **2015-12-13 15:27**: fix: adjust passing score threshold according to new rules
 - **2015-12-13 19:53**: style: enhance traffic sign card layout and responsiveness
 - **2015-12-14 20:12**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2016-01-30 12:33**: feat: add instant feedback and explanation on answer selection
 - **2016-01-31 09:28**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-31 19:17**: feat: add keyboard navigation shortcuts for question selection
+- **2016-01-31 22:05**: perf: lazy load signal graphics and question assets
