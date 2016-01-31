@@ -1,4 +1,3 @@
-- **2015-12-11 17:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-12-12 19:30**: feat: add keyboard navigation shortcuts for question selection
 - **2015-12-13 09:46**: fix: update DOTM Nepal license syllabus questions
 - **2015-12-13 15:27**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-01-28 09:11**: perf: optimize image caching for traffic sign assets
 - **2016-01-29 20:05**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-30 12:33**: feat: add instant feedback and explanation on answer selection
+- **2016-01-31 09:28**: fix: update DOTM Nepal license syllabus questions
