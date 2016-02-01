@@ -1,4 +1,3 @@
-- **2015-12-15 11:52**: refactor: optimize SVG rendering for road signs
 - **2015-12-15 15:36**: refactor: optimize SVG rendering for road signs
 - **2015-12-15 20:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2015-12-16 16:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-02-01 09:30**: test: verify question extraction script against exam PDF
 - **2016-02-01 14:20**: chore: format code style and clean up redundant variables
 - **2016-02-01 19:09**: refactor: modularize traffic app logic and event listeners
+- **2016-02-01 20:17**: feat: add category A and B traffic test questions
