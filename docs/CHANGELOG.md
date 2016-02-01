@@ -1,4 +1,3 @@
-- **2015-12-13 19:53**: style: enhance traffic sign card layout and responsiveness
 - **2015-12-14 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2015-12-15 11:52**: refactor: optimize SVG rendering for road signs
 - **2015-12-15 15:36**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-01-31 19:17**: feat: add keyboard navigation shortcuts for question selection
 - **2016-01-31 22:05**: perf: lazy load signal graphics and question assets
 - **2016-02-01 09:30**: test: verify question extraction script against exam PDF
+- **2016-02-01 14:20**: chore: format code style and clean up redundant variables
