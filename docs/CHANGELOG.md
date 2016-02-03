@@ -1,4 +1,3 @@
-- **2015-12-16 16:30**: docs: update traffic signals catalog documentation
 - **2015-12-16 17:17**: style: enhance traffic sign card layout and responsiveness
 - **2015-12-17 12:47**: fix: correct color specifications for mandatory traffic signs
 - **2015-12-18 09:42**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-02-01 20:17**: feat: add category A and B traffic test questions
 - **2016-02-02 14:00**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-02 14:01**: fix: update DOTM Nepal license syllabus questions
+- **2016-02-03 15:34**: fix: resolve layout shift during question transitions
