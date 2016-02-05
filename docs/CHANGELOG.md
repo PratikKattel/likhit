@@ -1,4 +1,3 @@
-- **2015-12-18 09:42**: docs: update README with setup instructions and feature list
 - **2015-12-18 11:20**: feat: add instant feedback and explanation on answer selection
 - **2015-12-19 19:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-20 10:23**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-02-03 15:34**: fix: resolve layout shift during question transitions
 - **2016-02-04 18:03**: feat: add search and filter by sign category
 - **2016-02-05 09:22**: feat: support multiple choice questions for motorcycle category
+- **2016-02-05 16:35**: feat: add regulatory traffic signs SVG graphics
