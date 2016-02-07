@@ -1,4 +1,3 @@
-- **2015-12-21 13:28**: chore: update questions database with recent DOTM updates
 - **2015-12-21 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-21 21:08**: perf: optimize image caching for traffic sign assets
 - **2015-12-21 22:29**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-02-06 09:48**: chore: update questions database with recent DOTM updates
 - **2016-02-07 12:11**: feat: add instant feedback and explanation on answer selection
 - **2016-02-07 13:31**: docs: update traffic signals catalog documentation
+- **2016-02-07 19:16**: fix: adjust passing score threshold according to new rules
