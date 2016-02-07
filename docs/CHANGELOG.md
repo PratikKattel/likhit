@@ -1,4 +1,3 @@
-- **2015-12-19 19:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2015-12-20 10:23**: perf: lazy load signal graphics and question assets
 - **2015-12-21 13:28**: chore: update questions database with recent DOTM updates
 - **2015-12-21 13:53**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-02-05 09:22**: feat: support multiple choice questions for motorcycle category
 - **2016-02-05 16:35**: feat: add regulatory traffic signs SVG graphics
 - **2016-02-06 09:48**: chore: update questions database with recent DOTM updates
+- **2016-02-07 12:11**: feat: add instant feedback and explanation on answer selection
