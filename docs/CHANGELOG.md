@@ -1,4 +1,3 @@
-- **2015-12-22 15:39**: fix: typo in Nepali road safety regulations question
 - **2015-12-23 15:06**: perf: lazy load signal graphics and question assets
 - **2015-12-24 14:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-12-25 13:22**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2016-02-07 20:04**: docs: update traffic signals catalog documentation
 - **2016-02-08 18:51**: feat: add instant feedback and explanation on answer selection
 - **2016-02-09 14:50**: refactor: optimize SVG rendering for road signs
+- **2016-02-09 16:13**: feat: add regulatory traffic signs SVG graphics
