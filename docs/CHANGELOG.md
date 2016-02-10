@@ -1,4 +1,3 @@
-- **2015-12-24 14:57**: fix: correct color specifications for mandatory traffic signs
 - **2015-12-25 13:22**: feat: add result summary with passing threshold analysis
 - **2015-12-25 19:12**: feat: add category-specific practice modes
 - **2015-12-26 17:50**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-02-09 14:50**: refactor: optimize SVG rendering for road signs
 - **2016-02-09 16:13**: feat: add regulatory traffic signs SVG graphics
 - **2016-02-10 14:40**: perf: lazy load signal graphics and question assets
+- **2016-02-10 18:20**: style: polish typography and Nepali Unicode font rendering
