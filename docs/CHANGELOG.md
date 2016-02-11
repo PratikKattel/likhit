@@ -1,4 +1,3 @@
-- **2015-12-26 17:50**: perf: index question IDs for rapid lookup
 - **2015-12-26 20:31**: feat: add instant feedback and explanation on answer selection
 - **2015-12-26 22:06**: style: polish typography and Nepali Unicode font rendering
 - **2015-12-27 16:20**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-02-10 18:20**: style: polish typography and Nepali Unicode font rendering
 - **2016-02-10 19:59**: chore: update project metadata and build configuration
 - **2016-02-11 20:08**: fix: prevent option re-selection after submitting answer
+- **2016-02-11 20:38**: fix: correct color specifications for mandatory traffic signs
