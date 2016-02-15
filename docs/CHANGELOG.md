@@ -1,4 +1,3 @@
-- **2015-12-29 10:12**: feat: add result summary with passing threshold analysis
 - **2015-12-29 11:16**: docs: update traffic signals catalog documentation
 - **2015-12-29 15:46**: fix: adjust passing score threshold according to new rules
 - **2015-12-29 16:27**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2016-02-13 09:51**: feat: add category-specific practice modes
 - **2016-02-14 15:23**: style: enhance traffic sign card layout and responsiveness
 - **2016-02-15 10:52**: fix: typo in Nepali road safety regulations question
+- **2016-02-15 11:33**: chore: update project metadata and build configuration
