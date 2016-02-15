@@ -1,4 +1,3 @@
-- **2015-12-28 21:59**: feat: implement timer and score calculation for mock test
 - **2015-12-29 10:12**: feat: add result summary with passing threshold analysis
 - **2015-12-29 11:16**: docs: update traffic signals catalog documentation
 - **2015-12-29 15:46**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-02-12 09:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-13 09:51**: feat: add category-specific practice modes
 - **2016-02-14 15:23**: style: enhance traffic sign card layout and responsiveness
+- **2016-02-15 10:52**: fix: typo in Nepali road safety regulations question
