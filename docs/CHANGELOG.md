@@ -1,4 +1,3 @@
-- **2015-12-30 09:26**: feat: add instant feedback and explanation on answer selection
 - **2015-12-31 09:14**: refactor: restructure question data schema for faster loading
 - **2015-12-31 14:30**: chore: update questions database with recent DOTM updates
 - **2016-01-01 18:51**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-02-16 13:04**: refactor: restructure question data schema for faster loading
 - **2016-02-16 13:38**: fix: correct color specifications for mandatory traffic signs
 - **2016-02-17 09:42**: style: improve dark/light mode and mobile UI responsiveness
+- **2016-02-17 19:06**: feat: add category A and B traffic test questions
