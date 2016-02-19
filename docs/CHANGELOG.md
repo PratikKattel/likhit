@@ -1,4 +1,3 @@
-- **2016-01-02 15:18**: fix: resolve layout shift during question transitions
 - **2016-01-02 15:39**: perf: index question IDs for rapid lookup
 - **2016-01-02 20:26**: feat: implement timer and score calculation for mock test
 - **2016-01-03 22:11**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-02-18 12:45**: chore: update project metadata and build configuration
 - **2016-02-18 19:46**: docs: add instructions for Nepali driving license written exam
 - **2016-02-19 15:40**: chore: format code style and clean up redundant variables
+- **2016-02-19 18:43**: style: polish typography and Nepali Unicode font rendering
