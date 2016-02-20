@@ -1,4 +1,3 @@
-- **2016-01-03 22:11**: feat: add warning signs and informational road signs
 - **2016-01-04 16:57**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-05 19:20**: fix: prevent option re-selection after submitting answer
 - **2016-01-06 13:47**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2016-02-19 18:43**: style: polish typography and Nepali Unicode font rendering
 - **2016-02-19 18:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-19 19:28**: feat: add keyboard navigation shortcuts for question selection
+- **2016-02-20 11:25**: chore: update questions database with recent DOTM updates
