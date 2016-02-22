@@ -1,4 +1,3 @@
-- **2016-01-07 10:17**: perf: index question IDs for rapid lookup
 - **2016-01-07 16:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-08 13:34**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-08 19:19**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-02-20 22:22**: docs: add instructions for Nepali driving license written exam
 - **2016-02-21 11:19**: perf: index question IDs for rapid lookup
 - **2016-02-21 16:20**: feat: add keyboard navigation shortcuts for question selection
+- **2016-02-22 13:02**: feat: support multiple choice questions for motorcycle category
