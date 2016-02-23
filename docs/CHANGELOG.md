@@ -1,4 +1,3 @@
-- **2016-01-07 16:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-08 13:34**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-08 19:19**: feat: add warning signs and informational road signs
 - **2016-01-09 13:41**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2016-02-21 11:19**: perf: index question IDs for rapid lookup
 - **2016-02-21 16:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-02-22 13:02**: feat: support multiple choice questions for motorcycle category
+- **2016-02-23 09:29**: chore: update questions database with recent DOTM updates
