@@ -1,4 +1,3 @@
-- **2016-01-09 13:41**: fix: typo in Nepali road safety regulations question
 - **2016-01-10 19:09**: fix: typo in Nepali road safety regulations question
 - **2016-01-11 21:04**: docs: update README with setup instructions and feature list
 - **2016-01-12 18:19**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-02-23 09:29**: chore: update questions database with recent DOTM updates
 - **2016-02-23 20:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-24 14:19**: feat: add instant feedback and explanation on answer selection
+- **2016-02-24 19:59**: refactor: optimize SVG rendering for road signs
