@@ -1,4 +1,3 @@
-- **2016-01-12 18:19**: style: enhance traffic sign card layout and responsiveness
 - **2016-01-13 11:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-14 13:07**: perf: index question IDs for rapid lookup
 - **2016-01-14 15:29**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-02-24 19:59**: refactor: optimize SVG rendering for road signs
 - **2016-02-25 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-26 16:04**: fix: typo in Nepali road safety regulations question
+- **2016-02-26 19:17**: fix: update DOTM Nepal license syllabus questions
