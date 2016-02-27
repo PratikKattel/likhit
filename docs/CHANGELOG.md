@@ -1,4 +1,3 @@
-- **2016-01-13 11:39**: fix: prevent option re-selection after submitting answer
 - **2016-01-14 13:07**: perf: index question IDs for rapid lookup
 - **2016-01-14 15:29**: refactor: restructure question data schema for faster loading
 - **2016-01-15 10:50**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-02-25 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-26 16:04**: fix: typo in Nepali road safety regulations question
 - **2016-02-26 19:17**: fix: update DOTM Nepal license syllabus questions
+- **2016-02-27 21:31**: feat: add result summary with passing threshold analysis
