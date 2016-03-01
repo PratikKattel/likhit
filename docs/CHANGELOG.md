@@ -1,4 +1,3 @@
-- **2016-01-15 10:50**: feat: add warning signs and informational road signs
 - **2016-01-15 14:06**: chore: update project metadata and build configuration
 - **2016-01-16 15:55**: perf: optimize image caching for traffic sign assets
 - **2016-01-16 18:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2016-02-27 21:31**: feat: add result summary with passing threshold analysis
 - **2016-02-28 19:25**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-29 10:07**: perf: optimize image caching for traffic sign assets
+- **2016-03-01 11:13**: feat: add search and filter by sign category
