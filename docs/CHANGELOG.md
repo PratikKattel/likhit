@@ -1,4 +1,3 @@
-- **2016-01-16 18:23**: chore: format code style and clean up redundant variables
 - **2016-01-17 17:50**: chore: update project metadata and build configuration
 - **2016-01-18 14:15**: chore: update project metadata and build configuration
 - **2016-01-18 16:31**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-03-01 11:13**: feat: add search and filter by sign category
 - **2016-03-01 22:06**: chore: update questions database with recent DOTM updates
 - **2016-03-02 21:31**: feat: add warning signs and informational road signs
+- **2016-03-03 10:37**: feat: add keyboard navigation shortcuts for question selection
