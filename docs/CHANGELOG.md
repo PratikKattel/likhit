@@ -1,4 +1,3 @@
-- **2016-01-18 14:15**: chore: update project metadata and build configuration
 - **2016-01-18 16:31**: perf: index question IDs for rapid lookup
 - **2016-01-18 19:25**: feat: add result summary with passing threshold analysis
 - **2016-01-19 09:28**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-03-02 21:31**: feat: add warning signs and informational road signs
 - **2016-03-03 10:37**: feat: add keyboard navigation shortcuts for question selection
 - **2016-03-04 21:13**: feat: add search and filter by sign category
+- **2016-03-05 18:04**: feat: add regulatory traffic signs SVG graphics
