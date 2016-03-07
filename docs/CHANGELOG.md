@@ -1,4 +1,3 @@
-- **2016-01-18 19:25**: feat: add result summary with passing threshold analysis
 - **2016-01-19 09:28**: perf: optimize image caching for traffic sign assets
 - **2016-01-20 09:50**: refactor: restructure question data schema for faster loading
 - **2016-01-21 09:31**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-03-04 21:13**: feat: add search and filter by sign category
 - **2016-03-05 18:04**: feat: add regulatory traffic signs SVG graphics
 - **2016-03-06 10:00**: chore: format code style and clean up redundant variables
+- **2016-03-07 17:50**: feat: add category-specific practice modes
