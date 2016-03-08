@@ -1,4 +1,3 @@
-- **2016-01-20 09:50**: refactor: restructure question data schema for faster loading
 - **2016-01-21 09:31**: docs: update traffic signals catalog documentation
 - **2016-01-21 13:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-01-21 19:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-03-06 10:00**: chore: format code style and clean up redundant variables
 - **2016-03-07 17:50**: feat: add category-specific practice modes
 - **2016-03-08 13:39**: feat: implement timer and score calculation for mock test
+- **2016-03-08 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
