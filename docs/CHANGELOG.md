@@ -1,4 +1,3 @@
-- **2016-01-21 19:56**: style: polish typography and Nepali Unicode font rendering
 - **2016-01-22 12:15**: feat: add result summary with passing threshold analysis
 - **2016-01-23 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2016-01-23 12:13**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2016-03-08 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-03-09 15:49**: chore: format code style and clean up redundant variables
 - **2016-03-09 20:04**: fix: resolve layout shift during question transitions
+- **2016-03-10 10:05**: feat: add category-specific practice modes
