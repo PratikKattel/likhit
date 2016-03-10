@@ -1,4 +1,3 @@
-- **2016-01-22 12:15**: feat: add result summary with passing threshold analysis
 - **2016-01-23 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2016-01-23 12:13**: fix: typo in Nepali road safety regulations question
 - **2016-01-24 12:05**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-03-09 15:49**: chore: format code style and clean up redundant variables
 - **2016-03-09 20:04**: fix: resolve layout shift during question transitions
 - **2016-03-10 10:05**: feat: add category-specific practice modes
+- **2016-03-10 17:54**: chore: organize assets and image directory structure
