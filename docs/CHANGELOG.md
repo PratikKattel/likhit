@@ -1,4 +1,3 @@
-- **2016-01-23 11:28**: feat: add regulatory traffic signs SVG graphics
 - **2016-01-23 12:13**: fix: typo in Nepali road safety regulations question
 - **2016-01-24 12:05**: docs: update traffic signals catalog documentation
 - **2016-01-25 21:37**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-03-09 20:04**: fix: resolve layout shift during question transitions
 - **2016-03-10 10:05**: feat: add category-specific practice modes
 - **2016-03-10 17:54**: chore: organize assets and image directory structure
+- **2016-03-10 20:10**: perf: index question IDs for rapid lookup
