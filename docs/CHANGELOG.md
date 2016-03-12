@@ -1,4 +1,3 @@
-- **2016-01-24 12:05**: docs: update traffic signals catalog documentation
 - **2016-01-25 21:37**: feat: add search and filter by sign category
 - **2016-01-26 10:47**: chore: organize assets and image directory structure
 - **2016-01-27 09:02**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-03-10 17:54**: chore: organize assets and image directory structure
 - **2016-03-10 20:10**: perf: index question IDs for rapid lookup
 - **2016-03-11 13:21**: style: improve dark/light mode and mobile UI responsiveness
+- **2016-03-12 09:20**: docs: improve code comments and API documentation
