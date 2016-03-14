@@ -1,4 +1,3 @@
-- **2016-01-26 10:47**: chore: organize assets and image directory structure
 - **2016-01-27 09:02**: feat: implement timer and score calculation for mock test
 - **2016-01-27 10:52**: feat: add result summary with passing threshold analysis
 - **2016-01-28 09:11**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-03-11 13:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-03-12 09:20**: docs: improve code comments and API documentation
 - **2016-03-13 21:06**: chore: update project metadata and build configuration
+- **2016-03-14 22:15**: fix: typo in Nepali road safety regulations question
