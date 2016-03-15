@@ -1,4 +1,3 @@
-- **2016-01-28 09:11**: perf: optimize image caching for traffic sign assets
 - **2016-01-29 20:05**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-30 12:33**: feat: add instant feedback and explanation on answer selection
 - **2016-01-31 09:28**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-03-14 22:15**: fix: typo in Nepali road safety regulations question
 - **2016-03-15 12:46**: perf: lazy load signal graphics and question assets
 - **2016-03-15 17:48**: fix: prevent option re-selection after submitting answer
+- **2016-03-15 19:26**: chore: update project metadata and build configuration
