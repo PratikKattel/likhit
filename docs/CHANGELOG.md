@@ -1,4 +1,3 @@
-- **2016-01-31 09:28**: fix: update DOTM Nepal license syllabus questions
 - **2016-01-31 19:17**: feat: add keyboard navigation shortcuts for question selection
 - **2016-01-31 22:05**: perf: lazy load signal graphics and question assets
 - **2016-02-01 09:30**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2016-03-15 19:26**: chore: update project metadata and build configuration
 - **2016-03-16 09:13**: feat: add instant feedback and explanation on answer selection
 - **2016-03-16 10:52**: chore: update project metadata and build configuration
+- **2016-03-16 18:10**: feat: add instant feedback and explanation on answer selection
