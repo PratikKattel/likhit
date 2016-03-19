@@ -1,4 +1,3 @@
-- **2016-02-01 09:30**: test: verify question extraction script against exam PDF
 - **2016-02-01 14:20**: chore: format code style and clean up redundant variables
 - **2016-02-01 19:09**: refactor: modularize traffic app logic and event listeners
 - **2016-02-01 20:17**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2016-03-16 18:10**: feat: add instant feedback and explanation on answer selection
 - **2016-03-17 14:02**: refactor: optimize SVG rendering for road signs
 - **2016-03-18 11:00**: fix: correct color specifications for mandatory traffic signs
+- **2016-03-19 11:11**: perf: optimize image caching for traffic sign assets
