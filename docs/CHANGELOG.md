@@ -1,4 +1,3 @@
-- **2016-02-01 19:09**: refactor: modularize traffic app logic and event listeners
 - **2016-02-01 20:17**: feat: add category A and B traffic test questions
 - **2016-02-02 14:00**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-02 14:01**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-03-18 11:00**: fix: correct color specifications for mandatory traffic signs
 - **2016-03-19 11:11**: perf: optimize image caching for traffic sign assets
 - **2016-03-19 17:45**: feat: add category A and B traffic test questions
+- **2016-03-19 19:18**: feat: implement timer and score calculation for mock test
