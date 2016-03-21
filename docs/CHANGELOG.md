@@ -1,4 +1,3 @@
-- **2016-02-04 18:03**: feat: add search and filter by sign category
 - **2016-02-05 09:22**: feat: support multiple choice questions for motorcycle category
 - **2016-02-05 16:35**: feat: add regulatory traffic signs SVG graphics
 - **2016-02-06 09:48**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-03-20 14:11**: feat: add category A and B traffic test questions
 - **2016-03-20 20:35**: perf: lazy load signal graphics and question assets
 - **2016-03-21 09:26**: style: enhance traffic sign card layout and responsiveness
+- **2016-03-21 16:20**: chore: organize assets and image directory structure
