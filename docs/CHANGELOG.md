@@ -1,4 +1,3 @@
-- **2016-02-05 16:35**: feat: add regulatory traffic signs SVG graphics
 - **2016-02-06 09:48**: chore: update questions database with recent DOTM updates
 - **2016-02-07 12:11**: feat: add instant feedback and explanation on answer selection
 - **2016-02-07 13:31**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-03-21 09:26**: style: enhance traffic sign card layout and responsiveness
 - **2016-03-21 16:20**: chore: organize assets and image directory structure
 - **2016-03-21 20:15**: test: verify question extraction script against exam PDF
+- **2016-03-22 12:59**: chore: organize assets and image directory structure
