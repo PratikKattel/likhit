@@ -1,4 +1,3 @@
-- **2016-02-07 19:16**: fix: adjust passing score threshold according to new rules
 - **2016-02-07 20:04**: docs: update traffic signals catalog documentation
 - **2016-02-08 18:51**: feat: add instant feedback and explanation on answer selection
 - **2016-02-09 14:50**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-03-23 16:53**: docs: update traffic signals catalog documentation
 - **2016-03-24 14:37**: perf: lazy load signal graphics and question assets
 - **2016-03-25 12:52**: chore: format code style and clean up redundant variables
+- **2016-03-25 18:40**: refactor: modularize traffic app logic and event listeners
