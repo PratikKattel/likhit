@@ -1,4 +1,3 @@
-- **2016-02-09 14:50**: refactor: optimize SVG rendering for road signs
 - **2016-02-09 16:13**: feat: add regulatory traffic signs SVG graphics
 - **2016-02-10 14:40**: perf: lazy load signal graphics and question assets
 - **2016-02-10 18:20**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-03-25 18:40**: refactor: modularize traffic app logic and event listeners
 - **2016-03-26 17:29**: feat: add search and filter by sign category
 - **2016-03-27 13:00**: feat: add warning signs and informational road signs
+- **2016-03-28 22:09**: docs: improve code comments and API documentation
