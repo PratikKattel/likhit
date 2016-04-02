@@ -1,4 +1,3 @@
-- **2016-02-11 20:38**: fix: correct color specifications for mandatory traffic signs
 - **2016-02-12 09:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-13 09:51**: feat: add category-specific practice modes
 - **2016-02-14 15:23**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-03-30 17:57**: fix: typo in Nepali road safety regulations question
 - **2016-03-31 09:49**: perf: lazy load signal graphics and question assets
 - **2016-04-01 17:57**: fix: update DOTM Nepal license syllabus questions
+- **2016-04-02 22:17**: fix: update DOTM Nepal license syllabus questions
