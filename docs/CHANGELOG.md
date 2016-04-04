@@ -1,4 +1,3 @@
-- **2016-02-15 10:52**: fix: typo in Nepali road safety regulations question
 - **2016-02-15 11:33**: chore: update project metadata and build configuration
 - **2016-02-16 13:04**: refactor: restructure question data schema for faster loading
 - **2016-02-16 13:38**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2016-04-03 12:19**: refactor: optimize SVG rendering for road signs
 - **2016-04-03 13:06**: fix: typo in Nepali road safety regulations question
 - **2016-04-03 19:37**: chore: organize assets and image directory structure
+- **2016-04-04 12:11**: docs: improve code comments and API documentation
