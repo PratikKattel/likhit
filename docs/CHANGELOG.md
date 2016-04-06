@@ -1,4 +1,3 @@
-- **2016-02-16 13:38**: fix: correct color specifications for mandatory traffic signs
 - **2016-02-17 09:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-02-17 19:06**: feat: add category A and B traffic test questions
 - **2016-02-18 12:45**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-04-04 12:11**: docs: improve code comments and API documentation
 - **2016-04-05 14:57**: feat: add category A and B traffic test questions
 - **2016-04-05 16:23**: docs: improve code comments and API documentation
+- **2016-04-06 12:58**: refactor: modularize traffic app logic and event listeners
