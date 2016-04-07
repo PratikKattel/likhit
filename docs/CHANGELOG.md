@@ -1,4 +1,3 @@
-- **2016-02-17 09:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-02-17 19:06**: feat: add category A and B traffic test questions
 - **2016-02-18 12:45**: chore: update project metadata and build configuration
 - **2016-02-18 19:46**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-04-05 14:57**: feat: add category A and B traffic test questions
 - **2016-04-05 16:23**: docs: improve code comments and API documentation
 - **2016-04-06 12:58**: refactor: modularize traffic app logic and event listeners
+- **2016-04-07 09:12**: docs: add instructions for Nepali driving license written exam
