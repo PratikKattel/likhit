@@ -1,4 +1,3 @@
-- **2016-02-18 19:46**: docs: add instructions for Nepali driving license written exam
 - **2016-02-19 15:40**: chore: format code style and clean up redundant variables
 - **2016-02-19 18:43**: style: polish typography and Nepali Unicode font rendering
 - **2016-02-19 18:55**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-04-07 09:12**: docs: add instructions for Nepali driving license written exam
 - **2016-04-08 15:27**: fix: typo in Nepali road safety regulations question
 - **2016-04-09 11:05**: feat: add keyboard navigation shortcuts for question selection
+- **2016-04-10 15:34**: fix: prevent option re-selection after submitting answer
