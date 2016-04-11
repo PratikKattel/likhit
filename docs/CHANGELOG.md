@@ -1,4 +1,3 @@
-- **2016-02-19 18:43**: style: polish typography and Nepali Unicode font rendering
 - **2016-02-19 18:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-19 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2016-02-20 11:25**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-04-09 11:05**: feat: add keyboard navigation shortcuts for question selection
 - **2016-04-10 15:34**: fix: prevent option re-selection after submitting answer
 - **2016-04-10 16:25**: docs: add instructions for Nepali driving license written exam
+- **2016-04-11 13:08**: docs: update traffic signals catalog documentation
