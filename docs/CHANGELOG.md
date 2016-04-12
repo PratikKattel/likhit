@@ -1,4 +1,3 @@
-- **2016-02-19 18:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-19 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2016-02-20 11:25**: chore: update questions database with recent DOTM updates
 - **2016-02-20 22:22**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-04-10 15:34**: fix: prevent option re-selection after submitting answer
 - **2016-04-10 16:25**: docs: add instructions for Nepali driving license written exam
 - **2016-04-11 13:08**: docs: update traffic signals catalog documentation
+- **2016-04-12 11:15**: chore: update questions database with recent DOTM updates
