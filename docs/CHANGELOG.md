@@ -1,4 +1,3 @@
-- **2016-02-20 22:22**: docs: add instructions for Nepali driving license written exam
 - **2016-02-21 11:19**: perf: index question IDs for rapid lookup
 - **2016-02-21 16:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-02-22 13:02**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-04-12 11:15**: chore: update questions database with recent DOTM updates
 - **2016-04-13 09:16**: perf: lazy load signal graphics and question assets
 - **2016-04-14 11:21**: feat: add regulatory traffic signs SVG graphics
+- **2016-04-14 14:10**: perf: index question IDs for rapid lookup
