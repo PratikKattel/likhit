@@ -1,4 +1,3 @@
-- **2016-02-21 11:19**: perf: index question IDs for rapid lookup
 - **2016-02-21 16:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-02-22 13:02**: feat: support multiple choice questions for motorcycle category
 - **2016-02-23 09:29**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-04-13 09:16**: perf: lazy load signal graphics and question assets
 - **2016-04-14 11:21**: feat: add regulatory traffic signs SVG graphics
 - **2016-04-14 14:10**: perf: index question IDs for rapid lookup
+- **2016-04-15 13:43**: feat: add result summary with passing threshold analysis
