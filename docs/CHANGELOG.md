@@ -1,4 +1,3 @@
-- **2016-02-22 13:02**: feat: support multiple choice questions for motorcycle category
 - **2016-02-23 09:29**: chore: update questions database with recent DOTM updates
 - **2016-02-23 20:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-24 14:19**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-04-14 14:10**: perf: index question IDs for rapid lookup
 - **2016-04-15 13:43**: feat: add result summary with passing threshold analysis
 - **2016-04-16 11:07**: docs: update README with setup instructions and feature list
+- **2016-04-17 09:36**: chore: format code style and clean up redundant variables
