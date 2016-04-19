@@ -1,4 +1,3 @@
-- **2016-02-23 20:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-02-24 14:19**: feat: add instant feedback and explanation on answer selection
 - **2016-02-24 19:59**: refactor: optimize SVG rendering for road signs
 - **2016-02-25 11:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-04-16 11:07**: docs: update README with setup instructions and feature list
 - **2016-04-17 09:36**: chore: format code style and clean up redundant variables
 - **2016-04-18 20:28**: test: verify question extraction script against exam PDF
+- **2016-04-19 10:04**: feat: add category-specific practice modes
