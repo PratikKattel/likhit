@@ -1,4 +1,3 @@
-- **2016-02-26 16:04**: fix: typo in Nepali road safety regulations question
 - **2016-02-26 19:17**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-27 21:31**: feat: add result summary with passing threshold analysis
 - **2016-02-28 19:25**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-04-20 13:17**: style: polish typography and Nepali Unicode font rendering
 - **2016-04-21 19:59**: chore: update project metadata and build configuration
 - **2016-04-22 15:32**: feat: add result summary with passing threshold analysis
+- **2016-04-22 16:34**: feat: implement timer and score calculation for mock test
