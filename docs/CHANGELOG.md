@@ -1,4 +1,3 @@
-- **2016-02-26 19:17**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-27 21:31**: feat: add result summary with passing threshold analysis
 - **2016-02-28 19:25**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-29 10:07**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-04-21 19:59**: chore: update project metadata and build configuration
 - **2016-04-22 15:32**: feat: add result summary with passing threshold analysis
 - **2016-04-22 16:34**: feat: implement timer and score calculation for mock test
+- **2016-04-23 12:36**: refactor: modularize traffic app logic and event listeners
