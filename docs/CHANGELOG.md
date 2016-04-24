@@ -1,4 +1,3 @@
-- **2016-02-28 19:25**: fix: update DOTM Nepal license syllabus questions
 - **2016-02-29 10:07**: perf: optimize image caching for traffic sign assets
 - **2016-03-01 11:13**: feat: add search and filter by sign category
 - **2016-03-01 22:06**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-04-22 16:34**: feat: implement timer and score calculation for mock test
 - **2016-04-23 12:36**: refactor: modularize traffic app logic and event listeners
 - **2016-04-24 19:38**: refactor: modularize traffic app logic and event listeners
+- **2016-04-24 22:16**: feat: add regulatory traffic signs SVG graphics
