@@ -1,4 +1,3 @@
-- **2016-03-02 21:31**: feat: add warning signs and informational road signs
 - **2016-03-03 10:37**: feat: add keyboard navigation shortcuts for question selection
 - **2016-03-04 21:13**: feat: add search and filter by sign category
 - **2016-03-05 18:04**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2016-04-25 17:55**: feat: add regulatory traffic signs SVG graphics
 - **2016-04-26 22:11**: refactor: restructure question data schema for faster loading
 - **2016-04-27 14:59**: style: improve dark/light mode and mobile UI responsiveness
+- **2016-04-28 12:21**: docs: update README with setup instructions and feature list
