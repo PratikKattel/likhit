@@ -1,4 +1,3 @@
-- **2016-03-04 21:13**: feat: add search and filter by sign category
 - **2016-03-05 18:04**: feat: add regulatory traffic signs SVG graphics
 - **2016-03-06 10:00**: chore: format code style and clean up redundant variables
 - **2016-03-07 17:50**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-04-27 14:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-04-28 12:21**: docs: update README with setup instructions and feature list
 - **2016-04-28 18:58**: feat: add search and filter by sign category
+- **2016-04-29 13:40**: perf: index question IDs for rapid lookup
