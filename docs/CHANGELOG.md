@@ -1,4 +1,3 @@
-- **2016-03-06 10:00**: chore: format code style and clean up redundant variables
 - **2016-03-07 17:50**: feat: add category-specific practice modes
 - **2016-03-08 13:39**: feat: implement timer and score calculation for mock test
 - **2016-03-08 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-04-28 18:58**: feat: add search and filter by sign category
 - **2016-04-29 13:40**: perf: index question IDs for rapid lookup
 - **2016-04-29 18:30**: test: verify question extraction script against exam PDF
+- **2016-04-30 19:05**: feat: add result summary with passing threshold analysis
