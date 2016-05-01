@@ -1,4 +1,3 @@
-- **2016-03-08 21:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-03-09 15:49**: chore: format code style and clean up redundant variables
 - **2016-03-09 20:04**: fix: resolve layout shift during question transitions
 - **2016-03-10 10:05**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-04-30 19:05**: feat: add result summary with passing threshold analysis
 - **2016-04-30 21:36**: test: verify question extraction script against exam PDF
 - **2016-05-01 19:51**: docs: improve code comments and API documentation
+- **2016-05-01 20:33**: feat: add category-specific practice modes
