@@ -1,4 +1,3 @@
-- **2016-03-09 15:49**: chore: format code style and clean up redundant variables
 - **2016-03-09 20:04**: fix: resolve layout shift during question transitions
 - **2016-03-10 10:05**: feat: add category-specific practice modes
 - **2016-03-10 17:54**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-04-30 21:36**: test: verify question extraction script against exam PDF
 - **2016-05-01 19:51**: docs: improve code comments and API documentation
 - **2016-05-01 20:33**: feat: add category-specific practice modes
+- **2016-05-02 10:07**: chore: update project metadata and build configuration
