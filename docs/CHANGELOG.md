@@ -1,4 +1,3 @@
-- **2016-03-11 13:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-03-12 09:20**: docs: improve code comments and API documentation
 - **2016-03-13 21:06**: chore: update project metadata and build configuration
 - **2016-03-14 22:15**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2016-05-03 22:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-03 22:13**: test: verify question extraction script against exam PDF
 - **2016-05-04 15:13**: perf: lazy load signal graphics and question assets
+- **2016-05-05 12:39**: feat: implement timer and score calculation for mock test
