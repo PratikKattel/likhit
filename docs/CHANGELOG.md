@@ -1,4 +1,3 @@
-- **2016-03-12 09:20**: docs: improve code comments and API documentation
 - **2016-03-13 21:06**: chore: update project metadata and build configuration
 - **2016-03-14 22:15**: fix: typo in Nepali road safety regulations question
 - **2016-03-15 12:46**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-05-03 22:13**: test: verify question extraction script against exam PDF
 - **2016-05-04 15:13**: perf: lazy load signal graphics and question assets
 - **2016-05-05 12:39**: feat: implement timer and score calculation for mock test
+- **2016-05-05 17:15**: refactor: restructure question data schema for faster loading
