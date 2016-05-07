@@ -1,4 +1,3 @@
-- **2016-03-14 22:15**: fix: typo in Nepali road safety regulations question
 - **2016-03-15 12:46**: perf: lazy load signal graphics and question assets
 - **2016-03-15 17:48**: fix: prevent option re-selection after submitting answer
 - **2016-03-15 19:26**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-05-05 12:39**: feat: implement timer and score calculation for mock test
 - **2016-05-05 17:15**: refactor: restructure question data schema for faster loading
 - **2016-05-06 13:29**: feat: add category-specific practice modes
+- **2016-05-07 11:21**: feat: add result summary with passing threshold analysis
