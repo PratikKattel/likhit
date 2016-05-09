@@ -1,4 +1,3 @@
-- **2016-03-16 09:13**: feat: add instant feedback and explanation on answer selection
 - **2016-03-16 10:52**: chore: update project metadata and build configuration
 - **2016-03-16 18:10**: feat: add instant feedback and explanation on answer selection
 - **2016-03-17 14:02**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-05-07 19:55**: feat: add instant feedback and explanation on answer selection
 - **2016-05-07 20:56**: style: polish typography and Nepali Unicode font rendering
 - **2016-05-08 22:03**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2016-05-09 09:31**: chore: update project metadata and build configuration
