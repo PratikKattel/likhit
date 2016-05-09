@@ -1,4 +1,3 @@
-- **2016-03-16 18:10**: feat: add instant feedback and explanation on answer selection
 - **2016-03-17 14:02**: refactor: optimize SVG rendering for road signs
 - **2016-03-18 11:00**: fix: correct color specifications for mandatory traffic signs
 - **2016-03-19 11:11**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-05-08 22:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-09 09:31**: chore: update project metadata and build configuration
 - **2016-05-09 16:45**: fix: correct color specifications for mandatory traffic signs
+- **2016-05-09 17:59**: feat: add keyboard navigation shortcuts for question selection
