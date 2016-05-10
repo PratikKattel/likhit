@@ -1,4 +1,3 @@
-- **2016-03-19 11:11**: perf: optimize image caching for traffic sign assets
 - **2016-03-19 17:45**: feat: add category A and B traffic test questions
 - **2016-03-19 19:18**: feat: implement timer and score calculation for mock test
 - **2016-03-20 14:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-05-09 17:59**: feat: add keyboard navigation shortcuts for question selection
 - **2016-05-09 21:05**: docs: add instructions for Nepali driving license written exam
 - **2016-05-10 15:03**: fix: update DOTM Nepal license syllabus questions
+- **2016-05-10 20:19**: fix: prevent option re-selection after submitting answer
