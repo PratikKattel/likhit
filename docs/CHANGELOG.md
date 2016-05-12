@@ -1,4 +1,3 @@
-- **2016-03-20 14:04**: feat: add category-specific practice modes
 - **2016-03-20 14:11**: feat: add category A and B traffic test questions
 - **2016-03-20 20:35**: perf: lazy load signal graphics and question assets
 - **2016-03-21 09:26**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-05-10 20:19**: fix: prevent option re-selection after submitting answer
 - **2016-05-11 10:12**: test: verify question extraction script against exam PDF
 - **2016-05-11 10:29**: chore: update questions database with recent DOTM updates
+- **2016-05-12 21:07**: style: improve dark/light mode and mobile UI responsiveness
