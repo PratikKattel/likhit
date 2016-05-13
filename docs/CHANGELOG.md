@@ -1,4 +1,3 @@
-- **2016-03-20 14:11**: feat: add category A and B traffic test questions
 - **2016-03-20 20:35**: perf: lazy load signal graphics and question assets
 - **2016-03-21 09:26**: style: enhance traffic sign card layout and responsiveness
 - **2016-03-21 16:20**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-05-11 10:12**: test: verify question extraction script against exam PDF
 - **2016-05-11 10:29**: chore: update questions database with recent DOTM updates
 - **2016-05-12 21:07**: style: improve dark/light mode and mobile UI responsiveness
+- **2016-05-13 11:35**: perf: lazy load signal graphics and question assets
