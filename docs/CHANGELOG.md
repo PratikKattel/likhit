@@ -1,4 +1,3 @@
-- **2016-03-21 09:26**: style: enhance traffic sign card layout and responsiveness
 - **2016-03-21 16:20**: chore: organize assets and image directory structure
 - **2016-03-21 20:15**: test: verify question extraction script against exam PDF
 - **2016-03-22 12:59**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-05-12 21:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-05-13 11:35**: perf: lazy load signal graphics and question assets
 - **2016-05-14 09:39**: feat: add result summary with passing threshold analysis
+- **2016-05-14 10:51**: fix: correct color specifications for mandatory traffic signs
