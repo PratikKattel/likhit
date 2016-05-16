@@ -1,4 +1,3 @@
-- **2016-03-23 16:53**: docs: update traffic signals catalog documentation
 - **2016-03-24 14:37**: perf: lazy load signal graphics and question assets
 - **2016-03-25 12:52**: chore: format code style and clean up redundant variables
 - **2016-03-25 18:40**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-05-14 11:57**: fix: adjust passing score threshold according to new rules
 - **2016-05-14 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-15 19:18**: feat: add category-specific practice modes
+- **2016-05-16 09:16**: feat: support multiple choice questions for motorcycle category
