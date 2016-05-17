@@ -1,4 +1,3 @@
-- **2016-03-25 12:52**: chore: format code style and clean up redundant variables
 - **2016-03-25 18:40**: refactor: modularize traffic app logic and event listeners
 - **2016-03-26 17:29**: feat: add search and filter by sign category
 - **2016-03-27 13:00**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-05-15 19:18**: feat: add category-specific practice modes
 - **2016-05-16 09:16**: feat: support multiple choice questions for motorcycle category
 - **2016-05-16 10:00**: chore: organize assets and image directory structure
+- **2016-05-17 18:03**: perf: index question IDs for rapid lookup
