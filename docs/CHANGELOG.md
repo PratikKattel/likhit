@@ -1,4 +1,3 @@
-- **2016-03-27 13:00**: feat: add warning signs and informational road signs
 - **2016-03-28 22:09**: docs: improve code comments and API documentation
 - **2016-03-29 15:54**: fix: adjust passing score threshold according to new rules
 - **2016-03-30 12:34**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-05-17 18:03**: perf: index question IDs for rapid lookup
 - **2016-05-18 17:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-19 09:36**: fix: prevent option re-selection after submitting answer
+- **2016-05-19 15:32**: feat: add category-specific practice modes
