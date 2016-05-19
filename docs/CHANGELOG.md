@@ -1,4 +1,3 @@
-- **2016-03-29 15:54**: fix: adjust passing score threshold according to new rules
 - **2016-03-30 12:34**: style: enhance traffic sign card layout and responsiveness
 - **2016-03-30 17:57**: fix: typo in Nepali road safety regulations question
 - **2016-03-31 09:49**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-05-19 09:36**: fix: prevent option re-selection after submitting answer
 - **2016-05-19 15:32**: feat: add category-specific practice modes
 - **2016-05-19 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2016-05-19 22:16**: style: polish typography and Nepali Unicode font rendering
