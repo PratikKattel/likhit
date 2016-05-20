@@ -1,4 +1,3 @@
-- **2016-03-31 09:49**: perf: lazy load signal graphics and question assets
 - **2016-04-01 17:57**: fix: update DOTM Nepal license syllabus questions
 - **2016-04-02 22:17**: fix: update DOTM Nepal license syllabus questions
 - **2016-04-03 12:19**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-05-19 22:16**: style: polish typography and Nepali Unicode font rendering
 - **2016-05-20 10:36**: feat: add result summary with passing threshold analysis
 - **2016-05-20 11:42**: feat: add category A and B traffic test questions
+- **2016-05-20 13:09**: feat: add instant feedback and explanation on answer selection
