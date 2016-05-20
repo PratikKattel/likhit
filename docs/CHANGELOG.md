@@ -1,4 +1,3 @@
-- **2016-03-30 12:34**: style: enhance traffic sign card layout and responsiveness
 - **2016-03-30 17:57**: fix: typo in Nepali road safety regulations question
 - **2016-03-31 09:49**: perf: lazy load signal graphics and question assets
 - **2016-04-01 17:57**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-05-19 15:32**: feat: add category-specific practice modes
 - **2016-05-19 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-19 22:16**: style: polish typography and Nepali Unicode font rendering
+- **2016-05-20 10:36**: feat: add result summary with passing threshold analysis
