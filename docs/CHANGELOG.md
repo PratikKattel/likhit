@@ -1,4 +1,3 @@
-- **2016-04-03 13:06**: fix: typo in Nepali road safety regulations question
 - **2016-04-03 19:37**: chore: organize assets and image directory structure
 - **2016-04-04 12:11**: docs: improve code comments and API documentation
 - **2016-04-05 14:57**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2016-05-20 22:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-05-21 12:02**: fix: adjust passing score threshold according to new rules
 - **2016-05-22 20:46**: refactor: modularize traffic app logic and event listeners
+- **2016-05-23 12:30**: feat: add category A and B traffic test questions
