@@ -1,4 +1,3 @@
-- **2016-04-04 12:11**: docs: improve code comments and API documentation
 - **2016-04-05 14:57**: feat: add category A and B traffic test questions
 - **2016-04-05 16:23**: docs: improve code comments and API documentation
 - **2016-04-06 12:58**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-05-22 20:46**: refactor: modularize traffic app logic and event listeners
 - **2016-05-23 12:30**: feat: add category A and B traffic test questions
 - **2016-05-23 18:10**: feat: add keyboard navigation shortcuts for question selection
+- **2016-05-24 09:12**: feat: add category A and B traffic test questions
