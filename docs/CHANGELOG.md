@@ -1,4 +1,3 @@
-- **2016-04-07 09:12**: docs: add instructions for Nepali driving license written exam
 - **2016-04-08 15:27**: fix: typo in Nepali road safety regulations question
 - **2016-04-09 11:05**: feat: add keyboard navigation shortcuts for question selection
 - **2016-04-10 15:34**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2016-05-25 11:17**: feat: add instant feedback and explanation on answer selection
 - **2016-05-25 19:12**: refactor: restructure question data schema for faster loading
 - **2016-05-26 15:58**: fix: prevent option re-selection after submitting answer
+- **2016-05-27 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
