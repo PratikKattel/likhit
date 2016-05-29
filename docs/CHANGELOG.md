@@ -1,4 +1,3 @@
-- **2016-04-10 16:25**: docs: add instructions for Nepali driving license written exam
 - **2016-04-11 13:08**: docs: update traffic signals catalog documentation
 - **2016-04-12 11:15**: chore: update questions database with recent DOTM updates
 - **2016-04-13 09:16**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-05-27 22:26**: fix: resolve layout shift during question transitions
 - **2016-05-28 09:39**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-29 17:41**: fix: resolve layout shift during question transitions
+- **2016-05-29 19:10**: refactor: restructure question data schema for faster loading
