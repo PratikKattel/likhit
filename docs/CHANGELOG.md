@@ -1,4 +1,3 @@
-- **2016-04-12 11:15**: chore: update questions database with recent DOTM updates
 - **2016-04-13 09:16**: perf: lazy load signal graphics and question assets
 - **2016-04-14 11:21**: feat: add regulatory traffic signs SVG graphics
 - **2016-04-14 14:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-05-29 17:41**: fix: resolve layout shift during question transitions
 - **2016-05-29 19:10**: refactor: restructure question data schema for faster loading
 - **2016-05-30 10:05**: fix: prevent option re-selection after submitting answer
+- **2016-05-31 12:19**: perf: lazy load signal graphics and question assets
