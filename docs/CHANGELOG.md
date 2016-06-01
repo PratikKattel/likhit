@@ -1,4 +1,3 @@
-- **2016-04-14 14:10**: perf: index question IDs for rapid lookup
 - **2016-04-15 13:43**: feat: add result summary with passing threshold analysis
 - **2016-04-16 11:07**: docs: update README with setup instructions and feature list
 - **2016-04-17 09:36**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2016-05-31 12:19**: perf: lazy load signal graphics and question assets
 - **2016-05-31 16:00**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-31 18:45**: chore: update questions database with recent DOTM updates
+- **2016-06-01 12:45**: docs: update README with setup instructions and feature list
