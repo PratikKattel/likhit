@@ -1,4 +1,3 @@
-- **2016-04-18 20:28**: test: verify question extraction script against exam PDF
 - **2016-04-19 10:04**: feat: add category-specific practice modes
 - **2016-04-20 13:17**: style: polish typography and Nepali Unicode font rendering
 - **2016-04-21 19:59**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-06-02 09:42**: perf: index question IDs for rapid lookup
 - **2016-06-03 13:01**: chore: organize assets and image directory structure
 - **2016-06-03 15:56**: docs: update traffic signals catalog documentation
+- **2016-06-03 20:51**: docs: update README with setup instructions and feature list
