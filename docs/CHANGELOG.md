@@ -1,4 +1,3 @@
-- **2016-04-16 11:07**: docs: update README with setup instructions and feature list
 - **2016-04-17 09:36**: chore: format code style and clean up redundant variables
 - **2016-04-18 20:28**: test: verify question extraction script against exam PDF
 - **2016-04-19 10:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-05-31 18:45**: chore: update questions database with recent DOTM updates
 - **2016-06-01 12:45**: docs: update README with setup instructions and feature list
 - **2016-06-02 09:42**: perf: index question IDs for rapid lookup
+- **2016-06-03 13:01**: chore: organize assets and image directory structure
