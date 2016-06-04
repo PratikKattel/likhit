@@ -1,4 +1,3 @@
-- **2016-04-20 13:17**: style: polish typography and Nepali Unicode font rendering
 - **2016-04-21 19:59**: chore: update project metadata and build configuration
 - **2016-04-22 15:32**: feat: add result summary with passing threshold analysis
 - **2016-04-22 16:34**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-06-03 15:56**: docs: update traffic signals catalog documentation
 - **2016-06-03 20:51**: docs: update README with setup instructions and feature list
 - **2016-06-04 11:32**: feat: add regulatory traffic signs SVG graphics
+- **2016-06-04 16:49**: chore: organize assets and image directory structure
