@@ -1,4 +1,3 @@
-- **2016-04-22 15:32**: feat: add result summary with passing threshold analysis
 - **2016-04-22 16:34**: feat: implement timer and score calculation for mock test
 - **2016-04-23 12:36**: refactor: modularize traffic app logic and event listeners
 - **2016-04-24 19:38**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-06-04 11:32**: feat: add regulatory traffic signs SVG graphics
 - **2016-06-04 16:49**: chore: organize assets and image directory structure
 - **2016-06-05 17:46**: fix: prevent option re-selection after submitting answer
+- **2016-06-05 21:10**: refactor: restructure question data schema for faster loading
