@@ -1,4 +1,3 @@
-- **2016-04-24 22:16**: feat: add regulatory traffic signs SVG graphics
 - **2016-04-25 17:55**: feat: add regulatory traffic signs SVG graphics
 - **2016-04-26 22:11**: refactor: restructure question data schema for faster loading
 - **2016-04-27 14:59**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-06-06 10:38**: fix: resolve layout shift during question transitions
 - **2016-06-06 16:05**: fix: update DOTM Nepal license syllabus questions
 - **2016-06-07 15:18**: fix: update DOTM Nepal license syllabus questions
+- **2016-06-07 18:00**: test: verify question extraction script against exam PDF
