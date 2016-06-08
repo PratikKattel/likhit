@@ -1,4 +1,3 @@
-- **2016-04-28 12:21**: docs: update README with setup instructions and feature list
 - **2016-04-28 18:58**: feat: add search and filter by sign category
 - **2016-04-29 13:40**: perf: index question IDs for rapid lookup
 - **2016-04-29 18:30**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2016-06-08 10:41**: docs: update README with setup instructions and feature list
 - **2016-06-08 15:07**: feat: add category A and B traffic test questions
 - **2016-06-08 18:47**: feat: add keyboard navigation shortcuts for question selection
+- **2016-06-08 20:15**: chore: organize assets and image directory structure
