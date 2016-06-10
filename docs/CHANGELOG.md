@@ -1,4 +1,3 @@
-- **2016-04-30 19:05**: feat: add result summary with passing threshold analysis
 - **2016-04-30 21:36**: test: verify question extraction script against exam PDF
 - **2016-05-01 19:51**: docs: improve code comments and API documentation
 - **2016-05-01 20:33**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-06-09 16:59**: perf: index question IDs for rapid lookup
 - **2016-06-09 19:19**: feat: add instant feedback and explanation on answer selection
 - **2016-06-10 11:50**: feat: add instant feedback and explanation on answer selection
+- **2016-06-10 12:11**: feat: support multiple choice questions for motorcycle category
