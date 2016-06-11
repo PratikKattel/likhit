@@ -1,4 +1,3 @@
-- **2016-05-01 19:51**: docs: improve code comments and API documentation
 - **2016-05-01 20:33**: feat: add category-specific practice modes
 - **2016-05-02 10:07**: chore: update project metadata and build configuration
 - **2016-05-03 15:18**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-06-10 11:50**: feat: add instant feedback and explanation on answer selection
 - **2016-06-10 12:11**: feat: support multiple choice questions for motorcycle category
 - **2016-06-10 12:30**: feat: implement timer and score calculation for mock test
+- **2016-06-11 11:03**: fix: update DOTM Nepal license syllabus questions
