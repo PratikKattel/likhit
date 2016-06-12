@@ -1,4 +1,3 @@
-- **2016-05-02 10:07**: chore: update project metadata and build configuration
 - **2016-05-03 15:18**: refactor: optimize SVG rendering for road signs
 - **2016-05-03 22:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-03 22:13**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2016-06-10 12:30**: feat: implement timer and score calculation for mock test
 - **2016-06-11 11:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-06-12 10:31**: feat: add category A and B traffic test questions
+- **2016-06-12 14:24**: docs: update README with setup instructions and feature list
