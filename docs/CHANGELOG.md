@@ -1,4 +1,3 @@
-- **2016-05-03 22:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-03 22:13**: test: verify question extraction script against exam PDF
 - **2016-05-04 15:13**: perf: lazy load signal graphics and question assets
 - **2016-05-05 12:39**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-06-12 10:31**: feat: add category A and B traffic test questions
 - **2016-06-12 14:24**: docs: update README with setup instructions and feature list
 - **2016-06-13 11:55**: chore: update questions database with recent DOTM updates
+- **2016-06-13 12:45**: refactor: modularize traffic app logic and event listeners
