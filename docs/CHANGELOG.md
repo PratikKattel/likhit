@@ -1,4 +1,3 @@
-- **2016-05-03 15:18**: refactor: optimize SVG rendering for road signs
 - **2016-05-03 22:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-03 22:13**: test: verify question extraction script against exam PDF
 - **2016-05-04 15:13**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-06-11 11:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-06-12 10:31**: feat: add category A and B traffic test questions
 - **2016-06-12 14:24**: docs: update README with setup instructions and feature list
+- **2016-06-13 11:55**: chore: update questions database with recent DOTM updates
