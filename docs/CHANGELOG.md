@@ -1,4 +1,3 @@
-- **2016-05-07 11:21**: feat: add result summary with passing threshold analysis
 - **2016-05-07 19:55**: feat: add instant feedback and explanation on answer selection
 - **2016-05-07 20:56**: style: polish typography and Nepali Unicode font rendering
 - **2016-05-08 22:03**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-06-14 13:19**: feat: add instant feedback and explanation on answer selection
 - **2016-06-15 13:53**: feat: add regulatory traffic signs SVG graphics
 - **2016-06-16 10:13**: feat: add keyboard navigation shortcuts for question selection
+- **2016-06-16 10:21**: perf: lazy load signal graphics and question assets
