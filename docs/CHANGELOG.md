@@ -1,4 +1,3 @@
-- **2016-05-07 20:56**: style: polish typography and Nepali Unicode font rendering
 - **2016-05-08 22:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-09 09:31**: chore: update project metadata and build configuration
 - **2016-05-09 16:45**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2016-06-16 10:13**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-16 10:21**: perf: lazy load signal graphics and question assets
 - **2016-06-16 16:49**: style: polish typography and Nepali Unicode font rendering
+- **2016-06-17 13:35**: feat: add search and filter by sign category
