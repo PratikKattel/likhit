@@ -1,4 +1,3 @@
-- **2016-05-09 16:45**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-09 17:59**: feat: add keyboard navigation shortcuts for question selection
 - **2016-05-09 21:05**: docs: add instructions for Nepali driving license written exam
 - **2016-05-10 15:03**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-06-17 13:35**: feat: add search and filter by sign category
 - **2016-06-17 18:26**: refactor: restructure question data schema for faster loading
 - **2016-06-18 13:36**: feat: add result summary with passing threshold analysis
+- **2016-06-18 22:09**: feat: add result summary with passing threshold analysis
