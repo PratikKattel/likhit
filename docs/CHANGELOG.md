@@ -1,4 +1,3 @@
-- **2016-05-10 20:19**: fix: prevent option re-selection after submitting answer
 - **2016-05-11 10:12**: test: verify question extraction script against exam PDF
 - **2016-05-11 10:29**: chore: update questions database with recent DOTM updates
 - **2016-05-12 21:07**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-06-19 18:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-06-19 21:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-19 21:36**: chore: format code style and clean up redundant variables
+- **2016-06-20 14:13**: chore: update project metadata and build configuration
