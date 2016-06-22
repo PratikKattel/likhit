@@ -1,4 +1,3 @@
-- **2016-05-14 09:39**: feat: add result summary with passing threshold analysis
 - **2016-05-14 10:51**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-14 11:57**: fix: adjust passing score threshold according to new rules
 - **2016-05-14 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-06-21 19:03**: chore: update project metadata and build configuration
 - **2016-06-22 09:50**: chore: format code style and clean up redundant variables
 - **2016-06-22 10:04**: chore: organize assets and image directory structure
+- **2016-06-22 18:23**: feat: add category A and B traffic test questions
