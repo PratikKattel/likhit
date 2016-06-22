@@ -1,4 +1,3 @@
-- **2016-05-13 11:35**: perf: lazy load signal graphics and question assets
 - **2016-05-14 09:39**: feat: add result summary with passing threshold analysis
 - **2016-05-14 10:51**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-14 11:57**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-06-21 09:07**: docs: add instructions for Nepali driving license written exam
 - **2016-06-21 19:03**: chore: update project metadata and build configuration
 - **2016-06-22 09:50**: chore: format code style and clean up redundant variables
+- **2016-06-22 10:04**: chore: organize assets and image directory structure
