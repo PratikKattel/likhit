@@ -1,4 +1,3 @@
-- **2016-05-14 10:51**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-14 11:57**: fix: adjust passing score threshold according to new rules
 - **2016-05-14 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-15 19:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-06-22 09:50**: chore: format code style and clean up redundant variables
 - **2016-06-22 10:04**: chore: organize assets and image directory structure
 - **2016-06-22 18:23**: feat: add category A and B traffic test questions
+- **2016-06-23 17:54**: feat: add regulatory traffic signs SVG graphics
