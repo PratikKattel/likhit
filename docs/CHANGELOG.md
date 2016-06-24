@@ -1,4 +1,3 @@
-- **2016-05-14 11:57**: fix: adjust passing score threshold according to new rules
 - **2016-05-14 17:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-15 19:18**: feat: add category-specific practice modes
 - **2016-05-16 09:16**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-06-22 10:04**: chore: organize assets and image directory structure
 - **2016-06-22 18:23**: feat: add category A and B traffic test questions
 - **2016-06-23 17:54**: feat: add regulatory traffic signs SVG graphics
+- **2016-06-24 18:35**: docs: update traffic signals catalog documentation
