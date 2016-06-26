@@ -1,4 +1,3 @@
-- **2016-05-16 09:16**: feat: support multiple choice questions for motorcycle category
 - **2016-05-16 10:00**: chore: organize assets and image directory structure
 - **2016-05-17 18:03**: perf: index question IDs for rapid lookup
 - **2016-05-18 17:33**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-06-24 18:35**: docs: update traffic signals catalog documentation
 - **2016-06-24 19:28**: chore: update questions database with recent DOTM updates
 - **2016-06-25 17:11**: docs: update README with setup instructions and feature list
+- **2016-06-26 15:57**: feat: add search and filter by sign category
