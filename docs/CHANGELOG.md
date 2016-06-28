@@ -1,4 +1,3 @@
-- **2016-05-19 15:32**: feat: add category-specific practice modes
 - **2016-05-19 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-19 22:16**: style: polish typography and Nepali Unicode font rendering
 - **2016-05-20 10:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2016-06-27 12:28**: docs: add instructions for Nepali driving license written exam
 - **2016-06-27 16:47**: docs: add instructions for Nepali driving license written exam
 - **2016-06-28 10:13**: feat: add result summary with passing threshold analysis
+- **2016-06-28 17:37**: perf: index question IDs for rapid lookup
