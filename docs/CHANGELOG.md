@@ -1,4 +1,3 @@
-- **2016-05-19 09:36**: fix: prevent option re-selection after submitting answer
 - **2016-05-19 15:32**: feat: add category-specific practice modes
 - **2016-05-19 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-19 22:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-06-26 17:06**: fix: typo in Nepali road safety regulations question
 - **2016-06-27 12:28**: docs: add instructions for Nepali driving license written exam
 - **2016-06-27 16:47**: docs: add instructions for Nepali driving license written exam
+- **2016-06-28 10:13**: feat: add result summary with passing threshold analysis
