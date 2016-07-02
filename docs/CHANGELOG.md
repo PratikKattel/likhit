@@ -1,4 +1,3 @@
-- **2016-05-20 11:42**: feat: add category A and B traffic test questions
 - **2016-05-20 13:09**: feat: add instant feedback and explanation on answer selection
 - **2016-05-20 22:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-05-21 12:02**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-06-29 19:36**: refactor: modularize traffic app logic and event listeners
 - **2016-06-30 13:11**: fix: correct color specifications for mandatory traffic signs
 - **2016-07-01 11:48**: fix: resolve layout shift during question transitions
+- **2016-07-02 17:51**: docs: update README with setup instructions and feature list
