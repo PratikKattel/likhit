@@ -1,4 +1,3 @@
-- **2016-05-20 13:09**: feat: add instant feedback and explanation on answer selection
 - **2016-05-20 22:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-05-21 12:02**: fix: adjust passing score threshold according to new rules
 - **2016-05-22 20:46**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-06-30 13:11**: fix: correct color specifications for mandatory traffic signs
 - **2016-07-01 11:48**: fix: resolve layout shift during question transitions
 - **2016-07-02 17:51**: docs: update README with setup instructions and feature list
+- **2016-07-03 10:48**: refactor: optimize SVG rendering for road signs
