@@ -1,4 +1,3 @@
-- **2016-05-23 12:30**: feat: add category A and B traffic test questions
 - **2016-05-23 18:10**: feat: add keyboard navigation shortcuts for question selection
 - **2016-05-24 09:12**: feat: add category A and B traffic test questions
 - **2016-05-25 11:17**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-07-03 13:40**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-04 09:10**: feat: add regulatory traffic signs SVG graphics
 - **2016-07-04 19:16**: perf: optimize image caching for traffic sign assets
+- **2016-07-05 13:21**: feat: implement timer and score calculation for mock test
