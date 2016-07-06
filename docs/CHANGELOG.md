@@ -1,4 +1,3 @@
-- **2016-05-24 09:12**: feat: add category A and B traffic test questions
 - **2016-05-25 11:17**: feat: add instant feedback and explanation on answer selection
 - **2016-05-25 19:12**: refactor: restructure question data schema for faster loading
 - **2016-05-26 15:58**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2016-07-04 19:16**: perf: optimize image caching for traffic sign assets
 - **2016-07-05 13:21**: feat: implement timer and score calculation for mock test
 - **2016-07-05 22:14**: fix: resolve layout shift during question transitions
+- **2016-07-06 16:01**: style: polish typography and Nepali Unicode font rendering
