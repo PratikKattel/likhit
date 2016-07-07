@@ -1,4 +1,3 @@
-- **2016-05-25 19:12**: refactor: restructure question data schema for faster loading
 - **2016-05-26 15:58**: fix: prevent option re-selection after submitting answer
 - **2016-05-27 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-05-27 22:26**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-07-05 22:14**: fix: resolve layout shift during question transitions
 - **2016-07-06 16:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-07 11:09**: style: enhance traffic sign card layout and responsiveness
+- **2016-07-07 13:59**: feat: add regulatory traffic signs SVG graphics
