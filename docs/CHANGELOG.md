@@ -1,4 +1,3 @@
-- **2016-05-27 22:26**: fix: resolve layout shift during question transitions
 - **2016-05-28 09:39**: style: enhance traffic sign card layout and responsiveness
 - **2016-05-29 17:41**: fix: resolve layout shift during question transitions
 - **2016-05-29 19:10**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-07-07 13:59**: feat: add regulatory traffic signs SVG graphics
 - **2016-07-07 19:59**: fix: update DOTM Nepal license syllabus questions
 - **2016-07-08 10:54**: style: enhance traffic sign card layout and responsiveness
+- **2016-07-09 14:05**: feat: support multiple choice questions for motorcycle category
