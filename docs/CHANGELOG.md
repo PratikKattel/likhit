@@ -1,4 +1,3 @@
-- **2016-05-30 10:05**: fix: prevent option re-selection after submitting answer
 - **2016-05-31 12:19**: perf: lazy load signal graphics and question assets
 - **2016-05-31 16:00**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-31 18:45**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-07-10 15:36**: feat: add category A and B traffic test questions
 - **2016-07-11 19:08**: fix: resolve layout shift during question transitions
 - **2016-07-12 16:01**: docs: update traffic signals catalog documentation
+- **2016-07-13 10:54**: refactor: modularize traffic app logic and event listeners
