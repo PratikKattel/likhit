@@ -1,4 +1,3 @@
-- **2016-05-31 16:00**: fix: correct color specifications for mandatory traffic signs
 - **2016-05-31 18:45**: chore: update questions database with recent DOTM updates
 - **2016-06-01 12:45**: docs: update README with setup instructions and feature list
 - **2016-06-02 09:42**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-07-12 16:01**: docs: update traffic signals catalog documentation
 - **2016-07-13 10:54**: refactor: modularize traffic app logic and event listeners
 - **2016-07-14 10:48**: perf: lazy load signal graphics and question assets
+- **2016-07-14 12:40**: feat: implement timer and score calculation for mock test
