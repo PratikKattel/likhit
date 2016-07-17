@@ -1,4 +1,3 @@
-- **2016-06-03 13:01**: chore: organize assets and image directory structure
 - **2016-06-03 15:56**: docs: update traffic signals catalog documentation
 - **2016-06-03 20:51**: docs: update README with setup instructions and feature list
 - **2016-06-04 11:32**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2016-07-15 09:29**: perf: optimize image caching for traffic sign assets
 - **2016-07-15 14:33**: chore: format code style and clean up redundant variables
 - **2016-07-16 19:52**: fix: resolve layout shift during question transitions
+- **2016-07-17 20:08**: chore: format code style and clean up redundant variables
