@@ -1,4 +1,3 @@
-- **2016-06-04 11:32**: feat: add regulatory traffic signs SVG graphics
 - **2016-06-04 16:49**: chore: organize assets and image directory structure
 - **2016-06-05 17:46**: fix: prevent option re-selection after submitting answer
 - **2016-06-05 21:10**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-07-17 20:08**: chore: format code style and clean up redundant variables
 - **2016-07-18 17:36**: feat: add instant feedback and explanation on answer selection
 - **2016-07-19 12:43**: perf: optimize image caching for traffic sign assets
+- **2016-07-19 16:15**: perf: lazy load signal graphics and question assets
