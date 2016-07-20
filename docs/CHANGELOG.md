@@ -1,4 +1,3 @@
-- **2016-06-05 21:10**: refactor: restructure question data schema for faster loading
 - **2016-06-06 10:38**: fix: resolve layout shift during question transitions
 - **2016-06-06 16:05**: fix: update DOTM Nepal license syllabus questions
 - **2016-06-07 15:18**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-07-19 16:15**: perf: lazy load signal graphics and question assets
 - **2016-07-19 19:35**: feat: implement timer and score calculation for mock test
 - **2016-07-20 10:26**: test: verify question extraction script against exam PDF
+- **2016-07-20 19:28**: feat: add keyboard navigation shortcuts for question selection
