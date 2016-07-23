@@ -1,4 +1,3 @@
-- **2016-06-07 15:18**: fix: update DOTM Nepal license syllabus questions
 - **2016-06-07 18:00**: test: verify question extraction script against exam PDF
 - **2016-06-08 10:41**: docs: update README with setup instructions and feature list
 - **2016-06-08 15:07**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2016-07-20 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2016-07-21 17:10**: feat: add instant feedback and explanation on answer selection
 - **2016-07-22 18:47**: chore: organize assets and image directory structure
+- **2016-07-23 19:33**: feat: add keyboard navigation shortcuts for question selection
