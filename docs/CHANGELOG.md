@@ -1,4 +1,3 @@
-- **2016-06-08 18:47**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-08 20:15**: chore: organize assets and image directory structure
 - **2016-06-09 16:59**: perf: index question IDs for rapid lookup
 - **2016-06-09 19:19**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-07-24 13:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-24 15:00**: feat: add result summary with passing threshold analysis
 - **2016-07-25 11:33**: chore: update project metadata and build configuration
+- **2016-07-25 22:28**: style: improve dark/light mode and mobile UI responsiveness
