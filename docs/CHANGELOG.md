@@ -1,4 +1,3 @@
-- **2016-06-08 15:07**: feat: add category A and B traffic test questions
 - **2016-06-08 18:47**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-08 20:15**: chore: organize assets and image directory structure
 - **2016-06-09 16:59**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-07-23 19:33**: feat: add keyboard navigation shortcuts for question selection
 - **2016-07-24 13:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-24 15:00**: feat: add result summary with passing threshold analysis
+- **2016-07-25 11:33**: chore: update project metadata and build configuration
