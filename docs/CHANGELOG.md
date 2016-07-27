@@ -1,4 +1,3 @@
-- **2016-06-10 11:50**: feat: add instant feedback and explanation on answer selection
 - **2016-06-10 12:11**: feat: support multiple choice questions for motorcycle category
 - **2016-06-10 12:30**: feat: implement timer and score calculation for mock test
 - **2016-06-11 11:03**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-07-26 13:37**: docs: update README with setup instructions and feature list
 - **2016-07-27 10:13**: fix: update DOTM Nepal license syllabus questions
 - **2016-07-27 12:26**: perf: index question IDs for rapid lookup
+- **2016-07-27 15:23**: feat: add category A and B traffic test questions
