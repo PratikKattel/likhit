@@ -1,4 +1,3 @@
-- **2016-06-09 16:59**: perf: index question IDs for rapid lookup
 - **2016-06-09 19:19**: feat: add instant feedback and explanation on answer selection
 - **2016-06-10 11:50**: feat: add instant feedback and explanation on answer selection
 - **2016-06-10 12:11**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-07-25 11:33**: chore: update project metadata and build configuration
 - **2016-07-25 22:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-07-26 13:37**: docs: update README with setup instructions and feature list
+- **2016-07-27 10:13**: fix: update DOTM Nepal license syllabus questions
