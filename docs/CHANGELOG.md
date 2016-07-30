@@ -1,4 +1,3 @@
-- **2016-06-12 14:24**: docs: update README with setup instructions and feature list
 - **2016-06-13 11:55**: chore: update questions database with recent DOTM updates
 - **2016-06-13 12:45**: refactor: modularize traffic app logic and event listeners
 - **2016-06-13 19:10**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-07-28 14:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-07-29 15:02**: perf: lazy load signal graphics and question assets
 - **2016-07-29 19:49**: feat: add result summary with passing threshold analysis
+- **2016-07-30 12:56**: feat: add result summary with passing threshold analysis
