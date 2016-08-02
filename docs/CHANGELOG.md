@@ -1,4 +1,3 @@
-- **2016-06-14 13:19**: feat: add instant feedback and explanation on answer selection
 - **2016-06-15 13:53**: feat: add regulatory traffic signs SVG graphics
 - **2016-06-16 10:13**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-16 10:21**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-07-31 17:47**: feat: add keyboard navigation shortcuts for question selection
 - **2016-08-01 11:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-08-01 22:19**: chore: organize assets and image directory structure
+- **2016-08-02 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
