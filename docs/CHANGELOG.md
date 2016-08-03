@@ -1,4 +1,3 @@
-- **2016-06-16 10:13**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-16 10:21**: perf: lazy load signal graphics and question assets
 - **2016-06-16 16:49**: style: polish typography and Nepali Unicode font rendering
 - **2016-06-17 13:35**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-08-01 22:19**: chore: organize assets and image directory structure
 - **2016-08-02 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-08-03 13:05**: refactor: optimize SVG rendering for road signs
+- **2016-08-03 21:03**: fix: update DOTM Nepal license syllabus questions
