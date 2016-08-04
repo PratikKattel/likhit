@@ -1,4 +1,3 @@
-- **2016-06-17 13:35**: feat: add search and filter by sign category
 - **2016-06-17 18:26**: refactor: restructure question data schema for faster loading
 - **2016-06-18 13:36**: feat: add result summary with passing threshold analysis
 - **2016-06-18 22:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2016-08-03 21:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-04 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-04 19:12**: feat: add regulatory traffic signs SVG graphics
+- **2016-08-04 20:46**: refactor: restructure question data schema for faster loading
