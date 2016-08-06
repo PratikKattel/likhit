@@ -1,4 +1,3 @@
-- **2016-06-18 22:09**: feat: add result summary with passing threshold analysis
 - **2016-06-19 18:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-06-19 21:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-19 21:36**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2016-08-04 20:46**: refactor: restructure question data schema for faster loading
 - **2016-08-05 14:51**: feat: add search and filter by sign category
 - **2016-08-05 18:03**: fix: update DOTM Nepal license syllabus questions
+- **2016-08-06 10:39**: style: improve dark/light mode and mobile UI responsiveness
