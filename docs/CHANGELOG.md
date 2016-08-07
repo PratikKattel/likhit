@@ -1,4 +1,3 @@
-- **2016-06-19 21:20**: feat: add keyboard navigation shortcuts for question selection
 - **2016-06-19 21:36**: chore: format code style and clean up redundant variables
 - **2016-06-20 14:13**: chore: update project metadata and build configuration
 - **2016-06-21 09:07**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-08-05 18:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-06 10:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-06 11:06**: fix: adjust passing score threshold according to new rules
+- **2016-08-07 13:44**: perf: lazy load signal graphics and question assets
