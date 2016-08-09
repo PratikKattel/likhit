@@ -1,4 +1,3 @@
-- **2016-06-21 09:07**: docs: add instructions for Nepali driving license written exam
 - **2016-06-21 19:03**: chore: update project metadata and build configuration
 - **2016-06-22 09:50**: chore: format code style and clean up redundant variables
 - **2016-06-22 10:04**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-08-07 13:44**: perf: lazy load signal graphics and question assets
 - **2016-08-08 20:23**: fix: prevent option re-selection after submitting answer
 - **2016-08-09 13:39**: docs: update traffic signals catalog documentation
+- **2016-08-09 17:31**: fix: resolve layout shift during question transitions
