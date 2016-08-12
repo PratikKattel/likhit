@@ -1,4 +1,3 @@
-- **2016-06-24 18:35**: docs: update traffic signals catalog documentation
 - **2016-06-24 19:28**: chore: update questions database with recent DOTM updates
 - **2016-06-25 17:11**: docs: update README with setup instructions and feature list
 - **2016-06-26 15:57**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-08-10 20:00**: refactor: modularize traffic app logic and event listeners
 - **2016-08-11 18:52**: feat: add search and filter by sign category
 - **2016-08-12 12:11**: feat: add instant feedback and explanation on answer selection
+- **2016-08-12 19:46**: fix: update DOTM Nepal license syllabus questions
