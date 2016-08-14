@@ -1,4 +1,3 @@
-- **2016-06-26 15:57**: feat: add search and filter by sign category
 - **2016-06-26 17:06**: fix: typo in Nepali road safety regulations question
 - **2016-06-27 12:28**: docs: add instructions for Nepali driving license written exam
 - **2016-06-27 16:47**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-08-12 19:46**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-13 18:13**: refactor: modularize traffic app logic and event listeners
 - **2016-08-13 21:57**: feat: add category-specific practice modes
+- **2016-08-14 10:05**: feat: add regulatory traffic signs SVG graphics
