@@ -1,4 +1,3 @@
-- **2016-06-27 16:47**: docs: add instructions for Nepali driving license written exam
 - **2016-06-28 10:13**: feat: add result summary with passing threshold analysis
 - **2016-06-28 17:37**: perf: index question IDs for rapid lookup
 - **2016-06-29 19:36**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-08-14 10:05**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-14 22:07**: feat: implement timer and score calculation for mock test
 - **2016-08-15 09:50**: feat: add category-specific practice modes
+- **2016-08-15 13:48**: feat: add instant feedback and explanation on answer selection
