@@ -1,4 +1,3 @@
-- **2016-06-30 13:11**: fix: correct color specifications for mandatory traffic signs
 - **2016-07-01 11:48**: fix: resolve layout shift during question transitions
 - **2016-07-02 17:51**: docs: update README with setup instructions and feature list
 - **2016-07-03 10:48**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-08-16 12:28**: feat: add result summary with passing threshold analysis
 - **2016-08-17 11:04**: feat: add category A and B traffic test questions
 - **2016-08-18 20:40**: fix: correct color specifications for mandatory traffic signs
+- **2016-08-19 13:01**: perf: lazy load signal graphics and question assets
