@@ -1,4 +1,3 @@
-- **2016-07-03 10:48**: refactor: optimize SVG rendering for road signs
 - **2016-07-03 13:40**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-04 09:10**: feat: add regulatory traffic signs SVG graphics
 - **2016-07-04 19:16**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-08-19 13:01**: perf: lazy load signal graphics and question assets
 - **2016-08-19 16:58**: fix: prevent option re-selection after submitting answer
 - **2016-08-19 21:39**: feat: add search and filter by sign category
+- **2016-08-20 14:50**: feat: add regulatory traffic signs SVG graphics
