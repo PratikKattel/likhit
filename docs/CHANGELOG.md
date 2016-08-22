@@ -1,4 +1,3 @@
-- **2016-07-04 09:10**: feat: add regulatory traffic signs SVG graphics
 - **2016-07-04 19:16**: perf: optimize image caching for traffic sign assets
 - **2016-07-05 13:21**: feat: implement timer and score calculation for mock test
 - **2016-07-05 22:14**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-08-19 21:39**: feat: add search and filter by sign category
 - **2016-08-20 14:50**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-21 11:48**: refactor: restructure question data schema for faster loading
+- **2016-08-22 11:38**: chore: organize assets and image directory structure
