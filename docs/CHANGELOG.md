@@ -1,4 +1,3 @@
-- **2016-07-05 22:14**: fix: resolve layout shift during question transitions
 - **2016-07-06 16:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-07 11:09**: style: enhance traffic sign card layout and responsiveness
 - **2016-07-07 13:59**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2016-08-22 11:38**: chore: organize assets and image directory structure
 - **2016-08-22 16:02**: docs: add instructions for Nepali driving license written exam
 - **2016-08-23 10:19**: feat: add category-specific practice modes
+- **2016-08-23 12:54**: fix: prevent option re-selection after submitting answer
