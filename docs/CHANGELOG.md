@@ -1,4 +1,3 @@
-- **2016-07-07 11:09**: style: enhance traffic sign card layout and responsiveness
 - **2016-07-07 13:59**: feat: add regulatory traffic signs SVG graphics
 - **2016-07-07 19:59**: fix: update DOTM Nepal license syllabus questions
 - **2016-07-08 10:54**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-08-23 10:19**: feat: add category-specific practice modes
 - **2016-08-23 12:54**: fix: prevent option re-selection after submitting answer
 - **2016-08-23 17:19**: chore: update project metadata and build configuration
+- **2016-08-23 20:45**: style: improve dark/light mode and mobile UI responsiveness
