@@ -1,4 +1,3 @@
-- **2016-07-05 13:21**: feat: implement timer and score calculation for mock test
 - **2016-07-05 22:14**: fix: resolve layout shift during question transitions
 - **2016-07-06 16:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-07 11:09**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-08-21 11:48**: refactor: restructure question data schema for faster loading
 - **2016-08-22 11:38**: chore: organize assets and image directory structure
 - **2016-08-22 16:02**: docs: add instructions for Nepali driving license written exam
+- **2016-08-23 10:19**: feat: add category-specific practice modes
