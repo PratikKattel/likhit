@@ -1,4 +1,3 @@
-- **2016-07-08 10:54**: style: enhance traffic sign card layout and responsiveness
 - **2016-07-09 14:05**: feat: support multiple choice questions for motorcycle category
 - **2016-07-10 15:36**: feat: add category A and B traffic test questions
 - **2016-07-11 19:08**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-08-23 20:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-24 22:07**: chore: update questions database with recent DOTM updates
 - **2016-08-25 11:07**: refactor: modularize traffic app logic and event listeners
+- **2016-08-25 18:38**: chore: format code style and clean up redundant variables
