@@ -1,4 +1,3 @@
-- **2016-07-11 19:08**: fix: resolve layout shift during question transitions
 - **2016-07-12 16:01**: docs: update traffic signals catalog documentation
 - **2016-07-13 10:54**: refactor: modularize traffic app logic and event listeners
 - **2016-07-14 10:48**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-08-25 18:38**: chore: format code style and clean up redundant variables
 - **2016-08-25 19:54**: chore: organize assets and image directory structure
 - **2016-08-26 11:43**: feat: support multiple choice questions for motorcycle category
+- **2016-08-26 13:23**: feat: add regulatory traffic signs SVG graphics
