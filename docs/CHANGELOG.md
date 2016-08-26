@@ -1,4 +1,3 @@
-- **2016-07-13 10:54**: refactor: modularize traffic app logic and event listeners
 - **2016-07-14 10:48**: perf: lazy load signal graphics and question assets
 - **2016-07-14 12:40**: feat: implement timer and score calculation for mock test
 - **2016-07-15 09:29**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-08-26 11:43**: feat: support multiple choice questions for motorcycle category
 - **2016-08-26 13:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-26 13:58**: refactor: optimize SVG rendering for road signs
+- **2016-08-26 20:48**: fix: adjust passing score threshold according to new rules
