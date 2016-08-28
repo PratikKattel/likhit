@@ -1,4 +1,3 @@
-- **2016-07-14 12:40**: feat: implement timer and score calculation for mock test
 - **2016-07-15 09:29**: perf: optimize image caching for traffic sign assets
 - **2016-07-15 14:33**: chore: format code style and clean up redundant variables
 - **2016-07-16 19:52**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-08-26 13:58**: refactor: optimize SVG rendering for road signs
 - **2016-08-26 20:48**: fix: adjust passing score threshold according to new rules
 - **2016-08-27 17:57**: style: improve dark/light mode and mobile UI responsiveness
+- **2016-08-28 19:08**: fix: resolve layout shift during question transitions
