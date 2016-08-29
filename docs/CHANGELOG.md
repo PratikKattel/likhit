@@ -1,4 +1,3 @@
-- **2016-07-15 09:29**: perf: optimize image caching for traffic sign assets
 - **2016-07-15 14:33**: chore: format code style and clean up redundant variables
 - **2016-07-16 19:52**: fix: resolve layout shift during question transitions
 - **2016-07-17 20:08**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2016-08-26 20:48**: fix: adjust passing score threshold according to new rules
 - **2016-08-27 17:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-28 19:08**: fix: resolve layout shift during question transitions
+- **2016-08-29 19:05**: style: enhance traffic sign card layout and responsiveness
