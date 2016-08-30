@@ -1,4 +1,3 @@
-- **2016-07-17 20:08**: chore: format code style and clean up redundant variables
 - **2016-07-18 17:36**: feat: add instant feedback and explanation on answer selection
 - **2016-07-19 12:43**: perf: optimize image caching for traffic sign assets
 - **2016-07-19 16:15**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-08-29 19:05**: style: enhance traffic sign card layout and responsiveness
 - **2016-08-30 12:12**: docs: add instructions for Nepali driving license written exam
 - **2016-08-30 14:29**: feat: add keyboard navigation shortcuts for question selection
+- **2016-08-30 15:34**: chore: update project metadata and build configuration
