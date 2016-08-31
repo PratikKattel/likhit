@@ -1,4 +1,3 @@
-- **2016-07-18 17:36**: feat: add instant feedback and explanation on answer selection
 - **2016-07-19 12:43**: perf: optimize image caching for traffic sign assets
 - **2016-07-19 16:15**: perf: lazy load signal graphics and question assets
 - **2016-07-19 19:35**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-08-30 12:12**: docs: add instructions for Nepali driving license written exam
 - **2016-08-30 14:29**: feat: add keyboard navigation shortcuts for question selection
 - **2016-08-30 15:34**: chore: update project metadata and build configuration
+- **2016-08-31 16:27**: feat: add warning signs and informational road signs
