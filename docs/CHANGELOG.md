@@ -1,4 +1,3 @@
-- **2016-07-19 16:15**: perf: lazy load signal graphics and question assets
 - **2016-07-19 19:35**: feat: implement timer and score calculation for mock test
 - **2016-07-20 10:26**: test: verify question extraction script against exam PDF
 - **2016-07-20 19:28**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2016-08-30 15:34**: chore: update project metadata and build configuration
 - **2016-08-31 16:27**: feat: add warning signs and informational road signs
 - **2016-08-31 17:19**: fix: prevent option re-selection after submitting answer
+- **2016-08-31 21:44**: chore: format code style and clean up redundant variables
