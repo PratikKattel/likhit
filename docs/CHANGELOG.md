@@ -1,4 +1,3 @@
-- **2016-07-20 10:26**: test: verify question extraction script against exam PDF
 - **2016-07-20 19:28**: feat: add keyboard navigation shortcuts for question selection
 - **2016-07-21 17:10**: feat: add instant feedback and explanation on answer selection
 - **2016-07-22 18:47**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-08-31 17:19**: fix: prevent option re-selection after submitting answer
 - **2016-08-31 21:44**: chore: format code style and clean up redundant variables
 - **2016-09-01 14:34**: feat: add keyboard navigation shortcuts for question selection
+- **2016-09-01 18:43**: chore: update questions database with recent DOTM updates
