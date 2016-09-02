@@ -1,4 +1,3 @@
-- **2016-07-21 17:10**: feat: add instant feedback and explanation on answer selection
 - **2016-07-22 18:47**: chore: organize assets and image directory structure
 - **2016-07-23 19:33**: feat: add keyboard navigation shortcuts for question selection
 - **2016-07-24 13:01**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-09-01 14:34**: feat: add keyboard navigation shortcuts for question selection
 - **2016-09-01 18:43**: chore: update questions database with recent DOTM updates
 - **2016-09-01 21:36**: chore: format code style and clean up redundant variables
+- **2016-09-02 11:52**: fix: resolve layout shift during question transitions
