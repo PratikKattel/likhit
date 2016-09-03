@@ -1,4 +1,3 @@
-- **2016-07-23 19:33**: feat: add keyboard navigation shortcuts for question selection
 - **2016-07-24 13:01**: style: polish typography and Nepali Unicode font rendering
 - **2016-07-24 15:00**: feat: add result summary with passing threshold analysis
 - **2016-07-25 11:33**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-09-01 21:36**: chore: format code style and clean up redundant variables
 - **2016-09-02 11:52**: fix: resolve layout shift during question transitions
 - **2016-09-02 16:45**: perf: lazy load signal graphics and question assets
+- **2016-09-03 18:37**: feat: add warning signs and informational road signs
