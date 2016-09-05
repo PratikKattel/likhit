@@ -1,4 +1,3 @@
-- **2016-07-25 22:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-07-26 13:37**: docs: update README with setup instructions and feature list
 - **2016-07-27 10:13**: fix: update DOTM Nepal license syllabus questions
 - **2016-07-27 12:26**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2016-09-04 10:12**: fix: prevent option re-selection after submitting answer
 - **2016-09-05 09:31**: fix: resolve layout shift during question transitions
 - **2016-09-05 20:10**: perf: index question IDs for rapid lookup
+- **2016-09-05 21:33**: chore: update project metadata and build configuration
