@@ -1,4 +1,3 @@
-- **2016-07-24 15:00**: feat: add result summary with passing threshold analysis
 - **2016-07-25 11:33**: chore: update project metadata and build configuration
 - **2016-07-25 22:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-07-26 13:37**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-09-02 16:45**: perf: lazy load signal graphics and question assets
 - **2016-09-03 18:37**: feat: add warning signs and informational road signs
 - **2016-09-04 10:12**: fix: prevent option re-selection after submitting answer
+- **2016-09-05 09:31**: fix: resolve layout shift during question transitions
