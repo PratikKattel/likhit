@@ -1,4 +1,3 @@
-- **2016-07-27 15:23**: feat: add category A and B traffic test questions
 - **2016-07-27 19:16**: feat: add search and filter by sign category
 - **2016-07-28 14:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-07-29 15:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-09-06 16:46**: feat: add keyboard navigation shortcuts for question selection
 - **2016-09-06 18:45**: chore: organize assets and image directory structure
 - **2016-09-06 19:17**: fix: resolve layout shift during question transitions
+- **2016-09-06 20:33**: docs: update traffic signals catalog documentation
