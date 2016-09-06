@@ -1,4 +1,3 @@
-- **2016-07-27 10:13**: fix: update DOTM Nepal license syllabus questions
 - **2016-07-27 12:26**: perf: index question IDs for rapid lookup
 - **2016-07-27 15:23**: feat: add category A and B traffic test questions
 - **2016-07-27 19:16**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-09-05 20:10**: perf: index question IDs for rapid lookup
 - **2016-09-05 21:33**: chore: update project metadata and build configuration
 - **2016-09-06 16:46**: feat: add keyboard navigation shortcuts for question selection
+- **2016-09-06 18:45**: chore: organize assets and image directory structure
