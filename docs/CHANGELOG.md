@@ -1,4 +1,3 @@
-- **2016-07-29 15:02**: perf: lazy load signal graphics and question assets
 - **2016-07-29 19:49**: feat: add result summary with passing threshold analysis
 - **2016-07-30 12:56**: feat: add result summary with passing threshold analysis
 - **2016-07-31 16:48**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-09-06 20:33**: docs: update traffic signals catalog documentation
 - **2016-09-07 19:21**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-08 16:44**: feat: add instant feedback and explanation on answer selection
+- **2016-09-08 18:43**: feat: support multiple choice questions for motorcycle category
