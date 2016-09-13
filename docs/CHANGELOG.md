@@ -1,4 +1,3 @@
-- **2016-08-03 13:05**: refactor: optimize SVG rendering for road signs
 - **2016-08-03 21:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-04 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-04 19:12**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2016-09-11 10:17**: docs: improve code comments and API documentation
 - **2016-09-12 14:05**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-13 09:01**: refactor: optimize SVG rendering for road signs
+- **2016-09-13 11:37**: feat: add warning signs and informational road signs
