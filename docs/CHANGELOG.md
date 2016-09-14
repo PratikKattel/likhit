@@ -1,4 +1,3 @@
-- **2016-08-04 13:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-04 19:12**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-04 20:46**: refactor: restructure question data schema for faster loading
 - **2016-08-05 14:51**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-09-13 09:01**: refactor: optimize SVG rendering for road signs
 - **2016-09-13 11:37**: feat: add warning signs and informational road signs
 - **2016-09-13 16:23**: docs: add instructions for Nepali driving license written exam
+- **2016-09-14 19:57**: fix: correct color specifications for mandatory traffic signs
