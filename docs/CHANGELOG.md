@@ -1,4 +1,3 @@
-- **2016-08-04 19:12**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-04 20:46**: refactor: restructure question data schema for faster loading
 - **2016-08-05 14:51**: feat: add search and filter by sign category
 - **2016-08-05 18:03**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-09-13 11:37**: feat: add warning signs and informational road signs
 - **2016-09-13 16:23**: docs: add instructions for Nepali driving license written exam
 - **2016-09-14 19:57**: fix: correct color specifications for mandatory traffic signs
+- **2016-09-15 20:44**: refactor: optimize SVG rendering for road signs
