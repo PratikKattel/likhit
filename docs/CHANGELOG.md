@@ -1,4 +1,3 @@
-- **2016-08-04 20:46**: refactor: restructure question data schema for faster loading
 - **2016-08-05 14:51**: feat: add search and filter by sign category
 - **2016-08-05 18:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-06 10:39**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-09-13 16:23**: docs: add instructions for Nepali driving license written exam
 - **2016-09-14 19:57**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-15 20:44**: refactor: optimize SVG rendering for road signs
+- **2016-09-16 16:04**: style: polish typography and Nepali Unicode font rendering
