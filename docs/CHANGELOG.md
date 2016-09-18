@@ -1,4 +1,3 @@
-- **2016-08-05 18:03**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-06 10:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-06 11:06**: fix: adjust passing score threshold according to new rules
 - **2016-08-07 13:44**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-09-15 20:44**: refactor: optimize SVG rendering for road signs
 - **2016-09-16 16:04**: style: polish typography and Nepali Unicode font rendering
 - **2016-09-17 13:55**: fix: prevent option re-selection after submitting answer
+- **2016-09-18 16:11**: perf: optimize image caching for traffic sign assets
