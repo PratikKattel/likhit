@@ -1,4 +1,3 @@
-- **2016-08-07 13:44**: perf: lazy load signal graphics and question assets
 - **2016-08-08 20:23**: fix: prevent option re-selection after submitting answer
 - **2016-08-09 13:39**: docs: update traffic signals catalog documentation
 - **2016-08-09 17:31**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-09-18 16:11**: perf: optimize image caching for traffic sign assets
 - **2016-09-18 18:56**: perf: lazy load signal graphics and question assets
 - **2016-09-19 19:50**: refactor: optimize SVG rendering for road signs
+- **2016-09-20 14:19**: refactor: clean up unused CSS classes and optimize stylesheet
