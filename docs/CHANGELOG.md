@@ -1,4 +1,3 @@
-- **2016-08-10 09:38**: fix: correct color specifications for mandatory traffic signs
 - **2016-08-10 16:50**: feat: add warning signs and informational road signs
 - **2016-08-10 20:00**: refactor: modularize traffic app logic and event listeners
 - **2016-08-11 18:52**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-09-20 19:52**: fix: adjust passing score threshold according to new rules
 - **2016-09-21 19:53**: feat: implement timer and score calculation for mock test
 - **2016-09-22 14:26**: test: verify question extraction script against exam PDF
+- **2016-09-22 21:03**: feat: add search and filter by sign category
