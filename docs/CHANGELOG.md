@@ -1,4 +1,3 @@
-- **2016-08-12 12:11**: feat: add instant feedback and explanation on answer selection
 - **2016-08-12 19:46**: fix: update DOTM Nepal license syllabus questions
 - **2016-08-13 18:13**: refactor: modularize traffic app logic and event listeners
 - **2016-08-13 21:57**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-09-23 17:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-24 09:27**: chore: organize assets and image directory structure
 - **2016-09-24 12:45**: docs: update traffic signals catalog documentation
+- **2016-09-24 17:11**: feat: add regulatory traffic signs SVG graphics
