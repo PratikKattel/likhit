@@ -1,4 +1,3 @@
-- **2016-08-13 18:13**: refactor: modularize traffic app logic and event listeners
 - **2016-08-13 21:57**: feat: add category-specific practice modes
 - **2016-08-14 10:05**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-14 22:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-09-24 12:45**: docs: update traffic signals catalog documentation
 - **2016-09-24 17:11**: feat: add regulatory traffic signs SVG graphics
 - **2016-09-25 11:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2016-09-25 15:56**: chore: update questions database with recent DOTM updates
