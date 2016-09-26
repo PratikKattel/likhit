@@ -1,4 +1,3 @@
-- **2016-08-14 10:05**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-14 22:07**: feat: implement timer and score calculation for mock test
 - **2016-08-15 09:50**: feat: add category-specific practice modes
 - **2016-08-15 13:48**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-09-25 11:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-25 15:56**: chore: update questions database with recent DOTM updates
 - **2016-09-25 18:58**: perf: lazy load signal graphics and question assets
+- **2016-09-26 17:59**: chore: update project metadata and build configuration
