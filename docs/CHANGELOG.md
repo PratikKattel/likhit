@@ -1,4 +1,3 @@
-- **2016-08-15 09:50**: feat: add category-specific practice modes
 - **2016-08-15 13:48**: feat: add instant feedback and explanation on answer selection
 - **2016-08-16 12:28**: feat: add result summary with passing threshold analysis
 - **2016-08-17 11:04**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2016-09-25 18:58**: perf: lazy load signal graphics and question assets
 - **2016-09-26 17:59**: chore: update project metadata and build configuration
 - **2016-09-26 19:32**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2016-09-27 18:17**: perf: optimize image caching for traffic sign assets
