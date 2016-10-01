@@ -1,4 +1,3 @@
-- **2016-08-19 13:01**: perf: lazy load signal graphics and question assets
 - **2016-08-19 16:58**: fix: prevent option re-selection after submitting answer
 - **2016-08-19 21:39**: feat: add search and filter by sign category
 - **2016-08-20 14:50**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2016-09-29 18:00**: feat: support multiple choice questions for motorcycle category
 - **2016-09-29 20:42**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-30 12:50**: perf: lazy load signal graphics and question assets
+- **2016-10-01 09:38**: feat: implement timer and score calculation for mock test
