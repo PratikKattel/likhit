@@ -1,4 +1,3 @@
-- **2016-08-19 16:58**: fix: prevent option re-selection after submitting answer
 - **2016-08-19 21:39**: feat: add search and filter by sign category
 - **2016-08-20 14:50**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-21 11:48**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-09-29 20:42**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-30 12:50**: perf: lazy load signal graphics and question assets
 - **2016-10-01 09:38**: feat: implement timer and score calculation for mock test
+- **2016-10-01 12:57**: docs: update traffic signals catalog documentation
