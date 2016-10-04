@@ -1,4 +1,3 @@
-- **2016-08-23 10:19**: feat: add category-specific practice modes
 - **2016-08-23 12:54**: fix: prevent option re-selection after submitting answer
 - **2016-08-23 17:19**: chore: update project metadata and build configuration
 - **2016-08-23 20:45**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-10-02 12:43**: refactor: restructure question data schema for faster loading
 - **2016-10-02 21:05**: perf: optimize image caching for traffic sign assets
 - **2016-10-03 19:36**: refactor: restructure question data schema for faster loading
+- **2016-10-04 17:31**: feat: add search and filter by sign category
