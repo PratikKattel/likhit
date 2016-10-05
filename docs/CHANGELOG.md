@@ -1,4 +1,3 @@
-- **2016-08-23 17:19**: chore: update project metadata and build configuration
 - **2016-08-23 20:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-24 22:07**: chore: update questions database with recent DOTM updates
 - **2016-08-25 11:07**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-10-03 19:36**: refactor: restructure question data schema for faster loading
 - **2016-10-04 17:31**: feat: add search and filter by sign category
 - **2016-10-04 21:21**: feat: add search and filter by sign category
+- **2016-10-05 09:33**: docs: update README with setup instructions and feature list
