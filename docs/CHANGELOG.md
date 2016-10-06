@@ -1,4 +1,3 @@
-- **2016-08-25 11:07**: refactor: modularize traffic app logic and event listeners
 - **2016-08-25 18:38**: chore: format code style and clean up redundant variables
 - **2016-08-25 19:54**: chore: organize assets and image directory structure
 - **2016-08-26 11:43**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-10-05 09:33**: docs: update README with setup instructions and feature list
 - **2016-10-06 09:27**: refactor: modularize traffic app logic and event listeners
 - **2016-10-06 15:15**: style: enhance traffic sign card layout and responsiveness
+- **2016-10-06 15:24**: style: enhance traffic sign card layout and responsiveness
