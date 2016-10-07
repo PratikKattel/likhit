@@ -1,4 +1,3 @@
-- **2016-08-25 19:54**: chore: organize assets and image directory structure
 - **2016-08-26 11:43**: feat: support multiple choice questions for motorcycle category
 - **2016-08-26 13:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-26 13:58**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-10-06 15:15**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-06 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-06 22:03**: feat: add instant feedback and explanation on answer selection
+- **2016-10-07 16:35**: refactor: restructure question data schema for faster loading
