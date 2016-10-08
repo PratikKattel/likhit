@@ -1,4 +1,3 @@
-- **2016-08-26 13:23**: feat: add regulatory traffic signs SVG graphics
 - **2016-08-26 13:58**: refactor: optimize SVG rendering for road signs
 - **2016-08-26 20:48**: fix: adjust passing score threshold according to new rules
 - **2016-08-27 17:57**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2016-10-06 22:03**: feat: add instant feedback and explanation on answer selection
 - **2016-10-07 16:35**: refactor: restructure question data schema for faster loading
 - **2016-10-08 09:28**: feat: add result summary with passing threshold analysis
+- **2016-10-08 16:29**: fix: correct color specifications for mandatory traffic signs
