@@ -1,4 +1,3 @@
-- **2016-08-29 19:05**: style: enhance traffic sign card layout and responsiveness
 - **2016-08-30 12:12**: docs: add instructions for Nepali driving license written exam
 - **2016-08-30 14:29**: feat: add keyboard navigation shortcuts for question selection
 - **2016-08-30 15:34**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2016-10-09 20:12**: feat: add instant feedback and explanation on answer selection
 - **2016-10-10 12:24**: chore: update questions database with recent DOTM updates
 - **2016-10-10 16:48**: fix: update DOTM Nepal license syllabus questions
+- **2016-10-10 19:17**: feat: support multiple choice questions for motorcycle category
