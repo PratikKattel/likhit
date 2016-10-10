@@ -1,4 +1,3 @@
-- **2016-08-27 17:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-08-28 19:08**: fix: resolve layout shift during question transitions
 - **2016-08-29 19:05**: style: enhance traffic sign card layout and responsiveness
 - **2016-08-30 12:12**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-10-08 16:29**: fix: correct color specifications for mandatory traffic signs
 - **2016-10-09 17:45**: feat: add result summary with passing threshold analysis
 - **2016-10-09 20:12**: feat: add instant feedback and explanation on answer selection
+- **2016-10-10 12:24**: chore: update questions database with recent DOTM updates
