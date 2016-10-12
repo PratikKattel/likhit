@@ -1,4 +1,3 @@
-- **2016-08-30 15:34**: chore: update project metadata and build configuration
 - **2016-08-31 16:27**: feat: add warning signs and informational road signs
 - **2016-08-31 17:19**: fix: prevent option re-selection after submitting answer
 - **2016-08-31 21:44**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2016-10-10 19:17**: feat: support multiple choice questions for motorcycle category
 - **2016-10-10 20:17**: docs: update README with setup instructions and feature list
 - **2016-10-11 20:36**: feat: implement timer and score calculation for mock test
+- **2016-10-12 16:03**: feat: add result summary with passing threshold analysis
