@@ -1,4 +1,3 @@
-- **2016-08-31 17:19**: fix: prevent option re-selection after submitting answer
 - **2016-08-31 21:44**: chore: format code style and clean up redundant variables
 - **2016-09-01 14:34**: feat: add keyboard navigation shortcuts for question selection
 - **2016-09-01 18:43**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-10-11 20:36**: feat: implement timer and score calculation for mock test
 - **2016-10-12 16:03**: feat: add result summary with passing threshold analysis
 - **2016-10-12 17:29**: style: polish typography and Nepali Unicode font rendering
+- **2016-10-13 09:19**: style: improve dark/light mode and mobile UI responsiveness
