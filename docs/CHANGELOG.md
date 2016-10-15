@@ -1,4 +1,3 @@
-- **2016-09-01 18:43**: chore: update questions database with recent DOTM updates
 - **2016-09-01 21:36**: chore: format code style and clean up redundant variables
 - **2016-09-02 11:52**: fix: resolve layout shift during question transitions
 - **2016-09-02 16:45**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-10-13 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-10-14 09:18**: docs: improve code comments and API documentation
 - **2016-10-14 14:02**: perf: optimize image caching for traffic sign assets
+- **2016-10-15 19:56**: docs: update traffic signals catalog documentation
