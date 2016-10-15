@@ -1,4 +1,3 @@
-- **2016-09-01 21:36**: chore: format code style and clean up redundant variables
 - **2016-09-02 11:52**: fix: resolve layout shift during question transitions
 - **2016-09-02 16:45**: perf: lazy load signal graphics and question assets
 - **2016-09-03 18:37**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-10-14 09:18**: docs: improve code comments and API documentation
 - **2016-10-14 14:02**: perf: optimize image caching for traffic sign assets
 - **2016-10-15 19:56**: docs: update traffic signals catalog documentation
+- **2016-10-15 20:46**: chore: organize assets and image directory structure
