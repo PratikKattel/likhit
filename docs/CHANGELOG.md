@@ -1,4 +1,3 @@
-- **2016-09-05 09:31**: fix: resolve layout shift during question transitions
 - **2016-09-05 20:10**: perf: index question IDs for rapid lookup
 - **2016-09-05 21:33**: chore: update project metadata and build configuration
 - **2016-09-06 16:46**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2016-10-15 21:58**: style: polish typography and Nepali Unicode font rendering
 - **2016-10-16 10:48**: fix: correct color specifications for mandatory traffic signs
 - **2016-10-16 13:54**: refactor: optimize SVG rendering for road signs
+- **2016-10-16 15:18**: feat: add category-specific practice modes
