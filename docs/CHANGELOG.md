@@ -1,4 +1,3 @@
-- **2016-09-06 16:46**: feat: add keyboard navigation shortcuts for question selection
 - **2016-09-06 18:45**: chore: organize assets and image directory structure
 - **2016-09-06 19:17**: fix: resolve layout shift during question transitions
 - **2016-09-06 20:33**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-10-16 15:18**: feat: add category-specific practice modes
 - **2016-10-17 13:45**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-17 21:17**: fix: correct color specifications for mandatory traffic signs
+- **2016-10-18 15:53**: fix: typo in Nepali road safety regulations question
