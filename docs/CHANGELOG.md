@@ -1,4 +1,3 @@
-- **2016-09-08 22:25**: refactor: optimize SVG rendering for road signs
 - **2016-09-09 13:14**: docs: update README with setup instructions and feature list
 - **2016-09-10 19:30**: feat: add result summary with passing threshold analysis
 - **2016-09-11 10:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2016-10-21 19:31**: chore: update project metadata and build configuration
 - **2016-10-21 21:23**: chore: format code style and clean up redundant variables
 - **2016-10-22 13:18**: feat: add instant feedback and explanation on answer selection
+- **2016-10-23 18:56**: feat: add category-specific practice modes
