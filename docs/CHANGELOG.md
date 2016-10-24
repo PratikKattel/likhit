@@ -1,4 +1,3 @@
-- **2016-09-11 10:17**: docs: improve code comments and API documentation
 - **2016-09-12 14:05**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-13 09:01**: refactor: optimize SVG rendering for road signs
 - **2016-09-13 11:37**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-10-23 18:56**: feat: add category-specific practice modes
 - **2016-10-24 13:39**: fix: adjust passing score threshold according to new rules
 - **2016-10-24 16:00**: fix: resolve layout shift during question transitions
+- **2016-10-24 20:21**: fix: prevent option re-selection after submitting answer
