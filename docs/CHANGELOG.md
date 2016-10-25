@@ -1,4 +1,3 @@
-- **2016-09-12 14:05**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-13 09:01**: refactor: optimize SVG rendering for road signs
 - **2016-09-13 11:37**: feat: add warning signs and informational road signs
 - **2016-09-13 16:23**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2016-10-24 13:39**: fix: adjust passing score threshold according to new rules
 - **2016-10-24 16:00**: fix: resolve layout shift during question transitions
 - **2016-10-24 20:21**: fix: prevent option re-selection after submitting answer
+- **2016-10-25 11:07**: feat: support multiple choice questions for motorcycle category
