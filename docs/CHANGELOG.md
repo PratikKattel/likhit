@@ -1,4 +1,3 @@
-- **2016-09-13 16:23**: docs: add instructions for Nepali driving license written exam
 - **2016-09-14 19:57**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-15 20:44**: refactor: optimize SVG rendering for road signs
 - **2016-09-16 16:04**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-10-25 11:07**: feat: support multiple choice questions for motorcycle category
 - **2016-10-25 11:32**: docs: update traffic signals catalog documentation
 - **2016-10-25 21:26**: refactor: restructure question data schema for faster loading
+- **2016-10-26 20:30**: feat: support multiple choice questions for motorcycle category
