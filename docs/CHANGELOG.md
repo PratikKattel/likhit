@@ -1,4 +1,3 @@
-- **2016-09-15 20:44**: refactor: optimize SVG rendering for road signs
 - **2016-09-16 16:04**: style: polish typography and Nepali Unicode font rendering
 - **2016-09-17 13:55**: fix: prevent option re-selection after submitting answer
 - **2016-09-18 16:11**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-10-25 21:26**: refactor: restructure question data schema for faster loading
 - **2016-10-26 20:30**: feat: support multiple choice questions for motorcycle category
 - **2016-10-27 10:48**: refactor: restructure question data schema for faster loading
+- **2016-10-27 12:33**: perf: index question IDs for rapid lookup
