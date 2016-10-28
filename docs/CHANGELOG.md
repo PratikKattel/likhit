@@ -1,4 +1,3 @@
-- **2016-09-17 13:55**: fix: prevent option re-selection after submitting answer
 - **2016-09-18 16:11**: perf: optimize image caching for traffic sign assets
 - **2016-09-18 18:56**: perf: lazy load signal graphics and question assets
 - **2016-09-19 19:50**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2016-10-27 10:48**: refactor: restructure question data schema for faster loading
 - **2016-10-27 12:33**: perf: index question IDs for rapid lookup
 - **2016-10-28 11:47**: style: enhance traffic sign card layout and responsiveness
+- **2016-10-28 16:20**: feat: support multiple choice questions for motorcycle category
