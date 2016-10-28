@@ -1,4 +1,3 @@
-- **2016-09-18 18:56**: perf: lazy load signal graphics and question assets
 - **2016-09-19 19:50**: refactor: optimize SVG rendering for road signs
 - **2016-09-20 14:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-20 19:52**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2016-10-28 11:47**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-28 16:20**: feat: support multiple choice questions for motorcycle category
 - **2016-10-28 16:26**: feat: add result summary with passing threshold analysis
+- **2016-10-28 20:15**: fix: update DOTM Nepal license syllabus questions
