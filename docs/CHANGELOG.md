@@ -1,4 +1,3 @@
-- **2016-09-20 19:52**: fix: adjust passing score threshold according to new rules
 - **2016-09-21 19:53**: feat: implement timer and score calculation for mock test
 - **2016-09-22 14:26**: test: verify question extraction script against exam PDF
 - **2016-09-22 21:03**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-10-28 20:15**: fix: update DOTM Nepal license syllabus questions
 - **2016-10-29 11:21**: docs: update traffic signals catalog documentation
 - **2016-10-29 12:34**: perf: optimize image caching for traffic sign assets
+- **2016-10-29 18:54**: docs: update README with setup instructions and feature list
