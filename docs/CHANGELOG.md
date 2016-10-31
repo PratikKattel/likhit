@@ -1,4 +1,3 @@
-- **2016-09-22 21:03**: feat: add search and filter by sign category
 - **2016-09-23 17:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-24 09:27**: chore: organize assets and image directory structure
 - **2016-09-24 12:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-10-29 18:54**: docs: update README with setup instructions and feature list
 - **2016-10-30 20:13**: chore: organize assets and image directory structure
 - **2016-10-30 20:54**: feat: support multiple choice questions for motorcycle category
+- **2016-10-31 13:37**: docs: update traffic signals catalog documentation
