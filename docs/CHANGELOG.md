@@ -1,4 +1,3 @@
-- **2016-09-24 09:27**: chore: organize assets and image directory structure
 - **2016-09-24 12:45**: docs: update traffic signals catalog documentation
 - **2016-09-24 17:11**: feat: add regulatory traffic signs SVG graphics
 - **2016-09-25 11:52**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-10-30 20:54**: feat: support multiple choice questions for motorcycle category
 - **2016-10-31 13:37**: docs: update traffic signals catalog documentation
 - **2016-10-31 17:31**: feat: add regulatory traffic signs SVG graphics
+- **2016-10-31 18:33**: refactor: modularize traffic app logic and event listeners
