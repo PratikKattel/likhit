@@ -1,4 +1,3 @@
-- **2016-09-24 17:11**: feat: add regulatory traffic signs SVG graphics
 - **2016-09-25 11:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-25 15:56**: chore: update questions database with recent DOTM updates
 - **2016-09-25 18:58**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-10-31 17:31**: feat: add regulatory traffic signs SVG graphics
 - **2016-10-31 18:33**: refactor: modularize traffic app logic and event listeners
 - **2016-10-31 21:34**: perf: lazy load signal graphics and question assets
+- **2016-11-01 09:07**: chore: format code style and clean up redundant variables
