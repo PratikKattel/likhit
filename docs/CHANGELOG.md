@@ -1,4 +1,3 @@
-- **2016-09-26 17:59**: chore: update project metadata and build configuration
 - **2016-09-26 19:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-27 18:17**: perf: optimize image caching for traffic sign assets
 - **2016-09-28 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2016-11-01 20:31**: feat: add instant feedback and explanation on answer selection
 - **2016-11-02 09:47**: fix: prevent option re-selection after submitting answer
 - **2016-11-02 14:24**: style: enhance traffic sign card layout and responsiveness
+- **2016-11-03 11:31**: test: verify question extraction script against exam PDF
