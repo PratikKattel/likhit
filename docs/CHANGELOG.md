@@ -1,4 +1,3 @@
-- **2016-09-26 19:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-27 18:17**: perf: optimize image caching for traffic sign assets
 - **2016-09-28 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-29 18:00**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-11-02 09:47**: fix: prevent option re-selection after submitting answer
 - **2016-11-02 14:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-11-03 11:31**: test: verify question extraction script against exam PDF
+- **2016-11-03 13:06**: fix: typo in Nepali road safety regulations question
