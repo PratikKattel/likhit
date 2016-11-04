@@ -1,4 +1,3 @@
-- **2016-09-28 15:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-09-29 18:00**: feat: support multiple choice questions for motorcycle category
 - **2016-09-29 20:42**: fix: correct color specifications for mandatory traffic signs
 - **2016-09-30 12:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2016-11-03 11:31**: test: verify question extraction script against exam PDF
 - **2016-11-03 13:06**: fix: typo in Nepali road safety regulations question
 - **2016-11-04 22:25**: docs: improve code comments and API documentation
+- **2016-11-04 22:28**: test: verify question extraction script against exam PDF
