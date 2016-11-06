@@ -1,4 +1,3 @@
-- **2016-09-30 12:50**: perf: lazy load signal graphics and question assets
 - **2016-10-01 09:38**: feat: implement timer and score calculation for mock test
 - **2016-10-01 12:57**: docs: update traffic signals catalog documentation
 - **2016-10-01 13:29**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-11-04 22:28**: test: verify question extraction script against exam PDF
 - **2016-11-05 20:26**: fix: typo in Nepali road safety regulations question
 - **2016-11-05 22:21**: feat: implement timer and score calculation for mock test
+- **2016-11-06 11:35**: feat: add result summary with passing threshold analysis
