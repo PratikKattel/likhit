@@ -1,4 +1,3 @@
-- **2016-10-01 20:58**: feat: implement timer and score calculation for mock test
 - **2016-10-02 12:43**: refactor: restructure question data schema for faster loading
 - **2016-10-02 21:05**: perf: optimize image caching for traffic sign assets
 - **2016-10-03 19:36**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-11-06 21:06**: fix: typo in Nepali road safety regulations question
 - **2016-11-07 22:07**: feat: add warning signs and informational road signs
 - **2016-11-08 15:43**: feat: add regulatory traffic signs SVG graphics
+- **2016-11-08 17:54**: fix: update DOTM Nepal license syllabus questions
