@@ -1,4 +1,3 @@
-- **2016-10-02 12:43**: refactor: restructure question data schema for faster loading
 - **2016-10-02 21:05**: perf: optimize image caching for traffic sign assets
 - **2016-10-03 19:36**: refactor: restructure question data schema for faster loading
 - **2016-10-04 17:31**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2016-11-07 22:07**: feat: add warning signs and informational road signs
 - **2016-11-08 15:43**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-08 17:54**: fix: update DOTM Nepal license syllabus questions
+- **2016-11-09 20:06**: feat: add regulatory traffic signs SVG graphics
