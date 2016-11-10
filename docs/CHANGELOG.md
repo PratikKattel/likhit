@@ -1,4 +1,3 @@
-- **2016-10-03 19:36**: refactor: restructure question data schema for faster loading
 - **2016-10-04 17:31**: feat: add search and filter by sign category
 - **2016-10-04 21:21**: feat: add search and filter by sign category
 - **2016-10-05 09:33**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-11-08 17:54**: fix: update DOTM Nepal license syllabus questions
 - **2016-11-09 20:06**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-10 12:39**: feat: add category-specific practice modes
+- **2016-11-10 14:45**: fix: typo in Nepali road safety regulations question
