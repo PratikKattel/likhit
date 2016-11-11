@@ -1,4 +1,3 @@
-- **2016-10-04 21:21**: feat: add search and filter by sign category
 - **2016-10-05 09:33**: docs: update README with setup instructions and feature list
 - **2016-10-06 09:27**: refactor: modularize traffic app logic and event listeners
 - **2016-10-06 15:15**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-11-10 12:39**: feat: add category-specific practice modes
 - **2016-11-10 14:45**: fix: typo in Nepali road safety regulations question
 - **2016-11-10 20:02**: refactor: modularize traffic app logic and event listeners
+- **2016-11-11 11:05**: fix: prevent option re-selection after submitting answer
