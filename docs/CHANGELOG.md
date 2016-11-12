@@ -1,4 +1,3 @@
-- **2016-10-06 15:15**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-06 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-06 22:03**: feat: add instant feedback and explanation on answer selection
 - **2016-10-07 16:35**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-11-11 11:05**: fix: prevent option re-selection after submitting answer
 - **2016-11-11 11:35**: docs: update README with setup instructions and feature list
 - **2016-11-12 12:05**: feat: add instant feedback and explanation on answer selection
+- **2016-11-12 13:23**: test: verify question extraction script against exam PDF
