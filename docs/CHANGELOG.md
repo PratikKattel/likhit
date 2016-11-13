@@ -1,4 +1,3 @@
-- **2016-10-06 22:03**: feat: add instant feedback and explanation on answer selection
 - **2016-10-07 16:35**: refactor: restructure question data schema for faster loading
 - **2016-10-08 09:28**: feat: add result summary with passing threshold analysis
 - **2016-10-08 16:29**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2016-11-12 12:05**: feat: add instant feedback and explanation on answer selection
 - **2016-11-12 13:23**: test: verify question extraction script against exam PDF
 - **2016-11-13 19:19**: perf: optimize image caching for traffic sign assets
+- **2016-11-13 20:25**: chore: update questions database with recent DOTM updates
