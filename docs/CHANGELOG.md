@@ -1,4 +1,3 @@
-- **2016-10-08 16:29**: fix: correct color specifications for mandatory traffic signs
 - **2016-10-09 17:45**: feat: add result summary with passing threshold analysis
 - **2016-10-09 20:12**: feat: add instant feedback and explanation on answer selection
 - **2016-10-10 12:24**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-11-13 20:25**: chore: update questions database with recent DOTM updates
 - **2016-11-13 20:30**: feat: add category A and B traffic test questions
 - **2016-11-14 14:20**: feat: implement timer and score calculation for mock test
+- **2016-11-15 09:56**: chore: update project metadata and build configuration
