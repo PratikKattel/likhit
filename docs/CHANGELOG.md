@@ -1,4 +1,3 @@
-- **2016-10-10 12:24**: chore: update questions database with recent DOTM updates
 - **2016-10-10 16:48**: fix: update DOTM Nepal license syllabus questions
 - **2016-10-10 19:17**: feat: support multiple choice questions for motorcycle category
 - **2016-10-10 20:17**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-11-15 09:56**: chore: update project metadata and build configuration
 - **2016-11-15 17:11**: refactor: restructure question data schema for faster loading
 - **2016-11-15 18:13**: feat: add warning signs and informational road signs
+- **2016-11-16 20:48**: style: enhance traffic sign card layout and responsiveness
