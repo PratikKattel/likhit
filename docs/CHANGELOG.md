@@ -1,4 +1,3 @@
-- **2016-10-10 20:17**: docs: update README with setup instructions and feature list
 - **2016-10-11 20:36**: feat: implement timer and score calculation for mock test
 - **2016-10-12 16:03**: feat: add result summary with passing threshold analysis
 - **2016-10-12 17:29**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2016-11-16 20:48**: style: enhance traffic sign card layout and responsiveness
 - **2016-11-17 09:39**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-17 10:06**: style: polish typography and Nepali Unicode font rendering
+- **2016-11-17 12:25**: refactor: clean up unused CSS classes and optimize stylesheet
