@@ -1,4 +1,3 @@
-- **2016-10-12 17:29**: style: polish typography and Nepali Unicode font rendering
 - **2016-10-13 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-10-14 09:18**: docs: improve code comments and API documentation
 - **2016-10-14 14:02**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2016-11-17 12:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-11-17 15:04**: chore: update questions database with recent DOTM updates
 - **2016-11-18 20:02**: refactor: restructure question data schema for faster loading
+- **2016-11-19 12:40**: feat: add search and filter by sign category
