@@ -1,4 +1,3 @@
-- **2016-10-15 20:46**: chore: organize assets and image directory structure
 - **2016-10-15 21:43**: feat: support multiple choice questions for motorcycle category
 - **2016-10-15 21:58**: style: polish typography and Nepali Unicode font rendering
 - **2016-10-16 10:48**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2016-11-21 09:02**: perf: lazy load signal graphics and question assets
 - **2016-11-21 09:37**: fix: resolve layout shift during question transitions
 - **2016-11-21 15:59**: refactor: restructure question data schema for faster loading
+- **2016-11-21 16:26**: feat: add warning signs and informational road signs
