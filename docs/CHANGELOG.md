@@ -1,4 +1,3 @@
-- **2016-10-14 09:18**: docs: improve code comments and API documentation
 - **2016-10-14 14:02**: perf: optimize image caching for traffic sign assets
 - **2016-10-15 19:56**: docs: update traffic signals catalog documentation
 - **2016-10-15 20:46**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2016-11-18 20:02**: refactor: restructure question data schema for faster loading
 - **2016-11-19 12:40**: feat: add search and filter by sign category
 - **2016-11-20 11:30**: docs: improve code comments and API documentation
+- **2016-11-21 09:02**: perf: lazy load signal graphics and question assets
