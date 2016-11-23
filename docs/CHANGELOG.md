@@ -1,4 +1,3 @@
-- **2016-10-16 10:48**: fix: correct color specifications for mandatory traffic signs
 - **2016-10-16 13:54**: refactor: optimize SVG rendering for road signs
 - **2016-10-16 15:18**: feat: add category-specific practice modes
 - **2016-10-17 13:45**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2016-11-21 16:26**: feat: add warning signs and informational road signs
 - **2016-11-22 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-11-22 21:44**: docs: improve code comments and API documentation
+- **2016-11-23 16:44**: refactor: optimize SVG rendering for road signs
