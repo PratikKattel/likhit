@@ -1,4 +1,3 @@
-- **2016-10-18 15:53**: fix: typo in Nepali road safety regulations question
 - **2016-10-18 19:12**: perf: index question IDs for rapid lookup
 - **2016-10-19 17:33**: chore: format code style and clean up redundant variables
 - **2016-10-19 20:31**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2016-11-25 15:16**: chore: format code style and clean up redundant variables
 - **2016-11-25 17:19**: refactor: modularize traffic app logic and event listeners
 - **2016-11-26 15:49**: chore: organize assets and image directory structure
+- **2016-11-27 12:51**: style: polish typography and Nepali Unicode font rendering
