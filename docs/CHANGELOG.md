@@ -1,4 +1,3 @@
-- **2016-10-21 19:31**: chore: update project metadata and build configuration
 - **2016-10-21 21:23**: chore: format code style and clean up redundant variables
 - **2016-10-22 13:18**: feat: add instant feedback and explanation on answer selection
 - **2016-10-23 18:56**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-11-28 09:22**: chore: update project metadata and build configuration
 - **2016-11-28 11:23**: docs: add instructions for Nepali driving license written exam
 - **2016-11-28 11:41**: refactor: restructure question data schema for faster loading
+- **2016-11-29 11:34**: test: verify question extraction script against exam PDF
