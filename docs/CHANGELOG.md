@@ -1,4 +1,3 @@
-- **2016-10-22 13:18**: feat: add instant feedback and explanation on answer selection
 - **2016-10-23 18:56**: feat: add category-specific practice modes
 - **2016-10-24 13:39**: fix: adjust passing score threshold according to new rules
 - **2016-10-24 16:00**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2016-11-28 11:41**: refactor: restructure question data schema for faster loading
 - **2016-11-29 11:34**: test: verify question extraction script against exam PDF
 - **2016-11-29 15:02**: refactor: optimize SVG rendering for road signs
+- **2016-11-29 16:54**: fix: adjust passing score threshold according to new rules
