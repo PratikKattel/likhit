@@ -1,4 +1,3 @@
-- **2016-10-24 13:39**: fix: adjust passing score threshold according to new rules
 - **2016-10-24 16:00**: fix: resolve layout shift during question transitions
 - **2016-10-24 20:21**: fix: prevent option re-selection after submitting answer
 - **2016-10-25 11:07**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2016-11-29 15:02**: refactor: optimize SVG rendering for road signs
 - **2016-11-29 16:54**: fix: adjust passing score threshold according to new rules
 - **2016-11-30 12:34**: style: polish typography and Nepali Unicode font rendering
+- **2016-12-01 14:08**: fix: prevent option re-selection after submitting answer
