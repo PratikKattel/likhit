@@ -1,4 +1,3 @@
-- **2016-10-24 20:21**: fix: prevent option re-selection after submitting answer
 - **2016-10-25 11:07**: feat: support multiple choice questions for motorcycle category
 - **2016-10-25 11:32**: docs: update traffic signals catalog documentation
 - **2016-10-25 21:26**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2016-11-30 12:34**: style: polish typography and Nepali Unicode font rendering
 - **2016-12-01 14:08**: fix: prevent option re-selection after submitting answer
 - **2016-12-02 11:00**: refactor: modularize traffic app logic and event listeners
+- **2016-12-02 13:03**: chore: update project metadata and build configuration
