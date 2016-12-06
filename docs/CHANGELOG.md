@@ -1,4 +1,3 @@
-- **2016-10-28 11:47**: style: enhance traffic sign card layout and responsiveness
 - **2016-10-28 16:20**: feat: support multiple choice questions for motorcycle category
 - **2016-10-28 16:26**: feat: add result summary with passing threshold analysis
 - **2016-10-28 20:15**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2016-12-05 14:29**: feat: add search and filter by sign category
 - **2016-12-06 09:02**: style: polish typography and Nepali Unicode font rendering
 - **2016-12-06 10:31**: perf: index question IDs for rapid lookup
+- **2016-12-06 20:53**: feat: add keyboard navigation shortcuts for question selection
