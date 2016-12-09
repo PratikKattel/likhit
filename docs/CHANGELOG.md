@@ -1,4 +1,3 @@
-- **2016-10-28 20:15**: fix: update DOTM Nepal license syllabus questions
 - **2016-10-29 11:21**: docs: update traffic signals catalog documentation
 - **2016-10-29 12:34**: perf: optimize image caching for traffic sign assets
 - **2016-10-29 18:54**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-12-06 20:53**: feat: add keyboard navigation shortcuts for question selection
 - **2016-12-07 09:35**: feat: add category-specific practice modes
 - **2016-12-08 16:26**: chore: update project metadata and build configuration
+- **2016-12-09 21:16**: fix: adjust passing score threshold according to new rules
