@@ -1,4 +1,3 @@
-- **2016-10-29 18:54**: docs: update README with setup instructions and feature list
 - **2016-10-30 20:13**: chore: organize assets and image directory structure
 - **2016-10-30 20:54**: feat: support multiple choice questions for motorcycle category
 - **2016-10-31 13:37**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2016-12-09 21:16**: fix: adjust passing score threshold according to new rules
 - **2016-12-09 21:51**: perf: index question IDs for rapid lookup
 - **2016-12-10 20:03**: style: enhance traffic sign card layout and responsiveness
+- **2016-12-11 16:20**: docs: add instructions for Nepali driving license written exam
