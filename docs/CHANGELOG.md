@@ -1,4 +1,3 @@
-- **2016-10-30 20:54**: feat: support multiple choice questions for motorcycle category
 - **2016-10-31 13:37**: docs: update traffic signals catalog documentation
 - **2016-10-31 17:31**: feat: add regulatory traffic signs SVG graphics
 - **2016-10-31 18:33**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-12-10 20:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-11 16:20**: docs: add instructions for Nepali driving license written exam
 - **2016-12-12 09:02**: docs: update traffic signals catalog documentation
+- **2016-12-12 17:12**: refactor: modularize traffic app logic and event listeners
