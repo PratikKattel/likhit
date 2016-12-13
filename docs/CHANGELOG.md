@@ -1,4 +1,3 @@
-- **2016-10-31 18:33**: refactor: modularize traffic app logic and event listeners
 - **2016-10-31 21:34**: perf: lazy load signal graphics and question assets
 - **2016-11-01 09:07**: chore: format code style and clean up redundant variables
 - **2016-11-01 20:31**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2016-12-12 17:12**: refactor: modularize traffic app logic and event listeners
 - **2016-12-12 18:57**: chore: format code style and clean up redundant variables
 - **2016-12-13 09:04**: docs: update README with setup instructions and feature list
+- **2016-12-13 19:13**: fix: resolve layout shift during question transitions
