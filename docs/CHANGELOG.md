@@ -1,4 +1,3 @@
-- **2016-11-02 09:47**: fix: prevent option re-selection after submitting answer
 - **2016-11-02 14:24**: style: enhance traffic sign card layout and responsiveness
 - **2016-11-03 11:31**: test: verify question extraction script against exam PDF
 - **2016-11-03 13:06**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2016-12-14 17:53**: perf: index question IDs for rapid lookup
 - **2016-12-15 10:56**: feat: add search and filter by sign category
 - **2016-12-15 12:15**: fix: resolve layout shift during question transitions
+- **2016-12-16 09:53**: feat: add instant feedback and explanation on answer selection
