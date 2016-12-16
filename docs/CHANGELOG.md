@@ -1,4 +1,3 @@
-- **2016-11-03 11:31**: test: verify question extraction script against exam PDF
 - **2016-11-03 13:06**: fix: typo in Nepali road safety regulations question
 - **2016-11-04 22:25**: docs: improve code comments and API documentation
 - **2016-11-04 22:28**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2016-12-15 12:15**: fix: resolve layout shift during question transitions
 - **2016-12-16 09:53**: feat: add instant feedback and explanation on answer selection
 - **2016-12-16 18:52**: fix: adjust passing score threshold according to new rules
+- **2016-12-16 20:57**: style: enhance traffic sign card layout and responsiveness
