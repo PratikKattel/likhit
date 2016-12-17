@@ -1,4 +1,3 @@
-- **2016-11-04 22:25**: docs: improve code comments and API documentation
 - **2016-11-04 22:28**: test: verify question extraction script against exam PDF
 - **2016-11-05 20:26**: fix: typo in Nepali road safety regulations question
 - **2016-11-05 22:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2016-12-16 18:52**: fix: adjust passing score threshold according to new rules
 - **2016-12-16 20:57**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-17 15:18**: chore: organize assets and image directory structure
+- **2016-12-17 18:27**: fix: typo in Nepali road safety regulations question
