@@ -1,4 +1,3 @@
-- **2016-11-05 22:21**: feat: implement timer and score calculation for mock test
 - **2016-11-06 11:35**: feat: add result summary with passing threshold analysis
 - **2016-11-06 21:06**: fix: typo in Nepali road safety regulations question
 - **2016-11-07 22:07**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-12-17 18:27**: fix: typo in Nepali road safety regulations question
 - **2016-12-18 14:53**: perf: index question IDs for rapid lookup
 - **2016-12-18 15:37**: fix: typo in Nepali road safety regulations question
+- **2016-12-19 14:19**: chore: update questions database with recent DOTM updates
