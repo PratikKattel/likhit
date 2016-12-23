@@ -1,4 +1,3 @@
-- **2016-11-08 15:43**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-08 17:54**: fix: update DOTM Nepal license syllabus questions
 - **2016-11-09 20:06**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-10 12:39**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2016-12-20 13:59**: feat: add category A and B traffic test questions
 - **2016-12-21 09:16**: refactor: optimize SVG rendering for road signs
 - **2016-12-22 22:24**: docs: update traffic signals catalog documentation
+- **2016-12-23 21:57**: fix: typo in Nepali road safety regulations question
