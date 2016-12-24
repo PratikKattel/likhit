@@ -1,4 +1,3 @@
-- **2016-11-09 20:06**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-10 12:39**: feat: add category-specific practice modes
 - **2016-11-10 14:45**: fix: typo in Nepali road safety regulations question
 - **2016-11-10 20:02**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2016-12-22 22:24**: docs: update traffic signals catalog documentation
 - **2016-12-23 21:57**: fix: typo in Nepali road safety regulations question
 - **2016-12-24 17:12**: perf: optimize image caching for traffic sign assets
+- **2016-12-24 17:38**: feat: support multiple choice questions for motorcycle category
