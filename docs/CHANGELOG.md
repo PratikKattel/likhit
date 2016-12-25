@@ -1,4 +1,3 @@
-- **2016-11-10 14:45**: fix: typo in Nepali road safety regulations question
 - **2016-11-10 20:02**: refactor: modularize traffic app logic and event listeners
 - **2016-11-11 11:05**: fix: prevent option re-selection after submitting answer
 - **2016-11-11 11:35**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2016-12-24 17:12**: perf: optimize image caching for traffic sign assets
 - **2016-12-24 17:38**: feat: support multiple choice questions for motorcycle category
 - **2016-12-25 10:23**: fix: update DOTM Nepal license syllabus questions
+- **2016-12-25 18:30**: docs: improve code comments and API documentation
