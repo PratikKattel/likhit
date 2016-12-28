@@ -1,4 +1,3 @@
-- **2016-11-12 12:05**: feat: add instant feedback and explanation on answer selection
 - **2016-11-12 13:23**: test: verify question extraction script against exam PDF
 - **2016-11-13 19:19**: perf: optimize image caching for traffic sign assets
 - **2016-11-13 20:25**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2016-12-25 19:27**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-26 16:46**: feat: add category A and B traffic test questions
 - **2016-12-27 17:52**: fix: correct color specifications for mandatory traffic signs
+- **2016-12-28 18:30**: refactor: clean up unused CSS classes and optimize stylesheet
