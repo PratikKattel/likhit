@@ -1,4 +1,3 @@
-- **2016-11-14 14:20**: feat: implement timer and score calculation for mock test
 - **2016-11-15 09:56**: chore: update project metadata and build configuration
 - **2016-11-15 17:11**: refactor: restructure question data schema for faster loading
 - **2016-11-15 18:13**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2016-12-29 20:31**: fix: adjust passing score threshold according to new rules
 - **2016-12-30 14:57**: fix: update DOTM Nepal license syllabus questions
 - **2016-12-31 09:32**: perf: lazy load signal graphics and question assets
+- **2016-12-31 21:10**: style: improve dark/light mode and mobile UI responsiveness
