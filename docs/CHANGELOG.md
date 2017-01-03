@@ -1,4 +1,3 @@
-- **2016-11-16 20:48**: style: enhance traffic sign card layout and responsiveness
 - **2016-11-17 09:39**: feat: add regulatory traffic signs SVG graphics
 - **2016-11-17 10:06**: style: polish typography and Nepali Unicode font rendering
 - **2016-11-17 12:25**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-01-01 21:32**: docs: update traffic signals catalog documentation
 - **2017-01-02 20:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-02 21:13**: perf: optimize image caching for traffic sign assets
+- **2017-01-03 09:45**: feat: add category A and B traffic test questions
