@@ -1,4 +1,3 @@
-- **2016-11-18 20:02**: refactor: restructure question data schema for faster loading
 - **2016-11-19 12:40**: feat: add search and filter by sign category
 - **2016-11-20 11:30**: docs: improve code comments and API documentation
 - **2016-11-21 09:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-01-04 15:53**: perf: index question IDs for rapid lookup
 - **2017-01-04 17:26**: refactor: modularize traffic app logic and event listeners
 - **2017-01-05 09:39**: refactor: restructure question data schema for faster loading
+- **2017-01-06 10:29**: docs: improve code comments and API documentation
