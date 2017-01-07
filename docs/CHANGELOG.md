@@ -1,4 +1,3 @@
-- **2016-11-21 09:02**: perf: lazy load signal graphics and question assets
 - **2016-11-21 09:37**: fix: resolve layout shift during question transitions
 - **2016-11-21 15:59**: refactor: restructure question data schema for faster loading
 - **2016-11-21 16:26**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2017-01-06 10:29**: docs: improve code comments and API documentation
 - **2017-01-06 15:43**: fix: adjust passing score threshold according to new rules
 - **2017-01-07 09:21**: refactor: modularize traffic app logic and event listeners
+- **2017-01-07 18:38**: fix: typo in Nepali road safety regulations question
