@@ -1,4 +1,3 @@
-- **2016-11-21 15:59**: refactor: restructure question data schema for faster loading
 - **2016-11-21 16:26**: feat: add warning signs and informational road signs
 - **2016-11-22 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-11-22 21:44**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2017-01-07 09:21**: refactor: modularize traffic app logic and event listeners
 - **2017-01-07 18:38**: fix: typo in Nepali road safety regulations question
 - **2017-01-08 19:34**: feat: add keyboard navigation shortcuts for question selection
+- **2017-01-08 21:18**: style: polish typography and Nepali Unicode font rendering
