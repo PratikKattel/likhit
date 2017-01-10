@@ -1,4 +1,3 @@
-- **2016-11-22 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-11-22 21:44**: docs: improve code comments and API documentation
 - **2016-11-23 16:44**: refactor: optimize SVG rendering for road signs
 - **2016-11-24 14:28**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2017-01-08 19:34**: feat: add keyboard navigation shortcuts for question selection
 - **2017-01-08 21:18**: style: polish typography and Nepali Unicode font rendering
 - **2017-01-09 10:29**: feat: add search and filter by sign category
+- **2017-01-10 10:14**: style: improve dark/light mode and mobile UI responsiveness
