@@ -1,4 +1,3 @@
-- **2016-11-24 14:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2016-11-25 15:16**: chore: format code style and clean up redundant variables
 - **2016-11-25 17:19**: refactor: modularize traffic app logic and event listeners
 - **2016-11-26 15:49**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-01-10 10:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-01-10 18:00**: fix: adjust passing score threshold according to new rules
 - **2017-01-11 17:40**: perf: optimize image caching for traffic sign assets
+- **2017-01-12 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
