@@ -1,4 +1,3 @@
-- **2016-11-27 12:51**: style: polish typography and Nepali Unicode font rendering
 - **2016-11-27 17:22**: fix: correct color specifications for mandatory traffic signs
 - **2016-11-28 09:22**: chore: update project metadata and build configuration
 - **2016-11-28 11:23**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-01-13 10:20**: feat: add search and filter by sign category
 - **2017-01-13 14:10**: refactor: modularize traffic app logic and event listeners
 - **2017-01-13 15:05**: test: verify question extraction script against exam PDF
+- **2017-01-14 15:45**: fix: prevent option re-selection after submitting answer
