@@ -1,4 +1,3 @@
-- **2016-11-28 11:41**: refactor: restructure question data schema for faster loading
 - **2016-11-29 11:34**: test: verify question extraction script against exam PDF
 - **2016-11-29 15:02**: refactor: optimize SVG rendering for road signs
 - **2016-11-29 16:54**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-01-14 19:58**: perf: optimize image caching for traffic sign assets
 - **2017-01-14 22:04**: test: verify question extraction script against exam PDF
 - **2017-01-15 09:48**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-01-16 10:35**: fix: prevent option re-selection after submitting answer
