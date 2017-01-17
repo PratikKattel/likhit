@@ -1,4 +1,3 @@
-- **2016-11-29 15:02**: refactor: optimize SVG rendering for road signs
 - **2016-11-29 16:54**: fix: adjust passing score threshold according to new rules
 - **2016-11-30 12:34**: style: polish typography and Nepali Unicode font rendering
 - **2016-12-01 14:08**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-01-15 09:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-01-16 10:35**: fix: prevent option re-selection after submitting answer
 - **2017-01-17 16:30**: test: verify question extraction script against exam PDF
+- **2017-01-17 17:31**: fix: prevent option re-selection after submitting answer
