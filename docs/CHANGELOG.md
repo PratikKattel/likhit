@@ -1,4 +1,3 @@
-- **2016-11-30 12:34**: style: polish typography and Nepali Unicode font rendering
 - **2016-12-01 14:08**: fix: prevent option re-selection after submitting answer
 - **2016-12-02 11:00**: refactor: modularize traffic app logic and event listeners
 - **2016-12-02 13:03**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2017-01-17 16:30**: test: verify question extraction script against exam PDF
 - **2017-01-17 17:31**: fix: prevent option re-selection after submitting answer
 - **2017-01-18 14:31**: feat: add instant feedback and explanation on answer selection
+- **2017-01-18 14:41**: refactor: restructure question data schema for faster loading
