@@ -1,4 +1,3 @@
-- **2016-12-02 13:03**: chore: update project metadata and build configuration
 - **2016-12-03 11:40**: feat: add result summary with passing threshold analysis
 - **2016-12-04 19:36**: fix: correct color specifications for mandatory traffic signs
 - **2016-12-04 19:57**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-01-18 14:41**: refactor: restructure question data schema for faster loading
 - **2017-01-18 14:51**: fix: update DOTM Nepal license syllabus questions
 - **2017-01-19 13:30**: docs: improve code comments and API documentation
+- **2017-01-19 18:28**: fix: adjust passing score threshold according to new rules
