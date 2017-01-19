@@ -1,4 +1,3 @@
-- **2016-12-02 11:00**: refactor: modularize traffic app logic and event listeners
 - **2016-12-02 13:03**: chore: update project metadata and build configuration
 - **2016-12-03 11:40**: feat: add result summary with passing threshold analysis
 - **2016-12-04 19:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2017-01-18 14:31**: feat: add instant feedback and explanation on answer selection
 - **2017-01-18 14:41**: refactor: restructure question data schema for faster loading
 - **2017-01-18 14:51**: fix: update DOTM Nepal license syllabus questions
+- **2017-01-19 13:30**: docs: improve code comments and API documentation
