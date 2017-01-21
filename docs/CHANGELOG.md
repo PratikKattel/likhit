@@ -1,4 +1,3 @@
-- **2016-12-05 14:29**: feat: add search and filter by sign category
 - **2016-12-06 09:02**: style: polish typography and Nepali Unicode font rendering
 - **2016-12-06 10:31**: perf: index question IDs for rapid lookup
 - **2016-12-06 20:53**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-01-19 20:49**: feat: add result summary with passing threshold analysis
 - **2017-01-20 20:29**: perf: index question IDs for rapid lookup
 - **2017-01-21 12:34**: style: enhance traffic sign card layout and responsiveness
+- **2017-01-21 17:56**: perf: index question IDs for rapid lookup
