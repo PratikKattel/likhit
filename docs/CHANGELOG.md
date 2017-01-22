@@ -1,4 +1,3 @@
-- **2016-12-07 09:35**: feat: add category-specific practice modes
 - **2016-12-08 16:26**: chore: update project metadata and build configuration
 - **2016-12-09 21:16**: fix: adjust passing score threshold according to new rules
 - **2016-12-09 21:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-01-21 19:35**: perf: index question IDs for rapid lookup
 - **2017-01-22 12:03**: feat: support multiple choice questions for motorcycle category
 - **2017-01-22 18:19**: chore: format code style and clean up redundant variables
+- **2017-01-22 18:29**: chore: update project metadata and build configuration
