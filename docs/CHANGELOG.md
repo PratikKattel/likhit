@@ -1,4 +1,3 @@
-- **2016-12-09 21:51**: perf: index question IDs for rapid lookup
 - **2016-12-10 20:03**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-11 16:20**: docs: add instructions for Nepali driving license written exam
 - **2016-12-12 09:02**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2017-01-22 18:29**: chore: update project metadata and build configuration
 - **2017-01-23 13:16**: feat: add instant feedback and explanation on answer selection
 - **2017-01-23 16:36**: fix: adjust passing score threshold according to new rules
+- **2017-01-23 20:41**: fix: typo in Nepali road safety regulations question
