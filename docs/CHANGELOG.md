@@ -1,4 +1,3 @@
-- **2016-12-11 16:20**: docs: add instructions for Nepali driving license written exam
 - **2016-12-12 09:02**: docs: update traffic signals catalog documentation
 - **2016-12-12 17:12**: refactor: modularize traffic app logic and event listeners
 - **2016-12-12 18:57**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-01-23 16:36**: fix: adjust passing score threshold according to new rules
 - **2017-01-23 20:41**: fix: typo in Nepali road safety regulations question
 - **2017-01-24 09:01**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-01-24 16:21**: feat: add instant feedback and explanation on answer selection
