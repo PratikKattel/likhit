@@ -1,4 +1,3 @@
-- **2016-12-12 09:02**: docs: update traffic signals catalog documentation
 - **2016-12-12 17:12**: refactor: modularize traffic app logic and event listeners
 - **2016-12-12 18:57**: chore: format code style and clean up redundant variables
 - **2016-12-13 09:04**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2017-01-23 20:41**: fix: typo in Nepali road safety regulations question
 - **2017-01-24 09:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-24 16:21**: feat: add instant feedback and explanation on answer selection
+- **2017-01-25 16:13**: refactor: restructure question data schema for faster loading
