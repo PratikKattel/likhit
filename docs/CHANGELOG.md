@@ -1,4 +1,3 @@
-- **2016-12-12 18:57**: chore: format code style and clean up redundant variables
 - **2016-12-13 09:04**: docs: update README with setup instructions and feature list
 - **2016-12-13 19:13**: fix: resolve layout shift during question transitions
 - **2016-12-14 17:53**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-01-24 16:21**: feat: add instant feedback and explanation on answer selection
 - **2017-01-25 16:13**: refactor: restructure question data schema for faster loading
 - **2017-01-26 16:33**: feat: add search and filter by sign category
+- **2017-01-26 17:03**: refactor: clean up unused CSS classes and optimize stylesheet
