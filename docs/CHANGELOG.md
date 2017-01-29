@@ -1,4 +1,3 @@
-- **2016-12-15 12:15**: fix: resolve layout shift during question transitions
 - **2016-12-16 09:53**: feat: add instant feedback and explanation on answer selection
 - **2016-12-16 18:52**: fix: adjust passing score threshold according to new rules
 - **2016-12-16 20:57**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-01-27 18:52**: fix: prevent option re-selection after submitting answer
 - **2017-01-27 20:38**: fix: adjust passing score threshold according to new rules
 - **2017-01-28 17:47**: chore: format code style and clean up redundant variables
+- **2017-01-29 16:37**: feat: add search and filter by sign category
