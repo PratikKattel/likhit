@@ -1,4 +1,3 @@
-- **2016-12-16 20:57**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-17 15:18**: chore: organize assets and image directory structure
 - **2016-12-17 18:27**: fix: typo in Nepali road safety regulations question
 - **2016-12-18 14:53**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-01-29 16:37**: feat: add search and filter by sign category
 - **2017-01-30 09:37**: perf: lazy load signal graphics and question assets
 - **2017-01-30 12:29**: perf: index question IDs for rapid lookup
+- **2017-01-30 12:57**: docs: update README with setup instructions and feature list
