@@ -1,4 +1,3 @@
-- **2016-12-18 14:53**: perf: index question IDs for rapid lookup
 - **2016-12-18 15:37**: fix: typo in Nepali road safety regulations question
 - **2016-12-19 14:19**: chore: update questions database with recent DOTM updates
 - **2016-12-20 13:59**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-01-30 12:57**: docs: update README with setup instructions and feature list
 - **2017-01-30 21:14**: perf: index question IDs for rapid lookup
 - **2017-01-31 15:09**: style: enhance traffic sign card layout and responsiveness
+- **2017-02-01 13:15**: style: improve dark/light mode and mobile UI responsiveness
