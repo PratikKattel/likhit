@@ -1,4 +1,3 @@
-- **2016-12-22 22:24**: docs: update traffic signals catalog documentation
 - **2016-12-23 21:57**: fix: typo in Nepali road safety regulations question
 - **2016-12-24 17:12**: perf: optimize image caching for traffic sign assets
 - **2016-12-24 17:38**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-02-02 09:37**: perf: index question IDs for rapid lookup
 - **2017-02-03 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-02-03 14:09**: style: enhance traffic sign card layout and responsiveness
+- **2017-02-03 16:16**: feat: add keyboard navigation shortcuts for question selection
