@@ -1,4 +1,3 @@
-- **2016-12-24 17:12**: perf: optimize image caching for traffic sign assets
 - **2016-12-24 17:38**: feat: support multiple choice questions for motorcycle category
 - **2016-12-25 10:23**: fix: update DOTM Nepal license syllabus questions
 - **2016-12-25 18:30**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2017-02-03 14:09**: style: enhance traffic sign card layout and responsiveness
 - **2017-02-03 16:16**: feat: add keyboard navigation shortcuts for question selection
 - **2017-02-04 10:06**: feat: implement timer and score calculation for mock test
+- **2017-02-04 10:49**: perf: index question IDs for rapid lookup
