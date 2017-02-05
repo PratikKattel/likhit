@@ -1,4 +1,3 @@
-- **2016-12-25 10:23**: fix: update DOTM Nepal license syllabus questions
 - **2016-12-25 18:30**: docs: improve code comments and API documentation
 - **2016-12-25 19:27**: style: enhance traffic sign card layout and responsiveness
 - **2016-12-26 16:46**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-02-04 10:06**: feat: implement timer and score calculation for mock test
 - **2017-02-04 10:49**: perf: index question IDs for rapid lookup
 - **2017-02-05 16:47**: perf: optimize image caching for traffic sign assets
+- **2017-02-05 17:14**: fix: adjust passing score threshold according to new rules
