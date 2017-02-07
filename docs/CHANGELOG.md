@@ -1,4 +1,3 @@
-- **2016-12-26 16:46**: feat: add category A and B traffic test questions
 - **2016-12-27 17:52**: fix: correct color specifications for mandatory traffic signs
 - **2016-12-28 18:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2016-12-29 17:04**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-02-05 17:14**: fix: adjust passing score threshold according to new rules
 - **2017-02-06 20:30**: style: enhance traffic sign card layout and responsiveness
 - **2017-02-07 09:23**: fix: update DOTM Nepal license syllabus questions
+- **2017-02-07 11:13**: feat: add keyboard navigation shortcuts for question selection
