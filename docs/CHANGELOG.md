@@ -1,4 +1,3 @@
-- **2016-12-29 20:31**: fix: adjust passing score threshold according to new rules
 - **2016-12-30 14:57**: fix: update DOTM Nepal license syllabus questions
 - **2016-12-31 09:32**: perf: lazy load signal graphics and question assets
 - **2016-12-31 21:10**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2017-02-08 09:59**: chore: update questions database with recent DOTM updates
 - **2017-02-08 19:21**: feat: add keyboard navigation shortcuts for question selection
 - **2017-02-08 22:21**: perf: optimize image caching for traffic sign assets
+- **2017-02-09 16:50**: fix: prevent option re-selection after submitting answer
