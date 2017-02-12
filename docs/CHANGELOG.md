@@ -1,4 +1,3 @@
-- **2016-12-31 21:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-01-01 21:32**: docs: update traffic signals catalog documentation
 - **2017-01-02 20:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-02 21:13**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-02-09 16:50**: fix: prevent option re-selection after submitting answer
 - **2017-02-10 11:22**: chore: update questions database with recent DOTM updates
 - **2017-02-11 18:41**: refactor: optimize SVG rendering for road signs
+- **2017-02-12 20:39**: fix: correct color specifications for mandatory traffic signs
