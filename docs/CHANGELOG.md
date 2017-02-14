@@ -1,4 +1,3 @@
-- **2017-01-02 21:13**: perf: optimize image caching for traffic sign assets
 - **2017-01-03 09:45**: feat: add category A and B traffic test questions
 - **2017-01-03 16:49**: test: verify question extraction script against exam PDF
 - **2017-01-04 15:53**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-02-12 20:39**: fix: correct color specifications for mandatory traffic signs
 - **2017-02-13 19:12**: docs: update README with setup instructions and feature list
 - **2017-02-14 17:38**: perf: index question IDs for rapid lookup
+- **2017-02-14 18:49**: chore: update project metadata and build configuration
