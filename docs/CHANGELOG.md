@@ -1,4 +1,3 @@
-- **2017-01-02 20:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-02 21:13**: perf: optimize image caching for traffic sign assets
 - **2017-01-03 09:45**: feat: add category A and B traffic test questions
 - **2017-01-03 16:49**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2017-02-11 18:41**: refactor: optimize SVG rendering for road signs
 - **2017-02-12 20:39**: fix: correct color specifications for mandatory traffic signs
 - **2017-02-13 19:12**: docs: update README with setup instructions and feature list
+- **2017-02-14 17:38**: perf: index question IDs for rapid lookup
