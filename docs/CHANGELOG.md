@@ -1,4 +1,3 @@
-- **2017-01-03 09:45**: feat: add category A and B traffic test questions
 - **2017-01-03 16:49**: test: verify question extraction script against exam PDF
 - **2017-01-04 15:53**: perf: index question IDs for rapid lookup
 - **2017-01-04 17:26**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2017-02-13 19:12**: docs: update README with setup instructions and feature list
 - **2017-02-14 17:38**: perf: index question IDs for rapid lookup
 - **2017-02-14 18:49**: chore: update project metadata and build configuration
+- **2017-02-14 20:00**: style: improve dark/light mode and mobile UI responsiveness
