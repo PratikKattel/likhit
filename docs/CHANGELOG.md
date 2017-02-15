@@ -1,4 +1,3 @@
-- **2017-01-03 16:49**: test: verify question extraction script against exam PDF
 - **2017-01-04 15:53**: perf: index question IDs for rapid lookup
 - **2017-01-04 17:26**: refactor: modularize traffic app logic and event listeners
 - **2017-01-05 09:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2017-02-14 17:38**: perf: index question IDs for rapid lookup
 - **2017-02-14 18:49**: chore: update project metadata and build configuration
 - **2017-02-14 20:00**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-02-15 12:42**: chore: organize assets and image directory structure
