@@ -1,4 +1,3 @@
-- **2017-01-06 15:43**: fix: adjust passing score threshold according to new rules
 - **2017-01-07 09:21**: refactor: modularize traffic app logic and event listeners
 - **2017-01-07 18:38**: fix: typo in Nepali road safety regulations question
 - **2017-01-08 19:34**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-02-16 15:15**: feat: add category A and B traffic test questions
 - **2017-02-17 13:07**: fix: typo in Nepali road safety regulations question
 - **2017-02-17 19:42**: feat: add warning signs and informational road signs
+- **2017-02-17 21:11**: fix: update DOTM Nepal license syllabus questions
