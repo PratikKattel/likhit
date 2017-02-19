@@ -1,4 +1,3 @@
-- **2017-01-07 18:38**: fix: typo in Nepali road safety regulations question
 - **2017-01-08 19:34**: feat: add keyboard navigation shortcuts for question selection
 - **2017-01-08 21:18**: style: polish typography and Nepali Unicode font rendering
 - **2017-01-09 10:29**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-02-17 19:42**: feat: add warning signs and informational road signs
 - **2017-02-17 21:11**: fix: update DOTM Nepal license syllabus questions
 - **2017-02-18 13:19**: feat: add keyboard navigation shortcuts for question selection
+- **2017-02-19 12:21**: style: improve dark/light mode and mobile UI responsiveness
