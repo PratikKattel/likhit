@@ -1,4 +1,3 @@
-- **2017-01-09 10:29**: feat: add search and filter by sign category
 - **2017-01-10 10:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-01-10 18:00**: fix: adjust passing score threshold according to new rules
 - **2017-01-11 17:40**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-02-19 12:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-19 19:33**: fix: update DOTM Nepal license syllabus questions
 - **2017-02-20 11:25**: refactor: restructure question data schema for faster loading
+- **2017-02-21 19:15**: feat: support multiple choice questions for motorcycle category
