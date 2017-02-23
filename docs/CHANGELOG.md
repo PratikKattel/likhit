@@ -1,4 +1,3 @@
-- **2017-01-11 17:40**: perf: optimize image caching for traffic sign assets
 - **2017-01-12 16:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-13 10:20**: feat: add search and filter by sign category
 - **2017-01-13 14:10**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2017-02-21 19:15**: feat: support multiple choice questions for motorcycle category
 - **2017-02-21 22:01**: feat: add category A and B traffic test questions
 - **2017-02-22 11:54**: docs: update README with setup instructions and feature list
+- **2017-02-23 17:14**: style: polish typography and Nepali Unicode font rendering
