@@ -1,4 +1,3 @@
-- **2017-01-13 14:10**: refactor: modularize traffic app logic and event listeners
 - **2017-01-13 15:05**: test: verify question extraction script against exam PDF
 - **2017-01-14 15:45**: fix: prevent option re-selection after submitting answer
 - **2017-01-14 19:58**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-02-23 17:14**: style: polish typography and Nepali Unicode font rendering
 - **2017-02-24 11:00**: fix: prevent option re-selection after submitting answer
 - **2017-02-24 11:20**: feat: support multiple choice questions for motorcycle category
+- **2017-02-25 13:04**: test: verify question extraction script against exam PDF
