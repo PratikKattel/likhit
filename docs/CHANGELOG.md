@@ -1,4 +1,3 @@
-- **2017-01-15 09:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-01-16 10:35**: fix: prevent option re-selection after submitting answer
 - **2017-01-17 16:30**: test: verify question extraction script against exam PDF
 - **2017-01-17 17:31**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-02-25 14:35**: docs: update traffic signals catalog documentation
 - **2017-02-26 10:23**: perf: optimize image caching for traffic sign assets
 - **2017-02-26 12:19**: refactor: optimize SVG rendering for road signs
+- **2017-02-26 13:28**: feat: add regulatory traffic signs SVG graphics
