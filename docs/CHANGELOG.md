@@ -1,4 +1,3 @@
-- **2017-01-17 17:31**: fix: prevent option re-selection after submitting answer
 - **2017-01-18 14:31**: feat: add instant feedback and explanation on answer selection
 - **2017-01-18 14:41**: refactor: restructure question data schema for faster loading
 - **2017-01-18 14:51**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-02-26 13:28**: feat: add regulatory traffic signs SVG graphics
 - **2017-02-27 10:36**: docs: update README with setup instructions and feature list
 - **2017-02-27 15:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-02-28 11:35**: feat: implement timer and score calculation for mock test
