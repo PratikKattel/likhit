@@ -1,4 +1,3 @@
-- **2017-01-18 14:41**: refactor: restructure question data schema for faster loading
 - **2017-01-18 14:51**: fix: update DOTM Nepal license syllabus questions
 - **2017-01-19 13:30**: docs: improve code comments and API documentation
 - **2017-01-19 18:28**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-02-27 15:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-28 11:35**: feat: implement timer and score calculation for mock test
 - **2017-03-01 11:20**: feat: add keyboard navigation shortcuts for question selection
+- **2017-03-02 15:21**: style: enhance traffic sign card layout and responsiveness
