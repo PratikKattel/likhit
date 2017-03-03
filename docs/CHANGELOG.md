@@ -1,4 +1,3 @@
-- **2017-01-19 18:28**: fix: adjust passing score threshold according to new rules
 - **2017-01-19 20:49**: feat: add result summary with passing threshold analysis
 - **2017-01-20 20:29**: perf: index question IDs for rapid lookup
 - **2017-01-21 12:34**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-03-02 15:21**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-02 17:45**: style: polish typography and Nepali Unicode font rendering
 - **2017-03-02 18:05**: chore: organize assets and image directory structure
+- **2017-03-03 13:07**: perf: lazy load signal graphics and question assets
