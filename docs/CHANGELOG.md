@@ -1,4 +1,3 @@
-- **2017-01-20 20:29**: perf: index question IDs for rapid lookup
 - **2017-01-21 12:34**: style: enhance traffic sign card layout and responsiveness
 - **2017-01-21 17:56**: perf: index question IDs for rapid lookup
 - **2017-01-21 19:35**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-03-02 18:05**: chore: organize assets and image directory structure
 - **2017-03-03 13:07**: perf: lazy load signal graphics and question assets
 - **2017-03-04 09:18**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-03-04 19:03**: perf: lazy load signal graphics and question assets
