@@ -1,4 +1,3 @@
-- **2017-01-22 12:03**: feat: support multiple choice questions for motorcycle category
 - **2017-01-22 18:19**: chore: format code style and clean up redundant variables
 - **2017-01-22 18:29**: chore: update project metadata and build configuration
 - **2017-01-23 13:16**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2017-03-05 12:23**: feat: add category A and B traffic test questions
 - **2017-03-05 19:11**: refactor: optimize SVG rendering for road signs
 - **2017-03-06 11:28**: chore: format code style and clean up redundant variables
+- **2017-03-06 20:30**: feat: add search and filter by sign category
