@@ -1,4 +1,3 @@
-- **2017-01-23 13:16**: feat: add instant feedback and explanation on answer selection
 - **2017-01-23 16:36**: fix: adjust passing score threshold according to new rules
 - **2017-01-23 20:41**: fix: typo in Nepali road safety regulations question
 - **2017-01-24 09:01**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-03-06 20:30**: feat: add search and filter by sign category
 - **2017-03-07 09:12**: fix: resolve layout shift during question transitions
 - **2017-03-07 14:09**: perf: lazy load signal graphics and question assets
+- **2017-03-08 22:29**: docs: update traffic signals catalog documentation
