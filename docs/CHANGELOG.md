@@ -1,4 +1,3 @@
-- **2017-01-24 09:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-24 16:21**: feat: add instant feedback and explanation on answer selection
 - **2017-01-25 16:13**: refactor: restructure question data schema for faster loading
 - **2017-01-26 16:33**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-03-08 22:29**: docs: update traffic signals catalog documentation
 - **2017-03-09 16:16**: test: verify question extraction script against exam PDF
 - **2017-03-10 09:36**: feat: add result summary with passing threshold analysis
+- **2017-03-11 13:15**: feat: add keyboard navigation shortcuts for question selection
