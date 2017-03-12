@@ -1,4 +1,3 @@
-- **2017-01-25 16:13**: refactor: restructure question data schema for faster loading
 - **2017-01-26 16:33**: feat: add search and filter by sign category
 - **2017-01-26 17:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-01-26 18:25**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-03-10 09:36**: feat: add result summary with passing threshold analysis
 - **2017-03-11 13:15**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-11 18:35**: style: enhance traffic sign card layout and responsiveness
+- **2017-03-12 18:19**: fix: update DOTM Nepal license syllabus questions
