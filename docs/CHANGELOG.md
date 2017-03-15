@@ -1,4 +1,3 @@
-- **2017-01-27 18:52**: fix: prevent option re-selection after submitting answer
 - **2017-01-27 20:38**: fix: adjust passing score threshold according to new rules
 - **2017-01-28 17:47**: chore: format code style and clean up redundant variables
 - **2017-01-29 16:37**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-03-13 18:04**: feat: add regulatory traffic signs SVG graphics
 - **2017-03-14 15:27**: docs: update traffic signals catalog documentation
 - **2017-03-14 21:17**: feat: implement timer and score calculation for mock test
+- **2017-03-15 10:45**: fix: typo in Nepali road safety regulations question
