@@ -1,4 +1,3 @@
-- **2017-01-30 12:29**: perf: index question IDs for rapid lookup
 - **2017-01-30 12:57**: docs: update README with setup instructions and feature list
 - **2017-01-30 21:14**: perf: index question IDs for rapid lookup
 - **2017-01-31 15:09**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-03-16 10:45**: feat: support multiple choice questions for motorcycle category
 - **2017-03-16 13:37**: feat: add regulatory traffic signs SVG graphics
 - **2017-03-16 14:40**: perf: index question IDs for rapid lookup
+- **2017-03-16 19:11**: chore: update project metadata and build configuration
