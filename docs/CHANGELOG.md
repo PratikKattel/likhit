@@ -1,4 +1,3 @@
-- **2017-01-28 17:47**: chore: format code style and clean up redundant variables
 - **2017-01-29 16:37**: feat: add search and filter by sign category
 - **2017-01-30 09:37**: perf: lazy load signal graphics and question assets
 - **2017-01-30 12:29**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-03-14 21:17**: feat: implement timer and score calculation for mock test
 - **2017-03-15 10:45**: fix: typo in Nepali road safety regulations question
 - **2017-03-15 14:51**: feat: add category A and B traffic test questions
+- **2017-03-16 10:45**: feat: support multiple choice questions for motorcycle category
