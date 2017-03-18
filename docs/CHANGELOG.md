@@ -1,4 +1,3 @@
-- **2017-01-31 15:09**: style: enhance traffic sign card layout and responsiveness
 - **2017-02-01 13:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-01 19:32**: chore: format code style and clean up redundant variables
 - **2017-02-02 09:37**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-03-16 19:11**: chore: update project metadata and build configuration
 - **2017-03-17 21:14**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-18 15:21**: feat: implement timer and score calculation for mock test
+- **2017-03-18 16:35**: feat: add instant feedback and explanation on answer selection
