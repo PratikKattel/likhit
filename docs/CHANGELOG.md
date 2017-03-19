@@ -1,4 +1,3 @@
-- **2017-02-03 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-02-03 14:09**: style: enhance traffic sign card layout and responsiveness
 - **2017-02-03 16:16**: feat: add keyboard navigation shortcuts for question selection
 - **2017-02-04 10:06**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-18 20:51**: feat: support multiple choice questions for motorcycle category
 - **2017-03-19 12:22**: fix: prevent option re-selection after submitting answer
+- **2017-03-19 15:55**: fix: resolve layout shift during question transitions
