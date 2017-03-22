@@ -1,4 +1,3 @@
-- **2017-02-04 10:49**: perf: index question IDs for rapid lookup
 - **2017-02-05 16:47**: perf: optimize image caching for traffic sign assets
 - **2017-02-05 17:14**: fix: adjust passing score threshold according to new rules
 - **2017-02-06 20:30**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-03-19 16:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-03-20 15:58**: perf: lazy load signal graphics and question assets
 - **2017-03-21 12:25**: feat: add keyboard navigation shortcuts for question selection
+- **2017-03-22 15:09**: chore: format code style and clean up redundant variables
