@@ -1,4 +1,3 @@
-- **2017-02-07 09:23**: fix: update DOTM Nepal license syllabus questions
 - **2017-02-07 11:13**: feat: add keyboard navigation shortcuts for question selection
 - **2017-02-08 09:59**: chore: update questions database with recent DOTM updates
 - **2017-02-08 19:21**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-03-23 18:13**: feat: support multiple choice questions for motorcycle category
 - **2017-03-23 20:59**: perf: index question IDs for rapid lookup
 - **2017-03-24 20:23**: style: enhance traffic sign card layout and responsiveness
+- **2017-03-25 16:29**: fix: adjust passing score threshold according to new rules
