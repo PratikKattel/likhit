@@ -1,4 +1,3 @@
-- **2017-02-08 19:21**: feat: add keyboard navigation shortcuts for question selection
 - **2017-02-08 22:21**: perf: optimize image caching for traffic sign assets
 - **2017-02-09 16:50**: fix: prevent option re-selection after submitting answer
 - **2017-02-10 11:22**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-03-25 16:29**: fix: adjust passing score threshold according to new rules
 - **2017-03-25 20:20**: chore: update project metadata and build configuration
 - **2017-03-26 13:30**: perf: index question IDs for rapid lookup
+- **2017-03-26 16:46**: fix: update DOTM Nepal license syllabus questions
