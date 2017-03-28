@@ -1,4 +1,3 @@
-- **2017-02-12 20:39**: fix: correct color specifications for mandatory traffic signs
 - **2017-02-13 19:12**: docs: update README with setup instructions and feature list
 - **2017-02-14 17:38**: perf: index question IDs for rapid lookup
 - **2017-02-14 18:49**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2017-03-26 21:57**: chore: update project metadata and build configuration
 - **2017-03-27 18:06**: fix: adjust passing score threshold according to new rules
 - **2017-03-27 19:12**: perf: index question IDs for rapid lookup
+- **2017-03-28 18:54**: chore: update questions database with recent DOTM updates
