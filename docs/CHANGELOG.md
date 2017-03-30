@@ -1,4 +1,3 @@
-- **2017-02-14 17:38**: perf: index question IDs for rapid lookup
 - **2017-02-14 18:49**: chore: update project metadata and build configuration
 - **2017-02-14 20:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-15 12:42**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-03-27 19:12**: perf: index question IDs for rapid lookup
 - **2017-03-28 18:54**: chore: update questions database with recent DOTM updates
 - **2017-03-29 12:37**: feat: add keyboard navigation shortcuts for question selection
+- **2017-03-30 16:43**: refactor: optimize SVG rendering for road signs
