@@ -1,4 +1,3 @@
-- **2017-02-14 20:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-15 12:42**: chore: organize assets and image directory structure
 - **2017-02-15 14:58**: feat: add result summary with passing threshold analysis
 - **2017-02-16 15:15**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-03-29 12:37**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-30 16:43**: refactor: optimize SVG rendering for road signs
 - **2017-03-31 13:19**: refactor: modularize traffic app logic and event listeners
+- **2017-03-31 19:15**: feat: implement timer and score calculation for mock test
