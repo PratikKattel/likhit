@@ -1,4 +1,3 @@
-- **2017-02-16 15:15**: feat: add category A and B traffic test questions
 - **2017-02-17 13:07**: fix: typo in Nepali road safety regulations question
 - **2017-02-17 19:42**: feat: add warning signs and informational road signs
 - **2017-02-17 21:11**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-03-31 19:15**: feat: implement timer and score calculation for mock test
 - **2017-03-31 21:29**: perf: lazy load signal graphics and question assets
 - **2017-04-01 13:54**: feat: add regulatory traffic signs SVG graphics
+- **2017-04-01 15:32**: refactor: optimize SVG rendering for road signs
