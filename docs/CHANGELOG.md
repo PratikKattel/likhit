@@ -1,4 +1,3 @@
-- **2017-02-19 12:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-19 19:33**: fix: update DOTM Nepal license syllabus questions
 - **2017-02-20 11:25**: refactor: restructure question data schema for faster loading
 - **2017-02-21 19:15**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-04-03 12:46**: fix: correct color specifications for mandatory traffic signs
 - **2017-04-03 13:50**: refactor: restructure question data schema for faster loading
 - **2017-04-03 16:56**: chore: organize assets and image directory structure
+- **2017-04-04 20:51**: chore: format code style and clean up redundant variables
