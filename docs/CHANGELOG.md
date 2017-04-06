@@ -1,4 +1,3 @@
-- **2017-02-20 11:25**: refactor: restructure question data schema for faster loading
 - **2017-02-21 19:15**: feat: support multiple choice questions for motorcycle category
 - **2017-02-21 22:01**: feat: add category A and B traffic test questions
 - **2017-02-22 11:54**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2017-04-03 16:56**: chore: organize assets and image directory structure
 - **2017-04-04 20:51**: chore: format code style and clean up redundant variables
 - **2017-04-05 11:21**: style: polish typography and Nepali Unicode font rendering
+- **2017-04-06 21:23**: chore: format code style and clean up redundant variables
