@@ -1,4 +1,3 @@
-- **2017-02-23 17:14**: style: polish typography and Nepali Unicode font rendering
 - **2017-02-24 11:00**: fix: prevent option re-selection after submitting answer
 - **2017-02-24 11:20**: feat: support multiple choice questions for motorcycle category
 - **2017-02-25 13:04**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2017-04-07 14:46**: feat: implement timer and score calculation for mock test
 - **2017-04-08 13:30**: refactor: restructure question data schema for faster loading
 - **2017-04-09 11:55**: feat: add search and filter by sign category
+- **2017-04-09 18:45**: refactor: optimize SVG rendering for road signs
