@@ -1,4 +1,3 @@
-- **2017-02-24 11:20**: feat: support multiple choice questions for motorcycle category
 - **2017-02-25 13:04**: test: verify question extraction script against exam PDF
 - **2017-02-25 14:01**: fix: adjust passing score threshold according to new rules
 - **2017-02-25 14:35**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2017-04-09 11:55**: feat: add search and filter by sign category
 - **2017-04-09 18:45**: refactor: optimize SVG rendering for road signs
 - **2017-04-10 12:22**: chore: update project metadata and build configuration
+- **2017-04-10 17:23**: refactor: clean up unused CSS classes and optimize stylesheet
