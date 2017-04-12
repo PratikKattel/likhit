@@ -1,4 +1,3 @@
-- **2017-02-26 10:23**: perf: optimize image caching for traffic sign assets
 - **2017-02-26 12:19**: refactor: optimize SVG rendering for road signs
 - **2017-02-26 13:28**: feat: add regulatory traffic signs SVG graphics
 - **2017-02-27 10:36**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2017-04-11 15:33**: feat: add warning signs and informational road signs
 - **2017-04-11 16:55**: feat: add instant feedback and explanation on answer selection
 - **2017-04-12 14:29**: perf: lazy load signal graphics and question assets
+- **2017-04-12 16:37**: docs: add instructions for Nepali driving license written exam
