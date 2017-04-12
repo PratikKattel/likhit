@@ -1,4 +1,3 @@
-- **2017-02-25 14:35**: docs: update traffic signals catalog documentation
 - **2017-02-26 10:23**: perf: optimize image caching for traffic sign assets
 - **2017-02-26 12:19**: refactor: optimize SVG rendering for road signs
 - **2017-02-26 13:28**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-04-10 17:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-04-11 15:33**: feat: add warning signs and informational road signs
 - **2017-04-11 16:55**: feat: add instant feedback and explanation on answer selection
+- **2017-04-12 14:29**: perf: lazy load signal graphics and question assets
