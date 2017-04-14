@@ -1,4 +1,3 @@
-- **2017-02-27 10:36**: docs: update README with setup instructions and feature list
 - **2017-02-27 15:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-02-28 11:35**: feat: implement timer and score calculation for mock test
 - **2017-03-01 11:20**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-04-12 16:37**: docs: add instructions for Nepali driving license written exam
 - **2017-04-13 12:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-04-14 15:14**: feat: add category A and B traffic test questions
+- **2017-04-14 16:34**: chore: update questions database with recent DOTM updates
