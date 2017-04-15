@@ -1,4 +1,3 @@
-- **2017-02-28 11:35**: feat: implement timer and score calculation for mock test
 - **2017-03-01 11:20**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-02 15:21**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-02 17:45**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-04-14 15:14**: feat: add category A and B traffic test questions
 - **2017-04-14 16:34**: chore: update questions database with recent DOTM updates
 - **2017-04-14 16:44**: feat: implement timer and score calculation for mock test
+- **2017-04-15 11:29**: chore: update questions database with recent DOTM updates
