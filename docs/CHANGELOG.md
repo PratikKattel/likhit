@@ -1,4 +1,3 @@
-- **2017-03-01 11:20**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-02 15:21**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-02 17:45**: style: polish typography and Nepali Unicode font rendering
 - **2017-03-02 18:05**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-04-14 16:34**: chore: update questions database with recent DOTM updates
 - **2017-04-14 16:44**: feat: implement timer and score calculation for mock test
 - **2017-04-15 11:29**: chore: update questions database with recent DOTM updates
+- **2017-04-16 14:21**: fix: resolve layout shift during question transitions
