@@ -1,4 +1,3 @@
-- **2017-03-02 18:05**: chore: organize assets and image directory structure
 - **2017-03-03 13:07**: perf: lazy load signal graphics and question assets
 - **2017-03-04 09:18**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-03-04 19:03**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-04-16 14:21**: fix: resolve layout shift during question transitions
 - **2017-04-17 11:52**: docs: update README with setup instructions and feature list
 - **2017-04-18 11:11**: chore: update project metadata and build configuration
+- **2017-04-19 12:05**: chore: organize assets and image directory structure
