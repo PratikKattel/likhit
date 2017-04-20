@@ -1,4 +1,3 @@
-- **2017-03-04 19:03**: perf: lazy load signal graphics and question assets
 - **2017-03-05 12:23**: feat: add category A and B traffic test questions
 - **2017-03-05 19:11**: refactor: optimize SVG rendering for road signs
 - **2017-03-06 11:28**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-04-19 12:05**: chore: organize assets and image directory structure
 - **2017-04-20 16:24**: feat: add result summary with passing threshold analysis
 - **2017-04-20 19:54**: refactor: optimize SVG rendering for road signs
+- **2017-04-20 21:21**: fix: update DOTM Nepal license syllabus questions
