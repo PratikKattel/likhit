@@ -1,4 +1,3 @@
-- **2017-03-05 19:11**: refactor: optimize SVG rendering for road signs
 - **2017-03-06 11:28**: chore: format code style and clean up redundant variables
 - **2017-03-06 20:30**: feat: add search and filter by sign category
 - **2017-03-07 09:12**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2017-04-20 19:54**: refactor: optimize SVG rendering for road signs
 - **2017-04-20 21:21**: fix: update DOTM Nepal license syllabus questions
 - **2017-04-21 10:47**: feat: add search and filter by sign category
+- **2017-04-21 12:01**: chore: organize assets and image directory structure
