@@ -1,4 +1,3 @@
-- **2017-03-06 20:30**: feat: add search and filter by sign category
 - **2017-03-07 09:12**: fix: resolve layout shift during question transitions
 - **2017-03-07 14:09**: perf: lazy load signal graphics and question assets
 - **2017-03-08 22:29**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2017-04-21 10:47**: feat: add search and filter by sign category
 - **2017-04-21 12:01**: chore: organize assets and image directory structure
 - **2017-04-22 12:33**: feat: add search and filter by sign category
+- **2017-04-22 20:03**: chore: update project metadata and build configuration
