@@ -1,4 +1,3 @@
-- **2017-03-07 09:12**: fix: resolve layout shift during question transitions
 - **2017-03-07 14:09**: perf: lazy load signal graphics and question assets
 - **2017-03-08 22:29**: docs: update traffic signals catalog documentation
 - **2017-03-09 16:16**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2017-04-21 12:01**: chore: organize assets and image directory structure
 - **2017-04-22 12:33**: feat: add search and filter by sign category
 - **2017-04-22 20:03**: chore: update project metadata and build configuration
+- **2017-04-23 20:16**: feat: add category A and B traffic test questions
