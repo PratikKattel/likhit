@@ -1,4 +1,3 @@
-- **2017-03-08 22:29**: docs: update traffic signals catalog documentation
 - **2017-03-09 16:16**: test: verify question extraction script against exam PDF
 - **2017-03-10 09:36**: feat: add result summary with passing threshold analysis
 - **2017-03-11 13:15**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-04-22 20:03**: chore: update project metadata and build configuration
 - **2017-04-23 20:16**: feat: add category A and B traffic test questions
 - **2017-04-23 21:02**: feat: add category-specific practice modes
+- **2017-04-23 21:12**: feat: add warning signs and informational road signs
