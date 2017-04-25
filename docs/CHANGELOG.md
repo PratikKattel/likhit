@@ -1,4 +1,3 @@
-- **2017-03-10 09:36**: feat: add result summary with passing threshold analysis
 - **2017-03-11 13:15**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-11 18:35**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-12 18:19**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-04-23 21:02**: feat: add category-specific practice modes
 - **2017-04-23 21:12**: feat: add warning signs and informational road signs
 - **2017-04-24 14:44**: fix: resolve layout shift during question transitions
+- **2017-04-25 18:59**: feat: implement timer and score calculation for mock test
