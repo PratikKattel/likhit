@@ -1,4 +1,3 @@
-- **2017-03-12 18:19**: fix: update DOTM Nepal license syllabus questions
 - **2017-03-13 18:04**: feat: add regulatory traffic signs SVG graphics
 - **2017-03-14 15:27**: docs: update traffic signals catalog documentation
 - **2017-03-14 21:17**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-04-25 18:59**: feat: implement timer and score calculation for mock test
 - **2017-04-26 17:09**: feat: add result summary with passing threshold analysis
 - **2017-04-27 10:48**: feat: add category A and B traffic test questions
+- **2017-04-27 11:44**: style: polish typography and Nepali Unicode font rendering
