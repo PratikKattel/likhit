@@ -1,4 +1,3 @@
-- **2017-03-14 15:27**: docs: update traffic signals catalog documentation
 - **2017-03-14 21:17**: feat: implement timer and score calculation for mock test
 - **2017-03-15 10:45**: fix: typo in Nepali road safety regulations question
 - **2017-03-15 14:51**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-04-27 10:48**: feat: add category A and B traffic test questions
 - **2017-04-27 11:44**: style: polish typography and Nepali Unicode font rendering
 - **2017-04-27 18:31**: chore: organize assets and image directory structure
+- **2017-04-28 19:52**: style: improve dark/light mode and mobile UI responsiveness
