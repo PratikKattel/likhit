@@ -1,4 +1,3 @@
-- **2017-03-15 10:45**: fix: typo in Nepali road safety regulations question
 - **2017-03-15 14:51**: feat: add category A and B traffic test questions
 - **2017-03-16 10:45**: feat: support multiple choice questions for motorcycle category
 - **2017-03-16 13:37**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-04-27 18:31**: chore: organize assets and image directory structure
 - **2017-04-28 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-04-29 19:01**: chore: organize assets and image directory structure
+- **2017-04-30 10:35**: style: improve dark/light mode and mobile UI responsiveness
