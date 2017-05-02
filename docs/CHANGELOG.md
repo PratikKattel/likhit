@@ -1,4 +1,3 @@
-- **2017-03-16 13:37**: feat: add regulatory traffic signs SVG graphics
 - **2017-03-16 14:40**: perf: index question IDs for rapid lookup
 - **2017-03-16 19:11**: chore: update project metadata and build configuration
 - **2017-03-17 21:14**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-04-30 10:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-05-01 13:34**: feat: implement timer and score calculation for mock test
 - **2017-05-02 09:51**: fix: update DOTM Nepal license syllabus questions
+- **2017-05-02 15:39**: style: improve dark/light mode and mobile UI responsiveness
