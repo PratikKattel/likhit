@@ -1,4 +1,3 @@
-- **2017-03-18 15:21**: feat: implement timer and score calculation for mock test
 - **2017-03-18 16:35**: feat: add instant feedback and explanation on answer selection
 - **2017-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-18 20:51**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-05-02 18:51**: refactor: modularize traffic app logic and event listeners
 - **2017-05-02 22:27**: feat: add instant feedback and explanation on answer selection
 - **2017-05-03 13:31**: docs: improve code comments and API documentation
+- **2017-05-03 22:16**: feat: add instant feedback and explanation on answer selection
