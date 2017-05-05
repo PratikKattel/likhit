@@ -1,4 +1,3 @@
-- **2017-03-18 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-18 20:51**: feat: support multiple choice questions for motorcycle category
 - **2017-03-19 12:22**: fix: prevent option re-selection after submitting answer
 - **2017-03-19 15:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2017-05-03 13:31**: docs: improve code comments and API documentation
 - **2017-05-03 22:16**: feat: add instant feedback and explanation on answer selection
 - **2017-05-04 20:47**: style: polish typography and Nepali Unicode font rendering
+- **2017-05-05 10:02**: perf: index question IDs for rapid lookup
