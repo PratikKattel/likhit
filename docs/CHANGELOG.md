@@ -1,4 +1,3 @@
-- **2017-03-19 12:22**: fix: prevent option re-selection after submitting answer
 - **2017-03-19 15:55**: fix: resolve layout shift during question transitions
 - **2017-03-19 16:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-03-20 15:58**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-05-04 20:47**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-05 10:02**: perf: index question IDs for rapid lookup
 - **2017-05-06 14:56**: docs: add instructions for Nepali driving license written exam
+- **2017-05-07 12:47**: chore: update questions database with recent DOTM updates
