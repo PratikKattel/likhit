@@ -1,4 +1,3 @@
-- **2017-03-19 16:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-03-20 15:58**: perf: lazy load signal graphics and question assets
 - **2017-03-21 12:25**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-22 15:09**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-05-06 14:56**: docs: add instructions for Nepali driving license written exam
 - **2017-05-07 12:47**: chore: update questions database with recent DOTM updates
 - **2017-05-07 18:11**: fix: update DOTM Nepal license syllabus questions
+- **2017-05-07 19:40**: feat: add search and filter by sign category
