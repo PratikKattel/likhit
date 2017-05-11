@@ -1,4 +1,3 @@
-- **2017-03-24 20:23**: style: enhance traffic sign card layout and responsiveness
 - **2017-03-25 16:29**: fix: adjust passing score threshold according to new rules
 - **2017-03-25 20:20**: chore: update project metadata and build configuration
 - **2017-03-26 13:30**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-05-09 20:31**: fix: adjust passing score threshold according to new rules
 - **2017-05-09 21:13**: refactor: optimize SVG rendering for road signs
 - **2017-05-10 13:12**: style: polish typography and Nepali Unicode font rendering
+- **2017-05-11 09:43**: feat: add instant feedback and explanation on answer selection
