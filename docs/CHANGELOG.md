@@ -1,4 +1,3 @@
-- **2017-03-25 20:20**: chore: update project metadata and build configuration
 - **2017-03-26 13:30**: perf: index question IDs for rapid lookup
 - **2017-03-26 16:46**: fix: update DOTM Nepal license syllabus questions
 - **2017-03-26 21:26**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-05-10 13:12**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-11 09:43**: feat: add instant feedback and explanation on answer selection
 - **2017-05-11 16:50**: fix: prevent option re-selection after submitting answer
+- **2017-05-12 09:25**: fix: update DOTM Nepal license syllabus questions
