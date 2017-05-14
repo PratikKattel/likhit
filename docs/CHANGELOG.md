@@ -1,4 +1,3 @@
-- **2017-03-26 21:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-03-26 21:57**: chore: update project metadata and build configuration
 - **2017-03-27 18:06**: fix: adjust passing score threshold according to new rules
 - **2017-03-27 19:12**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-05-12 09:25**: fix: update DOTM Nepal license syllabus questions
 - **2017-05-12 20:42**: feat: add category-specific practice modes
 - **2017-05-13 15:13**: chore: format code style and clean up redundant variables
+- **2017-05-14 17:27**: feat: add warning signs and informational road signs
