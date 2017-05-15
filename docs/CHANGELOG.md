@@ -1,4 +1,3 @@
-- **2017-03-27 18:06**: fix: adjust passing score threshold according to new rules
 - **2017-03-27 19:12**: perf: index question IDs for rapid lookup
 - **2017-03-28 18:54**: chore: update questions database with recent DOTM updates
 - **2017-03-29 12:37**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-05-13 15:13**: chore: format code style and clean up redundant variables
 - **2017-05-14 17:27**: feat: add warning signs and informational road signs
 - **2017-05-14 21:14**: perf: optimize image caching for traffic sign assets
+- **2017-05-15 13:34**: fix: correct color specifications for mandatory traffic signs
