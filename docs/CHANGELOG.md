@@ -1,4 +1,3 @@
-- **2017-03-28 18:54**: chore: update questions database with recent DOTM updates
 - **2017-03-29 12:37**: feat: add keyboard navigation shortcuts for question selection
 - **2017-03-30 16:43**: refactor: optimize SVG rendering for road signs
 - **2017-03-31 13:19**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2017-05-14 21:14**: perf: optimize image caching for traffic sign assets
 - **2017-05-15 13:34**: fix: correct color specifications for mandatory traffic signs
 - **2017-05-16 16:08**: fix: prevent option re-selection after submitting answer
+- **2017-05-16 20:35**: perf: lazy load signal graphics and question assets
