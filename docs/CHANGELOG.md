@@ -1,4 +1,3 @@
-- **2017-03-30 16:43**: refactor: optimize SVG rendering for road signs
 - **2017-03-31 13:19**: refactor: modularize traffic app logic and event listeners
 - **2017-03-31 19:15**: feat: implement timer and score calculation for mock test
 - **2017-03-31 21:29**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-05-16 16:08**: fix: prevent option re-selection after submitting answer
 - **2017-05-16 20:35**: perf: lazy load signal graphics and question assets
 - **2017-05-16 20:48**: fix: resolve layout shift during question transitions
+- **2017-05-17 17:30**: docs: improve code comments and API documentation
