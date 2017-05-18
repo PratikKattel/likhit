@@ -1,4 +1,3 @@
-- **2017-03-31 19:15**: feat: implement timer and score calculation for mock test
 - **2017-03-31 21:29**: perf: lazy load signal graphics and question assets
 - **2017-04-01 13:54**: feat: add regulatory traffic signs SVG graphics
 - **2017-04-01 15:32**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-05-16 20:48**: fix: resolve layout shift during question transitions
 - **2017-05-17 17:30**: docs: improve code comments and API documentation
 - **2017-05-17 19:34**: chore: update project metadata and build configuration
+- **2017-05-18 12:41**: feat: add instant feedback and explanation on answer selection
