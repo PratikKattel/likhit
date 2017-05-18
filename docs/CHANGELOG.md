@@ -1,4 +1,3 @@
-- **2017-04-01 13:54**: feat: add regulatory traffic signs SVG graphics
 - **2017-04-01 15:32**: refactor: optimize SVG rendering for road signs
 - **2017-04-02 21:13**: feat: add category-specific practice modes
 - **2017-04-03 12:46**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2017-05-17 19:34**: chore: update project metadata and build configuration
 - **2017-05-18 12:41**: feat: add instant feedback and explanation on answer selection
 - **2017-05-18 13:03**: feat: add result summary with passing threshold analysis
+- **2017-05-18 22:05**: fix: prevent option re-selection after submitting answer
