@@ -1,4 +1,3 @@
-- **2017-04-02 21:13**: feat: add category-specific practice modes
 - **2017-04-03 12:46**: fix: correct color specifications for mandatory traffic signs
 - **2017-04-03 13:50**: refactor: restructure question data schema for faster loading
 - **2017-04-03 16:56**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-05-18 13:03**: feat: add result summary with passing threshold analysis
 - **2017-05-18 22:05**: fix: prevent option re-selection after submitting answer
 - **2017-05-19 09:26**: docs: update traffic signals catalog documentation
+- **2017-05-19 19:12**: chore: format code style and clean up redundant variables
