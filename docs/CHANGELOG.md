@@ -1,4 +1,3 @@
-- **2017-04-03 16:56**: chore: organize assets and image directory structure
 - **2017-04-04 20:51**: chore: format code style and clean up redundant variables
 - **2017-04-05 11:21**: style: polish typography and Nepali Unicode font rendering
 - **2017-04-06 21:23**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-05-19 19:12**: chore: format code style and clean up redundant variables
 - **2017-05-20 21:47**: feat: add category-specific practice modes
 - **2017-05-21 10:02**: perf: lazy load signal graphics and question assets
+- **2017-05-21 12:06**: feat: add keyboard navigation shortcuts for question selection
