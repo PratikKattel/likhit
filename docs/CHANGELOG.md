@@ -1,4 +1,3 @@
-- **2017-04-09 18:45**: refactor: optimize SVG rendering for road signs
 - **2017-04-10 12:22**: chore: update project metadata and build configuration
 - **2017-04-10 17:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-04-11 15:33**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2017-05-24 10:07**: chore: update questions database with recent DOTM updates
 - **2017-05-24 13:09**: feat: add keyboard navigation shortcuts for question selection
 - **2017-05-25 11:33**: style: polish typography and Nepali Unicode font rendering
+- **2017-05-25 14:29**: feat: add warning signs and informational road signs
