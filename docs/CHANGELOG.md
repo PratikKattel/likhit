@@ -1,4 +1,3 @@
-- **2017-04-10 17:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-04-11 15:33**: feat: add warning signs and informational road signs
 - **2017-04-11 16:55**: feat: add instant feedback and explanation on answer selection
 - **2017-04-12 14:29**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-05-25 11:33**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-25 14:29**: feat: add warning signs and informational road signs
 - **2017-05-25 14:44**: feat: implement timer and score calculation for mock test
+- **2017-05-26 16:16**: fix: adjust passing score threshold according to new rules
