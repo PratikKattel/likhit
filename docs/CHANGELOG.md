@@ -1,4 +1,3 @@
-- **2017-04-11 15:33**: feat: add warning signs and informational road signs
 - **2017-04-11 16:55**: feat: add instant feedback and explanation on answer selection
 - **2017-04-12 14:29**: perf: lazy load signal graphics and question assets
 - **2017-04-12 16:37**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-05-25 14:29**: feat: add warning signs and informational road signs
 - **2017-05-25 14:44**: feat: implement timer and score calculation for mock test
 - **2017-05-26 16:16**: fix: adjust passing score threshold according to new rules
+- **2017-05-27 15:43**: feat: add result summary with passing threshold analysis
