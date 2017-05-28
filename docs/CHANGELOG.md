@@ -1,4 +1,3 @@
-- **2017-04-12 14:29**: perf: lazy load signal graphics and question assets
 - **2017-04-12 16:37**: docs: add instructions for Nepali driving license written exam
 - **2017-04-13 12:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-04-14 15:14**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-05-26 16:16**: fix: adjust passing score threshold according to new rules
 - **2017-05-27 15:43**: feat: add result summary with passing threshold analysis
 - **2017-05-28 09:12**: feat: add keyboard navigation shortcuts for question selection
+- **2017-05-28 14:24**: docs: add instructions for Nepali driving license written exam
