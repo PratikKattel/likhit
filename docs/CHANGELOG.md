@@ -1,4 +1,3 @@
-- **2017-04-14 15:14**: feat: add category A and B traffic test questions
 - **2017-04-14 16:34**: chore: update questions database with recent DOTM updates
 - **2017-04-14 16:44**: feat: implement timer and score calculation for mock test
 - **2017-04-15 11:29**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-05-28 14:24**: docs: add instructions for Nepali driving license written exam
 - **2017-05-29 18:17**: feat: add result summary with passing threshold analysis
 - **2017-05-29 21:23**: refactor: modularize traffic app logic and event listeners
+- **2017-05-30 16:15**: feat: add instant feedback and explanation on answer selection
