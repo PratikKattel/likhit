@@ -1,4 +1,3 @@
-- **2017-04-15 11:29**: chore: update questions database with recent DOTM updates
 - **2017-04-16 14:21**: fix: resolve layout shift during question transitions
 - **2017-04-17 11:52**: docs: update README with setup instructions and feature list
 - **2017-04-18 11:11**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2017-05-30 16:15**: feat: add instant feedback and explanation on answer selection
 - **2017-05-30 21:46**: feat: add result summary with passing threshold analysis
 - **2017-05-31 12:43**: refactor: optimize SVG rendering for road signs
+- **2017-06-01 19:04**: fix: resolve layout shift during question transitions
