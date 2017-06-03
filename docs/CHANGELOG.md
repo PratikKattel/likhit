@@ -1,4 +1,3 @@
-- **2017-04-17 11:52**: docs: update README with setup instructions and feature list
 - **2017-04-18 11:11**: chore: update project metadata and build configuration
 - **2017-04-19 12:05**: chore: organize assets and image directory structure
 - **2017-04-20 16:24**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2017-05-31 12:43**: refactor: optimize SVG rendering for road signs
 - **2017-06-01 19:04**: fix: resolve layout shift during question transitions
 - **2017-06-02 09:41**: feat: add warning signs and informational road signs
+- **2017-06-03 20:43**: feat: add search and filter by sign category
