@@ -1,4 +1,3 @@
-- **2017-04-20 19:54**: refactor: optimize SVG rendering for road signs
 - **2017-04-20 21:21**: fix: update DOTM Nepal license syllabus questions
 - **2017-04-21 10:47**: feat: add search and filter by sign category
 - **2017-04-21 12:01**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-06-03 21:46**: perf: lazy load signal graphics and question assets
 - **2017-06-04 18:01**: feat: add category A and B traffic test questions
 - **2017-06-04 18:03**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-06-04 20:15**: feat: add category A and B traffic test questions
