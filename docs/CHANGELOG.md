@@ -1,4 +1,3 @@
-- **2017-04-21 12:01**: chore: organize assets and image directory structure
 - **2017-04-22 12:33**: feat: add search and filter by sign category
 - **2017-04-22 20:03**: chore: update project metadata and build configuration
 - **2017-04-23 20:16**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-06-04 20:15**: feat: add category A and B traffic test questions
 - **2017-06-05 14:15**: feat: add warning signs and informational road signs
 - **2017-06-06 19:03**: style: enhance traffic sign card layout and responsiveness
+- **2017-06-07 10:21**: perf: index question IDs for rapid lookup
