@@ -1,4 +1,3 @@
-- **2017-04-23 21:02**: feat: add category-specific practice modes
 - **2017-04-23 21:12**: feat: add warning signs and informational road signs
 - **2017-04-24 14:44**: fix: resolve layout shift during question transitions
 - **2017-04-25 18:59**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-06-07 20:58**: perf: lazy load signal graphics and question assets
 - **2017-06-08 14:54**: feat: add result summary with passing threshold analysis
 - **2017-06-09 22:12**: fix: prevent option re-selection after submitting answer
+- **2017-06-10 16:02**: style: polish typography and Nepali Unicode font rendering
