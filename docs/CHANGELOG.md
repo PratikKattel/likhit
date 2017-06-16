@@ -1,4 +1,3 @@
-- **2017-04-27 11:44**: style: polish typography and Nepali Unicode font rendering
 - **2017-04-27 18:31**: chore: organize assets and image directory structure
 - **2017-04-28 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-04-29 19:01**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-06-13 15:23**: feat: add instant feedback and explanation on answer selection
 - **2017-06-14 17:10**: fix: adjust passing score threshold according to new rules
 - **2017-06-15 21:49**: test: verify question extraction script against exam PDF
+- **2017-06-16 19:01**: docs: add instructions for Nepali driving license written exam
