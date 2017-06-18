@@ -1,4 +1,3 @@
-- **2017-05-02 09:51**: fix: update DOTM Nepal license syllabus questions
 - **2017-05-02 15:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-05-02 18:51**: refactor: modularize traffic app logic and event listeners
 - **2017-05-02 22:27**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2017-06-17 18:10**: style: enhance traffic sign card layout and responsiveness
 - **2017-06-18 10:17**: docs: improve code comments and API documentation
 - **2017-06-18 14:17**: style: polish typography and Nepali Unicode font rendering
+- **2017-06-18 17:20**: docs: update README with setup instructions and feature list
