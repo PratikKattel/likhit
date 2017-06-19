@@ -1,4 +1,3 @@
-- **2017-05-02 22:27**: feat: add instant feedback and explanation on answer selection
 - **2017-05-03 13:31**: docs: improve code comments and API documentation
 - **2017-05-03 22:16**: feat: add instant feedback and explanation on answer selection
 - **2017-05-04 20:47**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-06-18 17:20**: docs: update README with setup instructions and feature list
 - **2017-06-19 10:14**: docs: add instructions for Nepali driving license written exam
 - **2017-06-19 20:06**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-06-19 20:21**: perf: lazy load signal graphics and question assets
