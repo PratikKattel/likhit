@@ -1,4 +1,3 @@
-- **2017-05-05 10:02**: perf: index question IDs for rapid lookup
 - **2017-05-06 14:56**: docs: add instructions for Nepali driving license written exam
 - **2017-05-07 12:47**: chore: update questions database with recent DOTM updates
 - **2017-05-07 18:11**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-06-20 13:20**: chore: organize assets and image directory structure
 - **2017-06-20 22:20**: chore: organize assets and image directory structure
 - **2017-06-21 15:55**: docs: add instructions for Nepali driving license written exam
+- **2017-06-21 19:31**: feat: implement timer and score calculation for mock test
