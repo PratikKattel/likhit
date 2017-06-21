@@ -1,4 +1,3 @@
-- **2017-05-04 20:47**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-05 10:02**: perf: index question IDs for rapid lookup
 - **2017-05-06 14:56**: docs: add instructions for Nepali driving license written exam
 - **2017-05-07 12:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-06-19 20:21**: perf: lazy load signal graphics and question assets
 - **2017-06-20 13:20**: chore: organize assets and image directory structure
 - **2017-06-20 22:20**: chore: organize assets and image directory structure
+- **2017-06-21 15:55**: docs: add instructions for Nepali driving license written exam
