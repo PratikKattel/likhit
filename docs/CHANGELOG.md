@@ -1,4 +1,3 @@
-- **2017-05-07 18:11**: fix: update DOTM Nepal license syllabus questions
 - **2017-05-07 19:40**: feat: add search and filter by sign category
 - **2017-05-08 17:08**: perf: lazy load signal graphics and question assets
 - **2017-05-09 18:46**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-06-21 19:31**: feat: implement timer and score calculation for mock test
 - **2017-06-22 19:56**: feat: add instant feedback and explanation on answer selection
 - **2017-06-23 19:03**: refactor: modularize traffic app logic and event listeners
+- **2017-06-23 22:29**: chore: update questions database with recent DOTM updates
