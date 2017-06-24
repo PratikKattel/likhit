@@ -1,4 +1,3 @@
-- **2017-05-07 19:40**: feat: add search and filter by sign category
 - **2017-05-08 17:08**: perf: lazy load signal graphics and question assets
 - **2017-05-09 18:46**: refactor: optimize SVG rendering for road signs
 - **2017-05-09 20:31**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-06-22 19:56**: feat: add instant feedback and explanation on answer selection
 - **2017-06-23 19:03**: refactor: modularize traffic app logic and event listeners
 - **2017-06-23 22:29**: chore: update questions database with recent DOTM updates
+- **2017-06-24 13:18**: fix: resolve layout shift during question transitions
