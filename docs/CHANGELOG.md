@@ -1,4 +1,3 @@
-- **2017-05-09 18:46**: refactor: optimize SVG rendering for road signs
 - **2017-05-09 20:31**: fix: adjust passing score threshold according to new rules
 - **2017-05-09 21:13**: refactor: optimize SVG rendering for road signs
 - **2017-05-10 13:12**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-06-23 22:29**: chore: update questions database with recent DOTM updates
 - **2017-06-24 13:18**: fix: resolve layout shift during question transitions
 - **2017-06-24 18:04**: perf: lazy load signal graphics and question assets
+- **2017-06-25 15:49**: chore: organize assets and image directory structure
