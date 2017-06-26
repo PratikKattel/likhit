@@ -1,4 +1,3 @@
-- **2017-05-09 21:13**: refactor: optimize SVG rendering for road signs
 - **2017-05-10 13:12**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-11 09:43**: feat: add instant feedback and explanation on answer selection
 - **2017-05-11 16:50**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-06-24 18:04**: perf: lazy load signal graphics and question assets
 - **2017-06-25 15:49**: chore: organize assets and image directory structure
 - **2017-06-26 11:18**: fix: resolve layout shift during question transitions
+- **2017-06-26 12:37**: feat: add keyboard navigation shortcuts for question selection
