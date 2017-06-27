@@ -1,4 +1,3 @@
-- **2017-05-10 13:12**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-11 09:43**: feat: add instant feedback and explanation on answer selection
 - **2017-05-11 16:50**: fix: prevent option re-selection after submitting answer
 - **2017-05-12 09:25**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-06-25 15:49**: chore: organize assets and image directory structure
 - **2017-06-26 11:18**: fix: resolve layout shift during question transitions
 - **2017-06-26 12:37**: feat: add keyboard navigation shortcuts for question selection
+- **2017-06-27 20:02**: perf: optimize image caching for traffic sign assets
