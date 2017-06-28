@@ -1,4 +1,3 @@
-- **2017-05-11 16:50**: fix: prevent option re-selection after submitting answer
 - **2017-05-12 09:25**: fix: update DOTM Nepal license syllabus questions
 - **2017-05-12 20:42**: feat: add category-specific practice modes
 - **2017-05-13 15:13**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-06-26 12:37**: feat: add keyboard navigation shortcuts for question selection
 - **2017-06-27 20:02**: perf: optimize image caching for traffic sign assets
 - **2017-06-28 09:29**: perf: index question IDs for rapid lookup
+- **2017-06-28 13:17**: chore: update project metadata and build configuration
