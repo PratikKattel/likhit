@@ -1,4 +1,3 @@
-- **2017-05-13 15:13**: chore: format code style and clean up redundant variables
 - **2017-05-14 17:27**: feat: add warning signs and informational road signs
 - **2017-05-14 21:14**: perf: optimize image caching for traffic sign assets
 - **2017-05-15 13:34**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2017-06-28 13:17**: chore: update project metadata and build configuration
 - **2017-06-28 14:58**: style: enhance traffic sign card layout and responsiveness
 - **2017-06-29 12:28**: chore: update questions database with recent DOTM updates
+- **2017-06-29 14:41**: perf: optimize image caching for traffic sign assets
