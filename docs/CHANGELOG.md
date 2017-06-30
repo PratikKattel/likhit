@@ -1,4 +1,3 @@
-- **2017-05-14 21:14**: perf: optimize image caching for traffic sign assets
 - **2017-05-15 13:34**: fix: correct color specifications for mandatory traffic signs
 - **2017-05-16 16:08**: fix: prevent option re-selection after submitting answer
 - **2017-05-16 20:35**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-06-29 12:28**: chore: update questions database with recent DOTM updates
 - **2017-06-29 14:41**: perf: optimize image caching for traffic sign assets
 - **2017-06-29 16:29**: feat: add instant feedback and explanation on answer selection
+- **2017-06-30 17:47**: feat: add keyboard navigation shortcuts for question selection
