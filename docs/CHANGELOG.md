@@ -1,4 +1,3 @@
-- **2017-05-16 20:35**: perf: lazy load signal graphics and question assets
 - **2017-05-16 20:48**: fix: resolve layout shift during question transitions
 - **2017-05-17 17:30**: docs: improve code comments and API documentation
 - **2017-05-17 19:34**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2017-06-30 17:47**: feat: add keyboard navigation shortcuts for question selection
 - **2017-07-01 10:35**: feat: implement timer and score calculation for mock test
 - **2017-07-01 21:38**: perf: index question IDs for rapid lookup
+- **2017-07-02 14:29**: test: verify question extraction script against exam PDF
