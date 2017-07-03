@@ -1,4 +1,3 @@
-- **2017-05-16 20:48**: fix: resolve layout shift during question transitions
 - **2017-05-17 17:30**: docs: improve code comments and API documentation
 - **2017-05-17 19:34**: chore: update project metadata and build configuration
 - **2017-05-18 12:41**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2017-07-01 10:35**: feat: implement timer and score calculation for mock test
 - **2017-07-01 21:38**: perf: index question IDs for rapid lookup
 - **2017-07-02 14:29**: test: verify question extraction script against exam PDF
+- **2017-07-03 09:00**: feat: add search and filter by sign category
