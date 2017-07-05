@@ -1,4 +1,3 @@
-- **2017-05-17 19:34**: chore: update project metadata and build configuration
 - **2017-05-18 12:41**: feat: add instant feedback and explanation on answer selection
 - **2017-05-18 13:03**: feat: add result summary with passing threshold analysis
 - **2017-05-18 22:05**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-07-02 14:29**: test: verify question extraction script against exam PDF
 - **2017-07-03 09:00**: feat: add search and filter by sign category
 - **2017-07-04 21:19**: fix: adjust passing score threshold according to new rules
+- **2017-07-05 16:18**: refactor: optimize SVG rendering for road signs
