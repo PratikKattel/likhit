@@ -1,4 +1,3 @@
-- **2017-05-19 09:26**: docs: update traffic signals catalog documentation
 - **2017-05-19 19:12**: chore: format code style and clean up redundant variables
 - **2017-05-20 21:47**: feat: add category-specific practice modes
 - **2017-05-21 10:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-07-06 17:17**: style: polish typography and Nepali Unicode font rendering
 - **2017-07-07 16:22**: chore: update questions database with recent DOTM updates
 - **2017-07-08 10:02**: test: verify question extraction script against exam PDF
+- **2017-07-09 10:06**: fix: adjust passing score threshold according to new rules
