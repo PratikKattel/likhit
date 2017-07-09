@@ -1,4 +1,3 @@
-- **2017-05-19 19:12**: chore: format code style and clean up redundant variables
 - **2017-05-20 21:47**: feat: add category-specific practice modes
 - **2017-05-21 10:02**: perf: lazy load signal graphics and question assets
 - **2017-05-21 12:06**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-07-07 16:22**: chore: update questions database with recent DOTM updates
 - **2017-07-08 10:02**: test: verify question extraction script against exam PDF
 - **2017-07-09 10:06**: fix: adjust passing score threshold according to new rules
+- **2017-07-09 12:39**: feat: add warning signs and informational road signs
