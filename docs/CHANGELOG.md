@@ -1,4 +1,3 @@
-- **2017-05-21 10:02**: perf: lazy load signal graphics and question assets
 - **2017-05-21 12:06**: feat: add keyboard navigation shortcuts for question selection
 - **2017-05-22 09:11**: feat: add search and filter by sign category
 - **2017-05-23 16:09**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-07-09 10:06**: fix: adjust passing score threshold according to new rules
 - **2017-07-09 12:39**: feat: add warning signs and informational road signs
 - **2017-07-09 14:06**: feat: add regulatory traffic signs SVG graphics
+- **2017-07-09 20:58**: fix: prevent option re-selection after submitting answer
