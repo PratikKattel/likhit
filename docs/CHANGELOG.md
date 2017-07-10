@@ -1,4 +1,3 @@
-- **2017-05-22 09:11**: feat: add search and filter by sign category
 - **2017-05-23 16:09**: feat: implement timer and score calculation for mock test
 - **2017-05-23 21:08**: fix: adjust passing score threshold according to new rules
 - **2017-05-24 10:07**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-07-09 14:06**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-09 20:58**: fix: prevent option re-selection after submitting answer
 - **2017-07-10 10:16**: chore: format code style and clean up redundant variables
+- **2017-07-10 18:20**: docs: add instructions for Nepali driving license written exam
