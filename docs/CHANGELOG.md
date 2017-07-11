@@ -1,4 +1,3 @@
-- **2017-05-23 21:08**: fix: adjust passing score threshold according to new rules
 - **2017-05-24 10:07**: chore: update questions database with recent DOTM updates
 - **2017-05-24 13:09**: feat: add keyboard navigation shortcuts for question selection
 - **2017-05-25 11:33**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-07-10 10:16**: chore: format code style and clean up redundant variables
 - **2017-07-10 18:20**: docs: add instructions for Nepali driving license written exam
 - **2017-07-11 16:02**: feat: add regulatory traffic signs SVG graphics
+- **2017-07-11 17:55**: feat: add regulatory traffic signs SVG graphics
