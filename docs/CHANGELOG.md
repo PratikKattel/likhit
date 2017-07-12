@@ -1,4 +1,3 @@
-- **2017-05-25 11:33**: style: polish typography and Nepali Unicode font rendering
 - **2017-05-25 14:29**: feat: add warning signs and informational road signs
 - **2017-05-25 14:44**: feat: implement timer and score calculation for mock test
 - **2017-05-26 16:16**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-07-11 17:55**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-12 13:25**: perf: lazy load signal graphics and question assets
 - **2017-07-12 13:33**: fix: update DOTM Nepal license syllabus questions
+- **2017-07-12 17:24**: refactor: restructure question data schema for faster loading
