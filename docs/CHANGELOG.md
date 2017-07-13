@@ -1,4 +1,3 @@
-- **2017-05-26 16:16**: fix: adjust passing score threshold according to new rules
 - **2017-05-27 15:43**: feat: add result summary with passing threshold analysis
 - **2017-05-28 09:12**: feat: add keyboard navigation shortcuts for question selection
 - **2017-05-28 14:24**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-07-12 17:24**: refactor: restructure question data schema for faster loading
 - **2017-07-12 21:11**: feat: add category-specific practice modes
 - **2017-07-13 13:25**: fix: resolve layout shift during question transitions
+- **2017-07-13 14:13**: docs: improve code comments and API documentation
