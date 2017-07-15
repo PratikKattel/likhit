@@ -1,4 +1,3 @@
-- **2017-05-30 16:15**: feat: add instant feedback and explanation on answer selection
 - **2017-05-30 21:46**: feat: add result summary with passing threshold analysis
 - **2017-05-31 12:43**: refactor: optimize SVG rendering for road signs
 - **2017-06-01 19:04**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2017-07-15 12:27**: feat: add category-specific practice modes
 - **2017-07-15 12:35**: fix: typo in Nepali road safety regulations question
 - **2017-07-15 16:05**: feat: add regulatory traffic signs SVG graphics
+- **2017-07-15 20:05**: perf: index question IDs for rapid lookup
