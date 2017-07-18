@@ -1,4 +1,3 @@
-- **2017-06-02 09:41**: feat: add warning signs and informational road signs
 - **2017-06-03 20:43**: feat: add search and filter by sign category
 - **2017-06-03 21:46**: perf: lazy load signal graphics and question assets
 - **2017-06-04 18:01**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-07-16 13:11**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-07-16 17:15**: docs: improve code comments and API documentation
 - **2017-07-17 21:15**: feat: add instant feedback and explanation on answer selection
+- **2017-07-18 12:27**: feat: add result summary with passing threshold analysis
