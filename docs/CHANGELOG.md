@@ -1,4 +1,3 @@
-- **2017-06-04 20:15**: feat: add category A and B traffic test questions
 - **2017-06-05 14:15**: feat: add warning signs and informational road signs
 - **2017-06-06 19:03**: style: enhance traffic sign card layout and responsiveness
 - **2017-06-07 10:21**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-07-20 14:35**: docs: add instructions for Nepali driving license written exam
 - **2017-07-20 17:46**: refactor: restructure question data schema for faster loading
 - **2017-07-21 09:46**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-07-21 20:50**: feat: add result summary with passing threshold analysis
