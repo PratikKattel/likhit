@@ -1,4 +1,3 @@
-- **2017-06-07 10:21**: perf: index question IDs for rapid lookup
 - **2017-06-07 20:58**: perf: lazy load signal graphics and question assets
 - **2017-06-08 14:54**: feat: add result summary with passing threshold analysis
 - **2017-06-09 22:12**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-07-21 20:50**: feat: add result summary with passing threshold analysis
 - **2017-07-22 11:39**: fix: prevent option re-selection after submitting answer
 - **2017-07-22 15:59**: refactor: modularize traffic app logic and event listeners
+- **2017-07-23 12:22**: perf: lazy load signal graphics and question assets
