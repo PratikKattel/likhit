@@ -1,4 +1,3 @@
-- **2017-06-09 22:12**: fix: prevent option re-selection after submitting answer
 - **2017-06-10 16:02**: style: polish typography and Nepali Unicode font rendering
 - **2017-06-11 14:09**: docs: add instructions for Nepali driving license written exam
 - **2017-06-12 10:02**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-07-23 12:22**: perf: lazy load signal graphics and question assets
 - **2017-07-23 19:34**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-24 12:41**: refactor: restructure question data schema for faster loading
+- **2017-07-24 12:54**: fix: typo in Nepali road safety regulations question
