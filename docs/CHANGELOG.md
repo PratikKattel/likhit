@@ -1,4 +1,3 @@
-- **2017-06-13 15:23**: feat: add instant feedback and explanation on answer selection
 - **2017-06-14 17:10**: fix: adjust passing score threshold according to new rules
 - **2017-06-15 21:49**: test: verify question extraction script against exam PDF
 - **2017-06-16 19:01**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-07-25 18:22**: chore: format code style and clean up redundant variables
 - **2017-07-26 20:52**: docs: add instructions for Nepali driving license written exam
 - **2017-07-26 22:08**: fix: adjust passing score threshold according to new rules
+- **2017-07-27 13:36**: style: enhance traffic sign card layout and responsiveness
