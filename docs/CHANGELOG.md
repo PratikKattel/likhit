@@ -1,4 +1,3 @@
-- **2017-06-15 21:49**: test: verify question extraction script against exam PDF
 - **2017-06-16 19:01**: docs: add instructions for Nepali driving license written exam
 - **2017-06-17 13:50**: refactor: optimize SVG rendering for road signs
 - **2017-06-17 15:33**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-07-26 22:08**: fix: adjust passing score threshold according to new rules
 - **2017-07-27 13:36**: style: enhance traffic sign card layout and responsiveness
 - **2017-07-27 21:56**: chore: update project metadata and build configuration
+- **2017-07-28 13:09**: feat: add warning signs and informational road signs
