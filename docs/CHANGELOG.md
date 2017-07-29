@@ -1,4 +1,3 @@
-- **2017-06-17 13:50**: refactor: optimize SVG rendering for road signs
 - **2017-06-17 15:33**: feat: add search and filter by sign category
 - **2017-06-17 18:10**: style: enhance traffic sign card layout and responsiveness
 - **2017-06-18 10:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2017-07-27 21:56**: chore: update project metadata and build configuration
 - **2017-07-28 13:09**: feat: add warning signs and informational road signs
 - **2017-07-28 21:49**: docs: update README with setup instructions and feature list
+- **2017-07-29 12:02**: fix: adjust passing score threshold according to new rules
