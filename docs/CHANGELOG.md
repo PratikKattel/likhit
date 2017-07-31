@@ -1,4 +1,3 @@
-- **2017-06-18 10:17**: docs: improve code comments and API documentation
 - **2017-06-18 14:17**: style: polish typography and Nepali Unicode font rendering
 - **2017-06-18 17:20**: docs: update README with setup instructions and feature list
 - **2017-06-19 10:14**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-07-29 12:02**: fix: adjust passing score threshold according to new rules
 - **2017-07-30 18:21**: fix: typo in Nepali road safety regulations question
 - **2017-07-31 14:01**: fix: typo in Nepali road safety regulations question
+- **2017-07-31 21:10**: style: polish typography and Nepali Unicode font rendering
