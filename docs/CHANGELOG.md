@@ -1,4 +1,3 @@
-- **2017-06-19 20:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-06-19 20:21**: perf: lazy load signal graphics and question assets
 - **2017-06-20 13:20**: chore: organize assets and image directory structure
 - **2017-06-20 22:20**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-08-01 13:26**: feat: add category-specific practice modes
 - **2017-08-01 15:32**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-01 15:37**: chore: format code style and clean up redundant variables
+- **2017-08-02 09:25**: refactor: restructure question data schema for faster loading
