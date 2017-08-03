@@ -1,4 +1,3 @@
-- **2017-06-20 22:20**: chore: organize assets and image directory structure
 - **2017-06-21 15:55**: docs: add instructions for Nepali driving license written exam
 - **2017-06-21 19:31**: feat: implement timer and score calculation for mock test
 - **2017-06-22 19:56**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2017-08-02 09:25**: refactor: restructure question data schema for faster loading
 - **2017-08-02 15:08**: chore: update project metadata and build configuration
 - **2017-08-02 18:32**: docs: update traffic signals catalog documentation
+- **2017-08-03 14:44**: refactor: modularize traffic app logic and event listeners
