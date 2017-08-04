@@ -1,4 +1,3 @@
-- **2017-06-21 19:31**: feat: implement timer and score calculation for mock test
 - **2017-06-22 19:56**: feat: add instant feedback and explanation on answer selection
 - **2017-06-23 19:03**: refactor: modularize traffic app logic and event listeners
 - **2017-06-23 22:29**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-08-02 18:32**: docs: update traffic signals catalog documentation
 - **2017-08-03 14:44**: refactor: modularize traffic app logic and event listeners
 - **2017-08-03 15:03**: feat: add warning signs and informational road signs
+- **2017-08-04 13:48**: feat: add search and filter by sign category
