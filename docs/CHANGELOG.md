@@ -1,4 +1,3 @@
-- **2017-06-23 19:03**: refactor: modularize traffic app logic and event listeners
 - **2017-06-23 22:29**: chore: update questions database with recent DOTM updates
 - **2017-06-24 13:18**: fix: resolve layout shift during question transitions
 - **2017-06-24 18:04**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-08-03 15:03**: feat: add warning signs and informational road signs
 - **2017-08-04 13:48**: feat: add search and filter by sign category
 - **2017-08-04 21:45**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-08-05 17:57**: perf: index question IDs for rapid lookup
