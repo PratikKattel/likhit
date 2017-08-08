@@ -1,4 +1,3 @@
-- **2017-06-24 18:04**: perf: lazy load signal graphics and question assets
 - **2017-06-25 15:49**: chore: organize assets and image directory structure
 - **2017-06-26 11:18**: fix: resolve layout shift during question transitions
 - **2017-06-26 12:37**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-08-05 17:57**: perf: index question IDs for rapid lookup
 - **2017-08-06 16:56**: fix: correct color specifications for mandatory traffic signs
 - **2017-08-07 10:57**: fix: typo in Nepali road safety regulations question
+- **2017-08-08 17:57**: style: enhance traffic sign card layout and responsiveness
