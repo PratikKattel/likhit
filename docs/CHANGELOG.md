@@ -1,4 +1,3 @@
-- **2017-06-26 11:18**: fix: resolve layout shift during question transitions
 - **2017-06-26 12:37**: feat: add keyboard navigation shortcuts for question selection
 - **2017-06-27 20:02**: perf: optimize image caching for traffic sign assets
 - **2017-06-28 09:29**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-08-07 10:57**: fix: typo in Nepali road safety regulations question
 - **2017-08-08 17:57**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-08 18:39**: chore: update project metadata and build configuration
+- **2017-08-09 12:50**: feat: add category-specific practice modes
