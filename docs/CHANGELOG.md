@@ -1,4 +1,3 @@
-- **2017-06-28 14:58**: style: enhance traffic sign card layout and responsiveness
 - **2017-06-29 12:28**: chore: update questions database with recent DOTM updates
 - **2017-06-29 14:41**: perf: optimize image caching for traffic sign assets
 - **2017-06-29 16:29**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2017-08-10 09:47**: docs: update README with setup instructions and feature list
 - **2017-08-10 13:07**: docs: update README with setup instructions and feature list
 - **2017-08-11 09:10**: feat: implement timer and score calculation for mock test
+- **2017-08-11 10:42**: perf: index question IDs for rapid lookup
