@@ -1,4 +1,3 @@
-- **2017-06-29 14:41**: perf: optimize image caching for traffic sign assets
 - **2017-06-29 16:29**: feat: add instant feedback and explanation on answer selection
 - **2017-06-30 17:47**: feat: add keyboard navigation shortcuts for question selection
 - **2017-07-01 10:35**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-08-11 09:10**: feat: implement timer and score calculation for mock test
 - **2017-08-11 10:42**: perf: index question IDs for rapid lookup
 - **2017-08-11 16:13**: feat: implement timer and score calculation for mock test
+- **2017-08-12 13:52**: feat: add category-specific practice modes
