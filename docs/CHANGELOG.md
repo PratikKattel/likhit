@@ -1,4 +1,3 @@
-- **2017-07-01 21:38**: perf: index question IDs for rapid lookup
 - **2017-07-02 14:29**: test: verify question extraction script against exam PDF
 - **2017-07-03 09:00**: feat: add search and filter by sign category
 - **2017-07-04 21:19**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-08-13 12:27**: feat: add category-specific practice modes
 - **2017-08-13 16:11**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-13 16:41**: docs: update README with setup instructions and feature list
+- **2017-08-13 19:29**: chore: update questions database with recent DOTM updates
