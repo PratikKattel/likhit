@@ -1,4 +1,3 @@
-- **2017-07-01 10:35**: feat: implement timer and score calculation for mock test
 - **2017-07-01 21:38**: perf: index question IDs for rapid lookup
 - **2017-07-02 14:29**: test: verify question extraction script against exam PDF
 - **2017-07-03 09:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-08-12 13:52**: feat: add category-specific practice modes
 - **2017-08-13 12:27**: feat: add category-specific practice modes
 - **2017-08-13 16:11**: style: enhance traffic sign card layout and responsiveness
+- **2017-08-13 16:41**: docs: update README with setup instructions and feature list
