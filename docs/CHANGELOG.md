@@ -1,4 +1,3 @@
-- **2017-07-03 09:00**: feat: add search and filter by sign category
 - **2017-07-04 21:19**: fix: adjust passing score threshold according to new rules
 - **2017-07-05 16:18**: refactor: optimize SVG rendering for road signs
 - **2017-07-06 17:17**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-08-13 16:41**: docs: update README with setup instructions and feature list
 - **2017-08-13 19:29**: chore: update questions database with recent DOTM updates
 - **2017-08-14 12:34**: chore: organize assets and image directory structure
+- **2017-08-14 15:31**: style: improve dark/light mode and mobile UI responsiveness
