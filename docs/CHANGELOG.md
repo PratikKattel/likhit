@@ -1,4 +1,3 @@
-- **2017-07-06 17:17**: style: polish typography and Nepali Unicode font rendering
 - **2017-07-07 16:22**: chore: update questions database with recent DOTM updates
 - **2017-07-08 10:02**: test: verify question extraction script against exam PDF
 - **2017-07-09 10:06**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-08-14 15:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-14 17:38**: refactor: optimize SVG rendering for road signs
 - **2017-08-15 12:02**: chore: update project metadata and build configuration
+- **2017-08-15 17:48**: style: improve dark/light mode and mobile UI responsiveness
