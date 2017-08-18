@@ -1,4 +1,3 @@
-- **2017-07-09 12:39**: feat: add warning signs and informational road signs
 - **2017-07-09 14:06**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-09 20:58**: fix: prevent option re-selection after submitting answer
 - **2017-07-10 10:16**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-08-16 14:16**: feat: implement timer and score calculation for mock test
 - **2017-08-17 16:35**: feat: implement timer and score calculation for mock test
 - **2017-08-17 20:36**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-08-18 16:07**: docs: add instructions for Nepali driving license written exam
