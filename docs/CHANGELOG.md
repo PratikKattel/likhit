@@ -1,4 +1,3 @@
-- **2017-07-09 20:58**: fix: prevent option re-selection after submitting answer
 - **2017-07-10 10:16**: chore: format code style and clean up redundant variables
 - **2017-07-10 18:20**: docs: add instructions for Nepali driving license written exam
 - **2017-07-11 16:02**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-08-17 20:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-08-18 16:07**: docs: add instructions for Nepali driving license written exam
 - **2017-08-19 11:21**: docs: update README with setup instructions and feature list
+- **2017-08-20 13:30**: fix: prevent option re-selection after submitting answer
