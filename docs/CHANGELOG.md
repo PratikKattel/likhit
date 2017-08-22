@@ -1,4 +1,3 @@
-- **2017-07-12 13:25**: perf: lazy load signal graphics and question assets
 - **2017-07-12 13:33**: fix: update DOTM Nepal license syllabus questions
 - **2017-07-12 17:24**: refactor: restructure question data schema for faster loading
 - **2017-07-12 21:11**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2017-08-21 19:15**: docs: improve code comments and API documentation
 - **2017-08-21 21:25**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-22 09:59**: feat: add search and filter by sign category
+- **2017-08-22 17:26**: refactor: clean up unused CSS classes and optimize stylesheet
