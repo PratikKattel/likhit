@@ -1,4 +1,3 @@
-- **2017-07-12 21:11**: feat: add category-specific practice modes
 - **2017-07-13 13:25**: fix: resolve layout shift during question transitions
 - **2017-07-13 14:13**: docs: improve code comments and API documentation
 - **2017-07-13 17:26**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2017-08-22 17:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-08-23 09:18**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-23 09:29**: chore: format code style and clean up redundant variables
+- **2017-08-23 12:33**: feat: add search and filter by sign category
