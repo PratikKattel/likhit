@@ -1,4 +1,3 @@
-- **2017-07-13 17:26**: fix: resolve layout shift during question transitions
 - **2017-07-14 18:32**: feat: implement timer and score calculation for mock test
 - **2017-07-15 12:27**: feat: add category-specific practice modes
 - **2017-07-15 12:35**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2017-08-23 12:33**: feat: add search and filter by sign category
 - **2017-08-24 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-08-24 14:24**: chore: format code style and clean up redundant variables
+- **2017-08-25 15:07**: feat: add regulatory traffic signs SVG graphics
