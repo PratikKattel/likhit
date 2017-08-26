@@ -1,4 +1,3 @@
-- **2017-07-15 12:27**: feat: add category-specific practice modes
 - **2017-07-15 12:35**: fix: typo in Nepali road safety regulations question
 - **2017-07-15 16:05**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-15 20:05**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-08-24 14:24**: chore: format code style and clean up redundant variables
 - **2017-08-25 15:07**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-25 15:59**: fix: adjust passing score threshold according to new rules
+- **2017-08-26 15:14**: feat: add regulatory traffic signs SVG graphics
