@@ -1,4 +1,3 @@
-- **2017-07-15 16:05**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-15 20:05**: perf: index question IDs for rapid lookup
 - **2017-07-16 13:11**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-07-16 17:15**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2017-08-25 15:59**: fix: adjust passing score threshold according to new rules
 - **2017-08-26 15:14**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-26 21:48**: chore: organize assets and image directory structure
+- **2017-08-27 13:36**: feat: add warning signs and informational road signs
