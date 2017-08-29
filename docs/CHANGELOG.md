@@ -1,4 +1,3 @@
-- **2017-07-17 21:15**: feat: add instant feedback and explanation on answer selection
 - **2017-07-18 12:27**: feat: add result summary with passing threshold analysis
 - **2017-07-19 12:14**: perf: index question IDs for rapid lookup
 - **2017-07-20 14:35**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-08-27 21:12**: fix: correct color specifications for mandatory traffic signs
 - **2017-08-28 15:37**: fix: typo in Nepali road safety regulations question
 - **2017-08-28 18:51**: test: verify question extraction script against exam PDF
+- **2017-08-29 12:47**: perf: optimize image caching for traffic sign assets
