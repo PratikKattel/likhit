@@ -1,4 +1,3 @@
-- **2017-07-20 14:35**: docs: add instructions for Nepali driving license written exam
 - **2017-07-20 17:46**: refactor: restructure question data schema for faster loading
 - **2017-07-21 09:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-07-21 20:50**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2017-08-29 12:47**: perf: optimize image caching for traffic sign assets
 - **2017-08-29 20:50**: chore: update questions database with recent DOTM updates
 - **2017-08-30 17:36**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-08-30 20:22**: feat: add search and filter by sign category
