@@ -1,4 +1,3 @@
-- **2017-07-21 20:50**: feat: add result summary with passing threshold analysis
 - **2017-07-22 11:39**: fix: prevent option re-selection after submitting answer
 - **2017-07-22 15:59**: refactor: modularize traffic app logic and event listeners
 - **2017-07-23 12:22**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2017-08-30 20:22**: feat: add search and filter by sign category
 - **2017-08-31 11:32**: feat: add category A and B traffic test questions
 - **2017-09-01 13:13**: feat: add search and filter by sign category
+- **2017-09-01 21:58**: fix: typo in Nepali road safety regulations question
