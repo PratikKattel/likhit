@@ -1,4 +1,3 @@
-- **2017-07-23 19:34**: feat: add regulatory traffic signs SVG graphics
 - **2017-07-24 12:41**: refactor: restructure question data schema for faster loading
 - **2017-07-24 12:54**: fix: typo in Nepali road safety regulations question
 - **2017-07-25 18:22**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-09-02 17:22**: docs: update traffic signals catalog documentation
 - **2017-09-03 14:00**: feat: add instant feedback and explanation on answer selection
 - **2017-09-04 19:21**: perf: optimize image caching for traffic sign assets
+- **2017-09-05 11:20**: feat: implement timer and score calculation for mock test
