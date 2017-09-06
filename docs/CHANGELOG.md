@@ -1,4 +1,3 @@
-- **2017-07-26 22:08**: fix: adjust passing score threshold according to new rules
 - **2017-07-27 13:36**: style: enhance traffic sign card layout and responsiveness
 - **2017-07-27 21:56**: chore: update project metadata and build configuration
 - **2017-07-28 13:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2017-09-05 21:21**: perf: lazy load signal graphics and question assets
 - **2017-09-06 09:51**: docs: update README with setup instructions and feature list
 - **2017-09-06 14:37**: fix: update DOTM Nepal license syllabus questions
+- **2017-09-06 19:08**: fix: typo in Nepali road safety regulations question
