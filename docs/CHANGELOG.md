@@ -1,4 +1,3 @@
-- **2017-07-25 18:22**: chore: format code style and clean up redundant variables
 - **2017-07-26 20:52**: docs: add instructions for Nepali driving license written exam
 - **2017-07-26 22:08**: fix: adjust passing score threshold according to new rules
 - **2017-07-27 13:36**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-09-05 11:20**: feat: implement timer and score calculation for mock test
 - **2017-09-05 20:18**: fix: adjust passing score threshold according to new rules
 - **2017-09-05 21:21**: perf: lazy load signal graphics and question assets
+- **2017-09-06 09:51**: docs: update README with setup instructions and feature list
