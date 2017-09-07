@@ -1,4 +1,3 @@
-- **2017-07-27 13:36**: style: enhance traffic sign card layout and responsiveness
 - **2017-07-27 21:56**: chore: update project metadata and build configuration
 - **2017-07-28 13:09**: feat: add warning signs and informational road signs
 - **2017-07-28 21:49**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2017-09-06 09:51**: docs: update README with setup instructions and feature list
 - **2017-09-06 14:37**: fix: update DOTM Nepal license syllabus questions
 - **2017-09-06 19:08**: fix: typo in Nepali road safety regulations question
+- **2017-09-07 15:32**: chore: format code style and clean up redundant variables
