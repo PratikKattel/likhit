@@ -1,4 +1,3 @@
-- **2017-07-29 12:02**: fix: adjust passing score threshold according to new rules
 - **2017-07-30 18:21**: fix: typo in Nepali road safety regulations question
 - **2017-07-31 14:01**: fix: typo in Nepali road safety regulations question
 - **2017-07-31 21:10**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-09-07 17:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-09-08 19:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-09-08 20:53**: perf: optimize image caching for traffic sign assets
+- **2017-09-08 21:21**: perf: optimize image caching for traffic sign assets
