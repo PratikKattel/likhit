@@ -1,4 +1,3 @@
-- **2017-07-28 13:09**: feat: add warning signs and informational road signs
 - **2017-07-28 21:49**: docs: update README with setup instructions and feature list
 - **2017-07-29 12:02**: fix: adjust passing score threshold according to new rules
 - **2017-07-30 18:21**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2017-09-06 19:08**: fix: typo in Nepali road safety regulations question
 - **2017-09-07 15:32**: chore: format code style and clean up redundant variables
 - **2017-09-07 17:18**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-09-08 19:37**: style: improve dark/light mode and mobile UI responsiveness
