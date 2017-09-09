@@ -1,4 +1,3 @@
-- **2017-07-30 18:21**: fix: typo in Nepali road safety regulations question
 - **2017-07-31 14:01**: fix: typo in Nepali road safety regulations question
 - **2017-07-31 21:10**: style: polish typography and Nepali Unicode font rendering
 - **2017-08-01 13:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2017-09-08 19:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-09-08 20:53**: perf: optimize image caching for traffic sign assets
 - **2017-09-08 21:21**: perf: optimize image caching for traffic sign assets
+- **2017-09-09 09:16**: chore: update questions database with recent DOTM updates
