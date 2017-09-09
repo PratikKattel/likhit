@@ -1,4 +1,3 @@
-- **2017-07-31 21:10**: style: polish typography and Nepali Unicode font rendering
 - **2017-08-01 13:26**: feat: add category-specific practice modes
 - **2017-08-01 15:32**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-01 15:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-09-08 21:21**: perf: optimize image caching for traffic sign assets
 - **2017-09-09 09:16**: chore: update questions database with recent DOTM updates
 - **2017-09-09 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-09-09 18:15**: docs: improve code comments and API documentation
