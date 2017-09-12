@@ -1,4 +1,3 @@
-- **2017-08-02 09:25**: refactor: restructure question data schema for faster loading
 - **2017-08-02 15:08**: chore: update project metadata and build configuration
 - **2017-08-02 18:32**: docs: update traffic signals catalog documentation
 - **2017-08-03 14:44**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2017-09-10 09:06**: feat: add instant feedback and explanation on answer selection
 - **2017-09-11 11:36**: chore: format code style and clean up redundant variables
 - **2017-09-12 18:24**: fix: typo in Nepali road safety regulations question
+- **2017-09-12 21:26**: fix: correct color specifications for mandatory traffic signs
