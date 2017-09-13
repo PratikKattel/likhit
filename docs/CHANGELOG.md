@@ -1,4 +1,3 @@
-- **2017-08-03 15:03**: feat: add warning signs and informational road signs
 - **2017-08-04 13:48**: feat: add search and filter by sign category
 - **2017-08-04 21:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-05 17:57**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-09-13 12:45**: docs: improve code comments and API documentation
 - **2017-09-13 15:44**: refactor: optimize SVG rendering for road signs
 - **2017-09-13 20:56**: feat: add category-specific practice modes
+- **2017-09-13 21:58**: fix: typo in Nepali road safety regulations question
