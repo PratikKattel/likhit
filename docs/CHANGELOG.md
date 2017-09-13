@@ -1,4 +1,3 @@
-- **2017-08-02 18:32**: docs: update traffic signals catalog documentation
 - **2017-08-03 14:44**: refactor: modularize traffic app logic and event listeners
 - **2017-08-03 15:03**: feat: add warning signs and informational road signs
 - **2017-08-04 13:48**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-09-12 18:24**: fix: typo in Nepali road safety regulations question
 - **2017-09-12 21:26**: fix: correct color specifications for mandatory traffic signs
 - **2017-09-13 12:45**: docs: improve code comments and API documentation
+- **2017-09-13 15:44**: refactor: optimize SVG rendering for road signs
