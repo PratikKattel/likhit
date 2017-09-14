@@ -1,4 +1,3 @@
-- **2017-08-04 13:48**: feat: add search and filter by sign category
 - **2017-08-04 21:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-05 17:57**: perf: index question IDs for rapid lookup
 - **2017-08-06 16:56**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2017-09-13 15:44**: refactor: optimize SVG rendering for road signs
 - **2017-09-13 20:56**: feat: add category-specific practice modes
 - **2017-09-13 21:58**: fix: typo in Nepali road safety regulations question
+- **2017-09-14 09:58**: feat: add keyboard navigation shortcuts for question selection
