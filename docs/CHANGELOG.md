@@ -1,4 +1,3 @@
-- **2017-08-07 10:57**: fix: typo in Nepali road safety regulations question
 - **2017-08-08 17:57**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-08 18:39**: chore: update project metadata and build configuration
 - **2017-08-09 12:50**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2017-09-14 10:54**: feat: implement timer and score calculation for mock test
 - **2017-09-15 16:52**: perf: lazy load signal graphics and question assets
 - **2017-09-16 10:13**: refactor: optimize SVG rendering for road signs
+- **2017-09-16 14:00**: fix: prevent option re-selection after submitting answer
