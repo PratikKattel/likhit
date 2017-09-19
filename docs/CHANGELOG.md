@@ -1,4 +1,3 @@
-- **2017-08-09 21:33**: feat: implement timer and score calculation for mock test
 - **2017-08-10 09:47**: docs: update README with setup instructions and feature list
 - **2017-08-10 13:07**: docs: update README with setup instructions and feature list
 - **2017-08-11 09:10**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-09-17 13:53**: fix: resolve layout shift during question transitions
 - **2017-09-18 15:21**: chore: update questions database with recent DOTM updates
 - **2017-09-18 22:29**: fix: resolve layout shift during question transitions
+- **2017-09-19 18:35**: style: polish typography and Nepali Unicode font rendering
