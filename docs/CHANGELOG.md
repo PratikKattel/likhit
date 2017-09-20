@@ -1,4 +1,3 @@
-- **2017-08-10 13:07**: docs: update README with setup instructions and feature list
 - **2017-08-11 09:10**: feat: implement timer and score calculation for mock test
 - **2017-08-11 10:42**: perf: index question IDs for rapid lookup
 - **2017-08-11 16:13**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-09-18 22:29**: fix: resolve layout shift during question transitions
 - **2017-09-19 18:35**: style: polish typography and Nepali Unicode font rendering
 - **2017-09-20 10:42**: fix: update DOTM Nepal license syllabus questions
+- **2017-09-20 15:37**: docs: add instructions for Nepali driving license written exam
