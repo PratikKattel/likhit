@@ -1,4 +1,3 @@
-- **2017-08-11 16:13**: feat: implement timer and score calculation for mock test
 - **2017-08-12 13:52**: feat: add category-specific practice modes
 - **2017-08-13 12:27**: feat: add category-specific practice modes
 - **2017-08-13 16:11**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2017-09-20 15:37**: docs: add instructions for Nepali driving license written exam
 - **2017-09-21 09:16**: chore: update questions database with recent DOTM updates
 - **2017-09-21 14:21**: fix: update DOTM Nepal license syllabus questions
+- **2017-09-22 16:14**: test: verify question extraction script against exam PDF
