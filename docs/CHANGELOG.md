@@ -1,4 +1,3 @@
-- **2017-08-13 16:11**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-13 16:41**: docs: update README with setup instructions and feature list
 - **2017-08-13 19:29**: chore: update questions database with recent DOTM updates
 - **2017-08-14 12:34**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2017-09-22 16:14**: test: verify question extraction script against exam PDF
 - **2017-09-23 09:05**: feat: add instant feedback and explanation on answer selection
 - **2017-09-23 09:23**: feat: add category-specific practice modes
+- **2017-09-23 10:57**: feat: add keyboard navigation shortcuts for question selection
