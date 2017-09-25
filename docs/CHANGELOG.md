@@ -1,4 +1,3 @@
-- **2017-08-14 12:34**: chore: organize assets and image directory structure
 - **2017-08-14 15:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-14 17:38**: refactor: optimize SVG rendering for road signs
 - **2017-08-15 12:02**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2017-09-23 10:57**: feat: add keyboard navigation shortcuts for question selection
 - **2017-09-23 14:00**: chore: format code style and clean up redundant variables
 - **2017-09-24 18:43**: docs: improve code comments and API documentation
+- **2017-09-25 13:28**: refactor: optimize SVG rendering for road signs
