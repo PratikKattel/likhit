@@ -1,4 +1,3 @@
-- **2017-08-15 17:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-16 14:16**: feat: implement timer and score calculation for mock test
 - **2017-08-17 16:35**: feat: implement timer and score calculation for mock test
 - **2017-08-17 20:36**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-09-25 13:59**: fix: correct color specifications for mandatory traffic signs
 - **2017-09-26 12:37**: perf: index question IDs for rapid lookup
 - **2017-09-27 14:39**: feat: add result summary with passing threshold analysis
+- **2017-09-27 18:05**: feat: support multiple choice questions for motorcycle category
