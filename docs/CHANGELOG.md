@@ -1,4 +1,3 @@
-- **2017-08-22 09:59**: feat: add search and filter by sign category
 - **2017-08-22 17:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-08-23 09:18**: style: enhance traffic sign card layout and responsiveness
 - **2017-08-23 09:29**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-09-29 21:18**: test: verify question extraction script against exam PDF
 - **2017-09-30 18:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-30 19:35**: style: polish typography and Nepali Unicode font rendering
+- **2017-10-01 15:28**: refactor: restructure question data schema for faster loading
