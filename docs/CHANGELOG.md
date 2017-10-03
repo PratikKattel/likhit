@@ -1,4 +1,3 @@
-- **2017-08-23 12:33**: feat: add search and filter by sign category
 - **2017-08-24 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-08-24 14:24**: chore: format code style and clean up redundant variables
 - **2017-08-25 15:07**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-10-01 15:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-10-01 19:08**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-02 10:07**: chore: format code style and clean up redundant variables
+- **2017-10-03 09:11**: refactor: restructure question data schema for faster loading
