@@ -1,4 +1,3 @@
-- **2017-08-24 14:24**: chore: format code style and clean up redundant variables
 - **2017-08-25 15:07**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-25 15:59**: fix: adjust passing score threshold according to new rules
 - **2017-08-26 15:14**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-10-02 10:07**: chore: format code style and clean up redundant variables
 - **2017-10-03 09:11**: refactor: restructure question data schema for faster loading
 - **2017-10-03 12:45**: refactor: optimize SVG rendering for road signs
+- **2017-10-03 21:54**: chore: format code style and clean up redundant variables
