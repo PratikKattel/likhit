@@ -1,4 +1,3 @@
-- **2017-08-26 21:48**: chore: organize assets and image directory structure
 - **2017-08-27 13:36**: feat: add warning signs and informational road signs
 - **2017-08-27 21:12**: fix: correct color specifications for mandatory traffic signs
 - **2017-08-28 15:37**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2017-10-04 21:22**: docs: add instructions for Nepali driving license written exam
 - **2017-10-05 11:05**: refactor: restructure question data schema for faster loading
 - **2017-10-05 20:16**: fix: update DOTM Nepal license syllabus questions
+- **2017-10-05 20:39**: perf: index question IDs for rapid lookup
