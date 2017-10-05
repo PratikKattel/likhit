@@ -1,4 +1,3 @@
-- **2017-08-25 15:59**: fix: adjust passing score threshold according to new rules
 - **2017-08-26 15:14**: feat: add regulatory traffic signs SVG graphics
 - **2017-08-26 21:48**: chore: organize assets and image directory structure
 - **2017-08-27 13:36**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2017-10-03 12:45**: refactor: optimize SVG rendering for road signs
 - **2017-10-03 21:54**: chore: format code style and clean up redundant variables
 - **2017-10-04 21:22**: docs: add instructions for Nepali driving license written exam
+- **2017-10-05 11:05**: refactor: restructure question data schema for faster loading
