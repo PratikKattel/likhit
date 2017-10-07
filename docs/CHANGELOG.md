@@ -1,4 +1,3 @@
-- **2017-08-27 21:12**: fix: correct color specifications for mandatory traffic signs
 - **2017-08-28 15:37**: fix: typo in Nepali road safety regulations question
 - **2017-08-28 18:51**: test: verify question extraction script against exam PDF
 - **2017-08-29 12:47**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-10-05 20:16**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-05 20:39**: perf: index question IDs for rapid lookup
 - **2017-10-06 20:39**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-10-07 10:13**: refactor: restructure question data schema for faster loading
