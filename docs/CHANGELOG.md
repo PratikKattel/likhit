@@ -1,4 +1,3 @@
-- **2017-08-29 12:47**: perf: optimize image caching for traffic sign assets
 - **2017-08-29 20:50**: chore: update questions database with recent DOTM updates
 - **2017-08-30 17:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-30 20:22**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-10-07 10:13**: refactor: restructure question data schema for faster loading
 - **2017-10-07 17:40**: style: enhance traffic sign card layout and responsiveness
 - **2017-10-08 10:55**: fix: update DOTM Nepal license syllabus questions
+- **2017-10-08 16:38**: refactor: restructure question data schema for faster loading
