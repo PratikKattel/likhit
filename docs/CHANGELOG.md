@@ -1,4 +1,3 @@
-- **2017-08-29 20:50**: chore: update questions database with recent DOTM updates
 - **2017-08-30 17:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-08-30 20:22**: feat: add search and filter by sign category
 - **2017-08-31 11:32**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-10-07 17:40**: style: enhance traffic sign card layout and responsiveness
 - **2017-10-08 10:55**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-08 16:38**: refactor: restructure question data schema for faster loading
+- **2017-10-09 10:19**: feat: add category-specific practice modes
