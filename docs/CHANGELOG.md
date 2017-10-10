@@ -1,4 +1,3 @@
-- **2017-08-31 11:32**: feat: add category A and B traffic test questions
 - **2017-09-01 13:13**: feat: add search and filter by sign category
 - **2017-09-01 21:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-02 17:22**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2017-10-09 10:19**: feat: add category-specific practice modes
 - **2017-10-09 17:52**: docs: update traffic signals catalog documentation
 - **2017-10-10 12:46**: docs: add instructions for Nepali driving license written exam
+- **2017-10-10 22:11**: refactor: optimize SVG rendering for road signs
