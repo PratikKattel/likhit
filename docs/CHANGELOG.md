@@ -1,4 +1,3 @@
-- **2017-09-01 21:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-02 17:22**: docs: update traffic signals catalog documentation
 - **2017-09-03 14:00**: feat: add instant feedback and explanation on answer selection
 - **2017-09-04 19:21**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-10-10 12:46**: docs: add instructions for Nepali driving license written exam
 - **2017-10-10 22:11**: refactor: optimize SVG rendering for road signs
 - **2017-10-11 17:29**: chore: update project metadata and build configuration
+- **2017-10-12 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
