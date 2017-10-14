@@ -1,4 +1,3 @@
-- **2017-09-05 20:18**: fix: adjust passing score threshold according to new rules
 - **2017-09-05 21:21**: perf: lazy load signal graphics and question assets
 - **2017-09-06 09:51**: docs: update README with setup instructions and feature list
 - **2017-09-06 14:37**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-10-13 10:49**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-13 17:25**: fix: typo in Nepali road safety regulations question
 - **2017-10-14 12:31**: docs: add instructions for Nepali driving license written exam
+- **2017-10-14 14:58**: chore: update questions database with recent DOTM updates
