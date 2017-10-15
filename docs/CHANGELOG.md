@@ -1,4 +1,3 @@
-- **2017-09-06 14:37**: fix: update DOTM Nepal license syllabus questions
 - **2017-09-06 19:08**: fix: typo in Nepali road safety regulations question
 - **2017-09-07 15:32**: chore: format code style and clean up redundant variables
 - **2017-09-07 17:18**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-10-14 14:58**: chore: update questions database with recent DOTM updates
 - **2017-10-14 20:28**: perf: optimize image caching for traffic sign assets
 - **2017-10-15 09:51**: feat: add regulatory traffic signs SVG graphics
+- **2017-10-15 10:56**: fix: prevent option re-selection after submitting answer
