@@ -1,4 +1,3 @@
-- **2017-09-08 19:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-09-08 20:53**: perf: optimize image caching for traffic sign assets
 - **2017-09-08 21:21**: perf: optimize image caching for traffic sign assets
 - **2017-09-09 09:16**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-10-16 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2017-10-17 10:25**: fix: typo in Nepali road safety regulations question
 - **2017-10-17 10:49**: chore: update project metadata and build configuration
+- **2017-10-18 20:39**: feat: add result summary with passing threshold analysis
