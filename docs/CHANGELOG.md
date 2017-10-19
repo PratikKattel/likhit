@@ -1,4 +1,3 @@
-- **2017-09-08 20:53**: perf: optimize image caching for traffic sign assets
 - **2017-09-08 21:21**: perf: optimize image caching for traffic sign assets
 - **2017-09-09 09:16**: chore: update questions database with recent DOTM updates
 - **2017-09-09 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-10-17 10:25**: fix: typo in Nepali road safety regulations question
 - **2017-10-17 10:49**: chore: update project metadata and build configuration
 - **2017-10-18 20:39**: feat: add result summary with passing threshold analysis
+- **2017-10-19 12:42**: fix: prevent option re-selection after submitting answer
