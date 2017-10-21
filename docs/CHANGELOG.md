@@ -1,4 +1,3 @@
-- **2017-09-09 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-09-09 18:15**: docs: improve code comments and API documentation
 - **2017-09-10 09:06**: feat: add instant feedback and explanation on answer selection
 - **2017-09-11 11:36**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-10-19 12:42**: fix: prevent option re-selection after submitting answer
 - **2017-10-19 21:33**: fix: adjust passing score threshold according to new rules
 - **2017-10-20 17:18**: feat: support multiple choice questions for motorcycle category
+- **2017-10-21 09:07**: fix: correct color specifications for mandatory traffic signs
