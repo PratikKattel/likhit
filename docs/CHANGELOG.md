@@ -1,4 +1,3 @@
-- **2017-09-12 18:24**: fix: typo in Nepali road safety regulations question
 - **2017-09-12 21:26**: fix: correct color specifications for mandatory traffic signs
 - **2017-09-13 12:45**: docs: improve code comments and API documentation
 - **2017-09-13 15:44**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-10-22 09:09**: chore: update questions database with recent DOTM updates
 - **2017-10-22 10:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-10-22 22:25**: feat: add category A and B traffic test questions
+- **2017-10-23 13:44**: fix: adjust passing score threshold according to new rules
