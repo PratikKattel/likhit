@@ -1,4 +1,3 @@
-- **2017-09-13 20:56**: feat: add category-specific practice modes
 - **2017-09-13 21:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-14 09:58**: feat: add keyboard navigation shortcuts for question selection
 - **2017-09-14 10:54**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2017-10-24 17:02**: feat: implement timer and score calculation for mock test
 - **2017-10-25 20:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-10-26 16:38**: feat: add category-specific practice modes
+- **2017-10-26 21:07**: fix: correct color specifications for mandatory traffic signs
