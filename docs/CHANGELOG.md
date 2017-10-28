@@ -1,4 +1,3 @@
-- **2017-09-14 10:54**: feat: implement timer and score calculation for mock test
 - **2017-09-15 16:52**: perf: lazy load signal graphics and question assets
 - **2017-09-16 10:13**: refactor: optimize SVG rendering for road signs
 - **2017-09-16 14:00**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-10-26 21:07**: fix: correct color specifications for mandatory traffic signs
 - **2017-10-27 09:02**: chore: update questions database with recent DOTM updates
 - **2017-10-28 15:33**: style: polish typography and Nepali Unicode font rendering
+- **2017-10-28 21:39**: refactor: optimize SVG rendering for road signs
