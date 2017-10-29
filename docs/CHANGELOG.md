@@ -1,4 +1,3 @@
-- **2017-09-16 10:13**: refactor: optimize SVG rendering for road signs
 - **2017-09-16 14:00**: fix: prevent option re-selection after submitting answer
 - **2017-09-17 13:53**: fix: resolve layout shift during question transitions
 - **2017-09-18 15:21**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-10-28 15:33**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-28 21:39**: refactor: optimize SVG rendering for road signs
 - **2017-10-29 09:17**: test: verify question extraction script against exam PDF
+- **2017-10-29 18:30**: refactor: modularize traffic app logic and event listeners
