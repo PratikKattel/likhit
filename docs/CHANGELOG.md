@@ -1,4 +1,3 @@
-- **2017-09-18 15:21**: chore: update questions database with recent DOTM updates
 - **2017-09-18 22:29**: fix: resolve layout shift during question transitions
 - **2017-09-19 18:35**: style: polish typography and Nepali Unicode font rendering
 - **2017-09-20 10:42**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-10-29 18:30**: refactor: modularize traffic app logic and event listeners
 - **2017-10-30 11:27**: feat: add regulatory traffic signs SVG graphics
 - **2017-10-31 14:12**: feat: add category-specific practice modes
+- **2017-10-31 16:57**: feat: add category A and B traffic test questions
