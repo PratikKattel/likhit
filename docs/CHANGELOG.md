@@ -1,4 +1,3 @@
-- **2017-09-19 18:35**: style: polish typography and Nepali Unicode font rendering
 - **2017-09-20 10:42**: fix: update DOTM Nepal license syllabus questions
 - **2017-09-20 15:37**: docs: add instructions for Nepali driving license written exam
 - **2017-09-21 09:16**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-10-31 14:12**: feat: add category-specific practice modes
 - **2017-10-31 16:57**: feat: add category A and B traffic test questions
 - **2017-10-31 18:51**: perf: index question IDs for rapid lookup
+- **2017-11-01 09:23**: perf: optimize image caching for traffic sign assets
