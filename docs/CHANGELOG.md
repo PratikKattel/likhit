@@ -1,4 +1,3 @@
-- **2017-09-22 16:14**: test: verify question extraction script against exam PDF
 - **2017-09-23 09:05**: feat: add instant feedback and explanation on answer selection
 - **2017-09-23 09:23**: feat: add category-specific practice modes
 - **2017-09-23 10:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2017-11-01 15:07**: style: enhance traffic sign card layout and responsiveness
 - **2017-11-01 20:30**: docs: add instructions for Nepali driving license written exam
 - **2017-11-02 11:13**: docs: improve code comments and API documentation
+- **2017-11-02 17:05**: feat: add result summary with passing threshold analysis
