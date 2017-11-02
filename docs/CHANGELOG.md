@@ -1,4 +1,3 @@
-- **2017-09-21 14:21**: fix: update DOTM Nepal license syllabus questions
 - **2017-09-22 16:14**: test: verify question extraction script against exam PDF
 - **2017-09-23 09:05**: feat: add instant feedback and explanation on answer selection
 - **2017-09-23 09:23**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2017-11-01 09:31**: refactor: optimize SVG rendering for road signs
 - **2017-11-01 15:07**: style: enhance traffic sign card layout and responsiveness
 - **2017-11-01 20:30**: docs: add instructions for Nepali driving license written exam
+- **2017-11-02 11:13**: docs: improve code comments and API documentation
