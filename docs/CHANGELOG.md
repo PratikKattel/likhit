@@ -1,4 +1,3 @@
-- **2017-09-23 10:57**: feat: add keyboard navigation shortcuts for question selection
 - **2017-09-23 14:00**: chore: format code style and clean up redundant variables
 - **2017-09-24 18:43**: docs: improve code comments and API documentation
 - **2017-09-25 13:28**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-11-02 17:05**: feat: add result summary with passing threshold analysis
 - **2017-11-03 12:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-11-03 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-11-03 20:36**: feat: add warning signs and informational road signs
