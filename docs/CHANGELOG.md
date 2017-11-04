@@ -1,4 +1,3 @@
-- **2017-09-25 13:59**: fix: correct color specifications for mandatory traffic signs
 - **2017-09-26 12:37**: perf: index question IDs for rapid lookup
 - **2017-09-27 14:39**: feat: add result summary with passing threshold analysis
 - **2017-09-27 18:05**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-11-03 21:23**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-04 11:05**: refactor: optimize SVG rendering for road signs
 - **2017-11-04 17:24**: style: improve dark/light mode and mobile UI responsiveness
+- **2017-11-04 17:48**: refactor: modularize traffic app logic and event listeners
