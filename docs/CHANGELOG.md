@@ -1,4 +1,3 @@
-- **2017-09-26 12:37**: perf: index question IDs for rapid lookup
 - **2017-09-27 14:39**: feat: add result summary with passing threshold analysis
 - **2017-09-27 18:05**: feat: support multiple choice questions for motorcycle category
 - **2017-09-28 16:01**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-11-04 11:05**: refactor: optimize SVG rendering for road signs
 - **2017-11-04 17:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-11-04 17:48**: refactor: modularize traffic app logic and event listeners
+- **2017-11-05 14:56**: docs: update README with setup instructions and feature list
