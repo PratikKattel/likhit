@@ -1,4 +1,3 @@
-- **2017-09-28 16:01**: feat: add search and filter by sign category
 - **2017-09-28 16:24**: feat: add search and filter by sign category
 - **2017-09-28 18:31**: feat: implement timer and score calculation for mock test
 - **2017-09-28 21:14**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-11-05 14:56**: docs: update README with setup instructions and feature list
 - **2017-11-05 15:37**: chore: format code style and clean up redundant variables
 - **2017-11-05 20:54**: feat: add keyboard navigation shortcuts for question selection
+- **2017-11-05 21:30**: refactor: optimize SVG rendering for road signs
