@@ -1,4 +1,3 @@
-- **2017-09-29 21:18**: test: verify question extraction script against exam PDF
 - **2017-09-30 18:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-30 19:35**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-01 15:28**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2017-11-07 16:42**: test: verify question extraction script against exam PDF
 - **2017-11-07 22:05**: fix: resolve layout shift during question transitions
 - **2017-11-08 10:23**: feat: add category A and B traffic test questions
+- **2017-11-08 19:18**: feat: add category A and B traffic test questions
