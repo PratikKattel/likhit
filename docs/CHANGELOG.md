@@ -1,4 +1,3 @@
-- **2017-09-29 20:16**: perf: lazy load signal graphics and question assets
 - **2017-09-29 21:18**: test: verify question extraction script against exam PDF
 - **2017-09-30 18:58**: fix: typo in Nepali road safety regulations question
 - **2017-09-30 19:35**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-11-06 16:56**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-07 16:42**: test: verify question extraction script against exam PDF
 - **2017-11-07 22:05**: fix: resolve layout shift during question transitions
+- **2017-11-08 10:23**: feat: add category A and B traffic test questions
