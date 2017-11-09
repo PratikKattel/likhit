@@ -1,4 +1,3 @@
-- **2017-09-30 19:35**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-01 15:28**: refactor: restructure question data schema for faster loading
 - **2017-10-01 15:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-10-01 19:08**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-11-08 10:23**: feat: add category A and B traffic test questions
 - **2017-11-08 19:18**: feat: add category A and B traffic test questions
 - **2017-11-08 21:23**: style: enhance traffic sign card layout and responsiveness
+- **2017-11-09 11:47**: chore: format code style and clean up redundant variables
