@@ -1,4 +1,3 @@
-- **2017-10-02 10:07**: chore: format code style and clean up redundant variables
 - **2017-10-03 09:11**: refactor: restructure question data schema for faster loading
 - **2017-10-03 12:45**: refactor: optimize SVG rendering for road signs
 - **2017-10-03 21:54**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-11-09 12:28**: docs: update traffic signals catalog documentation
 - **2017-11-09 12:32**: refactor: restructure question data schema for faster loading
 - **2017-11-10 13:49**: docs: add instructions for Nepali driving license written exam
+- **2017-11-10 17:09**: style: polish typography and Nepali Unicode font rendering
