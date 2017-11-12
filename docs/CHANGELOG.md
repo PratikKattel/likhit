@@ -1,4 +1,3 @@
-- **2017-10-03 12:45**: refactor: optimize SVG rendering for road signs
 - **2017-10-03 21:54**: chore: format code style and clean up redundant variables
 - **2017-10-04 21:22**: docs: add instructions for Nepali driving license written exam
 - **2017-10-05 11:05**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2017-11-10 13:49**: docs: add instructions for Nepali driving license written exam
 - **2017-11-10 17:09**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-11 13:54**: feat: add search and filter by sign category
+- **2017-11-12 18:00**: feat: add regulatory traffic signs SVG graphics
