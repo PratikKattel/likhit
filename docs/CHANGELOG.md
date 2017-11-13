@@ -1,4 +1,3 @@
-- **2017-10-04 21:22**: docs: add instructions for Nepali driving license written exam
 - **2017-10-05 11:05**: refactor: restructure question data schema for faster loading
 - **2017-10-05 20:16**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-05 20:39**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-11-11 13:54**: feat: add search and filter by sign category
 - **2017-11-12 18:00**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-13 13:01**: refactor: restructure question data schema for faster loading
+- **2017-11-13 18:14**: chore: update project metadata and build configuration
