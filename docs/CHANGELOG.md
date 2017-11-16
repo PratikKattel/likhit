@@ -1,4 +1,3 @@
-- **2017-10-07 10:13**: refactor: restructure question data schema for faster loading
 - **2017-10-07 17:40**: style: enhance traffic sign card layout and responsiveness
 - **2017-10-08 10:55**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-08 16:38**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2017-11-14 13:55**: perf: index question IDs for rapid lookup
 - **2017-11-15 21:02**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-16 18:42**: fix: resolve layout shift during question transitions
+- **2017-11-16 21:08**: feat: implement timer and score calculation for mock test
