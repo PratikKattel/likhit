@@ -1,4 +1,3 @@
-- **2017-10-08 16:38**: refactor: restructure question data schema for faster loading
 - **2017-10-09 10:19**: feat: add category-specific practice modes
 - **2017-10-09 17:52**: docs: update traffic signals catalog documentation
 - **2017-10-10 12:46**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-11-16 21:08**: feat: implement timer and score calculation for mock test
 - **2017-11-17 18:50**: fix: prevent option re-selection after submitting answer
 - **2017-11-18 09:06**: fix: prevent option re-selection after submitting answer
+- **2017-11-18 13:36**: chore: update project metadata and build configuration
