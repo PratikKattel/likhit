@@ -1,4 +1,3 @@
-- **2017-10-10 12:46**: docs: add instructions for Nepali driving license written exam
 - **2017-10-10 22:11**: refactor: optimize SVG rendering for road signs
 - **2017-10-11 17:29**: chore: update project metadata and build configuration
 - **2017-10-12 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-11-18 13:36**: chore: update project metadata and build configuration
 - **2017-11-18 17:26**: perf: optimize image caching for traffic sign assets
 - **2017-11-19 09:37**: fix: resolve layout shift during question transitions
+- **2017-11-19 16:22**: chore: format code style and clean up redundant variables
