@@ -1,4 +1,3 @@
-- **2017-10-11 17:29**: chore: update project metadata and build configuration
 - **2017-10-12 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-10-12 22:14**: fix: prevent option re-selection after submitting answer
 - **2017-10-13 10:49**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2017-11-19 09:37**: fix: resolve layout shift during question transitions
 - **2017-11-19 16:22**: chore: format code style and clean up redundant variables
 - **2017-11-20 21:10**: feat: add category-specific practice modes
+- **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
