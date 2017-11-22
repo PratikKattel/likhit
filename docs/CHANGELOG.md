@@ -1,4 +1,3 @@
-- **2017-10-12 12:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-10-12 22:14**: fix: prevent option re-selection after submitting answer
 - **2017-10-13 10:49**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-13 17:25**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2017-11-19 16:22**: chore: format code style and clean up redundant variables
 - **2017-11-20 21:10**: feat: add category-specific practice modes
 - **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
+- **2017-11-22 09:54**: perf: optimize image caching for traffic sign assets
