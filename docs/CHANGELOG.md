@@ -1,4 +1,3 @@
-- **2017-10-13 10:49**: fix: update DOTM Nepal license syllabus questions
 - **2017-10-13 17:25**: fix: typo in Nepali road safety regulations question
 - **2017-10-14 12:31**: docs: add instructions for Nepali driving license written exam
 - **2017-10-14 14:58**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
 - **2017-11-22 09:54**: perf: optimize image caching for traffic sign assets
 - **2017-11-22 12:34**: docs: add instructions for Nepali driving license written exam
+- **2017-11-22 22:26**: docs: update traffic signals catalog documentation
