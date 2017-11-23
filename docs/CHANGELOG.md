@@ -1,4 +1,3 @@
-- **2017-10-14 12:31**: docs: add instructions for Nepali driving license written exam
 - **2017-10-14 14:58**: chore: update questions database with recent DOTM updates
 - **2017-10-14 20:28**: perf: optimize image caching for traffic sign assets
 - **2017-10-15 09:51**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2017-11-22 12:34**: docs: add instructions for Nepali driving license written exam
 - **2017-11-22 22:26**: docs: update traffic signals catalog documentation
 - **2017-11-23 12:25**: feat: add instant feedback and explanation on answer selection
+- **2017-11-23 14:06**: docs: update README with setup instructions and feature list
