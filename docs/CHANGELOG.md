@@ -1,4 +1,3 @@
-- **2017-10-15 09:51**: feat: add regulatory traffic signs SVG graphics
 - **2017-10-15 10:56**: fix: prevent option re-selection after submitting answer
 - **2017-10-16 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2017-10-17 10:25**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2017-11-23 14:06**: docs: update README with setup instructions and feature list
 - **2017-11-23 17:34**: fix: typo in Nepali road safety regulations question
 - **2017-11-24 10:37**: docs: update README with setup instructions and feature list
+- **2017-11-24 22:11**: chore: update questions database with recent DOTM updates
