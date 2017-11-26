@@ -1,4 +1,3 @@
-- **2017-10-16 10:05**: feat: add keyboard navigation shortcuts for question selection
 - **2017-10-17 10:25**: fix: typo in Nepali road safety regulations question
 - **2017-10-17 10:49**: chore: update project metadata and build configuration
 - **2017-10-18 20:39**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2017-11-24 10:37**: docs: update README with setup instructions and feature list
 - **2017-11-24 22:11**: chore: update questions database with recent DOTM updates
 - **2017-11-25 11:36**: feat: add regulatory traffic signs SVG graphics
+- **2017-11-26 11:27**: feat: support multiple choice questions for motorcycle category
