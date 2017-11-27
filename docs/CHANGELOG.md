@@ -1,4 +1,3 @@
-- **2017-10-18 20:39**: feat: add result summary with passing threshold analysis
 - **2017-10-19 12:42**: fix: prevent option re-selection after submitting answer
 - **2017-10-19 21:33**: fix: adjust passing score threshold according to new rules
 - **2017-10-20 17:18**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2017-11-26 11:27**: feat: support multiple choice questions for motorcycle category
 - **2017-11-26 16:38**: feat: add category-specific practice modes
 - **2017-11-27 10:31**: refactor: restructure question data schema for faster loading
+- **2017-11-27 11:23**: refactor: optimize SVG rendering for road signs
