@@ -1,4 +1,3 @@
-- **2017-10-22 09:09**: chore: update questions database with recent DOTM updates
 - **2017-10-22 10:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-10-22 22:25**: feat: add category A and B traffic test questions
 - **2017-10-23 13:44**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-11-27 20:44**: feat: support multiple choice questions for motorcycle category
 - **2017-11-28 14:08**: perf: optimize image caching for traffic sign assets
 - **2017-11-28 15:47**: feat: add category-specific practice modes
+- **2017-11-29 10:45**: docs: update traffic signals catalog documentation
