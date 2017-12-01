@@ -1,4 +1,3 @@
-- **2017-10-24 17:02**: feat: implement timer and score calculation for mock test
 - **2017-10-25 20:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2017-10-26 16:38**: feat: add category-specific practice modes
 - **2017-10-26 21:07**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2017-11-29 11:36**: feat: add warning signs and informational road signs
 - **2017-11-29 18:57**: fix: update DOTM Nepal license syllabus questions
 - **2017-11-30 21:30**: chore: update questions database with recent DOTM updates
+- **2017-12-01 11:04**: feat: support multiple choice questions for motorcycle category
