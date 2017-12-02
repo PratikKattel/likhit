@@ -1,4 +1,3 @@
-- **2017-10-26 21:07**: fix: correct color specifications for mandatory traffic signs
 - **2017-10-27 09:02**: chore: update questions database with recent DOTM updates
 - **2017-10-28 15:33**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-28 21:39**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-12-01 11:04**: feat: support multiple choice questions for motorcycle category
 - **2017-12-01 11:22**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-02 09:14**: docs: update traffic signals catalog documentation
+- **2017-12-02 16:28**: docs: improve code comments and API documentation
