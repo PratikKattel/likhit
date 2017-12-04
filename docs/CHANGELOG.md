@@ -1,4 +1,3 @@
-- **2017-10-28 15:33**: style: polish typography and Nepali Unicode font rendering
 - **2017-10-28 21:39**: refactor: optimize SVG rendering for road signs
 - **2017-10-29 09:17**: test: verify question extraction script against exam PDF
 - **2017-10-29 18:30**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2017-12-02 09:14**: docs: update traffic signals catalog documentation
 - **2017-12-02 16:28**: docs: improve code comments and API documentation
 - **2017-12-03 15:13**: feat: implement timer and score calculation for mock test
+- **2017-12-04 21:49**: feat: add category-specific practice modes
