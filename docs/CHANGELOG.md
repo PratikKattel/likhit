@@ -1,4 +1,3 @@
-- **2017-10-29 09:17**: test: verify question extraction script against exam PDF
 - **2017-10-29 18:30**: refactor: modularize traffic app logic and event listeners
 - **2017-10-30 11:27**: feat: add regulatory traffic signs SVG graphics
 - **2017-10-31 14:12**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2017-12-03 15:13**: feat: implement timer and score calculation for mock test
 - **2017-12-04 21:49**: feat: add category-specific practice modes
 - **2017-12-05 16:02**: docs: update README with setup instructions and feature list
+- **2017-12-05 20:13**: feat: add instant feedback and explanation on answer selection
