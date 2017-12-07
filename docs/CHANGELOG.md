@@ -1,4 +1,3 @@
-- **2017-10-31 14:12**: feat: add category-specific practice modes
 - **2017-10-31 16:57**: feat: add category A and B traffic test questions
 - **2017-10-31 18:51**: perf: index question IDs for rapid lookup
 - **2017-11-01 09:23**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-12-05 20:13**: feat: add instant feedback and explanation on answer selection
 - **2017-12-06 18:23**: feat: implement timer and score calculation for mock test
 - **2017-12-06 20:14**: docs: improve code comments and API documentation
+- **2017-12-07 12:13**: refactor: optimize SVG rendering for road signs
