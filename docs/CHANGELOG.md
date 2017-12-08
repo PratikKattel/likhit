@@ -1,4 +1,3 @@
-- **2017-11-01 09:23**: perf: optimize image caching for traffic sign assets
 - **2017-11-01 09:31**: refactor: optimize SVG rendering for road signs
 - **2017-11-01 15:07**: style: enhance traffic sign card layout and responsiveness
 - **2017-11-01 20:30**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-12-07 12:13**: refactor: optimize SVG rendering for road signs
 - **2017-12-07 21:13**: feat: add instant feedback and explanation on answer selection
 - **2017-12-08 09:23**: style: enhance traffic sign card layout and responsiveness
+- **2017-12-08 11:09**: style: polish typography and Nepali Unicode font rendering
