@@ -1,4 +1,3 @@
-- **2017-11-02 11:13**: docs: improve code comments and API documentation
 - **2017-11-02 17:05**: feat: add result summary with passing threshold analysis
 - **2017-11-03 12:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-11-03 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2017-12-09 10:31**: feat: add search and filter by sign category
 - **2017-12-10 15:38**: perf: lazy load signal graphics and question assets
 - **2017-12-10 18:55**: refactor: restructure question data schema for faster loading
+- **2017-12-10 21:25**: refactor: restructure question data schema for faster loading
