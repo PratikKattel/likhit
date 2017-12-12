@@ -1,4 +1,3 @@
-- **2017-11-03 12:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-11-03 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-11-03 20:36**: feat: add warning signs and informational road signs
 - **2017-11-03 21:23**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-12-10 18:55**: refactor: restructure question data schema for faster loading
 - **2017-12-10 21:25**: refactor: restructure question data schema for faster loading
 - **2017-12-11 19:27**: fix: correct color specifications for mandatory traffic signs
+- **2017-12-12 09:42**: feat: add keyboard navigation shortcuts for question selection
