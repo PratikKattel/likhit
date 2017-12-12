@@ -1,4 +1,3 @@
-- **2017-11-03 20:36**: feat: add warning signs and informational road signs
 - **2017-11-03 21:23**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-04 11:05**: refactor: optimize SVG rendering for road signs
 - **2017-11-04 17:24**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2017-12-11 19:27**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-12 09:42**: feat: add keyboard navigation shortcuts for question selection
 - **2017-12-12 10:00**: feat: add regulatory traffic signs SVG graphics
+- **2017-12-12 10:52**: feat: add regulatory traffic signs SVG graphics
