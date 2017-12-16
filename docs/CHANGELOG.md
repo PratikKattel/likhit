@@ -1,4 +1,3 @@
-- **2017-11-05 14:56**: docs: update README with setup instructions and feature list
 - **2017-11-05 15:37**: chore: format code style and clean up redundant variables
 - **2017-11-05 20:54**: feat: add keyboard navigation shortcuts for question selection
 - **2017-11-05 21:30**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2017-12-14 15:36**: refactor: optimize SVG rendering for road signs
 - **2017-12-15 15:54**: refactor: restructure question data schema for faster loading
 - **2017-12-16 12:11**: fix: resolve layout shift during question transitions
+- **2017-12-16 15:18**: feat: add search and filter by sign category
