@@ -1,4 +1,3 @@
-- **2017-11-05 20:54**: feat: add keyboard navigation shortcuts for question selection
 - **2017-11-05 21:30**: refactor: optimize SVG rendering for road signs
 - **2017-11-06 14:37**: docs: update traffic signals catalog documentation
 - **2017-11-06 16:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2017-12-16 12:11**: fix: resolve layout shift during question transitions
 - **2017-12-16 15:18**: feat: add search and filter by sign category
 - **2017-12-16 22:19**: feat: add regulatory traffic signs SVG graphics
+- **2017-12-17 16:22**: chore: organize assets and image directory structure
