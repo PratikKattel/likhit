@@ -1,4 +1,3 @@
-- **2017-11-07 16:42**: test: verify question extraction script against exam PDF
 - **2017-11-07 22:05**: fix: resolve layout shift during question transitions
 - **2017-11-08 10:23**: feat: add category A and B traffic test questions
 - **2017-11-08 19:18**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2017-12-18 12:20**: chore: format code style and clean up redundant variables
 - **2017-12-19 10:10**: docs: update traffic signals catalog documentation
 - **2017-12-19 13:25**: style: enhance traffic sign card layout and responsiveness
+- **2017-12-20 15:10**: chore: organize assets and image directory structure
