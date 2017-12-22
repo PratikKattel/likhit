@@ -1,4 +1,3 @@
-- **2017-11-09 11:47**: chore: format code style and clean up redundant variables
 - **2017-11-09 12:28**: docs: update traffic signals catalog documentation
 - **2017-11-09 12:32**: refactor: restructure question data schema for faster loading
 - **2017-11-10 13:49**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2017-12-21 22:16**: perf: lazy load signal graphics and question assets
 - **2017-12-22 09:25**: docs: add instructions for Nepali driving license written exam
 - **2017-12-22 15:09**: fix: typo in Nepali road safety regulations question
+- **2017-12-22 18:19**: fix: correct color specifications for mandatory traffic signs
