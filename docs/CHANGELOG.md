@@ -1,4 +1,3 @@
-- **2017-11-09 12:32**: refactor: restructure question data schema for faster loading
 - **2017-11-10 13:49**: docs: add instructions for Nepali driving license written exam
 - **2017-11-10 17:09**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-11 13:54**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2017-12-22 15:09**: fix: typo in Nepali road safety regulations question
 - **2017-12-22 18:19**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-23 18:04**: style: polish typography and Nepali Unicode font rendering
+- **2017-12-24 22:04**: chore: update project metadata and build configuration
