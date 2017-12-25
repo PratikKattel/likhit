@@ -1,4 +1,3 @@
-- **2017-11-10 17:09**: style: polish typography and Nepali Unicode font rendering
 - **2017-11-11 13:54**: feat: add search and filter by sign category
 - **2017-11-12 18:00**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-13 13:01**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2017-12-23 18:04**: style: polish typography and Nepali Unicode font rendering
 - **2017-12-24 22:04**: chore: update project metadata and build configuration
 - **2017-12-25 15:44**: fix: prevent option re-selection after submitting answer
+- **2017-12-25 20:41**: refactor: clean up unused CSS classes and optimize stylesheet
