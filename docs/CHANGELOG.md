@@ -1,4 +1,3 @@
-- **2017-11-13 13:01**: refactor: restructure question data schema for faster loading
 - **2017-11-13 18:14**: chore: update project metadata and build configuration
 - **2017-11-14 11:14**: docs: update traffic signals catalog documentation
 - **2017-11-14 13:55**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2017-12-25 20:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-12-25 22:07**: feat: support multiple choice questions for motorcycle category
 - **2017-12-26 13:30**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2017-12-27 09:06**: perf: optimize image caching for traffic sign assets
