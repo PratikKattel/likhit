@@ -1,4 +1,3 @@
-- **2017-11-14 11:14**: docs: update traffic signals catalog documentation
 - **2017-11-14 13:55**: perf: index question IDs for rapid lookup
 - **2017-11-15 21:02**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-16 18:42**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2017-12-26 13:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-12-27 09:06**: perf: optimize image caching for traffic sign assets
 - **2017-12-27 13:09**: refactor: restructure question data schema for faster loading
+- **2017-12-28 21:01**: fix: update DOTM Nepal license syllabus questions
