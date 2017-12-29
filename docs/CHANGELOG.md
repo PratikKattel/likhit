@@ -1,4 +1,3 @@
-- **2017-11-16 18:42**: fix: resolve layout shift during question transitions
 - **2017-11-16 21:08**: feat: implement timer and score calculation for mock test
 - **2017-11-17 18:50**: fix: prevent option re-selection after submitting answer
 - **2017-11-18 09:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2017-12-28 21:01**: fix: update DOTM Nepal license syllabus questions
 - **2017-12-28 21:48**: feat: implement timer and score calculation for mock test
 - **2017-12-28 21:58**: docs: add instructions for Nepali driving license written exam
+- **2017-12-29 19:39**: fix: correct color specifications for mandatory traffic signs
