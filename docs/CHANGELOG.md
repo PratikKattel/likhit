@@ -1,4 +1,3 @@
-- **2017-11-17 18:50**: fix: prevent option re-selection after submitting answer
 - **2017-11-18 09:06**: fix: prevent option re-selection after submitting answer
 - **2017-11-18 13:36**: chore: update project metadata and build configuration
 - **2017-11-18 17:26**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2017-12-28 21:58**: docs: add instructions for Nepali driving license written exam
 - **2017-12-29 19:39**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-30 11:32**: docs: add instructions for Nepali driving license written exam
+- **2017-12-30 17:32**: feat: add result summary with passing threshold analysis
