@@ -1,4 +1,3 @@
-- **2017-11-18 13:36**: chore: update project metadata and build configuration
 - **2017-11-18 17:26**: perf: optimize image caching for traffic sign assets
 - **2017-11-19 09:37**: fix: resolve layout shift during question transitions
 - **2017-11-19 16:22**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2017-12-30 11:32**: docs: add instructions for Nepali driving license written exam
 - **2017-12-30 17:32**: feat: add result summary with passing threshold analysis
 - **2017-12-31 22:09**: chore: update project metadata and build configuration
+- **2018-01-01 14:17**: docs: update README with setup instructions and feature list
