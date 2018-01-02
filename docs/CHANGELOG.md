@@ -1,4 +1,3 @@
-- **2017-11-19 09:37**: fix: resolve layout shift during question transitions
 - **2017-11-19 16:22**: chore: format code style and clean up redundant variables
 - **2017-11-20 21:10**: feat: add category-specific practice modes
 - **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2017-12-31 22:09**: chore: update project metadata and build configuration
 - **2018-01-01 14:17**: docs: update README with setup instructions and feature list
 - **2018-01-01 14:57**: refactor: modularize traffic app logic and event listeners
+- **2018-01-02 15:08**: chore: format code style and clean up redundant variables
