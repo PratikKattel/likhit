@@ -1,4 +1,3 @@
-- **2017-11-19 16:22**: chore: format code style and clean up redundant variables
 - **2017-11-20 21:10**: feat: add category-specific practice modes
 - **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
 - **2017-11-22 09:54**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-01-01 14:17**: docs: update README with setup instructions and feature list
 - **2018-01-01 14:57**: refactor: modularize traffic app logic and event listeners
 - **2018-01-02 15:08**: chore: format code style and clean up redundant variables
+- **2018-01-03 16:17**: fix: prevent option re-selection after submitting answer
