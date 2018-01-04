@@ -1,4 +1,3 @@
-- **2017-11-21 20:08**: fix: adjust passing score threshold according to new rules
 - **2017-11-22 09:54**: perf: optimize image caching for traffic sign assets
 - **2017-11-22 12:34**: docs: add instructions for Nepali driving license written exam
 - **2017-11-22 22:26**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-01-02 15:08**: chore: format code style and clean up redundant variables
 - **2018-01-03 16:17**: fix: prevent option re-selection after submitting answer
 - **2018-01-03 20:34**: chore: organize assets and image directory structure
+- **2018-01-04 12:59**: perf: index question IDs for rapid lookup
