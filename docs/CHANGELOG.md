@@ -1,4 +1,3 @@
-- **2017-11-22 12:34**: docs: add instructions for Nepali driving license written exam
 - **2017-11-22 22:26**: docs: update traffic signals catalog documentation
 - **2017-11-23 12:25**: feat: add instant feedback and explanation on answer selection
 - **2017-11-23 14:06**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2018-01-03 20:34**: chore: organize assets and image directory structure
 - **2018-01-04 12:59**: perf: index question IDs for rapid lookup
 - **2018-01-05 12:21**: perf: optimize image caching for traffic sign assets
+- **2018-01-06 10:55**: feat: add keyboard navigation shortcuts for question selection
