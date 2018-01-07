@@ -1,4 +1,3 @@
-- **2017-11-24 10:37**: docs: update README with setup instructions and feature list
 - **2017-11-24 22:11**: chore: update questions database with recent DOTM updates
 - **2017-11-25 11:36**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-26 11:27**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-01-06 21:11**: feat: implement timer and score calculation for mock test
 - **2018-01-07 10:05**: feat: add result summary with passing threshold analysis
 - **2018-01-07 11:51**: docs: improve code comments and API documentation
+- **2018-01-07 20:25**: fix: adjust passing score threshold according to new rules
