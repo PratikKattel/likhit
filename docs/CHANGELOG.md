@@ -1,4 +1,3 @@
-- **2017-11-23 17:34**: fix: typo in Nepali road safety regulations question
 - **2017-11-24 10:37**: docs: update README with setup instructions and feature list
 - **2017-11-24 22:11**: chore: update questions database with recent DOTM updates
 - **2017-11-25 11:36**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-01-06 17:02**: feat: add warning signs and informational road signs
 - **2018-01-06 21:11**: feat: implement timer and score calculation for mock test
 - **2018-01-07 10:05**: feat: add result summary with passing threshold analysis
+- **2018-01-07 11:51**: docs: improve code comments and API documentation
