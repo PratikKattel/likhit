@@ -1,4 +1,3 @@
-- **2017-11-25 11:36**: feat: add regulatory traffic signs SVG graphics
 - **2017-11-26 11:27**: feat: support multiple choice questions for motorcycle category
 - **2017-11-26 16:38**: feat: add category-specific practice modes
 - **2017-11-27 10:31**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-01-07 11:51**: docs: improve code comments and API documentation
 - **2018-01-07 20:25**: fix: adjust passing score threshold according to new rules
 - **2018-01-08 13:18**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-01-09 10:47**: chore: format code style and clean up redundant variables
