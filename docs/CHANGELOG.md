@@ -1,4 +1,3 @@
-- **2017-11-27 11:23**: refactor: optimize SVG rendering for road signs
 - **2017-11-27 18:46**: feat: add keyboard navigation shortcuts for question selection
 - **2017-11-27 20:44**: feat: support multiple choice questions for motorcycle category
 - **2017-11-28 14:08**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-01-09 12:07**: feat: support multiple choice questions for motorcycle category
 - **2018-01-10 10:42**: docs: update traffic signals catalog documentation
 - **2018-01-10 12:04**: refactor: restructure question data schema for faster loading
+- **2018-01-11 10:30**: chore: update questions database with recent DOTM updates
