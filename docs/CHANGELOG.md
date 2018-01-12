@@ -1,4 +1,3 @@
-- **2017-11-27 20:44**: feat: support multiple choice questions for motorcycle category
 - **2017-11-28 14:08**: perf: optimize image caching for traffic sign assets
 - **2017-11-28 15:47**: feat: add category-specific practice modes
 - **2017-11-29 10:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-01-10 12:04**: refactor: restructure question data schema for faster loading
 - **2018-01-11 10:30**: chore: update questions database with recent DOTM updates
 - **2018-01-11 18:37**: feat: add regulatory traffic signs SVG graphics
+- **2018-01-12 21:34**: feat: add regulatory traffic signs SVG graphics
