@@ -1,4 +1,3 @@
-- **2017-11-28 15:47**: feat: add category-specific practice modes
 - **2017-11-29 10:45**: docs: update traffic signals catalog documentation
 - **2017-11-29 11:36**: feat: add warning signs and informational road signs
 - **2017-11-29 18:57**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-01-11 18:37**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-12 21:34**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-13 14:35**: chore: format code style and clean up redundant variables
+- **2018-01-14 15:47**: chore: organize assets and image directory structure
