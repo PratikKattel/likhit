@@ -1,4 +1,3 @@
-- **2017-11-30 21:30**: chore: update questions database with recent DOTM updates
 - **2017-12-01 11:04**: feat: support multiple choice questions for motorcycle category
 - **2017-12-01 11:22**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-02 09:14**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-01-15 14:06**: fix: resolve layout shift during question transitions
 - **2018-01-16 17:09**: feat: add result summary with passing threshold analysis
 - **2018-01-17 14:19**: perf: index question IDs for rapid lookup
+- **2018-01-17 14:46**: refactor: modularize traffic app logic and event listeners
