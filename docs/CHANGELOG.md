@@ -1,4 +1,3 @@
-- **2017-12-01 11:04**: feat: support multiple choice questions for motorcycle category
 - **2017-12-01 11:22**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-02 09:14**: docs: update traffic signals catalog documentation
 - **2017-12-02 16:28**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-01-16 17:09**: feat: add result summary with passing threshold analysis
 - **2018-01-17 14:19**: perf: index question IDs for rapid lookup
 - **2018-01-17 14:46**: refactor: modularize traffic app logic and event listeners
+- **2018-01-17 16:25**: refactor: optimize SVG rendering for road signs
