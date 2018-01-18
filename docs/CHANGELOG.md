@@ -1,4 +1,3 @@
-- **2017-12-02 09:14**: docs: update traffic signals catalog documentation
 - **2017-12-02 16:28**: docs: improve code comments and API documentation
 - **2017-12-03 15:13**: feat: implement timer and score calculation for mock test
 - **2017-12-04 21:49**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2018-01-17 14:46**: refactor: modularize traffic app logic and event listeners
 - **2018-01-17 16:25**: refactor: optimize SVG rendering for road signs
 - **2018-01-17 21:32**: perf: index question IDs for rapid lookup
+- **2018-01-18 13:21**: feat: add search and filter by sign category
