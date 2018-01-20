@@ -1,4 +1,3 @@
-- **2017-12-03 15:13**: feat: implement timer and score calculation for mock test
 - **2017-12-04 21:49**: feat: add category-specific practice modes
 - **2017-12-05 16:02**: docs: update README with setup instructions and feature list
 - **2017-12-05 20:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-01-17 21:32**: perf: index question IDs for rapid lookup
 - **2018-01-18 13:21**: feat: add search and filter by sign category
 - **2018-01-19 14:33**: feat: add regulatory traffic signs SVG graphics
+- **2018-01-20 12:25**: style: enhance traffic sign card layout and responsiveness
