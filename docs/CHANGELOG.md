@@ -1,4 +1,3 @@
-- **2017-12-08 09:23**: style: enhance traffic sign card layout and responsiveness
 - **2017-12-08 11:09**: style: polish typography and Nepali Unicode font rendering
 - **2017-12-09 10:31**: feat: add search and filter by sign category
 - **2017-12-10 15:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-01-23 13:31**: style: enhance traffic sign card layout and responsiveness
 - **2018-01-24 10:12**: feat: implement timer and score calculation for mock test
 - **2018-01-24 16:30**: docs: add instructions for Nepali driving license written exam
+- **2018-01-24 20:13**: refactor: clean up unused CSS classes and optimize stylesheet
