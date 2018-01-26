@@ -1,4 +1,3 @@
-- **2017-12-10 18:55**: refactor: restructure question data schema for faster loading
 - **2017-12-10 21:25**: refactor: restructure question data schema for faster loading
 - **2017-12-11 19:27**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-12 09:42**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-01-25 20:14**: chore: update questions database with recent DOTM updates
 - **2018-01-25 20:30**: feat: support multiple choice questions for motorcycle category
 - **2018-01-26 14:26**: feat: add result summary with passing threshold analysis
+- **2018-01-26 18:37**: refactor: optimize SVG rendering for road signs
