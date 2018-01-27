@@ -1,4 +1,3 @@
-- **2017-12-10 21:25**: refactor: restructure question data schema for faster loading
 - **2017-12-11 19:27**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-12 09:42**: feat: add keyboard navigation shortcuts for question selection
 - **2017-12-12 10:00**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-01-25 20:30**: feat: support multiple choice questions for motorcycle category
 - **2018-01-26 14:26**: feat: add result summary with passing threshold analysis
 - **2018-01-26 18:37**: refactor: optimize SVG rendering for road signs
+- **2018-01-27 11:20**: style: polish typography and Nepali Unicode font rendering
