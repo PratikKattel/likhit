@@ -1,4 +1,3 @@
-- **2017-12-12 09:42**: feat: add keyboard navigation shortcuts for question selection
 - **2017-12-12 10:00**: feat: add regulatory traffic signs SVG graphics
 - **2017-12-12 10:52**: feat: add regulatory traffic signs SVG graphics
 - **2017-12-13 11:36**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-01-26 18:37**: refactor: optimize SVG rendering for road signs
 - **2018-01-27 11:20**: style: polish typography and Nepali Unicode font rendering
 - **2018-01-27 19:45**: feat: add instant feedback and explanation on answer selection
+- **2018-01-28 11:48**: refactor: restructure question data schema for faster loading
