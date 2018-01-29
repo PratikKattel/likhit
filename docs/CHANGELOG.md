@@ -1,4 +1,3 @@
-- **2017-12-13 11:36**: perf: index question IDs for rapid lookup
 - **2017-12-14 15:36**: refactor: optimize SVG rendering for road signs
 - **2017-12-15 15:54**: refactor: restructure question data schema for faster loading
 - **2017-12-16 12:11**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-01-28 11:48**: refactor: restructure question data schema for faster loading
 - **2018-01-28 13:29**: feat: add warning signs and informational road signs
 - **2018-01-28 15:08**: refactor: modularize traffic app logic and event listeners
+- **2018-01-29 15:16**: fix: update DOTM Nepal license syllabus questions
