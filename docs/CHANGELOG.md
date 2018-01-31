@@ -1,4 +1,3 @@
-- **2017-12-16 12:11**: fix: resolve layout shift during question transitions
 - **2017-12-16 15:18**: feat: add search and filter by sign category
 - **2017-12-16 22:19**: feat: add regulatory traffic signs SVG graphics
 - **2017-12-17 16:22**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2018-01-29 15:16**: fix: update DOTM Nepal license syllabus questions
 - **2018-01-29 19:57**: feat: add search and filter by sign category
 - **2018-01-30 20:25**: docs: add instructions for Nepali driving license written exam
+- **2018-01-31 14:55**: perf: optimize image caching for traffic sign assets
