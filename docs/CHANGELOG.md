@@ -1,4 +1,3 @@
-- **2017-12-16 15:18**: feat: add search and filter by sign category
 - **2017-12-16 22:19**: feat: add regulatory traffic signs SVG graphics
 - **2017-12-17 16:22**: chore: organize assets and image directory structure
 - **2017-12-18 12:20**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-01-29 19:57**: feat: add search and filter by sign category
 - **2018-01-30 20:25**: docs: add instructions for Nepali driving license written exam
 - **2018-01-31 14:55**: perf: optimize image caching for traffic sign assets
+- **2018-02-01 14:53**: feat: add result summary with passing threshold analysis
