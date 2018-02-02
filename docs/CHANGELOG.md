@@ -1,4 +1,3 @@
-- **2017-12-18 12:20**: chore: format code style and clean up redundant variables
 - **2017-12-19 10:10**: docs: update traffic signals catalog documentation
 - **2017-12-19 13:25**: style: enhance traffic sign card layout and responsiveness
 - **2017-12-20 15:10**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2018-02-01 14:53**: feat: add result summary with passing threshold analysis
 - **2018-02-01 15:41**: docs: add instructions for Nepali driving license written exam
 - **2018-02-02 18:30**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-02-02 22:13**: feat: add category A and B traffic test questions
