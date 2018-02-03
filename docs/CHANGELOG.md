@@ -1,4 +1,3 @@
-- **2017-12-19 13:25**: style: enhance traffic sign card layout and responsiveness
 - **2017-12-20 15:10**: chore: organize assets and image directory structure
 - **2017-12-21 16:05**: fix: prevent option re-selection after submitting answer
 - **2017-12-21 22:16**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-02-02 18:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-02 22:13**: feat: add category A and B traffic test questions
 - **2018-02-03 14:43**: perf: lazy load signal graphics and question assets
+- **2018-02-03 15:48**: refactor: optimize SVG rendering for road signs
