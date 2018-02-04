@@ -1,4 +1,3 @@
-- **2017-12-21 16:05**: fix: prevent option re-selection after submitting answer
 - **2017-12-21 22:16**: perf: lazy load signal graphics and question assets
 - **2017-12-22 09:25**: docs: add instructions for Nepali driving license written exam
 - **2017-12-22 15:09**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2018-02-03 14:43**: perf: lazy load signal graphics and question assets
 - **2018-02-03 15:48**: refactor: optimize SVG rendering for road signs
 - **2018-02-03 17:45**: fix: update DOTM Nepal license syllabus questions
+- **2018-02-04 20:45**: fix: prevent option re-selection after submitting answer
