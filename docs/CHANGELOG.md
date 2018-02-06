@@ -1,4 +1,3 @@
-- **2017-12-22 15:09**: fix: typo in Nepali road safety regulations question
 - **2017-12-22 18:19**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-23 18:04**: style: polish typography and Nepali Unicode font rendering
 - **2017-12-24 22:04**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2018-02-04 20:45**: fix: prevent option re-selection after submitting answer
 - **2018-02-05 13:48**: fix: typo in Nepali road safety regulations question
 - **2018-02-05 16:48**: feat: support multiple choice questions for motorcycle category
+- **2018-02-06 17:17**: refactor: restructure question data schema for faster loading
