@@ -1,4 +1,3 @@
-- **2017-12-23 18:04**: style: polish typography and Nepali Unicode font rendering
 - **2017-12-24 22:04**: chore: update project metadata and build configuration
 - **2017-12-25 15:44**: fix: prevent option re-selection after submitting answer
 - **2017-12-25 20:41**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-02-05 16:48**: feat: support multiple choice questions for motorcycle category
 - **2018-02-06 17:17**: refactor: restructure question data schema for faster loading
 - **2018-02-07 15:56**: feat: add instant feedback and explanation on answer selection
+- **2018-02-07 17:10**: refactor: clean up unused CSS classes and optimize stylesheet
