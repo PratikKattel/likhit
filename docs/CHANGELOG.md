@@ -1,4 +1,3 @@
-- **2017-12-25 15:44**: fix: prevent option re-selection after submitting answer
 - **2017-12-25 20:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2017-12-25 22:07**: feat: support multiple choice questions for motorcycle category
 - **2017-12-26 13:30**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-02-07 15:56**: feat: add instant feedback and explanation on answer selection
 - **2018-02-07 17:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-08 15:34**: fix: resolve layout shift during question transitions
+- **2018-02-08 19:25**: fix: prevent option re-selection after submitting answer
