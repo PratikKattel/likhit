@@ -1,4 +1,3 @@
-- **2017-12-27 09:06**: perf: optimize image caching for traffic sign assets
 - **2017-12-27 13:09**: refactor: restructure question data schema for faster loading
 - **2017-12-28 21:01**: fix: update DOTM Nepal license syllabus questions
 - **2017-12-28 21:48**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-02-09 10:22**: refactor: optimize SVG rendering for road signs
 - **2018-02-09 18:59**: feat: implement timer and score calculation for mock test
 - **2018-02-10 17:10**: fix: resolve layout shift during question transitions
+- **2018-02-11 12:31**: test: verify question extraction script against exam PDF
