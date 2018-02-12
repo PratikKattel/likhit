@@ -1,4 +1,3 @@
-- **2017-12-28 21:48**: feat: implement timer and score calculation for mock test
 - **2017-12-28 21:58**: docs: add instructions for Nepali driving license written exam
 - **2017-12-29 19:39**: fix: correct color specifications for mandatory traffic signs
 - **2017-12-30 11:32**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2018-02-11 12:31**: test: verify question extraction script against exam PDF
 - **2018-02-11 19:23**: feat: implement timer and score calculation for mock test
 - **2018-02-12 10:23**: feat: add search and filter by sign category
+- **2018-02-12 17:56**: feat: add regulatory traffic signs SVG graphics
