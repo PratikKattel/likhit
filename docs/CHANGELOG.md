@@ -1,4 +1,3 @@
-- **2017-12-30 17:32**: feat: add result summary with passing threshold analysis
 - **2017-12-31 22:09**: chore: update project metadata and build configuration
 - **2018-01-01 14:17**: docs: update README with setup instructions and feature list
 - **2018-01-01 14:57**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2018-02-13 09:19**: feat: implement timer and score calculation for mock test
 - **2018-02-14 12:46**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-15 11:22**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-02-15 18:36**: test: verify question extraction script against exam PDF
