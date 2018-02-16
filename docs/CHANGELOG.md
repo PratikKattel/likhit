@@ -1,4 +1,3 @@
-- **2018-01-01 14:17**: docs: update README with setup instructions and feature list
 - **2018-01-01 14:57**: refactor: modularize traffic app logic and event listeners
 - **2018-01-02 15:08**: chore: format code style and clean up redundant variables
 - **2018-01-03 16:17**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-02-15 11:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-02-15 18:36**: test: verify question extraction script against exam PDF
 - **2018-02-15 19:27**: docs: improve code comments and API documentation
+- **2018-02-16 09:22**: perf: lazy load signal graphics and question assets
