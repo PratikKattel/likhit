@@ -1,4 +1,3 @@
-- **2018-01-04 12:59**: perf: index question IDs for rapid lookup
 - **2018-01-05 12:21**: perf: optimize image caching for traffic sign assets
 - **2018-01-06 10:55**: feat: add keyboard navigation shortcuts for question selection
 - **2018-01-06 17:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-02-17 11:57**: test: verify question extraction script against exam PDF
 - **2018-02-18 12:31**: feat: add search and filter by sign category
 - **2018-02-18 13:01**: feat: add regulatory traffic signs SVG graphics
+- **2018-02-18 20:13**: feat: add regulatory traffic signs SVG graphics
