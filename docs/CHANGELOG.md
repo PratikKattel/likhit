@@ -1,4 +1,3 @@
-- **2018-01-05 12:21**: perf: optimize image caching for traffic sign assets
 - **2018-01-06 10:55**: feat: add keyboard navigation shortcuts for question selection
 - **2018-01-06 17:02**: feat: add warning signs and informational road signs
 - **2018-01-06 21:11**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-02-18 12:31**: feat: add search and filter by sign category
 - **2018-02-18 13:01**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-18 20:13**: feat: add regulatory traffic signs SVG graphics
+- **2018-02-19 13:14**: style: improve dark/light mode and mobile UI responsiveness
