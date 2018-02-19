@@ -1,4 +1,3 @@
-- **2018-01-06 17:02**: feat: add warning signs and informational road signs
 - **2018-01-06 21:11**: feat: implement timer and score calculation for mock test
 - **2018-01-07 10:05**: feat: add result summary with passing threshold analysis
 - **2018-01-07 11:51**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-02-18 20:13**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-19 13:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-02-19 17:26**: chore: update questions database with recent DOTM updates
+- **2018-02-19 19:01**: chore: format code style and clean up redundant variables
