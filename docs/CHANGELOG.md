@@ -1,4 +1,3 @@
-- **2018-01-07 11:51**: docs: improve code comments and API documentation
 - **2018-01-07 20:25**: fix: adjust passing score threshold according to new rules
 - **2018-01-08 13:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-01-09 10:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-02-19 19:01**: chore: format code style and clean up redundant variables
 - **2018-02-20 13:09**: docs: update traffic signals catalog documentation
 - **2018-02-21 14:20**: fix: typo in Nepali road safety regulations question
+- **2018-02-21 22:12**: chore: format code style and clean up redundant variables
