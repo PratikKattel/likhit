@@ -1,4 +1,3 @@
-- **2018-01-09 10:47**: chore: format code style and clean up redundant variables
 - **2018-01-09 12:07**: feat: support multiple choice questions for motorcycle category
 - **2018-01-10 10:42**: docs: update traffic signals catalog documentation
 - **2018-01-10 12:04**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-02-21 22:12**: chore: format code style and clean up redundant variables
 - **2018-02-22 15:14**: feat: add search and filter by sign category
 - **2018-02-23 09:17**: fix: prevent option re-selection after submitting answer
+- **2018-02-23 10:22**: feat: add keyboard navigation shortcuts for question selection
