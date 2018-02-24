@@ -1,4 +1,3 @@
-- **2018-01-11 10:30**: chore: update questions database with recent DOTM updates
 - **2018-01-11 18:37**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-12 21:34**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-13 14:35**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-02-23 15:40**: fix: correct color specifications for mandatory traffic signs
 - **2018-02-23 16:23**: feat: add search and filter by sign category
 - **2018-02-24 16:03**: refactor: modularize traffic app logic and event listeners
+- **2018-02-24 16:42**: fix: typo in Nepali road safety regulations question
