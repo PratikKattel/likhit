@@ -1,4 +1,3 @@
-- **2018-01-11 18:37**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-12 21:34**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-13 14:35**: chore: format code style and clean up redundant variables
 - **2018-01-14 15:47**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2018-02-23 16:23**: feat: add search and filter by sign category
 - **2018-02-24 16:03**: refactor: modularize traffic app logic and event listeners
 - **2018-02-24 16:42**: fix: typo in Nepali road safety regulations question
+- **2018-02-25 10:36**: fix: adjust passing score threshold according to new rules
