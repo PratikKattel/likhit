@@ -1,4 +1,3 @@
-- **2018-01-15 14:06**: fix: resolve layout shift during question transitions
 - **2018-01-16 17:09**: feat: add result summary with passing threshold analysis
 - **2018-01-17 14:19**: perf: index question IDs for rapid lookup
 - **2018-01-17 14:46**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2018-02-25 19:34**: docs: add instructions for Nepali driving license written exam
 - **2018-02-25 21:30**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-26 15:30**: refactor: optimize SVG rendering for road signs
+- **2018-02-26 17:03**: docs: add instructions for Nepali driving license written exam
