@@ -1,4 +1,3 @@
-- **2018-01-17 14:19**: perf: index question IDs for rapid lookup
 - **2018-01-17 14:46**: refactor: modularize traffic app logic and event listeners
 - **2018-01-17 16:25**: refactor: optimize SVG rendering for road signs
 - **2018-01-17 21:32**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-02-26 15:30**: refactor: optimize SVG rendering for road signs
 - **2018-02-26 17:03**: docs: add instructions for Nepali driving license written exam
 - **2018-02-26 22:08**: test: verify question extraction script against exam PDF
+- **2018-02-27 09:13**: docs: improve code comments and API documentation
