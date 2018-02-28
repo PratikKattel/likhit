@@ -1,4 +1,3 @@
-- **2018-01-17 16:25**: refactor: optimize SVG rendering for road signs
 - **2018-01-17 21:32**: perf: index question IDs for rapid lookup
 - **2018-01-18 13:21**: feat: add search and filter by sign category
 - **2018-01-19 14:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-02-26 22:08**: test: verify question extraction script against exam PDF
 - **2018-02-27 09:13**: docs: improve code comments and API documentation
 - **2018-02-27 14:10**: style: polish typography and Nepali Unicode font rendering
+- **2018-02-28 10:06**: refactor: clean up unused CSS classes and optimize stylesheet
