@@ -1,4 +1,3 @@
-- **2018-01-19 14:33**: feat: add regulatory traffic signs SVG graphics
 - **2018-01-20 12:25**: style: enhance traffic sign card layout and responsiveness
 - **2018-01-21 16:09**: refactor: modularize traffic app logic and event listeners
 - **2018-01-22 11:56**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2018-02-28 10:06**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-28 10:09**: feat: add instant feedback and explanation on answer selection
 - **2018-02-28 20:16**: docs: add instructions for Nepali driving license written exam
+- **2018-03-01 10:45**: feat: add warning signs and informational road signs
