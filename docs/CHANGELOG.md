@@ -1,4 +1,3 @@
-- **2018-01-21 16:09**: refactor: modularize traffic app logic and event listeners
 - **2018-01-22 11:56**: fix: correct color specifications for mandatory traffic signs
 - **2018-01-22 21:55**: refactor: modularize traffic app logic and event listeners
 - **2018-01-23 10:39**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-02-28 20:16**: docs: add instructions for Nepali driving license written exam
 - **2018-03-01 10:45**: feat: add warning signs and informational road signs
 - **2018-03-01 14:50**: feat: add instant feedback and explanation on answer selection
+- **2018-03-02 20:18**: refactor: optimize SVG rendering for road signs
