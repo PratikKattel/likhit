@@ -1,4 +1,3 @@
-- **2018-01-22 21:55**: refactor: modularize traffic app logic and event listeners
 - **2018-01-23 10:39**: perf: index question IDs for rapid lookup
 - **2018-01-23 13:31**: style: enhance traffic sign card layout and responsiveness
 - **2018-01-24 10:12**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-03-01 14:50**: feat: add instant feedback and explanation on answer selection
 - **2018-03-02 20:18**: refactor: optimize SVG rendering for road signs
 - **2018-03-03 15:13**: feat: implement timer and score calculation for mock test
+- **2018-03-04 11:41**: test: verify question extraction script against exam PDF
