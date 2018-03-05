@@ -1,4 +1,3 @@
-- **2018-01-23 13:31**: style: enhance traffic sign card layout and responsiveness
 - **2018-01-24 10:12**: feat: implement timer and score calculation for mock test
 - **2018-01-24 16:30**: docs: add instructions for Nepali driving license written exam
 - **2018-01-24 20:13**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-03-03 15:13**: feat: implement timer and score calculation for mock test
 - **2018-03-04 11:41**: test: verify question extraction script against exam PDF
 - **2018-03-05 15:34**: refactor: modularize traffic app logic and event listeners
+- **2018-03-05 17:48**: feat: support multiple choice questions for motorcycle category
