@@ -1,4 +1,3 @@
-- **2018-01-24 16:30**: docs: add instructions for Nepali driving license written exam
 - **2018-01-24 20:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-01-25 20:14**: chore: update questions database with recent DOTM updates
 - **2018-01-25 20:30**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-03-05 15:34**: refactor: modularize traffic app logic and event listeners
 - **2018-03-05 17:48**: feat: support multiple choice questions for motorcycle category
 - **2018-03-05 20:25**: fix: update DOTM Nepal license syllabus questions
+- **2018-03-06 11:25**: perf: optimize image caching for traffic sign assets
