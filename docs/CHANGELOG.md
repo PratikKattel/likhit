@@ -1,4 +1,3 @@
-- **2018-01-25 20:14**: chore: update questions database with recent DOTM updates
 - **2018-01-25 20:30**: feat: support multiple choice questions for motorcycle category
 - **2018-01-26 14:26**: feat: add result summary with passing threshold analysis
 - **2018-01-26 18:37**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-03-05 20:25**: fix: update DOTM Nepal license syllabus questions
 - **2018-03-06 11:25**: perf: optimize image caching for traffic sign assets
 - **2018-03-07 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-03-07 22:01**: style: enhance traffic sign card layout and responsiveness
