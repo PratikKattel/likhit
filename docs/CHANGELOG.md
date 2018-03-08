@@ -1,4 +1,3 @@
-- **2018-01-26 14:26**: feat: add result summary with passing threshold analysis
 - **2018-01-26 18:37**: refactor: optimize SVG rendering for road signs
 - **2018-01-27 11:20**: style: polish typography and Nepali Unicode font rendering
 - **2018-01-27 19:45**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-03-07 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-03-07 22:01**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-08 11:38**: feat: add keyboard navigation shortcuts for question selection
+- **2018-03-08 11:57**: feat: add regulatory traffic signs SVG graphics
