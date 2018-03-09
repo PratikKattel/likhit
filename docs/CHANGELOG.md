@@ -1,4 +1,3 @@
-- **2018-01-27 11:20**: style: polish typography and Nepali Unicode font rendering
 - **2018-01-27 19:45**: feat: add instant feedback and explanation on answer selection
 - **2018-01-28 11:48**: refactor: restructure question data schema for faster loading
 - **2018-01-28 13:29**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-03-08 11:38**: feat: add keyboard navigation shortcuts for question selection
 - **2018-03-08 11:57**: feat: add regulatory traffic signs SVG graphics
 - **2018-03-09 09:25**: style: enhance traffic sign card layout and responsiveness
+- **2018-03-09 13:26**: docs: update traffic signals catalog documentation
