@@ -1,4 +1,3 @@
-- **2018-01-28 11:48**: refactor: restructure question data schema for faster loading
 - **2018-01-28 13:29**: feat: add warning signs and informational road signs
 - **2018-01-28 15:08**: refactor: modularize traffic app logic and event listeners
 - **2018-01-29 15:16**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-03-09 09:25**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-09 13:26**: docs: update traffic signals catalog documentation
 - **2018-03-09 13:35**: fix: prevent option re-selection after submitting answer
+- **2018-03-10 22:14**: feat: add instant feedback and explanation on answer selection
