@@ -1,4 +1,3 @@
-- **2018-01-29 15:16**: fix: update DOTM Nepal license syllabus questions
 - **2018-01-29 19:57**: feat: add search and filter by sign category
 - **2018-01-30 20:25**: docs: add instructions for Nepali driving license written exam
 - **2018-01-31 14:55**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-03-10 22:14**: feat: add instant feedback and explanation on answer selection
 - **2018-03-11 13:23**: chore: organize assets and image directory structure
 - **2018-03-12 10:30**: refactor: modularize traffic app logic and event listeners
+- **2018-03-12 22:24**: feat: add keyboard navigation shortcuts for question selection
