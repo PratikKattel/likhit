@@ -1,4 +1,3 @@
-- **2018-02-01 15:41**: docs: add instructions for Nepali driving license written exam
 - **2018-02-02 18:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-02 22:13**: feat: add category A and B traffic test questions
 - **2018-02-03 14:43**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-03-14 20:53**: fix: typo in Nepali road safety regulations question
 - **2018-03-15 14:23**: feat: implement timer and score calculation for mock test
 - **2018-03-15 15:20**: docs: update traffic signals catalog documentation
+- **2018-03-15 20:50**: chore: update questions database with recent DOTM updates
