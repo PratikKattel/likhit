@@ -1,4 +1,3 @@
-- **2018-02-03 14:43**: perf: lazy load signal graphics and question assets
 - **2018-02-03 15:48**: refactor: optimize SVG rendering for road signs
 - **2018-02-03 17:45**: fix: update DOTM Nepal license syllabus questions
 - **2018-02-04 20:45**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-03-15 20:50**: chore: update questions database with recent DOTM updates
 - **2018-03-16 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-17 14:00**: docs: update traffic signals catalog documentation
+- **2018-03-17 14:09**: fix: resolve layout shift during question transitions
