@@ -1,4 +1,3 @@
-- **2018-02-03 15:48**: refactor: optimize SVG rendering for road signs
 - **2018-02-03 17:45**: fix: update DOTM Nepal license syllabus questions
 - **2018-02-04 20:45**: fix: prevent option re-selection after submitting answer
 - **2018-02-05 13:48**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2018-03-16 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-17 14:00**: docs: update traffic signals catalog documentation
 - **2018-03-17 14:09**: fix: resolve layout shift during question transitions
+- **2018-03-18 13:30**: style: polish typography and Nepali Unicode font rendering
