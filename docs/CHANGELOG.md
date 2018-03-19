@@ -1,4 +1,3 @@
-- **2018-02-03 17:45**: fix: update DOTM Nepal license syllabus questions
 - **2018-02-04 20:45**: fix: prevent option re-selection after submitting answer
 - **2018-02-05 13:48**: fix: typo in Nepali road safety regulations question
 - **2018-02-05 16:48**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-03-17 14:00**: docs: update traffic signals catalog documentation
 - **2018-03-17 14:09**: fix: resolve layout shift during question transitions
 - **2018-03-18 13:30**: style: polish typography and Nepali Unicode font rendering
+- **2018-03-19 10:08**: fix: adjust passing score threshold according to new rules
