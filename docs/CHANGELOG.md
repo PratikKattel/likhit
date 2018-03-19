@@ -1,4 +1,3 @@
-- **2018-02-05 13:48**: fix: typo in Nepali road safety regulations question
 - **2018-02-05 16:48**: feat: support multiple choice questions for motorcycle category
 - **2018-02-06 17:17**: refactor: restructure question data schema for faster loading
 - **2018-02-07 15:56**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-03-18 13:30**: style: polish typography and Nepali Unicode font rendering
 - **2018-03-19 10:08**: fix: adjust passing score threshold according to new rules
 - **2018-03-19 17:06**: docs: add instructions for Nepali driving license written exam
+- **2018-03-19 18:33**: fix: resolve layout shift during question transitions
