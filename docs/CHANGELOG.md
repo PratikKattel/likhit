@@ -1,4 +1,3 @@
-- **2018-02-05 16:48**: feat: support multiple choice questions for motorcycle category
 - **2018-02-06 17:17**: refactor: restructure question data schema for faster loading
 - **2018-02-07 15:56**: feat: add instant feedback and explanation on answer selection
 - **2018-02-07 17:10**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-03-19 10:08**: fix: adjust passing score threshold according to new rules
 - **2018-03-19 17:06**: docs: add instructions for Nepali driving license written exam
 - **2018-03-19 18:33**: fix: resolve layout shift during question transitions
+- **2018-03-20 13:31**: refactor: optimize SVG rendering for road signs
