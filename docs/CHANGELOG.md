@@ -1,4 +1,3 @@
-- **2018-02-07 15:56**: feat: add instant feedback and explanation on answer selection
 - **2018-02-07 17:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-08 15:34**: fix: resolve layout shift during question transitions
 - **2018-02-08 19:25**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-03-19 18:33**: fix: resolve layout shift during question transitions
 - **2018-03-20 13:31**: refactor: optimize SVG rendering for road signs
 - **2018-03-20 17:17**: feat: support multiple choice questions for motorcycle category
+- **2018-03-20 17:32**: refactor: optimize SVG rendering for road signs
