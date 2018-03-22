@@ -1,4 +1,3 @@
-- **2018-02-09 10:22**: refactor: optimize SVG rendering for road signs
 - **2018-02-09 18:59**: feat: implement timer and score calculation for mock test
 - **2018-02-10 17:10**: fix: resolve layout shift during question transitions
 - **2018-02-11 12:31**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2018-03-20 21:46**: feat: add category-specific practice modes
 - **2018-03-21 15:02**: test: verify question extraction script against exam PDF
 - **2018-03-22 09:59**: fix: prevent option re-selection after submitting answer
+- **2018-03-22 10:58**: perf: lazy load signal graphics and question assets
