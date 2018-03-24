@@ -1,4 +1,3 @@
-- **2018-02-11 12:31**: test: verify question extraction script against exam PDF
 - **2018-02-11 19:23**: feat: implement timer and score calculation for mock test
 - **2018-02-12 10:23**: feat: add search and filter by sign category
 - **2018-02-12 17:56**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-03-22 10:58**: perf: lazy load signal graphics and question assets
 - **2018-03-22 20:15**: refactor: modularize traffic app logic and event listeners
 - **2018-03-23 18:32**: feat: add instant feedback and explanation on answer selection
+- **2018-03-24 15:40**: refactor: modularize traffic app logic and event listeners
