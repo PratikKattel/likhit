@@ -1,4 +1,3 @@
-- **2018-02-12 10:23**: feat: add search and filter by sign category
 - **2018-02-12 17:56**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-13 09:19**: feat: implement timer and score calculation for mock test
 - **2018-02-14 12:46**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-03-23 18:32**: feat: add instant feedback and explanation on answer selection
 - **2018-03-24 15:40**: refactor: modularize traffic app logic and event listeners
 - **2018-03-24 16:35**: fix: resolve layout shift during question transitions
+- **2018-03-25 18:10**: perf: optimize image caching for traffic sign assets
