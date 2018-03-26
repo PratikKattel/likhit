@@ -1,4 +1,3 @@
-- **2018-02-14 12:46**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-15 11:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-02-15 18:36**: test: verify question extraction script against exam PDF
 - **2018-02-15 19:27**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-03-25 18:10**: perf: optimize image caching for traffic sign assets
 - **2018-03-25 20:22**: feat: support multiple choice questions for motorcycle category
 - **2018-03-26 09:48**: feat: add instant feedback and explanation on answer selection
+- **2018-03-26 13:57**: fix: prevent option re-selection after submitting answer
