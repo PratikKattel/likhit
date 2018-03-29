@@ -1,4 +1,3 @@
-- **2018-02-16 09:22**: perf: lazy load signal graphics and question assets
 - **2018-02-16 11:31**: docs: update README with setup instructions and feature list
 - **2018-02-17 11:57**: test: verify question extraction script against exam PDF
 - **2018-02-18 12:31**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-03-27 14:18**: refactor: restructure question data schema for faster loading
 - **2018-03-28 09:44**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-29 10:37**: fix: update DOTM Nepal license syllabus questions
+- **2018-03-29 11:36**: fix: correct color specifications for mandatory traffic signs
