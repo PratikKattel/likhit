@@ -1,4 +1,3 @@
-- **2018-02-17 11:57**: test: verify question extraction script against exam PDF
 - **2018-02-18 12:31**: feat: add search and filter by sign category
 - **2018-02-18 13:01**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-18 20:13**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-03-29 10:37**: fix: update DOTM Nepal license syllabus questions
 - **2018-03-29 11:36**: fix: correct color specifications for mandatory traffic signs
 - **2018-03-30 10:30**: feat: add instant feedback and explanation on answer selection
+- **2018-03-31 12:18**: perf: index question IDs for rapid lookup
