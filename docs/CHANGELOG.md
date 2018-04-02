@@ -1,4 +1,3 @@
-- **2018-02-18 13:01**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-18 20:13**: feat: add regulatory traffic signs SVG graphics
 - **2018-02-19 13:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-02-19 17:26**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-03-30 10:30**: feat: add instant feedback and explanation on answer selection
 - **2018-03-31 12:18**: perf: index question IDs for rapid lookup
 - **2018-04-01 09:11**: fix: update DOTM Nepal license syllabus questions
+- **2018-04-02 09:47**: chore: update questions database with recent DOTM updates
