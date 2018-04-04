@@ -1,4 +1,3 @@
-- **2018-02-19 17:26**: chore: update questions database with recent DOTM updates
 - **2018-02-19 19:01**: chore: format code style and clean up redundant variables
 - **2018-02-20 13:09**: docs: update traffic signals catalog documentation
 - **2018-02-21 14:20**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2018-04-02 09:47**: chore: update questions database with recent DOTM updates
 - **2018-04-03 12:26**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-03 18:04**: feat: implement timer and score calculation for mock test
+- **2018-04-04 09:55**: style: improve dark/light mode and mobile UI responsiveness
