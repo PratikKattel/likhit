@@ -1,4 +1,3 @@
-- **2018-02-21 14:20**: fix: typo in Nepali road safety regulations question
 - **2018-02-21 22:12**: chore: format code style and clean up redundant variables
 - **2018-02-22 15:14**: feat: add search and filter by sign category
 - **2018-02-23 09:17**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-04-04 09:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-04-05 14:13**: chore: update questions database with recent DOTM updates
 - **2018-04-05 17:50**: perf: lazy load signal graphics and question assets
+- **2018-04-05 20:46**: fix: adjust passing score threshold according to new rules
