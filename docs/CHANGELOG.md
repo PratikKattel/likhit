@@ -1,4 +1,3 @@
-- **2018-02-23 09:17**: fix: prevent option re-selection after submitting answer
 - **2018-02-23 10:22**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-23 15:40**: fix: correct color specifications for mandatory traffic signs
 - **2018-02-23 16:23**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-04-05 20:46**: fix: adjust passing score threshold according to new rules
 - **2018-04-06 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-04-07 19:36**: feat: add instant feedback and explanation on answer selection
+- **2018-04-08 14:36**: fix: typo in Nepali road safety regulations question
