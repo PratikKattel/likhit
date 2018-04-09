@@ -1,4 +1,3 @@
-- **2018-02-23 16:23**: feat: add search and filter by sign category
 - **2018-02-24 16:03**: refactor: modularize traffic app logic and event listeners
 - **2018-02-24 16:42**: fix: typo in Nepali road safety regulations question
 - **2018-02-25 10:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2018-04-08 14:36**: fix: typo in Nepali road safety regulations question
 - **2018-04-09 10:26**: feat: add category-specific practice modes
 - **2018-04-09 12:10**: docs: improve code comments and API documentation
+- **2018-04-09 18:19**: docs: update README with setup instructions and feature list
