@@ -1,4 +1,3 @@
-- **2018-02-23 10:22**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-23 15:40**: fix: correct color specifications for mandatory traffic signs
 - **2018-02-23 16:23**: feat: add search and filter by sign category
 - **2018-02-24 16:03**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2018-04-06 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-04-07 19:36**: feat: add instant feedback and explanation on answer selection
 - **2018-04-08 14:36**: fix: typo in Nepali road safety regulations question
+- **2018-04-09 10:26**: feat: add category-specific practice modes
