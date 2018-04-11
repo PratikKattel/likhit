@@ -1,4 +1,3 @@
-- **2018-02-24 16:42**: fix: typo in Nepali road safety regulations question
 - **2018-02-25 10:36**: fix: adjust passing score threshold according to new rules
 - **2018-02-25 19:34**: docs: add instructions for Nepali driving license written exam
 - **2018-02-25 21:30**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-04-09 12:10**: docs: improve code comments and API documentation
 - **2018-04-09 18:19**: docs: update README with setup instructions and feature list
 - **2018-04-10 19:50**: fix: prevent option re-selection after submitting answer
+- **2018-04-11 13:35**: chore: organize assets and image directory structure
