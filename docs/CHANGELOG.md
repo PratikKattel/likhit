@@ -1,4 +1,3 @@
-- **2018-02-25 19:34**: docs: add instructions for Nepali driving license written exam
 - **2018-02-25 21:30**: feat: add keyboard navigation shortcuts for question selection
 - **2018-02-26 15:30**: refactor: optimize SVG rendering for road signs
 - **2018-02-26 17:03**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2018-04-10 19:50**: fix: prevent option re-selection after submitting answer
 - **2018-04-11 13:35**: chore: organize assets and image directory structure
 - **2018-04-12 19:59**: docs: improve code comments and API documentation
+- **2018-04-13 09:32**: feat: add result summary with passing threshold analysis
