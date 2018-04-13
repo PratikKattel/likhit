@@ -1,4 +1,3 @@
-- **2018-02-26 15:30**: refactor: optimize SVG rendering for road signs
 - **2018-02-26 17:03**: docs: add instructions for Nepali driving license written exam
 - **2018-02-26 22:08**: test: verify question extraction script against exam PDF
 - **2018-02-27 09:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-04-12 19:59**: docs: improve code comments and API documentation
 - **2018-04-13 09:32**: feat: add result summary with passing threshold analysis
 - **2018-04-13 09:50**: feat: add regulatory traffic signs SVG graphics
+- **2018-04-13 13:55**: refactor: clean up unused CSS classes and optimize stylesheet
