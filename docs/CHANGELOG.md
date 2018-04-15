@@ -1,4 +1,3 @@
-- **2018-02-27 09:13**: docs: improve code comments and API documentation
 - **2018-02-27 14:10**: style: polish typography and Nepali Unicode font rendering
 - **2018-02-28 10:06**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-02-28 10:09**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-04-13 13:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-04-13 21:29**: fix: resolve layout shift during question transitions
 - **2018-04-14 12:06**: docs: improve code comments and API documentation
+- **2018-04-15 16:10**: perf: index question IDs for rapid lookup
