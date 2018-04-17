@@ -1,4 +1,3 @@
-- **2018-02-28 10:09**: feat: add instant feedback and explanation on answer selection
 - **2018-02-28 20:16**: docs: add instructions for Nepali driving license written exam
 - **2018-03-01 10:45**: feat: add warning signs and informational road signs
 - **2018-03-01 14:50**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-04-15 16:10**: perf: index question IDs for rapid lookup
 - **2018-04-15 17:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-04-16 19:55**: fix: correct color specifications for mandatory traffic signs
+- **2018-04-17 10:17**: fix: update DOTM Nepal license syllabus questions
