@@ -1,4 +1,3 @@
-- **2018-03-01 10:45**: feat: add warning signs and informational road signs
 - **2018-03-01 14:50**: feat: add instant feedback and explanation on answer selection
 - **2018-03-02 20:18**: refactor: optimize SVG rendering for road signs
 - **2018-03-03 15:13**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-04-16 19:55**: fix: correct color specifications for mandatory traffic signs
 - **2018-04-17 10:17**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-17 11:21**: feat: add category-specific practice modes
+- **2018-04-18 11:29**: fix: prevent option re-selection after submitting answer
