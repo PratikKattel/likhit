@@ -1,4 +1,3 @@
-- **2018-03-04 11:41**: test: verify question extraction script against exam PDF
 - **2018-03-05 15:34**: refactor: modularize traffic app logic and event listeners
 - **2018-03-05 17:48**: feat: support multiple choice questions for motorcycle category
 - **2018-03-05 20:25**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-04-19 10:27**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-20 21:00**: feat: support multiple choice questions for motorcycle category
 - **2018-04-21 09:21**: fix: prevent option re-selection after submitting answer
+- **2018-04-22 20:44**: fix: resolve layout shift during question transitions
