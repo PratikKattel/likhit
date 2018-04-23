@@ -1,4 +1,3 @@
-- **2018-03-05 17:48**: feat: support multiple choice questions for motorcycle category
 - **2018-03-05 20:25**: fix: update DOTM Nepal license syllabus questions
 - **2018-03-06 11:25**: perf: optimize image caching for traffic sign assets
 - **2018-03-07 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-04-21 09:21**: fix: prevent option re-selection after submitting answer
 - **2018-04-22 20:44**: fix: resolve layout shift during question transitions
 - **2018-04-23 13:19**: feat: add warning signs and informational road signs
+- **2018-04-23 15:28**: docs: improve code comments and API documentation
