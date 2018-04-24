@@ -1,4 +1,3 @@
-- **2018-03-07 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-03-07 22:01**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-08 11:38**: feat: add keyboard navigation shortcuts for question selection
 - **2018-03-08 11:57**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-04-23 15:28**: docs: improve code comments and API documentation
 - **2018-04-23 15:38**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-23 16:40**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-04-24 10:35**: fix: correct color specifications for mandatory traffic signs
