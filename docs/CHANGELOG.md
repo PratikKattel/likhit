@@ -1,4 +1,3 @@
-- **2018-03-09 09:25**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-09 13:26**: docs: update traffic signals catalog documentation
 - **2018-03-09 13:35**: fix: prevent option re-selection after submitting answer
 - **2018-03-10 22:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-04-24 13:00**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-24 15:53**: chore: update project metadata and build configuration
 - **2018-04-25 10:47**: docs: improve code comments and API documentation
+- **2018-04-25 18:38**: feat: add instant feedback and explanation on answer selection
