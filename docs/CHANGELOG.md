@@ -1,4 +1,3 @@
-- **2018-03-10 22:14**: feat: add instant feedback and explanation on answer selection
 - **2018-03-11 13:23**: chore: organize assets and image directory structure
 - **2018-03-12 10:30**: refactor: modularize traffic app logic and event listeners
 - **2018-03-12 22:24**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-04-25 18:38**: feat: add instant feedback and explanation on answer selection
 - **2018-04-26 09:26**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-26 14:18**: perf: lazy load signal graphics and question assets
+- **2018-04-26 18:32**: feat: add warning signs and informational road signs
