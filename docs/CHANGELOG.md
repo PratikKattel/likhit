@@ -1,4 +1,3 @@
-- **2018-03-12 22:24**: feat: add keyboard navigation shortcuts for question selection
 - **2018-03-13 16:37**: chore: organize assets and image directory structure
 - **2018-03-14 20:53**: fix: typo in Nepali road safety regulations question
 - **2018-03-15 14:23**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-04-26 18:32**: feat: add warning signs and informational road signs
 - **2018-04-26 21:43**: feat: add search and filter by sign category
 - **2018-04-27 11:53**: style: polish typography and Nepali Unicode font rendering
+- **2018-04-27 17:43**: fix: update DOTM Nepal license syllabus questions
