@@ -1,4 +1,3 @@
-- **2018-03-15 14:23**: feat: implement timer and score calculation for mock test
 - **2018-03-15 15:20**: docs: update traffic signals catalog documentation
 - **2018-03-15 20:50**: chore: update questions database with recent DOTM updates
 - **2018-03-16 12:12**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-04-27 17:43**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 20:38**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 21:14**: docs: improve code comments and API documentation
+- **2018-04-29 09:08**: perf: lazy load signal graphics and question assets
