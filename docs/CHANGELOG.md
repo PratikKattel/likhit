@@ -1,4 +1,3 @@
-- **2018-03-16 12:12**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-17 14:00**: docs: update traffic signals catalog documentation
 - **2018-03-17 14:09**: fix: resolve layout shift during question transitions
 - **2018-03-18 13:30**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2018-04-29 09:08**: perf: lazy load signal graphics and question assets
 - **2018-04-29 12:20**: refactor: optimize SVG rendering for road signs
 - **2018-04-30 09:11**: fix: adjust passing score threshold according to new rules
+- **2018-04-30 18:51**: feat: add keyboard navigation shortcuts for question selection
