@@ -1,4 +1,3 @@
-- **2018-03-18 13:30**: style: polish typography and Nepali Unicode font rendering
 - **2018-03-19 10:08**: fix: adjust passing score threshold according to new rules
 - **2018-03-19 17:06**: docs: add instructions for Nepali driving license written exam
 - **2018-03-19 18:33**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-04-30 18:51**: feat: add keyboard navigation shortcuts for question selection
 - **2018-05-01 16:04**: chore: update project metadata and build configuration
 - **2018-05-02 19:38**: chore: format code style and clean up redundant variables
+- **2018-05-03 15:07**: feat: add search and filter by sign category
