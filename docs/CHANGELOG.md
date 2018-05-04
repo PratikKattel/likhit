@@ -1,4 +1,3 @@
-- **2018-03-19 17:06**: docs: add instructions for Nepali driving license written exam
 - **2018-03-19 18:33**: fix: resolve layout shift during question transitions
 - **2018-03-20 13:31**: refactor: optimize SVG rendering for road signs
 - **2018-03-20 17:17**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-05-02 19:38**: chore: format code style and clean up redundant variables
 - **2018-05-03 15:07**: feat: add search and filter by sign category
 - **2018-05-03 17:06**: chore: update questions database with recent DOTM updates
+- **2018-05-04 19:50**: feat: implement timer and score calculation for mock test
