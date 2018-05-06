@@ -1,4 +1,3 @@
-- **2018-03-20 17:17**: feat: support multiple choice questions for motorcycle category
 - **2018-03-20 17:32**: refactor: optimize SVG rendering for road signs
 - **2018-03-20 21:46**: feat: add category-specific practice modes
 - **2018-03-21 15:02**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2018-05-04 19:50**: feat: implement timer and score calculation for mock test
 - **2018-05-05 14:07**: docs: add instructions for Nepali driving license written exam
 - **2018-05-05 16:04**: feat: add result summary with passing threshold analysis
+- **2018-05-06 09:09**: chore: organize assets and image directory structure
