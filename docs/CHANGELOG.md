@@ -1,4 +1,3 @@
-- **2018-03-22 09:59**: fix: prevent option re-selection after submitting answer
 - **2018-03-22 10:58**: perf: lazy load signal graphics and question assets
 - **2018-03-22 20:15**: refactor: modularize traffic app logic and event listeners
 - **2018-03-23 18:32**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-05-06 10:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-05-06 17:47**: feat: support multiple choice questions for motorcycle category
 - **2018-05-07 21:14**: style: enhance traffic sign card layout and responsiveness
+- **2018-05-07 21:57**: perf: index question IDs for rapid lookup
