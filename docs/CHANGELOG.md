@@ -1,4 +1,3 @@
-- **2018-03-22 20:15**: refactor: modularize traffic app logic and event listeners
 - **2018-03-23 18:32**: feat: add instant feedback and explanation on answer selection
 - **2018-03-24 15:40**: refactor: modularize traffic app logic and event listeners
 - **2018-03-24 16:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-05-07 21:14**: style: enhance traffic sign card layout and responsiveness
 - **2018-05-07 21:57**: perf: index question IDs for rapid lookup
 - **2018-05-08 10:38**: fix: prevent option re-selection after submitting answer
+- **2018-05-09 19:42**: fix: update DOTM Nepal license syllabus questions
