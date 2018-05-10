@@ -1,4 +1,3 @@
-- **2018-03-24 15:40**: refactor: modularize traffic app logic and event listeners
 - **2018-03-24 16:35**: fix: resolve layout shift during question transitions
 - **2018-03-25 18:10**: perf: optimize image caching for traffic sign assets
 - **2018-03-25 20:22**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-05-08 10:38**: fix: prevent option re-selection after submitting answer
 - **2018-05-09 19:42**: fix: update DOTM Nepal license syllabus questions
 - **2018-05-09 21:12**: perf: optimize image caching for traffic sign assets
+- **2018-05-10 11:23**: chore: update questions database with recent DOTM updates
