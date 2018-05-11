@@ -1,4 +1,3 @@
-- **2018-03-25 18:10**: perf: optimize image caching for traffic sign assets
 - **2018-03-25 20:22**: feat: support multiple choice questions for motorcycle category
 - **2018-03-26 09:48**: feat: add instant feedback and explanation on answer selection
 - **2018-03-26 13:57**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-05-09 21:12**: perf: optimize image caching for traffic sign assets
 - **2018-05-10 11:23**: chore: update questions database with recent DOTM updates
 - **2018-05-11 10:14**: chore: format code style and clean up redundant variables
+- **2018-05-11 11:27**: feat: add keyboard navigation shortcuts for question selection
