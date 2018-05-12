@@ -1,4 +1,3 @@
-- **2018-03-27 14:18**: refactor: restructure question data schema for faster loading
 - **2018-03-28 09:44**: style: enhance traffic sign card layout and responsiveness
 - **2018-03-29 10:37**: fix: update DOTM Nepal license syllabus questions
 - **2018-03-29 11:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2018-05-11 20:09**: chore: organize assets and image directory structure
 - **2018-05-11 21:15**: docs: improve code comments and API documentation
 - **2018-05-12 11:26**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-05-12 12:01**: feat: add regulatory traffic signs SVG graphics
