@@ -1,4 +1,3 @@
-- **2018-03-30 10:30**: feat: add instant feedback and explanation on answer selection
 - **2018-03-31 12:18**: perf: index question IDs for rapid lookup
 - **2018-04-01 09:11**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-02 09:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-05-12 13:59**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-13 14:41**: docs: improve code comments and API documentation
 - **2018-05-14 16:56**: perf: optimize image caching for traffic sign assets
+- **2018-05-14 17:22**: chore: update questions database with recent DOTM updates
