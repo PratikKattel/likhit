@@ -1,4 +1,3 @@
-- **2018-04-01 09:11**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-02 09:47**: chore: update questions database with recent DOTM updates
 - **2018-04-03 12:26**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-03 18:04**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-05-14 16:56**: perf: optimize image caching for traffic sign assets
 - **2018-05-14 17:22**: chore: update questions database with recent DOTM updates
 - **2018-05-15 16:47**: perf: lazy load signal graphics and question assets
+- **2018-05-15 19:39**: chore: organize assets and image directory structure
