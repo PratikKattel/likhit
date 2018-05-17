@@ -1,4 +1,3 @@
-- **2018-04-03 18:04**: feat: implement timer and score calculation for mock test
 - **2018-04-04 09:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-04-05 14:13**: chore: update questions database with recent DOTM updates
 - **2018-04-05 17:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-05-15 19:39**: chore: organize assets and image directory structure
 - **2018-05-16 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-16 16:09**: test: verify question extraction script against exam PDF
+- **2018-05-17 16:49**: refactor: optimize SVG rendering for road signs
