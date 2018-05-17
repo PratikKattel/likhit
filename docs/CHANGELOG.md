@@ -1,4 +1,3 @@
-- **2018-04-05 14:13**: chore: update questions database with recent DOTM updates
 - **2018-04-05 17:50**: perf: lazy load signal graphics and question assets
 - **2018-04-05 20:46**: fix: adjust passing score threshold according to new rules
 - **2018-04-06 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-05-16 16:09**: test: verify question extraction script against exam PDF
 - **2018-05-17 16:49**: refactor: optimize SVG rendering for road signs
 - **2018-05-17 17:20**: fix: resolve layout shift during question transitions
+- **2018-05-17 21:27**: feat: add regulatory traffic signs SVG graphics
