@@ -1,4 +1,3 @@
-- **2018-04-05 20:46**: fix: adjust passing score threshold according to new rules
 - **2018-04-06 16:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-04-07 19:36**: feat: add instant feedback and explanation on answer selection
 - **2018-04-08 14:36**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2018-05-17 17:20**: fix: resolve layout shift during question transitions
 - **2018-05-17 21:27**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-18 11:31**: feat: add warning signs and informational road signs
+- **2018-05-19 12:38**: feat: add regulatory traffic signs SVG graphics
