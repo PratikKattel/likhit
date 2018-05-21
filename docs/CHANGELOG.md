@@ -1,4 +1,3 @@
-- **2018-04-07 19:36**: feat: add instant feedback and explanation on answer selection
 - **2018-04-08 14:36**: fix: typo in Nepali road safety regulations question
 - **2018-04-09 10:26**: feat: add category-specific practice modes
 - **2018-04-09 12:10**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-05-18 11:31**: feat: add warning signs and informational road signs
 - **2018-05-19 12:38**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-20 17:36**: perf: index question IDs for rapid lookup
+- **2018-05-21 10:19**: perf: index question IDs for rapid lookup
