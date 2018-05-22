@@ -1,4 +1,3 @@
-- **2018-04-09 10:26**: feat: add category-specific practice modes
 - **2018-04-09 12:10**: docs: improve code comments and API documentation
 - **2018-04-09 18:19**: docs: update README with setup instructions and feature list
 - **2018-04-10 19:50**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-05-20 17:36**: perf: index question IDs for rapid lookup
 - **2018-05-21 10:19**: perf: index question IDs for rapid lookup
 - **2018-05-21 20:57**: perf: lazy load signal graphics and question assets
+- **2018-05-22 12:32**: chore: organize assets and image directory structure
