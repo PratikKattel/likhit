@@ -1,4 +1,3 @@
-- **2018-04-09 18:19**: docs: update README with setup instructions and feature list
 - **2018-04-10 19:50**: fix: prevent option re-selection after submitting answer
 - **2018-04-11 13:35**: chore: organize assets and image directory structure
 - **2018-04-12 19:59**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-05-21 20:57**: perf: lazy load signal graphics and question assets
 - **2018-05-22 12:32**: chore: organize assets and image directory structure
 - **2018-05-22 14:00**: test: verify question extraction script against exam PDF
+- **2018-05-23 10:39**: chore: update questions database with recent DOTM updates
