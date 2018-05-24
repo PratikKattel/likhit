@@ -1,4 +1,3 @@
-- **2018-04-11 13:35**: chore: organize assets and image directory structure
 - **2018-04-12 19:59**: docs: improve code comments and API documentation
 - **2018-04-13 09:32**: feat: add result summary with passing threshold analysis
 - **2018-04-13 09:50**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-05-22 14:00**: test: verify question extraction script against exam PDF
 - **2018-05-23 10:39**: chore: update questions database with recent DOTM updates
 - **2018-05-23 22:08**: perf: optimize image caching for traffic sign assets
+- **2018-05-24 10:23**: refactor: restructure question data schema for faster loading
