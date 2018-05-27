@@ -1,4 +1,3 @@
-- **2018-04-13 13:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-04-13 21:29**: fix: resolve layout shift during question transitions
 - **2018-04-14 12:06**: docs: improve code comments and API documentation
 - **2018-04-15 16:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-05-25 10:51**: feat: support multiple choice questions for motorcycle category
 - **2018-05-26 18:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-05-26 22:05**: chore: format code style and clean up redundant variables
+- **2018-05-27 10:44**: feat: add regulatory traffic signs SVG graphics
