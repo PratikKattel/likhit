@@ -1,4 +1,3 @@
-- **2018-04-15 16:10**: perf: index question IDs for rapid lookup
 - **2018-04-15 17:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-04-16 19:55**: fix: correct color specifications for mandatory traffic signs
 - **2018-04-17 10:17**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-05-27 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-27 15:29**: feat: add category-specific practice modes
 - **2018-05-28 09:05**: style: polish typography and Nepali Unicode font rendering
+- **2018-05-28 09:06**: feat: add warning signs and informational road signs
