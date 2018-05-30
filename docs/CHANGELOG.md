@@ -1,4 +1,3 @@
-- **2018-04-17 10:17**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-17 11:21**: feat: add category-specific practice modes
 - **2018-04-18 11:29**: fix: prevent option re-selection after submitting answer
 - **2018-04-19 10:27**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-05-28 09:06**: feat: add warning signs and informational road signs
 - **2018-05-28 16:26**: feat: implement timer and score calculation for mock test
 - **2018-05-29 17:14**: chore: update questions database with recent DOTM updates
+- **2018-05-30 19:10**: feat: add category A and B traffic test questions
