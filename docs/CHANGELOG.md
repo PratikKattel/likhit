@@ -1,4 +1,3 @@
-- **2018-04-20 21:00**: feat: support multiple choice questions for motorcycle category
 - **2018-04-21 09:21**: fix: prevent option re-selection after submitting answer
 - **2018-04-22 20:44**: fix: resolve layout shift during question transitions
 - **2018-04-23 13:19**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-05-31 11:37**: refactor: restructure question data schema for faster loading
 - **2018-05-31 15:26**: feat: add instant feedback and explanation on answer selection
 - **2018-06-01 09:59**: perf: optimize image caching for traffic sign assets
+- **2018-06-02 13:21**: fix: resolve layout shift during question transitions
