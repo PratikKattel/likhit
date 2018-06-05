@@ -1,4 +1,3 @@
-- **2018-04-23 15:38**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-23 16:40**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-04-24 10:35**: fix: correct color specifications for mandatory traffic signs
 - **2018-04-24 13:00**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2018-06-03 21:04**: test: verify question extraction script against exam PDF
 - **2018-06-04 13:39**: feat: add category-specific practice modes
 - **2018-06-04 20:57**: perf: index question IDs for rapid lookup
+- **2018-06-05 12:26**: feat: add regulatory traffic signs SVG graphics
