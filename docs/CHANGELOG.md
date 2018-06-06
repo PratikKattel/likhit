@@ -1,4 +1,3 @@
-- **2018-04-24 10:35**: fix: correct color specifications for mandatory traffic signs
 - **2018-04-24 13:00**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-24 15:53**: chore: update project metadata and build configuration
 - **2018-04-25 10:47**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-06-04 20:57**: perf: index question IDs for rapid lookup
 - **2018-06-05 12:26**: feat: add regulatory traffic signs SVG graphics
 - **2018-06-05 16:37**: fix: update DOTM Nepal license syllabus questions
+- **2018-06-06 11:22**: docs: update README with setup instructions and feature list
