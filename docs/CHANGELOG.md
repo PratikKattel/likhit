@@ -1,4 +1,3 @@
-- **2018-04-26 09:26**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-26 14:18**: perf: lazy load signal graphics and question assets
 - **2018-04-26 18:32**: feat: add warning signs and informational road signs
 - **2018-04-26 21:43**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-06-07 12:15**: chore: format code style and clean up redundant variables
 - **2018-06-07 16:04**: refactor: restructure question data schema for faster loading
 - **2018-06-07 16:11**: docs: update traffic signals catalog documentation
+- **2018-06-07 20:07**: refactor: modularize traffic app logic and event listeners
