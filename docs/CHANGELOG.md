@@ -1,4 +1,3 @@
-- **2018-04-26 21:43**: feat: add search and filter by sign category
 - **2018-04-27 11:53**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-27 17:43**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 20:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-06-07 20:07**: refactor: modularize traffic app logic and event listeners
 - **2018-06-08 09:51**: perf: optimize image caching for traffic sign assets
 - **2018-06-08 10:12**: docs: add instructions for Nepali driving license written exam
+- **2018-06-08 11:51**: docs: update README with setup instructions and feature list
