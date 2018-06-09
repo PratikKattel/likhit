@@ -1,4 +1,3 @@
-- **2018-04-27 11:53**: style: polish typography and Nepali Unicode font rendering
 - **2018-04-27 17:43**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 20:38**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 21:14**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-06-08 09:51**: perf: optimize image caching for traffic sign assets
 - **2018-06-08 10:12**: docs: add instructions for Nepali driving license written exam
 - **2018-06-08 11:51**: docs: update README with setup instructions and feature list
+- **2018-06-09 15:17**: style: enhance traffic sign card layout and responsiveness
