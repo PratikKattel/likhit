@@ -1,4 +1,3 @@
-- **2018-04-28 20:38**: fix: update DOTM Nepal license syllabus questions
 - **2018-04-28 21:14**: docs: improve code comments and API documentation
 - **2018-04-29 09:08**: perf: lazy load signal graphics and question assets
 - **2018-04-29 12:20**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-06-08 11:51**: docs: update README with setup instructions and feature list
 - **2018-06-09 15:17**: style: enhance traffic sign card layout and responsiveness
 - **2018-06-10 09:06**: style: polish typography and Nepali Unicode font rendering
+- **2018-06-10 22:07**: feat: add result summary with passing threshold analysis
