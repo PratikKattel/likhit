@@ -1,4 +1,3 @@
-- **2018-04-30 09:11**: fix: adjust passing score threshold according to new rules
 - **2018-04-30 18:51**: feat: add keyboard navigation shortcuts for question selection
 - **2018-05-01 16:04**: chore: update project metadata and build configuration
 - **2018-05-02 19:38**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-06-11 14:29**: docs: update README with setup instructions and feature list
 - **2018-06-11 16:31**: feat: add keyboard navigation shortcuts for question selection
 - **2018-06-11 18:29**: chore: organize assets and image directory structure
+- **2018-06-11 21:06**: feat: add result summary with passing threshold analysis
