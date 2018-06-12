@@ -1,4 +1,3 @@
-- **2018-04-30 18:51**: feat: add keyboard navigation shortcuts for question selection
 - **2018-05-01 16:04**: chore: update project metadata and build configuration
 - **2018-05-02 19:38**: chore: format code style and clean up redundant variables
 - **2018-05-03 15:07**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-06-11 16:31**: feat: add keyboard navigation shortcuts for question selection
 - **2018-06-11 18:29**: chore: organize assets and image directory structure
 - **2018-06-11 21:06**: feat: add result summary with passing threshold analysis
+- **2018-06-12 13:17**: perf: lazy load signal graphics and question assets
