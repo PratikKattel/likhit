@@ -1,4 +1,3 @@
-- **2018-05-02 19:38**: chore: format code style and clean up redundant variables
 - **2018-05-03 15:07**: feat: add search and filter by sign category
 - **2018-05-03 17:06**: chore: update questions database with recent DOTM updates
 - **2018-05-04 19:50**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-06-11 21:06**: feat: add result summary with passing threshold analysis
 - **2018-06-12 13:17**: perf: lazy load signal graphics and question assets
 - **2018-06-12 20:54**: feat: support multiple choice questions for motorcycle category
+- **2018-06-13 18:38**: feat: add result summary with passing threshold analysis
