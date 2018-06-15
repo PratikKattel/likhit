@@ -1,4 +1,3 @@
-- **2018-05-03 17:06**: chore: update questions database with recent DOTM updates
 - **2018-05-04 19:50**: feat: implement timer and score calculation for mock test
 - **2018-05-05 14:07**: docs: add instructions for Nepali driving license written exam
 - **2018-05-05 16:04**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-06-12 20:54**: feat: support multiple choice questions for motorcycle category
 - **2018-06-13 18:38**: feat: add result summary with passing threshold analysis
 - **2018-06-14 14:11**: perf: index question IDs for rapid lookup
+- **2018-06-15 09:11**: chore: format code style and clean up redundant variables
