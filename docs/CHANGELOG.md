@@ -1,4 +1,3 @@
-- **2018-05-05 14:07**: docs: add instructions for Nepali driving license written exam
 - **2018-05-05 16:04**: feat: add result summary with passing threshold analysis
 - **2018-05-06 09:09**: chore: organize assets and image directory structure
 - **2018-05-06 10:55**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-06-14 14:11**: perf: index question IDs for rapid lookup
 - **2018-06-15 09:11**: chore: format code style and clean up redundant variables
 - **2018-06-15 20:39**: docs: update traffic signals catalog documentation
+- **2018-06-16 13:03**: docs: improve code comments and API documentation
