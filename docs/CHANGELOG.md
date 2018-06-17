@@ -1,4 +1,3 @@
-- **2018-05-06 09:09**: chore: organize assets and image directory structure
 - **2018-05-06 10:55**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-05-06 17:47**: feat: support multiple choice questions for motorcycle category
 - **2018-05-07 21:14**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-06-15 20:39**: docs: update traffic signals catalog documentation
 - **2018-06-16 13:03**: docs: improve code comments and API documentation
 - **2018-06-17 10:48**: perf: index question IDs for rapid lookup
+- **2018-06-17 12:08**: fix: prevent option re-selection after submitting answer
