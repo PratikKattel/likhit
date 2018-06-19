@@ -1,4 +1,3 @@
-- **2018-05-06 17:47**: feat: support multiple choice questions for motorcycle category
 - **2018-05-07 21:14**: style: enhance traffic sign card layout and responsiveness
 - **2018-05-07 21:57**: perf: index question IDs for rapid lookup
 - **2018-05-08 10:38**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-06-17 10:48**: perf: index question IDs for rapid lookup
 - **2018-06-17 12:08**: fix: prevent option re-selection after submitting answer
 - **2018-06-18 18:58**: feat: add search and filter by sign category
+- **2018-06-19 21:23**: docs: improve code comments and API documentation
