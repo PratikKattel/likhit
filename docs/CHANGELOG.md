@@ -1,4 +1,3 @@
-- **2018-05-09 19:42**: fix: update DOTM Nepal license syllabus questions
 - **2018-05-09 21:12**: perf: optimize image caching for traffic sign assets
 - **2018-05-10 11:23**: chore: update questions database with recent DOTM updates
 - **2018-05-11 10:14**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-06-19 22:00**: feat: add regulatory traffic signs SVG graphics
 - **2018-06-20 21:38**: feat: add instant feedback and explanation on answer selection
 - **2018-06-20 22:20**: fix: prevent option re-selection after submitting answer
+- **2018-06-21 10:18**: feat: add warning signs and informational road signs
