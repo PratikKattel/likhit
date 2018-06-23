@@ -1,4 +1,3 @@
-- **2018-05-11 10:14**: chore: format code style and clean up redundant variables
 - **2018-05-11 11:27**: feat: add keyboard navigation shortcuts for question selection
 - **2018-05-11 20:09**: chore: organize assets and image directory structure
 - **2018-05-11 21:15**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-06-21 10:18**: feat: add warning signs and informational road signs
 - **2018-06-22 20:00**: fix: update DOTM Nepal license syllabus questions
 - **2018-06-22 21:50**: fix: adjust passing score threshold according to new rules
+- **2018-06-23 12:57**: docs: update README with setup instructions and feature list
