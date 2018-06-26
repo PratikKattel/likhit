@@ -1,4 +1,3 @@
-- **2018-05-12 13:59**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-13 14:41**: docs: improve code comments and API documentation
 - **2018-05-14 16:56**: perf: optimize image caching for traffic sign assets
 - **2018-05-14 17:22**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-06-25 09:26**: feat: add result summary with passing threshold analysis
 - **2018-06-25 18:54**: feat: add warning signs and informational road signs
 - **2018-06-25 20:25**: chore: update project metadata and build configuration
+- **2018-06-26 14:32**: fix: update DOTM Nepal license syllabus questions
