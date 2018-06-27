@@ -1,4 +1,3 @@
-- **2018-05-13 14:41**: docs: improve code comments and API documentation
 - **2018-05-14 16:56**: perf: optimize image caching for traffic sign assets
 - **2018-05-14 17:22**: chore: update questions database with recent DOTM updates
 - **2018-05-15 16:47**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-06-25 18:54**: feat: add warning signs and informational road signs
 - **2018-06-25 20:25**: chore: update project metadata and build configuration
 - **2018-06-26 14:32**: fix: update DOTM Nepal license syllabus questions
+- **2018-06-27 15:49**: feat: support multiple choice questions for motorcycle category
