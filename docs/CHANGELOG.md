@@ -1,4 +1,3 @@
-- **2018-05-15 19:39**: chore: organize assets and image directory structure
 - **2018-05-16 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-16 16:09**: test: verify question extraction script against exam PDF
 - **2018-05-17 16:49**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-06-27 18:21**: feat: add warning signs and informational road signs
 - **2018-06-27 19:26**: fix: adjust passing score threshold according to new rules
 - **2018-06-27 20:10**: feat: add category-specific practice modes
+- **2018-06-28 09:48**: feat: add regulatory traffic signs SVG graphics
