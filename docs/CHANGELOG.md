@@ -1,4 +1,3 @@
-- **2018-05-17 16:49**: refactor: optimize SVG rendering for road signs
 - **2018-05-17 17:20**: fix: resolve layout shift during question transitions
 - **2018-05-17 21:27**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-18 11:31**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-06-28 09:48**: feat: add regulatory traffic signs SVG graphics
 - **2018-06-28 21:26**: perf: index question IDs for rapid lookup
 - **2018-06-29 20:36**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-06-29 21:27**: feat: add search and filter by sign category
