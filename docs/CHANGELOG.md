@@ -1,4 +1,3 @@
-- **2018-05-17 21:27**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-18 11:31**: feat: add warning signs and informational road signs
 - **2018-05-19 12:38**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-20 17:36**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-06-29 20:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-06-29 21:27**: feat: add search and filter by sign category
 - **2018-06-30 12:18**: perf: index question IDs for rapid lookup
+- **2018-06-30 17:38**: feat: add category A and B traffic test questions
