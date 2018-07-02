@@ -1,4 +1,3 @@
-- **2018-05-20 17:36**: perf: index question IDs for rapid lookup
 - **2018-05-21 10:19**: perf: index question IDs for rapid lookup
 - **2018-05-21 20:57**: perf: lazy load signal graphics and question assets
 - **2018-05-22 12:32**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2018-06-30 17:38**: feat: add category A and B traffic test questions
 - **2018-07-01 11:24**: feat: add search and filter by sign category
 - **2018-07-02 15:16**: feat: support multiple choice questions for motorcycle category
+- **2018-07-02 16:46**: feat: add result summary with passing threshold analysis
