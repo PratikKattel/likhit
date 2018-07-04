@@ -1,4 +1,3 @@
-- **2018-05-22 14:00**: test: verify question extraction script against exam PDF
 - **2018-05-23 10:39**: chore: update questions database with recent DOTM updates
 - **2018-05-23 22:08**: perf: optimize image caching for traffic sign assets
 - **2018-05-24 10:23**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-07-03 18:18**: feat: implement timer and score calculation for mock test
 - **2018-07-03 20:28**: refactor: optimize SVG rendering for road signs
 - **2018-07-03 21:59**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-07-04 17:30**: feat: add keyboard navigation shortcuts for question selection
