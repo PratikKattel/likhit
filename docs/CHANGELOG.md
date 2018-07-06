@@ -1,4 +1,3 @@
-- **2018-05-23 22:08**: perf: optimize image caching for traffic sign assets
 - **2018-05-24 10:23**: refactor: restructure question data schema for faster loading
 - **2018-05-25 10:51**: feat: support multiple choice questions for motorcycle category
 - **2018-05-26 18:11**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-07-03 21:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-04 17:30**: feat: add keyboard navigation shortcuts for question selection
 - **2018-07-05 18:02**: feat: add result summary with passing threshold analysis
+- **2018-07-06 10:06**: feat: add keyboard navigation shortcuts for question selection
