@@ -1,4 +1,3 @@
-- **2018-05-26 18:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-05-26 22:05**: chore: format code style and clean up redundant variables
 - **2018-05-27 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-27 15:29**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2018-07-06 10:06**: feat: add keyboard navigation shortcuts for question selection
 - **2018-07-06 13:29**: feat: support multiple choice questions for motorcycle category
 - **2018-07-06 18:30**: docs: add instructions for Nepali driving license written exam
+- **2018-07-07 14:15**: refactor: optimize SVG rendering for road signs
