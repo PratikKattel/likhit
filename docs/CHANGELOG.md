@@ -1,4 +1,3 @@
-- **2018-05-27 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2018-05-27 15:29**: feat: add category-specific practice modes
 - **2018-05-28 09:05**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-28 09:06**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-07-06 18:30**: docs: add instructions for Nepali driving license written exam
 - **2018-07-07 14:15**: refactor: optimize SVG rendering for road signs
 - **2018-07-08 11:44**: fix: resolve layout shift during question transitions
+- **2018-07-08 18:44**: perf: optimize image caching for traffic sign assets
