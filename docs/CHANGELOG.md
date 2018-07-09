@@ -1,4 +1,3 @@
-- **2018-05-28 09:05**: style: polish typography and Nepali Unicode font rendering
 - **2018-05-28 09:06**: feat: add warning signs and informational road signs
 - **2018-05-28 16:26**: feat: implement timer and score calculation for mock test
 - **2018-05-29 17:14**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-07-08 11:44**: fix: resolve layout shift during question transitions
 - **2018-07-08 18:44**: perf: optimize image caching for traffic sign assets
 - **2018-07-08 21:17**: chore: organize assets and image directory structure
+- **2018-07-09 22:07**: refactor: clean up unused CSS classes and optimize stylesheet
