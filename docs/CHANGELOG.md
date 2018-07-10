@@ -1,4 +1,3 @@
-- **2018-05-28 16:26**: feat: implement timer and score calculation for mock test
 - **2018-05-29 17:14**: chore: update questions database with recent DOTM updates
 - **2018-05-30 19:10**: feat: add category A and B traffic test questions
 - **2018-05-31 11:37**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-07-08 21:17**: chore: organize assets and image directory structure
 - **2018-07-09 22:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-10 19:21**: chore: update project metadata and build configuration
+- **2018-07-10 19:35**: feat: add category-specific practice modes
