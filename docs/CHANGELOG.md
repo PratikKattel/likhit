@@ -1,4 +1,3 @@
-- **2018-05-29 17:14**: chore: update questions database with recent DOTM updates
 - **2018-05-30 19:10**: feat: add category A and B traffic test questions
 - **2018-05-31 11:37**: refactor: restructure question data schema for faster loading
 - **2018-05-31 15:26**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-07-09 22:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-10 19:21**: chore: update project metadata and build configuration
 - **2018-07-10 19:35**: feat: add category-specific practice modes
+- **2018-07-11 10:56**: fix: typo in Nepali road safety regulations question
