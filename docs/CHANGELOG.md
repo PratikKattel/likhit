@@ -1,4 +1,3 @@
-- **2018-05-30 19:10**: feat: add category A and B traffic test questions
 - **2018-05-31 11:37**: refactor: restructure question data schema for faster loading
 - **2018-05-31 15:26**: feat: add instant feedback and explanation on answer selection
 - **2018-06-01 09:59**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-07-10 19:21**: chore: update project metadata and build configuration
 - **2018-07-10 19:35**: feat: add category-specific practice modes
 - **2018-07-11 10:56**: fix: typo in Nepali road safety regulations question
+- **2018-07-12 09:47**: feat: add result summary with passing threshold analysis
