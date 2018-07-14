@@ -1,4 +1,3 @@
-- **2018-06-01 09:59**: perf: optimize image caching for traffic sign assets
 - **2018-06-02 13:21**: fix: resolve layout shift during question transitions
 - **2018-06-03 20:12**: chore: update project metadata and build configuration
 - **2018-06-03 21:04**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2018-07-12 09:47**: feat: add result summary with passing threshold analysis
 - **2018-07-12 13:55**: fix: adjust passing score threshold according to new rules
 - **2018-07-13 19:58**: chore: format code style and clean up redundant variables
+- **2018-07-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
