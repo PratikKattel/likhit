@@ -1,4 +1,3 @@
-- **2018-06-03 21:04**: test: verify question extraction script against exam PDF
 - **2018-06-04 13:39**: feat: add category-specific practice modes
 - **2018-06-04 20:57**: perf: index question IDs for rapid lookup
 - **2018-06-05 12:26**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-07-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-14 13:38**: feat: support multiple choice questions for motorcycle category
 - **2018-07-15 10:02**: feat: add result summary with passing threshold analysis
+- **2018-07-16 11:11**: feat: implement timer and score calculation for mock test
