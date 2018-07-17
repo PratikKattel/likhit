@@ -1,4 +1,3 @@
-- **2018-06-05 12:26**: feat: add regulatory traffic signs SVG graphics
 - **2018-06-05 16:37**: fix: update DOTM Nepal license syllabus questions
 - **2018-06-06 11:22**: docs: update README with setup instructions and feature list
 - **2018-06-06 17:09**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-07-16 11:11**: feat: implement timer and score calculation for mock test
 - **2018-07-16 18:18**: feat: support multiple choice questions for motorcycle category
 - **2018-07-16 20:56**: feat: add warning signs and informational road signs
+- **2018-07-17 18:19**: feat: add warning signs and informational road signs
