@@ -1,4 +1,3 @@
-- **2018-06-06 11:22**: docs: update README with setup instructions and feature list
 - **2018-06-06 17:09**: fix: prevent option re-selection after submitting answer
 - **2018-06-07 12:15**: chore: format code style and clean up redundant variables
 - **2018-06-07 16:04**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-07-16 20:56**: feat: add warning signs and informational road signs
 - **2018-07-17 18:19**: feat: add warning signs and informational road signs
 - **2018-07-17 22:18**: chore: update project metadata and build configuration
+- **2018-07-18 09:25**: feat: add keyboard navigation shortcuts for question selection
