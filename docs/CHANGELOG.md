@@ -1,4 +1,3 @@
-- **2018-06-07 16:04**: refactor: restructure question data schema for faster loading
 - **2018-06-07 16:11**: docs: update traffic signals catalog documentation
 - **2018-06-07 20:07**: refactor: modularize traffic app logic and event listeners
 - **2018-06-08 09:51**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-07-18 09:25**: feat: add keyboard navigation shortcuts for question selection
 - **2018-07-18 12:41**: perf: lazy load signal graphics and question assets
 - **2018-07-18 14:28**: feat: add search and filter by sign category
+- **2018-07-19 11:02**: docs: update traffic signals catalog documentation
