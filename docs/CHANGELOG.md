@@ -1,4 +1,3 @@
-- **2018-06-08 09:51**: perf: optimize image caching for traffic sign assets
 - **2018-06-08 10:12**: docs: add instructions for Nepali driving license written exam
 - **2018-06-08 11:51**: docs: update README with setup instructions and feature list
 - **2018-06-09 15:17**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-07-19 11:02**: docs: update traffic signals catalog documentation
 - **2018-07-19 15:15**: fix: resolve layout shift during question transitions
 - **2018-07-19 17:54**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-07-20 16:42**: perf: lazy load signal graphics and question assets
