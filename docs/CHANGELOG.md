@@ -1,4 +1,3 @@
-- **2018-06-09 15:17**: style: enhance traffic sign card layout and responsiveness
 - **2018-06-10 09:06**: style: polish typography and Nepali Unicode font rendering
 - **2018-06-10 22:07**: feat: add result summary with passing threshold analysis
 - **2018-06-11 14:29**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2018-07-20 16:42**: perf: lazy load signal graphics and question assets
 - **2018-07-20 17:19**: fix: correct color specifications for mandatory traffic signs
 - **2018-07-20 22:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-07-21 16:37**: refactor: optimize SVG rendering for road signs
