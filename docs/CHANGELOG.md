@@ -1,4 +1,3 @@
-- **2018-06-12 13:17**: perf: lazy load signal graphics and question assets
 - **2018-06-12 20:54**: feat: support multiple choice questions for motorcycle category
 - **2018-06-13 18:38**: feat: add result summary with passing threshold analysis
 - **2018-06-14 14:11**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-07-23 16:51**: docs: improve code comments and API documentation
 - **2018-07-24 13:03**: docs: improve code comments and API documentation
 - **2018-07-24 14:51**: docs: add instructions for Nepali driving license written exam
+- **2018-07-24 17:41**: refactor: modularize traffic app logic and event listeners
