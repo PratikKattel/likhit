@@ -1,4 +1,3 @@
-- **2018-06-14 14:11**: perf: index question IDs for rapid lookup
 - **2018-06-15 09:11**: chore: format code style and clean up redundant variables
 - **2018-06-15 20:39**: docs: update traffic signals catalog documentation
 - **2018-06-16 13:03**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-07-24 17:41**: refactor: modularize traffic app logic and event listeners
 - **2018-07-24 20:36**: docs: update traffic signals catalog documentation
 - **2018-07-25 18:20**: style: enhance traffic sign card layout and responsiveness
+- **2018-07-25 18:39**: chore: format code style and clean up redundant variables
