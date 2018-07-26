@@ -1,4 +1,3 @@
-- **2018-06-16 13:03**: docs: improve code comments and API documentation
 - **2018-06-17 10:48**: perf: index question IDs for rapid lookup
 - **2018-06-17 12:08**: fix: prevent option re-selection after submitting answer
 - **2018-06-18 18:58**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-07-25 18:39**: chore: format code style and clean up redundant variables
 - **2018-07-26 13:22**: feat: implement timer and score calculation for mock test
 - **2018-07-26 18:03**: perf: optimize image caching for traffic sign assets
+- **2018-07-26 19:26**: refactor: restructure question data schema for faster loading
