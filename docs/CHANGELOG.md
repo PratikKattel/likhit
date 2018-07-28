@@ -1,4 +1,3 @@
-- **2018-06-17 12:08**: fix: prevent option re-selection after submitting answer
 - **2018-06-18 18:58**: feat: add search and filter by sign category
 - **2018-06-19 21:23**: docs: improve code comments and API documentation
 - **2018-06-19 22:00**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-07-26 18:03**: perf: optimize image caching for traffic sign assets
 - **2018-07-26 19:26**: refactor: restructure question data schema for faster loading
 - **2018-07-27 14:02**: test: verify question extraction script against exam PDF
+- **2018-07-28 10:15**: fix: update DOTM Nepal license syllabus questions
