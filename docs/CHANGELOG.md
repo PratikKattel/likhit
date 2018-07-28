@@ -1,4 +1,3 @@
-- **2018-06-19 21:23**: docs: improve code comments and API documentation
 - **2018-06-19 22:00**: feat: add regulatory traffic signs SVG graphics
 - **2018-06-20 21:38**: feat: add instant feedback and explanation on answer selection
 - **2018-06-20 22:20**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-07-27 14:02**: test: verify question extraction script against exam PDF
 - **2018-07-28 10:15**: fix: update DOTM Nepal license syllabus questions
 - **2018-07-28 12:57**: refactor: optimize SVG rendering for road signs
+- **2018-07-28 20:25**: feat: add instant feedback and explanation on answer selection
