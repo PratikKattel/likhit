@@ -1,4 +1,3 @@
-- **2018-06-22 20:00**: fix: update DOTM Nepal license syllabus questions
 - **2018-06-22 21:50**: fix: adjust passing score threshold according to new rules
 - **2018-06-23 12:57**: docs: update README with setup instructions and feature list
 - **2018-06-23 19:58**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-07-29 11:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-07-29 18:16**: chore: update questions database with recent DOTM updates
 - **2018-07-30 10:24**: chore: update questions database with recent DOTM updates
+- **2018-07-30 18:11**: fix: adjust passing score threshold according to new rules
