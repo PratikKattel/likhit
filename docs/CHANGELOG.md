@@ -1,4 +1,3 @@
-- **2018-06-21 10:18**: feat: add warning signs and informational road signs
 - **2018-06-22 20:00**: fix: update DOTM Nepal license syllabus questions
 - **2018-06-22 21:50**: fix: adjust passing score threshold according to new rules
 - **2018-06-23 12:57**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2018-07-28 22:04**: test: verify question extraction script against exam PDF
 - **2018-07-29 11:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-07-29 18:16**: chore: update questions database with recent DOTM updates
+- **2018-07-30 10:24**: chore: update questions database with recent DOTM updates
