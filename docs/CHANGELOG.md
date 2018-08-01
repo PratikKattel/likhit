@@ -1,4 +1,3 @@
-- **2018-06-23 12:57**: docs: update README with setup instructions and feature list
 - **2018-06-23 19:58**: docs: update traffic signals catalog documentation
 - **2018-06-24 10:59**: fix: resolve layout shift during question transitions
 - **2018-06-25 09:26**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-07-30 10:24**: chore: update questions database with recent DOTM updates
 - **2018-07-30 18:11**: fix: adjust passing score threshold according to new rules
 - **2018-07-31 21:00**: perf: optimize image caching for traffic sign assets
+- **2018-08-01 16:19**: fix: typo in Nepali road safety regulations question
