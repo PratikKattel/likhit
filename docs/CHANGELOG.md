@@ -1,4 +1,3 @@
-- **2018-06-23 19:58**: docs: update traffic signals catalog documentation
 - **2018-06-24 10:59**: fix: resolve layout shift during question transitions
 - **2018-06-25 09:26**: feat: add result summary with passing threshold analysis
 - **2018-06-25 18:54**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-07-30 18:11**: fix: adjust passing score threshold according to new rules
 - **2018-07-31 21:00**: perf: optimize image caching for traffic sign assets
 - **2018-08-01 16:19**: fix: typo in Nepali road safety regulations question
+- **2018-08-01 18:23**: feat: add instant feedback and explanation on answer selection
