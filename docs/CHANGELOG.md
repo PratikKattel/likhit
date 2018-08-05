@@ -1,4 +1,3 @@
-- **2018-06-27 15:49**: feat: support multiple choice questions for motorcycle category
 - **2018-06-27 18:21**: feat: add warning signs and informational road signs
 - **2018-06-27 19:26**: fix: adjust passing score threshold according to new rules
 - **2018-06-27 20:10**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2018-08-03 15:41**: refactor: modularize traffic app logic and event listeners
 - **2018-08-03 19:11**: feat: add warning signs and informational road signs
 - **2018-08-04 13:51**: docs: update traffic signals catalog documentation
+- **2018-08-05 10:24**: feat: add warning signs and informational road signs
