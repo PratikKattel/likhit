@@ -1,4 +1,3 @@
-- **2018-06-28 21:26**: perf: index question IDs for rapid lookup
 - **2018-06-29 20:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-06-29 21:27**: feat: add search and filter by sign category
 - **2018-06-30 12:18**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-08-06 19:34**: fix: adjust passing score threshold according to new rules
 - **2018-08-07 13:21**: feat: add instant feedback and explanation on answer selection
 - **2018-08-07 20:07**: docs: update traffic signals catalog documentation
+- **2018-08-08 12:36**: feat: add warning signs and informational road signs
