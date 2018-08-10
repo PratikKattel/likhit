@@ -1,4 +1,3 @@
-- **2018-06-29 21:27**: feat: add search and filter by sign category
 - **2018-06-30 12:18**: perf: index question IDs for rapid lookup
 - **2018-06-30 17:38**: feat: add category A and B traffic test questions
 - **2018-07-01 11:24**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-08-07 20:07**: docs: update traffic signals catalog documentation
 - **2018-08-08 12:36**: feat: add warning signs and informational road signs
 - **2018-08-09 12:31**: chore: update questions database with recent DOTM updates
+- **2018-08-10 10:37**: chore: update questions database with recent DOTM updates
