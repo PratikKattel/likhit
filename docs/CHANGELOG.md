@@ -1,4 +1,3 @@
-- **2018-06-30 17:38**: feat: add category A and B traffic test questions
 - **2018-07-01 11:24**: feat: add search and filter by sign category
 - **2018-07-02 15:16**: feat: support multiple choice questions for motorcycle category
 - **2018-07-02 16:46**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-08-09 12:31**: chore: update questions database with recent DOTM updates
 - **2018-08-10 10:37**: chore: update questions database with recent DOTM updates
 - **2018-08-10 15:25**: fix: adjust passing score threshold according to new rules
+- **2018-08-11 14:27**: fix: adjust passing score threshold according to new rules
