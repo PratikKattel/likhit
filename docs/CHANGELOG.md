@@ -1,4 +1,3 @@
-- **2018-07-02 15:16**: feat: support multiple choice questions for motorcycle category
 - **2018-07-02 16:46**: feat: add result summary with passing threshold analysis
 - **2018-07-03 18:18**: feat: implement timer and score calculation for mock test
 - **2018-07-03 20:28**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-08-10 15:25**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 14:27**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 20:54**: fix: prevent option re-selection after submitting answer
+- **2018-08-12 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
