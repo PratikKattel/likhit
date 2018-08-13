@@ -1,4 +1,3 @@
-- **2018-07-03 18:18**: feat: implement timer and score calculation for mock test
 - **2018-07-03 20:28**: refactor: optimize SVG rendering for road signs
 - **2018-07-03 21:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-04 17:30**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-08-11 20:54**: fix: prevent option re-selection after submitting answer
 - **2018-08-12 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-08-12 21:41**: test: verify question extraction script against exam PDF
+- **2018-08-13 18:59**: docs: update traffic signals catalog documentation
