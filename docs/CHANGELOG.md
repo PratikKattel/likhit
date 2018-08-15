@@ -1,4 +1,3 @@
-- **2018-07-05 18:02**: feat: add result summary with passing threshold analysis
 - **2018-07-06 10:06**: feat: add keyboard navigation shortcuts for question selection
 - **2018-07-06 13:29**: feat: support multiple choice questions for motorcycle category
 - **2018-07-06 18:30**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2018-08-14 11:21**: feat: implement timer and score calculation for mock test
 - **2018-08-14 19:33**: chore: format code style and clean up redundant variables
 - **2018-08-15 12:45**: fix: resolve layout shift during question transitions
+- **2018-08-15 18:21**: feat: add result summary with passing threshold analysis
