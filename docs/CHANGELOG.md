@@ -1,4 +1,3 @@
-- **2018-07-09 22:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-10 19:21**: chore: update project metadata and build configuration
 - **2018-07-10 19:35**: feat: add category-specific practice modes
 - **2018-07-11 10:56**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2018-08-18 18:49**: perf: lazy load signal graphics and question assets
 - **2018-08-19 11:46**: docs: update traffic signals catalog documentation
 - **2018-08-19 12:59**: feat: add warning signs and informational road signs
+- **2018-08-20 09:38**: refactor: optimize SVG rendering for road signs
