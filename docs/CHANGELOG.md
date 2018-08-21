@@ -1,4 +1,3 @@
-- **2018-07-10 19:21**: chore: update project metadata and build configuration
 - **2018-07-10 19:35**: feat: add category-specific practice modes
 - **2018-07-11 10:56**: fix: typo in Nepali road safety regulations question
 - **2018-07-12 09:47**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-08-19 11:46**: docs: update traffic signals catalog documentation
 - **2018-08-19 12:59**: feat: add warning signs and informational road signs
 - **2018-08-20 09:38**: refactor: optimize SVG rendering for road signs
+- **2018-08-21 16:14**: docs: update README with setup instructions and feature list
