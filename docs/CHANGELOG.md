@@ -1,4 +1,3 @@
-- **2018-07-11 10:56**: fix: typo in Nepali road safety regulations question
 - **2018-07-12 09:47**: feat: add result summary with passing threshold analysis
 - **2018-07-12 13:55**: fix: adjust passing score threshold according to new rules
 - **2018-07-13 19:58**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-08-20 09:38**: refactor: optimize SVG rendering for road signs
 - **2018-08-21 16:14**: docs: update README with setup instructions and feature list
 - **2018-08-21 16:24**: style: enhance traffic sign card layout and responsiveness
+- **2018-08-22 13:35**: feat: add instant feedback and explanation on answer selection
