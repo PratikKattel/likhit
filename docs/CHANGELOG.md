@@ -1,4 +1,3 @@
-- **2018-07-13 19:58**: chore: format code style and clean up redundant variables
 - **2018-07-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-07-14 13:38**: feat: support multiple choice questions for motorcycle category
 - **2018-07-15 10:02**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-08-22 13:35**: feat: add instant feedback and explanation on answer selection
 - **2018-08-22 20:42**: feat: support multiple choice questions for motorcycle category
 - **2018-08-22 21:23**: feat: support multiple choice questions for motorcycle category
+- **2018-08-23 11:49**: fix: typo in Nepali road safety regulations question
