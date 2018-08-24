@@ -1,4 +1,3 @@
-- **2018-07-14 13:38**: feat: support multiple choice questions for motorcycle category
 - **2018-07-15 10:02**: feat: add result summary with passing threshold analysis
 - **2018-07-16 11:11**: feat: implement timer and score calculation for mock test
 - **2018-07-16 18:18**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-08-22 21:23**: feat: support multiple choice questions for motorcycle category
 - **2018-08-23 11:49**: fix: typo in Nepali road safety regulations question
 - **2018-08-24 15:48**: feat: add regulatory traffic signs SVG graphics
+- **2018-08-24 16:03**: feat: add regulatory traffic signs SVG graphics
