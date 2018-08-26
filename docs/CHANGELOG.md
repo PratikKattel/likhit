@@ -1,4 +1,3 @@
-- **2018-07-16 11:11**: feat: implement timer and score calculation for mock test
 - **2018-07-16 18:18**: feat: support multiple choice questions for motorcycle category
 - **2018-07-16 20:56**: feat: add warning signs and informational road signs
 - **2018-07-17 18:19**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-08-24 15:48**: feat: add regulatory traffic signs SVG graphics
 - **2018-08-24 16:03**: feat: add regulatory traffic signs SVG graphics
 - **2018-08-25 20:14**: feat: add category-specific practice modes
+- **2018-08-26 17:41**: chore: update project metadata and build configuration
