@@ -1,4 +1,3 @@
-- **2018-07-17 18:19**: feat: add warning signs and informational road signs
 - **2018-07-17 22:18**: chore: update project metadata and build configuration
 - **2018-07-18 09:25**: feat: add keyboard navigation shortcuts for question selection
 - **2018-07-18 12:41**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-08-26 17:41**: chore: update project metadata and build configuration
 - **2018-08-27 17:14**: feat: add result summary with passing threshold analysis
 - **2018-08-28 20:23**: chore: update project metadata and build configuration
+- **2018-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
