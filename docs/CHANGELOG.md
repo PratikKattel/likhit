@@ -1,4 +1,3 @@
-- **2018-07-18 12:41**: perf: lazy load signal graphics and question assets
 - **2018-07-18 14:28**: feat: add search and filter by sign category
 - **2018-07-19 11:02**: docs: update traffic signals catalog documentation
 - **2018-07-19 15:15**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2018-08-30 22:09**: refactor: optimize SVG rendering for road signs
 - **2018-08-31 11:17**: perf: optimize image caching for traffic sign assets
+- **2018-08-31 12:36**: fix: correct color specifications for mandatory traffic signs
