@@ -1,4 +1,3 @@
-- **2018-07-18 14:28**: feat: add search and filter by sign category
 - **2018-07-19 11:02**: docs: update traffic signals catalog documentation
 - **2018-07-19 15:15**: fix: resolve layout shift during question transitions
 - **2018-07-19 17:54**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2018-08-30 22:09**: refactor: optimize SVG rendering for road signs
 - **2018-08-31 11:17**: perf: optimize image caching for traffic sign assets
 - **2018-08-31 12:36**: fix: correct color specifications for mandatory traffic signs
+- **2018-09-01 16:12**: refactor: optimize SVG rendering for road signs
