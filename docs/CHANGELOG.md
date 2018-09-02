@@ -1,4 +1,3 @@
-- **2018-07-19 17:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-07-20 16:42**: perf: lazy load signal graphics and question assets
 - **2018-07-20 17:19**: fix: correct color specifications for mandatory traffic signs
 - **2018-07-20 22:16**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2018-09-01 16:12**: refactor: optimize SVG rendering for road signs
 - **2018-09-02 09:01**: fix: resolve layout shift during question transitions
 - **2018-09-02 11:10**: fix: prevent option re-selection after submitting answer
+- **2018-09-02 14:10**: feat: add keyboard navigation shortcuts for question selection
