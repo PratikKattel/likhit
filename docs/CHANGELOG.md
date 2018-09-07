@@ -1,4 +1,3 @@
-- **2018-07-22 09:30**: refactor: modularize traffic app logic and event listeners
 - **2018-07-22 17:40**: refactor: optimize SVG rendering for road signs
 - **2018-07-23 16:51**: docs: improve code comments and API documentation
 - **2018-07-24 13:03**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-09-04 09:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-09-05 17:21**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-06 14:55**: fix: typo in Nepali road safety regulations question
+- **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
