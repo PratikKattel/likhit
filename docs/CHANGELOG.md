@@ -1,4 +1,3 @@
-- **2018-07-22 17:40**: refactor: optimize SVG rendering for road signs
 - **2018-07-23 16:51**: docs: improve code comments and API documentation
 - **2018-07-24 13:03**: docs: improve code comments and API documentation
 - **2018-07-24 14:51**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2018-09-05 17:21**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-06 14:55**: fix: typo in Nepali road safety regulations question
 - **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-09-08 09:46**: perf: lazy load signal graphics and question assets
