@@ -1,4 +1,3 @@
-- **2018-07-24 13:03**: docs: improve code comments and API documentation
 - **2018-07-24 14:51**: docs: add instructions for Nepali driving license written exam
 - **2018-07-24 17:41**: refactor: modularize traffic app logic and event listeners
 - **2018-07-24 20:36**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-08 09:46**: perf: lazy load signal graphics and question assets
 - **2018-09-09 09:13**: chore: format code style and clean up redundant variables
+- **2018-09-09 15:35**: feat: add regulatory traffic signs SVG graphics
