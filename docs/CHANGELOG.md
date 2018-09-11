@@ -1,4 +1,3 @@
-- **2018-07-25 18:20**: style: enhance traffic sign card layout and responsiveness
 - **2018-07-25 18:39**: chore: format code style and clean up redundant variables
 - **2018-07-26 13:22**: feat: implement timer and score calculation for mock test
 - **2018-07-26 18:03**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-09-10 13:14**: feat: add category-specific practice modes
 - **2018-09-10 13:34**: refactor: modularize traffic app logic and event listeners
 - **2018-09-11 09:07**: fix: resolve layout shift during question transitions
+- **2018-09-11 13:47**: feat: add instant feedback and explanation on answer selection
