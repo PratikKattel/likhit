@@ -1,4 +1,3 @@
-- **2018-07-26 19:26**: refactor: restructure question data schema for faster loading
 - **2018-07-27 14:02**: test: verify question extraction script against exam PDF
 - **2018-07-28 10:15**: fix: update DOTM Nepal license syllabus questions
 - **2018-07-28 12:57**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-09-11 16:01**: perf: index question IDs for rapid lookup
 - **2018-09-12 09:13**: feat: add category A and B traffic test questions
 - **2018-09-13 19:59**: feat: add result summary with passing threshold analysis
+- **2018-09-13 21:19**: feat: support multiple choice questions for motorcycle category
