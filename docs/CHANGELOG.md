@@ -1,4 +1,3 @@
-- **2018-07-27 14:02**: test: verify question extraction script against exam PDF
 - **2018-07-28 10:15**: fix: update DOTM Nepal license syllabus questions
 - **2018-07-28 12:57**: refactor: optimize SVG rendering for road signs
 - **2018-07-28 20:25**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-09-12 09:13**: feat: add category A and B traffic test questions
 - **2018-09-13 19:59**: feat: add result summary with passing threshold analysis
 - **2018-09-13 21:19**: feat: support multiple choice questions for motorcycle category
+- **2018-09-14 20:56**: chore: format code style and clean up redundant variables
