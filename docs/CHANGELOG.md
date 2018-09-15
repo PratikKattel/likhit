@@ -1,4 +1,3 @@
-- **2018-07-28 12:57**: refactor: optimize SVG rendering for road signs
 - **2018-07-28 20:25**: feat: add instant feedback and explanation on answer selection
 - **2018-07-28 22:04**: test: verify question extraction script against exam PDF
 - **2018-07-29 11:32**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-09-13 21:19**: feat: support multiple choice questions for motorcycle category
 - **2018-09-14 20:56**: chore: format code style and clean up redundant variables
 - **2018-09-15 11:23**: docs: update README with setup instructions and feature list
+- **2018-09-15 12:11**: feat: add search and filter by sign category
