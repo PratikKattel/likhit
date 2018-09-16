@@ -1,4 +1,3 @@
-- **2018-07-28 22:04**: test: verify question extraction script against exam PDF
 - **2018-07-29 11:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-07-29 18:16**: chore: update questions database with recent DOTM updates
 - **2018-07-30 10:24**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-09-15 11:23**: docs: update README with setup instructions and feature list
 - **2018-09-15 12:11**: feat: add search and filter by sign category
 - **2018-09-16 18:06**: chore: update questions database with recent DOTM updates
+- **2018-09-16 19:48**: fix: correct color specifications for mandatory traffic signs
