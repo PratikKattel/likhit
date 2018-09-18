@@ -1,4 +1,3 @@
-- **2018-07-29 18:16**: chore: update questions database with recent DOTM updates
 - **2018-07-30 10:24**: chore: update questions database with recent DOTM updates
 - **2018-07-30 18:11**: fix: adjust passing score threshold according to new rules
 - **2018-07-31 21:00**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-09-16 18:06**: chore: update questions database with recent DOTM updates
 - **2018-09-16 19:48**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-17 16:42**: perf: index question IDs for rapid lookup
+- **2018-09-18 16:39**: feat: implement timer and score calculation for mock test
