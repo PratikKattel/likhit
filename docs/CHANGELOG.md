@@ -1,4 +1,3 @@
-- **2018-07-31 21:00**: perf: optimize image caching for traffic sign assets
 - **2018-08-01 16:19**: fix: typo in Nepali road safety regulations question
 - **2018-08-01 18:23**: feat: add instant feedback and explanation on answer selection
 - **2018-08-02 12:09**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-09-18 16:39**: feat: implement timer and score calculation for mock test
 - **2018-09-19 09:30**: feat: add category-specific practice modes
 - **2018-09-19 10:49**: docs: update traffic signals catalog documentation
+- **2018-09-19 10:53**: refactor: modularize traffic app logic and event listeners
