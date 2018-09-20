@@ -1,4 +1,3 @@
-- **2018-08-01 18:23**: feat: add instant feedback and explanation on answer selection
 - **2018-08-02 12:09**: perf: index question IDs for rapid lookup
 - **2018-08-02 14:11**: refactor: modularize traffic app logic and event listeners
 - **2018-08-03 15:41**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2018-09-19 10:49**: docs: update traffic signals catalog documentation
 - **2018-09-19 10:53**: refactor: modularize traffic app logic and event listeners
 - **2018-09-19 16:01**: feat: add category A and B traffic test questions
+- **2018-09-20 16:50**: docs: update README with setup instructions and feature list
