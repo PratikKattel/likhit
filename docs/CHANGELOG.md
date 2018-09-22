@@ -1,4 +1,3 @@
-- **2018-08-02 14:11**: refactor: modularize traffic app logic and event listeners
 - **2018-08-03 15:41**: refactor: modularize traffic app logic and event listeners
 - **2018-08-03 19:11**: feat: add warning signs and informational road signs
 - **2018-08-04 13:51**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-09-19 16:01**: feat: add category A and B traffic test questions
 - **2018-09-20 16:50**: docs: update README with setup instructions and feature list
 - **2018-09-21 19:55**: chore: update project metadata and build configuration
+- **2018-09-22 12:56**: style: enhance traffic sign card layout and responsiveness
