@@ -1,4 +1,3 @@
-- **2018-08-03 19:11**: feat: add warning signs and informational road signs
 - **2018-08-04 13:51**: docs: update traffic signals catalog documentation
 - **2018-08-05 10:24**: feat: add warning signs and informational road signs
 - **2018-08-06 18:59**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2018-09-21 19:55**: chore: update project metadata and build configuration
 - **2018-09-22 12:56**: style: enhance traffic sign card layout and responsiveness
 - **2018-09-22 13:33**: docs: improve code comments and API documentation
+- **2018-09-23 17:42**: fix: resolve layout shift during question transitions
