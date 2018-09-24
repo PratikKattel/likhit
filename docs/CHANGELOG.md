@@ -1,4 +1,3 @@
-- **2018-08-06 18:59**: feat: add category A and B traffic test questions
 - **2018-08-06 19:34**: fix: adjust passing score threshold according to new rules
 - **2018-08-07 13:21**: feat: add instant feedback and explanation on answer selection
 - **2018-08-07 20:07**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-09-23 17:42**: fix: resolve layout shift during question transitions
 - **2018-09-23 17:54**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-23 19:08**: feat: add category A and B traffic test questions
+- **2018-09-24 19:42**: feat: add warning signs and informational road signs
