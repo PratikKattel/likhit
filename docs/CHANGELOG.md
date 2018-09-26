@@ -1,4 +1,3 @@
-- **2018-08-07 13:21**: feat: add instant feedback and explanation on answer selection
 - **2018-08-07 20:07**: docs: update traffic signals catalog documentation
 - **2018-08-08 12:36**: feat: add warning signs and informational road signs
 - **2018-08-09 12:31**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-09-23 19:08**: feat: add category A and B traffic test questions
 - **2018-09-24 19:42**: feat: add warning signs and informational road signs
 - **2018-09-25 15:49**: feat: add keyboard navigation shortcuts for question selection
+- **2018-09-26 21:25**: chore: organize assets and image directory structure
