@@ -1,4 +1,3 @@
-- **2018-08-07 20:07**: docs: update traffic signals catalog documentation
 - **2018-08-08 12:36**: feat: add warning signs and informational road signs
 - **2018-08-09 12:31**: chore: update questions database with recent DOTM updates
 - **2018-08-10 10:37**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2018-09-24 19:42**: feat: add warning signs and informational road signs
 - **2018-09-25 15:49**: feat: add keyboard navigation shortcuts for question selection
 - **2018-09-26 21:25**: chore: organize assets and image directory structure
+- **2018-09-27 10:47**: feat: add regulatory traffic signs SVG graphics
