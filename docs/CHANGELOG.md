@@ -1,4 +1,3 @@
-- **2018-08-10 15:25**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 14:27**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 20:54**: fix: prevent option re-selection after submitting answer
 - **2018-08-12 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-09-27 18:56**: feat: add category A and B traffic test questions
 - **2018-09-28 16:19**: feat: add result summary with passing threshold analysis
 - **2018-09-29 09:49**: feat: add category A and B traffic test questions
+- **2018-09-29 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
