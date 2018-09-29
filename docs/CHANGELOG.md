@@ -1,4 +1,3 @@
-- **2018-08-10 10:37**: chore: update questions database with recent DOTM updates
 - **2018-08-10 15:25**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 14:27**: fix: adjust passing score threshold according to new rules
 - **2018-08-11 20:54**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-09-27 10:47**: feat: add regulatory traffic signs SVG graphics
 - **2018-09-27 18:56**: feat: add category A and B traffic test questions
 - **2018-09-28 16:19**: feat: add result summary with passing threshold analysis
+- **2018-09-29 09:49**: feat: add category A and B traffic test questions
