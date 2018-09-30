@@ -1,4 +1,3 @@
-- **2018-08-12 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-08-12 21:41**: test: verify question extraction script against exam PDF
 - **2018-08-13 18:59**: docs: update traffic signals catalog documentation
 - **2018-08-14 11:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-09-29 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-29 20:05**: feat: add result summary with passing threshold analysis
 - **2018-09-30 14:14**: fix: typo in Nepali road safety regulations question
+- **2018-09-30 14:43**: fix: update DOTM Nepal license syllabus questions
