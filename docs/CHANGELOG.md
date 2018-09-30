@@ -1,4 +1,3 @@
-- **2018-08-11 20:54**: fix: prevent option re-selection after submitting answer
 - **2018-08-12 18:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-08-12 21:41**: test: verify question extraction script against exam PDF
 - **2018-08-13 18:59**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-09-29 09:49**: feat: add category A and B traffic test questions
 - **2018-09-29 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-29 20:05**: feat: add result summary with passing threshold analysis
+- **2018-09-30 14:14**: fix: typo in Nepali road safety regulations question
