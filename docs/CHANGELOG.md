@@ -1,4 +1,3 @@
-- **2018-08-15 18:59**: perf: optimize image caching for traffic sign assets
 - **2018-08-16 10:40**: feat: add category-specific practice modes
 - **2018-08-16 20:07**: fix: update DOTM Nepal license syllabus questions
 - **2018-08-17 17:16**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-10-01 18:14**: feat: implement timer and score calculation for mock test
 - **2018-10-02 19:42**: feat: add category A and B traffic test questions
 - **2018-10-02 20:34**: fix: adjust passing score threshold according to new rules
+- **2018-10-03 18:54**: feat: add category A and B traffic test questions
