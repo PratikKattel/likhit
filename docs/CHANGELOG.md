@@ -1,4 +1,3 @@
-- **2018-08-16 20:07**: fix: update DOTM Nepal license syllabus questions
 - **2018-08-17 17:16**: chore: format code style and clean up redundant variables
 - **2018-08-18 18:49**: perf: lazy load signal graphics and question assets
 - **2018-08-19 11:46**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2018-10-02 20:34**: fix: adjust passing score threshold according to new rules
 - **2018-10-03 18:54**: feat: add category A and B traffic test questions
 - **2018-10-04 09:28**: chore: organize assets and image directory structure
+- **2018-10-04 14:05**: fix: prevent option re-selection after submitting answer
