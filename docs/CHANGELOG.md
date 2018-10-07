@@ -1,4 +1,3 @@
-- **2018-08-19 12:59**: feat: add warning signs and informational road signs
 - **2018-08-20 09:38**: refactor: optimize SVG rendering for road signs
 - **2018-08-21 16:14**: docs: update README with setup instructions and feature list
 - **2018-08-21 16:24**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-10-05 11:04**: feat: add regulatory traffic signs SVG graphics
 - **2018-10-05 12:02**: fix: adjust passing score threshold according to new rules
 - **2018-10-06 14:37**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-10-07 17:11**: perf: optimize image caching for traffic sign assets
