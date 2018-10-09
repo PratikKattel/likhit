@@ -1,4 +1,3 @@
-- **2018-08-21 16:14**: docs: update README with setup instructions and feature list
 - **2018-08-21 16:24**: style: enhance traffic sign card layout and responsiveness
 - **2018-08-22 13:35**: feat: add instant feedback and explanation on answer selection
 - **2018-08-22 20:42**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-10-06 14:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-10-07 17:11**: perf: optimize image caching for traffic sign assets
 - **2018-10-08 20:50**: fix: update DOTM Nepal license syllabus questions
+- **2018-10-09 15:42**: docs: improve code comments and API documentation
