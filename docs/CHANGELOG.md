@@ -1,4 +1,3 @@
-- **2018-08-22 20:42**: feat: support multiple choice questions for motorcycle category
 - **2018-08-22 21:23**: feat: support multiple choice questions for motorcycle category
 - **2018-08-23 11:49**: fix: typo in Nepali road safety regulations question
 - **2018-08-24 15:48**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-10-09 15:42**: docs: improve code comments and API documentation
 - **2018-10-10 14:11**: feat: add warning signs and informational road signs
 - **2018-10-11 11:48**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-10-11 21:02**: chore: update project metadata and build configuration
