@@ -1,4 +1,3 @@
-- **2018-08-24 16:03**: feat: add regulatory traffic signs SVG graphics
 - **2018-08-25 20:14**: feat: add category-specific practice modes
 - **2018-08-26 17:41**: chore: update project metadata and build configuration
 - **2018-08-27 17:14**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-10-12 13:14**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-13 19:17**: perf: optimize image caching for traffic sign assets
 - **2018-10-13 20:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-10-13 22:08**: docs: add instructions for Nepali driving license written exam
