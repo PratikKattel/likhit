@@ -1,4 +1,3 @@
-- **2018-08-27 17:14**: feat: add result summary with passing threshold analysis
 - **2018-08-28 20:23**: chore: update project metadata and build configuration
 - **2018-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2018-08-30 22:09**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-10-13 22:08**: docs: add instructions for Nepali driving license written exam
 - **2018-10-14 15:18**: refactor: optimize SVG rendering for road signs
 - **2018-10-14 17:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2018-10-15 10:05**: perf: optimize image caching for traffic sign assets
