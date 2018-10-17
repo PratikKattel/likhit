@@ -1,4 +1,3 @@
-- **2018-08-31 11:17**: perf: optimize image caching for traffic sign assets
 - **2018-08-31 12:36**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-01 16:12**: refactor: optimize SVG rendering for road signs
 - **2018-09-02 09:01**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-10-15 14:55**: test: verify question extraction script against exam PDF
 - **2018-10-15 18:09**: perf: index question IDs for rapid lookup
 - **2018-10-16 10:43**: fix: typo in Nepali road safety regulations question
+- **2018-10-17 11:51**: fix: correct color specifications for mandatory traffic signs
