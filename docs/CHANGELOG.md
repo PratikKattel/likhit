@@ -1,4 +1,3 @@
-- **2018-09-01 16:12**: refactor: optimize SVG rendering for road signs
 - **2018-09-02 09:01**: fix: resolve layout shift during question transitions
 - **2018-09-02 11:10**: fix: prevent option re-selection after submitting answer
 - **2018-09-02 14:10**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-10-16 10:43**: fix: typo in Nepali road safety regulations question
 - **2018-10-17 11:51**: fix: correct color specifications for mandatory traffic signs
 - **2018-10-17 15:44**: feat: support multiple choice questions for motorcycle category
+- **2018-10-18 12:49**: feat: add result summary with passing threshold analysis
