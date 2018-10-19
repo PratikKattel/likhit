@@ -1,4 +1,3 @@
-- **2018-09-02 11:10**: fix: prevent option re-selection after submitting answer
 - **2018-09-02 14:10**: feat: add keyboard navigation shortcuts for question selection
 - **2018-09-03 10:52**: docs: update traffic signals catalog documentation
 - **2018-09-03 15:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-10-17 15:44**: feat: support multiple choice questions for motorcycle category
 - **2018-10-18 12:49**: feat: add result summary with passing threshold analysis
 - **2018-10-18 12:54**: style: enhance traffic sign card layout and responsiveness
+- **2018-10-19 10:14**: feat: add instant feedback and explanation on answer selection
