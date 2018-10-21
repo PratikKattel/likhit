@@ -1,4 +1,3 @@
-- **2018-09-03 10:52**: docs: update traffic signals catalog documentation
 - **2018-09-03 15:47**: chore: format code style and clean up redundant variables
 - **2018-09-04 09:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-09-05 17:21**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2018-10-18 12:54**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-19 10:14**: feat: add instant feedback and explanation on answer selection
 - **2018-10-20 22:15**: fix: update DOTM Nepal license syllabus questions
+- **2018-10-21 09:28**: feat: add keyboard navigation shortcuts for question selection
