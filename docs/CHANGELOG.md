@@ -1,4 +1,3 @@
-- **2018-09-04 09:32**: style: enhance traffic sign card layout and responsiveness
 - **2018-09-05 17:21**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-06 14:55**: fix: typo in Nepali road safety regulations question
 - **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2018-10-20 22:15**: fix: update DOTM Nepal license syllabus questions
 - **2018-10-21 09:28**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-21 10:03**: style: enhance traffic sign card layout and responsiveness
+- **2018-10-22 20:35**: feat: add keyboard navigation shortcuts for question selection
