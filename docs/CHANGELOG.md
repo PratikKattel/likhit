@@ -1,4 +1,3 @@
-- **2018-09-05 17:21**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-06 14:55**: fix: typo in Nepali road safety regulations question
 - **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-08 09:46**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2018-10-21 09:28**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-21 10:03**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-22 20:35**: feat: add keyboard navigation shortcuts for question selection
+- **2018-10-23 15:15**: docs: update traffic signals catalog documentation
