@@ -1,4 +1,3 @@
-- **2018-09-07 15:38**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-08 09:46**: perf: lazy load signal graphics and question assets
 - **2018-09-09 09:13**: chore: format code style and clean up redundant variables
 - **2018-09-09 15:35**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-10-22 20:35**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-23 15:15**: docs: update traffic signals catalog documentation
 - **2018-10-23 17:47**: chore: format code style and clean up redundant variables
+- **2018-10-24 17:17**: docs: add instructions for Nepali driving license written exam
