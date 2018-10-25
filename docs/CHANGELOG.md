@@ -1,4 +1,3 @@
-- **2018-09-09 15:35**: feat: add regulatory traffic signs SVG graphics
 - **2018-09-10 13:14**: feat: add category-specific practice modes
 - **2018-09-10 13:34**: refactor: modularize traffic app logic and event listeners
 - **2018-09-11 09:07**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2018-10-24 17:17**: docs: add instructions for Nepali driving license written exam
 - **2018-10-25 15:31**: test: verify question extraction script against exam PDF
 - **2018-10-25 16:49**: style: enhance traffic sign card layout and responsiveness
+- **2018-10-25 21:42**: fix: correct color specifications for mandatory traffic signs
