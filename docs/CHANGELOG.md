@@ -1,4 +1,3 @@
-- **2018-09-10 13:34**: refactor: modularize traffic app logic and event listeners
 - **2018-09-11 09:07**: fix: resolve layout shift during question transitions
 - **2018-09-11 13:47**: feat: add instant feedback and explanation on answer selection
 - **2018-09-11 16:01**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-10-25 16:49**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-25 21:42**: fix: correct color specifications for mandatory traffic signs
 - **2018-10-26 14:20**: feat: implement timer and score calculation for mock test
+- **2018-10-26 15:23**: style: enhance traffic sign card layout and responsiveness
