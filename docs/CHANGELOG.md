@@ -1,4 +1,3 @@
-- **2018-09-11 16:01**: perf: index question IDs for rapid lookup
 - **2018-09-12 09:13**: feat: add category A and B traffic test questions
 - **2018-09-13 19:59**: feat: add result summary with passing threshold analysis
 - **2018-09-13 21:19**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-10-26 15:23**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-26 16:26**: fix: update DOTM Nepal license syllabus questions
 - **2018-10-27 14:29**: docs: improve code comments and API documentation
+- **2018-10-27 16:28**: feat: add category-specific practice modes
