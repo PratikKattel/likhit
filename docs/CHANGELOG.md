@@ -1,4 +1,3 @@
-- **2018-09-13 21:19**: feat: support multiple choice questions for motorcycle category
 - **2018-09-14 20:56**: chore: format code style and clean up redundant variables
 - **2018-09-15 11:23**: docs: update README with setup instructions and feature list
 - **2018-09-15 12:11**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2018-10-27 16:28**: feat: add category-specific practice modes
 - **2018-10-27 17:09**: style: polish typography and Nepali Unicode font rendering
 - **2018-10-28 15:11**: feat: add category-specific practice modes
+- **2018-10-29 15:49**: perf: index question IDs for rapid lookup
