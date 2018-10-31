@@ -1,4 +1,3 @@
-- **2018-09-16 18:06**: chore: update questions database with recent DOTM updates
 - **2018-09-16 19:48**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-17 16:42**: perf: index question IDs for rapid lookup
 - **2018-09-18 16:39**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-10-30 15:50**: refactor: restructure question data schema for faster loading
 - **2018-10-31 09:57**: feat: add category-specific practice modes
 - **2018-10-31 11:21**: feat: add warning signs and informational road signs
+- **2018-10-31 20:30**: refactor: clean up unused CSS classes and optimize stylesheet
