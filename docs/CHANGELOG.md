@@ -1,4 +1,3 @@
-- **2018-09-15 11:23**: docs: update README with setup instructions and feature list
 - **2018-09-15 12:11**: feat: add search and filter by sign category
 - **2018-09-16 18:06**: chore: update questions database with recent DOTM updates
 - **2018-09-16 19:48**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2018-10-28 15:11**: feat: add category-specific practice modes
 - **2018-10-29 15:49**: perf: index question IDs for rapid lookup
 - **2018-10-30 15:50**: refactor: restructure question data schema for faster loading
+- **2018-10-31 09:57**: feat: add category-specific practice modes
