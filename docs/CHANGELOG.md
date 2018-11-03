@@ -1,4 +1,3 @@
-- **2018-09-18 16:39**: feat: implement timer and score calculation for mock test
 - **2018-09-19 09:30**: feat: add category-specific practice modes
 - **2018-09-19 10:49**: docs: update traffic signals catalog documentation
 - **2018-09-19 10:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2018-10-31 20:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-11-01 16:09**: test: verify question extraction script against exam PDF
 - **2018-11-02 15:27**: docs: update traffic signals catalog documentation
+- **2018-11-03 18:40**: docs: update traffic signals catalog documentation
