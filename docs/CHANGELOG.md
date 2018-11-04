@@ -1,4 +1,3 @@
-- **2018-09-19 09:30**: feat: add category-specific practice modes
 - **2018-09-19 10:49**: docs: update traffic signals catalog documentation
 - **2018-09-19 10:53**: refactor: modularize traffic app logic and event listeners
 - **2018-09-19 16:01**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2018-11-01 16:09**: test: verify question extraction script against exam PDF
 - **2018-11-02 15:27**: docs: update traffic signals catalog documentation
 - **2018-11-03 18:40**: docs: update traffic signals catalog documentation
+- **2018-11-04 16:08**: feat: add regulatory traffic signs SVG graphics
