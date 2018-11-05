@@ -1,4 +1,3 @@
-- **2018-09-19 10:49**: docs: update traffic signals catalog documentation
 - **2018-09-19 10:53**: refactor: modularize traffic app logic and event listeners
 - **2018-09-19 16:01**: feat: add category A and B traffic test questions
 - **2018-09-20 16:50**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2018-11-02 15:27**: docs: update traffic signals catalog documentation
 - **2018-11-03 18:40**: docs: update traffic signals catalog documentation
 - **2018-11-04 16:08**: feat: add regulatory traffic signs SVG graphics
+- **2018-11-05 18:08**: feat: add keyboard navigation shortcuts for question selection
