@@ -1,4 +1,3 @@
-- **2018-09-20 16:50**: docs: update README with setup instructions and feature list
 - **2018-09-21 19:55**: chore: update project metadata and build configuration
 - **2018-09-22 12:56**: style: enhance traffic sign card layout and responsiveness
 - **2018-09-22 13:33**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2018-11-05 18:08**: feat: add keyboard navigation shortcuts for question selection
 - **2018-11-06 16:56**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-06 20:51**: feat: support multiple choice questions for motorcycle category
+- **2018-11-06 22:06**: docs: improve code comments and API documentation
