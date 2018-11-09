@@ -1,4 +1,3 @@
-- **2018-09-23 17:54**: fix: correct color specifications for mandatory traffic signs
 - **2018-09-23 19:08**: feat: add category A and B traffic test questions
 - **2018-09-24 19:42**: feat: add warning signs and informational road signs
 - **2018-09-25 15:49**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-11-08 13:09**: perf: lazy load signal graphics and question assets
 - **2018-11-09 09:52**: feat: add instant feedback and explanation on answer selection
 - **2018-11-09 14:19**: chore: organize assets and image directory structure
+- **2018-11-09 19:40**: style: polish typography and Nepali Unicode font rendering
