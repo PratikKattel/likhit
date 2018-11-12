@@ -1,4 +1,3 @@
-- **2018-09-26 21:25**: chore: organize assets and image directory structure
 - **2018-09-27 10:47**: feat: add regulatory traffic signs SVG graphics
 - **2018-09-27 18:56**: feat: add category A and B traffic test questions
 - **2018-09-28 16:19**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-11-10 15:06**: fix: update DOTM Nepal license syllabus questions
 - **2018-11-11 10:52**: feat: add result summary with passing threshold analysis
 - **2018-11-11 19:20**: docs: update traffic signals catalog documentation
+- **2018-11-12 11:43**: style: polish typography and Nepali Unicode font rendering
