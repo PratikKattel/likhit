@@ -1,4 +1,3 @@
-- **2018-09-28 16:19**: feat: add result summary with passing threshold analysis
 - **2018-09-29 09:49**: feat: add category A and B traffic test questions
 - **2018-09-29 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-29 20:05**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-11-12 11:43**: style: polish typography and Nepali Unicode font rendering
 - **2018-11-13 20:39**: chore: update project metadata and build configuration
 - **2018-11-13 22:25**: feat: add instant feedback and explanation on answer selection
+- **2018-11-14 14:30**: fix: update DOTM Nepal license syllabus questions
