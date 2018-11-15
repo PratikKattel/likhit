@@ -1,4 +1,3 @@
-- **2018-09-29 17:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-09-29 20:05**: feat: add result summary with passing threshold analysis
 - **2018-09-30 14:14**: fix: typo in Nepali road safety regulations question
 - **2018-09-30 14:43**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-11-13 22:25**: feat: add instant feedback and explanation on answer selection
 - **2018-11-14 14:30**: fix: update DOTM Nepal license syllabus questions
 - **2018-11-15 18:54**: refactor: restructure question data schema for faster loading
+- **2018-11-15 21:50**: chore: update questions database with recent DOTM updates
