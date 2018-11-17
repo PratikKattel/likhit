@@ -1,4 +1,3 @@
-- **2018-09-30 14:14**: fix: typo in Nepali road safety regulations question
 - **2018-09-30 14:43**: fix: update DOTM Nepal license syllabus questions
 - **2018-09-30 16:51**: style: polish typography and Nepali Unicode font rendering
 - **2018-10-01 09:11**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-11-15 18:54**: refactor: restructure question data schema for faster loading
 - **2018-11-15 21:50**: chore: update questions database with recent DOTM updates
 - **2018-11-16 11:15**: feat: add result summary with passing threshold analysis
+- **2018-11-17 12:12**: fix: prevent option re-selection after submitting answer
