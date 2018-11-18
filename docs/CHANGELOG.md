@@ -1,4 +1,3 @@
-- **2018-09-30 14:43**: fix: update DOTM Nepal license syllabus questions
 - **2018-09-30 16:51**: style: polish typography and Nepali Unicode font rendering
 - **2018-10-01 09:11**: feat: add result summary with passing threshold analysis
 - **2018-10-01 10:58**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2018-11-15 21:50**: chore: update questions database with recent DOTM updates
 - **2018-11-16 11:15**: feat: add result summary with passing threshold analysis
 - **2018-11-17 12:12**: fix: prevent option re-selection after submitting answer
+- **2018-11-18 09:04**: feat: implement timer and score calculation for mock test
