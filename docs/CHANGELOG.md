@@ -1,4 +1,3 @@
-- **2018-10-01 09:11**: feat: add result summary with passing threshold analysis
 - **2018-10-01 10:58**: chore: format code style and clean up redundant variables
 - **2018-10-01 18:14**: feat: implement timer and score calculation for mock test
 - **2018-10-02 19:42**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2018-11-17 12:12**: fix: prevent option re-selection after submitting answer
 - **2018-11-18 09:04**: feat: implement timer and score calculation for mock test
 - **2018-11-18 09:27**: feat: support multiple choice questions for motorcycle category
+- **2018-11-18 14:34**: feat: add keyboard navigation shortcuts for question selection
