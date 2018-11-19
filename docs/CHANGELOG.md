@@ -1,4 +1,3 @@
-- **2018-10-01 18:14**: feat: implement timer and score calculation for mock test
 - **2018-10-02 19:42**: feat: add category A and B traffic test questions
 - **2018-10-02 20:34**: fix: adjust passing score threshold according to new rules
 - **2018-10-03 18:54**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2018-11-18 09:27**: feat: support multiple choice questions for motorcycle category
 - **2018-11-18 14:34**: feat: add keyboard navigation shortcuts for question selection
 - **2018-11-18 15:38**: feat: add instant feedback and explanation on answer selection
+- **2018-11-19 12:50**: refactor: clean up unused CSS classes and optimize stylesheet
