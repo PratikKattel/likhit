@@ -1,4 +1,3 @@
-- **2018-10-02 20:34**: fix: adjust passing score threshold according to new rules
 - **2018-10-03 18:54**: feat: add category A and B traffic test questions
 - **2018-10-04 09:28**: chore: organize assets and image directory structure
 - **2018-10-04 14:05**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2018-11-18 15:38**: feat: add instant feedback and explanation on answer selection
 - **2018-11-19 12:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-11-20 09:51**: chore: update questions database with recent DOTM updates
+- **2018-11-20 12:24**: fix: adjust passing score threshold according to new rules
