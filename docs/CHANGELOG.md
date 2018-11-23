@@ -1,4 +1,3 @@
-- **2018-10-05 12:02**: fix: adjust passing score threshold according to new rules
 - **2018-10-06 14:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-10-07 17:11**: perf: optimize image caching for traffic sign assets
 - **2018-10-08 20:50**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-11-21 14:06**: feat: add instant feedback and explanation on answer selection
 - **2018-11-21 20:20**: test: verify question extraction script against exam PDF
 - **2018-11-22 15:13**: feat: add warning signs and informational road signs
+- **2018-11-23 19:04**: docs: add instructions for Nepali driving license written exam
