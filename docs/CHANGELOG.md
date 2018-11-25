@@ -1,4 +1,3 @@
-- **2018-10-09 15:42**: docs: improve code comments and API documentation
 - **2018-10-10 14:11**: feat: add warning signs and informational road signs
 - **2018-10-11 11:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-10-11 21:02**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2018-11-24 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-11-24 10:40**: style: polish typography and Nepali Unicode font rendering
 - **2018-11-24 12:01**: feat: add regulatory traffic signs SVG graphics
+- **2018-11-25 11:59**: perf: optimize image caching for traffic sign assets
