@@ -1,4 +1,3 @@
-- **2018-10-13 19:17**: perf: optimize image caching for traffic sign assets
 - **2018-10-13 20:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-10-13 22:08**: docs: add instructions for Nepali driving license written exam
 - **2018-10-14 15:18**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2018-11-27 11:56**: chore: format code style and clean up redundant variables
 - **2018-11-27 12:55**: perf: lazy load signal graphics and question assets
 - **2018-11-27 17:04**: refactor: restructure question data schema for faster loading
+- **2018-11-27 18:33**: refactor: restructure question data schema for faster loading
