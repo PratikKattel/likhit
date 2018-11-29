@@ -1,4 +1,3 @@
-- **2018-10-13 22:08**: docs: add instructions for Nepali driving license written exam
 - **2018-10-14 15:18**: refactor: optimize SVG rendering for road signs
 - **2018-10-14 17:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-10-15 10:05**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2018-11-27 17:04**: refactor: restructure question data schema for faster loading
 - **2018-11-27 18:33**: refactor: restructure question data schema for faster loading
 - **2018-11-28 20:49**: feat: add regulatory traffic signs SVG graphics
+- **2018-11-29 10:16**: perf: lazy load signal graphics and question assets
