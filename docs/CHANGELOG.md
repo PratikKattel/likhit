@@ -1,4 +1,3 @@
-- **2018-10-15 14:55**: test: verify question extraction script against exam PDF
 - **2018-10-15 18:09**: perf: index question IDs for rapid lookup
 - **2018-10-16 10:43**: fix: typo in Nepali road safety regulations question
 - **2018-10-17 11:51**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2018-11-30 18:20**: perf: index question IDs for rapid lookup
 - **2018-12-01 10:53**: feat: add instant feedback and explanation on answer selection
 - **2018-12-01 12:13**: test: verify question extraction script against exam PDF
+- **2018-12-01 16:14**: docs: update traffic signals catalog documentation
