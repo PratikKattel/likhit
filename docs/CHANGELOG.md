@@ -1,4 +1,3 @@
-- **2018-10-15 18:09**: perf: index question IDs for rapid lookup
 - **2018-10-16 10:43**: fix: typo in Nepali road safety regulations question
 - **2018-10-17 11:51**: fix: correct color specifications for mandatory traffic signs
 - **2018-10-17 15:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-12-01 10:53**: feat: add instant feedback and explanation on answer selection
 - **2018-12-01 12:13**: test: verify question extraction script against exam PDF
 - **2018-12-01 16:14**: docs: update traffic signals catalog documentation
+- **2018-12-02 11:03**: feat: add warning signs and informational road signs
