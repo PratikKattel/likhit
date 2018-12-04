@@ -1,4 +1,3 @@
-- **2018-10-17 15:44**: feat: support multiple choice questions for motorcycle category
 - **2018-10-18 12:49**: feat: add result summary with passing threshold analysis
 - **2018-10-18 12:54**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-19 10:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2018-12-02 11:03**: feat: add warning signs and informational road signs
 - **2018-12-03 09:05**: feat: add keyboard navigation shortcuts for question selection
 - **2018-12-03 22:29**: feat: add warning signs and informational road signs
+- **2018-12-04 16:50**: style: improve dark/light mode and mobile UI responsiveness
