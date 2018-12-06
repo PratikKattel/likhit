@@ -1,4 +1,3 @@
-- **2018-10-20 22:15**: fix: update DOTM Nepal license syllabus questions
 - **2018-10-21 09:28**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-21 10:03**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-22 20:35**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-12-04 17:33**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-05 12:38**: refactor: optimize SVG rendering for road signs
 - **2018-12-06 10:16**: fix: typo in Nepali road safety regulations question
+- **2018-12-06 20:31**: fix: update DOTM Nepal license syllabus questions
