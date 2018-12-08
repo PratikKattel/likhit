@@ -1,4 +1,3 @@
-- **2018-10-22 20:35**: feat: add keyboard navigation shortcuts for question selection
 - **2018-10-23 15:15**: docs: update traffic signals catalog documentation
 - **2018-10-23 17:47**: chore: format code style and clean up redundant variables
 - **2018-10-24 17:17**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2018-12-06 20:31**: fix: update DOTM Nepal license syllabus questions
 - **2018-12-07 16:19**: fix: resolve layout shift during question transitions
 - **2018-12-08 11:56**: feat: add instant feedback and explanation on answer selection
+- **2018-12-08 12:27**: chore: update questions database with recent DOTM updates
