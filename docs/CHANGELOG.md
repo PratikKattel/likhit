@@ -1,4 +1,3 @@
-- **2018-10-23 17:47**: chore: format code style and clean up redundant variables
 - **2018-10-24 17:17**: docs: add instructions for Nepali driving license written exam
 - **2018-10-25 15:31**: test: verify question extraction script against exam PDF
 - **2018-10-25 16:49**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-12-08 11:56**: feat: add instant feedback and explanation on answer selection
 - **2018-12-08 12:27**: chore: update questions database with recent DOTM updates
 - **2018-12-08 13:32**: fix: prevent option re-selection after submitting answer
+- **2018-12-09 18:10**: fix: adjust passing score threshold according to new rules
