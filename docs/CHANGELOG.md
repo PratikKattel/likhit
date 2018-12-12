@@ -1,4 +1,3 @@
-- **2018-10-25 16:49**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-25 21:42**: fix: correct color specifications for mandatory traffic signs
 - **2018-10-26 14:20**: feat: implement timer and score calculation for mock test
 - **2018-10-26 15:23**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2018-12-09 18:10**: fix: adjust passing score threshold according to new rules
 - **2018-12-10 12:33**: docs: update README with setup instructions and feature list
 - **2018-12-11 20:28**: docs: improve code comments and API documentation
+- **2018-12-12 14:41**: style: polish typography and Nepali Unicode font rendering
