@@ -1,4 +1,3 @@
-- **2018-10-26 15:23**: style: enhance traffic sign card layout and responsiveness
 - **2018-10-26 16:26**: fix: update DOTM Nepal license syllabus questions
 - **2018-10-27 14:29**: docs: improve code comments and API documentation
 - **2018-10-27 16:28**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2018-12-12 14:41**: style: polish typography and Nepali Unicode font rendering
 - **2018-12-13 16:26**: feat: add search and filter by sign category
 - **2018-12-14 11:07**: fix: correct color specifications for mandatory traffic signs
+- **2018-12-14 16:28**: test: verify question extraction script against exam PDF
