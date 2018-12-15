@@ -1,4 +1,3 @@
-- **2018-10-27 16:28**: feat: add category-specific practice modes
 - **2018-10-27 17:09**: style: polish typography and Nepali Unicode font rendering
 - **2018-10-28 15:11**: feat: add category-specific practice modes
 - **2018-10-29 15:49**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2018-12-14 16:28**: test: verify question extraction script against exam PDF
 - **2018-12-14 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-15 10:22**: feat: add regulatory traffic signs SVG graphics
+- **2018-12-15 14:02**: feat: add warning signs and informational road signs
