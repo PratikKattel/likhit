@@ -1,4 +1,3 @@
-- **2018-10-29 15:49**: perf: index question IDs for rapid lookup
 - **2018-10-30 15:50**: refactor: restructure question data schema for faster loading
 - **2018-10-31 09:57**: feat: add category-specific practice modes
 - **2018-10-31 11:21**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2018-12-15 14:02**: feat: add warning signs and informational road signs
 - **2018-12-15 18:50**: docs: add instructions for Nepali driving license written exam
 - **2018-12-16 10:32**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-12-16 11:32**: fix: prevent option re-selection after submitting answer
