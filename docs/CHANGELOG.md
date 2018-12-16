@@ -1,4 +1,3 @@
-- **2018-10-31 09:57**: feat: add category-specific practice modes
 - **2018-10-31 11:21**: feat: add warning signs and informational road signs
 - **2018-10-31 20:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-11-01 16:09**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2018-12-16 10:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-12-16 11:32**: fix: prevent option re-selection after submitting answer
 - **2018-12-16 14:03**: feat: add category A and B traffic test questions
+- **2018-12-16 15:23**: feat: add keyboard navigation shortcuts for question selection
