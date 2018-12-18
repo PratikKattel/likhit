@@ -1,4 +1,3 @@
-- **2018-11-01 16:09**: test: verify question extraction script against exam PDF
 - **2018-11-02 15:27**: docs: update traffic signals catalog documentation
 - **2018-11-03 18:40**: docs: update traffic signals catalog documentation
 - **2018-11-04 16:08**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2018-12-16 15:23**: feat: add keyboard navigation shortcuts for question selection
 - **2018-12-17 17:37**: chore: update questions database with recent DOTM updates
 - **2018-12-17 19:57**: fix: adjust passing score threshold according to new rules
+- **2018-12-18 20:49**: fix: prevent option re-selection after submitting answer
