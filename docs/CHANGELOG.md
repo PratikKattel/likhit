@@ -1,4 +1,3 @@
-- **2018-11-04 16:08**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-05 18:08**: feat: add keyboard navigation shortcuts for question selection
 - **2018-11-06 16:56**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-06 20:51**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2018-12-18 20:49**: fix: prevent option re-selection after submitting answer
 - **2018-12-18 21:49**: docs: add instructions for Nepali driving license written exam
 - **2018-12-19 19:25**: feat: implement timer and score calculation for mock test
+- **2018-12-20 20:07**: feat: implement timer and score calculation for mock test
