@@ -1,4 +1,3 @@
-- **2018-11-07 09:34**: refactor: modularize traffic app logic and event listeners
 - **2018-11-08 13:09**: perf: lazy load signal graphics and question assets
 - **2018-11-09 09:52**: feat: add instant feedback and explanation on answer selection
 - **2018-11-09 14:19**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2018-12-22 16:33**: style: enhance traffic sign card layout and responsiveness
 - **2018-12-22 17:44**: chore: update questions database with recent DOTM updates
 - **2018-12-23 12:58**: feat: support multiple choice questions for motorcycle category
+- **2018-12-23 19:23**: refactor: modularize traffic app logic and event listeners
