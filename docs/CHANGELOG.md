@@ -1,4 +1,3 @@
-- **2018-11-09 09:52**: feat: add instant feedback and explanation on answer selection
 - **2018-11-09 14:19**: chore: organize assets and image directory structure
 - **2018-11-09 19:40**: style: polish typography and Nepali Unicode font rendering
 - **2018-11-10 15:06**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-12-23 12:58**: feat: support multiple choice questions for motorcycle category
 - **2018-12-23 19:23**: refactor: modularize traffic app logic and event listeners
 - **2018-12-23 22:05**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2018-12-24 10:18**: docs: update README with setup instructions and feature list
