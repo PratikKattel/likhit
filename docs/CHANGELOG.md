@@ -1,4 +1,3 @@
-- **2018-11-12 11:43**: style: polish typography and Nepali Unicode font rendering
 - **2018-11-13 20:39**: chore: update project metadata and build configuration
 - **2018-11-13 22:25**: feat: add instant feedback and explanation on answer selection
 - **2018-11-14 14:30**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2018-12-26 10:40**: refactor: modularize traffic app logic and event listeners
 - **2018-12-26 19:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-12-27 10:47**: feat: add keyboard navigation shortcuts for question selection
+- **2018-12-27 22:10**: feat: add regulatory traffic signs SVG graphics
