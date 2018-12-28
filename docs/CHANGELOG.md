@@ -1,4 +1,3 @@
-- **2018-11-13 20:39**: chore: update project metadata and build configuration
 - **2018-11-13 22:25**: feat: add instant feedback and explanation on answer selection
 - **2018-11-14 14:30**: fix: update DOTM Nepal license syllabus questions
 - **2018-11-15 18:54**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2018-12-26 19:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-12-27 10:47**: feat: add keyboard navigation shortcuts for question selection
 - **2018-12-27 22:10**: feat: add regulatory traffic signs SVG graphics
+- **2018-12-28 20:23**: fix: correct color specifications for mandatory traffic signs
