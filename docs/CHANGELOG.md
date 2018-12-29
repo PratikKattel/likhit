@@ -1,4 +1,3 @@
-- **2018-11-14 14:30**: fix: update DOTM Nepal license syllabus questions
 - **2018-11-15 18:54**: refactor: restructure question data schema for faster loading
 - **2018-11-15 21:50**: chore: update questions database with recent DOTM updates
 - **2018-11-16 11:15**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2018-12-27 22:10**: feat: add regulatory traffic signs SVG graphics
 - **2018-12-28 20:23**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-29 16:31**: feat: add category-specific practice modes
+- **2018-12-29 22:06**: style: improve dark/light mode and mobile UI responsiveness
