@@ -1,4 +1,3 @@
-- **2018-11-15 21:50**: chore: update questions database with recent DOTM updates
 - **2018-11-16 11:15**: feat: add result summary with passing threshold analysis
 - **2018-11-17 12:12**: fix: prevent option re-selection after submitting answer
 - **2018-11-18 09:04**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2018-12-29 16:31**: feat: add category-specific practice modes
 - **2018-12-29 22:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-12-30 10:38**: test: verify question extraction script against exam PDF
+- **2018-12-31 11:35**: feat: add result summary with passing threshold analysis
