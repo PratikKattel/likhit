@@ -1,4 +1,3 @@
-- **2018-11-17 12:12**: fix: prevent option re-selection after submitting answer
 - **2018-11-18 09:04**: feat: implement timer and score calculation for mock test
 - **2018-11-18 09:27**: feat: support multiple choice questions for motorcycle category
 - **2018-11-18 14:34**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2018-12-30 10:38**: test: verify question extraction script against exam PDF
 - **2018-12-31 11:35**: feat: add result summary with passing threshold analysis
 - **2019-01-01 16:09**: docs: improve code comments and API documentation
+- **2019-01-01 21:48**: fix: prevent option re-selection after submitting answer
