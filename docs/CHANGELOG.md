@@ -1,4 +1,3 @@
-- **2018-11-18 15:38**: feat: add instant feedback and explanation on answer selection
 - **2018-11-19 12:50**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-11-20 09:51**: chore: update questions database with recent DOTM updates
 - **2018-11-20 12:24**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-01-02 10:08**: fix: adjust passing score threshold according to new rules
 - **2019-01-02 11:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-01-02 21:40**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-01-03 22:28**: fix: typo in Nepali road safety regulations question
