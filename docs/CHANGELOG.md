@@ -1,4 +1,3 @@
-- **2018-11-20 15:39**: feat: implement timer and score calculation for mock test
 - **2018-11-21 14:06**: feat: add instant feedback and explanation on answer selection
 - **2018-11-21 20:20**: test: verify question extraction script against exam PDF
 - **2018-11-22 15:13**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-01-04 14:32**: fix: resolve layout shift during question transitions
 - **2019-01-04 17:37**: feat: add warning signs and informational road signs
 - **2019-01-04 21:31**: refactor: modularize traffic app logic and event listeners
+- **2019-01-04 21:50**: refactor: restructure question data schema for faster loading
