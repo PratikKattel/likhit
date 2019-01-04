@@ -1,4 +1,3 @@
-- **2018-11-20 09:51**: chore: update questions database with recent DOTM updates
 - **2018-11-20 12:24**: fix: adjust passing score threshold according to new rules
 - **2018-11-20 15:39**: feat: implement timer and score calculation for mock test
 - **2018-11-21 14:06**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-01-02 21:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-01-03 22:28**: fix: typo in Nepali road safety regulations question
 - **2019-01-04 14:32**: fix: resolve layout shift during question transitions
+- **2019-01-04 17:37**: feat: add warning signs and informational road signs
