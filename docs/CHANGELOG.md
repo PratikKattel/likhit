@@ -1,4 +1,3 @@
-- **2018-11-24 09:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-11-24 10:40**: style: polish typography and Nepali Unicode font rendering
 - **2018-11-24 12:01**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-25 11:59**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-01-05 21:22**: refactor: restructure question data schema for faster loading
 - **2019-01-06 11:45**: style: enhance traffic sign card layout and responsiveness
 - **2019-01-06 21:35**: docs: add instructions for Nepali driving license written exam
+- **2019-01-07 18:25**: fix: correct color specifications for mandatory traffic signs
