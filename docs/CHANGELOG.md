@@ -1,4 +1,3 @@
-- **2018-11-24 12:01**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-25 11:59**: perf: optimize image caching for traffic sign assets
 - **2018-11-26 21:53**: chore: update questions database with recent DOTM updates
 - **2018-11-27 11:56**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2019-01-06 21:35**: docs: add instructions for Nepali driving license written exam
 - **2019-01-07 18:25**: fix: correct color specifications for mandatory traffic signs
 - **2019-01-07 21:17**: docs: update traffic signals catalog documentation
+- **2019-01-08 12:51**: feat: add category-specific practice modes
