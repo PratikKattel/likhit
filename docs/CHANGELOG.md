@@ -1,4 +1,3 @@
-- **2018-11-27 11:56**: chore: format code style and clean up redundant variables
 - **2018-11-27 12:55**: perf: lazy load signal graphics and question assets
 - **2018-11-27 17:04**: refactor: restructure question data schema for faster loading
 - **2018-11-27 18:33**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-01-08 12:51**: feat: add category-specific practice modes
 - **2019-01-08 13:34**: docs: update traffic signals catalog documentation
 - **2019-01-09 10:36**: feat: add warning signs and informational road signs
+- **2019-01-09 12:19**: feat: add keyboard navigation shortcuts for question selection
