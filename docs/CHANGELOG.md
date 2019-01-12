@@ -1,4 +1,3 @@
-- **2018-11-28 20:49**: feat: add regulatory traffic signs SVG graphics
 - **2018-11-29 10:16**: perf: lazy load signal graphics and question assets
 - **2018-11-30 18:20**: perf: index question IDs for rapid lookup
 - **2018-12-01 10:53**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-01-10 16:39**: feat: add regulatory traffic signs SVG graphics
 - **2019-01-10 19:43**: chore: update project metadata and build configuration
 - **2019-01-11 19:57**: fix: adjust passing score threshold according to new rules
+- **2019-01-12 10:04**: fix: resolve layout shift during question transitions
