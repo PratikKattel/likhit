@@ -1,4 +1,3 @@
-- **2018-11-30 18:20**: perf: index question IDs for rapid lookup
 - **2018-12-01 10:53**: feat: add instant feedback and explanation on answer selection
 - **2018-12-01 12:13**: test: verify question extraction script against exam PDF
 - **2018-12-01 16:14**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-01-11 19:57**: fix: adjust passing score threshold according to new rules
 - **2019-01-12 10:04**: fix: resolve layout shift during question transitions
 - **2019-01-12 19:00**: feat: add search and filter by sign category
+- **2019-01-13 12:08**: feat: add warning signs and informational road signs
