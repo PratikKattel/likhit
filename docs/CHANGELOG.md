@@ -1,4 +1,3 @@
-- **2018-12-01 16:14**: docs: update traffic signals catalog documentation
 - **2018-12-02 11:03**: feat: add warning signs and informational road signs
 - **2018-12-03 09:05**: feat: add keyboard navigation shortcuts for question selection
 - **2018-12-03 22:29**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-01-13 12:08**: feat: add warning signs and informational road signs
 - **2019-01-13 17:51**: feat: implement timer and score calculation for mock test
 - **2019-01-13 18:02**: fix: prevent option re-selection after submitting answer
+- **2019-01-13 20:35**: docs: improve code comments and API documentation
