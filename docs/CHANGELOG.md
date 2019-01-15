@@ -1,4 +1,3 @@
-- **2018-12-03 22:29**: feat: add warning signs and informational road signs
 - **2018-12-04 16:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-12-04 17:33**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-05 12:38**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-01-13 20:35**: docs: improve code comments and API documentation
 - **2019-01-14 10:33**: perf: lazy load signal graphics and question assets
 - **2019-01-14 15:21**: test: verify question extraction script against exam PDF
+- **2019-01-15 11:31**: docs: improve code comments and API documentation
