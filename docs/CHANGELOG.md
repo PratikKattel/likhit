@@ -1,4 +1,3 @@
-- **2018-12-05 12:38**: refactor: optimize SVG rendering for road signs
 - **2018-12-06 10:16**: fix: typo in Nepali road safety regulations question
 - **2018-12-06 20:31**: fix: update DOTM Nepal license syllabus questions
 - **2018-12-07 16:19**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-01-15 11:31**: docs: improve code comments and API documentation
 - **2019-01-15 18:13**: fix: adjust passing score threshold according to new rules
 - **2019-01-16 11:21**: refactor: modularize traffic app logic and event listeners
+- **2019-01-17 13:32**: docs: update traffic signals catalog documentation
