@@ -1,4 +1,3 @@
-- **2018-12-06 20:31**: fix: update DOTM Nepal license syllabus questions
 - **2018-12-07 16:19**: fix: resolve layout shift during question transitions
 - **2018-12-08 11:56**: feat: add instant feedback and explanation on answer selection
 - **2018-12-08 12:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-01-16 11:21**: refactor: modularize traffic app logic and event listeners
 - **2019-01-17 13:32**: docs: update traffic signals catalog documentation
 - **2019-01-17 13:34**: style: enhance traffic sign card layout and responsiveness
+- **2019-01-18 19:11**: refactor: modularize traffic app logic and event listeners
