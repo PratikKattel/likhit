@@ -1,4 +1,3 @@
-- **2018-12-08 11:56**: feat: add instant feedback and explanation on answer selection
 - **2018-12-08 12:27**: chore: update questions database with recent DOTM updates
 - **2018-12-08 13:32**: fix: prevent option re-selection after submitting answer
 - **2018-12-09 18:10**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-01-17 13:34**: style: enhance traffic sign card layout and responsiveness
 - **2019-01-18 19:11**: refactor: modularize traffic app logic and event listeners
 - **2019-01-19 15:16**: chore: organize assets and image directory structure
+- **2019-01-19 19:15**: feat: add result summary with passing threshold analysis
