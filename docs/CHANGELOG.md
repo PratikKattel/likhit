@@ -1,4 +1,3 @@
-- **2018-12-08 13:32**: fix: prevent option re-selection after submitting answer
 - **2018-12-09 18:10**: fix: adjust passing score threshold according to new rules
 - **2018-12-10 12:33**: docs: update README with setup instructions and feature list
 - **2018-12-11 20:28**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-01-19 15:16**: chore: organize assets and image directory structure
 - **2019-01-19 19:15**: feat: add result summary with passing threshold analysis
 - **2019-01-20 19:58**: chore: format code style and clean up redundant variables
+- **2019-01-21 16:25**: docs: improve code comments and API documentation
