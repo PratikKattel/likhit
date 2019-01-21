@@ -1,4 +1,3 @@
-- **2018-12-09 18:10**: fix: adjust passing score threshold according to new rules
 - **2018-12-10 12:33**: docs: update README with setup instructions and feature list
 - **2018-12-11 20:28**: docs: improve code comments and API documentation
 - **2018-12-12 14:41**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-01-19 19:15**: feat: add result summary with passing threshold analysis
 - **2019-01-20 19:58**: chore: format code style and clean up redundant variables
 - **2019-01-21 16:25**: docs: improve code comments and API documentation
+- **2019-01-21 17:26**: feat: implement timer and score calculation for mock test
