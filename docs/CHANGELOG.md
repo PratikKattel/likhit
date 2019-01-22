@@ -1,4 +1,3 @@
-- **2018-12-11 20:28**: docs: improve code comments and API documentation
 - **2018-12-12 14:41**: style: polish typography and Nepali Unicode font rendering
 - **2018-12-13 16:26**: feat: add search and filter by sign category
 - **2018-12-14 11:07**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2019-01-21 16:25**: docs: improve code comments and API documentation
 - **2019-01-21 17:26**: feat: implement timer and score calculation for mock test
 - **2019-01-22 16:24**: docs: add instructions for Nepali driving license written exam
+- **2019-01-22 20:26**: style: improve dark/light mode and mobile UI responsiveness
