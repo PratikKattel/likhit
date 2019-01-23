@@ -1,4 +1,3 @@
-- **2018-12-14 16:28**: test: verify question extraction script against exam PDF
 - **2018-12-14 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-15 10:22**: feat: add regulatory traffic signs SVG graphics
 - **2018-12-15 14:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-01-23 09:24**: fix: adjust passing score threshold according to new rules
 - **2019-01-23 10:54**: test: verify question extraction script against exam PDF
 - **2019-01-23 11:08**: docs: update traffic signals catalog documentation
+- **2019-01-23 14:54**: refactor: restructure question data schema for faster loading
