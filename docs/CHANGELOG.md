@@ -1,4 +1,3 @@
-- **2018-12-13 16:26**: feat: add search and filter by sign category
 - **2018-12-14 11:07**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-14 16:28**: test: verify question extraction script against exam PDF
 - **2018-12-14 19:59**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2019-01-22 16:24**: docs: add instructions for Nepali driving license written exam
 - **2019-01-22 20:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-01-23 09:24**: fix: adjust passing score threshold according to new rules
+- **2019-01-23 10:54**: test: verify question extraction script against exam PDF
