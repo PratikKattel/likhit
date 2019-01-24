@@ -1,4 +1,3 @@
-- **2018-12-15 10:22**: feat: add regulatory traffic signs SVG graphics
 - **2018-12-15 14:02**: feat: add warning signs and informational road signs
 - **2018-12-15 18:50**: docs: add instructions for Nepali driving license written exam
 - **2018-12-16 10:32**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-01-23 11:08**: docs: update traffic signals catalog documentation
 - **2019-01-23 14:54**: refactor: restructure question data schema for faster loading
 - **2019-01-24 12:43**: docs: improve code comments and API documentation
+- **2019-01-24 19:21**: feat: add keyboard navigation shortcuts for question selection
