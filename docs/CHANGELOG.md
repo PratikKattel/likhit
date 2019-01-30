@@ -1,4 +1,3 @@
-- **2018-12-17 19:57**: fix: adjust passing score threshold according to new rules
 - **2018-12-18 20:49**: fix: prevent option re-selection after submitting answer
 - **2018-12-18 21:49**: docs: add instructions for Nepali driving license written exam
 - **2018-12-19 19:25**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-01-29 20:55**: refactor: optimize SVG rendering for road signs
 - **2019-01-29 22:25**: docs: add instructions for Nepali driving license written exam
 - **2019-01-30 12:35**: test: verify question extraction script against exam PDF
+- **2019-01-30 14:01**: fix: resolve layout shift during question transitions
