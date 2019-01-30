@@ -1,4 +1,3 @@
-- **2018-12-18 20:49**: fix: prevent option re-selection after submitting answer
 - **2018-12-18 21:49**: docs: add instructions for Nepali driving license written exam
 - **2018-12-19 19:25**: feat: implement timer and score calculation for mock test
 - **2018-12-20 20:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-01-29 22:25**: docs: add instructions for Nepali driving license written exam
 - **2019-01-30 12:35**: test: verify question extraction script against exam PDF
 - **2019-01-30 14:01**: fix: resolve layout shift during question transitions
+- **2019-01-30 15:16**: feat: support multiple choice questions for motorcycle category
