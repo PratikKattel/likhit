@@ -1,4 +1,3 @@
-- **2018-12-22 16:33**: style: enhance traffic sign card layout and responsiveness
 - **2018-12-22 17:44**: chore: update questions database with recent DOTM updates
 - **2018-12-23 12:58**: feat: support multiple choice questions for motorcycle category
 - **2018-12-23 19:23**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-01-31 20:46**: chore: format code style and clean up redundant variables
 - **2019-02-01 11:43**: feat: add keyboard navigation shortcuts for question selection
 - **2019-02-01 13:26**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-02-01 22:08**: feat: add instant feedback and explanation on answer selection
