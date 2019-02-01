@@ -1,4 +1,3 @@
-- **2018-12-20 20:07**: feat: implement timer and score calculation for mock test
 - **2018-12-21 21:23**: docs: add instructions for Nepali driving license written exam
 - **2018-12-22 16:33**: style: enhance traffic sign card layout and responsiveness
 - **2018-12-22 17:44**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-01-30 15:16**: feat: support multiple choice questions for motorcycle category
 - **2019-01-31 10:41**: fix: resolve layout shift during question transitions
 - **2019-01-31 20:46**: chore: format code style and clean up redundant variables
+- **2019-02-01 11:43**: feat: add keyboard navigation shortcuts for question selection
