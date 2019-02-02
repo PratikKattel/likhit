@@ -1,4 +1,3 @@
-- **2018-12-23 12:58**: feat: support multiple choice questions for motorcycle category
 - **2018-12-23 19:23**: refactor: modularize traffic app logic and event listeners
 - **2018-12-23 22:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-12-24 10:18**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-02-01 13:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-01 22:08**: feat: add instant feedback and explanation on answer selection
 - **2019-02-02 09:10**: fix: adjust passing score threshold according to new rules
+- **2019-02-02 16:39**: refactor: optimize SVG rendering for road signs
