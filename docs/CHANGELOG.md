@@ -1,4 +1,3 @@
-- **2018-12-27 10:47**: feat: add keyboard navigation shortcuts for question selection
 - **2018-12-27 22:10**: feat: add regulatory traffic signs SVG graphics
 - **2018-12-28 20:23**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-29 16:31**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-02-04 11:20**: feat: support multiple choice questions for motorcycle category
 - **2019-02-04 17:14**: feat: add category A and B traffic test questions
 - **2019-02-04 19:40**: docs: add instructions for Nepali driving license written exam
+- **2019-02-04 21:54**: style: polish typography and Nepali Unicode font rendering
