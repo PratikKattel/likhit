@@ -1,4 +1,3 @@
-- **2018-12-25 20:38**: fix: typo in Nepali road safety regulations question
 - **2018-12-26 10:40**: refactor: modularize traffic app logic and event listeners
 - **2018-12-26 19:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2018-12-27 10:47**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-02-03 13:37**: chore: update project metadata and build configuration
 - **2019-02-03 15:20**: style: enhance traffic sign card layout and responsiveness
 - **2019-02-03 21:36**: perf: index question IDs for rapid lookup
+- **2019-02-04 11:20**: feat: support multiple choice questions for motorcycle category
