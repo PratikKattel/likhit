@@ -1,4 +1,3 @@
-- **2018-12-29 16:31**: feat: add category-specific practice modes
 - **2018-12-29 22:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-12-30 10:38**: test: verify question extraction script against exam PDF
 - **2018-12-31 11:35**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2019-02-04 21:54**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-05 10:39**: refactor: restructure question data schema for faster loading
 - **2019-02-05 11:42**: feat: add category A and B traffic test questions
+- **2019-02-05 17:01**: feat: implement timer and score calculation for mock test
