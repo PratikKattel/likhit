@@ -1,4 +1,3 @@
-- **2018-12-28 20:23**: fix: correct color specifications for mandatory traffic signs
 - **2018-12-29 16:31**: feat: add category-specific practice modes
 - **2018-12-29 22:06**: style: improve dark/light mode and mobile UI responsiveness
 - **2018-12-30 10:38**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-02-04 19:40**: docs: add instructions for Nepali driving license written exam
 - **2019-02-04 21:54**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-05 10:39**: refactor: restructure question data schema for faster loading
+- **2019-02-05 11:42**: feat: add category A and B traffic test questions
