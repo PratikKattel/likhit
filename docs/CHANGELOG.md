@@ -1,4 +1,3 @@
-- **2019-01-01 16:09**: docs: improve code comments and API documentation
 - **2019-01-01 21:48**: fix: prevent option re-selection after submitting answer
 - **2019-01-02 10:08**: fix: adjust passing score threshold according to new rules
 - **2019-01-02 11:29**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-02-06 21:10**: feat: add search and filter by sign category
 - **2019-02-06 21:57**: feat: add search and filter by sign category
 - **2019-02-07 12:41**: chore: organize assets and image directory structure
+- **2019-02-07 22:10**: feat: add result summary with passing threshold analysis
