@@ -1,4 +1,3 @@
-- **2019-01-02 10:08**: fix: adjust passing score threshold according to new rules
 - **2019-01-02 11:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-01-02 21:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-01-03 22:28**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2019-02-07 12:41**: chore: organize assets and image directory structure
 - **2019-02-07 22:10**: feat: add result summary with passing threshold analysis
 - **2019-02-08 19:38**: docs: update traffic signals catalog documentation
+- **2019-02-09 16:10**: refactor: clean up unused CSS classes and optimize stylesheet
