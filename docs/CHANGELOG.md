@@ -1,4 +1,3 @@
-- **2019-01-03 22:28**: fix: typo in Nepali road safety regulations question
 - **2019-01-04 14:32**: fix: resolve layout shift during question transitions
 - **2019-01-04 17:37**: feat: add warning signs and informational road signs
 - **2019-01-04 21:31**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-02-09 16:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-09 20:52**: feat: add category A and B traffic test questions
 - **2019-02-10 20:08**: chore: update questions database with recent DOTM updates
+- **2019-02-11 12:21**: fix: adjust passing score threshold according to new rules
