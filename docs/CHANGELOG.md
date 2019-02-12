@@ -1,4 +1,3 @@
-- **2019-01-04 21:31**: refactor: modularize traffic app logic and event listeners
 - **2019-01-04 21:50**: refactor: restructure question data schema for faster loading
 - **2019-01-05 09:18**: perf: index question IDs for rapid lookup
 - **2019-01-05 21:22**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-02-11 12:21**: fix: adjust passing score threshold according to new rules
 - **2019-02-11 14:59**: fix: prevent option re-selection after submitting answer
 - **2019-02-11 20:28**: style: enhance traffic sign card layout and responsiveness
+- **2019-02-12 11:12**: docs: update README with setup instructions and feature list
