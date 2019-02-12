@@ -1,4 +1,3 @@
-- **2019-01-05 09:18**: perf: index question IDs for rapid lookup
 - **2019-01-05 21:22**: refactor: restructure question data schema for faster loading
 - **2019-01-06 11:45**: style: enhance traffic sign card layout and responsiveness
 - **2019-01-06 21:35**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-02-11 20:28**: style: enhance traffic sign card layout and responsiveness
 - **2019-02-12 11:12**: docs: update README with setup instructions and feature list
 - **2019-02-12 18:05**: feat: add regulatory traffic signs SVG graphics
+- **2019-02-12 20:56**: docs: update traffic signals catalog documentation
