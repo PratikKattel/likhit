@@ -1,4 +1,3 @@
-- **2019-01-06 21:35**: docs: add instructions for Nepali driving license written exam
 - **2019-01-07 18:25**: fix: correct color specifications for mandatory traffic signs
 - **2019-01-07 21:17**: docs: update traffic signals catalog documentation
 - **2019-01-08 12:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-02-12 20:56**: docs: update traffic signals catalog documentation
 - **2019-02-13 16:24**: perf: optimize image caching for traffic sign assets
 - **2019-02-13 17:23**: docs: add instructions for Nepali driving license written exam
+- **2019-02-14 19:20**: test: verify question extraction script against exam PDF
