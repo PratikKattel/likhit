@@ -1,4 +1,3 @@
-- **2019-01-09 10:36**: feat: add warning signs and informational road signs
 - **2019-01-09 12:19**: feat: add keyboard navigation shortcuts for question selection
 - **2019-01-10 16:39**: feat: add regulatory traffic signs SVG graphics
 - **2019-01-10 19:43**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-02-16 13:45**: feat: add category-specific practice modes
 - **2019-02-17 09:07**: refactor: restructure question data schema for faster loading
 - **2019-02-17 11:46**: test: verify question extraction script against exam PDF
+- **2019-02-17 12:10**: refactor: optimize SVG rendering for road signs
