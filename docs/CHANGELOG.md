@@ -1,4 +1,3 @@
-- **2019-01-10 16:39**: feat: add regulatory traffic signs SVG graphics
 - **2019-01-10 19:43**: chore: update project metadata and build configuration
 - **2019-01-11 19:57**: fix: adjust passing score threshold according to new rules
 - **2019-01-12 10:04**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-02-17 11:46**: test: verify question extraction script against exam PDF
 - **2019-02-17 12:10**: refactor: optimize SVG rendering for road signs
 - **2019-02-17 13:05**: fix: adjust passing score threshold according to new rules
+- **2019-02-18 18:08**: refactor: modularize traffic app logic and event listeners
