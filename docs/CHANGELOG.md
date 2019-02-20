@@ -1,4 +1,3 @@
-- **2019-01-12 10:04**: fix: resolve layout shift during question transitions
 - **2019-01-12 19:00**: feat: add search and filter by sign category
 - **2019-01-13 12:08**: feat: add warning signs and informational road signs
 - **2019-01-13 17:51**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-02-18 18:08**: refactor: modularize traffic app logic and event listeners
 - **2019-02-19 15:01**: chore: update questions database with recent DOTM updates
 - **2019-02-20 09:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-02-20 15:46**: perf: optimize image caching for traffic sign assets
