@@ -1,4 +1,3 @@
-- **2019-01-13 20:35**: docs: improve code comments and API documentation
 - **2019-01-14 10:33**: perf: lazy load signal graphics and question assets
 - **2019-01-14 15:21**: test: verify question extraction script against exam PDF
 - **2019-01-15 11:31**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-02-21 16:54**: docs: improve code comments and API documentation
 - **2019-02-22 12:03**: test: verify question extraction script against exam PDF
 - **2019-02-22 17:45**: test: verify question extraction script against exam PDF
+- **2019-02-23 11:01**: feat: support multiple choice questions for motorcycle category
