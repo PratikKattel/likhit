@@ -1,4 +1,3 @@
-- **2019-01-17 13:34**: style: enhance traffic sign card layout and responsiveness
 - **2019-01-18 19:11**: refactor: modularize traffic app logic and event listeners
 - **2019-01-19 15:16**: chore: organize assets and image directory structure
 - **2019-01-19 19:15**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2019-02-24 13:54**: chore: update project metadata and build configuration
 - **2019-02-25 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2019-02-26 19:56**: refactor: restructure question data schema for faster loading
+- **2019-02-26 20:25**: feat: add keyboard navigation shortcuts for question selection
