@@ -1,4 +1,3 @@
-- **2019-01-21 16:25**: docs: improve code comments and API documentation
 - **2019-01-21 17:26**: feat: implement timer and score calculation for mock test
 - **2019-01-22 16:24**: docs: add instructions for Nepali driving license written exam
 - **2019-01-22 20:26**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-02-27 16:56**: feat: add search and filter by sign category
 - **2019-02-27 19:59**: refactor: optimize SVG rendering for road signs
 - **2019-02-28 11:17**: fix: resolve layout shift during question transitions
+- **2019-02-28 16:14**: style: improve dark/light mode and mobile UI responsiveness
