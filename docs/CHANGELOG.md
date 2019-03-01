@@ -1,4 +1,3 @@
-- **2019-01-21 17:26**: feat: implement timer and score calculation for mock test
 - **2019-01-22 16:24**: docs: add instructions for Nepali driving license written exam
 - **2019-01-22 20:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-01-23 09:24**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-02-27 19:59**: refactor: optimize SVG rendering for road signs
 - **2019-02-28 11:17**: fix: resolve layout shift during question transitions
 - **2019-02-28 16:14**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-03-01 13:22**: style: enhance traffic sign card layout and responsiveness
