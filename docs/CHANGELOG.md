@@ -1,4 +1,3 @@
-- **2019-01-22 20:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-01-23 09:24**: fix: adjust passing score threshold according to new rules
 - **2019-01-23 10:54**: test: verify question extraction script against exam PDF
 - **2019-01-23 11:08**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-02-28 16:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-03-01 13:22**: style: enhance traffic sign card layout and responsiveness
 - **2019-03-01 18:05**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-03-02 14:35**: perf: lazy load signal graphics and question assets
