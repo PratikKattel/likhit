@@ -1,4 +1,3 @@
-- **2019-01-23 10:54**: test: verify question extraction script against exam PDF
 - **2019-01-23 11:08**: docs: update traffic signals catalog documentation
 - **2019-01-23 14:54**: refactor: restructure question data schema for faster loading
 - **2019-01-24 12:43**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-03-01 18:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-03-02 14:35**: perf: lazy load signal graphics and question assets
 - **2019-03-03 19:30**: docs: update README with setup instructions and feature list
+- **2019-03-03 21:52**: refactor: modularize traffic app logic and event listeners
