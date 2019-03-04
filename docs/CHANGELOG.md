@@ -1,4 +1,3 @@
-- **2019-01-23 11:08**: docs: update traffic signals catalog documentation
 - **2019-01-23 14:54**: refactor: restructure question data schema for faster loading
 - **2019-01-24 12:43**: docs: improve code comments and API documentation
 - **2019-01-24 19:21**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-03-02 14:35**: perf: lazy load signal graphics and question assets
 - **2019-03-03 19:30**: docs: update README with setup instructions and feature list
 - **2019-03-03 21:52**: refactor: modularize traffic app logic and event listeners
+- **2019-03-04 17:52**: feat: add search and filter by sign category
