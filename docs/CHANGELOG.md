@@ -1,4 +1,3 @@
-- **2019-01-24 19:21**: feat: add keyboard navigation shortcuts for question selection
 - **2019-01-25 15:41**: fix: update DOTM Nepal license syllabus questions
 - **2019-01-26 15:32**: feat: add category A and B traffic test questions
 - **2019-01-27 19:33**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2019-03-04 17:52**: feat: add search and filter by sign category
 - **2019-03-05 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2019-03-05 21:44**: perf: optimize image caching for traffic sign assets
+- **2019-03-06 09:56**: chore: update questions database with recent DOTM updates
