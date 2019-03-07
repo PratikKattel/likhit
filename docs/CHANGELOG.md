@@ -1,4 +1,3 @@
-- **2019-01-26 15:32**: feat: add category A and B traffic test questions
 - **2019-01-27 19:33**: feat: support multiple choice questions for motorcycle category
 - **2019-01-28 15:25**: test: verify question extraction script against exam PDF
 - **2019-01-29 20:55**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-03-05 21:44**: perf: optimize image caching for traffic sign assets
 - **2019-03-06 09:56**: chore: update questions database with recent DOTM updates
 - **2019-03-06 14:58**: chore: format code style and clean up redundant variables
+- **2019-03-07 17:17**: feat: add keyboard navigation shortcuts for question selection
