@@ -1,4 +1,3 @@
-- **2019-01-28 15:25**: test: verify question extraction script against exam PDF
 - **2019-01-29 20:55**: refactor: optimize SVG rendering for road signs
 - **2019-01-29 22:25**: docs: add instructions for Nepali driving license written exam
 - **2019-01-30 12:35**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-03-06 14:58**: chore: format code style and clean up redundant variables
 - **2019-03-07 17:17**: feat: add keyboard navigation shortcuts for question selection
 - **2019-03-08 16:57**: fix: adjust passing score threshold according to new rules
+- **2019-03-08 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
