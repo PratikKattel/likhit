@@ -1,4 +1,3 @@
-- **2019-01-30 14:01**: fix: resolve layout shift during question transitions
 - **2019-01-30 15:16**: feat: support multiple choice questions for motorcycle category
 - **2019-01-31 10:41**: fix: resolve layout shift during question transitions
 - **2019-01-31 20:46**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2019-03-08 20:39**: refactor: optimize SVG rendering for road signs
 - **2019-03-09 09:33**: chore: update project metadata and build configuration
 - **2019-03-09 18:52**: feat: add regulatory traffic signs SVG graphics
+- **2019-03-10 20:07**: perf: optimize image caching for traffic sign assets
