@@ -1,4 +1,3 @@
-- **2019-01-31 10:41**: fix: resolve layout shift during question transitions
 - **2019-01-31 20:46**: chore: format code style and clean up redundant variables
 - **2019-02-01 11:43**: feat: add keyboard navigation shortcuts for question selection
 - **2019-02-01 13:26**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-03-09 18:52**: feat: add regulatory traffic signs SVG graphics
 - **2019-03-10 20:07**: perf: optimize image caching for traffic sign assets
 - **2019-03-10 20:52**: feat: add search and filter by sign category
+- **2019-03-10 21:46**: feat: add warning signs and informational road signs
