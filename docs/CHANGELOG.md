@@ -1,4 +1,3 @@
-- **2019-02-01 13:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-01 22:08**: feat: add instant feedback and explanation on answer selection
 - **2019-02-02 09:10**: fix: adjust passing score threshold according to new rules
 - **2019-02-02 16:39**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-03-10 21:46**: feat: add warning signs and informational road signs
 - **2019-03-11 19:26**: feat: add category-specific practice modes
 - **2019-03-12 14:05**: fix: typo in Nepali road safety regulations question
+- **2019-03-12 18:34**: perf: index question IDs for rapid lookup
