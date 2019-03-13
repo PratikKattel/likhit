@@ -1,4 +1,3 @@
-- **2019-02-03 10:21**: docs: update README with setup instructions and feature list
 - **2019-02-03 13:37**: chore: update project metadata and build configuration
 - **2019-02-03 15:20**: style: enhance traffic sign card layout and responsiveness
 - **2019-02-03 21:36**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-03-13 11:49**: feat: add category A and B traffic test questions
 - **2019-03-13 21:15**: refactor: optimize SVG rendering for road signs
 - **2019-03-13 22:26**: docs: add instructions for Nepali driving license written exam
+- **2019-03-13 22:28**: perf: index question IDs for rapid lookup
