@@ -1,4 +1,3 @@
-- **2019-02-03 15:20**: style: enhance traffic sign card layout and responsiveness
 - **2019-02-03 21:36**: perf: index question IDs for rapid lookup
 - **2019-02-04 11:20**: feat: support multiple choice questions for motorcycle category
 - **2019-02-04 17:14**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2019-03-13 22:26**: docs: add instructions for Nepali driving license written exam
 - **2019-03-13 22:28**: perf: index question IDs for rapid lookup
 - **2019-03-14 14:14**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-03-15 09:08**: fix: prevent option re-selection after submitting answer
