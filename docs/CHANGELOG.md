@@ -1,4 +1,3 @@
-- **2019-02-04 17:14**: feat: add category A and B traffic test questions
 - **2019-02-04 19:40**: docs: add instructions for Nepali driving license written exam
 - **2019-02-04 21:54**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-05 10:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-03-15 09:08**: fix: prevent option re-selection after submitting answer
 - **2019-03-15 17:03**: test: verify question extraction script against exam PDF
 - **2019-03-16 22:03**: style: polish typography and Nepali Unicode font rendering
+- **2019-03-16 22:18**: feat: support multiple choice questions for motorcycle category
