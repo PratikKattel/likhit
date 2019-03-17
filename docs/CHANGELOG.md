@@ -1,4 +1,3 @@
-- **2019-02-05 10:39**: refactor: restructure question data schema for faster loading
 - **2019-02-05 11:42**: feat: add category A and B traffic test questions
 - **2019-02-05 17:01**: feat: implement timer and score calculation for mock test
 - **2019-02-06 21:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-03-16 22:18**: feat: support multiple choice questions for motorcycle category
 - **2019-03-17 09:20**: perf: lazy load signal graphics and question assets
 - **2019-03-17 13:14**: fix: resolve layout shift during question transitions
+- **2019-03-17 21:17**: chore: organize assets and image directory structure
