@@ -1,4 +1,3 @@
-- **2019-02-05 17:01**: feat: implement timer and score calculation for mock test
 - **2019-02-06 21:10**: feat: add search and filter by sign category
 - **2019-02-06 21:57**: feat: add search and filter by sign category
 - **2019-02-07 12:41**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-03-17 13:14**: fix: resolve layout shift during question transitions
 - **2019-03-17 21:17**: chore: organize assets and image directory structure
 - **2019-03-18 10:25**: chore: update project metadata and build configuration
+- **2019-03-19 10:06**: docs: add instructions for Nepali driving license written exam
