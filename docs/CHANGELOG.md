@@ -1,4 +1,3 @@
-- **2019-02-06 21:57**: feat: add search and filter by sign category
 - **2019-02-07 12:41**: chore: organize assets and image directory structure
 - **2019-02-07 22:10**: feat: add result summary with passing threshold analysis
 - **2019-02-08 19:38**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-03-18 10:25**: chore: update project metadata and build configuration
 - **2019-03-19 10:06**: docs: add instructions for Nepali driving license written exam
 - **2019-03-19 12:49**: feat: add keyboard navigation shortcuts for question selection
+- **2019-03-19 13:25**: feat: add result summary with passing threshold analysis
