@@ -1,4 +1,3 @@
-- **2019-02-09 16:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-09 20:52**: feat: add category A and B traffic test questions
 - **2019-02-10 20:08**: chore: update questions database with recent DOTM updates
 - **2019-02-11 12:21**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-03-19 14:32**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-20 10:07**: docs: improve code comments and API documentation
 - **2019-03-20 10:43**: style: polish typography and Nepali Unicode font rendering
+- **2019-03-20 16:53**: test: verify question extraction script against exam PDF
