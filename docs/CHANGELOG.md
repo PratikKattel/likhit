@@ -1,4 +1,3 @@
-- **2019-02-11 12:21**: fix: adjust passing score threshold according to new rules
 - **2019-02-11 14:59**: fix: prevent option re-selection after submitting answer
 - **2019-02-11 20:28**: style: enhance traffic sign card layout and responsiveness
 - **2019-02-12 11:12**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-03-20 16:53**: test: verify question extraction script against exam PDF
 - **2019-03-21 09:33**: perf: lazy load signal graphics and question assets
 - **2019-03-21 10:50**: style: polish typography and Nepali Unicode font rendering
+- **2019-03-21 17:04**: feat: add regulatory traffic signs SVG graphics
