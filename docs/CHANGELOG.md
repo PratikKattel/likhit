@@ -1,4 +1,3 @@
-- **2019-02-13 17:23**: docs: add instructions for Nepali driving license written exam
 - **2019-02-14 19:20**: test: verify question extraction script against exam PDF
 - **2019-02-15 13:53**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-16 13:45**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-03-24 13:50**: refactor: restructure question data schema for faster loading
 - **2019-03-25 21:02**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-26 10:20**: style: polish typography and Nepali Unicode font rendering
+- **2019-03-27 11:12**: refactor: restructure question data schema for faster loading
