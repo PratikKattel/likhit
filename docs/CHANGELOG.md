@@ -1,4 +1,3 @@
-- **2019-02-17 09:07**: refactor: restructure question data schema for faster loading
 - **2019-02-17 11:46**: test: verify question extraction script against exam PDF
 - **2019-02-17 12:10**: refactor: optimize SVG rendering for road signs
 - **2019-02-17 13:05**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-03-28 12:03**: docs: improve code comments and API documentation
 - **2019-03-28 13:08**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-03-28 16:07**: refactor: restructure question data schema for faster loading
+- **2019-03-28 19:14**: feat: add warning signs and informational road signs
