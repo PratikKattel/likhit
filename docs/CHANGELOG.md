@@ -1,4 +1,3 @@
-- **2019-02-15 13:53**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-16 13:45**: feat: add category-specific practice modes
 - **2019-02-17 09:07**: refactor: restructure question data schema for faster loading
 - **2019-02-17 11:46**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-03-26 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-27 11:12**: refactor: restructure question data schema for faster loading
 - **2019-03-28 12:03**: docs: improve code comments and API documentation
+- **2019-03-28 13:08**: refactor: clean up unused CSS classes and optimize stylesheet
