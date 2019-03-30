@@ -1,4 +1,3 @@
-- **2019-02-17 13:05**: fix: adjust passing score threshold according to new rules
 - **2019-02-18 18:08**: refactor: modularize traffic app logic and event listeners
 - **2019-02-19 15:01**: chore: update questions database with recent DOTM updates
 - **2019-02-20 09:52**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-03-28 19:14**: feat: add warning signs and informational road signs
 - **2019-03-29 13:18**: test: verify question extraction script against exam PDF
 - **2019-03-29 21:24**: feat: implement timer and score calculation for mock test
+- **2019-03-30 18:23**: docs: add instructions for Nepali driving license written exam
