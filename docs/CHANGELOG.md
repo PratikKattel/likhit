@@ -1,4 +1,3 @@
-- **2019-02-20 09:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-20 15:46**: perf: optimize image caching for traffic sign assets
 - **2019-02-21 14:15**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-21 16:54**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-03-30 18:23**: docs: add instructions for Nepali driving license written exam
 - **2019-03-31 09:37**: chore: organize assets and image directory structure
 - **2019-03-31 17:38**: feat: add keyboard navigation shortcuts for question selection
+- **2019-04-01 21:26**: docs: update README with setup instructions and feature list
