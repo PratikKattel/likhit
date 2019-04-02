@@ -1,4 +1,3 @@
-- **2019-02-21 14:15**: style: polish typography and Nepali Unicode font rendering
 - **2019-02-21 16:54**: docs: improve code comments and API documentation
 - **2019-02-22 12:03**: test: verify question extraction script against exam PDF
 - **2019-02-22 17:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-03-31 17:38**: feat: add keyboard navigation shortcuts for question selection
 - **2019-04-01 21:26**: docs: update README with setup instructions and feature list
 - **2019-04-01 21:39**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-04-02 09:53**: docs: improve code comments and API documentation
