@@ -1,4 +1,3 @@
-- **2019-02-23 15:45**: feat: add result summary with passing threshold analysis
 - **2019-02-23 19:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-02-24 09:44**: test: verify question extraction script against exam PDF
 - **2019-02-24 13:54**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-04-04 11:08**: refactor: restructure question data schema for faster loading
 - **2019-04-04 16:34**: feat: add instant feedback and explanation on answer selection
 - **2019-04-04 17:15**: test: verify question extraction script against exam PDF
+- **2019-04-05 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
