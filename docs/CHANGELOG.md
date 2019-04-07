@@ -1,4 +1,3 @@
-- **2019-02-24 13:54**: chore: update project metadata and build configuration
 - **2019-02-25 21:17**: feat: add regulatory traffic signs SVG graphics
 - **2019-02-26 19:56**: refactor: restructure question data schema for faster loading
 - **2019-02-26 20:25**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-04-05 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-04-06 14:50**: perf: lazy load signal graphics and question assets
 - **2019-04-06 18:21**: feat: add category-specific practice modes
+- **2019-04-07 12:32**: fix: resolve layout shift during question transitions
