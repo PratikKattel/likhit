@@ -1,4 +1,3 @@
-- **2019-02-26 19:56**: refactor: restructure question data schema for faster loading
 - **2019-02-26 20:25**: feat: add keyboard navigation shortcuts for question selection
 - **2019-02-27 11:36**: fix: correct color specifications for mandatory traffic signs
 - **2019-02-27 16:56**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-04-06 18:21**: feat: add category-specific practice modes
 - **2019-04-07 12:32**: fix: resolve layout shift during question transitions
 - **2019-04-07 15:24**: feat: add instant feedback and explanation on answer selection
+- **2019-04-08 15:49**: fix: typo in Nepali road safety regulations question
