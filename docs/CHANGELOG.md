@@ -1,4 +1,3 @@
-- **2019-03-02 14:35**: perf: lazy load signal graphics and question assets
 - **2019-03-03 19:30**: docs: update README with setup instructions and feature list
 - **2019-03-03 21:52**: refactor: modularize traffic app logic and event listeners
 - **2019-03-04 17:52**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-04-10 12:08**: refactor: modularize traffic app logic and event listeners
 - **2019-04-10 16:54**: feat: add category A and B traffic test questions
 - **2019-04-11 13:04**: feat: add keyboard navigation shortcuts for question selection
+- **2019-04-11 15:47**: test: verify question extraction script against exam PDF
