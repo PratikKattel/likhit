@@ -1,4 +1,3 @@
-- **2019-03-05 21:44**: perf: optimize image caching for traffic sign assets
 - **2019-03-06 09:56**: chore: update questions database with recent DOTM updates
 - **2019-03-06 14:58**: chore: format code style and clean up redundant variables
 - **2019-03-07 17:17**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-04-12 21:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-04-13 12:40**: chore: update project metadata and build configuration
 - **2019-04-13 19:06**: feat: add warning signs and informational road signs
+- **2019-04-14 09:16**: perf: optimize image caching for traffic sign assets
