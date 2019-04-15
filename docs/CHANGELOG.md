@@ -1,4 +1,3 @@
-- **2019-03-07 17:17**: feat: add keyboard navigation shortcuts for question selection
 - **2019-03-08 16:57**: fix: adjust passing score threshold according to new rules
 - **2019-03-08 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-03-08 20:39**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-04-14 09:16**: perf: optimize image caching for traffic sign assets
 - **2019-04-14 15:39**: docs: add instructions for Nepali driving license written exam
 - **2019-04-15 15:13**: feat: add result summary with passing threshold analysis
+- **2019-04-15 21:03**: perf: index question IDs for rapid lookup
