@@ -1,4 +1,3 @@
-- **2019-03-08 20:39**: refactor: optimize SVG rendering for road signs
 - **2019-03-09 09:33**: chore: update project metadata and build configuration
 - **2019-03-09 18:52**: feat: add regulatory traffic signs SVG graphics
 - **2019-03-10 20:07**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-04-15 21:03**: perf: index question IDs for rapid lookup
 - **2019-04-16 14:14**: fix: prevent option re-selection after submitting answer
 - **2019-04-16 19:58**: fix: resolve layout shift during question transitions
+- **2019-04-17 16:14**: fix: prevent option re-selection after submitting answer
