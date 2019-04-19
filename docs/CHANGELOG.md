@@ -1,4 +1,3 @@
-- **2019-03-10 21:46**: feat: add warning signs and informational road signs
 - **2019-03-11 19:26**: feat: add category-specific practice modes
 - **2019-03-12 14:05**: fix: typo in Nepali road safety regulations question
 - **2019-03-12 18:34**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-04-18 14:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-04-19 10:05**: refactor: restructure question data schema for faster loading
 - **2019-04-19 17:19**: feat: support multiple choice questions for motorcycle category
+- **2019-04-19 19:11**: feat: add search and filter by sign category
