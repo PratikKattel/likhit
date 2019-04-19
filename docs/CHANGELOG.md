@@ -1,4 +1,3 @@
-- **2019-03-10 20:07**: perf: optimize image caching for traffic sign assets
 - **2019-03-10 20:52**: feat: add search and filter by sign category
 - **2019-03-10 21:46**: feat: add warning signs and informational road signs
 - **2019-03-11 19:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-04-17 16:14**: fix: prevent option re-selection after submitting answer
 - **2019-04-18 14:14**: feat: add result summary with passing threshold analysis
 - **2019-04-18 14:34**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-04-19 10:05**: refactor: restructure question data schema for faster loading
