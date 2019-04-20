@@ -1,4 +1,3 @@
-- **2019-03-11 19:26**: feat: add category-specific practice modes
 - **2019-03-12 14:05**: fix: typo in Nepali road safety regulations question
 - **2019-03-12 18:34**: perf: index question IDs for rapid lookup
 - **2019-03-13 11:49**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2019-04-19 10:05**: refactor: restructure question data schema for faster loading
 - **2019-04-19 17:19**: feat: support multiple choice questions for motorcycle category
 - **2019-04-19 19:11**: feat: add search and filter by sign category
+- **2019-04-20 13:27**: docs: update traffic signals catalog documentation
