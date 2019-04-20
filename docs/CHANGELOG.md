@@ -1,4 +1,3 @@
-- **2019-03-12 14:05**: fix: typo in Nepali road safety regulations question
 - **2019-03-12 18:34**: perf: index question IDs for rapid lookup
 - **2019-03-13 11:49**: feat: add category A and B traffic test questions
 - **2019-03-13 21:15**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-04-19 17:19**: feat: support multiple choice questions for motorcycle category
 - **2019-04-19 19:11**: feat: add search and filter by sign category
 - **2019-04-20 13:27**: docs: update traffic signals catalog documentation
+- **2019-04-20 18:26**: fix: update DOTM Nepal license syllabus questions
