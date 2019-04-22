@@ -1,4 +1,3 @@
-- **2019-03-13 22:26**: docs: add instructions for Nepali driving license written exam
 - **2019-03-13 22:28**: perf: index question IDs for rapid lookup
 - **2019-03-14 14:14**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-03-15 09:08**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2019-04-21 20:16**: style: enhance traffic sign card layout and responsiveness
 - **2019-04-22 14:47**: style: polish typography and Nepali Unicode font rendering
 - **2019-04-22 16:51**: perf: index question IDs for rapid lookup
+- **2019-04-22 19:34**: docs: add instructions for Nepali driving license written exam
