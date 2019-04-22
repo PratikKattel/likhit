@@ -1,4 +1,3 @@
-- **2019-03-13 21:15**: refactor: optimize SVG rendering for road signs
 - **2019-03-13 22:26**: docs: add instructions for Nepali driving license written exam
 - **2019-03-13 22:28**: perf: index question IDs for rapid lookup
 - **2019-03-14 14:14**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-04-20 18:26**: fix: update DOTM Nepal license syllabus questions
 - **2019-04-21 20:16**: style: enhance traffic sign card layout and responsiveness
 - **2019-04-22 14:47**: style: polish typography and Nepali Unicode font rendering
+- **2019-04-22 16:51**: perf: index question IDs for rapid lookup
