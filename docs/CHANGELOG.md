@@ -1,4 +1,3 @@
-- **2019-03-15 17:03**: test: verify question extraction script against exam PDF
 - **2019-03-16 22:03**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-16 22:18**: feat: support multiple choice questions for motorcycle category
 - **2019-03-17 09:20**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2019-04-23 13:44**: chore: update questions database with recent DOTM updates
 - **2019-04-23 17:36**: chore: organize assets and image directory structure
 - **2019-04-23 19:13**: docs: improve code comments and API documentation
+- **2019-04-23 20:09**: fix: correct color specifications for mandatory traffic signs
