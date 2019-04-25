@@ -1,4 +1,3 @@
-- **2019-03-16 22:18**: feat: support multiple choice questions for motorcycle category
 - **2019-03-17 09:20**: perf: lazy load signal graphics and question assets
 - **2019-03-17 13:14**: fix: resolve layout shift during question transitions
 - **2019-03-17 21:17**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-04-23 19:13**: docs: improve code comments and API documentation
 - **2019-04-23 20:09**: fix: correct color specifications for mandatory traffic signs
 - **2019-04-24 11:24**: feat: add result summary with passing threshold analysis
+- **2019-04-25 17:55**: docs: add instructions for Nepali driving license written exam
