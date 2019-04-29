@@ -1,4 +1,3 @@
-- **2019-03-18 10:25**: chore: update project metadata and build configuration
 - **2019-03-19 10:06**: docs: add instructions for Nepali driving license written exam
 - **2019-03-19 12:49**: feat: add keyboard navigation shortcuts for question selection
 - **2019-03-19 13:25**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2019-04-26 14:36**: refactor: restructure question data schema for faster loading
 - **2019-04-27 11:08**: feat: add warning signs and informational road signs
 - **2019-04-28 14:35**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-04-29 09:39**: feat: add category-specific practice modes
