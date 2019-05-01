@@ -1,4 +1,3 @@
-- **2019-03-19 13:25**: feat: add result summary with passing threshold analysis
 - **2019-03-19 14:32**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-20 10:07**: docs: improve code comments and API documentation
 - **2019-03-20 10:43**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-04-29 09:39**: feat: add category-specific practice modes
 - **2019-04-30 14:58**: docs: add instructions for Nepali driving license written exam
 - **2019-05-01 12:27**: feat: add instant feedback and explanation on answer selection
+- **2019-05-01 18:32**: docs: update traffic signals catalog documentation
