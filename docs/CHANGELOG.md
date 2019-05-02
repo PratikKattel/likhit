@@ -1,4 +1,3 @@
-- **2019-03-20 10:07**: docs: improve code comments and API documentation
 - **2019-03-20 10:43**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-20 16:53**: test: verify question extraction script against exam PDF
 - **2019-03-21 09:33**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2019-05-01 12:27**: feat: add instant feedback and explanation on answer selection
 - **2019-05-01 18:32**: docs: update traffic signals catalog documentation
 - **2019-05-02 14:31**: fix: resolve layout shift during question transitions
+- **2019-05-02 15:58**: feat: add category A and B traffic test questions
