@@ -1,4 +1,3 @@
-- **2019-03-21 09:33**: perf: lazy load signal graphics and question assets
 - **2019-03-21 10:50**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-21 17:04**: feat: add regulatory traffic signs SVG graphics
 - **2019-03-22 14:08**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-05-02 15:58**: feat: add category A and B traffic test questions
 - **2019-05-03 09:16**: docs: update traffic signals catalog documentation
 - **2019-05-03 12:16**: chore: update questions database with recent DOTM updates
+- **2019-05-04 19:46**: feat: add category-specific practice modes
