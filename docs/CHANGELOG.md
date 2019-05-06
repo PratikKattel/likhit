@@ -1,4 +1,3 @@
-- **2019-03-22 14:08**: refactor: optimize SVG rendering for road signs
 - **2019-03-22 22:25**: test: verify question extraction script against exam PDF
 - **2019-03-23 10:32**: refactor: restructure question data schema for faster loading
 - **2019-03-24 13:50**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-05-04 19:46**: feat: add category-specific practice modes
 - **2019-05-05 20:43**: docs: update traffic signals catalog documentation
 - **2019-05-06 09:48**: chore: update project metadata and build configuration
+- **2019-05-06 14:17**: chore: update project metadata and build configuration
