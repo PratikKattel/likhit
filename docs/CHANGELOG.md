@@ -1,4 +1,3 @@
-- **2019-03-24 13:50**: refactor: restructure question data schema for faster loading
 - **2019-03-25 21:02**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-26 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-27 11:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-05-06 14:17**: chore: update project metadata and build configuration
 - **2019-05-07 13:19**: chore: organize assets and image directory structure
 - **2019-05-08 21:44**: feat: add warning signs and informational road signs
+- **2019-05-09 11:24**: perf: optimize image caching for traffic sign assets
