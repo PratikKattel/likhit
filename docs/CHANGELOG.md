@@ -1,4 +1,3 @@
-- **2019-03-26 10:20**: style: polish typography and Nepali Unicode font rendering
 - **2019-03-27 11:12**: refactor: restructure question data schema for faster loading
 - **2019-03-28 12:03**: docs: improve code comments and API documentation
 - **2019-03-28 13:08**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-05-08 21:44**: feat: add warning signs and informational road signs
 - **2019-05-09 11:24**: perf: optimize image caching for traffic sign assets
 - **2019-05-10 12:02**: feat: add instant feedback and explanation on answer selection
+- **2019-05-10 13:56**: style: improve dark/light mode and mobile UI responsiveness
