@@ -1,4 +1,3 @@
-- **2019-03-28 16:07**: refactor: restructure question data schema for faster loading
 - **2019-03-28 19:14**: feat: add warning signs and informational road signs
 - **2019-03-29 13:18**: test: verify question extraction script against exam PDF
 - **2019-03-29 21:24**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-05-11 15:26**: fix: prevent option re-selection after submitting answer
 - **2019-05-11 19:59**: docs: update README with setup instructions and feature list
 - **2019-05-12 17:29**: fix: resolve layout shift during question transitions
+- **2019-05-12 21:10**: fix: adjust passing score threshold according to new rules
