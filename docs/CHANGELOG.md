@@ -1,4 +1,3 @@
-- **2019-03-29 21:24**: feat: implement timer and score calculation for mock test
 - **2019-03-30 18:23**: docs: add instructions for Nepali driving license written exam
 - **2019-03-31 09:37**: chore: organize assets and image directory structure
 - **2019-03-31 17:38**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-05-12 21:10**: fix: adjust passing score threshold according to new rules
 - **2019-05-13 09:41**: fix: resolve layout shift during question transitions
 - **2019-05-13 19:51**: refactor: optimize SVG rendering for road signs
+- **2019-05-14 16:50**: chore: update questions database with recent DOTM updates
