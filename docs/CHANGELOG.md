@@ -1,4 +1,3 @@
-- **2019-04-01 21:26**: docs: update README with setup instructions and feature list
 - **2019-04-01 21:39**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-04-02 09:53**: docs: improve code comments and API documentation
 - **2019-04-03 12:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2019-05-15 09:56**: perf: lazy load signal graphics and question assets
 - **2019-05-16 13:31**: docs: update traffic signals catalog documentation
 - **2019-05-16 13:36**: perf: index question IDs for rapid lookup
+- **2019-05-16 18:21**: docs: add instructions for Nepali driving license written exam
