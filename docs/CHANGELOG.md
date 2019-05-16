@@ -1,4 +1,3 @@
-- **2019-03-31 09:37**: chore: organize assets and image directory structure
 - **2019-03-31 17:38**: feat: add keyboard navigation shortcuts for question selection
 - **2019-04-01 21:26**: docs: update README with setup instructions and feature list
 - **2019-04-01 21:39**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-05-13 19:51**: refactor: optimize SVG rendering for road signs
 - **2019-05-14 16:50**: chore: update questions database with recent DOTM updates
 - **2019-05-15 09:56**: perf: lazy load signal graphics and question assets
+- **2019-05-16 13:31**: docs: update traffic signals catalog documentation
