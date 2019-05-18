@@ -1,4 +1,3 @@
-- **2019-04-03 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2019-04-04 11:08**: refactor: restructure question data schema for faster loading
 - **2019-04-04 16:34**: feat: add instant feedback and explanation on answer selection
 - **2019-04-04 17:15**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-05-16 18:21**: docs: add instructions for Nepali driving license written exam
 - **2019-05-17 11:06**: fix: resolve layout shift during question transitions
 - **2019-05-17 14:21**: fix: resolve layout shift during question transitions
+- **2019-05-18 17:27**: perf: index question IDs for rapid lookup
