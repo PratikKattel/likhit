@@ -1,4 +1,3 @@
-- **2019-04-04 16:34**: feat: add instant feedback and explanation on answer selection
 - **2019-04-04 17:15**: test: verify question extraction script against exam PDF
 - **2019-04-05 19:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-04-06 14:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2019-05-17 14:21**: fix: resolve layout shift during question transitions
 - **2019-05-18 17:27**: perf: index question IDs for rapid lookup
 - **2019-05-19 09:58**: chore: format code style and clean up redundant variables
+- **2019-05-20 19:05**: style: improve dark/light mode and mobile UI responsiveness
