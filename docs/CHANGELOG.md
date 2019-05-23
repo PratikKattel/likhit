@@ -1,4 +1,3 @@
-- **2019-04-06 18:21**: feat: add category-specific practice modes
 - **2019-04-07 12:32**: fix: resolve layout shift during question transitions
 - **2019-04-07 15:24**: feat: add instant feedback and explanation on answer selection
 - **2019-04-08 15:49**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2019-05-21 19:58**: chore: format code style and clean up redundant variables
 - **2019-05-22 09:11**: chore: update project metadata and build configuration
 - **2019-05-23 09:48**: refactor: restructure question data schema for faster loading
+- **2019-05-23 14:08**: feat: add keyboard navigation shortcuts for question selection
