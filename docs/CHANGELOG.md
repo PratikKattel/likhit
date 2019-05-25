@@ -1,4 +1,3 @@
-- **2019-04-07 15:24**: feat: add instant feedback and explanation on answer selection
 - **2019-04-08 15:49**: fix: typo in Nepali road safety regulations question
 - **2019-04-09 09:31**: fix: correct color specifications for mandatory traffic signs
 - **2019-04-09 15:37**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2019-05-23 09:48**: refactor: restructure question data schema for faster loading
 - **2019-05-23 14:08**: feat: add keyboard navigation shortcuts for question selection
 - **2019-05-24 18:09**: docs: add instructions for Nepali driving license written exam
+- **2019-05-25 17:07**: perf: lazy load signal graphics and question assets
