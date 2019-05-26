@@ -1,4 +1,3 @@
-- **2019-04-09 09:31**: fix: correct color specifications for mandatory traffic signs
 - **2019-04-09 15:37**: feat: support multiple choice questions for motorcycle category
 - **2019-04-09 20:56**: chore: format code style and clean up redundant variables
 - **2019-04-10 09:34**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-05-24 18:09**: docs: add instructions for Nepali driving license written exam
 - **2019-05-25 17:07**: perf: lazy load signal graphics and question assets
 - **2019-05-26 17:29**: fix: prevent option re-selection after submitting answer
+- **2019-05-26 18:44**: feat: add category A and B traffic test questions
