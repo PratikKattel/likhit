@@ -1,4 +1,3 @@
-- **2019-04-09 20:56**: chore: format code style and clean up redundant variables
 - **2019-04-10 09:34**: feat: add warning signs and informational road signs
 - **2019-04-10 10:03**: feat: support multiple choice questions for motorcycle category
 - **2019-04-10 12:08**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-05-26 17:29**: fix: prevent option re-selection after submitting answer
 - **2019-05-26 18:44**: feat: add category A and B traffic test questions
 - **2019-05-27 18:52**: perf: optimize image caching for traffic sign assets
+- **2019-05-28 15:01**: refactor: optimize SVG rendering for road signs
