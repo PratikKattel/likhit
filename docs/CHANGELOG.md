@@ -1,4 +1,3 @@
-- **2019-04-10 10:03**: feat: support multiple choice questions for motorcycle category
 - **2019-04-10 12:08**: refactor: modularize traffic app logic and event listeners
 - **2019-04-10 16:54**: feat: add category A and B traffic test questions
 - **2019-04-11 13:04**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-05-27 18:52**: perf: optimize image caching for traffic sign assets
 - **2019-05-28 15:01**: refactor: optimize SVG rendering for road signs
 - **2019-05-29 09:06**: feat: implement timer and score calculation for mock test
+- **2019-05-29 20:16**: docs: update traffic signals catalog documentation
