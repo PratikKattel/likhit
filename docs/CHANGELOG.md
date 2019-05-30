@@ -1,4 +1,3 @@
-- **2019-04-10 12:08**: refactor: modularize traffic app logic and event listeners
 - **2019-04-10 16:54**: feat: add category A and B traffic test questions
 - **2019-04-11 13:04**: feat: add keyboard navigation shortcuts for question selection
 - **2019-04-11 15:47**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2019-05-28 15:01**: refactor: optimize SVG rendering for road signs
 - **2019-05-29 09:06**: feat: implement timer and score calculation for mock test
 - **2019-05-29 20:16**: docs: update traffic signals catalog documentation
+- **2019-05-30 11:32**: docs: update README with setup instructions and feature list
