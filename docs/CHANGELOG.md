@@ -1,4 +1,3 @@
-- **2019-04-12 21:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-04-13 12:40**: chore: update project metadata and build configuration
 - **2019-04-13 19:06**: feat: add warning signs and informational road signs
 - **2019-04-14 09:16**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-05-30 21:06**: chore: update project metadata and build configuration
 - **2019-05-31 17:24**: docs: improve code comments and API documentation
 - **2019-06-01 12:08**: feat: add instant feedback and explanation on answer selection
+- **2019-06-02 14:33**: feat: add category A and B traffic test questions
