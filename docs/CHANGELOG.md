@@ -1,4 +1,3 @@
-- **2019-04-14 09:16**: perf: optimize image caching for traffic sign assets
 - **2019-04-14 15:39**: docs: add instructions for Nepali driving license written exam
 - **2019-04-15 15:13**: feat: add result summary with passing threshold analysis
 - **2019-04-15 21:03**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-06-02 14:33**: feat: add category A and B traffic test questions
 - **2019-06-03 19:59**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-04 13:35**: refactor: optimize SVG rendering for road signs
+- **2019-06-05 10:14**: feat: add search and filter by sign category
