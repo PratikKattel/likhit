@@ -1,4 +1,3 @@
-- **2019-04-16 14:14**: fix: prevent option re-selection after submitting answer
 - **2019-04-16 19:58**: fix: resolve layout shift during question transitions
 - **2019-04-17 16:14**: fix: prevent option re-selection after submitting answer
 - **2019-04-18 14:14**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2019-06-05 15:22**: chore: organize assets and image directory structure
 - **2019-06-05 16:48**: feat: add result summary with passing threshold analysis
 - **2019-06-06 18:37**: docs: add instructions for Nepali driving license written exam
+- **2019-06-07 21:31**: refactor: modularize traffic app logic and event listeners
