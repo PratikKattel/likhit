@@ -1,4 +1,3 @@
-- **2019-04-18 14:14**: feat: add result summary with passing threshold analysis
 - **2019-04-18 14:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-04-19 10:05**: refactor: restructure question data schema for faster loading
 - **2019-04-19 17:19**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2019-06-07 21:31**: refactor: modularize traffic app logic and event listeners
 - **2019-06-08 12:41**: docs: update README with setup instructions and feature list
 - **2019-06-08 19:21**: chore: update questions database with recent DOTM updates
+- **2019-06-09 17:32**: fix: typo in Nepali road safety regulations question
