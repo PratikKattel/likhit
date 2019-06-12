@@ -1,4 +1,3 @@
-- **2019-04-19 17:19**: feat: support multiple choice questions for motorcycle category
 - **2019-04-19 19:11**: feat: add search and filter by sign category
 - **2019-04-20 13:27**: docs: update traffic signals catalog documentation
 - **2019-04-20 18:26**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2019-06-09 17:32**: fix: typo in Nepali road safety regulations question
 - **2019-06-10 19:20**: docs: update README with setup instructions and feature list
 - **2019-06-11 19:31**: docs: update traffic signals catalog documentation
+- **2019-06-12 10:48**: fix: prevent option re-selection after submitting answer
