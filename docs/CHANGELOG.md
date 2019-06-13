@@ -1,4 +1,3 @@
-- **2019-04-20 18:26**: fix: update DOTM Nepal license syllabus questions
 - **2019-04-21 20:16**: style: enhance traffic sign card layout and responsiveness
 - **2019-04-22 14:47**: style: polish typography and Nepali Unicode font rendering
 - **2019-04-22 16:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-06-12 10:48**: fix: prevent option re-selection after submitting answer
 - **2019-06-12 13:09**: refactor: modularize traffic app logic and event listeners
 - **2019-06-13 15:32**: feat: add keyboard navigation shortcuts for question selection
+- **2019-06-13 16:55**: perf: optimize image caching for traffic sign assets
