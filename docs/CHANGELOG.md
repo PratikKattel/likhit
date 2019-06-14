@@ -1,4 +1,3 @@
-- **2019-04-22 14:47**: style: polish typography and Nepali Unicode font rendering
 - **2019-04-22 16:51**: perf: index question IDs for rapid lookup
 - **2019-04-22 19:34**: docs: add instructions for Nepali driving license written exam
 - **2019-04-23 13:44**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-06-13 15:32**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-13 16:55**: perf: optimize image caching for traffic sign assets
 - **2019-06-13 18:03**: feat: add instant feedback and explanation on answer selection
+- **2019-06-14 20:22**: test: verify question extraction script against exam PDF
