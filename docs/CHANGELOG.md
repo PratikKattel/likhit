@@ -1,4 +1,3 @@
-- **2019-04-23 20:09**: fix: correct color specifications for mandatory traffic signs
 - **2019-04-24 11:24**: feat: add result summary with passing threshold analysis
 - **2019-04-25 17:55**: docs: add instructions for Nepali driving license written exam
 - **2019-04-26 14:36**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-06-16 17:23**: docs: add instructions for Nepali driving license written exam
 - **2019-06-17 09:17**: fix: update DOTM Nepal license syllabus questions
 - **2019-06-17 16:13**: feat: add instant feedback and explanation on answer selection
+- **2019-06-17 20:48**: style: polish typography and Nepali Unicode font rendering
