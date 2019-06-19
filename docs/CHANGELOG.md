@@ -1,4 +1,3 @@
-- **2019-04-29 09:39**: feat: add category-specific practice modes
 - **2019-04-30 14:58**: docs: add instructions for Nepali driving license written exam
 - **2019-05-01 12:27**: feat: add instant feedback and explanation on answer selection
 - **2019-05-01 18:32**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-06-19 17:07**: chore: update questions database with recent DOTM updates
 - **2019-06-19 18:22**: fix: adjust passing score threshold according to new rules
 - **2019-06-19 19:49**: fix: resolve layout shift during question transitions
+- **2019-06-19 21:58**: feat: support multiple choice questions for motorcycle category
