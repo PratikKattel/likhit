@@ -1,4 +1,3 @@
-- **2019-04-26 14:36**: refactor: restructure question data schema for faster loading
 - **2019-04-27 11:08**: feat: add warning signs and informational road signs
 - **2019-04-28 14:35**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-04-29 09:39**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-06-17 20:48**: style: polish typography and Nepali Unicode font rendering
 - **2019-06-18 15:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-06-18 19:44**: refactor: modularize traffic app logic and event listeners
+- **2019-06-19 17:07**: chore: update questions database with recent DOTM updates
