@@ -1,4 +1,3 @@
-- **2019-05-01 18:32**: docs: update traffic signals catalog documentation
 - **2019-05-02 14:31**: fix: resolve layout shift during question transitions
 - **2019-05-02 15:58**: feat: add category A and B traffic test questions
 - **2019-05-03 09:16**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-06-19 21:58**: feat: support multiple choice questions for motorcycle category
 - **2019-06-20 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-06-20 20:12**: docs: update traffic signals catalog documentation
+- **2019-06-21 13:22**: chore: format code style and clean up redundant variables
