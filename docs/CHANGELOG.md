@@ -1,4 +1,3 @@
-- **2019-05-02 15:58**: feat: add category A and B traffic test questions
 - **2019-05-03 09:16**: docs: update traffic signals catalog documentation
 - **2019-05-03 12:16**: chore: update questions database with recent DOTM updates
 - **2019-05-04 19:46**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-06-20 20:12**: docs: update traffic signals catalog documentation
 - **2019-06-21 13:22**: chore: format code style and clean up redundant variables
 - **2019-06-21 20:27**: docs: add instructions for Nepali driving license written exam
+- **2019-06-22 09:45**: chore: format code style and clean up redundant variables
