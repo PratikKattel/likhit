@@ -1,4 +1,3 @@
-- **2019-05-04 19:46**: feat: add category-specific practice modes
 - **2019-05-05 20:43**: docs: update traffic signals catalog documentation
 - **2019-05-06 09:48**: chore: update project metadata and build configuration
 - **2019-05-06 14:17**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-06-22 09:45**: chore: format code style and clean up redundant variables
 - **2019-06-23 10:58**: fix: prevent option re-selection after submitting answer
 - **2019-06-23 12:02**: refactor: modularize traffic app logic and event listeners
+- **2019-06-23 16:49**: refactor: clean up unused CSS classes and optimize stylesheet
