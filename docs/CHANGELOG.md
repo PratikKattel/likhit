@@ -1,4 +1,3 @@
-- **2019-05-06 14:17**: chore: update project metadata and build configuration
 - **2019-05-07 13:19**: chore: organize assets and image directory structure
 - **2019-05-08 21:44**: feat: add warning signs and informational road signs
 - **2019-05-09 11:24**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-06-23 16:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-06-24 14:29**: feat: support multiple choice questions for motorcycle category
 - **2019-06-24 15:30**: feat: add regulatory traffic signs SVG graphics
+- **2019-06-25 17:42**: feat: add keyboard navigation shortcuts for question selection
