@@ -1,4 +1,3 @@
-- **2019-05-10 13:56**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-05-11 15:26**: fix: prevent option re-selection after submitting answer
 - **2019-05-11 19:59**: docs: update README with setup instructions and feature list
 - **2019-05-12 17:29**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-06-25 20:57**: docs: update traffic signals catalog documentation
 - **2019-06-26 16:53**: feat: add result summary with passing threshold analysis
 - **2019-06-27 14:05**: style: polish typography and Nepali Unicode font rendering
+- **2019-06-28 13:46**: refactor: restructure question data schema for faster loading
