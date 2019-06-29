@@ -1,4 +1,3 @@
-- **2019-05-11 19:59**: docs: update README with setup instructions and feature list
 - **2019-05-12 17:29**: fix: resolve layout shift during question transitions
 - **2019-05-12 21:10**: fix: adjust passing score threshold according to new rules
 - **2019-05-13 09:41**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-06-27 14:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-06-28 13:46**: refactor: restructure question data schema for faster loading
 - **2019-06-29 09:43**: chore: update project metadata and build configuration
+- **2019-06-29 17:14**: feat: add keyboard navigation shortcuts for question selection
