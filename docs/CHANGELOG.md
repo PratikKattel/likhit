@@ -1,4 +1,3 @@
-- **2019-05-12 21:10**: fix: adjust passing score threshold according to new rules
 - **2019-05-13 09:41**: fix: resolve layout shift during question transitions
 - **2019-05-13 19:51**: refactor: optimize SVG rendering for road signs
 - **2019-05-14 16:50**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-06-29 09:43**: chore: update project metadata and build configuration
 - **2019-06-29 17:14**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-29 21:31**: fix: resolve layout shift during question transitions
+- **2019-06-30 17:24**: fix: resolve layout shift during question transitions
