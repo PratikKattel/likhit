@@ -1,4 +1,3 @@
-- **2019-05-14 16:50**: chore: update questions database with recent DOTM updates
 - **2019-05-15 09:56**: perf: lazy load signal graphics and question assets
 - **2019-05-16 13:31**: docs: update traffic signals catalog documentation
 - **2019-05-16 13:36**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-06-30 17:24**: fix: resolve layout shift during question transitions
 - **2019-07-01 11:17**: chore: update project metadata and build configuration
 - **2019-07-01 12:34**: feat: add search and filter by sign category
+- **2019-07-01 18:16**: fix: prevent option re-selection after submitting answer
