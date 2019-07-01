@@ -1,4 +1,3 @@
-- **2019-05-13 09:41**: fix: resolve layout shift during question transitions
 - **2019-05-13 19:51**: refactor: optimize SVG rendering for road signs
 - **2019-05-14 16:50**: chore: update questions database with recent DOTM updates
 - **2019-05-15 09:56**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2019-06-29 17:14**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-29 21:31**: fix: resolve layout shift during question transitions
 - **2019-06-30 17:24**: fix: resolve layout shift during question transitions
+- **2019-07-01 11:17**: chore: update project metadata and build configuration
