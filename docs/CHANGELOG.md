@@ -1,4 +1,3 @@
-- **2019-05-15 09:56**: perf: lazy load signal graphics and question assets
 - **2019-05-16 13:31**: docs: update traffic signals catalog documentation
 - **2019-05-16 13:36**: perf: index question IDs for rapid lookup
 - **2019-05-16 18:21**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-07-01 11:17**: chore: update project metadata and build configuration
 - **2019-07-01 12:34**: feat: add search and filter by sign category
 - **2019-07-01 18:16**: fix: prevent option re-selection after submitting answer
+- **2019-07-02 14:27**: docs: update README with setup instructions and feature list
