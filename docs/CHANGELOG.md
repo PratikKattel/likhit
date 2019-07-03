@@ -1,4 +1,3 @@
-- **2019-05-16 13:36**: perf: index question IDs for rapid lookup
 - **2019-05-16 18:21**: docs: add instructions for Nepali driving license written exam
 - **2019-05-17 11:06**: fix: resolve layout shift during question transitions
 - **2019-05-17 14:21**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-07-01 18:16**: fix: prevent option re-selection after submitting answer
 - **2019-07-02 14:27**: docs: update README with setup instructions and feature list
 - **2019-07-02 16:28**: perf: lazy load signal graphics and question assets
+- **2019-07-03 11:10**: style: improve dark/light mode and mobile UI responsiveness
