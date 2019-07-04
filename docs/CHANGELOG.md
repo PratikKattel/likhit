@@ -1,4 +1,3 @@
-- **2019-05-17 14:21**: fix: resolve layout shift during question transitions
 - **2019-05-18 17:27**: perf: index question IDs for rapid lookup
 - **2019-05-19 09:58**: chore: format code style and clean up redundant variables
 - **2019-05-20 19:05**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-07-03 11:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-07-04 14:38**: chore: update questions database with recent DOTM updates
 - **2019-07-04 15:34**: style: polish typography and Nepali Unicode font rendering
+- **2019-07-04 21:41**: style: improve dark/light mode and mobile UI responsiveness
