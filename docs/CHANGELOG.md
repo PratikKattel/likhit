@@ -1,4 +1,3 @@
-- **2019-05-19 09:58**: chore: format code style and clean up redundant variables
 - **2019-05-20 19:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-05-21 19:58**: chore: format code style and clean up redundant variables
 - **2019-05-22 09:11**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-07-04 15:34**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-04 21:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-07-05 12:16**: feat: add warning signs and informational road signs
+- **2019-07-05 14:56**: fix: update DOTM Nepal license syllabus questions
