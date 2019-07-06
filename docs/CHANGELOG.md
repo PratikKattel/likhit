@@ -1,4 +1,3 @@
-- **2019-05-21 19:58**: chore: format code style and clean up redundant variables
 - **2019-05-22 09:11**: chore: update project metadata and build configuration
 - **2019-05-23 09:48**: refactor: restructure question data schema for faster loading
 - **2019-05-23 14:08**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-07-05 12:16**: feat: add warning signs and informational road signs
 - **2019-07-05 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2019-07-06 16:30**: feat: add category-specific practice modes
+- **2019-07-06 16:44**: perf: index question IDs for rapid lookup
