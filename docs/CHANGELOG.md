@@ -1,4 +1,3 @@
-- **2019-05-26 17:29**: fix: prevent option re-selection after submitting answer
 - **2019-05-26 18:44**: feat: add category A and B traffic test questions
 - **2019-05-27 18:52**: perf: optimize image caching for traffic sign assets
 - **2019-05-28 15:01**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-07-08 14:57**: style: enhance traffic sign card layout and responsiveness
 - **2019-07-08 20:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-07-09 15:03**: docs: improve code comments and API documentation
+- **2019-07-09 20:57**: docs: improve code comments and API documentation
