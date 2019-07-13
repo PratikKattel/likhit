@@ -1,4 +1,3 @@
-- **2019-05-29 20:16**: docs: update traffic signals catalog documentation
 - **2019-05-30 11:32**: docs: update README with setup instructions and feature list
 - **2019-05-30 19:19**: feat: add keyboard navigation shortcuts for question selection
 - **2019-05-30 21:06**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-07-11 11:52**: feat: add keyboard navigation shortcuts for question selection
 - **2019-07-12 12:06**: chore: organize assets and image directory structure
 - **2019-07-12 22:17**: fix: correct color specifications for mandatory traffic signs
+- **2019-07-13 13:49**: feat: support multiple choice questions for motorcycle category
