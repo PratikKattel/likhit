@@ -1,4 +1,3 @@
-- **2019-05-30 19:19**: feat: add keyboard navigation shortcuts for question selection
 - **2019-05-30 21:06**: chore: update project metadata and build configuration
 - **2019-05-31 17:24**: docs: improve code comments and API documentation
 - **2019-06-01 12:08**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-07-12 22:17**: fix: correct color specifications for mandatory traffic signs
 - **2019-07-13 13:49**: feat: support multiple choice questions for motorcycle category
 - **2019-07-14 09:27**: feat: add regulatory traffic signs SVG graphics
+- **2019-07-15 10:44**: feat: support multiple choice questions for motorcycle category
