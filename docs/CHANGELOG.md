@@ -1,4 +1,3 @@
-- **2019-06-01 12:08**: feat: add instant feedback and explanation on answer selection
 - **2019-06-02 14:33**: feat: add category A and B traffic test questions
 - **2019-06-03 19:59**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-04 13:35**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-07-15 10:44**: feat: support multiple choice questions for motorcycle category
 - **2019-07-15 17:19**: refactor: restructure question data schema for faster loading
 - **2019-07-15 18:46**: refactor: restructure question data schema for faster loading
+- **2019-07-16 12:25**: feat: add warning signs and informational road signs
