@@ -1,4 +1,3 @@
-- **2019-06-05 15:22**: chore: organize assets and image directory structure
 - **2019-06-05 16:48**: feat: add result summary with passing threshold analysis
 - **2019-06-06 18:37**: docs: add instructions for Nepali driving license written exam
 - **2019-06-07 21:31**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-07-18 22:07**: docs: update README with setup instructions and feature list
 - **2019-07-19 21:37**: feat: add regulatory traffic signs SVG graphics
 - **2019-07-20 13:44**: perf: index question IDs for rapid lookup
+- **2019-07-20 19:29**: chore: update project metadata and build configuration
