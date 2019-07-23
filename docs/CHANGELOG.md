@@ -1,4 +1,3 @@
-- **2019-06-07 21:31**: refactor: modularize traffic app logic and event listeners
 - **2019-06-08 12:41**: docs: update README with setup instructions and feature list
 - **2019-06-08 19:21**: chore: update questions database with recent DOTM updates
 - **2019-06-09 17:32**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2019-07-20 19:29**: chore: update project metadata and build configuration
 - **2019-07-21 12:47**: feat: add category-specific practice modes
 - **2019-07-22 19:27**: chore: organize assets and image directory structure
+- **2019-07-23 19:37**: fix: prevent option re-selection after submitting answer
