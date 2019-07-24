@@ -1,4 +1,3 @@
-- **2019-06-08 19:21**: chore: update questions database with recent DOTM updates
 - **2019-06-09 17:32**: fix: typo in Nepali road safety regulations question
 - **2019-06-10 19:20**: docs: update README with setup instructions and feature list
 - **2019-06-11 19:31**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-07-22 19:27**: chore: organize assets and image directory structure
 - **2019-07-23 19:37**: fix: prevent option re-selection after submitting answer
 - **2019-07-24 17:02**: docs: update traffic signals catalog documentation
+- **2019-07-24 17:33**: chore: organize assets and image directory structure
