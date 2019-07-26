@@ -1,4 +1,3 @@
-- **2019-06-11 19:31**: docs: update traffic signals catalog documentation
 - **2019-06-12 10:48**: fix: prevent option re-selection after submitting answer
 - **2019-06-12 13:09**: refactor: modularize traffic app logic and event listeners
 - **2019-06-13 15:32**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-07-24 17:33**: chore: organize assets and image directory structure
 - **2019-07-25 13:13**: test: verify question extraction script against exam PDF
 - **2019-07-25 18:40**: docs: add instructions for Nepali driving license written exam
+- **2019-07-26 11:16**: test: verify question extraction script against exam PDF
