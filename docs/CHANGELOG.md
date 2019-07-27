@@ -1,4 +1,3 @@
-- **2019-06-12 13:09**: refactor: modularize traffic app logic and event listeners
 - **2019-06-13 15:32**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-13 16:55**: perf: optimize image caching for traffic sign assets
 - **2019-06-13 18:03**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-07-25 18:40**: docs: add instructions for Nepali driving license written exam
 - **2019-07-26 11:16**: test: verify question extraction script against exam PDF
 - **2019-07-27 13:00**: feat: support multiple choice questions for motorcycle category
+- **2019-07-27 19:12**: style: polish typography and Nepali Unicode font rendering
