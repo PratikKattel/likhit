@@ -1,4 +1,3 @@
-- **2019-06-13 18:03**: feat: add instant feedback and explanation on answer selection
 - **2019-06-14 20:22**: test: verify question extraction script against exam PDF
 - **2019-06-15 22:24**: fix: resolve layout shift during question transitions
 - **2019-06-16 11:38**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-07-27 19:12**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-28 09:09**: fix: prevent option re-selection after submitting answer
 - **2019-07-28 10:19**: fix: adjust passing score threshold according to new rules
+- **2019-07-28 10:42**: feat: add category A and B traffic test questions
