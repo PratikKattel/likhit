@@ -1,4 +1,3 @@
-- **2019-06-16 11:38**: perf: optimize image caching for traffic sign assets
 - **2019-06-16 17:23**: docs: add instructions for Nepali driving license written exam
 - **2019-06-17 09:17**: fix: update DOTM Nepal license syllabus questions
 - **2019-06-17 16:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-07-28 10:42**: feat: add category A and B traffic test questions
 - **2019-07-28 22:24**: feat: add category-specific practice modes
 - **2019-07-29 09:11**: feat: add result summary with passing threshold analysis
+- **2019-07-30 14:11**: refactor: modularize traffic app logic and event listeners
