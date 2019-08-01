@@ -1,4 +1,3 @@
-- **2019-06-17 20:48**: style: polish typography and Nepali Unicode font rendering
 - **2019-06-18 15:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-06-18 19:44**: refactor: modularize traffic app logic and event listeners
 - **2019-06-19 17:07**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-07-31 11:56**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-31 15:42**: refactor: modularize traffic app logic and event listeners
 - **2019-07-31 17:57**: style: enhance traffic sign card layout and responsiveness
+- **2019-08-01 17:49**: refactor: modularize traffic app logic and event listeners
