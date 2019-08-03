@@ -1,4 +1,3 @@
-- **2019-06-19 17:07**: chore: update questions database with recent DOTM updates
 - **2019-06-19 18:22**: fix: adjust passing score threshold according to new rules
 - **2019-06-19 19:49**: fix: resolve layout shift during question transitions
 - **2019-06-19 21:58**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2019-08-01 17:49**: refactor: modularize traffic app logic and event listeners
 - **2019-08-02 12:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-08-03 15:10**: style: polish typography and Nepali Unicode font rendering
+- **2019-08-03 17:12**: refactor: optimize SVG rendering for road signs
