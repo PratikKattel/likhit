@@ -1,4 +1,3 @@
-- **2019-06-19 19:49**: fix: resolve layout shift during question transitions
 - **2019-06-19 21:58**: feat: support multiple choice questions for motorcycle category
 - **2019-06-20 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-06-20 20:12**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-08-03 15:10**: style: polish typography and Nepali Unicode font rendering
 - **2019-08-03 17:12**: refactor: optimize SVG rendering for road signs
 - **2019-08-04 22:01**: feat: implement timer and score calculation for mock test
+- **2019-08-05 15:15**: feat: add keyboard navigation shortcuts for question selection
