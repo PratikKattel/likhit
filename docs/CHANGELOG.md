@@ -1,4 +1,3 @@
-- **2019-06-20 19:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-06-20 20:12**: docs: update traffic signals catalog documentation
 - **2019-06-21 13:22**: chore: format code style and clean up redundant variables
 - **2019-06-21 20:27**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-08-04 22:01**: feat: implement timer and score calculation for mock test
 - **2019-08-05 15:15**: feat: add keyboard navigation shortcuts for question selection
 - **2019-08-06 10:51**: refactor: restructure question data schema for faster loading
+- **2019-08-07 09:50**: chore: organize assets and image directory structure
