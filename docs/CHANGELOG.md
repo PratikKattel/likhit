@@ -1,4 +1,3 @@
-- **2019-06-21 20:27**: docs: add instructions for Nepali driving license written exam
 - **2019-06-22 09:45**: chore: format code style and clean up redundant variables
 - **2019-06-23 10:58**: fix: prevent option re-selection after submitting answer
 - **2019-06-23 12:02**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-08-07 09:50**: chore: organize assets and image directory structure
 - **2019-08-07 17:17**: docs: update traffic signals catalog documentation
 - **2019-08-07 20:40**: feat: add instant feedback and explanation on answer selection
+- **2019-08-08 09:47**: test: verify question extraction script against exam PDF
