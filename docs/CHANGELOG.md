@@ -1,4 +1,3 @@
-- **2019-06-23 12:02**: refactor: modularize traffic app logic and event listeners
 - **2019-06-23 16:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-06-24 14:29**: feat: support multiple choice questions for motorcycle category
 - **2019-06-24 15:30**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2019-08-08 09:47**: test: verify question extraction script against exam PDF
 - **2019-08-08 12:15**: fix: update DOTM Nepal license syllabus questions
 - **2019-08-08 18:00**: docs: update traffic signals catalog documentation
+- **2019-08-08 20:25**: docs: improve code comments and API documentation
