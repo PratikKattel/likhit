@@ -1,4 +1,3 @@
-- **2019-06-24 15:30**: feat: add regulatory traffic signs SVG graphics
 - **2019-06-25 17:42**: feat: add keyboard navigation shortcuts for question selection
 - **2019-06-25 19:14**: feat: add warning signs and informational road signs
 - **2019-06-25 20:57**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-08-08 20:25**: docs: improve code comments and API documentation
 - **2019-08-09 09:55**: perf: optimize image caching for traffic sign assets
 - **2019-08-09 12:42**: feat: add search and filter by sign category
+- **2019-08-09 22:03**: chore: update questions database with recent DOTM updates
