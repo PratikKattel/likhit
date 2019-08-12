@@ -1,4 +1,3 @@
-- **2019-06-27 14:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-06-28 13:46**: refactor: restructure question data schema for faster loading
 - **2019-06-29 09:43**: chore: update project metadata and build configuration
 - **2019-06-29 17:14**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-08-10 19:55**: feat: add warning signs and informational road signs
 - **2019-08-11 16:47**: style: enhance traffic sign card layout and responsiveness
 - **2019-08-11 18:40**: refactor: optimize SVG rendering for road signs
+- **2019-08-12 15:30**: fix: adjust passing score threshold according to new rules
