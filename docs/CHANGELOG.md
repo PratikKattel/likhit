@@ -1,4 +1,3 @@
-- **2019-07-02 14:27**: docs: update README with setup instructions and feature list
 - **2019-07-02 16:28**: perf: lazy load signal graphics and question assets
 - **2019-07-03 11:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-07-04 14:38**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-08-17 11:14**: feat: add result summary with passing threshold analysis
 - **2019-08-18 20:14**: chore: update questions database with recent DOTM updates
 - **2019-08-19 10:29**: fix: prevent option re-selection after submitting answer
+- **2019-08-19 14:38**: refactor: restructure question data schema for faster loading
