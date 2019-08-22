@@ -1,4 +1,3 @@
-- **2019-07-04 15:34**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-04 21:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-07-05 12:16**: feat: add warning signs and informational road signs
 - **2019-07-05 14:56**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2019-08-19 21:33**: refactor: restructure question data schema for faster loading
 - **2019-08-20 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-08-21 20:30**: fix: prevent option re-selection after submitting answer
+- **2019-08-22 19:39**: refactor: modularize traffic app logic and event listeners
