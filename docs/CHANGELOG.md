@@ -1,4 +1,3 @@
-- **2019-07-05 12:16**: feat: add warning signs and informational road signs
 - **2019-07-05 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2019-07-06 16:30**: feat: add category-specific practice modes
 - **2019-07-06 16:44**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-08-21 20:30**: fix: prevent option re-selection after submitting answer
 - **2019-08-22 19:39**: refactor: modularize traffic app logic and event listeners
 - **2019-08-22 19:44**: docs: improve code comments and API documentation
+- **2019-08-23 13:59**: chore: update project metadata and build configuration
