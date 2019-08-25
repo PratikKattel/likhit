@@ -1,4 +1,3 @@
-- **2019-07-06 16:30**: feat: add category-specific practice modes
 - **2019-07-06 16:44**: perf: index question IDs for rapid lookup
 - **2019-07-07 09:48**: perf: index question IDs for rapid lookup
 - **2019-07-08 13:56**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-08-22 19:44**: docs: improve code comments and API documentation
 - **2019-08-23 13:59**: chore: update project metadata and build configuration
 - **2019-08-24 17:19**: refactor: optimize SVG rendering for road signs
+- **2019-08-25 21:20**: perf: lazy load signal graphics and question assets
