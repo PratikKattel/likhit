@@ -1,4 +1,3 @@
-- **2019-07-08 20:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-07-09 15:03**: docs: improve code comments and API documentation
 - **2019-07-09 20:57**: docs: improve code comments and API documentation
 - **2019-07-10 18:04**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-08-26 12:07**: refactor: modularize traffic app logic and event listeners
 - **2019-08-27 14:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-08-27 15:13**: chore: update project metadata and build configuration
+- **2019-08-27 17:08**: feat: add category A and B traffic test questions
