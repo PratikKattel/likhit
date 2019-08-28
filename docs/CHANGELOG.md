@@ -1,4 +1,3 @@
-- **2019-07-09 20:57**: docs: improve code comments and API documentation
 - **2019-07-10 18:04**: feat: add search and filter by sign category
 - **2019-07-11 11:52**: feat: add keyboard navigation shortcuts for question selection
 - **2019-07-12 12:06**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-08-27 15:13**: chore: update project metadata and build configuration
 - **2019-08-27 17:08**: feat: add category A and B traffic test questions
 - **2019-08-27 21:28**: docs: add instructions for Nepali driving license written exam
+- **2019-08-28 12:20**: fix: adjust passing score threshold according to new rules
