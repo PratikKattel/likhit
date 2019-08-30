@@ -1,4 +1,3 @@
-- **2019-07-12 22:17**: fix: correct color specifications for mandatory traffic signs
 - **2019-07-13 13:49**: feat: support multiple choice questions for motorcycle category
 - **2019-07-14 09:27**: feat: add regulatory traffic signs SVG graphics
 - **2019-07-15 10:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2019-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2019-08-29 18:49**: feat: add search and filter by sign category
 - **2019-08-30 09:06**: perf: optimize image caching for traffic sign assets
+- **2019-08-30 19:06**: fix: prevent option re-selection after submitting answer
