@@ -1,4 +1,3 @@
-- **2019-07-13 13:49**: feat: support multiple choice questions for motorcycle category
 - **2019-07-14 09:27**: feat: add regulatory traffic signs SVG graphics
 - **2019-07-15 10:44**: feat: support multiple choice questions for motorcycle category
 - **2019-07-15 17:19**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-08-29 18:49**: feat: add search and filter by sign category
 - **2019-08-30 09:06**: perf: optimize image caching for traffic sign assets
 - **2019-08-30 19:06**: fix: prevent option re-selection after submitting answer
+- **2019-08-30 21:19**: fix: resolve layout shift during question transitions
