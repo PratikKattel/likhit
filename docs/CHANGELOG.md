@@ -1,4 +1,3 @@
-- **2019-07-12 12:06**: chore: organize assets and image directory structure
 - **2019-07-12 22:17**: fix: correct color specifications for mandatory traffic signs
 - **2019-07-13 13:49**: feat: support multiple choice questions for motorcycle category
 - **2019-07-14 09:27**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2019-08-28 12:20**: fix: adjust passing score threshold according to new rules
 - **2019-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2019-08-29 18:49**: feat: add search and filter by sign category
+- **2019-08-30 09:06**: perf: optimize image caching for traffic sign assets
