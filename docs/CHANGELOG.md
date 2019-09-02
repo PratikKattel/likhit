@@ -1,4 +1,3 @@
-- **2019-07-15 17:19**: refactor: restructure question data schema for faster loading
 - **2019-07-15 18:46**: refactor: restructure question data schema for faster loading
 - **2019-07-16 12:25**: feat: add warning signs and informational road signs
 - **2019-07-17 14:03**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-08-30 21:19**: fix: resolve layout shift during question transitions
 - **2019-08-31 17:46**: feat: add category-specific practice modes
 - **2019-09-01 14:16**: feat: add result summary with passing threshold analysis
+- **2019-09-02 14:54**: fix: correct color specifications for mandatory traffic signs
