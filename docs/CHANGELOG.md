@@ -1,4 +1,3 @@
-- **2019-07-16 12:25**: feat: add warning signs and informational road signs
 - **2019-07-17 14:03**: feat: add instant feedback and explanation on answer selection
 - **2019-07-18 22:07**: docs: update README with setup instructions and feature list
 - **2019-07-19 21:37**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2019-09-01 14:16**: feat: add result summary with passing threshold analysis
 - **2019-09-02 14:54**: fix: correct color specifications for mandatory traffic signs
 - **2019-09-03 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-09-04 11:18**: docs: update README with setup instructions and feature list
