@@ -1,4 +1,3 @@
-- **2019-07-19 21:37**: feat: add regulatory traffic signs SVG graphics
 - **2019-07-20 13:44**: perf: index question IDs for rapid lookup
 - **2019-07-20 19:29**: chore: update project metadata and build configuration
 - **2019-07-21 12:47**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-09-04 11:18**: docs: update README with setup instructions and feature list
 - **2019-09-05 12:15**: chore: organize assets and image directory structure
 - **2019-09-06 09:37**: docs: improve code comments and API documentation
+- **2019-09-06 09:54**: style: improve dark/light mode and mobile UI responsiveness
