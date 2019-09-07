@@ -1,4 +1,3 @@
-- **2019-07-20 19:29**: chore: update project metadata and build configuration
 - **2019-07-21 12:47**: feat: add category-specific practice modes
 - **2019-07-22 19:27**: chore: organize assets and image directory structure
 - **2019-07-23 19:37**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2019-09-06 09:37**: docs: improve code comments and API documentation
 - **2019-09-06 09:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-09-07 10:39**: chore: update questions database with recent DOTM updates
+- **2019-09-07 13:04**: fix: typo in Nepali road safety regulations question
