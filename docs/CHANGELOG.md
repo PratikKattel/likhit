@@ -1,4 +1,3 @@
-- **2019-07-24 17:02**: docs: update traffic signals catalog documentation
 - **2019-07-24 17:33**: chore: organize assets and image directory structure
 - **2019-07-25 13:13**: test: verify question extraction script against exam PDF
 - **2019-07-25 18:40**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-09-08 09:51**: chore: format code style and clean up redundant variables
 - **2019-09-08 13:33**: fix: prevent option re-selection after submitting answer
 - **2019-09-09 09:27**: fix: adjust passing score threshold according to new rules
+- **2019-09-09 20:52**: style: improve dark/light mode and mobile UI responsiveness
