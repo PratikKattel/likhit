@@ -1,4 +1,3 @@
-- **2019-07-25 18:40**: docs: add instructions for Nepali driving license written exam
 - **2019-07-26 11:16**: test: verify question extraction script against exam PDF
 - **2019-07-27 13:00**: feat: support multiple choice questions for motorcycle category
 - **2019-07-27 19:12**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-09-09 20:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-09-10 09:19**: chore: organize assets and image directory structure
 - **2019-09-10 13:44**: fix: typo in Nepali road safety regulations question
+- **2019-09-11 13:24**: docs: add instructions for Nepali driving license written exam
