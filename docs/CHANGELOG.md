@@ -1,4 +1,3 @@
-- **2019-07-27 19:12**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-28 09:09**: fix: prevent option re-selection after submitting answer
 - **2019-07-28 10:19**: fix: adjust passing score threshold according to new rules
 - **2019-07-28 10:42**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2019-09-11 13:24**: docs: add instructions for Nepali driving license written exam
 - **2019-09-11 14:24**: chore: update project metadata and build configuration
 - **2019-09-12 12:18**: refactor: optimize SVG rendering for road signs
+- **2019-09-12 12:21**: refactor: optimize SVG rendering for road signs
