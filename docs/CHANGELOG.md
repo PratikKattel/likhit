@@ -1,4 +1,3 @@
-- **2019-07-28 09:09**: fix: prevent option re-selection after submitting answer
 - **2019-07-28 10:19**: fix: adjust passing score threshold according to new rules
 - **2019-07-28 10:42**: feat: add category A and B traffic test questions
 - **2019-07-28 22:24**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-09-11 14:24**: chore: update project metadata and build configuration
 - **2019-09-12 12:18**: refactor: optimize SVG rendering for road signs
 - **2019-09-12 12:21**: refactor: optimize SVG rendering for road signs
+- **2019-09-13 21:16**: chore: organize assets and image directory structure
