@@ -1,4 +1,3 @@
-- **2019-07-28 22:24**: feat: add category-specific practice modes
 - **2019-07-29 09:11**: feat: add result summary with passing threshold analysis
 - **2019-07-30 14:11**: refactor: modularize traffic app logic and event listeners
 - **2019-07-31 11:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-09-13 21:16**: chore: organize assets and image directory structure
 - **2019-09-14 13:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-09-14 18:47**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-09-15 19:26**: style: enhance traffic sign card layout and responsiveness
