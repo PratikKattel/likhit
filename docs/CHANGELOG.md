@@ -1,4 +1,3 @@
-- **2019-07-30 14:11**: refactor: modularize traffic app logic and event listeners
 - **2019-07-31 11:56**: style: polish typography and Nepali Unicode font rendering
 - **2019-07-31 15:42**: refactor: modularize traffic app logic and event listeners
 - **2019-07-31 17:57**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2019-09-14 18:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-09-15 19:26**: style: enhance traffic sign card layout and responsiveness
 - **2019-09-15 21:16**: docs: add instructions for Nepali driving license written exam
+- **2019-09-16 11:43**: perf: index question IDs for rapid lookup
