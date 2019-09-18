@@ -1,4 +1,3 @@
-- **2019-07-31 17:57**: style: enhance traffic sign card layout and responsiveness
 - **2019-08-01 17:49**: refactor: modularize traffic app logic and event listeners
 - **2019-08-02 12:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-08-03 15:10**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-09-16 11:43**: perf: index question IDs for rapid lookup
 - **2019-09-17 14:09**: feat: add category A and B traffic test questions
 - **2019-09-18 09:54**: test: verify question extraction script against exam PDF
+- **2019-09-18 21:52**: feat: add keyboard navigation shortcuts for question selection
