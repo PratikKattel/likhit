@@ -1,4 +1,3 @@
-- **2019-08-05 15:15**: feat: add keyboard navigation shortcuts for question selection
 - **2019-08-06 10:51**: refactor: restructure question data schema for faster loading
 - **2019-08-07 09:50**: chore: organize assets and image directory structure
 - **2019-08-07 17:17**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-09-21 18:57**: refactor: restructure question data schema for faster loading
 - **2019-09-22 10:42**: perf: index question IDs for rapid lookup
 - **2019-09-22 12:55**: feat: add keyboard navigation shortcuts for question selection
+- **2019-09-22 17:29**: chore: update project metadata and build configuration
