@@ -1,4 +1,3 @@
-- **2019-08-06 10:51**: refactor: restructure question data schema for faster loading
 - **2019-08-07 09:50**: chore: organize assets and image directory structure
 - **2019-08-07 17:17**: docs: update traffic signals catalog documentation
 - **2019-08-07 20:40**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2019-09-22 10:42**: perf: index question IDs for rapid lookup
 - **2019-09-22 12:55**: feat: add keyboard navigation shortcuts for question selection
 - **2019-09-22 17:29**: chore: update project metadata and build configuration
+- **2019-09-23 11:21**: feat: add category-specific practice modes
