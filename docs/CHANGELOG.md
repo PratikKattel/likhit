@@ -1,4 +1,3 @@
-- **2019-08-08 12:15**: fix: update DOTM Nepal license syllabus questions
 - **2019-08-08 18:00**: docs: update traffic signals catalog documentation
 - **2019-08-08 20:25**: docs: improve code comments and API documentation
 - **2019-08-09 09:55**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-09-24 09:49**: refactor: modularize traffic app logic and event listeners
 - **2019-09-24 20:32**: feat: add category-specific practice modes
 - **2019-09-25 11:40**: perf: index question IDs for rapid lookup
+- **2019-09-26 10:00**: docs: add instructions for Nepali driving license written exam
