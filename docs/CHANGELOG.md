@@ -1,4 +1,3 @@
-- **2019-08-08 20:25**: docs: improve code comments and API documentation
 - **2019-08-09 09:55**: perf: optimize image caching for traffic sign assets
 - **2019-08-09 12:42**: feat: add search and filter by sign category
 - **2019-08-09 22:03**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-09-25 11:40**: perf: index question IDs for rapid lookup
 - **2019-09-26 10:00**: docs: add instructions for Nepali driving license written exam
 - **2019-09-27 11:40**: docs: improve code comments and API documentation
+- **2019-09-27 12:07**: perf: lazy load signal graphics and question assets
