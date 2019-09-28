@@ -1,4 +1,3 @@
-- **2019-08-10 11:13**: docs: update traffic signals catalog documentation
 - **2019-08-10 19:55**: feat: add warning signs and informational road signs
 - **2019-08-11 16:47**: style: enhance traffic sign card layout and responsiveness
 - **2019-08-11 18:40**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-09-27 22:14**: perf: optimize image caching for traffic sign assets
 - **2019-09-28 16:21**: docs: add instructions for Nepali driving license written exam
 - **2019-09-28 18:25**: fix: update DOTM Nepal license syllabus questions
+- **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
