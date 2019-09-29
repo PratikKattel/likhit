@@ -1,4 +1,3 @@
-- **2019-08-11 18:40**: refactor: optimize SVG rendering for road signs
 - **2019-08-12 15:30**: fix: adjust passing score threshold according to new rules
 - **2019-08-12 18:52**: chore: update project metadata and build configuration
 - **2019-08-13 11:06**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
 - **2019-09-29 16:02**: docs: update README with setup instructions and feature list
 - **2019-09-29 21:47**: feat: add category-specific practice modes
+- **2019-09-29 22:10**: style: polish typography and Nepali Unicode font rendering
