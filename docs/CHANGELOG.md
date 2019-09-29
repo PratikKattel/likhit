@@ -1,4 +1,3 @@
-- **2019-08-11 16:47**: style: enhance traffic sign card layout and responsiveness
 - **2019-08-11 18:40**: refactor: optimize SVG rendering for road signs
 - **2019-08-12 15:30**: fix: adjust passing score threshold according to new rules
 - **2019-08-12 18:52**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-09-28 18:25**: fix: update DOTM Nepal license syllabus questions
 - **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
 - **2019-09-29 16:02**: docs: update README with setup instructions and feature list
+- **2019-09-29 21:47**: feat: add category-specific practice modes
