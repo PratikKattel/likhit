@@ -1,4 +1,3 @@
-- **2019-08-12 18:52**: chore: update project metadata and build configuration
 - **2019-08-13 11:06**: chore: update questions database with recent DOTM updates
 - **2019-08-14 14:56**: feat: add search and filter by sign category
 - **2019-08-15 12:58**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-09-29 21:47**: feat: add category-specific practice modes
 - **2019-09-29 22:10**: style: polish typography and Nepali Unicode font rendering
 - **2019-09-30 15:04**: style: enhance traffic sign card layout and responsiveness
+- **2019-10-01 17:29**: fix: correct color specifications for mandatory traffic signs
