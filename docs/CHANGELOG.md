@@ -1,4 +1,3 @@
-- **2019-08-15 12:58**: refactor: optimize SVG rendering for road signs
 - **2019-08-16 20:16**: feat: implement timer and score calculation for mock test
 - **2019-08-17 11:14**: feat: add result summary with passing threshold analysis
 - **2019-08-18 20:14**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-10-01 17:29**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-01 19:42**: feat: add instant feedback and explanation on answer selection
 - **2019-10-02 12:50**: feat: add warning signs and informational road signs
+- **2019-10-02 16:16**: perf: index question IDs for rapid lookup
