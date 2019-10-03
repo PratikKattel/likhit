@@ -1,4 +1,3 @@
-- **2019-08-17 11:14**: feat: add result summary with passing threshold analysis
 - **2019-08-18 20:14**: chore: update questions database with recent DOTM updates
 - **2019-08-19 10:29**: fix: prevent option re-selection after submitting answer
 - **2019-08-19 14:38**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-10-02 12:50**: feat: add warning signs and informational road signs
 - **2019-10-02 16:16**: perf: index question IDs for rapid lookup
 - **2019-10-02 20:42**: style: enhance traffic sign card layout and responsiveness
+- **2019-10-03 11:26**: refactor: modularize traffic app logic and event listeners
