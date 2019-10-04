@@ -1,4 +1,3 @@
-- **2019-08-19 10:29**: fix: prevent option re-selection after submitting answer
 - **2019-08-19 14:38**: refactor: restructure question data schema for faster loading
 - **2019-08-19 21:33**: refactor: restructure question data schema for faster loading
 - **2019-08-20 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-10-02 20:42**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-03 11:26**: refactor: modularize traffic app logic and event listeners
 - **2019-10-03 20:00**: perf: optimize image caching for traffic sign assets
+- **2019-10-04 09:52**: feat: implement timer and score calculation for mock test
