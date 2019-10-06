@@ -1,4 +1,3 @@
-- **2019-08-19 21:33**: refactor: restructure question data schema for faster loading
 - **2019-08-20 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-08-21 20:30**: fix: prevent option re-selection after submitting answer
 - **2019-08-22 19:39**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-10-03 20:00**: perf: optimize image caching for traffic sign assets
 - **2019-10-04 09:52**: feat: implement timer and score calculation for mock test
 - **2019-10-05 14:15**: chore: organize assets and image directory structure
+- **2019-10-06 19:50**: feat: add search and filter by sign category
