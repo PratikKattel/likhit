@@ -1,4 +1,3 @@
-- **2019-08-20 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-08-21 20:30**: fix: prevent option re-selection after submitting answer
 - **2019-08-22 19:39**: refactor: modularize traffic app logic and event listeners
 - **2019-08-22 19:44**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-10-04 09:52**: feat: implement timer and score calculation for mock test
 - **2019-10-05 14:15**: chore: organize assets and image directory structure
 - **2019-10-06 19:50**: feat: add search and filter by sign category
+- **2019-10-07 09:41**: chore: format code style and clean up redundant variables
