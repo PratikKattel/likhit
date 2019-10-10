@@ -1,4 +1,3 @@
-- **2019-08-26 11:12**: fix: correct color specifications for mandatory traffic signs
 - **2019-08-26 12:07**: refactor: modularize traffic app logic and event listeners
 - **2019-08-27 14:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-08-27 15:13**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-10-08 12:52**: refactor: modularize traffic app logic and event listeners
 - **2019-10-09 12:57**: feat: add regulatory traffic signs SVG graphics
 - **2019-10-09 18:56**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-10-10 11:16**: refactor: optimize SVG rendering for road signs
