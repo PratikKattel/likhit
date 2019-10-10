@@ -1,4 +1,3 @@
-- **2019-08-27 14:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-08-27 15:13**: chore: update project metadata and build configuration
 - **2019-08-27 17:08**: feat: add category A and B traffic test questions
 - **2019-08-27 21:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-10-09 18:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-10-10 11:16**: refactor: optimize SVG rendering for road signs
 - **2019-10-10 14:28**: chore: update project metadata and build configuration
+- **2019-10-10 16:19**: fix: correct color specifications for mandatory traffic signs
