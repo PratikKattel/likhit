@@ -1,4 +1,3 @@
-- **2019-08-27 21:28**: docs: add instructions for Nepali driving license written exam
 - **2019-08-28 12:20**: fix: adjust passing score threshold according to new rules
 - **2019-08-29 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2019-08-29 18:49**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-10-10 16:19**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-10 19:04**: chore: update questions database with recent DOTM updates
 - **2019-10-11 09:50**: chore: format code style and clean up redundant variables
+- **2019-10-12 18:26**: refactor: restructure question data schema for faster loading
