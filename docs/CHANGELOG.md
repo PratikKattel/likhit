@@ -1,4 +1,3 @@
-- **2019-08-29 18:49**: feat: add search and filter by sign category
 - **2019-08-30 09:06**: perf: optimize image caching for traffic sign assets
 - **2019-08-30 19:06**: fix: prevent option re-selection after submitting answer
 - **2019-08-30 21:19**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2019-10-12 18:26**: refactor: restructure question data schema for faster loading
 - **2019-10-12 21:20**: feat: add result summary with passing threshold analysis
 - **2019-10-13 16:38**: fix: update DOTM Nepal license syllabus questions
+- **2019-10-14 09:31**: perf: index question IDs for rapid lookup
