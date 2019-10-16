@@ -1,4 +1,3 @@
-- **2019-09-02 14:54**: fix: correct color specifications for mandatory traffic signs
 - **2019-09-03 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-09-04 11:18**: docs: update README with setup instructions and feature list
 - **2019-09-05 12:15**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-10-15 14:59**: perf: lazy load signal graphics and question assets
 - **2019-10-15 21:09**: fix: resolve layout shift during question transitions
 - **2019-10-16 14:38**: fix: adjust passing score threshold according to new rules
+- **2019-10-16 17:24**: fix: prevent option re-selection after submitting answer
