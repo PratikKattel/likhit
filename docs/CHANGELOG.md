@@ -1,4 +1,3 @@
-- **2019-09-01 14:16**: feat: add result summary with passing threshold analysis
 - **2019-09-02 14:54**: fix: correct color specifications for mandatory traffic signs
 - **2019-09-03 09:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-09-04 11:18**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-10-14 22:16**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-15 14:59**: perf: lazy load signal graphics and question assets
 - **2019-10-15 21:09**: fix: resolve layout shift during question transitions
+- **2019-10-16 14:38**: fix: adjust passing score threshold according to new rules
