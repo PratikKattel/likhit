@@ -1,4 +1,3 @@
-- **2019-09-04 11:18**: docs: update README with setup instructions and feature list
 - **2019-09-05 12:15**: chore: organize assets and image directory structure
 - **2019-09-06 09:37**: docs: improve code comments and API documentation
 - **2019-09-06 09:54**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-10-16 14:38**: fix: adjust passing score threshold according to new rules
 - **2019-10-16 17:24**: fix: prevent option re-selection after submitting answer
 - **2019-10-16 19:11**: docs: improve code comments and API documentation
+- **2019-10-17 09:14**: perf: index question IDs for rapid lookup
