@@ -1,4 +1,3 @@
-- **2019-09-07 13:04**: fix: typo in Nepali road safety regulations question
 - **2019-09-08 09:51**: chore: format code style and clean up redundant variables
 - **2019-09-08 13:33**: fix: prevent option re-selection after submitting answer
 - **2019-09-09 09:27**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2019-10-18 18:43**: chore: update project metadata and build configuration
 - **2019-10-18 21:18**: feat: add category-specific practice modes
 - **2019-10-19 15:34**: refactor: modularize traffic app logic and event listeners
+- **2019-10-19 19:54**: fix: typo in Nepali road safety regulations question
