@@ -1,4 +1,3 @@
-- **2019-09-08 13:33**: fix: prevent option re-selection after submitting answer
 - **2019-09-09 09:27**: fix: adjust passing score threshold according to new rules
 - **2019-09-09 20:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-09-10 09:19**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-10-19 15:34**: refactor: modularize traffic app logic and event listeners
 - **2019-10-19 19:54**: fix: typo in Nepali road safety regulations question
 - **2019-10-20 12:18**: feat: add instant feedback and explanation on answer selection
+- **2019-10-20 17:24**: feat: add warning signs and informational road signs
