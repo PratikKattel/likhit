@@ -1,4 +1,3 @@
-- **2019-09-10 09:19**: chore: organize assets and image directory structure
 - **2019-09-10 13:44**: fix: typo in Nepali road safety regulations question
 - **2019-09-11 13:24**: docs: add instructions for Nepali driving license written exam
 - **2019-09-11 14:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-10-20 17:24**: feat: add warning signs and informational road signs
 - **2019-10-20 19:29**: feat: add warning signs and informational road signs
 - **2019-10-21 12:29**: style: improve dark/light mode and mobile UI responsiveness
+- **2019-10-22 12:38**: docs: add instructions for Nepali driving license written exam
