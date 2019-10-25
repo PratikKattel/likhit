@@ -1,4 +1,3 @@
-- **2019-09-12 12:21**: refactor: optimize SVG rendering for road signs
 - **2019-09-13 21:16**: chore: organize assets and image directory structure
 - **2019-09-14 13:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-09-14 18:47**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2019-10-24 22:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-10-25 13:58**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-25 16:23**: refactor: optimize SVG rendering for road signs
+- **2019-10-25 18:04**: feat: add instant feedback and explanation on answer selection
