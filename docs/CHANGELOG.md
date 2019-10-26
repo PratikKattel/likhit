@@ -1,4 +1,3 @@
-- **2019-09-14 13:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-09-14 18:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-09-15 19:26**: style: enhance traffic sign card layout and responsiveness
 - **2019-09-15 21:16**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-10-25 16:23**: refactor: optimize SVG rendering for road signs
 - **2019-10-25 18:04**: feat: add instant feedback and explanation on answer selection
 - **2019-10-26 14:09**: style: polish typography and Nepali Unicode font rendering
+- **2019-10-26 20:56**: style: polish typography and Nepali Unicode font rendering
