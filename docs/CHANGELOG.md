@@ -1,4 +1,3 @@
-- **2019-09-17 14:09**: feat: add category A and B traffic test questions
 - **2019-09-18 09:54**: test: verify question extraction script against exam PDF
 - **2019-09-18 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2019-09-19 14:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-10-27 19:55**: docs: update traffic signals catalog documentation
 - **2019-10-28 15:23**: feat: implement timer and score calculation for mock test
 - **2019-10-28 17:18**: fix: prevent option re-selection after submitting answer
+- **2019-10-29 11:56**: feat: add warning signs and informational road signs
