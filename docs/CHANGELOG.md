@@ -1,4 +1,3 @@
-- **2019-09-18 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2019-09-19 14:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-09-20 14:49**: chore: update project metadata and build configuration
 - **2019-09-21 18:57**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-10-28 17:18**: fix: prevent option re-selection after submitting answer
 - **2019-10-29 11:56**: feat: add warning signs and informational road signs
 - **2019-10-30 10:53**: feat: add category-specific practice modes
+- **2019-10-31 09:14**: fix: correct color specifications for mandatory traffic signs
