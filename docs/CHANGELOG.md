@@ -1,4 +1,3 @@
-- **2019-09-19 14:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-09-20 14:49**: chore: update project metadata and build configuration
 - **2019-09-21 18:57**: refactor: restructure question data schema for faster loading
 - **2019-09-22 10:42**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-10-29 11:56**: feat: add warning signs and informational road signs
 - **2019-10-30 10:53**: feat: add category-specific practice modes
 - **2019-10-31 09:14**: fix: correct color specifications for mandatory traffic signs
+- **2019-10-31 17:06**: docs: update README with setup instructions and feature list
