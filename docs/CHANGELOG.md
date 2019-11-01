@@ -1,4 +1,3 @@
-- **2019-09-20 14:49**: chore: update project metadata and build configuration
 - **2019-09-21 18:57**: refactor: restructure question data schema for faster loading
 - **2019-09-22 10:42**: perf: index question IDs for rapid lookup
 - **2019-09-22 12:55**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2019-10-30 10:53**: feat: add category-specific practice modes
 - **2019-10-31 09:14**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-31 17:06**: docs: update README with setup instructions and feature list
+- **2019-11-01 10:43**: docs: add instructions for Nepali driving license written exam
