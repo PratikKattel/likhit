@@ -1,4 +1,3 @@
-- **2019-09-22 10:42**: perf: index question IDs for rapid lookup
 - **2019-09-22 12:55**: feat: add keyboard navigation shortcuts for question selection
 - **2019-09-22 17:29**: chore: update project metadata and build configuration
 - **2019-09-23 11:21**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2019-10-31 17:06**: docs: update README with setup instructions and feature list
 - **2019-11-01 10:43**: docs: add instructions for Nepali driving license written exam
 - **2019-11-01 19:38**: docs: update README with setup instructions and feature list
+- **2019-11-02 10:56**: feat: add instant feedback and explanation on answer selection
