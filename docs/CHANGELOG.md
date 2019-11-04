@@ -1,4 +1,3 @@
-- **2019-09-23 12:39**: docs: update traffic signals catalog documentation
 - **2019-09-24 09:49**: refactor: modularize traffic app logic and event listeners
 - **2019-09-24 20:32**: feat: add category-specific practice modes
 - **2019-09-25 11:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-11-02 21:46**: feat: support multiple choice questions for motorcycle category
 - **2019-11-03 12:06**: feat: add search and filter by sign category
 - **2019-11-03 20:13**: fix: correct color specifications for mandatory traffic signs
+- **2019-11-04 20:30**: refactor: restructure question data schema for faster loading
