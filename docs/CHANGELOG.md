@@ -1,4 +1,3 @@
-- **2019-09-25 11:40**: perf: index question IDs for rapid lookup
 - **2019-09-26 10:00**: docs: add instructions for Nepali driving license written exam
 - **2019-09-27 11:40**: docs: improve code comments and API documentation
 - **2019-09-27 12:07**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2019-11-04 20:30**: refactor: restructure question data schema for faster loading
 - **2019-11-05 12:57**: docs: add instructions for Nepali driving license written exam
 - **2019-11-05 19:29**: docs: update README with setup instructions and feature list
+- **2019-11-06 20:34**: feat: add category A and B traffic test questions
