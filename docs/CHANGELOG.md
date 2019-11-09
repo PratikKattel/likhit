@@ -1,4 +1,3 @@
-- **2019-09-27 22:14**: perf: optimize image caching for traffic sign assets
 - **2019-09-28 16:21**: docs: add instructions for Nepali driving license written exam
 - **2019-09-28 18:25**: fix: update DOTM Nepal license syllabus questions
 - **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-11-06 21:11**: feat: implement timer and score calculation for mock test
 - **2019-11-07 16:55**: test: verify question extraction script against exam PDF
 - **2019-11-08 10:58**: feat: add category A and B traffic test questions
+- **2019-11-09 14:35**: chore: organize assets and image directory structure
