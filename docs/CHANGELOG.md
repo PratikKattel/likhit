@@ -1,4 +1,3 @@
-- **2019-09-28 16:21**: docs: add instructions for Nepali driving license written exam
 - **2019-09-28 18:25**: fix: update DOTM Nepal license syllabus questions
 - **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
 - **2019-09-29 16:02**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-11-07 16:55**: test: verify question extraction script against exam PDF
 - **2019-11-08 10:58**: feat: add category A and B traffic test questions
 - **2019-11-09 14:35**: chore: organize assets and image directory structure
+- **2019-11-10 19:06**: refactor: optimize SVG rendering for road signs
