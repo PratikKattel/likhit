@@ -1,4 +1,3 @@
-- **2019-09-28 19:03**: refactor: optimize SVG rendering for road signs
 - **2019-09-29 16:02**: docs: update README with setup instructions and feature list
 - **2019-09-29 21:47**: feat: add category-specific practice modes
 - **2019-09-29 22:10**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-11-09 14:35**: chore: organize assets and image directory structure
 - **2019-11-10 19:06**: refactor: optimize SVG rendering for road signs
 - **2019-11-11 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-11-12 12:21**: perf: index question IDs for rapid lookup
