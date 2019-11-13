@@ -1,4 +1,3 @@
-- **2019-09-29 21:47**: feat: add category-specific practice modes
 - **2019-09-29 22:10**: style: polish typography and Nepali Unicode font rendering
 - **2019-09-30 15:04**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-01 17:29**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2019-11-11 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-11-12 12:21**: perf: index question IDs for rapid lookup
 - **2019-11-12 22:14**: perf: optimize image caching for traffic sign assets
+- **2019-11-13 15:34**: feat: add category A and B traffic test questions
