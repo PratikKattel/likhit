@@ -1,4 +1,3 @@
-- **2019-10-01 17:29**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-01 19:42**: feat: add instant feedback and explanation on answer selection
 - **2019-10-02 12:50**: feat: add warning signs and informational road signs
 - **2019-10-02 16:16**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-11-13 15:34**: feat: add category A and B traffic test questions
 - **2019-11-13 22:27**: docs: improve code comments and API documentation
 - **2019-11-14 09:58**: refactor: modularize traffic app logic and event listeners
+- **2019-11-15 11:38**: fix: typo in Nepali road safety regulations question
