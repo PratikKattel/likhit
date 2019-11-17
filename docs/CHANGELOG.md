@@ -1,4 +1,3 @@
-- **2019-10-02 12:50**: feat: add warning signs and informational road signs
 - **2019-10-02 16:16**: perf: index question IDs for rapid lookup
 - **2019-10-02 20:42**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-03 11:26**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2019-11-14 09:58**: refactor: modularize traffic app logic and event listeners
 - **2019-11-15 11:38**: fix: typo in Nepali road safety regulations question
 - **2019-11-16 10:37**: docs: update traffic signals catalog documentation
+- **2019-11-17 15:09**: fix: correct color specifications for mandatory traffic signs
