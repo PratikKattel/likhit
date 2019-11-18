@@ -1,4 +1,3 @@
-- **2019-10-02 20:42**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-03 11:26**: refactor: modularize traffic app logic and event listeners
 - **2019-10-03 20:00**: perf: optimize image caching for traffic sign assets
 - **2019-10-04 09:52**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-11-16 10:37**: docs: update traffic signals catalog documentation
 - **2019-11-17 15:09**: fix: correct color specifications for mandatory traffic signs
 - **2019-11-17 17:56**: chore: format code style and clean up redundant variables
+- **2019-11-18 15:40**: feat: add category A and B traffic test questions
