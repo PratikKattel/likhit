@@ -1,4 +1,3 @@
-- **2019-10-05 14:15**: chore: organize assets and image directory structure
 - **2019-10-06 19:50**: feat: add search and filter by sign category
 - **2019-10-07 09:41**: chore: format code style and clean up redundant variables
 - **2019-10-07 10:24**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-11-19 20:36**: docs: improve code comments and API documentation
 - **2019-11-20 14:25**: perf: optimize image caching for traffic sign assets
 - **2019-11-20 16:17**: chore: organize assets and image directory structure
+- **2019-11-20 21:58**: refactor: modularize traffic app logic and event listeners
