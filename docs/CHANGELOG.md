@@ -1,4 +1,3 @@
-- **2019-10-07 09:41**: chore: format code style and clean up redundant variables
 - **2019-10-07 10:24**: chore: update project metadata and build configuration
 - **2019-10-07 11:05**: chore: format code style and clean up redundant variables
 - **2019-10-07 13:37**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2019-11-20 16:17**: chore: organize assets and image directory structure
 - **2019-11-20 21:58**: refactor: modularize traffic app logic and event listeners
 - **2019-11-21 10:02**: chore: organize assets and image directory structure
+- **2019-11-21 11:52**: style: improve dark/light mode and mobile UI responsiveness
