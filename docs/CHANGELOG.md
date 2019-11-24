@@ -1,4 +1,3 @@
-- **2019-10-08 12:52**: refactor: modularize traffic app logic and event listeners
 - **2019-10-09 12:57**: feat: add regulatory traffic signs SVG graphics
 - **2019-10-09 18:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-10-10 11:16**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-11-22 10:21**: feat: add regulatory traffic signs SVG graphics
 - **2019-11-23 12:35**: refactor: modularize traffic app logic and event listeners
 - **2019-11-23 16:26**: chore: format code style and clean up redundant variables
+- **2019-11-24 12:48**: docs: update README with setup instructions and feature list
