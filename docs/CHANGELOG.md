@@ -1,4 +1,3 @@
-- **2019-10-10 11:16**: refactor: optimize SVG rendering for road signs
 - **2019-10-10 14:28**: chore: update project metadata and build configuration
 - **2019-10-10 16:19**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-10 19:04**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2019-11-24 12:48**: docs: update README with setup instructions and feature list
 - **2019-11-24 15:17**: feat: add warning signs and informational road signs
 - **2019-11-25 11:11**: fix: resolve layout shift during question transitions
+- **2019-11-26 12:08**: chore: organize assets and image directory structure
