@@ -1,4 +1,3 @@
-- **2019-10-10 16:19**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-10 19:04**: chore: update questions database with recent DOTM updates
 - **2019-10-11 09:50**: chore: format code style and clean up redundant variables
 - **2019-10-12 18:26**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2019-11-25 11:11**: fix: resolve layout shift during question transitions
 - **2019-11-26 12:08**: chore: organize assets and image directory structure
 - **2019-11-27 10:32**: feat: add result summary with passing threshold analysis
+- **2019-11-27 13:46**: feat: add search and filter by sign category
