@@ -1,4 +1,3 @@
-- **2019-10-11 09:50**: chore: format code style and clean up redundant variables
 - **2019-10-12 18:26**: refactor: restructure question data schema for faster loading
 - **2019-10-12 21:20**: feat: add result summary with passing threshold analysis
 - **2019-10-13 16:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2019-11-27 10:32**: feat: add result summary with passing threshold analysis
 - **2019-11-27 13:46**: feat: add search and filter by sign category
 - **2019-11-28 20:40**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-11-29 15:37**: chore: update questions database with recent DOTM updates
