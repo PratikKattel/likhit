@@ -1,4 +1,3 @@
-- **2019-10-13 16:38**: fix: update DOTM Nepal license syllabus questions
 - **2019-10-14 09:31**: perf: index question IDs for rapid lookup
 - **2019-10-14 13:22**: chore: update project metadata and build configuration
 - **2019-10-14 22:16**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2019-11-29 15:37**: chore: update questions database with recent DOTM updates
 - **2019-11-29 19:44**: fix: update DOTM Nepal license syllabus questions
 - **2019-11-29 21:43**: refactor: restructure question data schema for faster loading
+- **2019-11-30 12:12**: feat: add search and filter by sign category
