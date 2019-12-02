@@ -1,4 +1,3 @@
-- **2019-10-15 14:59**: perf: lazy load signal graphics and question assets
 - **2019-10-15 21:09**: fix: resolve layout shift during question transitions
 - **2019-10-16 14:38**: fix: adjust passing score threshold according to new rules
 - **2019-10-16 17:24**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2019-11-30 21:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-01 10:34**: chore: update project metadata and build configuration
 - **2019-12-01 11:42**: refactor: modularize traffic app logic and event listeners
+- **2019-12-02 09:05**: style: polish typography and Nepali Unicode font rendering
