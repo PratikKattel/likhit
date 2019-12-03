@@ -1,4 +1,3 @@
-- **2019-10-16 14:38**: fix: adjust passing score threshold according to new rules
 - **2019-10-16 17:24**: fix: prevent option re-selection after submitting answer
 - **2019-10-16 19:11**: docs: improve code comments and API documentation
 - **2019-10-17 09:14**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2019-12-01 11:42**: refactor: modularize traffic app logic and event listeners
 - **2019-12-02 09:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-12-03 14:54**: feat: add result summary with passing threshold analysis
+- **2019-12-03 21:32**: feat: implement timer and score calculation for mock test
