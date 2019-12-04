@@ -1,4 +1,3 @@
-- **2019-10-16 19:11**: docs: improve code comments and API documentation
 - **2019-10-17 09:14**: perf: index question IDs for rapid lookup
 - **2019-10-17 14:46**: docs: update README with setup instructions and feature list
 - **2019-10-18 18:43**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2019-12-03 14:54**: feat: add result summary with passing threshold analysis
 - **2019-12-03 21:32**: feat: implement timer and score calculation for mock test
 - **2019-12-04 17:41**: fix: adjust passing score threshold according to new rules
+- **2019-12-04 20:39**: fix: adjust passing score threshold according to new rules
