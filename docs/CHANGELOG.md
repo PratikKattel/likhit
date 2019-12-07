@@ -1,4 +1,3 @@
-- **2019-10-18 18:43**: chore: update project metadata and build configuration
 - **2019-10-18 21:18**: feat: add category-specific practice modes
 - **2019-10-19 15:34**: refactor: modularize traffic app logic and event listeners
 - **2019-10-19 19:54**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2019-12-04 20:39**: fix: adjust passing score threshold according to new rules
 - **2019-12-05 09:58**: feat: add search and filter by sign category
 - **2019-12-06 20:01**: fix: adjust passing score threshold according to new rules
+- **2019-12-07 12:18**: fix: correct color specifications for mandatory traffic signs
