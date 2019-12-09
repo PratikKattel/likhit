@@ -1,4 +1,3 @@
-- **2019-10-19 19:54**: fix: typo in Nepali road safety regulations question
 - **2019-10-20 12:18**: feat: add instant feedback and explanation on answer selection
 - **2019-10-20 17:24**: feat: add warning signs and informational road signs
 - **2019-10-20 19:29**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-12-07 12:18**: fix: correct color specifications for mandatory traffic signs
 - **2019-12-08 21:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-09 14:29**: fix: adjust passing score threshold according to new rules
+- **2019-12-09 16:38**: feat: add result summary with passing threshold analysis
