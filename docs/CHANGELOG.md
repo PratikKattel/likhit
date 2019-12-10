@@ -1,4 +1,3 @@
-- **2019-10-20 17:24**: feat: add warning signs and informational road signs
 - **2019-10-20 19:29**: feat: add warning signs and informational road signs
 - **2019-10-21 12:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-10-22 12:38**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2019-12-09 14:29**: fix: adjust passing score threshold according to new rules
 - **2019-12-09 16:38**: feat: add result summary with passing threshold analysis
 - **2019-12-09 21:52**: feat: add instant feedback and explanation on answer selection
+- **2019-12-10 16:14**: feat: add keyboard navigation shortcuts for question selection
