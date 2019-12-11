@@ -1,4 +1,3 @@
-- **2019-10-21 12:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-10-22 12:38**: docs: add instructions for Nepali driving license written exam
 - **2019-10-23 20:06**: perf: index question IDs for rapid lookup
 - **2019-10-24 22:18**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2019-12-09 21:52**: feat: add instant feedback and explanation on answer selection
 - **2019-12-10 16:14**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-10 21:56**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-12-11 11:17**: perf: optimize image caching for traffic sign assets
