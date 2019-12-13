@@ -1,4 +1,3 @@
-- **2019-10-23 20:06**: perf: index question IDs for rapid lookup
 - **2019-10-24 22:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-10-25 13:58**: style: enhance traffic sign card layout and responsiveness
 - **2019-10-25 16:23**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2019-12-10 21:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-12-11 11:17**: perf: optimize image caching for traffic sign assets
 - **2019-12-12 14:14**: perf: index question IDs for rapid lookup
+- **2019-12-13 18:51**: fix: resolve layout shift during question transitions
