@@ -1,4 +1,3 @@
-- **2019-10-25 16:23**: refactor: optimize SVG rendering for road signs
 - **2019-10-25 18:04**: feat: add instant feedback and explanation on answer selection
 - **2019-10-26 14:09**: style: polish typography and Nepali Unicode font rendering
 - **2019-10-26 20:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2019-12-13 18:51**: fix: resolve layout shift during question transitions
 - **2019-12-13 20:20**: chore: format code style and clean up redundant variables
 - **2019-12-14 14:31**: refactor: restructure question data schema for faster loading
+- **2019-12-14 16:32**: fix: update DOTM Nepal license syllabus questions
