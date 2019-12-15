@@ -1,4 +1,3 @@
-- **2019-10-26 14:09**: style: polish typography and Nepali Unicode font rendering
 - **2019-10-26 20:56**: style: polish typography and Nepali Unicode font rendering
 - **2019-10-26 21:28**: perf: index question IDs for rapid lookup
 - **2019-10-27 19:55**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2019-12-14 14:31**: refactor: restructure question data schema for faster loading
 - **2019-12-14 16:32**: fix: update DOTM Nepal license syllabus questions
 - **2019-12-15 14:04**: fix: prevent option re-selection after submitting answer
+- **2019-12-15 15:37**: style: improve dark/light mode and mobile UI responsiveness
