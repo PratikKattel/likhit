@@ -1,4 +1,3 @@
-- **2019-10-27 19:55**: docs: update traffic signals catalog documentation
 - **2019-10-28 15:23**: feat: implement timer and score calculation for mock test
 - **2019-10-28 17:18**: fix: prevent option re-selection after submitting answer
 - **2019-10-29 11:56**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2019-12-15 15:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-15 21:46**: feat: add result summary with passing threshold analysis
 - **2019-12-16 13:41**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2019-12-16 20:40**: fix: typo in Nepali road safety regulations question
