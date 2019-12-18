@@ -1,4 +1,3 @@
-- **2019-10-29 11:56**: feat: add warning signs and informational road signs
 - **2019-10-30 10:53**: feat: add category-specific practice modes
 - **2019-10-31 09:14**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-31 17:06**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-12-16 20:40**: fix: typo in Nepali road safety regulations question
 - **2019-12-17 12:13**: refactor: restructure question data schema for faster loading
 - **2019-12-17 15:45**: feat: add result summary with passing threshold analysis
+- **2019-12-18 19:56**: feat: add instant feedback and explanation on answer selection
