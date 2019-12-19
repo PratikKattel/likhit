@@ -1,4 +1,3 @@
-- **2019-10-31 09:14**: fix: correct color specifications for mandatory traffic signs
 - **2019-10-31 17:06**: docs: update README with setup instructions and feature list
 - **2019-11-01 10:43**: docs: add instructions for Nepali driving license written exam
 - **2019-11-01 19:38**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2019-12-17 15:45**: feat: add result summary with passing threshold analysis
 - **2019-12-18 19:56**: feat: add instant feedback and explanation on answer selection
 - **2019-12-19 12:23**: docs: update traffic signals catalog documentation
+- **2019-12-19 20:23**: feat: support multiple choice questions for motorcycle category
