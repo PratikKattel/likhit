@@ -1,4 +1,3 @@
-- **2019-11-01 19:38**: docs: update README with setup instructions and feature list
 - **2019-11-02 10:56**: feat: add instant feedback and explanation on answer selection
 - **2019-11-02 21:46**: feat: support multiple choice questions for motorcycle category
 - **2019-11-03 12:06**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2019-12-19 20:23**: feat: support multiple choice questions for motorcycle category
 - **2019-12-20 14:23**: feat: add search and filter by sign category
 - **2019-12-21 12:19**: feat: add warning signs and informational road signs
+- **2019-12-21 15:56**: docs: improve code comments and API documentation
