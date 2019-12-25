@@ -1,4 +1,3 @@
-- **2019-11-05 12:57**: docs: add instructions for Nepali driving license written exam
 - **2019-11-05 19:29**: docs: update README with setup instructions and feature list
 - **2019-11-06 20:34**: feat: add category A and B traffic test questions
 - **2019-11-06 21:11**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2019-12-23 10:30**: feat: add search and filter by sign category
 - **2019-12-23 12:59**: chore: update questions database with recent DOTM updates
 - **2019-12-24 19:57**: feat: add warning signs and informational road signs
+- **2019-12-25 21:22**: refactor: restructure question data schema for faster loading
