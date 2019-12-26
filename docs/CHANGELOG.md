@@ -1,4 +1,3 @@
-- **2019-11-06 21:11**: feat: implement timer and score calculation for mock test
 - **2019-11-07 16:55**: test: verify question extraction script against exam PDF
 - **2019-11-08 10:58**: feat: add category A and B traffic test questions
 - **2019-11-09 14:35**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2019-12-25 21:22**: refactor: restructure question data schema for faster loading
 - **2019-12-26 10:54**: fix: resolve layout shift during question transitions
 - **2019-12-26 14:21**: fix: prevent option re-selection after submitting answer
+- **2019-12-26 16:07**: fix: resolve layout shift during question transitions
