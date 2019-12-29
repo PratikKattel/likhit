@@ -1,4 +1,3 @@
-- **2019-11-10 19:06**: refactor: optimize SVG rendering for road signs
 - **2019-11-11 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-11-12 12:21**: perf: index question IDs for rapid lookup
 - **2019-11-12 22:14**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2019-12-27 10:53**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-27 22:14**: chore: update questions database with recent DOTM updates
 - **2019-12-28 09:39**: chore: update questions database with recent DOTM updates
+- **2019-12-29 21:52**: fix: adjust passing score threshold according to new rules
