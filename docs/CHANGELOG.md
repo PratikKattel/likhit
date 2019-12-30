@@ -1,4 +1,3 @@
-- **2019-11-12 12:21**: perf: index question IDs for rapid lookup
 - **2019-11-12 22:14**: perf: optimize image caching for traffic sign assets
 - **2019-11-13 15:34**: feat: add category A and B traffic test questions
 - **2019-11-13 22:27**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2019-12-28 09:39**: chore: update questions database with recent DOTM updates
 - **2019-12-29 21:52**: fix: adjust passing score threshold according to new rules
 - **2019-12-30 09:57**: fix: typo in Nepali road safety regulations question
+- **2019-12-30 11:19**: feat: add keyboard navigation shortcuts for question selection
