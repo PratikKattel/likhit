@@ -1,4 +1,3 @@
-- **2019-11-11 15:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-11-12 12:21**: perf: index question IDs for rapid lookup
 - **2019-11-12 22:14**: perf: optimize image caching for traffic sign assets
 - **2019-11-13 15:34**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2019-12-27 22:14**: chore: update questions database with recent DOTM updates
 - **2019-12-28 09:39**: chore: update questions database with recent DOTM updates
 - **2019-12-29 21:52**: fix: adjust passing score threshold according to new rules
+- **2019-12-30 09:57**: fix: typo in Nepali road safety regulations question
