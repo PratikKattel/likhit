@@ -1,4 +1,3 @@
-- **2019-11-13 15:34**: feat: add category A and B traffic test questions
 - **2019-11-13 22:27**: docs: improve code comments and API documentation
 - **2019-11-14 09:58**: refactor: modularize traffic app logic and event listeners
 - **2019-11-15 11:38**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2019-12-30 09:57**: fix: typo in Nepali road safety regulations question
 - **2019-12-30 11:19**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-31 17:59**: refactor: optimize SVG rendering for road signs
+- **2020-01-01 12:40**: style: enhance traffic sign card layout and responsiveness
