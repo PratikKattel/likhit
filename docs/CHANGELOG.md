@@ -1,4 +1,3 @@
-- **2019-11-14 09:58**: refactor: modularize traffic app logic and event listeners
 - **2019-11-15 11:38**: fix: typo in Nepali road safety regulations question
 - **2019-11-16 10:37**: docs: update traffic signals catalog documentation
 - **2019-11-17 15:09**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2019-12-31 17:59**: refactor: optimize SVG rendering for road signs
 - **2020-01-01 12:40**: style: enhance traffic sign card layout and responsiveness
 - **2020-01-01 19:53**: chore: organize assets and image directory structure
+- **2020-01-02 10:23**: feat: add category A and B traffic test questions
