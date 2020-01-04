@@ -1,4 +1,3 @@
-- **2019-11-16 10:37**: docs: update traffic signals catalog documentation
 - **2019-11-17 15:09**: fix: correct color specifications for mandatory traffic signs
 - **2019-11-17 17:56**: chore: format code style and clean up redundant variables
 - **2019-11-18 15:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-01-01 19:53**: chore: organize assets and image directory structure
 - **2020-01-02 10:23**: feat: add category A and B traffic test questions
 - **2020-01-03 15:27**: chore: update questions database with recent DOTM updates
+- **2020-01-04 18:00**: style: improve dark/light mode and mobile UI responsiveness
