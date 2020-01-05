@@ -1,4 +1,3 @@
-- **2019-11-18 15:40**: feat: add category A and B traffic test questions
 - **2019-11-19 20:36**: docs: improve code comments and API documentation
 - **2019-11-20 14:25**: perf: optimize image caching for traffic sign assets
 - **2019-11-20 16:17**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-01-04 18:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-01-04 19:23**: feat: add regulatory traffic signs SVG graphics
 - **2020-01-04 21:50**: refactor: restructure question data schema for faster loading
+- **2020-01-05 18:33**: docs: update traffic signals catalog documentation
