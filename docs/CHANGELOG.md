@@ -1,4 +1,3 @@
-- **2019-11-20 16:17**: chore: organize assets and image directory structure
 - **2019-11-20 21:58**: refactor: modularize traffic app logic and event listeners
 - **2019-11-21 10:02**: chore: organize assets and image directory structure
 - **2019-11-21 11:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-01-05 18:33**: docs: update traffic signals catalog documentation
 - **2020-01-06 12:43**: fix: typo in Nepali road safety regulations question
 - **2020-01-06 16:27**: perf: index question IDs for rapid lookup
+- **2020-01-07 10:23**: chore: update questions database with recent DOTM updates
