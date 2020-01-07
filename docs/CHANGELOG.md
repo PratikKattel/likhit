@@ -1,4 +1,3 @@
-- **2019-11-21 10:02**: chore: organize assets and image directory structure
 - **2019-11-21 11:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-11-22 10:21**: feat: add regulatory traffic signs SVG graphics
 - **2019-11-23 12:35**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2020-01-06 16:27**: perf: index question IDs for rapid lookup
 - **2020-01-07 10:23**: chore: update questions database with recent DOTM updates
 - **2020-01-07 13:20**: feat: add instant feedback and explanation on answer selection
+- **2020-01-07 13:32**: refactor: modularize traffic app logic and event listeners
