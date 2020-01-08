@@ -1,4 +1,3 @@
-- **2019-11-22 10:21**: feat: add regulatory traffic signs SVG graphics
 - **2019-11-23 12:35**: refactor: modularize traffic app logic and event listeners
 - **2019-11-23 16:26**: chore: format code style and clean up redundant variables
 - **2019-11-24 12:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-01-07 13:20**: feat: add instant feedback and explanation on answer selection
 - **2020-01-07 13:32**: refactor: modularize traffic app logic and event listeners
 - **2020-01-08 09:43**: feat: add result summary with passing threshold analysis
+- **2020-01-08 14:59**: feat: implement timer and score calculation for mock test
