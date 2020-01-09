@@ -1,4 +1,3 @@
-- **2019-11-23 12:35**: refactor: modularize traffic app logic and event listeners
 - **2019-11-23 16:26**: chore: format code style and clean up redundant variables
 - **2019-11-24 12:48**: docs: update README with setup instructions and feature list
 - **2019-11-24 15:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-01-07 13:32**: refactor: modularize traffic app logic and event listeners
 - **2020-01-08 09:43**: feat: add result summary with passing threshold analysis
 - **2020-01-08 14:59**: feat: implement timer and score calculation for mock test
+- **2020-01-09 13:15**: feat: add category A and B traffic test questions
