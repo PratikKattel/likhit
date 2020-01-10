@@ -1,4 +1,3 @@
-- **2019-11-24 15:17**: feat: add warning signs and informational road signs
 - **2019-11-25 11:11**: fix: resolve layout shift during question transitions
 - **2019-11-26 12:08**: chore: organize assets and image directory structure
 - **2019-11-27 10:32**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-01-09 13:15**: feat: add category A and B traffic test questions
 - **2020-01-09 16:03**: feat: add warning signs and informational road signs
 - **2020-01-09 19:40**: chore: update questions database with recent DOTM updates
+- **2020-01-10 11:34**: feat: add category-specific practice modes
