@@ -1,4 +1,3 @@
-- **2019-11-27 10:32**: feat: add result summary with passing threshold analysis
 - **2019-11-27 13:46**: feat: add search and filter by sign category
 - **2019-11-28 20:40**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2019-11-29 15:37**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-01-10 11:34**: feat: add category-specific practice modes
 - **2020-01-10 14:15**: docs: update README with setup instructions and feature list
 - **2020-01-11 11:12**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-01-11 14:21**: feat: add result summary with passing threshold analysis
