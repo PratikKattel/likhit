@@ -1,4 +1,3 @@
-- **2019-11-30 12:12**: feat: add search and filter by sign category
 - **2019-11-30 21:13**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-01 10:34**: chore: update project metadata and build configuration
 - **2019-12-01 11:42**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2020-01-13 09:46**: feat: add instant feedback and explanation on answer selection
 - **2020-01-14 12:04**: docs: improve code comments and API documentation
 - **2020-01-14 15:40**: perf: optimize image caching for traffic sign assets
+- **2020-01-14 21:00**: refactor: restructure question data schema for faster loading
