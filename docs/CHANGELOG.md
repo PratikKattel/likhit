@@ -1,4 +1,3 @@
-- **2019-11-29 19:44**: fix: update DOTM Nepal license syllabus questions
 - **2019-11-29 21:43**: refactor: restructure question data schema for faster loading
 - **2019-11-30 12:12**: feat: add search and filter by sign category
 - **2019-11-30 21:13**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-01-12 16:45**: fix: adjust passing score threshold according to new rules
 - **2020-01-12 18:48**: chore: organize assets and image directory structure
 - **2020-01-13 09:46**: feat: add instant feedback and explanation on answer selection
+- **2020-01-14 12:04**: docs: improve code comments and API documentation
