@@ -1,4 +1,3 @@
-- **2019-12-01 10:34**: chore: update project metadata and build configuration
 - **2019-12-01 11:42**: refactor: modularize traffic app logic and event listeners
 - **2019-12-02 09:05**: style: polish typography and Nepali Unicode font rendering
 - **2019-12-03 14:54**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-01-14 15:40**: perf: optimize image caching for traffic sign assets
 - **2020-01-14 21:00**: refactor: restructure question data schema for faster loading
 - **2020-01-14 21:23**: feat: add search and filter by sign category
+- **2020-01-15 13:34**: fix: prevent option re-selection after submitting answer
