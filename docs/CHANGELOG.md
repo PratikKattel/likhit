@@ -1,4 +1,3 @@
-- **2019-12-04 17:41**: fix: adjust passing score threshold according to new rules
 - **2019-12-04 20:39**: fix: adjust passing score threshold according to new rules
 - **2019-12-05 09:58**: feat: add search and filter by sign category
 - **2019-12-06 20:01**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2020-01-16 16:40**: docs: improve code comments and API documentation
 - **2020-01-17 15:41**: chore: organize assets and image directory structure
 - **2020-01-17 20:30**: feat: add category-specific practice modes
+- **2020-01-18 09:31**: docs: update traffic signals catalog documentation
