@@ -1,4 +1,3 @@
-- **2019-12-05 09:58**: feat: add search and filter by sign category
 - **2019-12-06 20:01**: fix: adjust passing score threshold according to new rules
 - **2019-12-07 12:18**: fix: correct color specifications for mandatory traffic signs
 - **2019-12-08 21:49**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-01-17 20:30**: feat: add category-specific practice modes
 - **2020-01-18 09:31**: docs: update traffic signals catalog documentation
 - **2020-01-18 13:35**: style: polish typography and Nepali Unicode font rendering
+- **2020-01-18 18:00**: style: enhance traffic sign card layout and responsiveness
