@@ -1,4 +1,3 @@
-- **2019-12-08 21:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-09 14:29**: fix: adjust passing score threshold according to new rules
 - **2019-12-09 16:38**: feat: add result summary with passing threshold analysis
 - **2019-12-09 21:52**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-01-18 18:00**: style: enhance traffic sign card layout and responsiveness
 - **2020-01-18 19:24**: perf: lazy load signal graphics and question assets
 - **2020-01-19 21:10**: docs: update traffic signals catalog documentation
+- **2020-01-20 20:09**: feat: add search and filter by sign category
