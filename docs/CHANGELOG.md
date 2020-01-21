@@ -1,4 +1,3 @@
-- **2019-12-09 16:38**: feat: add result summary with passing threshold analysis
 - **2019-12-09 21:52**: feat: add instant feedback and explanation on answer selection
 - **2019-12-10 16:14**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-10 21:56**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-01-19 21:10**: docs: update traffic signals catalog documentation
 - **2020-01-20 20:09**: feat: add search and filter by sign category
 - **2020-01-21 09:31**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-01-21 19:37**: docs: update README with setup instructions and feature list
