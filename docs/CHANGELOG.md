@@ -1,4 +1,3 @@
-- **2019-12-11 11:17**: perf: optimize image caching for traffic sign assets
 - **2019-12-12 14:14**: perf: index question IDs for rapid lookup
 - **2019-12-13 18:51**: fix: resolve layout shift during question transitions
 - **2019-12-13 20:20**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-01-21 21:33**: feat: add search and filter by sign category
 - **2020-01-22 09:20**: perf: index question IDs for rapid lookup
 - **2020-01-22 11:58**: refactor: restructure question data schema for faster loading
+- **2020-01-22 12:45**: feat: add category A and B traffic test questions
