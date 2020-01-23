@@ -1,4 +1,3 @@
-- **2019-12-13 18:51**: fix: resolve layout shift during question transitions
 - **2019-12-13 20:20**: chore: format code style and clean up redundant variables
 - **2019-12-14 14:31**: refactor: restructure question data schema for faster loading
 - **2019-12-14 16:32**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2020-01-22 11:58**: refactor: restructure question data schema for faster loading
 - **2020-01-22 12:45**: feat: add category A and B traffic test questions
 - **2020-01-23 09:07**: feat: add instant feedback and explanation on answer selection
+- **2020-01-23 17:12**: feat: add warning signs and informational road signs
