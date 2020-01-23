@@ -1,4 +1,3 @@
-- **2019-12-14 14:31**: refactor: restructure question data schema for faster loading
 - **2019-12-14 16:32**: fix: update DOTM Nepal license syllabus questions
 - **2019-12-15 14:04**: fix: prevent option re-selection after submitting answer
 - **2019-12-15 15:37**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-01-23 09:07**: feat: add instant feedback and explanation on answer selection
 - **2020-01-23 17:12**: feat: add warning signs and informational road signs
 - **2020-01-23 21:03**: chore: format code style and clean up redundant variables
+- **2020-01-23 22:07**: fix: typo in Nepali road safety regulations question
