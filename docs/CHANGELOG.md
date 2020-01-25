@@ -1,4 +1,3 @@
-- **2019-12-15 14:04**: fix: prevent option re-selection after submitting answer
 - **2019-12-15 15:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2019-12-15 21:46**: feat: add result summary with passing threshold analysis
 - **2019-12-16 13:41**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-01-23 21:03**: chore: format code style and clean up redundant variables
 - **2020-01-23 22:07**: fix: typo in Nepali road safety regulations question
 - **2020-01-24 18:37**: refactor: optimize SVG rendering for road signs
+- **2020-01-25 09:48**: refactor: restructure question data schema for faster loading
