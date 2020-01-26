@@ -1,4 +1,3 @@
-- **2019-12-16 20:40**: fix: typo in Nepali road safety regulations question
 - **2019-12-17 12:13**: refactor: restructure question data schema for faster loading
 - **2019-12-17 15:45**: feat: add result summary with passing threshold analysis
 - **2019-12-18 19:56**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-01-25 17:36**: refactor: restructure question data schema for faster loading
 - **2020-01-25 20:44**: feat: implement timer and score calculation for mock test
 - **2020-01-26 21:37**: feat: add instant feedback and explanation on answer selection
+- **2020-01-26 22:28**: style: polish typography and Nepali Unicode font rendering
