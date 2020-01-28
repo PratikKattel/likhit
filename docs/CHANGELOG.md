@@ -1,4 +1,3 @@
-- **2019-12-17 15:45**: feat: add result summary with passing threshold analysis
 - **2019-12-18 19:56**: feat: add instant feedback and explanation on answer selection
 - **2019-12-19 12:23**: docs: update traffic signals catalog documentation
 - **2019-12-19 20:23**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-01-26 21:37**: feat: add instant feedback and explanation on answer selection
 - **2020-01-26 22:28**: style: polish typography and Nepali Unicode font rendering
 - **2020-01-27 13:43**: chore: format code style and clean up redundant variables
+- **2020-01-28 15:43**: feat: support multiple choice questions for motorcycle category
