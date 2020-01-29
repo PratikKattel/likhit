@@ -1,4 +1,3 @@
-- **2019-12-19 12:23**: docs: update traffic signals catalog documentation
 - **2019-12-19 20:23**: feat: support multiple choice questions for motorcycle category
 - **2019-12-20 14:23**: feat: add search and filter by sign category
 - **2019-12-21 12:19**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-01-27 13:43**: chore: format code style and clean up redundant variables
 - **2020-01-28 15:43**: feat: support multiple choice questions for motorcycle category
 - **2020-01-28 16:43**: fix: resolve layout shift during question transitions
+- **2020-01-29 16:43**: fix: typo in Nepali road safety regulations question
