@@ -1,4 +1,3 @@
-- **2019-12-20 14:23**: feat: add search and filter by sign category
 - **2019-12-21 12:19**: feat: add warning signs and informational road signs
 - **2019-12-21 15:56**: docs: improve code comments and API documentation
 - **2019-12-21 21:58**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-01-28 16:43**: fix: resolve layout shift during question transitions
 - **2020-01-29 16:43**: fix: typo in Nepali road safety regulations question
 - **2020-01-30 09:25**: fix: typo in Nepali road safety regulations question
+- **2020-01-31 11:38**: perf: optimize image caching for traffic sign assets
