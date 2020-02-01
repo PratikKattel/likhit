@@ -1,4 +1,3 @@
-- **2019-12-21 15:56**: docs: improve code comments and API documentation
 - **2019-12-21 21:58**: fix: typo in Nepali road safety regulations question
 - **2019-12-22 21:33**: perf: optimize image caching for traffic sign assets
 - **2019-12-23 10:30**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-01-30 09:25**: fix: typo in Nepali road safety regulations question
 - **2020-01-31 11:38**: perf: optimize image caching for traffic sign assets
 - **2020-02-01 16:53**: chore: format code style and clean up redundant variables
+- **2020-02-01 20:05**: feat: add keyboard navigation shortcuts for question selection
