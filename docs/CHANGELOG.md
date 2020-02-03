@@ -1,4 +1,3 @@
-- **2019-12-24 19:57**: feat: add warning signs and informational road signs
 - **2019-12-25 21:22**: refactor: restructure question data schema for faster loading
 - **2019-12-26 10:54**: fix: resolve layout shift during question transitions
 - **2019-12-26 14:21**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-02-02 11:46**: feat: implement timer and score calculation for mock test
 - **2020-02-02 13:40**: style: polish typography and Nepali Unicode font rendering
 - **2020-02-02 21:36**: docs: improve code comments and API documentation
+- **2020-02-03 09:47**: feat: implement timer and score calculation for mock test
