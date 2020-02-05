@@ -1,4 +1,3 @@
-- **2019-12-26 16:07**: fix: resolve layout shift during question transitions
 - **2019-12-27 10:53**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-27 22:14**: chore: update questions database with recent DOTM updates
 - **2019-12-28 09:39**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-02-03 12:27**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-04 18:26**: chore: update questions database with recent DOTM updates
 - **2020-02-04 22:10**: perf: optimize image caching for traffic sign assets
+- **2020-02-05 18:25**: refactor: restructure question data schema for faster loading
