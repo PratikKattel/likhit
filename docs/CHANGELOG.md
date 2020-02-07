@@ -1,4 +1,3 @@
-- **2019-12-28 09:39**: chore: update questions database with recent DOTM updates
 - **2019-12-29 21:52**: fix: adjust passing score threshold according to new rules
 - **2019-12-30 09:57**: fix: typo in Nepali road safety regulations question
 - **2019-12-30 11:19**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-02-05 18:25**: refactor: restructure question data schema for faster loading
 - **2020-02-05 18:59**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-06 15:03**: refactor: restructure question data schema for faster loading
+- **2020-02-07 15:51**: refactor: modularize traffic app logic and event listeners
