@@ -1,4 +1,3 @@
-- **2019-12-30 11:19**: feat: add keyboard navigation shortcuts for question selection
 - **2019-12-31 17:59**: refactor: optimize SVG rendering for road signs
 - **2020-01-01 12:40**: style: enhance traffic sign card layout and responsiveness
 - **2020-01-01 19:53**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-02-07 15:51**: refactor: modularize traffic app logic and event listeners
 - **2020-02-07 19:02**: feat: add category A and B traffic test questions
 - **2020-02-08 12:31**: chore: format code style and clean up redundant variables
+- **2020-02-09 11:43**: refactor: optimize SVG rendering for road signs
