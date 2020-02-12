@@ -1,4 +1,3 @@
-- **2020-01-03 15:27**: chore: update questions database with recent DOTM updates
 - **2020-01-04 18:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-01-04 19:23**: feat: add regulatory traffic signs SVG graphics
 - **2020-01-04 21:50**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-02-10 10:08**: perf: lazy load signal graphics and question assets
 - **2020-02-11 09:51**: fix: typo in Nepali road safety regulations question
 - **2020-02-11 21:54**: fix: typo in Nepali road safety regulations question
+- **2020-02-12 15:37**: feat: add category A and B traffic test questions
