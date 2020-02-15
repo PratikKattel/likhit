@@ -1,4 +1,3 @@
-- **2020-01-05 18:33**: docs: update traffic signals catalog documentation
 - **2020-01-06 12:43**: fix: typo in Nepali road safety regulations question
 - **2020-01-06 16:27**: perf: index question IDs for rapid lookup
 - **2020-01-07 10:23**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-02-13 15:46**: perf: optimize image caching for traffic sign assets
 - **2020-02-14 13:53**: feat: support multiple choice questions for motorcycle category
 - **2020-02-15 11:23**: chore: update project metadata and build configuration
+- **2020-02-15 13:17**: fix: adjust passing score threshold according to new rules
