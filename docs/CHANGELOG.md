@@ -1,4 +1,3 @@
-- **2020-01-08 09:43**: feat: add result summary with passing threshold analysis
 - **2020-01-08 14:59**: feat: implement timer and score calculation for mock test
 - **2020-01-09 13:15**: feat: add category A and B traffic test questions
 - **2020-01-09 16:03**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-02-16 22:08**: refactor: modularize traffic app logic and event listeners
 - **2020-02-17 20:04**: docs: update README with setup instructions and feature list
 - **2020-02-17 22:22**: feat: add warning signs and informational road signs
+- **2020-02-18 11:43**: perf: index question IDs for rapid lookup
