@@ -1,4 +1,3 @@
-- **2020-01-09 13:15**: feat: add category A and B traffic test questions
 - **2020-01-09 16:03**: feat: add warning signs and informational road signs
 - **2020-01-09 19:40**: chore: update questions database with recent DOTM updates
 - **2020-01-10 11:34**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-02-17 22:22**: feat: add warning signs and informational road signs
 - **2020-02-18 11:43**: perf: index question IDs for rapid lookup
 - **2020-02-18 13:33**: perf: optimize image caching for traffic sign assets
+- **2020-02-19 11:03**: refactor: optimize SVG rendering for road signs
