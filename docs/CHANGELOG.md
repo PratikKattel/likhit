@@ -1,4 +1,3 @@
-- **2020-01-10 11:34**: feat: add category-specific practice modes
 - **2020-01-10 14:15**: docs: update README with setup instructions and feature list
 - **2020-01-11 11:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-01-11 14:21**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-02-19 11:03**: refactor: optimize SVG rendering for road signs
 - **2020-02-19 14:02**: chore: update project metadata and build configuration
 - **2020-02-19 19:38**: docs: add instructions for Nepali driving license written exam
+- **2020-02-20 11:32**: feat: implement timer and score calculation for mock test
