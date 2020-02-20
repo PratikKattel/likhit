@@ -1,4 +1,3 @@
-- **2020-01-11 11:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-01-11 14:21**: feat: add result summary with passing threshold analysis
 - **2020-01-12 16:45**: fix: adjust passing score threshold according to new rules
 - **2020-01-12 18:48**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-02-19 19:38**: docs: add instructions for Nepali driving license written exam
 - **2020-02-20 11:32**: feat: implement timer and score calculation for mock test
 - **2020-02-20 16:02**: fix: correct color specifications for mandatory traffic signs
+- **2020-02-20 20:39**: feat: add category A and B traffic test questions
