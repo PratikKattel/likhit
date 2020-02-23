@@ -1,4 +1,3 @@
-- **2020-01-12 18:48**: chore: organize assets and image directory structure
 - **2020-01-13 09:46**: feat: add instant feedback and explanation on answer selection
 - **2020-01-14 12:04**: docs: improve code comments and API documentation
 - **2020-01-14 15:40**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2020-02-20 20:39**: feat: add category A and B traffic test questions
 - **2020-02-21 19:38**: refactor: restructure question data schema for faster loading
 - **2020-02-22 14:34**: style: improve dark/light mode and mobile UI responsiveness
+- **2020-02-23 12:17**: feat: add warning signs and informational road signs
