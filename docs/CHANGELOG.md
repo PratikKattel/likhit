@@ -1,4 +1,3 @@
-- **2020-01-14 15:40**: perf: optimize image caching for traffic sign assets
 - **2020-01-14 21:00**: refactor: restructure question data schema for faster loading
 - **2020-01-14 21:23**: feat: add search and filter by sign category
 - **2020-01-15 13:34**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-02-23 12:17**: feat: add warning signs and informational road signs
 - **2020-02-23 13:18**: refactor: restructure question data schema for faster loading
 - **2020-02-24 20:42**: perf: index question IDs for rapid lookup
+- **2020-02-25 11:00**: chore: format code style and clean up redundant variables
