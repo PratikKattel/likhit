@@ -1,4 +1,3 @@
-- **2020-01-15 13:34**: fix: prevent option re-selection after submitting answer
 - **2020-01-16 14:43**: docs: update README with setup instructions and feature list
 - **2020-01-16 16:40**: docs: improve code comments and API documentation
 - **2020-01-17 15:41**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-02-25 11:00**: chore: format code style and clean up redundant variables
 - **2020-02-26 12:22**: style: enhance traffic sign card layout and responsiveness
 - **2020-02-26 17:27**: feat: add category-specific practice modes
+- **2020-02-27 13:15**: feat: add category A and B traffic test questions
