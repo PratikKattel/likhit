@@ -1,4 +1,3 @@
-- **2020-01-16 16:40**: docs: improve code comments and API documentation
 - **2020-01-17 15:41**: chore: organize assets and image directory structure
 - **2020-01-17 20:30**: feat: add category-specific practice modes
 - **2020-01-18 09:31**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-02-26 17:27**: feat: add category-specific practice modes
 - **2020-02-27 13:15**: feat: add category A and B traffic test questions
 - **2020-02-28 12:29**: refactor: restructure question data schema for faster loading
+- **2020-02-28 14:20**: feat: add warning signs and informational road signs
