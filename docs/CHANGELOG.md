@@ -1,4 +1,3 @@
-- **2020-01-18 09:31**: docs: update traffic signals catalog documentation
 - **2020-01-18 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2020-01-18 18:00**: style: enhance traffic sign card layout and responsiveness
 - **2020-01-18 19:24**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-02-28 14:20**: feat: add warning signs and informational road signs
 - **2020-02-28 18:08**: docs: update README with setup instructions and feature list
 - **2020-02-29 18:30**: feat: add warning signs and informational road signs
+- **2020-03-01 21:15**: feat: add regulatory traffic signs SVG graphics
