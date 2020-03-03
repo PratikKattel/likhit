@@ -1,4 +1,3 @@
-- **2020-01-21 09:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-01-21 19:37**: docs: update README with setup instructions and feature list
 - **2020-01-21 21:33**: feat: add search and filter by sign category
 - **2020-01-22 09:20**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-03-02 20:03**: fix: adjust passing score threshold according to new rules
 - **2020-03-02 22:04**: fix: typo in Nepali road safety regulations question
 - **2020-03-03 10:24**: chore: update questions database with recent DOTM updates
+- **2020-03-03 12:45**: feat: add search and filter by sign category
