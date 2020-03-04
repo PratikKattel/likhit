@@ -1,4 +1,3 @@
-- **2020-01-21 21:33**: feat: add search and filter by sign category
 - **2020-01-22 09:20**: perf: index question IDs for rapid lookup
 - **2020-01-22 11:58**: refactor: restructure question data schema for faster loading
 - **2020-01-22 12:45**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-03-03 10:24**: chore: update questions database with recent DOTM updates
 - **2020-03-03 12:45**: feat: add search and filter by sign category
 - **2020-03-04 12:01**: feat: add regulatory traffic signs SVG graphics
+- **2020-03-04 13:40**: refactor: restructure question data schema for faster loading
