@@ -1,4 +1,3 @@
-- **2020-01-22 09:20**: perf: index question IDs for rapid lookup
 - **2020-01-22 11:58**: refactor: restructure question data schema for faster loading
 - **2020-01-22 12:45**: feat: add category A and B traffic test questions
 - **2020-01-23 09:07**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-03-03 12:45**: feat: add search and filter by sign category
 - **2020-03-04 12:01**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-04 13:40**: refactor: restructure question data schema for faster loading
+- **2020-03-05 17:11**: style: enhance traffic sign card layout and responsiveness
