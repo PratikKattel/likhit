@@ -1,4 +1,3 @@
-- **2020-01-23 17:12**: feat: add warning signs and informational road signs
 - **2020-01-23 21:03**: chore: format code style and clean up redundant variables
 - **2020-01-23 22:07**: fix: typo in Nepali road safety regulations question
 - **2020-01-24 18:37**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2020-03-06 18:44**: feat: add warning signs and informational road signs
 - **2020-03-07 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-08 18:41**: feat: add keyboard navigation shortcuts for question selection
+- **2020-03-09 20:05**: feat: add search and filter by sign category
