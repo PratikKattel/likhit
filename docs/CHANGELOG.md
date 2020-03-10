@@ -1,4 +1,3 @@
-- **2020-01-23 22:07**: fix: typo in Nepali road safety regulations question
 - **2020-01-24 18:37**: refactor: optimize SVG rendering for road signs
 - **2020-01-25 09:48**: refactor: restructure question data schema for faster loading
 - **2020-01-25 17:36**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-03-08 18:41**: feat: add keyboard navigation shortcuts for question selection
 - **2020-03-09 20:05**: feat: add search and filter by sign category
 - **2020-03-10 18:25**: fix: typo in Nepali road safety regulations question
+- **2020-03-10 19:19**: docs: improve code comments and API documentation
