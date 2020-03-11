@@ -1,4 +1,3 @@
-- **2020-01-25 17:36**: refactor: restructure question data schema for faster loading
 - **2020-01-25 20:44**: feat: implement timer and score calculation for mock test
 - **2020-01-26 21:37**: feat: add instant feedback and explanation on answer selection
 - **2020-01-26 22:28**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-03-10 19:19**: docs: improve code comments and API documentation
 - **2020-03-11 09:41**: feat: add search and filter by sign category
 - **2020-03-11 19:34**: feat: support multiple choice questions for motorcycle category
+- **2020-03-11 21:22**: chore: organize assets and image directory structure
