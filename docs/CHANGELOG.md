@@ -1,4 +1,3 @@
-- **2020-01-26 21:37**: feat: add instant feedback and explanation on answer selection
 - **2020-01-26 22:28**: style: polish typography and Nepali Unicode font rendering
 - **2020-01-27 13:43**: chore: format code style and clean up redundant variables
 - **2020-01-28 15:43**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-03-11 19:34**: feat: support multiple choice questions for motorcycle category
 - **2020-03-11 21:22**: chore: organize assets and image directory structure
 - **2020-03-11 22:21**: chore: update project metadata and build configuration
+- **2020-03-12 09:15**: fix: prevent option re-selection after submitting answer
