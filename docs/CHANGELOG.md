@@ -1,4 +1,3 @@
-- **2020-01-27 13:43**: chore: format code style and clean up redundant variables
 - **2020-01-28 15:43**: feat: support multiple choice questions for motorcycle category
 - **2020-01-28 16:43**: fix: resolve layout shift during question transitions
 - **2020-01-29 16:43**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-03-11 22:21**: chore: update project metadata and build configuration
 - **2020-03-12 09:15**: fix: prevent option re-selection after submitting answer
 - **2020-03-12 11:21**: chore: format code style and clean up redundant variables
+- **2020-03-12 18:02**: docs: add instructions for Nepali driving license written exam
