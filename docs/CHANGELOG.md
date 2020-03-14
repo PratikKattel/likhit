@@ -1,4 +1,3 @@
-- **2020-01-29 16:43**: fix: typo in Nepali road safety regulations question
 - **2020-01-30 09:25**: fix: typo in Nepali road safety regulations question
 - **2020-01-31 11:38**: perf: optimize image caching for traffic sign assets
 - **2020-02-01 16:53**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-03-12 18:02**: docs: add instructions for Nepali driving license written exam
 - **2020-03-12 19:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-03-13 10:35**: feat: support multiple choice questions for motorcycle category
+- **2020-03-14 09:39**: fix: prevent option re-selection after submitting answer
