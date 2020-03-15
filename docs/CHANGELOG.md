@@ -1,4 +1,3 @@
-- **2020-02-01 16:53**: chore: format code style and clean up redundant variables
 - **2020-02-01 20:05**: feat: add keyboard navigation shortcuts for question selection
 - **2020-02-02 10:23**: chore: update questions database with recent DOTM updates
 - **2020-02-02 11:46**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-03-14 09:39**: fix: prevent option re-selection after submitting answer
 - **2020-03-14 12:38**: perf: optimize image caching for traffic sign assets
 - **2020-03-15 10:32**: docs: update README with setup instructions and feature list
+- **2020-03-15 18:56**: fix: adjust passing score threshold according to new rules
