@@ -1,4 +1,3 @@
-- **2020-02-02 10:23**: chore: update questions database with recent DOTM updates
 - **2020-02-02 11:46**: feat: implement timer and score calculation for mock test
 - **2020-02-02 13:40**: style: polish typography and Nepali Unicode font rendering
 - **2020-02-02 21:36**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-03-15 10:32**: docs: update README with setup instructions and feature list
 - **2020-03-15 18:56**: fix: adjust passing score threshold according to new rules
 - **2020-03-16 12:10**: chore: format code style and clean up redundant variables
+- **2020-03-17 12:11**: feat: implement timer and score calculation for mock test
