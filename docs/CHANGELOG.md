@@ -1,4 +1,3 @@
-- **2020-02-02 13:40**: style: polish typography and Nepali Unicode font rendering
 - **2020-02-02 21:36**: docs: improve code comments and API documentation
 - **2020-02-03 09:47**: feat: implement timer and score calculation for mock test
 - **2020-02-03 12:27**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-03-16 12:10**: chore: format code style and clean up redundant variables
 - **2020-03-17 12:11**: feat: implement timer and score calculation for mock test
 - **2020-03-17 12:28**: fix: prevent option re-selection after submitting answer
+- **2020-03-18 15:03**: feat: add category A and B traffic test questions
