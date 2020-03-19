@@ -1,4 +1,3 @@
-- **2020-02-03 09:47**: feat: implement timer and score calculation for mock test
 - **2020-02-03 12:27**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-04 18:26**: chore: update questions database with recent DOTM updates
 - **2020-02-04 22:10**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2020-03-17 12:28**: fix: prevent option re-selection after submitting answer
 - **2020-03-18 15:03**: feat: add category A and B traffic test questions
 - **2020-03-18 19:26**: feat: implement timer and score calculation for mock test
+- **2020-03-19 13:08**: style: polish typography and Nepali Unicode font rendering
