@@ -1,4 +1,3 @@
-- **2020-02-04 18:26**: chore: update questions database with recent DOTM updates
 - **2020-02-04 22:10**: perf: optimize image caching for traffic sign assets
 - **2020-02-05 18:25**: refactor: restructure question data schema for faster loading
 - **2020-02-05 18:59**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-03-18 19:26**: feat: implement timer and score calculation for mock test
 - **2020-03-19 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2020-03-19 16:30**: perf: index question IDs for rapid lookup
+- **2020-03-20 11:18**: feat: add regulatory traffic signs SVG graphics
