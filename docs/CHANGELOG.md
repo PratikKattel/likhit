@@ -1,4 +1,3 @@
-- **2020-02-05 18:59**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-06 15:03**: refactor: restructure question data schema for faster loading
 - **2020-02-07 15:51**: refactor: modularize traffic app logic and event listeners
 - **2020-02-07 19:02**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-03-20 11:18**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-20 19:33**: chore: update project metadata and build configuration
 - **2020-03-21 20:33**: docs: update README with setup instructions and feature list
+- **2020-03-22 17:45**: feat: add search and filter by sign category
