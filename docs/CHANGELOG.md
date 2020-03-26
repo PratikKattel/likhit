@@ -1,4 +1,3 @@
-- **2020-02-09 11:43**: refactor: optimize SVG rendering for road signs
 - **2020-02-09 14:03**: feat: add result summary with passing threshold analysis
 - **2020-02-10 10:08**: perf: lazy load signal graphics and question assets
 - **2020-02-11 09:51**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-03-24 17:45**: chore: update questions database with recent DOTM updates
 - **2020-03-25 09:47**: perf: lazy load signal graphics and question assets
 - **2020-03-25 18:16**: perf: index question IDs for rapid lookup
+- **2020-03-26 09:20**: fix: correct color specifications for mandatory traffic signs
