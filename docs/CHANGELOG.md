@@ -1,4 +1,3 @@
-- **2020-02-10 10:08**: perf: lazy load signal graphics and question assets
 - **2020-02-11 09:51**: fix: typo in Nepali road safety regulations question
 - **2020-02-11 21:54**: fix: typo in Nepali road safety regulations question
 - **2020-02-12 15:37**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-03-25 18:16**: perf: index question IDs for rapid lookup
 - **2020-03-26 09:20**: fix: correct color specifications for mandatory traffic signs
 - **2020-03-27 09:52**: chore: update project metadata and build configuration
+- **2020-03-27 10:28**: fix: typo in Nepali road safety regulations question
