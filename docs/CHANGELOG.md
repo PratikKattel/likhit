@@ -1,4 +1,3 @@
-- **2020-02-11 21:54**: fix: typo in Nepali road safety regulations question
 - **2020-02-12 15:37**: feat: add category A and B traffic test questions
 - **2020-02-13 15:46**: perf: optimize image caching for traffic sign assets
 - **2020-02-14 13:53**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-03-27 09:52**: chore: update project metadata and build configuration
 - **2020-03-27 10:28**: fix: typo in Nepali road safety regulations question
 - **2020-03-27 22:18**: style: enhance traffic sign card layout and responsiveness
+- **2020-03-28 17:41**: fix: correct color specifications for mandatory traffic signs
