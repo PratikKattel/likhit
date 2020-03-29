@@ -1,4 +1,3 @@
-- **2020-02-14 13:53**: feat: support multiple choice questions for motorcycle category
 - **2020-02-15 11:23**: chore: update project metadata and build configuration
 - **2020-02-15 13:17**: fix: adjust passing score threshold according to new rules
 - **2020-02-15 21:49**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-03-28 17:41**: fix: correct color specifications for mandatory traffic signs
 - **2020-03-28 21:23**: chore: organize assets and image directory structure
 - **2020-03-29 12:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-03-29 15:17**: chore: format code style and clean up redundant variables
