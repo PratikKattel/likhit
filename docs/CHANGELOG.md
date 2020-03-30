@@ -1,4 +1,3 @@
-- **2020-02-15 11:23**: chore: update project metadata and build configuration
 - **2020-02-15 13:17**: fix: adjust passing score threshold according to new rules
 - **2020-02-15 21:49**: chore: update questions database with recent DOTM updates
 - **2020-02-16 18:55**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-03-28 21:23**: chore: organize assets and image directory structure
 - **2020-03-29 12:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-29 15:17**: chore: format code style and clean up redundant variables
+- **2020-03-30 19:40**: feat: add regulatory traffic signs SVG graphics
