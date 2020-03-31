@@ -1,4 +1,3 @@
-- **2020-02-15 21:49**: chore: update questions database with recent DOTM updates
 - **2020-02-16 18:55**: feat: add result summary with passing threshold analysis
 - **2020-02-16 22:08**: refactor: modularize traffic app logic and event listeners
 - **2020-02-17 20:04**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-03-29 15:17**: chore: format code style and clean up redundant variables
 - **2020-03-30 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-30 21:05**: perf: lazy load signal graphics and question assets
+- **2020-03-31 17:18**: feat: add result summary with passing threshold analysis
