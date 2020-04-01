@@ -1,4 +1,3 @@
-- **2020-02-16 22:08**: refactor: modularize traffic app logic and event listeners
 - **2020-02-17 20:04**: docs: update README with setup instructions and feature list
 - **2020-02-17 22:22**: feat: add warning signs and informational road signs
 - **2020-02-18 11:43**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-03-30 21:05**: perf: lazy load signal graphics and question assets
 - **2020-03-31 17:18**: feat: add result summary with passing threshold analysis
 - **2020-04-01 12:51**: feat: add category-specific practice modes
+- **2020-04-01 17:48**: fix: resolve layout shift during question transitions
