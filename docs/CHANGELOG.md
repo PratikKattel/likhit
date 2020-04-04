@@ -1,4 +1,3 @@
-- **2020-02-19 11:03**: refactor: optimize SVG rendering for road signs
 - **2020-02-19 14:02**: chore: update project metadata and build configuration
 - **2020-02-19 19:38**: docs: add instructions for Nepali driving license written exam
 - **2020-02-20 11:32**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-04-02 18:18**: docs: improve code comments and API documentation
 - **2020-04-03 11:52**: refactor: restructure question data schema for faster loading
 - **2020-04-03 18:47**: chore: format code style and clean up redundant variables
+- **2020-04-04 12:54**: perf: index question IDs for rapid lookup
