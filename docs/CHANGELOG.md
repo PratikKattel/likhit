@@ -1,4 +1,3 @@
-- **2020-02-19 19:38**: docs: add instructions for Nepali driving license written exam
 - **2020-02-20 11:32**: feat: implement timer and score calculation for mock test
 - **2020-02-20 16:02**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-20 20:39**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-04-03 18:47**: chore: format code style and clean up redundant variables
 - **2020-04-04 12:54**: perf: index question IDs for rapid lookup
 - **2020-04-04 13:06**: feat: add keyboard navigation shortcuts for question selection
+- **2020-04-05 11:36**: feat: add search and filter by sign category
