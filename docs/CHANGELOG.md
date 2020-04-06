@@ -1,4 +1,3 @@
-- **2020-02-20 16:02**: fix: correct color specifications for mandatory traffic signs
 - **2020-02-20 20:39**: feat: add category A and B traffic test questions
 - **2020-02-21 19:38**: refactor: restructure question data schema for faster loading
 - **2020-02-22 14:34**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-04-04 13:06**: feat: add keyboard navigation shortcuts for question selection
 - **2020-04-05 11:36**: feat: add search and filter by sign category
 - **2020-04-06 11:01**: fix: update DOTM Nepal license syllabus questions
+- **2020-04-06 12:53**: feat: add category A and B traffic test questions
