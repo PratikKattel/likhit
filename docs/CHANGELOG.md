@@ -1,4 +1,3 @@
-- **2020-02-21 19:38**: refactor: restructure question data schema for faster loading
 - **2020-02-22 14:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-02-23 12:17**: feat: add warning signs and informational road signs
 - **2020-02-23 13:18**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-04-06 11:01**: fix: update DOTM Nepal license syllabus questions
 - **2020-04-06 12:53**: feat: add category A and B traffic test questions
 - **2020-04-07 10:40**: feat: implement timer and score calculation for mock test
+- **2020-04-08 14:23**: feat: add warning signs and informational road signs
