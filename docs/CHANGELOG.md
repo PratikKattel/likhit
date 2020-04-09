@@ -1,4 +1,3 @@
-- **2020-02-23 12:17**: feat: add warning signs and informational road signs
 - **2020-02-23 13:18**: refactor: restructure question data schema for faster loading
 - **2020-02-24 20:42**: perf: index question IDs for rapid lookup
 - **2020-02-25 11:00**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-04-07 10:40**: feat: implement timer and score calculation for mock test
 - **2020-04-08 14:23**: feat: add warning signs and informational road signs
 - **2020-04-09 16:57**: feat: add instant feedback and explanation on answer selection
+- **2020-04-09 17:07**: feat: add category A and B traffic test questions
