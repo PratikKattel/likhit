@@ -1,4 +1,3 @@
-- **2020-02-24 20:42**: perf: index question IDs for rapid lookup
 - **2020-02-25 11:00**: chore: format code style and clean up redundant variables
 - **2020-02-26 12:22**: style: enhance traffic sign card layout and responsiveness
 - **2020-02-26 17:27**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-04-09 16:57**: feat: add instant feedback and explanation on answer selection
 - **2020-04-09 17:07**: feat: add category A and B traffic test questions
 - **2020-04-10 14:40**: feat: add regulatory traffic signs SVG graphics
+- **2020-04-10 18:42**: fix: resolve layout shift during question transitions
