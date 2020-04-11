@@ -1,4 +1,3 @@
-- **2020-02-26 12:22**: style: enhance traffic sign card layout and responsiveness
 - **2020-02-26 17:27**: feat: add category-specific practice modes
 - **2020-02-27 13:15**: feat: add category A and B traffic test questions
 - **2020-02-28 12:29**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-04-10 14:40**: feat: add regulatory traffic signs SVG graphics
 - **2020-04-10 18:42**: fix: resolve layout shift during question transitions
 - **2020-04-11 15:46**: fix: prevent option re-selection after submitting answer
+- **2020-04-11 16:36**: chore: update project metadata and build configuration
