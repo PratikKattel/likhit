@@ -1,4 +1,3 @@
-- **2020-02-28 12:29**: refactor: restructure question data schema for faster loading
 - **2020-02-28 14:20**: feat: add warning signs and informational road signs
 - **2020-02-28 18:08**: docs: update README with setup instructions and feature list
 - **2020-02-29 18:30**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-04-11 16:36**: chore: update project metadata and build configuration
 - **2020-04-12 11:36**: fix: correct color specifications for mandatory traffic signs
 - **2020-04-12 12:25**: style: enhance traffic sign card layout and responsiveness
+- **2020-04-12 12:54**: style: enhance traffic sign card layout and responsiveness
