@@ -1,4 +1,3 @@
-- **2020-02-28 18:08**: docs: update README with setup instructions and feature list
 - **2020-02-29 18:30**: feat: add warning signs and informational road signs
 - **2020-03-01 21:15**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-02 10:07**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-04-12 12:25**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-12 12:54**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-12 13:24**: feat: add regulatory traffic signs SVG graphics
+- **2020-04-13 16:19**: feat: support multiple choice questions for motorcycle category
