@@ -1,4 +1,3 @@
-- **2020-02-29 18:30**: feat: add warning signs and informational road signs
 - **2020-03-01 21:15**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-02 10:07**: style: enhance traffic sign card layout and responsiveness
 - **2020-03-02 14:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-04-12 12:54**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-12 13:24**: feat: add regulatory traffic signs SVG graphics
 - **2020-04-13 16:19**: feat: support multiple choice questions for motorcycle category
+- **2020-04-14 21:24**: style: enhance traffic sign card layout and responsiveness
