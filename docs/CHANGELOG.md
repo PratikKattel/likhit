@@ -1,4 +1,3 @@
-- **2020-03-02 14:06**: fix: prevent option re-selection after submitting answer
 - **2020-03-02 20:03**: fix: adjust passing score threshold according to new rules
 - **2020-03-02 22:04**: fix: typo in Nepali road safety regulations question
 - **2020-03-03 10:24**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-04-14 21:24**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-15 17:42**: docs: add instructions for Nepali driving license written exam
 - **2020-04-16 17:20**: feat: add warning signs and informational road signs
+- **2020-04-16 17:53**: style: polish typography and Nepali Unicode font rendering
