@@ -1,4 +1,3 @@
-- **2020-03-03 12:45**: feat: add search and filter by sign category
 - **2020-03-04 12:01**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-04 13:40**: refactor: restructure question data schema for faster loading
 - **2020-03-05 17:11**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-04-17 11:06**: test: verify question extraction script against exam PDF
 - **2020-04-17 20:22**: feat: add result summary with passing threshold analysis
 - **2020-04-18 09:38**: chore: organize assets and image directory structure
+- **2020-04-19 18:54**: docs: update README with setup instructions and feature list
