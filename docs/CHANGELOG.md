@@ -1,4 +1,3 @@
-- **2020-03-04 12:01**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-04 13:40**: refactor: restructure question data schema for faster loading
 - **2020-03-05 17:11**: style: enhance traffic sign card layout and responsiveness
 - **2020-03-06 18:44**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-04-17 20:22**: feat: add result summary with passing threshold analysis
 - **2020-04-18 09:38**: chore: organize assets and image directory structure
 - **2020-04-19 18:54**: docs: update README with setup instructions and feature list
+- **2020-04-20 12:07**: docs: add instructions for Nepali driving license written exam
