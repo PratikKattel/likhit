@@ -1,4 +1,3 @@
-- **2020-03-05 17:11**: style: enhance traffic sign card layout and responsiveness
 - **2020-03-06 18:44**: feat: add warning signs and informational road signs
 - **2020-03-07 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-08 18:41**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-04-19 18:54**: docs: update README with setup instructions and feature list
 - **2020-04-20 12:07**: docs: add instructions for Nepali driving license written exam
 - **2020-04-21 18:11**: feat: support multiple choice questions for motorcycle category
+- **2020-04-21 18:29**: docs: update README with setup instructions and feature list
