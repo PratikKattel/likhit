@@ -1,4 +1,3 @@
-- **2020-03-07 19:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-08 18:41**: feat: add keyboard navigation shortcuts for question selection
 - **2020-03-09 20:05**: feat: add search and filter by sign category
 - **2020-03-10 18:25**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-04-21 18:11**: feat: support multiple choice questions for motorcycle category
 - **2020-04-21 18:29**: docs: update README with setup instructions and feature list
 - **2020-04-22 22:08**: docs: update README with setup instructions and feature list
+- **2020-04-23 15:31**: fix: correct color specifications for mandatory traffic signs
