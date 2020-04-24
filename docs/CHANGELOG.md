@@ -1,4 +1,3 @@
-- **2020-03-10 18:25**: fix: typo in Nepali road safety regulations question
 - **2020-03-10 19:19**: docs: improve code comments and API documentation
 - **2020-03-11 09:41**: feat: add search and filter by sign category
 - **2020-03-11 19:34**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-04-23 15:31**: fix: correct color specifications for mandatory traffic signs
 - **2020-04-23 15:54**: refactor: optimize SVG rendering for road signs
 - **2020-04-23 16:06**: feat: add category-specific practice modes
+- **2020-04-24 15:34**: docs: add instructions for Nepali driving license written exam
