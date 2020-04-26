@@ -1,4 +1,3 @@
-- **2020-03-11 09:41**: feat: add search and filter by sign category
 - **2020-03-11 19:34**: feat: support multiple choice questions for motorcycle category
 - **2020-03-11 21:22**: chore: organize assets and image directory structure
 - **2020-03-11 22:21**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2020-04-23 16:06**: feat: add category-specific practice modes
 - **2020-04-24 15:34**: docs: add instructions for Nepali driving license written exam
 - **2020-04-25 15:21**: perf: optimize image caching for traffic sign assets
+- **2020-04-26 22:11**: feat: add category A and B traffic test questions
