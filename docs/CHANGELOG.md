@@ -1,4 +1,3 @@
-- **2020-03-11 22:21**: chore: update project metadata and build configuration
 - **2020-03-12 09:15**: fix: prevent option re-selection after submitting answer
 - **2020-03-12 11:21**: chore: format code style and clean up redundant variables
 - **2020-03-12 18:02**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-04-26 22:11**: feat: add category A and B traffic test questions
 - **2020-04-27 19:51**: perf: index question IDs for rapid lookup
 - **2020-04-28 13:32**: fix: adjust passing score threshold according to new rules
+- **2020-04-28 19:06**: feat: support multiple choice questions for motorcycle category
