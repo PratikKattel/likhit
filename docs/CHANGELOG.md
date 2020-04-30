@@ -1,4 +1,3 @@
-- **2020-03-12 18:02**: docs: add instructions for Nepali driving license written exam
 - **2020-03-12 19:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-03-13 10:35**: feat: support multiple choice questions for motorcycle category
 - **2020-03-14 09:39**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-04-28 19:06**: feat: support multiple choice questions for motorcycle category
 - **2020-04-29 15:52**: feat: add instant feedback and explanation on answer selection
 - **2020-04-30 09:22**: feat: add instant feedback and explanation on answer selection
+- **2020-04-30 17:49**: fix: adjust passing score threshold according to new rules
