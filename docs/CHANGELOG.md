@@ -1,4 +1,3 @@
-- **2020-03-14 12:38**: perf: optimize image caching for traffic sign assets
 - **2020-03-15 10:32**: docs: update README with setup instructions and feature list
 - **2020-03-15 18:56**: fix: adjust passing score threshold according to new rules
 - **2020-03-16 12:10**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-05-01 10:10**: docs: add instructions for Nepali driving license written exam
 - **2020-05-01 14:21**: feat: add keyboard navigation shortcuts for question selection
 - **2020-05-02 09:38**: docs: update traffic signals catalog documentation
+- **2020-05-02 11:12**: chore: format code style and clean up redundant variables
