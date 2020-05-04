@@ -1,4 +1,3 @@
-- **2020-03-15 18:56**: fix: adjust passing score threshold according to new rules
 - **2020-03-16 12:10**: chore: format code style and clean up redundant variables
 - **2020-03-17 12:11**: feat: implement timer and score calculation for mock test
 - **2020-03-17 12:28**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-05-02 09:38**: docs: update traffic signals catalog documentation
 - **2020-05-02 11:12**: chore: format code style and clean up redundant variables
 - **2020-05-03 15:24**: feat: add instant feedback and explanation on answer selection
+- **2020-05-04 10:19**: fix: typo in Nepali road safety regulations question
