@@ -1,4 +1,3 @@
-- **2020-03-18 19:26**: feat: implement timer and score calculation for mock test
 - **2020-03-19 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2020-03-19 16:30**: perf: index question IDs for rapid lookup
 - **2020-03-20 11:18**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-05-05 12:35**: feat: add warning signs and informational road signs
 - **2020-05-05 18:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-05-06 10:45**: chore: update questions database with recent DOTM updates
+- **2020-05-06 11:12**: chore: update project metadata and build configuration
