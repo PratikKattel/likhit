@@ -1,4 +1,3 @@
-- **2020-03-18 15:03**: feat: add category A and B traffic test questions
 - **2020-03-18 19:26**: feat: implement timer and score calculation for mock test
 - **2020-03-19 13:08**: style: polish typography and Nepali Unicode font rendering
 - **2020-03-19 16:30**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-05-04 18:57**: feat: support multiple choice questions for motorcycle category
 - **2020-05-05 12:35**: feat: add warning signs and informational road signs
 - **2020-05-05 18:32**: style: improve dark/light mode and mobile UI responsiveness
+- **2020-05-06 10:45**: chore: update questions database with recent DOTM updates
