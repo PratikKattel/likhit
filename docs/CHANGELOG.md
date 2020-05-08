@@ -1,4 +1,3 @@
-- **2020-03-20 19:33**: chore: update project metadata and build configuration
 - **2020-03-21 20:33**: docs: update README with setup instructions and feature list
 - **2020-03-22 17:45**: feat: add search and filter by sign category
 - **2020-03-23 14:47**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-05-06 11:52**: refactor: restructure question data schema for faster loading
 - **2020-05-07 12:35**: fix: resolve layout shift during question transitions
 - **2020-05-08 10:57**: fix: correct color specifications for mandatory traffic signs
+- **2020-05-08 11:45**: feat: add search and filter by sign category
