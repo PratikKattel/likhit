@@ -1,4 +1,3 @@
-- **2020-03-23 14:47**: feat: add search and filter by sign category
 - **2020-03-24 17:45**: chore: update questions database with recent DOTM updates
 - **2020-03-25 09:47**: perf: lazy load signal graphics and question assets
 - **2020-03-25 18:16**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-05-08 11:45**: feat: add search and filter by sign category
 - **2020-05-08 18:05**: style: enhance traffic sign card layout and responsiveness
 - **2020-05-09 13:47**: fix: correct color specifications for mandatory traffic signs
+- **2020-05-10 09:58**: feat: add keyboard navigation shortcuts for question selection
