@@ -1,4 +1,3 @@
-- **2020-03-25 09:47**: perf: lazy load signal graphics and question assets
 - **2020-03-25 18:16**: perf: index question IDs for rapid lookup
 - **2020-03-26 09:20**: fix: correct color specifications for mandatory traffic signs
 - **2020-03-27 09:52**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2020-05-09 13:47**: fix: correct color specifications for mandatory traffic signs
 - **2020-05-10 09:58**: feat: add keyboard navigation shortcuts for question selection
 - **2020-05-11 12:28**: refactor: restructure question data schema for faster loading
+- **2020-05-11 17:27**: chore: format code style and clean up redundant variables
