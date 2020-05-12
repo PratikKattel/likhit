@@ -1,4 +1,3 @@
-- **2020-03-27 10:28**: fix: typo in Nepali road safety regulations question
 - **2020-03-27 22:18**: style: enhance traffic sign card layout and responsiveness
 - **2020-03-28 17:41**: fix: correct color specifications for mandatory traffic signs
 - **2020-03-28 21:23**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-05-11 19:41**: chore: organize assets and image directory structure
 - **2020-05-12 10:39**: fix: prevent option re-selection after submitting answer
 - **2020-05-12 18:09**: chore: update project metadata and build configuration
+- **2020-05-12 20:22**: perf: index question IDs for rapid lookup
