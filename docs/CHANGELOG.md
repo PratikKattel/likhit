@@ -1,4 +1,3 @@
-- **2020-03-28 21:23**: chore: organize assets and image directory structure
 - **2020-03-29 12:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-29 15:17**: chore: format code style and clean up redundant variables
 - **2020-03-30 19:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-05-12 20:22**: perf: index question IDs for rapid lookup
 - **2020-05-12 21:51**: test: verify question extraction script against exam PDF
 - **2020-05-13 12:35**: fix: prevent option re-selection after submitting answer
+- **2020-05-13 20:11**: feat: support multiple choice questions for motorcycle category
