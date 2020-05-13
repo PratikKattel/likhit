@@ -1,4 +1,3 @@
-- **2020-03-28 17:41**: fix: correct color specifications for mandatory traffic signs
 - **2020-03-28 21:23**: chore: organize assets and image directory structure
 - **2020-03-29 12:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-29 15:17**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-05-12 18:09**: chore: update project metadata and build configuration
 - **2020-05-12 20:22**: perf: index question IDs for rapid lookup
 - **2020-05-12 21:51**: test: verify question extraction script against exam PDF
+- **2020-05-13 12:35**: fix: prevent option re-selection after submitting answer
