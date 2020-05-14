@@ -1,4 +1,3 @@
-- **2020-03-29 12:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-03-29 15:17**: chore: format code style and clean up redundant variables
 - **2020-03-30 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-30 21:05**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-05-12 21:51**: test: verify question extraction script against exam PDF
 - **2020-05-13 12:35**: fix: prevent option re-selection after submitting answer
 - **2020-05-13 20:11**: feat: support multiple choice questions for motorcycle category
+- **2020-05-14 15:54**: feat: add category A and B traffic test questions
