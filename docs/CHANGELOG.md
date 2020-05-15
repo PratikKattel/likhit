@@ -1,4 +1,3 @@
-- **2020-03-31 17:18**: feat: add result summary with passing threshold analysis
 - **2020-04-01 12:51**: feat: add category-specific practice modes
 - **2020-04-01 17:48**: fix: resolve layout shift during question transitions
 - **2020-04-01 20:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-05-14 19:20**: feat: add warning signs and informational road signs
 - **2020-05-15 19:25**: refactor: restructure question data schema for faster loading
 - **2020-05-15 21:46**: docs: improve code comments and API documentation
+- **2020-05-15 22:09**: feat: add search and filter by sign category
