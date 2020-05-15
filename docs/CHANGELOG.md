@@ -1,4 +1,3 @@
-- **2020-03-30 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2020-03-30 21:05**: perf: lazy load signal graphics and question assets
 - **2020-03-31 17:18**: feat: add result summary with passing threshold analysis
 - **2020-04-01 12:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-05-13 20:11**: feat: support multiple choice questions for motorcycle category
 - **2020-05-14 15:54**: feat: add category A and B traffic test questions
 - **2020-05-14 19:20**: feat: add warning signs and informational road signs
+- **2020-05-15 19:25**: refactor: restructure question data schema for faster loading
