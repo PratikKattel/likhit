@@ -1,4 +1,3 @@
-- **2020-04-01 17:48**: fix: resolve layout shift during question transitions
 - **2020-04-01 20:13**: docs: improve code comments and API documentation
 - **2020-04-02 18:18**: docs: improve code comments and API documentation
 - **2020-04-03 11:52**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-05-15 21:46**: docs: improve code comments and API documentation
 - **2020-05-15 22:09**: feat: add search and filter by sign category
 - **2020-05-16 11:08**: refactor: restructure question data schema for faster loading
+- **2020-05-17 11:08**: refactor: restructure question data schema for faster loading
