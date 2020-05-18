@@ -1,4 +1,3 @@
-- **2020-04-03 11:52**: refactor: restructure question data schema for faster loading
 - **2020-04-03 18:47**: chore: format code style and clean up redundant variables
 - **2020-04-04 12:54**: perf: index question IDs for rapid lookup
 - **2020-04-04 13:06**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-05-17 11:08**: refactor: restructure question data schema for faster loading
 - **2020-05-17 15:10**: fix: typo in Nepali road safety regulations question
 - **2020-05-18 15:14**: chore: update questions database with recent DOTM updates
+- **2020-05-18 16:42**: docs: add instructions for Nepali driving license written exam
