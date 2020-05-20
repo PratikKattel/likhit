@@ -1,4 +1,3 @@
-- **2020-04-04 13:06**: feat: add keyboard navigation shortcuts for question selection
 - **2020-04-05 11:36**: feat: add search and filter by sign category
 - **2020-04-06 11:01**: fix: update DOTM Nepal license syllabus questions
 - **2020-04-06 12:53**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-05-18 16:42**: docs: add instructions for Nepali driving license written exam
 - **2020-05-19 20:18**: chore: update questions database with recent DOTM updates
 - **2020-05-19 20:50**: chore: update questions database with recent DOTM updates
+- **2020-05-20 14:06**: refactor: restructure question data schema for faster loading
