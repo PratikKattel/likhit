@@ -1,4 +1,3 @@
-- **2020-04-05 11:36**: feat: add search and filter by sign category
 - **2020-04-06 11:01**: fix: update DOTM Nepal license syllabus questions
 - **2020-04-06 12:53**: feat: add category A and B traffic test questions
 - **2020-04-07 10:40**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-05-19 20:18**: chore: update questions database with recent DOTM updates
 - **2020-05-19 20:50**: chore: update questions database with recent DOTM updates
 - **2020-05-20 14:06**: refactor: restructure question data schema for faster loading
+- **2020-05-21 11:18**: feat: add category-specific practice modes
