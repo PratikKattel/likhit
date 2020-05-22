@@ -1,4 +1,3 @@
-- **2020-04-07 10:40**: feat: implement timer and score calculation for mock test
 - **2020-04-08 14:23**: feat: add warning signs and informational road signs
 - **2020-04-09 16:57**: feat: add instant feedback and explanation on answer selection
 - **2020-04-09 17:07**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-05-21 11:18**: feat: add category-specific practice modes
 - **2020-05-21 17:09**: refactor: restructure question data schema for faster loading
 - **2020-05-21 20:40**: feat: add category A and B traffic test questions
+- **2020-05-22 17:42**: feat: add category A and B traffic test questions
