@@ -1,4 +1,3 @@
-- **2020-04-09 16:57**: feat: add instant feedback and explanation on answer selection
 - **2020-04-09 17:07**: feat: add category A and B traffic test questions
 - **2020-04-10 14:40**: feat: add regulatory traffic signs SVG graphics
 - **2020-04-10 18:42**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2020-05-21 20:40**: feat: add category A and B traffic test questions
 - **2020-05-22 17:42**: feat: add category A and B traffic test questions
 - **2020-05-23 22:27**: docs: add instructions for Nepali driving license written exam
+- **2020-05-24 17:37**: refactor: optimize SVG rendering for road signs
