@@ -1,4 +1,3 @@
-- **2020-04-10 18:42**: fix: resolve layout shift during question transitions
 - **2020-04-11 15:46**: fix: prevent option re-selection after submitting answer
 - **2020-04-11 16:36**: chore: update project metadata and build configuration
 - **2020-04-12 11:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-05-24 17:37**: refactor: optimize SVG rendering for road signs
 - **2020-05-25 12:25**: chore: update project metadata and build configuration
 - **2020-05-25 17:04**: feat: add warning signs and informational road signs
+- **2020-05-25 18:51**: feat: add regulatory traffic signs SVG graphics
