@@ -1,4 +1,3 @@
-- **2020-04-11 16:36**: chore: update project metadata and build configuration
 - **2020-04-12 11:36**: fix: correct color specifications for mandatory traffic signs
 - **2020-04-12 12:25**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-12 12:54**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-05-25 17:04**: feat: add warning signs and informational road signs
 - **2020-05-25 18:51**: feat: add regulatory traffic signs SVG graphics
 - **2020-05-26 22:29**: fix: update DOTM Nepal license syllabus questions
+- **2020-05-27 16:33**: style: polish typography and Nepali Unicode font rendering
