@@ -1,4 +1,3 @@
-- **2020-04-12 12:54**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-12 13:24**: feat: add regulatory traffic signs SVG graphics
 - **2020-04-13 16:19**: feat: support multiple choice questions for motorcycle category
 - **2020-04-14 21:24**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-05-27 16:33**: style: polish typography and Nepali Unicode font rendering
 - **2020-05-27 19:45**: feat: add search and filter by sign category
 - **2020-05-28 13:50**: feat: add search and filter by sign category
+- **2020-05-28 16:48**: docs: improve code comments and API documentation
