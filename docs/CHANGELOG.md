@@ -1,4 +1,3 @@
-- **2020-04-14 21:24**: style: enhance traffic sign card layout and responsiveness
 - **2020-04-15 17:42**: docs: add instructions for Nepali driving license written exam
 - **2020-04-16 17:20**: feat: add warning signs and informational road signs
 - **2020-04-16 17:53**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-05-28 16:48**: docs: improve code comments and API documentation
 - **2020-05-29 11:53**: feat: implement timer and score calculation for mock test
 - **2020-05-29 20:41**: feat: add category-specific practice modes
+- **2020-05-30 12:58**: feat: support multiple choice questions for motorcycle category
