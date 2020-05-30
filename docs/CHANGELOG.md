@@ -1,4 +1,3 @@
-- **2020-04-16 17:20**: feat: add warning signs and informational road signs
 - **2020-04-16 17:53**: style: polish typography and Nepali Unicode font rendering
 - **2020-04-17 11:06**: test: verify question extraction script against exam PDF
 - **2020-04-17 20:22**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-05-29 20:41**: feat: add category-specific practice modes
 - **2020-05-30 12:58**: feat: support multiple choice questions for motorcycle category
 - **2020-05-30 14:39**: test: verify question extraction script against exam PDF
+- **2020-05-30 17:29**: feat: add instant feedback and explanation on answer selection
