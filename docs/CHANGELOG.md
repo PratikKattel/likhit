@@ -1,4 +1,3 @@
-- **2020-04-17 11:06**: test: verify question extraction script against exam PDF
 - **2020-04-17 20:22**: feat: add result summary with passing threshold analysis
 - **2020-04-18 09:38**: chore: organize assets and image directory structure
 - **2020-04-19 18:54**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-05-30 14:39**: test: verify question extraction script against exam PDF
 - **2020-05-30 17:29**: feat: add instant feedback and explanation on answer selection
 - **2020-05-31 12:04**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-06-01 16:37**: refactor: optimize SVG rendering for road signs
