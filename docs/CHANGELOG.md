@@ -1,4 +1,3 @@
-- **2020-04-18 09:38**: chore: organize assets and image directory structure
 - **2020-04-19 18:54**: docs: update README with setup instructions and feature list
 - **2020-04-20 12:07**: docs: add instructions for Nepali driving license written exam
 - **2020-04-21 18:11**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-05-31 12:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-01 16:37**: refactor: optimize SVG rendering for road signs
 - **2020-06-02 16:44**: style: polish typography and Nepali Unicode font rendering
+- **2020-06-03 10:26**: test: verify question extraction script against exam PDF
