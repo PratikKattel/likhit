@@ -1,4 +1,3 @@
-- **2020-04-20 12:07**: docs: add instructions for Nepali driving license written exam
 - **2020-04-21 18:11**: feat: support multiple choice questions for motorcycle category
 - **2020-04-21 18:29**: docs: update README with setup instructions and feature list
 - **2020-04-22 22:08**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-06-02 16:44**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-03 10:26**: test: verify question extraction script against exam PDF
 - **2020-06-03 18:41**: style: polish typography and Nepali Unicode font rendering
+- **2020-06-04 09:54**: docs: add instructions for Nepali driving license written exam
