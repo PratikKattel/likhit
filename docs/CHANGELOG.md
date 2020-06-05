@@ -1,4 +1,3 @@
-- **2020-04-22 22:08**: docs: update README with setup instructions and feature list
 - **2020-04-23 15:31**: fix: correct color specifications for mandatory traffic signs
 - **2020-04-23 15:54**: refactor: optimize SVG rendering for road signs
 - **2020-04-23 16:06**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-06-04 09:54**: docs: add instructions for Nepali driving license written exam
 - **2020-06-04 12:03**: feat: implement timer and score calculation for mock test
 - **2020-06-04 18:00**: feat: add instant feedback and explanation on answer selection
+- **2020-06-05 11:51**: perf: index question IDs for rapid lookup
