@@ -1,4 +1,3 @@
-- **2020-04-23 16:06**: feat: add category-specific practice modes
 - **2020-04-24 15:34**: docs: add instructions for Nepali driving license written exam
 - **2020-04-25 15:21**: perf: optimize image caching for traffic sign assets
 - **2020-04-26 22:11**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-06-05 11:51**: perf: index question IDs for rapid lookup
 - **2020-06-05 17:19**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-05 17:41**: docs: update traffic signals catalog documentation
+- **2020-06-06 10:37**: fix: prevent option re-selection after submitting answer
