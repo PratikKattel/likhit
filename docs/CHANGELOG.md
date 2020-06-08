@@ -1,4 +1,3 @@
-- **2020-04-26 22:11**: feat: add category A and B traffic test questions
 - **2020-04-27 19:51**: perf: index question IDs for rapid lookup
 - **2020-04-28 13:32**: fix: adjust passing score threshold according to new rules
 - **2020-04-28 19:06**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-06-06 10:37**: fix: prevent option re-selection after submitting answer
 - **2020-06-07 12:14**: fix: correct color specifications for mandatory traffic signs
 - **2020-06-07 18:07**: docs: update traffic signals catalog documentation
+- **2020-06-08 17:58**: chore: organize assets and image directory structure
