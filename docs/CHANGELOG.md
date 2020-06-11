@@ -1,4 +1,3 @@
-- **2020-04-29 15:52**: feat: add instant feedback and explanation on answer selection
 - **2020-04-30 09:22**: feat: add instant feedback and explanation on answer selection
 - **2020-04-30 17:49**: fix: adjust passing score threshold according to new rules
 - **2020-05-01 10:10**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-06-09 14:42**: docs: improve code comments and API documentation
 - **2020-06-10 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-11 09:33**: docs: improve code comments and API documentation
+- **2020-06-11 12:02**: refactor: optimize SVG rendering for road signs
