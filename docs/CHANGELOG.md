@@ -1,4 +1,3 @@
-- **2020-04-30 17:49**: fix: adjust passing score threshold according to new rules
 - **2020-05-01 10:10**: docs: add instructions for Nepali driving license written exam
 - **2020-05-01 14:21**: feat: add keyboard navigation shortcuts for question selection
 - **2020-05-02 09:38**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-06-11 09:33**: docs: improve code comments and API documentation
 - **2020-06-11 12:02**: refactor: optimize SVG rendering for road signs
 - **2020-06-12 09:19**: chore: format code style and clean up redundant variables
+- **2020-06-12 17:13**: feat: support multiple choice questions for motorcycle category
