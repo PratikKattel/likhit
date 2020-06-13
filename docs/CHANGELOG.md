@@ -1,4 +1,3 @@
-- **2020-05-02 09:38**: docs: update traffic signals catalog documentation
 - **2020-05-02 11:12**: chore: format code style and clean up redundant variables
 - **2020-05-03 15:24**: feat: add instant feedback and explanation on answer selection
 - **2020-05-04 10:19**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-06-12 17:13**: feat: support multiple choice questions for motorcycle category
 - **2020-06-12 18:04**: feat: add result summary with passing threshold analysis
 - **2020-06-13 11:11**: style: polish typography and Nepali Unicode font rendering
+- **2020-06-13 13:47**: style: improve dark/light mode and mobile UI responsiveness
