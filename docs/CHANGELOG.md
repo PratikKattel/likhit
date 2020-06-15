@@ -1,4 +1,3 @@
-- **2020-05-04 18:57**: feat: support multiple choice questions for motorcycle category
 - **2020-05-05 12:35**: feat: add warning signs and informational road signs
 - **2020-05-05 18:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-05-06 10:45**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-06-13 18:55**: chore: update project metadata and build configuration
 - **2020-06-13 20:13**: chore: update project metadata and build configuration
 - **2020-06-14 10:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-06-15 16:32**: feat: add keyboard navigation shortcuts for question selection
