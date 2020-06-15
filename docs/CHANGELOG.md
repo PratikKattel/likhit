@@ -1,4 +1,3 @@
-- **2020-05-05 12:35**: feat: add warning signs and informational road signs
 - **2020-05-05 18:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-05-06 10:45**: chore: update questions database with recent DOTM updates
 - **2020-05-06 11:12**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2020-06-13 20:13**: chore: update project metadata and build configuration
 - **2020-06-14 10:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-15 16:32**: feat: add keyboard navigation shortcuts for question selection
+- **2020-06-15 21:04**: feat: add search and filter by sign category
