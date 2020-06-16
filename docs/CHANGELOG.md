@@ -1,4 +1,3 @@
-- **2020-05-06 11:52**: refactor: restructure question data schema for faster loading
 - **2020-05-07 12:35**: fix: resolve layout shift during question transitions
 - **2020-05-08 10:57**: fix: correct color specifications for mandatory traffic signs
 - **2020-05-08 11:45**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-06-15 22:17**: fix: typo in Nepali road safety regulations question
 - **2020-06-16 10:15**: fix: prevent option re-selection after submitting answer
 - **2020-06-16 13:34**: docs: update traffic signals catalog documentation
+- **2020-06-16 16:32**: fix: typo in Nepali road safety regulations question
