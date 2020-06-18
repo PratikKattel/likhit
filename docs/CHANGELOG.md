@@ -1,4 +1,3 @@
-- **2020-05-08 11:45**: feat: add search and filter by sign category
 - **2020-05-08 18:05**: style: enhance traffic sign card layout and responsiveness
 - **2020-05-09 13:47**: fix: correct color specifications for mandatory traffic signs
 - **2020-05-10 09:58**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-06-16 16:32**: fix: typo in Nepali road safety regulations question
 - **2020-06-17 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2020-06-17 17:54**: perf: index question IDs for rapid lookup
+- **2020-06-18 13:22**: fix: prevent option re-selection after submitting answer
