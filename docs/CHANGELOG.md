@@ -1,4 +1,3 @@
-- **2020-05-11 12:28**: refactor: restructure question data schema for faster loading
 - **2020-05-11 17:27**: chore: format code style and clean up redundant variables
 - **2020-05-11 19:41**: chore: organize assets and image directory structure
 - **2020-05-12 10:39**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-06-18 15:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-18 21:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-06-19 12:30**: fix: correct color specifications for mandatory traffic signs
+- **2020-06-20 18:10**: feat: add keyboard navigation shortcuts for question selection
