@@ -1,4 +1,3 @@
-- **2020-05-12 10:39**: fix: prevent option re-selection after submitting answer
 - **2020-05-12 18:09**: chore: update project metadata and build configuration
 - **2020-05-12 20:22**: perf: index question IDs for rapid lookup
 - **2020-05-12 21:51**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2020-06-20 18:10**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-21 15:28**: chore: update questions database with recent DOTM updates
 - **2020-06-22 11:18**: perf: lazy load signal graphics and question assets
+- **2020-06-23 11:24**: chore: update project metadata and build configuration
