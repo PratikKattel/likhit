@@ -1,4 +1,3 @@
-- **2020-05-12 20:22**: perf: index question IDs for rapid lookup
 - **2020-05-12 21:51**: test: verify question extraction script against exam PDF
 - **2020-05-13 12:35**: fix: prevent option re-selection after submitting answer
 - **2020-05-13 20:11**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-06-22 11:18**: perf: lazy load signal graphics and question assets
 - **2020-06-23 11:24**: chore: update project metadata and build configuration
 - **2020-06-23 11:42**: feat: support multiple choice questions for motorcycle category
+- **2020-06-24 13:45**: fix: prevent option re-selection after submitting answer
