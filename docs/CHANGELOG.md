@@ -1,4 +1,3 @@
-- **2020-05-13 20:11**: feat: support multiple choice questions for motorcycle category
 - **2020-05-14 15:54**: feat: add category A and B traffic test questions
 - **2020-05-14 19:20**: feat: add warning signs and informational road signs
 - **2020-05-15 19:25**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-06-24 13:45**: fix: prevent option re-selection after submitting answer
 - **2020-06-25 09:34**: perf: index question IDs for rapid lookup
 - **2020-06-25 13:13**: feat: add regulatory traffic signs SVG graphics
+- **2020-06-26 21:33**: chore: format code style and clean up redundant variables
