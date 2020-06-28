@@ -1,4 +1,3 @@
-- **2020-05-14 19:20**: feat: add warning signs and informational road signs
 - **2020-05-15 19:25**: refactor: restructure question data schema for faster loading
 - **2020-05-15 21:46**: docs: improve code comments and API documentation
 - **2020-05-15 22:09**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-06-25 13:13**: feat: add regulatory traffic signs SVG graphics
 - **2020-06-26 21:33**: chore: format code style and clean up redundant variables
 - **2020-06-27 16:13**: docs: improve code comments and API documentation
+- **2020-06-28 14:00**: feat: add category-specific practice modes
