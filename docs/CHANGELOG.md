@@ -1,4 +1,3 @@
-- **2020-05-15 21:46**: docs: improve code comments and API documentation
 - **2020-05-15 22:09**: feat: add search and filter by sign category
 - **2020-05-16 11:08**: refactor: restructure question data schema for faster loading
 - **2020-05-17 11:08**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-06-27 16:13**: docs: improve code comments and API documentation
 - **2020-06-28 14:00**: feat: add category-specific practice modes
 - **2020-06-28 20:53**: refactor: modularize traffic app logic and event listeners
+- **2020-06-29 16:13**: feat: add warning signs and informational road signs
