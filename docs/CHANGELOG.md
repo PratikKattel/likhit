@@ -1,4 +1,3 @@
-- **2020-05-16 11:08**: refactor: restructure question data schema for faster loading
 - **2020-05-17 11:08**: refactor: restructure question data schema for faster loading
 - **2020-05-17 15:10**: fix: typo in Nepali road safety regulations question
 - **2020-05-18 15:14**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2020-06-28 20:53**: refactor: modularize traffic app logic and event listeners
 - **2020-06-29 16:13**: feat: add warning signs and informational road signs
 - **2020-06-30 12:01**: feat: add keyboard navigation shortcuts for question selection
+- **2020-06-30 18:40**: refactor: modularize traffic app logic and event listeners
