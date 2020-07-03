@@ -1,4 +1,3 @@
-- **2020-05-18 16:42**: docs: add instructions for Nepali driving license written exam
 - **2020-05-19 20:18**: chore: update questions database with recent DOTM updates
 - **2020-05-19 20:50**: chore: update questions database with recent DOTM updates
 - **2020-05-20 14:06**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-06-30 21:54**: feat: support multiple choice questions for motorcycle category
 - **2020-07-01 15:51**: feat: add category-specific practice modes
 - **2020-07-02 13:35**: fix: adjust passing score threshold according to new rules
+- **2020-07-03 17:15**: perf: index question IDs for rapid lookup
