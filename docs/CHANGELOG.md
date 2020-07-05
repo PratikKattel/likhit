@@ -1,4 +1,3 @@
-- **2020-05-20 14:06**: refactor: restructure question data schema for faster loading
 - **2020-05-21 11:18**: feat: add category-specific practice modes
 - **2020-05-21 17:09**: refactor: restructure question data schema for faster loading
 - **2020-05-21 20:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-07-03 17:15**: perf: index question IDs for rapid lookup
 - **2020-07-04 16:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-07-05 10:00**: docs: improve code comments and API documentation
+- **2020-07-05 17:15**: test: verify question extraction script against exam PDF
