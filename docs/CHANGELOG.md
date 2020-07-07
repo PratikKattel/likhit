@@ -1,4 +1,3 @@
-- **2020-05-24 17:37**: refactor: optimize SVG rendering for road signs
 - **2020-05-25 12:25**: chore: update project metadata and build configuration
 - **2020-05-25 17:04**: feat: add warning signs and informational road signs
 - **2020-05-25 18:51**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-07-06 11:56**: style: polish typography and Nepali Unicode font rendering
 - **2020-07-06 14:09**: feat: add warning signs and informational road signs
 - **2020-07-07 14:41**: docs: update README with setup instructions and feature list
+- **2020-07-07 16:18**: chore: update project metadata and build configuration
