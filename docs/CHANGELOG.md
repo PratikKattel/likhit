@@ -1,4 +1,3 @@
-- **2020-05-25 17:04**: feat: add warning signs and informational road signs
 - **2020-05-25 18:51**: feat: add regulatory traffic signs SVG graphics
 - **2020-05-26 22:29**: fix: update DOTM Nepal license syllabus questions
 - **2020-05-27 16:33**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-07-07 14:41**: docs: update README with setup instructions and feature list
 - **2020-07-07 16:18**: chore: update project metadata and build configuration
 - **2020-07-08 10:36**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-07-08 13:48**: feat: add warning signs and informational road signs
