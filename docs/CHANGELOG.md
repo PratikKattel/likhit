@@ -1,4 +1,3 @@
-- **2020-05-26 22:29**: fix: update DOTM Nepal license syllabus questions
 - **2020-05-27 16:33**: style: polish typography and Nepali Unicode font rendering
 - **2020-05-27 19:45**: feat: add search and filter by sign category
 - **2020-05-28 13:50**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-07-08 10:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-07-08 13:48**: feat: add warning signs and informational road signs
 - **2020-07-09 12:06**: feat: support multiple choice questions for motorcycle category
+- **2020-07-09 17:22**: feat: add warning signs and informational road signs
