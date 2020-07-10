@@ -1,4 +1,3 @@
-- **2020-05-27 19:45**: feat: add search and filter by sign category
 - **2020-05-28 13:50**: feat: add search and filter by sign category
 - **2020-05-28 16:48**: docs: improve code comments and API documentation
 - **2020-05-29 11:53**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-07-09 12:06**: feat: support multiple choice questions for motorcycle category
 - **2020-07-09 17:22**: feat: add warning signs and informational road signs
 - **2020-07-09 18:10**: feat: add warning signs and informational road signs
+- **2020-07-10 18:50**: chore: organize assets and image directory structure
