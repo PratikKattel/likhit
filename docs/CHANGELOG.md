@@ -1,4 +1,3 @@
-- **2020-05-30 12:58**: feat: support multiple choice questions for motorcycle category
 - **2020-05-30 14:39**: test: verify question extraction script against exam PDF
 - **2020-05-30 17:29**: feat: add instant feedback and explanation on answer selection
 - **2020-05-31 12:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-07-11 13:25**: feat: add warning signs and informational road signs
 - **2020-07-12 10:27**: feat: add search and filter by sign category
 - **2020-07-13 18:02**: style: polish typography and Nepali Unicode font rendering
+- **2020-07-13 20:21**: feat: implement timer and score calculation for mock test
