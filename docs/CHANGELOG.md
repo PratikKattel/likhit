@@ -1,4 +1,3 @@
-- **2020-05-31 12:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-01 16:37**: refactor: optimize SVG rendering for road signs
 - **2020-06-02 16:44**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-03 10:26**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2020-07-13 20:21**: feat: implement timer and score calculation for mock test
 - **2020-07-14 10:40**: chore: update questions database with recent DOTM updates
 - **2020-07-14 16:44**: feat: implement timer and score calculation for mock test
+- **2020-07-15 10:43**: fix: resolve layout shift during question transitions
