@@ -1,4 +1,3 @@
-- **2020-06-04 09:54**: docs: add instructions for Nepali driving license written exam
 - **2020-06-04 12:03**: feat: implement timer and score calculation for mock test
 - **2020-06-04 18:00**: feat: add instant feedback and explanation on answer selection
 - **2020-06-05 11:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-07-15 18:20**: refactor: modularize traffic app logic and event listeners
 - **2020-07-16 21:17**: docs: improve code comments and API documentation
 - **2020-07-17 21:26**: docs: add instructions for Nepali driving license written exam
+- **2020-07-18 15:23**: fix: typo in Nepali road safety regulations question
