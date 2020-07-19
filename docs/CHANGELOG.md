@@ -1,4 +1,3 @@
-- **2020-06-04 18:00**: feat: add instant feedback and explanation on answer selection
 - **2020-06-05 11:51**: perf: index question IDs for rapid lookup
 - **2020-06-05 17:19**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-05 17:41**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-07-17 21:26**: docs: add instructions for Nepali driving license written exam
 - **2020-07-18 15:23**: fix: typo in Nepali road safety regulations question
 - **2020-07-18 16:07**: fix: correct color specifications for mandatory traffic signs
+- **2020-07-19 17:53**: docs: improve code comments and API documentation
