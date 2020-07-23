@@ -1,4 +1,3 @@
-- **2020-06-06 10:37**: fix: prevent option re-selection after submitting answer
 - **2020-06-07 12:14**: fix: correct color specifications for mandatory traffic signs
 - **2020-06-07 18:07**: docs: update traffic signals catalog documentation
 - **2020-06-08 17:58**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-07-20 12:10**: fix: adjust passing score threshold according to new rules
 - **2020-07-21 17:24**: fix: prevent option re-selection after submitting answer
 - **2020-07-22 16:34**: feat: add category A and B traffic test questions
+- **2020-07-23 16:56**: fix: typo in Nepali road safety regulations question
