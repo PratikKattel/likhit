@@ -1,4 +1,3 @@
-- **2020-06-08 17:58**: chore: organize assets and image directory structure
 - **2020-06-09 14:42**: docs: improve code comments and API documentation
 - **2020-06-10 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-11 09:33**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-07-23 16:56**: fix: typo in Nepali road safety regulations question
 - **2020-07-24 09:19**: fix: adjust passing score threshold according to new rules
 - **2020-07-24 12:50**: refactor: restructure question data schema for faster loading
+- **2020-07-25 14:31**: feat: support multiple choice questions for motorcycle category
