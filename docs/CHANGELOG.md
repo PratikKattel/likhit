@@ -1,4 +1,3 @@
-- **2020-06-11 12:02**: refactor: optimize SVG rendering for road signs
 - **2020-06-12 09:19**: chore: format code style and clean up redundant variables
 - **2020-06-12 17:13**: feat: support multiple choice questions for motorcycle category
 - **2020-06-12 18:04**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-07-25 15:08**: docs: update traffic signals catalog documentation
 - **2020-07-26 16:36**: perf: optimize image caching for traffic sign assets
 - **2020-07-27 20:37**: fix: correct color specifications for mandatory traffic signs
+- **2020-07-28 12:52**: feat: add search and filter by sign category
