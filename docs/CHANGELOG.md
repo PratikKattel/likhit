@@ -1,4 +1,3 @@
-- **2020-06-12 17:13**: feat: support multiple choice questions for motorcycle category
 - **2020-06-12 18:04**: feat: add result summary with passing threshold analysis
 - **2020-06-13 11:11**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-13 13:47**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-07-27 20:37**: fix: correct color specifications for mandatory traffic signs
 - **2020-07-28 12:52**: feat: add search and filter by sign category
 - **2020-07-28 19:10**: fix: correct color specifications for mandatory traffic signs
+- **2020-07-29 22:18**: perf: index question IDs for rapid lookup
