@@ -1,4 +1,3 @@
-- **2020-06-13 11:11**: style: polish typography and Nepali Unicode font rendering
 - **2020-06-13 13:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-06-13 18:55**: chore: update project metadata and build configuration
 - **2020-06-13 20:13**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2020-07-28 19:10**: fix: correct color specifications for mandatory traffic signs
 - **2020-07-29 22:18**: perf: index question IDs for rapid lookup
 - **2020-07-30 09:33**: chore: update project metadata and build configuration
+- **2020-07-31 19:27**: feat: add keyboard navigation shortcuts for question selection
