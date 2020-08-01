@@ -1,4 +1,3 @@
-- **2020-06-13 13:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-06-13 18:55**: chore: update project metadata and build configuration
 - **2020-06-13 20:13**: chore: update project metadata and build configuration
 - **2020-06-14 10:52**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-07-29 22:18**: perf: index question IDs for rapid lookup
 - **2020-07-30 09:33**: chore: update project metadata and build configuration
 - **2020-07-31 19:27**: feat: add keyboard navigation shortcuts for question selection
+- **2020-08-01 09:45**: feat: add category A and B traffic test questions
