@@ -1,4 +1,3 @@
-- **2020-06-13 18:55**: chore: update project metadata and build configuration
 - **2020-06-13 20:13**: chore: update project metadata and build configuration
 - **2020-06-14 10:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-15 16:32**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-07-30 09:33**: chore: update project metadata and build configuration
 - **2020-07-31 19:27**: feat: add keyboard navigation shortcuts for question selection
 - **2020-08-01 09:45**: feat: add category A and B traffic test questions
+- **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
