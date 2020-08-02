@@ -1,4 +1,3 @@
-- **2020-06-14 10:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-06-15 16:32**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-15 21:04**: feat: add search and filter by sign category
 - **2020-06-15 22:17**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-08-01 09:45**: feat: add category A and B traffic test questions
 - **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2020-08-02 13:36**: chore: update questions database with recent DOTM updates
+- **2020-08-02 22:03**: fix: update DOTM Nepal license syllabus questions
