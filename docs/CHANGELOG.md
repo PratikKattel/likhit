@@ -1,4 +1,3 @@
-- **2020-06-15 16:32**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-15 21:04**: feat: add search and filter by sign category
 - **2020-06-15 22:17**: fix: typo in Nepali road safety regulations question
 - **2020-06-16 10:15**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2020-08-02 13:36**: chore: update questions database with recent DOTM updates
 - **2020-08-02 22:03**: fix: update DOTM Nepal license syllabus questions
+- **2020-08-03 17:45**: style: improve dark/light mode and mobile UI responsiveness
