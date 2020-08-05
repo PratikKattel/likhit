@@ -1,4 +1,3 @@
-- **2020-06-16 13:34**: docs: update traffic signals catalog documentation
 - **2020-06-16 16:32**: fix: typo in Nepali road safety regulations question
 - **2020-06-17 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2020-06-17 17:54**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-08-03 21:13**: perf: optimize image caching for traffic sign assets
 - **2020-08-04 18:58**: fix: resolve layout shift during question transitions
 - **2020-08-05 12:53**: feat: add warning signs and informational road signs
+- **2020-08-05 13:49**: fix: correct color specifications for mandatory traffic signs
