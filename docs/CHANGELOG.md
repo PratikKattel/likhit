@@ -1,4 +1,3 @@
-- **2020-06-17 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2020-06-17 17:54**: perf: index question IDs for rapid lookup
 - **2020-06-18 13:22**: fix: prevent option re-selection after submitting answer
 - **2020-06-18 15:01**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-08-05 12:53**: feat: add warning signs and informational road signs
 - **2020-08-05 13:49**: fix: correct color specifications for mandatory traffic signs
 - **2020-08-05 17:04**: docs: improve code comments and API documentation
+- **2020-08-05 18:03**: feat: support multiple choice questions for motorcycle category
