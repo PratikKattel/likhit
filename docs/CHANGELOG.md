@@ -1,4 +1,3 @@
-- **2020-06-19 12:30**: fix: correct color specifications for mandatory traffic signs
 - **2020-06-20 18:10**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-21 15:28**: chore: update questions database with recent DOTM updates
 - **2020-06-22 11:18**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-08-07 14:52**: perf: optimize image caching for traffic sign assets
 - **2020-08-08 18:18**: feat: add regulatory traffic signs SVG graphics
 - **2020-08-08 18:37**: style: enhance traffic sign card layout and responsiveness
+- **2020-08-09 09:13**: feat: add category-specific practice modes
