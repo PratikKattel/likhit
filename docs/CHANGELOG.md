@@ -1,4 +1,3 @@
-- **2020-06-23 11:24**: chore: update project metadata and build configuration
 - **2020-06-23 11:42**: feat: support multiple choice questions for motorcycle category
 - **2020-06-24 13:45**: fix: prevent option re-selection after submitting answer
 - **2020-06-25 09:34**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-08-10 20:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-08-10 20:40**: fix: typo in Nepali road safety regulations question
 - **2020-08-11 22:01**: refactor: modularize traffic app logic and event listeners
+- **2020-08-12 21:07**: feat: implement timer and score calculation for mock test
