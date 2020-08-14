@@ -1,4 +1,3 @@
-- **2020-06-25 09:34**: perf: index question IDs for rapid lookup
 - **2020-06-25 13:13**: feat: add regulatory traffic signs SVG graphics
 - **2020-06-26 21:33**: chore: format code style and clean up redundant variables
 - **2020-06-27 16:13**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-08-12 21:07**: feat: implement timer and score calculation for mock test
 - **2020-08-13 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2020-08-13 22:10**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-08-14 15:42**: perf: index question IDs for rapid lookup
