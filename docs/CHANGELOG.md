@@ -1,4 +1,3 @@
-- **2020-06-26 21:33**: chore: format code style and clean up redundant variables
 - **2020-06-27 16:13**: docs: improve code comments and API documentation
 - **2020-06-28 14:00**: feat: add category-specific practice modes
 - **2020-06-28 20:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2020-08-13 22:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-08-14 15:42**: perf: index question IDs for rapid lookup
 - **2020-08-14 18:30**: feat: add category A and B traffic test questions
+- **2020-08-14 20:00**: refactor: restructure question data schema for faster loading
