@@ -1,4 +1,3 @@
-- **2020-06-28 20:53**: refactor: modularize traffic app logic and event listeners
 - **2020-06-29 16:13**: feat: add warning signs and informational road signs
 - **2020-06-30 12:01**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-30 18:40**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2020-08-14 20:00**: refactor: restructure question data schema for faster loading
 - **2020-08-14 22:04**: docs: update traffic signals catalog documentation
 - **2020-08-15 14:03**: feat: implement timer and score calculation for mock test
+- **2020-08-15 21:48**: docs: update traffic signals catalog documentation
