@@ -1,4 +1,3 @@
-- **2020-06-30 12:01**: feat: add keyboard navigation shortcuts for question selection
 - **2020-06-30 18:40**: refactor: modularize traffic app logic and event listeners
 - **2020-06-30 21:54**: feat: support multiple choice questions for motorcycle category
 - **2020-07-01 15:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-08-15 14:03**: feat: implement timer and score calculation for mock test
 - **2020-08-15 21:48**: docs: update traffic signals catalog documentation
 - **2020-08-16 14:17**: fix: prevent option re-selection after submitting answer
+- **2020-08-16 21:39**: perf: index question IDs for rapid lookup
