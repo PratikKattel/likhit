@@ -1,4 +1,3 @@
-- **2020-07-01 15:51**: feat: add category-specific practice modes
 - **2020-07-02 13:35**: fix: adjust passing score threshold according to new rules
 - **2020-07-03 17:15**: perf: index question IDs for rapid lookup
 - **2020-07-04 16:27**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-08-16 21:39**: perf: index question IDs for rapid lookup
 - **2020-08-17 18:41**: chore: update questions database with recent DOTM updates
 - **2020-08-18 09:14**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-08-18 16:23**: feat: add instant feedback and explanation on answer selection
