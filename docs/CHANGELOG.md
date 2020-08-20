@@ -1,4 +1,3 @@
-- **2020-07-04 16:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-07-05 10:00**: docs: improve code comments and API documentation
 - **2020-07-05 17:15**: test: verify question extraction script against exam PDF
 - **2020-07-05 20:35**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-08-18 16:23**: feat: add instant feedback and explanation on answer selection
 - **2020-08-19 11:45**: refactor: optimize SVG rendering for road signs
 - **2020-08-20 15:43**: feat: support multiple choice questions for motorcycle category
+- **2020-08-20 22:16**: chore: format code style and clean up redundant variables
