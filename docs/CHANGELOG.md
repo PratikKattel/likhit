@@ -1,4 +1,3 @@
-- **2020-07-05 17:15**: test: verify question extraction script against exam PDF
 - **2020-07-05 20:35**: feat: add category A and B traffic test questions
 - **2020-07-05 21:09**: fix: prevent option re-selection after submitting answer
 - **2020-07-06 11:56**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-08-20 15:43**: feat: support multiple choice questions for motorcycle category
 - **2020-08-20 22:16**: chore: format code style and clean up redundant variables
 - **2020-08-21 16:18**: refactor: restructure question data schema for faster loading
+- **2020-08-21 20:54**: refactor: restructure question data schema for faster loading
