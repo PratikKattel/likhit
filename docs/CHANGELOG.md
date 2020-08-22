@@ -1,4 +1,3 @@
-- **2020-07-05 21:09**: fix: prevent option re-selection after submitting answer
 - **2020-07-06 11:56**: style: polish typography and Nepali Unicode font rendering
 - **2020-07-06 14:09**: feat: add warning signs and informational road signs
 - **2020-07-07 14:41**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-08-21 16:18**: refactor: restructure question data schema for faster loading
 - **2020-08-21 20:54**: refactor: restructure question data schema for faster loading
 - **2020-08-22 12:27**: feat: add category A and B traffic test questions
+- **2020-08-22 18:57**: style: enhance traffic sign card layout and responsiveness
