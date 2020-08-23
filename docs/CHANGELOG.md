@@ -1,4 +1,3 @@
-- **2020-07-06 11:56**: style: polish typography and Nepali Unicode font rendering
 - **2020-07-06 14:09**: feat: add warning signs and informational road signs
 - **2020-07-07 14:41**: docs: update README with setup instructions and feature list
 - **2020-07-07 16:18**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2020-08-21 20:54**: refactor: restructure question data schema for faster loading
 - **2020-08-22 12:27**: feat: add category A and B traffic test questions
 - **2020-08-22 18:57**: style: enhance traffic sign card layout and responsiveness
+- **2020-08-23 16:40**: fix: typo in Nepali road safety regulations question
