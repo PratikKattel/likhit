@@ -1,4 +1,3 @@
-- **2020-07-07 16:18**: chore: update project metadata and build configuration
 - **2020-07-08 10:36**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-07-08 13:48**: feat: add warning signs and informational road signs
 - **2020-07-09 12:06**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-08-23 16:40**: fix: typo in Nepali road safety regulations question
 - **2020-08-23 16:55**: chore: organize assets and image directory structure
 - **2020-08-23 19:11**: fix: update DOTM Nepal license syllabus questions
+- **2020-08-24 15:54**: fix: resolve layout shift during question transitions
