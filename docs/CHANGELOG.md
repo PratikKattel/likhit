@@ -1,4 +1,3 @@
-- **2020-07-08 13:48**: feat: add warning signs and informational road signs
 - **2020-07-09 12:06**: feat: support multiple choice questions for motorcycle category
 - **2020-07-09 17:22**: feat: add warning signs and informational road signs
 - **2020-07-09 18:10**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-08-23 19:11**: fix: update DOTM Nepal license syllabus questions
 - **2020-08-24 15:54**: fix: resolve layout shift during question transitions
 - **2020-08-24 16:26**: feat: add search and filter by sign category
+- **2020-08-25 17:52**: fix: correct color specifications for mandatory traffic signs
