@@ -1,4 +1,3 @@
-- **2020-07-10 18:50**: chore: organize assets and image directory structure
 - **2020-07-10 20:16**: docs: update traffic signals catalog documentation
 - **2020-07-11 13:25**: feat: add warning signs and informational road signs
 - **2020-07-12 10:27**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-08-25 21:45**: style: enhance traffic sign card layout and responsiveness
 - **2020-08-25 22:19**: perf: index question IDs for rapid lookup
 - **2020-08-26 21:21**: feat: add category-specific practice modes
+- **2020-08-27 14:45**: feat: add search and filter by sign category
