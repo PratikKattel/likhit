@@ -1,4 +1,3 @@
-- **2020-07-11 13:25**: feat: add warning signs and informational road signs
 - **2020-07-12 10:27**: feat: add search and filter by sign category
 - **2020-07-13 18:02**: style: polish typography and Nepali Unicode font rendering
 - **2020-07-13 20:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-08-26 21:21**: feat: add category-specific practice modes
 - **2020-08-27 14:45**: feat: add search and filter by sign category
 - **2020-08-28 18:58**: feat: implement timer and score calculation for mock test
+- **2020-08-29 12:27**: docs: improve code comments and API documentation
