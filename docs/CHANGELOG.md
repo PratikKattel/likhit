@@ -1,4 +1,3 @@
-- **2020-07-14 16:44**: feat: implement timer and score calculation for mock test
 - **2020-07-15 10:43**: fix: resolve layout shift during question transitions
 - **2020-07-15 15:44**: feat: add result summary with passing threshold analysis
 - **2020-07-15 18:20**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2020-08-31 12:49**: refactor: restructure question data schema for faster loading
 - **2020-08-31 15:43**: docs: update traffic signals catalog documentation
 - **2020-09-01 14:17**: style: enhance traffic sign card layout and responsiveness
+- **2020-09-02 09:07**: feat: add keyboard navigation shortcuts for question selection
