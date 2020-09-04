@@ -1,4 +1,3 @@
-- **2020-07-15 15:44**: feat: add result summary with passing threshold analysis
 - **2020-07-15 18:20**: refactor: modularize traffic app logic and event listeners
 - **2020-07-16 21:17**: docs: improve code comments and API documentation
 - **2020-07-17 21:26**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-09-01 14:17**: style: enhance traffic sign card layout and responsiveness
 - **2020-09-02 09:07**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-03 18:17**: chore: update questions database with recent DOTM updates
+- **2020-09-04 15:34**: feat: add warning signs and informational road signs
