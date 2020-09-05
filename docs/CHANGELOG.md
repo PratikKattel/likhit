@@ -1,4 +1,3 @@
-- **2020-07-17 21:26**: docs: add instructions for Nepali driving license written exam
 - **2020-07-18 15:23**: fix: typo in Nepali road safety regulations question
 - **2020-07-18 16:07**: fix: correct color specifications for mandatory traffic signs
 - **2020-07-19 17:53**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-09-04 15:34**: feat: add warning signs and informational road signs
 - **2020-09-04 20:50**: perf: lazy load signal graphics and question assets
 - **2020-09-04 21:20**: feat: add regulatory traffic signs SVG graphics
+- **2020-09-05 16:24**: chore: format code style and clean up redundant variables
