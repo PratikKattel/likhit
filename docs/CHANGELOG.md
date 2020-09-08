@@ -1,4 +1,3 @@
-- **2020-07-19 17:53**: docs: improve code comments and API documentation
 - **2020-07-20 12:10**: fix: adjust passing score threshold according to new rules
 - **2020-07-21 17:24**: fix: prevent option re-selection after submitting answer
 - **2020-07-22 16:34**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-09-05 16:24**: chore: format code style and clean up redundant variables
 - **2020-09-06 19:30**: chore: update questions database with recent DOTM updates
 - **2020-09-07 15:47**: fix: prevent option re-selection after submitting answer
+- **2020-09-08 16:47**: feat: add warning signs and informational road signs
