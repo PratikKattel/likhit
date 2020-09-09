@@ -1,4 +1,3 @@
-- **2020-07-21 17:24**: fix: prevent option re-selection after submitting answer
 - **2020-07-22 16:34**: feat: add category A and B traffic test questions
 - **2020-07-23 16:56**: fix: typo in Nepali road safety regulations question
 - **2020-07-24 09:19**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2020-09-07 15:47**: fix: prevent option re-selection after submitting answer
 - **2020-09-08 16:47**: feat: add warning signs and informational road signs
 - **2020-09-09 11:00**: fix: correct color specifications for mandatory traffic signs
+- **2020-09-09 13:22**: test: verify question extraction script against exam PDF
