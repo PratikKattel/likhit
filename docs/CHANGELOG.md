@@ -1,4 +1,3 @@
-- **2020-07-24 12:50**: refactor: restructure question data schema for faster loading
 - **2020-07-25 14:31**: feat: support multiple choice questions for motorcycle category
 - **2020-07-25 15:08**: docs: update traffic signals catalog documentation
 - **2020-07-26 16:36**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2020-09-10 22:17**: feat: add result summary with passing threshold analysis
 - **2020-09-11 19:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-11 20:58**: chore: format code style and clean up redundant variables
+- **2020-09-11 21:36**: feat: implement timer and score calculation for mock test
