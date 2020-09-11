@@ -1,4 +1,3 @@
-- **2020-07-23 16:56**: fix: typo in Nepali road safety regulations question
 - **2020-07-24 09:19**: fix: adjust passing score threshold according to new rules
 - **2020-07-24 12:50**: refactor: restructure question data schema for faster loading
 - **2020-07-25 14:31**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-09-09 11:00**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-09 13:22**: test: verify question extraction script against exam PDF
 - **2020-09-10 22:17**: feat: add result summary with passing threshold analysis
+- **2020-09-11 19:21**: style: improve dark/light mode and mobile UI responsiveness
