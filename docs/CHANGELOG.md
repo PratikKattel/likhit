@@ -1,4 +1,3 @@
-- **2020-07-26 16:36**: perf: optimize image caching for traffic sign assets
 - **2020-07-27 20:37**: fix: correct color specifications for mandatory traffic signs
 - **2020-07-28 12:52**: feat: add search and filter by sign category
 - **2020-07-28 19:10**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-09-11 21:36**: feat: implement timer and score calculation for mock test
 - **2020-09-12 10:06**: feat: implement timer and score calculation for mock test
 - **2020-09-12 16:55**: fix: adjust passing score threshold according to new rules
+- **2020-09-13 13:57**: refactor: restructure question data schema for faster loading
