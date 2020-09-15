@@ -1,4 +1,3 @@
-- **2020-07-28 19:10**: fix: correct color specifications for mandatory traffic signs
 - **2020-07-29 22:18**: perf: index question IDs for rapid lookup
 - **2020-07-30 09:33**: chore: update project metadata and build configuration
 - **2020-07-31 19:27**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-09-13 13:57**: refactor: restructure question data schema for faster loading
 - **2020-09-13 20:15**: fix: prevent option re-selection after submitting answer
 - **2020-09-14 20:02**: fix: update DOTM Nepal license syllabus questions
+- **2020-09-15 11:12**: perf: optimize image caching for traffic sign assets
