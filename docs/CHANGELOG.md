@@ -1,4 +1,3 @@
-- **2020-07-30 09:33**: chore: update project metadata and build configuration
 - **2020-07-31 19:27**: feat: add keyboard navigation shortcuts for question selection
 - **2020-08-01 09:45**: feat: add category A and B traffic test questions
 - **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-09-14 20:02**: fix: update DOTM Nepal license syllabus questions
 - **2020-09-15 11:12**: perf: optimize image caching for traffic sign assets
 - **2020-09-16 18:38**: fix: correct color specifications for mandatory traffic signs
+- **2020-09-17 18:30**: chore: format code style and clean up redundant variables
