@@ -1,4 +1,3 @@
-- **2020-08-01 09:45**: feat: add category A and B traffic test questions
 - **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2020-08-02 13:36**: chore: update questions database with recent DOTM updates
 - **2020-08-02 22:03**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2020-09-16 18:38**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-17 18:30**: chore: format code style and clean up redundant variables
 - **2020-09-18 14:16**: style: enhance traffic sign card layout and responsiveness
+- **2020-09-18 19:59**: fix: correct color specifications for mandatory traffic signs
