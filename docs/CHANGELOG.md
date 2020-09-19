@@ -1,4 +1,3 @@
-- **2020-08-02 13:35**: style: polish typography and Nepali Unicode font rendering
 - **2020-08-02 13:36**: chore: update questions database with recent DOTM updates
 - **2020-08-02 22:03**: fix: update DOTM Nepal license syllabus questions
 - **2020-08-03 17:45**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-09-17 18:30**: chore: format code style and clean up redundant variables
 - **2020-09-18 14:16**: style: enhance traffic sign card layout and responsiveness
 - **2020-09-18 19:59**: fix: correct color specifications for mandatory traffic signs
+- **2020-09-19 19:26**: feat: add warning signs and informational road signs
