@@ -1,4 +1,3 @@
-- **2020-08-02 22:03**: fix: update DOTM Nepal license syllabus questions
 - **2020-08-03 17:45**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-08-03 21:13**: perf: optimize image caching for traffic sign assets
 - **2020-08-04 18:58**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2020-09-18 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-19 19:26**: feat: add warning signs and informational road signs
 - **2020-09-19 21:52**: feat: add keyboard navigation shortcuts for question selection
+- **2020-09-20 11:47**: perf: index question IDs for rapid lookup
