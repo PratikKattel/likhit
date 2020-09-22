@@ -1,4 +1,3 @@
-- **2020-08-05 17:04**: docs: improve code comments and API documentation
 - **2020-08-05 18:03**: feat: support multiple choice questions for motorcycle category
 - **2020-08-06 20:34**: fix: typo in Nepali road safety regulations question
 - **2020-08-07 14:52**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2020-09-21 18:21**: feat: implement timer and score calculation for mock test
 - **2020-09-21 21:22**: feat: implement timer and score calculation for mock test
 - **2020-09-22 10:45**: docs: update traffic signals catalog documentation
+- **2020-09-22 19:16**: feat: add regulatory traffic signs SVG graphics
