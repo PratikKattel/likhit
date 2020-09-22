@@ -1,4 +1,3 @@
-- **2020-08-05 13:49**: fix: correct color specifications for mandatory traffic signs
 - **2020-08-05 17:04**: docs: improve code comments and API documentation
 - **2020-08-05 18:03**: feat: support multiple choice questions for motorcycle category
 - **2020-08-06 20:34**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-09-21 09:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-21 18:21**: feat: implement timer and score calculation for mock test
 - **2020-09-21 21:22**: feat: implement timer and score calculation for mock test
+- **2020-09-22 10:45**: docs: update traffic signals catalog documentation
