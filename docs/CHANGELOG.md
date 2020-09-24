@@ -1,4 +1,3 @@
-- **2020-08-06 20:34**: fix: typo in Nepali road safety regulations question
 - **2020-08-07 14:52**: perf: optimize image caching for traffic sign assets
 - **2020-08-08 18:18**: feat: add regulatory traffic signs SVG graphics
 - **2020-08-08 18:37**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-09-22 10:45**: docs: update traffic signals catalog documentation
 - **2020-09-22 19:16**: feat: add regulatory traffic signs SVG graphics
 - **2020-09-23 16:21**: feat: add keyboard navigation shortcuts for question selection
+- **2020-09-24 11:00**: refactor: clean up unused CSS classes and optimize stylesheet
