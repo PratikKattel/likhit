@@ -1,4 +1,3 @@
-- **2020-08-08 18:37**: style: enhance traffic sign card layout and responsiveness
 - **2020-08-09 09:13**: feat: add category-specific practice modes
 - **2020-08-10 20:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-08-10 20:40**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-09-24 11:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-09-24 11:40**: fix: resolve layout shift during question transitions
 - **2020-09-24 11:50**: docs: update README with setup instructions and feature list
+- **2020-09-24 16:28**: chore: organize assets and image directory structure
