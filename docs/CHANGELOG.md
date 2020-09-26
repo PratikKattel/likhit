@@ -1,4 +1,3 @@
-- **2020-08-10 20:35**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-08-10 20:40**: fix: typo in Nepali road safety regulations question
 - **2020-08-11 22:01**: refactor: modularize traffic app logic and event listeners
 - **2020-08-12 21:07**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-09-24 11:50**: docs: update README with setup instructions and feature list
 - **2020-09-24 16:28**: chore: organize assets and image directory structure
 - **2020-09-25 17:53**: chore: format code style and clean up redundant variables
+- **2020-09-26 22:13**: feat: add search and filter by sign category
