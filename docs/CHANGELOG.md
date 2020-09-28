@@ -1,4 +1,3 @@
-- **2020-08-13 10:35**: feat: add keyboard navigation shortcuts for question selection
 - **2020-08-13 22:10**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-08-14 15:42**: perf: index question IDs for rapid lookup
 - **2020-08-14 18:30**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-09-27 10:36**: feat: implement timer and score calculation for mock test
 - **2020-09-27 20:48**: docs: add instructions for Nepali driving license written exam
 - **2020-09-28 12:18**: refactor: restructure question data schema for faster loading
+- **2020-09-28 20:08**: style: enhance traffic sign card layout and responsiveness
