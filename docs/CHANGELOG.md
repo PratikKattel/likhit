@@ -1,4 +1,3 @@
-- **2020-08-14 15:42**: perf: index question IDs for rapid lookup
 - **2020-08-14 18:30**: feat: add category A and B traffic test questions
 - **2020-08-14 20:00**: refactor: restructure question data schema for faster loading
 - **2020-08-14 22:04**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-09-28 12:18**: refactor: restructure question data schema for faster loading
 - **2020-09-28 20:08**: style: enhance traffic sign card layout and responsiveness
 - **2020-09-29 15:49**: refactor: restructure question data schema for faster loading
+- **2020-09-29 17:05**: docs: add instructions for Nepali driving license written exam
