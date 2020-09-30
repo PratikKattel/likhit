@@ -1,4 +1,3 @@
-- **2020-08-14 20:00**: refactor: restructure question data schema for faster loading
 - **2020-08-14 22:04**: docs: update traffic signals catalog documentation
 - **2020-08-15 14:03**: feat: implement timer and score calculation for mock test
 - **2020-08-15 21:48**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-09-29 15:49**: refactor: restructure question data schema for faster loading
 - **2020-09-29 17:05**: docs: add instructions for Nepali driving license written exam
 - **2020-09-30 10:43**: feat: add regulatory traffic signs SVG graphics
+- **2020-09-30 12:16**: style: polish typography and Nepali Unicode font rendering
