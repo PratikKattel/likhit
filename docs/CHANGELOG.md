@@ -1,4 +1,3 @@
-- **2020-08-15 14:03**: feat: implement timer and score calculation for mock test
 - **2020-08-15 21:48**: docs: update traffic signals catalog documentation
 - **2020-08-16 14:17**: fix: prevent option re-selection after submitting answer
 - **2020-08-16 21:39**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-09-30 10:43**: feat: add regulatory traffic signs SVG graphics
 - **2020-09-30 12:16**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 15:01**: refactor: optimize SVG rendering for road signs
+- **2020-10-01 18:38**: style: polish typography and Nepali Unicode font rendering
