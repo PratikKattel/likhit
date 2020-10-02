@@ -1,4 +1,3 @@
-- **2020-08-16 14:17**: fix: prevent option re-selection after submitting answer
 - **2020-08-16 21:39**: perf: index question IDs for rapid lookup
 - **2020-08-17 18:41**: chore: update questions database with recent DOTM updates
 - **2020-08-18 09:14**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-10-01 15:01**: refactor: optimize SVG rendering for road signs
 - **2020-10-01 18:38**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 22:26**: feat: add warning signs and informational road signs
+- **2020-10-02 09:28**: chore: update questions database with recent DOTM updates
