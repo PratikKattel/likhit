@@ -1,4 +1,3 @@
-- **2020-08-16 21:39**: perf: index question IDs for rapid lookup
 - **2020-08-17 18:41**: chore: update questions database with recent DOTM updates
 - **2020-08-18 09:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-08-18 16:23**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-10-01 18:38**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 22:26**: feat: add warning signs and informational road signs
 - **2020-10-02 09:28**: chore: update questions database with recent DOTM updates
+- **2020-10-02 16:24**: style: improve dark/light mode and mobile UI responsiveness
