@@ -1,4 +1,3 @@
-- **2020-08-18 09:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-08-18 16:23**: feat: add instant feedback and explanation on answer selection
 - **2020-08-19 11:45**: refactor: optimize SVG rendering for road signs
 - **2020-08-20 15:43**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-10-02 09:28**: chore: update questions database with recent DOTM updates
 - **2020-10-02 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-10-03 13:07**: feat: add category A and B traffic test questions
+- **2020-10-03 14:43**: fix: prevent option re-selection after submitting answer
