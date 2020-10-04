@@ -1,4 +1,3 @@
-- **2020-08-19 11:45**: refactor: optimize SVG rendering for road signs
 - **2020-08-20 15:43**: feat: support multiple choice questions for motorcycle category
 - **2020-08-20 22:16**: chore: format code style and clean up redundant variables
 - **2020-08-21 16:18**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-10-03 13:07**: feat: add category A and B traffic test questions
 - **2020-10-03 14:43**: fix: prevent option re-selection after submitting answer
 - **2020-10-04 16:27**: refactor: optimize SVG rendering for road signs
+- **2020-10-04 18:26**: docs: improve code comments and API documentation
