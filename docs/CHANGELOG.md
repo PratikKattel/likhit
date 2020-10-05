@@ -1,4 +1,3 @@
-- **2020-08-21 16:18**: refactor: restructure question data schema for faster loading
 - **2020-08-21 20:54**: refactor: restructure question data schema for faster loading
 - **2020-08-22 12:27**: feat: add category A and B traffic test questions
 - **2020-08-22 18:57**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2020-10-04 18:26**: docs: improve code comments and API documentation
 - **2020-10-04 20:05**: feat: add category-specific practice modes
 - **2020-10-05 10:47**: feat: add regulatory traffic signs SVG graphics
+- **2020-10-05 20:30**: chore: update project metadata and build configuration
