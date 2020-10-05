@@ -1,4 +1,3 @@
-- **2020-08-20 22:16**: chore: format code style and clean up redundant variables
 - **2020-08-21 16:18**: refactor: restructure question data schema for faster loading
 - **2020-08-21 20:54**: refactor: restructure question data schema for faster loading
 - **2020-08-22 12:27**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-10-04 16:27**: refactor: optimize SVG rendering for road signs
 - **2020-10-04 18:26**: docs: improve code comments and API documentation
 - **2020-10-04 20:05**: feat: add category-specific practice modes
+- **2020-10-05 10:47**: feat: add regulatory traffic signs SVG graphics
