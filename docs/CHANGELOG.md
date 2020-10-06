@@ -1,4 +1,3 @@
-- **2020-08-22 12:27**: feat: add category A and B traffic test questions
 - **2020-08-22 18:57**: style: enhance traffic sign card layout and responsiveness
 - **2020-08-23 16:40**: fix: typo in Nepali road safety regulations question
 - **2020-08-23 16:55**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-10-05 10:47**: feat: add regulatory traffic signs SVG graphics
 - **2020-10-05 20:30**: chore: update project metadata and build configuration
 - **2020-10-05 21:55**: chore: update project metadata and build configuration
+- **2020-10-06 10:24**: docs: update traffic signals catalog documentation
