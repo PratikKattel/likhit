@@ -1,4 +1,3 @@
-- **2020-08-23 16:40**: fix: typo in Nepali road safety regulations question
 - **2020-08-23 16:55**: chore: organize assets and image directory structure
 - **2020-08-23 19:11**: fix: update DOTM Nepal license syllabus questions
 - **2020-08-24 15:54**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2020-10-05 21:55**: chore: update project metadata and build configuration
 - **2020-10-06 10:24**: docs: update traffic signals catalog documentation
 - **2020-10-07 16:48**: style: improve dark/light mode and mobile UI responsiveness
+- **2020-10-07 19:23**: feat: add keyboard navigation shortcuts for question selection
