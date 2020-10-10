@@ -1,4 +1,3 @@
-- **2020-08-24 16:26**: feat: add search and filter by sign category
 - **2020-08-25 17:52**: fix: correct color specifications for mandatory traffic signs
 - **2020-08-25 21:45**: style: enhance traffic sign card layout and responsiveness
 - **2020-08-25 22:19**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-10-08 16:32**: fix: update DOTM Nepal license syllabus questions
 - **2020-10-09 10:39**: feat: add result summary with passing threshold analysis
 - **2020-10-09 13:51**: fix: resolve layout shift during question transitions
+- **2020-10-10 14:12**: test: verify question extraction script against exam PDF
