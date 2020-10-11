@@ -1,4 +1,3 @@
-- **2020-08-25 22:19**: perf: index question IDs for rapid lookup
 - **2020-08-26 21:21**: feat: add category-specific practice modes
 - **2020-08-27 14:45**: feat: add search and filter by sign category
 - **2020-08-28 18:58**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-10-10 14:12**: test: verify question extraction script against exam PDF
 - **2020-10-10 15:47**: perf: optimize image caching for traffic sign assets
 - **2020-10-11 11:16**: perf: index question IDs for rapid lookup
+- **2020-10-11 12:37**: feat: add category-specific practice modes
