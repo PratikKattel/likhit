@@ -1,4 +1,3 @@
-- **2020-08-29 12:27**: docs: improve code comments and API documentation
 - **2020-08-30 11:35**: fix: adjust passing score threshold according to new rules
 - **2020-08-31 12:49**: refactor: restructure question data schema for faster loading
 - **2020-08-31 15:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-10-11 16:56**: fix: resolve layout shift during question transitions
 - **2020-10-11 21:09**: test: verify question extraction script against exam PDF
 - **2020-10-12 21:50**: feat: add search and filter by sign category
+- **2020-10-13 20:24**: chore: organize assets and image directory structure
