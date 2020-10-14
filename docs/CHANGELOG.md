@@ -1,4 +1,3 @@
-- **2020-08-31 12:49**: refactor: restructure question data schema for faster loading
 - **2020-08-31 15:43**: docs: update traffic signals catalog documentation
 - **2020-09-01 14:17**: style: enhance traffic sign card layout and responsiveness
 - **2020-09-02 09:07**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2020-10-12 21:50**: feat: add search and filter by sign category
 - **2020-10-13 20:24**: chore: organize assets and image directory structure
 - **2020-10-13 21:17**: perf: optimize image caching for traffic sign assets
+- **2020-10-14 18:34**: refactor: restructure question data schema for faster loading
