@@ -1,4 +1,3 @@
-- **2020-09-02 09:07**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-03 18:17**: chore: update questions database with recent DOTM updates
 - **2020-09-04 15:34**: feat: add warning signs and informational road signs
 - **2020-09-04 20:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-10-14 18:34**: refactor: restructure question data schema for faster loading
 - **2020-10-15 09:45**: feat: add warning signs and informational road signs
 - **2020-10-15 12:21**: perf: index question IDs for rapid lookup
+- **2020-10-16 16:58**: feat: add instant feedback and explanation on answer selection
