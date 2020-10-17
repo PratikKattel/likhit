@@ -1,4 +1,3 @@
-- **2020-09-03 18:17**: chore: update questions database with recent DOTM updates
 - **2020-09-04 15:34**: feat: add warning signs and informational road signs
 - **2020-09-04 20:50**: perf: lazy load signal graphics and question assets
 - **2020-09-04 21:20**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-10-15 09:45**: feat: add warning signs and informational road signs
 - **2020-10-15 12:21**: perf: index question IDs for rapid lookup
 - **2020-10-16 16:58**: feat: add instant feedback and explanation on answer selection
+- **2020-10-17 19:46**: fix: typo in Nepali road safety regulations question
