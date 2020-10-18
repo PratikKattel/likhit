@@ -1,4 +1,3 @@
-- **2020-09-04 21:20**: feat: add regulatory traffic signs SVG graphics
 - **2020-09-05 16:24**: chore: format code style and clean up redundant variables
 - **2020-09-06 19:30**: chore: update questions database with recent DOTM updates
 - **2020-09-07 15:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2020-10-17 19:46**: fix: typo in Nepali road safety regulations question
 - **2020-10-18 13:36**: feat: add result summary with passing threshold analysis
 - **2020-10-18 13:53**: style: enhance traffic sign card layout and responsiveness
+- **2020-10-18 20:25**: fix: adjust passing score threshold according to new rules
