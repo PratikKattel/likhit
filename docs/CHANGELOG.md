@@ -1,4 +1,3 @@
-- **2020-09-06 19:30**: chore: update questions database with recent DOTM updates
 - **2020-09-07 15:47**: fix: prevent option re-selection after submitting answer
 - **2020-09-08 16:47**: feat: add warning signs and informational road signs
 - **2020-09-09 11:00**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-10-18 13:53**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-18 20:25**: fix: adjust passing score threshold according to new rules
 - **2020-10-19 14:26**: fix: correct color specifications for mandatory traffic signs
+- **2020-10-20 19:01**: feat: add result summary with passing threshold analysis
