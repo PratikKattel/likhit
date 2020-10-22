@@ -1,4 +1,3 @@
-- **2020-09-08 16:47**: feat: add warning signs and informational road signs
 - **2020-09-09 11:00**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-09 13:22**: test: verify question extraction script against exam PDF
 - **2020-09-10 22:17**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-10-19 14:26**: fix: correct color specifications for mandatory traffic signs
 - **2020-10-20 19:01**: feat: add result summary with passing threshold analysis
 - **2020-10-21 14:15**: chore: format code style and clean up redundant variables
+- **2020-10-22 09:22**: feat: add search and filter by sign category
