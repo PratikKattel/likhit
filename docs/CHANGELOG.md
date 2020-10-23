@@ -1,4 +1,3 @@
-- **2020-09-10 22:17**: feat: add result summary with passing threshold analysis
 - **2020-09-11 19:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-11 20:58**: chore: format code style and clean up redundant variables
 - **2020-09-11 21:36**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-10-22 09:22**: feat: add search and filter by sign category
 - **2020-10-22 10:14**: fix: prevent option re-selection after submitting answer
 - **2020-10-22 14:37**: style: enhance traffic sign card layout and responsiveness
+- **2020-10-23 16:36**: docs: add instructions for Nepali driving license written exam
