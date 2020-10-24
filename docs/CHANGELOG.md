@@ -1,4 +1,3 @@
-- **2020-09-11 20:58**: chore: format code style and clean up redundant variables
 - **2020-09-11 21:36**: feat: implement timer and score calculation for mock test
 - **2020-09-12 10:06**: feat: implement timer and score calculation for mock test
 - **2020-09-12 16:55**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2020-10-22 14:37**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-23 16:36**: docs: add instructions for Nepali driving license written exam
 - **2020-10-23 19:40**: feat: add instant feedback and explanation on answer selection
+- **2020-10-24 21:50**: docs: add instructions for Nepali driving license written exam
