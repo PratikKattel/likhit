@@ -1,4 +1,3 @@
-- **2020-09-14 20:02**: fix: update DOTM Nepal license syllabus questions
 - **2020-09-15 11:12**: perf: optimize image caching for traffic sign assets
 - **2020-09-16 18:38**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-17 18:30**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-10-26 09:47**: fix: resolve layout shift during question transitions
 - **2020-10-26 13:30**: chore: update questions database with recent DOTM updates
 - **2020-10-26 16:34**: perf: lazy load signal graphics and question assets
+- **2020-10-26 21:02**: refactor: modularize traffic app logic and event listeners
