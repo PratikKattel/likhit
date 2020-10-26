@@ -1,4 +1,3 @@
-- **2020-09-12 16:55**: fix: adjust passing score threshold according to new rules
 - **2020-09-13 13:57**: refactor: restructure question data schema for faster loading
 - **2020-09-13 20:15**: fix: prevent option re-selection after submitting answer
 - **2020-09-14 20:02**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2020-10-24 21:50**: docs: add instructions for Nepali driving license written exam
 - **2020-10-25 10:51**: feat: add instant feedback and explanation on answer selection
 - **2020-10-25 11:25**: chore: format code style and clean up redundant variables
+- **2020-10-26 09:47**: fix: resolve layout shift during question transitions
