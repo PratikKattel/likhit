@@ -1,4 +1,3 @@
-- **2020-09-17 18:30**: chore: format code style and clean up redundant variables
 - **2020-09-18 14:16**: style: enhance traffic sign card layout and responsiveness
 - **2020-09-18 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-19 19:26**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-10-26 21:02**: refactor: modularize traffic app logic and event listeners
 - **2020-10-27 14:42**: refactor: optimize SVG rendering for road signs
 - **2020-10-27 19:08**: fix: resolve layout shift during question transitions
+- **2020-10-28 13:48**: fix: prevent option re-selection after submitting answer
