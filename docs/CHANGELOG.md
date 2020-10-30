@@ -1,4 +1,3 @@
-- **2020-09-18 19:59**: fix: correct color specifications for mandatory traffic signs
 - **2020-09-19 19:26**: feat: add warning signs and informational road signs
 - **2020-09-19 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-20 11:47**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-10-27 19:08**: fix: resolve layout shift during question transitions
 - **2020-10-28 13:48**: fix: prevent option re-selection after submitting answer
 - **2020-10-29 21:12**: feat: add category-specific practice modes
+- **2020-10-30 09:07**: feat: implement timer and score calculation for mock test
