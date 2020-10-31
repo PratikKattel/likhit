@@ -1,4 +1,3 @@
-- **2020-09-19 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-20 11:47**: perf: index question IDs for rapid lookup
 - **2020-09-20 21:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-21 09:57**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-10-29 21:12**: feat: add category-specific practice modes
 - **2020-10-30 09:07**: feat: implement timer and score calculation for mock test
 - **2020-10-30 10:11**: refactor: restructure question data schema for faster loading
+- **2020-10-31 09:37**: chore: organize assets and image directory structure
