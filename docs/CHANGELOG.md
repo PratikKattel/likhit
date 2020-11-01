@@ -1,4 +1,3 @@
-- **2020-09-20 11:47**: perf: index question IDs for rapid lookup
 - **2020-09-20 21:42**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-21 09:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-21 18:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2020-10-30 09:07**: feat: implement timer and score calculation for mock test
 - **2020-10-30 10:11**: refactor: restructure question data schema for faster loading
 - **2020-10-31 09:37**: chore: organize assets and image directory structure
+- **2020-11-01 15:09**: feat: add regulatory traffic signs SVG graphics
