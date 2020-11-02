@@ -1,4 +1,3 @@
-- **2020-09-21 18:21**: feat: implement timer and score calculation for mock test
 - **2020-09-21 21:22**: feat: implement timer and score calculation for mock test
 - **2020-09-22 10:45**: docs: update traffic signals catalog documentation
 - **2020-09-22 19:16**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-11-01 15:09**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-01 21:43**: feat: support multiple choice questions for motorcycle category
 - **2020-11-02 09:09**: perf: index question IDs for rapid lookup
+- **2020-11-02 13:59**: perf: index question IDs for rapid lookup
