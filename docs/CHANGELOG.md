@@ -1,4 +1,3 @@
-- **2020-09-21 09:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-09-21 18:21**: feat: implement timer and score calculation for mock test
 - **2020-09-21 21:22**: feat: implement timer and score calculation for mock test
 - **2020-09-22 10:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-10-31 09:37**: chore: organize assets and image directory structure
 - **2020-11-01 15:09**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-01 21:43**: feat: support multiple choice questions for motorcycle category
+- **2020-11-02 09:09**: perf: index question IDs for rapid lookup
