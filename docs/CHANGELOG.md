@@ -1,4 +1,3 @@
-- **2020-09-22 10:45**: docs: update traffic signals catalog documentation
 - **2020-09-22 19:16**: feat: add regulatory traffic signs SVG graphics
 - **2020-09-23 16:21**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-24 11:00**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2020-11-02 09:09**: perf: index question IDs for rapid lookup
 - **2020-11-02 13:59**: perf: index question IDs for rapid lookup
 - **2020-11-03 19:56**: feat: support multiple choice questions for motorcycle category
+- **2020-11-04 21:39**: feat: add search and filter by sign category
