@@ -1,4 +1,3 @@
-- **2020-09-23 16:21**: feat: add keyboard navigation shortcuts for question selection
 - **2020-09-24 11:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-09-24 11:40**: fix: resolve layout shift during question transitions
 - **2020-09-24 11:50**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2020-11-03 19:56**: feat: support multiple choice questions for motorcycle category
 - **2020-11-04 21:39**: feat: add search and filter by sign category
 - **2020-11-05 18:58**: feat: add category A and B traffic test questions
+- **2020-11-06 21:31**: refactor: optimize SVG rendering for road signs
