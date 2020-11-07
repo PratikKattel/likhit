@@ -1,4 +1,3 @@
-- **2020-09-24 11:40**: fix: resolve layout shift during question transitions
 - **2020-09-24 11:50**: docs: update README with setup instructions and feature list
 - **2020-09-24 16:28**: chore: organize assets and image directory structure
 - **2020-09-25 17:53**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2020-11-05 18:58**: feat: add category A and B traffic test questions
 - **2020-11-06 21:31**: refactor: optimize SVG rendering for road signs
 - **2020-11-07 10:33**: fix: update DOTM Nepal license syllabus questions
+- **2020-11-07 14:53**: perf: index question IDs for rapid lookup
