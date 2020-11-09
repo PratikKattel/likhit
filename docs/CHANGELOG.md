@@ -1,4 +1,3 @@
-- **2020-09-26 22:13**: feat: add search and filter by sign category
 - **2020-09-27 10:36**: feat: implement timer and score calculation for mock test
 - **2020-09-27 20:48**: docs: add instructions for Nepali driving license written exam
 - **2020-09-28 12:18**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-11-08 10:36**: feat: add instant feedback and explanation on answer selection
 - **2020-11-08 10:44**: docs: update traffic signals catalog documentation
 - **2020-11-08 12:46**: fix: typo in Nepali road safety regulations question
+- **2020-11-09 16:10**: feat: add search and filter by sign category
