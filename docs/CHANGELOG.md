@@ -1,4 +1,3 @@
-- **2020-09-29 15:49**: refactor: restructure question data schema for faster loading
 - **2020-09-29 17:05**: docs: add instructions for Nepali driving license written exam
 - **2020-09-30 10:43**: feat: add regulatory traffic signs SVG graphics
 - **2020-09-30 12:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2020-11-10 09:04**: fix: prevent option re-selection after submitting answer
 - **2020-11-10 15:39**: feat: add instant feedback and explanation on answer selection
 - **2020-11-11 20:40**: refactor: modularize traffic app logic and event listeners
+- **2020-11-12 14:54**: feat: implement timer and score calculation for mock test
