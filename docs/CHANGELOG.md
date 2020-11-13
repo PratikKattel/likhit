@@ -1,4 +1,3 @@
-- **2020-09-30 12:16**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 15:01**: refactor: optimize SVG rendering for road signs
 - **2020-10-01 18:38**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 22:26**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2020-11-12 14:54**: feat: implement timer and score calculation for mock test
 - **2020-11-12 16:43**: feat: support multiple choice questions for motorcycle category
 - **2020-11-13 15:18**: docs: update traffic signals catalog documentation
+- **2020-11-13 22:02**: docs: add instructions for Nepali driving license written exam
