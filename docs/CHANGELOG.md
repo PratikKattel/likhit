@@ -1,4 +1,3 @@
-- **2020-10-01 18:38**: style: polish typography and Nepali Unicode font rendering
 - **2020-10-01 22:26**: feat: add warning signs and informational road signs
 - **2020-10-02 09:28**: chore: update questions database with recent DOTM updates
 - **2020-10-02 16:24**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2020-11-13 15:18**: docs: update traffic signals catalog documentation
 - **2020-11-13 22:02**: docs: add instructions for Nepali driving license written exam
 - **2020-11-14 13:24**: feat: support multiple choice questions for motorcycle category
+- **2020-11-14 20:23**: feat: add instant feedback and explanation on answer selection
