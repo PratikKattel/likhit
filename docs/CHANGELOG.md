@@ -1,4 +1,3 @@
-- **2020-10-04 16:27**: refactor: optimize SVG rendering for road signs
 - **2020-10-04 18:26**: docs: improve code comments and API documentation
 - **2020-10-04 20:05**: feat: add category-specific practice modes
 - **2020-10-05 10:47**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2020-11-16 12:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-16 16:04**: docs: improve code comments and API documentation
 - **2020-11-16 20:02**: feat: add search and filter by sign category
+- **2020-11-16 21:18**: feat: implement timer and score calculation for mock test
