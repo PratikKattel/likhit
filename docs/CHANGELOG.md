@@ -1,4 +1,3 @@
-- **2020-10-03 14:43**: fix: prevent option re-selection after submitting answer
 - **2020-10-04 16:27**: refactor: optimize SVG rendering for road signs
 - **2020-10-04 18:26**: docs: improve code comments and API documentation
 - **2020-10-04 20:05**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-11-15 10:01**: feat: support multiple choice questions for motorcycle category
 - **2020-11-16 12:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-16 16:04**: docs: improve code comments and API documentation
+- **2020-11-16 20:02**: feat: add search and filter by sign category
