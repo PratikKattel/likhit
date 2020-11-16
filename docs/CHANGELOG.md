@@ -1,4 +1,3 @@
-- **2020-10-03 13:07**: feat: add category A and B traffic test questions
 - **2020-10-03 14:43**: fix: prevent option re-selection after submitting answer
 - **2020-10-04 16:27**: refactor: optimize SVG rendering for road signs
 - **2020-10-04 18:26**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2020-11-14 20:52**: perf: lazy load signal graphics and question assets
 - **2020-11-15 10:01**: feat: support multiple choice questions for motorcycle category
 - **2020-11-16 12:34**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2020-11-16 16:04**: docs: improve code comments and API documentation
