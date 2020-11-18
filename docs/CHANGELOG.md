@@ -1,4 +1,3 @@
-- **2020-10-05 10:47**: feat: add regulatory traffic signs SVG graphics
 - **2020-10-05 20:30**: chore: update project metadata and build configuration
 - **2020-10-05 21:55**: chore: update project metadata and build configuration
 - **2020-10-06 10:24**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2020-11-16 21:18**: feat: implement timer and score calculation for mock test
 - **2020-11-17 11:13**: test: verify question extraction script against exam PDF
 - **2020-11-17 21:04**: docs: update traffic signals catalog documentation
+- **2020-11-18 15:42**: docs: add instructions for Nepali driving license written exam
