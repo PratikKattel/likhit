@@ -1,4 +1,3 @@
-- **2020-10-07 16:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-10-07 19:23**: feat: add keyboard navigation shortcuts for question selection
 - **2020-10-08 16:32**: fix: update DOTM Nepal license syllabus questions
 - **2020-10-09 10:39**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-11-18 16:01**: perf: lazy load signal graphics and question assets
 - **2020-11-18 22:06**: test: verify question extraction script against exam PDF
 - **2020-11-18 22:29**: fix: resolve layout shift during question transitions
+- **2020-11-19 11:31**: perf: index question IDs for rapid lookup
