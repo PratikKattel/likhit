@@ -1,4 +1,3 @@
-- **2020-10-08 16:32**: fix: update DOTM Nepal license syllabus questions
 - **2020-10-09 10:39**: feat: add result summary with passing threshold analysis
 - **2020-10-09 13:51**: fix: resolve layout shift during question transitions
 - **2020-10-10 14:12**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2020-11-18 22:29**: fix: resolve layout shift during question transitions
 - **2020-11-19 11:31**: perf: index question IDs for rapid lookup
 - **2020-11-19 15:37**: chore: format code style and clean up redundant variables
+- **2020-11-20 20:11**: refactor: clean up unused CSS classes and optimize stylesheet
