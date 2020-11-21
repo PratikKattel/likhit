@@ -1,4 +1,3 @@
-- **2020-10-09 13:51**: fix: resolve layout shift during question transitions
 - **2020-10-10 14:12**: test: verify question extraction script against exam PDF
 - **2020-10-10 15:47**: perf: optimize image caching for traffic sign assets
 - **2020-10-11 11:16**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-11-19 15:37**: chore: format code style and clean up redundant variables
 - **2020-11-20 20:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-21 15:51**: fix: correct color specifications for mandatory traffic signs
+- **2020-11-21 16:21**: chore: update project metadata and build configuration
