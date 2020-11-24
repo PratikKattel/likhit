@@ -1,4 +1,3 @@
-- **2020-10-11 16:56**: fix: resolve layout shift during question transitions
 - **2020-10-11 21:09**: test: verify question extraction script against exam PDF
 - **2020-10-12 21:50**: feat: add search and filter by sign category
 - **2020-10-13 20:24**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-11-23 10:14**: feat: add keyboard navigation shortcuts for question selection
 - **2020-11-23 13:47**: test: verify question extraction script against exam PDF
 - **2020-11-23 19:17**: feat: add result summary with passing threshold analysis
+- **2020-11-24 20:39**: feat: add warning signs and informational road signs
