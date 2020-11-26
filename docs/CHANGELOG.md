@@ -1,4 +1,3 @@
-- **2020-10-12 21:50**: feat: add search and filter by sign category
 - **2020-10-13 20:24**: chore: organize assets and image directory structure
 - **2020-10-13 21:17**: perf: optimize image caching for traffic sign assets
 - **2020-10-14 18:34**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2020-11-23 19:17**: feat: add result summary with passing threshold analysis
 - **2020-11-24 20:39**: feat: add warning signs and informational road signs
 - **2020-11-25 13:54**: style: improve dark/light mode and mobile UI responsiveness
+- **2020-11-26 12:28**: feat: add category A and B traffic test questions
