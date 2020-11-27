@@ -1,4 +1,3 @@
-- **2020-10-14 18:34**: refactor: restructure question data schema for faster loading
 - **2020-10-15 09:45**: feat: add warning signs and informational road signs
 - **2020-10-15 12:21**: perf: index question IDs for rapid lookup
 - **2020-10-16 16:58**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-11-26 12:28**: feat: add category A and B traffic test questions
 - **2020-11-27 13:32**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-27 18:36**: fix: correct color specifications for mandatory traffic signs
+- **2020-11-27 20:43**: chore: update questions database with recent DOTM updates
