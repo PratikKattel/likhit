@@ -1,4 +1,3 @@
-- **2020-10-15 12:21**: perf: index question IDs for rapid lookup
 - **2020-10-16 16:58**: feat: add instant feedback and explanation on answer selection
 - **2020-10-17 19:46**: fix: typo in Nepali road safety regulations question
 - **2020-10-18 13:36**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2020-11-27 18:36**: fix: correct color specifications for mandatory traffic signs
 - **2020-11-27 20:43**: chore: update questions database with recent DOTM updates
 - **2020-11-28 13:47**: fix: typo in Nepali road safety regulations question
+- **2020-11-29 09:10**: chore: update questions database with recent DOTM updates
