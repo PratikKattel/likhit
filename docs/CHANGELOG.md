@@ -1,4 +1,3 @@
-- **2020-10-17 19:46**: fix: typo in Nepali road safety regulations question
 - **2020-10-18 13:36**: feat: add result summary with passing threshold analysis
 - **2020-10-18 13:53**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-18 20:25**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2020-11-28 13:47**: fix: typo in Nepali road safety regulations question
 - **2020-11-29 09:10**: chore: update questions database with recent DOTM updates
 - **2020-11-30 14:44**: feat: add result summary with passing threshold analysis
+- **2020-11-30 19:16**: docs: add instructions for Nepali driving license written exam
