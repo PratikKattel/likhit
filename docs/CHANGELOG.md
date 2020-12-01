@@ -1,4 +1,3 @@
-- **2020-10-18 13:36**: feat: add result summary with passing threshold analysis
 - **2020-10-18 13:53**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-18 20:25**: fix: adjust passing score threshold according to new rules
 - **2020-10-19 14:26**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2020-11-29 09:10**: chore: update questions database with recent DOTM updates
 - **2020-11-30 14:44**: feat: add result summary with passing threshold analysis
 - **2020-11-30 19:16**: docs: add instructions for Nepali driving license written exam
+- **2020-12-01 11:59**: refactor: optimize SVG rendering for road signs
