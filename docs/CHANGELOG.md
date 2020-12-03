@@ -1,4 +1,3 @@
-- **2020-10-19 14:26**: fix: correct color specifications for mandatory traffic signs
 - **2020-10-20 19:01**: feat: add result summary with passing threshold analysis
 - **2020-10-21 14:15**: chore: format code style and clean up redundant variables
 - **2020-10-22 09:22**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-12-01 11:59**: refactor: optimize SVG rendering for road signs
 - **2020-12-02 11:34**: feat: implement timer and score calculation for mock test
 - **2020-12-02 11:40**: feat: add warning signs and informational road signs
+- **2020-12-03 14:27**: fix: typo in Nepali road safety regulations question
