@@ -1,4 +1,3 @@
-- **2020-10-22 09:22**: feat: add search and filter by sign category
 - **2020-10-22 10:14**: fix: prevent option re-selection after submitting answer
 - **2020-10-22 14:37**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-23 16:36**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-12-03 14:27**: fix: typo in Nepali road safety regulations question
 - **2020-12-04 14:41**: feat: add instant feedback and explanation on answer selection
 - **2020-12-04 22:21**: feat: add category-specific practice modes
+- **2020-12-05 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
