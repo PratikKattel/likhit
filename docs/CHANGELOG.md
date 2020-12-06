@@ -1,4 +1,3 @@
-- **2020-10-22 14:37**: style: enhance traffic sign card layout and responsiveness
 - **2020-10-23 16:36**: docs: add instructions for Nepali driving license written exam
 - **2020-10-23 19:40**: feat: add instant feedback and explanation on answer selection
 - **2020-10-24 21:50**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-12-04 22:21**: feat: add category-specific practice modes
 - **2020-12-05 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-06 14:57**: feat: add instant feedback and explanation on answer selection
+- **2020-12-06 22:00**: refactor: modularize traffic app logic and event listeners
