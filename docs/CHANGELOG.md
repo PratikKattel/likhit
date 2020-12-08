@@ -1,4 +1,3 @@
-- **2020-10-24 21:50**: docs: add instructions for Nepali driving license written exam
 - **2020-10-25 10:51**: feat: add instant feedback and explanation on answer selection
 - **2020-10-25 11:25**: chore: format code style and clean up redundant variables
 - **2020-10-26 09:47**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2020-12-06 22:00**: refactor: modularize traffic app logic and event listeners
 - **2020-12-07 13:02**: feat: implement timer and score calculation for mock test
 - **2020-12-08 10:41**: docs: update traffic signals catalog documentation
+- **2020-12-08 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
