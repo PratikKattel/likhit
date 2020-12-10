@@ -1,4 +1,3 @@
-- **2020-10-25 11:25**: chore: format code style and clean up redundant variables
 - **2020-10-26 09:47**: fix: resolve layout shift during question transitions
 - **2020-10-26 13:30**: chore: update questions database with recent DOTM updates
 - **2020-10-26 16:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-12-08 10:41**: docs: update traffic signals catalog documentation
 - **2020-12-08 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-09 14:46**: style: polish typography and Nepali Unicode font rendering
+- **2020-12-10 14:48**: chore: update questions database with recent DOTM updates
