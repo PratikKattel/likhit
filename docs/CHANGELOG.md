@@ -1,4 +1,3 @@
-- **2020-10-26 13:30**: chore: update questions database with recent DOTM updates
 - **2020-10-26 16:34**: perf: lazy load signal graphics and question assets
 - **2020-10-26 21:02**: refactor: modularize traffic app logic and event listeners
 - **2020-10-27 14:42**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2020-12-09 14:46**: style: polish typography and Nepali Unicode font rendering
 - **2020-12-10 14:48**: chore: update questions database with recent DOTM updates
 - **2020-12-11 14:45**: test: verify question extraction script against exam PDF
+- **2020-12-12 17:32**: fix: correct color specifications for mandatory traffic signs
