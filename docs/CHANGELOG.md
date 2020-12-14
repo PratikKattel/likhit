@@ -1,4 +1,3 @@
-- **2020-10-27 14:42**: refactor: optimize SVG rendering for road signs
 - **2020-10-27 19:08**: fix: resolve layout shift during question transitions
 - **2020-10-28 13:48**: fix: prevent option re-selection after submitting answer
 - **2020-10-29 21:12**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2020-12-12 17:32**: fix: correct color specifications for mandatory traffic signs
 - **2020-12-13 10:48**: feat: add regulatory traffic signs SVG graphics
 - **2020-12-13 11:20**: refactor: optimize SVG rendering for road signs
+- **2020-12-14 12:22**: feat: add warning signs and informational road signs
