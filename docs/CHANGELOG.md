@@ -1,4 +1,3 @@
-- **2020-10-29 21:12**: feat: add category-specific practice modes
 - **2020-10-30 09:07**: feat: implement timer and score calculation for mock test
 - **2020-10-30 10:11**: refactor: restructure question data schema for faster loading
 - **2020-10-31 09:37**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2020-12-14 12:22**: feat: add warning signs and informational road signs
 - **2020-12-14 15:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-15 11:36**: feat: add category-specific practice modes
+- **2020-12-15 21:04**: docs: update traffic signals catalog documentation
