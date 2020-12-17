@@ -1,4 +1,3 @@
-- **2020-11-01 15:09**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-01 21:43**: feat: support multiple choice questions for motorcycle category
 - **2020-11-02 09:09**: perf: index question IDs for rapid lookup
 - **2020-11-02 13:59**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-12-16 19:38**: fix: resolve layout shift during question transitions
 - **2020-12-17 13:25**: chore: organize assets and image directory structure
 - **2020-12-17 14:52**: chore: organize assets and image directory structure
+- **2020-12-17 15:22**: feat: add category-specific practice modes
