@@ -1,4 +1,3 @@
-- **2020-10-30 10:11**: refactor: restructure question data schema for faster loading
 - **2020-10-31 09:37**: chore: organize assets and image directory structure
 - **2020-11-01 15:09**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-01 21:43**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-12-15 11:36**: feat: add category-specific practice modes
 - **2020-12-15 21:04**: docs: update traffic signals catalog documentation
 - **2020-12-16 19:38**: fix: resolve layout shift during question transitions
+- **2020-12-17 13:25**: chore: organize assets and image directory structure
