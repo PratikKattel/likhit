@@ -1,4 +1,3 @@
-- **2020-11-02 13:59**: perf: index question IDs for rapid lookup
 - **2020-11-03 19:56**: feat: support multiple choice questions for motorcycle category
 - **2020-11-04 21:39**: feat: add search and filter by sign category
 - **2020-11-05 18:58**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2020-12-17 15:22**: feat: add category-specific practice modes
 - **2020-12-18 10:42**: fix: resolve layout shift during question transitions
 - **2020-12-18 16:41**: fix: adjust passing score threshold according to new rules
+- **2020-12-18 18:01**: fix: prevent option re-selection after submitting answer
