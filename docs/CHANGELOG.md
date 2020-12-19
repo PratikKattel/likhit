@@ -1,4 +1,3 @@
-- **2020-11-04 21:39**: feat: add search and filter by sign category
 - **2020-11-05 18:58**: feat: add category A and B traffic test questions
 - **2020-11-06 21:31**: refactor: optimize SVG rendering for road signs
 - **2020-11-07 10:33**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2020-12-18 16:41**: fix: adjust passing score threshold according to new rules
 - **2020-12-18 18:01**: fix: prevent option re-selection after submitting answer
 - **2020-12-19 14:00**: refactor: optimize SVG rendering for road signs
+- **2020-12-19 21:13**: refactor: modularize traffic app logic and event listeners
