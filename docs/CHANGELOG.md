@@ -1,4 +1,3 @@
-- **2020-11-05 18:58**: feat: add category A and B traffic test questions
 - **2020-11-06 21:31**: refactor: optimize SVG rendering for road signs
 - **2020-11-07 10:33**: fix: update DOTM Nepal license syllabus questions
 - **2020-11-07 14:53**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2020-12-18 18:01**: fix: prevent option re-selection after submitting answer
 - **2020-12-19 14:00**: refactor: optimize SVG rendering for road signs
 - **2020-12-19 21:13**: refactor: modularize traffic app logic and event listeners
+- **2020-12-20 13:13**: docs: update README with setup instructions and feature list
