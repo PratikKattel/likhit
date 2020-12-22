@@ -1,4 +1,3 @@
-- **2020-11-07 14:53**: perf: index question IDs for rapid lookup
 - **2020-11-08 10:36**: feat: add instant feedback and explanation on answer selection
 - **2020-11-08 10:44**: docs: update traffic signals catalog documentation
 - **2020-11-08 12:46**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2020-12-20 13:13**: docs: update README with setup instructions and feature list
 - **2020-12-21 13:20**: feat: add warning signs and informational road signs
 - **2020-12-22 10:41**: style: enhance traffic sign card layout and responsiveness
+- **2020-12-22 20:15**: fix: correct color specifications for mandatory traffic signs
