@@ -1,4 +1,3 @@
-- **2020-11-09 16:10**: feat: add search and filter by sign category
 - **2020-11-09 21:44**: feat: add instant feedback and explanation on answer selection
 - **2020-11-10 09:04**: fix: prevent option re-selection after submitting answer
 - **2020-11-10 15:39**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-12-23 19:13**: refactor: modularize traffic app logic and event listeners
 - **2020-12-24 10:17**: fix: update DOTM Nepal license syllabus questions
 - **2020-12-25 10:30**: refactor: restructure question data schema for faster loading
+- **2020-12-25 11:48**: docs: add instructions for Nepali driving license written exam
