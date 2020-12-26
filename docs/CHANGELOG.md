@@ -1,4 +1,3 @@
-- **2020-11-10 15:39**: feat: add instant feedback and explanation on answer selection
 - **2020-11-11 20:40**: refactor: modularize traffic app logic and event listeners
 - **2020-11-12 14:54**: feat: implement timer and score calculation for mock test
 - **2020-11-12 16:43**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-12-25 11:48**: docs: add instructions for Nepali driving license written exam
 - **2020-12-25 16:50**: fix: typo in Nepali road safety regulations question
 - **2020-12-25 20:20**: feat: add category A and B traffic test questions
+- **2020-12-26 14:47**: feat: add category A and B traffic test questions
