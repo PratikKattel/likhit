@@ -1,4 +1,3 @@
-- **2020-11-14 13:24**: feat: support multiple choice questions for motorcycle category
 - **2020-11-14 20:23**: feat: add instant feedback and explanation on answer selection
 - **2020-11-14 20:52**: perf: lazy load signal graphics and question assets
 - **2020-11-15 10:01**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2020-12-28 09:21**: docs: improve code comments and API documentation
 - **2020-12-28 10:19**: perf: index question IDs for rapid lookup
 - **2020-12-28 15:13**: feat: add instant feedback and explanation on answer selection
+- **2020-12-28 16:09**: docs: improve code comments and API documentation
