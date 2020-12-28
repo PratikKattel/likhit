@@ -1,4 +1,3 @@
-- **2020-11-13 15:18**: docs: update traffic signals catalog documentation
 - **2020-11-13 22:02**: docs: add instructions for Nepali driving license written exam
 - **2020-11-14 13:24**: feat: support multiple choice questions for motorcycle category
 - **2020-11-14 20:23**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2020-12-26 22:29**: docs: improve code comments and API documentation
 - **2020-12-27 18:12**: fix: resolve layout shift during question transitions
 - **2020-12-28 09:21**: docs: improve code comments and API documentation
+- **2020-12-28 10:19**: perf: index question IDs for rapid lookup
