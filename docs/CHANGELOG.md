@@ -1,4 +1,3 @@
-- **2020-11-15 10:01**: feat: support multiple choice questions for motorcycle category
 - **2020-11-16 12:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-16 16:04**: docs: improve code comments and API documentation
 - **2020-11-16 20:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2020-12-28 16:09**: docs: improve code comments and API documentation
 - **2020-12-29 10:13**: docs: update traffic signals catalog documentation
 - **2020-12-30 14:24**: feat: add category-specific practice modes
+- **2020-12-30 17:45**: feat: add warning signs and informational road signs
