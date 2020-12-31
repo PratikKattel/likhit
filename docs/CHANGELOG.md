@@ -1,4 +1,3 @@
-- **2020-11-16 16:04**: docs: improve code comments and API documentation
 - **2020-11-16 20:02**: feat: add search and filter by sign category
 - **2020-11-16 21:18**: feat: implement timer and score calculation for mock test
 - **2020-11-17 11:13**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2020-12-30 14:24**: feat: add category-specific practice modes
 - **2020-12-30 17:45**: feat: add warning signs and informational road signs
 - **2020-12-31 16:28**: docs: update README with setup instructions and feature list
+- **2020-12-31 19:14**: fix: update DOTM Nepal license syllabus questions
