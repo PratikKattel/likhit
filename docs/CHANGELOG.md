@@ -1,4 +1,3 @@
-- **2020-11-16 21:18**: feat: implement timer and score calculation for mock test
 - **2020-11-17 11:13**: test: verify question extraction script against exam PDF
 - **2020-11-17 21:04**: docs: update traffic signals catalog documentation
 - **2020-11-18 15:42**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2020-12-31 16:28**: docs: update README with setup instructions and feature list
 - **2020-12-31 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-01 09:09**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-01-01 11:52**: fix: correct color specifications for mandatory traffic signs
