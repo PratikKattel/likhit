@@ -1,4 +1,3 @@
-- **2020-11-17 11:13**: test: verify question extraction script against exam PDF
 - **2020-11-17 21:04**: docs: update traffic signals catalog documentation
 - **2020-11-18 15:42**: docs: add instructions for Nepali driving license written exam
 - **2020-11-18 16:01**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2020-12-31 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-01 09:09**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-01-01 11:52**: fix: correct color specifications for mandatory traffic signs
+- **2021-01-01 22:13**: chore: format code style and clean up redundant variables
