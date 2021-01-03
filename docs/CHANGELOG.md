@@ -1,4 +1,3 @@
-- **2020-11-18 15:42**: docs: add instructions for Nepali driving license written exam
 - **2020-11-18 16:01**: perf: lazy load signal graphics and question assets
 - **2020-11-18 22:06**: test: verify question extraction script against exam PDF
 - **2020-11-18 22:29**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-01-01 11:52**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-01 22:13**: chore: format code style and clean up redundant variables
 - **2021-01-02 09:40**: feat: add result summary with passing threshold analysis
+- **2021-01-03 22:18**: fix: update DOTM Nepal license syllabus questions
