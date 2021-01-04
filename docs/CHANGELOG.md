@@ -1,4 +1,3 @@
-- **2020-11-18 22:06**: test: verify question extraction script against exam PDF
 - **2020-11-18 22:29**: fix: resolve layout shift during question transitions
 - **2020-11-19 11:31**: perf: index question IDs for rapid lookup
 - **2020-11-19 15:37**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-01-02 09:40**: feat: add result summary with passing threshold analysis
 - **2021-01-03 22:18**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-04 18:07**: test: verify question extraction script against exam PDF
+- **2021-01-04 20:16**: style: polish typography and Nepali Unicode font rendering
