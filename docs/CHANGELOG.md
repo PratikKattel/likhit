@@ -1,4 +1,3 @@
-- **2020-11-19 15:37**: chore: format code style and clean up redundant variables
 - **2020-11-20 20:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-21 15:51**: fix: correct color specifications for mandatory traffic signs
 - **2020-11-21 16:21**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2021-01-04 20:16**: style: polish typography and Nepali Unicode font rendering
 - **2021-01-05 10:07**: feat: add keyboard navigation shortcuts for question selection
 - **2021-01-05 14:45**: fix: prevent option re-selection after submitting answer
+- **2021-01-05 19:28**: fix: adjust passing score threshold according to new rules
