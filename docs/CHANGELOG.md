@@ -1,4 +1,3 @@
-- **2020-11-20 20:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-11-21 15:51**: fix: correct color specifications for mandatory traffic signs
 - **2020-11-21 16:21**: chore: update project metadata and build configuration
 - **2020-11-22 13:25**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-01-05 10:07**: feat: add keyboard navigation shortcuts for question selection
 - **2021-01-05 14:45**: fix: prevent option re-selection after submitting answer
 - **2021-01-05 19:28**: fix: adjust passing score threshold according to new rules
+- **2021-01-06 13:37**: docs: add instructions for Nepali driving license written exam
