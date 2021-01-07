@@ -1,4 +1,3 @@
-- **2020-11-22 13:25**: perf: optimize image caching for traffic sign assets
 - **2020-11-23 10:14**: feat: add keyboard navigation shortcuts for question selection
 - **2020-11-23 13:47**: test: verify question extraction script against exam PDF
 - **2020-11-23 19:17**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-01-06 13:37**: docs: add instructions for Nepali driving license written exam
 - **2021-01-06 19:19**: refactor: modularize traffic app logic and event listeners
 - **2021-01-06 20:02**: docs: update README with setup instructions and feature list
+- **2021-01-07 13:00**: refactor: clean up unused CSS classes and optimize stylesheet
