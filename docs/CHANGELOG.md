@@ -1,4 +1,3 @@
-- **2020-11-23 10:14**: feat: add keyboard navigation shortcuts for question selection
 - **2020-11-23 13:47**: test: verify question extraction script against exam PDF
 - **2020-11-23 19:17**: feat: add result summary with passing threshold analysis
 - **2020-11-24 20:39**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-01-06 19:19**: refactor: modularize traffic app logic and event listeners
 - **2021-01-06 20:02**: docs: update README with setup instructions and feature list
 - **2021-01-07 13:00**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-01-08 13:59**: feat: add search and filter by sign category
