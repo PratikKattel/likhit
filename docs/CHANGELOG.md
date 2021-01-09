@@ -1,4 +1,3 @@
-- **2020-11-23 19:17**: feat: add result summary with passing threshold analysis
 - **2020-11-24 20:39**: feat: add warning signs and informational road signs
 - **2020-11-25 13:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-11-26 12:28**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-01-07 13:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-01-08 13:59**: feat: add search and filter by sign category
 - **2021-01-08 20:11**: feat: add warning signs and informational road signs
+- **2021-01-09 13:24**: feat: add search and filter by sign category
