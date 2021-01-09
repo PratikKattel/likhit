@@ -1,4 +1,3 @@
-- **2020-11-25 13:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2020-11-26 12:28**: feat: add category A and B traffic test questions
 - **2020-11-27 13:32**: feat: add regulatory traffic signs SVG graphics
 - **2020-11-27 18:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-01-08 20:11**: feat: add warning signs and informational road signs
 - **2021-01-09 13:24**: feat: add search and filter by sign category
 - **2021-01-09 19:41**: feat: add warning signs and informational road signs
+- **2021-01-09 22:28**: chore: format code style and clean up redundant variables
