@@ -1,4 +1,3 @@
-- **2020-11-27 18:36**: fix: correct color specifications for mandatory traffic signs
 - **2020-11-27 20:43**: chore: update questions database with recent DOTM updates
 - **2020-11-28 13:47**: fix: typo in Nepali road safety regulations question
 - **2020-11-29 09:10**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2021-01-09 22:28**: chore: format code style and clean up redundant variables
 - **2021-01-10 13:44**: feat: add category-specific practice modes
 - **2021-01-10 16:25**: refactor: optimize SVG rendering for road signs
+- **2021-01-11 15:51**: perf: lazy load signal graphics and question assets
