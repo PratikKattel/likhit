@@ -1,4 +1,3 @@
-- **2020-11-30 14:44**: feat: add result summary with passing threshold analysis
 - **2020-11-30 19:16**: docs: add instructions for Nepali driving license written exam
 - **2020-12-01 11:59**: refactor: optimize SVG rendering for road signs
 - **2020-12-02 11:34**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2021-01-12 17:55**: perf: optimize image caching for traffic sign assets
 - **2021-01-13 12:19**: feat: add result summary with passing threshold analysis
 - **2021-01-13 20:54**: fix: correct color specifications for mandatory traffic signs
+- **2021-01-14 10:00**: docs: update traffic signals catalog documentation
