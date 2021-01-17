@@ -1,4 +1,3 @@
-- **2020-12-02 11:40**: feat: add warning signs and informational road signs
 - **2020-12-03 14:27**: fix: typo in Nepali road safety regulations question
 - **2020-12-04 14:41**: feat: add instant feedback and explanation on answer selection
 - **2020-12-04 22:21**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2021-01-15 17:44**: test: verify question extraction script against exam PDF
 - **2021-01-16 13:31**: feat: add search and filter by sign category
 - **2021-01-16 16:45**: feat: add instant feedback and explanation on answer selection
+- **2021-01-17 18:03**: chore: format code style and clean up redundant variables
