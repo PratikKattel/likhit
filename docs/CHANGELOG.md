@@ -1,4 +1,3 @@
-- **2020-12-05 13:58**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-06 14:57**: feat: add instant feedback and explanation on answer selection
 - **2020-12-06 22:00**: refactor: modularize traffic app logic and event listeners
 - **2020-12-07 13:02**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2021-01-18 09:29**: chore: organize assets and image directory structure
 - **2021-01-19 09:47**: feat: add category-specific practice modes
 - **2021-01-20 11:47**: feat: add warning signs and informational road signs
+- **2021-01-20 12:58**: refactor: optimize SVG rendering for road signs
