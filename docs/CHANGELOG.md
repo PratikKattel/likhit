@@ -1,4 +1,3 @@
-- **2020-12-08 10:41**: docs: update traffic signals catalog documentation
 - **2020-12-08 15:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-09 14:46**: style: polish typography and Nepali Unicode font rendering
 - **2020-12-10 14:48**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2021-01-20 15:15**: fix: typo in Nepali road safety regulations question
 - **2021-01-20 20:31**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-21 11:14**: refactor: restructure question data schema for faster loading
+- **2021-01-21 11:15**: docs: update traffic signals catalog documentation
