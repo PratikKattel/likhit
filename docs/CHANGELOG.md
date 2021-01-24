@@ -1,4 +1,3 @@
-- **2020-12-11 14:45**: test: verify question extraction script against exam PDF
 - **2020-12-12 17:32**: fix: correct color specifications for mandatory traffic signs
 - **2020-12-13 10:48**: feat: add regulatory traffic signs SVG graphics
 - **2020-12-13 11:20**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-01-22 11:02**: docs: update README with setup instructions and feature list
 - **2021-01-22 12:01**: fix: adjust passing score threshold according to new rules
 - **2021-01-23 17:10**: feat: add regulatory traffic signs SVG graphics
+- **2021-01-24 12:03**: fix: adjust passing score threshold according to new rules
