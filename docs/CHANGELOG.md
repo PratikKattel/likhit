@@ -1,4 +1,3 @@
-- **2020-12-14 15:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2020-12-15 11:36**: feat: add category-specific practice modes
 - **2020-12-15 21:04**: docs: update traffic signals catalog documentation
 - **2020-12-16 19:38**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-01-24 14:54**: docs: update traffic signals catalog documentation
 - **2021-01-25 17:50**: fix: typo in Nepali road safety regulations question
 - **2021-01-25 20:51**: fix: resolve layout shift during question transitions
+- **2021-01-25 21:42**: feat: implement timer and score calculation for mock test
