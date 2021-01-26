@@ -1,4 +1,3 @@
-- **2020-12-15 11:36**: feat: add category-specific practice modes
 - **2020-12-15 21:04**: docs: update traffic signals catalog documentation
 - **2020-12-16 19:38**: fix: resolve layout shift during question transitions
 - **2020-12-17 13:25**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2021-01-25 17:50**: fix: typo in Nepali road safety regulations question
 - **2021-01-25 20:51**: fix: resolve layout shift during question transitions
 - **2021-01-25 21:42**: feat: implement timer and score calculation for mock test
+- **2021-01-26 20:47**: fix: prevent option re-selection after submitting answer
