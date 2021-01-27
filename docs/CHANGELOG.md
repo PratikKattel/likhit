@@ -1,4 +1,3 @@
-- **2020-12-17 13:25**: chore: organize assets and image directory structure
 - **2020-12-17 14:52**: chore: organize assets and image directory structure
 - **2020-12-17 15:22**: feat: add category-specific practice modes
 - **2020-12-18 10:42**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-01-26 20:47**: fix: prevent option re-selection after submitting answer
 - **2021-01-27 12:12**: chore: update project metadata and build configuration
 - **2021-01-27 14:11**: perf: lazy load signal graphics and question assets
+- **2021-01-27 16:45**: docs: update traffic signals catalog documentation
