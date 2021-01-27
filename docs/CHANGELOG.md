@@ -1,4 +1,3 @@
-- **2020-12-17 14:52**: chore: organize assets and image directory structure
 - **2020-12-17 15:22**: feat: add category-specific practice modes
 - **2020-12-18 10:42**: fix: resolve layout shift during question transitions
 - **2020-12-18 16:41**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-01-27 12:12**: chore: update project metadata and build configuration
 - **2021-01-27 14:11**: perf: lazy load signal graphics and question assets
 - **2021-01-27 16:45**: docs: update traffic signals catalog documentation
+- **2021-01-27 22:15**: fix: correct color specifications for mandatory traffic signs
