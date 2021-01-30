@@ -1,4 +1,3 @@
-- **2020-12-18 16:41**: fix: adjust passing score threshold according to new rules
 - **2020-12-18 18:01**: fix: prevent option re-selection after submitting answer
 - **2020-12-19 14:00**: refactor: optimize SVG rendering for road signs
 - **2020-12-19 21:13**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-01-27 22:15**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-28 12:04**: test: verify question extraction script against exam PDF
 - **2021-01-29 18:11**: perf: lazy load signal graphics and question assets
+- **2021-01-30 09:08**: feat: add search and filter by sign category
