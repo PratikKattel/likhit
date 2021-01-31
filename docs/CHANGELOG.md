@@ -1,4 +1,3 @@
-- **2020-12-19 14:00**: refactor: optimize SVG rendering for road signs
 - **2020-12-19 21:13**: refactor: modularize traffic app logic and event listeners
 - **2020-12-20 13:13**: docs: update README with setup instructions and feature list
 - **2020-12-21 13:20**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-01-29 18:11**: perf: lazy load signal graphics and question assets
 - **2021-01-30 09:08**: feat: add search and filter by sign category
 - **2021-01-30 19:29**: perf: optimize image caching for traffic sign assets
+- **2021-01-31 19:52**: style: improve dark/light mode and mobile UI responsiveness
