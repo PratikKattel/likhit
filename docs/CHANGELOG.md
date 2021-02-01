@@ -1,4 +1,3 @@
-- **2020-12-20 13:13**: docs: update README with setup instructions and feature list
 - **2020-12-21 13:20**: feat: add warning signs and informational road signs
 - **2020-12-22 10:41**: style: enhance traffic sign card layout and responsiveness
 - **2020-12-22 20:15**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-01-30 19:29**: perf: optimize image caching for traffic sign assets
 - **2021-01-31 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-02-01 09:49**: feat: add category-specific practice modes
+- **2021-02-01 11:51**: feat: support multiple choice questions for motorcycle category
