@@ -1,4 +1,3 @@
-- **2020-12-22 20:15**: fix: correct color specifications for mandatory traffic signs
 - **2020-12-23 19:13**: refactor: modularize traffic app logic and event listeners
 - **2020-12-24 10:17**: fix: update DOTM Nepal license syllabus questions
 - **2020-12-25 10:30**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-02-01 11:51**: feat: support multiple choice questions for motorcycle category
 - **2021-02-02 10:50**: fix: typo in Nepali road safety regulations question
 - **2021-02-03 17:40**: feat: add warning signs and informational road signs
+- **2021-02-03 19:54**: feat: add result summary with passing threshold analysis
