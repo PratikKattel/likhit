@@ -1,4 +1,3 @@
-- **2020-12-25 10:30**: refactor: restructure question data schema for faster loading
 - **2020-12-25 11:48**: docs: add instructions for Nepali driving license written exam
 - **2020-12-25 16:50**: fix: typo in Nepali road safety regulations question
 - **2020-12-25 20:20**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-02-03 19:54**: feat: add result summary with passing threshold analysis
 - **2021-02-03 21:57**: docs: add instructions for Nepali driving license written exam
 - **2021-02-04 12:02**: feat: add regulatory traffic signs SVG graphics
+- **2021-02-04 14:25**: feat: add warning signs and informational road signs
