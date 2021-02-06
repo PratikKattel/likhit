@@ -1,4 +1,3 @@
-- **2020-12-25 20:20**: feat: add category A and B traffic test questions
 - **2020-12-26 14:47**: feat: add category A and B traffic test questions
 - **2020-12-26 22:29**: docs: improve code comments and API documentation
 - **2020-12-27 18:12**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-02-04 14:25**: feat: add warning signs and informational road signs
 - **2021-02-05 16:04**: perf: index question IDs for rapid lookup
 - **2021-02-06 11:49**: perf: lazy load signal graphics and question assets
+- **2021-02-06 18:46**: feat: implement timer and score calculation for mock test
