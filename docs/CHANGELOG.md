@@ -1,4 +1,3 @@
-- **2020-12-25 16:50**: fix: typo in Nepali road safety regulations question
 - **2020-12-25 20:20**: feat: add category A and B traffic test questions
 - **2020-12-26 14:47**: feat: add category A and B traffic test questions
 - **2020-12-26 22:29**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-02-04 12:02**: feat: add regulatory traffic signs SVG graphics
 - **2021-02-04 14:25**: feat: add warning signs and informational road signs
 - **2021-02-05 16:04**: perf: index question IDs for rapid lookup
+- **2021-02-06 11:49**: perf: lazy load signal graphics and question assets
