@@ -1,4 +1,3 @@
-- **2020-12-27 18:12**: fix: resolve layout shift during question transitions
 - **2020-12-28 09:21**: docs: improve code comments and API documentation
 - **2020-12-28 10:19**: perf: index question IDs for rapid lookup
 - **2020-12-28 15:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-02-06 18:46**: feat: implement timer and score calculation for mock test
 - **2021-02-07 15:44**: docs: update traffic signals catalog documentation
 - **2021-02-08 09:22**: fix: correct color specifications for mandatory traffic signs
+- **2021-02-08 11:23**: docs: update README with setup instructions and feature list
