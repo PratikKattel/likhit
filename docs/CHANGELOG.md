@@ -1,4 +1,3 @@
-- **2020-12-28 10:19**: perf: index question IDs for rapid lookup
 - **2020-12-28 15:13**: feat: add instant feedback and explanation on answer selection
 - **2020-12-28 16:09**: docs: improve code comments and API documentation
 - **2020-12-29 10:13**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-02-08 09:22**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-08 11:23**: docs: update README with setup instructions and feature list
 - **2021-02-08 13:20**: refactor: optimize SVG rendering for road signs
+- **2021-02-09 17:55**: fix: resolve layout shift during question transitions
