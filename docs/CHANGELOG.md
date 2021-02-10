@@ -1,4 +1,3 @@
-- **2020-12-29 10:13**: docs: update traffic signals catalog documentation
 - **2020-12-30 14:24**: feat: add category-specific practice modes
 - **2020-12-30 17:45**: feat: add warning signs and informational road signs
 - **2020-12-31 16:28**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-02-09 17:55**: fix: resolve layout shift during question transitions
 - **2021-02-09 18:52**: perf: lazy load signal graphics and question assets
 - **2021-02-10 10:25**: perf: index question IDs for rapid lookup
+- **2021-02-10 12:18**: refactor: restructure question data schema for faster loading
