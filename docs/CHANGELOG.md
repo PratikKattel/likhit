@@ -1,4 +1,3 @@
-- **2020-12-30 17:45**: feat: add warning signs and informational road signs
 - **2020-12-31 16:28**: docs: update README with setup instructions and feature list
 - **2020-12-31 19:14**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-01 09:09**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-02-10 10:25**: perf: index question IDs for rapid lookup
 - **2021-02-10 12:18**: refactor: restructure question data schema for faster loading
 - **2021-02-11 10:34**: chore: update questions database with recent DOTM updates
+- **2021-02-11 21:11**: style: enhance traffic sign card layout and responsiveness
