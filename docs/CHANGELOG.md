@@ -1,4 +1,3 @@
-- **2021-01-01 22:13**: chore: format code style and clean up redundant variables
 - **2021-01-02 09:40**: feat: add result summary with passing threshold analysis
 - **2021-01-03 22:18**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-04 18:07**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-02-13 22:09**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-14 11:10**: feat: add result summary with passing threshold analysis
 - **2021-02-14 16:28**: style: enhance traffic sign card layout and responsiveness
+- **2021-02-15 15:59**: test: verify question extraction script against exam PDF
