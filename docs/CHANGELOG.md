@@ -1,4 +1,3 @@
-- **2021-01-02 09:40**: feat: add result summary with passing threshold analysis
 - **2021-01-03 22:18**: fix: update DOTM Nepal license syllabus questions
 - **2021-01-04 18:07**: test: verify question extraction script against exam PDF
 - **2021-01-04 20:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-02-14 11:10**: feat: add result summary with passing threshold analysis
 - **2021-02-14 16:28**: style: enhance traffic sign card layout and responsiveness
 - **2021-02-15 15:59**: test: verify question extraction script against exam PDF
+- **2021-02-15 17:47**: chore: update questions database with recent DOTM updates
