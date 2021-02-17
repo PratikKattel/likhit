@@ -1,4 +1,3 @@
-- **2021-01-04 18:07**: test: verify question extraction script against exam PDF
 - **2021-01-04 20:16**: style: polish typography and Nepali Unicode font rendering
 - **2021-01-05 10:07**: feat: add keyboard navigation shortcuts for question selection
 - **2021-01-05 14:45**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2021-02-15 15:59**: test: verify question extraction script against exam PDF
 - **2021-02-15 17:47**: chore: update questions database with recent DOTM updates
 - **2021-02-16 17:29**: fix: correct color specifications for mandatory traffic signs
+- **2021-02-17 11:08**: refactor: modularize traffic app logic and event listeners
