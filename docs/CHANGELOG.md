@@ -1,4 +1,3 @@
-- **2021-01-05 14:45**: fix: prevent option re-selection after submitting answer
 - **2021-01-05 19:28**: fix: adjust passing score threshold according to new rules
 - **2021-01-06 13:37**: docs: add instructions for Nepali driving license written exam
 - **2021-01-06 19:19**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-02-17 11:08**: refactor: modularize traffic app logic and event listeners
 - **2021-02-17 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-02-18 13:35**: fix: resolve layout shift during question transitions
+- **2021-02-19 10:06**: chore: format code style and clean up redundant variables
