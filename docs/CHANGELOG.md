@@ -1,4 +1,3 @@
-- **2021-01-06 13:37**: docs: add instructions for Nepali driving license written exam
 - **2021-01-06 19:19**: refactor: modularize traffic app logic and event listeners
 - **2021-01-06 20:02**: docs: update README with setup instructions and feature list
 - **2021-01-07 13:00**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-02-18 13:35**: fix: resolve layout shift during question transitions
 - **2021-02-19 10:06**: chore: format code style and clean up redundant variables
 - **2021-02-19 17:06**: docs: update README with setup instructions and feature list
+- **2021-02-20 15:38**: feat: add category A and B traffic test questions
