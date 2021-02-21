@@ -1,4 +1,3 @@
-- **2021-01-06 20:02**: docs: update README with setup instructions and feature list
 - **2021-01-07 13:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-01-08 13:59**: feat: add search and filter by sign category
 - **2021-01-08 20:11**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-02-19 17:06**: docs: update README with setup instructions and feature list
 - **2021-02-20 15:38**: feat: add category A and B traffic test questions
 - **2021-02-21 18:16**: feat: implement timer and score calculation for mock test
+- **2021-02-21 20:27**: style: improve dark/light mode and mobile UI responsiveness
