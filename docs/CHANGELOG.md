@@ -1,4 +1,3 @@
-- **2021-01-09 13:24**: feat: add search and filter by sign category
 - **2021-01-09 19:41**: feat: add warning signs and informational road signs
 - **2021-01-09 22:28**: chore: format code style and clean up redundant variables
 - **2021-01-10 13:44**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2021-02-21 22:05**: feat: support multiple choice questions for motorcycle category
 - **2021-02-22 10:06**: test: verify question extraction script against exam PDF
 - **2021-02-22 15:40**: feat: add instant feedback and explanation on answer selection
+- **2021-02-23 10:15**: feat: add category A and B traffic test questions
