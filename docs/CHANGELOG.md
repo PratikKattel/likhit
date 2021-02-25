@@ -1,4 +1,3 @@
-- **2021-01-09 22:28**: chore: format code style and clean up redundant variables
 - **2021-01-10 13:44**: feat: add category-specific practice modes
 - **2021-01-10 16:25**: refactor: optimize SVG rendering for road signs
 - **2021-01-11 15:51**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-02-22 15:40**: feat: add instant feedback and explanation on answer selection
 - **2021-02-23 10:15**: feat: add category A and B traffic test questions
 - **2021-02-24 22:11**: feat: implement timer and score calculation for mock test
+- **2021-02-25 15:27**: refactor: restructure question data schema for faster loading
