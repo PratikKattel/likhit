@@ -1,4 +1,3 @@
-- **2021-01-13 12:19**: feat: add result summary with passing threshold analysis
 - **2021-01-13 20:54**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-14 10:00**: docs: update traffic signals catalog documentation
 - **2021-01-15 17:44**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-02-26 12:30**: chore: update questions database with recent DOTM updates
 - **2021-02-27 15:10**: docs: update traffic signals catalog documentation
 - **2021-02-28 12:19**: feat: add keyboard navigation shortcuts for question selection
+- **2021-03-01 15:17**: docs: update README with setup instructions and feature list
