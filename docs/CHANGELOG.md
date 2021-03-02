@@ -1,4 +1,3 @@
-- **2021-01-16 13:31**: feat: add search and filter by sign category
 - **2021-01-16 16:45**: feat: add instant feedback and explanation on answer selection
 - **2021-01-17 18:03**: chore: format code style and clean up redundant variables
 - **2021-01-18 09:29**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2021-03-01 18:16**: feat: add instant feedback and explanation on answer selection
 - **2021-03-02 19:26**: style: polish typography and Nepali Unicode font rendering
 - **2021-03-02 20:38**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-03-02 21:50**: fix: update DOTM Nepal license syllabus questions
