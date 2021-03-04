@@ -1,4 +1,3 @@
-- **2021-01-18 09:29**: chore: organize assets and image directory structure
 - **2021-01-19 09:47**: feat: add category-specific practice modes
 - **2021-01-20 11:47**: feat: add warning signs and informational road signs
 - **2021-01-20 12:58**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-03-02 21:50**: fix: update DOTM Nepal license syllabus questions
 - **2021-03-03 13:58**: perf: optimize image caching for traffic sign assets
 - **2021-03-03 15:00**: feat: add category A and B traffic test questions
+- **2021-03-04 19:18**: fix: adjust passing score threshold according to new rules
