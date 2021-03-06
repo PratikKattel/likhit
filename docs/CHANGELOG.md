@@ -1,4 +1,3 @@
-- **2021-01-20 12:58**: refactor: optimize SVG rendering for road signs
 - **2021-01-20 15:15**: fix: typo in Nepali road safety regulations question
 - **2021-01-20 20:31**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-21 11:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-03-04 19:18**: fix: adjust passing score threshold according to new rules
 - **2021-03-05 09:42**: perf: optimize image caching for traffic sign assets
 - **2021-03-06 14:07**: style: enhance traffic sign card layout and responsiveness
+- **2021-03-06 14:35**: feat: add warning signs and informational road signs
