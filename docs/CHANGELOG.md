@@ -1,4 +1,3 @@
-- **2021-01-21 11:14**: refactor: restructure question data schema for faster loading
 - **2021-01-21 11:15**: docs: update traffic signals catalog documentation
 - **2021-01-22 11:02**: docs: update README with setup instructions and feature list
 - **2021-01-22 12:01**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-03-06 14:35**: feat: add warning signs and informational road signs
 - **2021-03-06 15:36**: docs: improve code comments and API documentation
 - **2021-03-06 18:29**: feat: add keyboard navigation shortcuts for question selection
+- **2021-03-07 14:09**: feat: implement timer and score calculation for mock test
