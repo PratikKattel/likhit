@@ -1,4 +1,3 @@
-- **2021-01-22 12:01**: fix: adjust passing score threshold according to new rules
 - **2021-01-23 17:10**: feat: add regulatory traffic signs SVG graphics
 - **2021-01-24 12:03**: fix: adjust passing score threshold according to new rules
 - **2021-01-24 12:48**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-03-07 14:09**: feat: implement timer and score calculation for mock test
 - **2021-03-07 14:29**: fix: adjust passing score threshold according to new rules
 - **2021-03-07 19:10**: docs: update traffic signals catalog documentation
+- **2021-03-08 13:34**: perf: index question IDs for rapid lookup
