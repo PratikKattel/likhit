@@ -1,4 +1,3 @@
-- **2021-01-24 12:03**: fix: adjust passing score threshold according to new rules
 - **2021-01-24 12:48**: feat: add category A and B traffic test questions
 - **2021-01-24 14:54**: docs: update traffic signals catalog documentation
 - **2021-01-25 17:50**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2021-03-07 19:10**: docs: update traffic signals catalog documentation
 - **2021-03-08 13:34**: perf: index question IDs for rapid lookup
 - **2021-03-09 19:57**: feat: add regulatory traffic signs SVG graphics
+- **2021-03-10 10:38**: fix: resolve layout shift during question transitions
