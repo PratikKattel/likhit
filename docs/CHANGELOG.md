@@ -1,4 +1,3 @@
-- **2021-01-25 20:51**: fix: resolve layout shift during question transitions
 - **2021-01-25 21:42**: feat: implement timer and score calculation for mock test
 - **2021-01-26 20:47**: fix: prevent option re-selection after submitting answer
 - **2021-01-27 12:12**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2021-03-10 17:34**: style: polish typography and Nepali Unicode font rendering
 - **2021-03-11 10:14**: chore: format code style and clean up redundant variables
 - **2021-03-11 11:48**: feat: add warning signs and informational road signs
+- **2021-03-11 17:36**: feat: add category A and B traffic test questions
