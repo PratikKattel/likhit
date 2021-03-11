@@ -1,4 +1,3 @@
-- **2021-01-24 14:54**: docs: update traffic signals catalog documentation
 - **2021-01-25 17:50**: fix: typo in Nepali road safety regulations question
 - **2021-01-25 20:51**: fix: resolve layout shift during question transitions
 - **2021-01-25 21:42**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2021-03-09 19:57**: feat: add regulatory traffic signs SVG graphics
 - **2021-03-10 10:38**: fix: resolve layout shift during question transitions
 - **2021-03-10 17:34**: style: polish typography and Nepali Unicode font rendering
+- **2021-03-11 10:14**: chore: format code style and clean up redundant variables
