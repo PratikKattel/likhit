@@ -1,4 +1,3 @@
-- **2021-01-26 20:47**: fix: prevent option re-selection after submitting answer
 - **2021-01-27 12:12**: chore: update project metadata and build configuration
 - **2021-01-27 14:11**: perf: lazy load signal graphics and question assets
 - **2021-01-27 16:45**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-03-11 11:48**: feat: add warning signs and informational road signs
 - **2021-03-11 17:36**: feat: add category A and B traffic test questions
 - **2021-03-12 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-03-12 21:13**: feat: support multiple choice questions for motorcycle category
