@@ -1,4 +1,3 @@
-- **2021-01-27 12:12**: chore: update project metadata and build configuration
 - **2021-01-27 14:11**: perf: lazy load signal graphics and question assets
 - **2021-01-27 16:45**: docs: update traffic signals catalog documentation
 - **2021-01-27 22:15**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-03-11 17:36**: feat: add category A and B traffic test questions
 - **2021-03-12 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-12 21:13**: feat: support multiple choice questions for motorcycle category
+- **2021-03-13 19:33**: feat: add regulatory traffic signs SVG graphics
