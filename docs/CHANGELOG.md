@@ -1,4 +1,3 @@
-- **2021-01-27 16:45**: docs: update traffic signals catalog documentation
 - **2021-01-27 22:15**: fix: correct color specifications for mandatory traffic signs
 - **2021-01-28 12:04**: test: verify question extraction script against exam PDF
 - **2021-01-29 18:11**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-03-12 21:13**: feat: support multiple choice questions for motorcycle category
 - **2021-03-13 19:33**: feat: add regulatory traffic signs SVG graphics
 - **2021-03-14 12:57**: feat: add instant feedback and explanation on answer selection
+- **2021-03-14 20:08**: chore: update project metadata and build configuration
