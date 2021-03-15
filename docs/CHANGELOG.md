@@ -1,4 +1,3 @@
-- **2021-01-29 18:11**: perf: lazy load signal graphics and question assets
 - **2021-01-30 09:08**: feat: add search and filter by sign category
 - **2021-01-30 19:29**: perf: optimize image caching for traffic sign assets
 - **2021-01-31 19:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2021-03-14 20:08**: chore: update project metadata and build configuration
 - **2021-03-15 11:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-15 14:03**: feat: add search and filter by sign category
+- **2021-03-15 14:23**: feat: support multiple choice questions for motorcycle category
