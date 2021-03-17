@@ -1,4 +1,3 @@
-- **2021-01-31 19:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-02-01 09:49**: feat: add category-specific practice modes
 - **2021-02-01 11:51**: feat: support multiple choice questions for motorcycle category
 - **2021-02-02 10:50**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2021-03-15 14:23**: feat: support multiple choice questions for motorcycle category
 - **2021-03-15 18:03**: perf: optimize image caching for traffic sign assets
 - **2021-03-16 19:42**: fix: adjust passing score threshold according to new rules
+- **2021-03-17 11:29**: fix: adjust passing score threshold according to new rules
