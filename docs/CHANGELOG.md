@@ -1,4 +1,3 @@
-- **2021-02-01 11:51**: feat: support multiple choice questions for motorcycle category
 - **2021-02-02 10:50**: fix: typo in Nepali road safety regulations question
 - **2021-02-03 17:40**: feat: add warning signs and informational road signs
 - **2021-02-03 19:54**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-03-16 19:42**: fix: adjust passing score threshold according to new rules
 - **2021-03-17 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-03-17 18:37**: fix: adjust passing score threshold according to new rules
+- **2021-03-18 10:42**: test: verify question extraction script against exam PDF
