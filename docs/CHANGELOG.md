@@ -1,4 +1,3 @@
-- **2021-02-04 12:02**: feat: add regulatory traffic signs SVG graphics
 - **2021-02-04 14:25**: feat: add warning signs and informational road signs
 - **2021-02-05 16:04**: perf: index question IDs for rapid lookup
 - **2021-02-06 11:49**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-03-19 16:10**: chore: update questions database with recent DOTM updates
 - **2021-03-20 10:54**: chore: format code style and clean up redundant variables
 - **2021-03-20 12:28**: fix: resolve layout shift during question transitions
+- **2021-03-20 16:06**: feat: implement timer and score calculation for mock test
