@@ -1,4 +1,3 @@
-- **2021-02-06 18:46**: feat: implement timer and score calculation for mock test
 - **2021-02-07 15:44**: docs: update traffic signals catalog documentation
 - **2021-02-08 09:22**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-08 11:23**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-03-20 20:13**: feat: implement timer and score calculation for mock test
 - **2021-03-21 13:56**: chore: update questions database with recent DOTM updates
 - **2021-03-22 13:40**: chore: format code style and clean up redundant variables
+- **2021-03-22 21:00**: refactor: modularize traffic app logic and event listeners
