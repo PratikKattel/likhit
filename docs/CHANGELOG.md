@@ -1,4 +1,3 @@
-- **2021-02-06 11:49**: perf: lazy load signal graphics and question assets
 - **2021-02-06 18:46**: feat: implement timer and score calculation for mock test
 - **2021-02-07 15:44**: docs: update traffic signals catalog documentation
 - **2021-02-08 09:22**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-03-20 16:06**: feat: implement timer and score calculation for mock test
 - **2021-03-20 20:13**: feat: implement timer and score calculation for mock test
 - **2021-03-21 13:56**: chore: update questions database with recent DOTM updates
+- **2021-03-22 13:40**: chore: format code style and clean up redundant variables
