@@ -1,4 +1,3 @@
-- **2021-02-07 15:44**: docs: update traffic signals catalog documentation
 - **2021-02-08 09:22**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-08 11:23**: docs: update README with setup instructions and feature list
 - **2021-02-08 13:20**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-03-21 13:56**: chore: update questions database with recent DOTM updates
 - **2021-03-22 13:40**: chore: format code style and clean up redundant variables
 - **2021-03-22 21:00**: refactor: modularize traffic app logic and event listeners
+- **2021-03-23 10:38**: fix: update DOTM Nepal license syllabus questions
