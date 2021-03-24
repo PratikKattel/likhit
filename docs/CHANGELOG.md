@@ -1,4 +1,3 @@
-- **2021-02-08 11:23**: docs: update README with setup instructions and feature list
 - **2021-02-08 13:20**: refactor: optimize SVG rendering for road signs
 - **2021-02-09 17:55**: fix: resolve layout shift during question transitions
 - **2021-02-09 18:52**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-03-22 21:00**: refactor: modularize traffic app logic and event listeners
 - **2021-03-23 10:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-03-23 20:35**: docs: improve code comments and API documentation
+- **2021-03-24 16:25**: test: verify question extraction script against exam PDF
