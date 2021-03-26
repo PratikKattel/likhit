@@ -1,4 +1,3 @@
-- **2021-02-10 10:25**: perf: index question IDs for rapid lookup
 - **2021-02-10 12:18**: refactor: restructure question data schema for faster loading
 - **2021-02-11 10:34**: chore: update questions database with recent DOTM updates
 - **2021-02-11 21:11**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-03-25 14:52**: chore: format code style and clean up redundant variables
 - **2021-03-25 17:03**: fix: prevent option re-selection after submitting answer
 - **2021-03-25 20:11**: feat: add result summary with passing threshold analysis
+- **2021-03-26 21:28**: perf: optimize image caching for traffic sign assets
