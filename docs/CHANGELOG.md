@@ -1,4 +1,3 @@
-- **2021-02-12 16:03**: chore: update project metadata and build configuration
 - **2021-02-13 22:09**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-14 11:10**: feat: add result summary with passing threshold analysis
 - **2021-02-14 16:28**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-03-27 14:28**: feat: add result summary with passing threshold analysis
 - **2021-03-27 18:52**: perf: index question IDs for rapid lookup
 - **2021-03-27 20:48**: docs: add instructions for Nepali driving license written exam
+- **2021-03-27 21:33**: fix: typo in Nepali road safety regulations question
