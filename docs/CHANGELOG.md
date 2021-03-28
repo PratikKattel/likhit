@@ -1,4 +1,3 @@
-- **2021-02-15 15:59**: test: verify question extraction script against exam PDF
 - **2021-02-15 17:47**: chore: update questions database with recent DOTM updates
 - **2021-02-16 17:29**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-17 11:08**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-03-28 11:40**: style: enhance traffic sign card layout and responsiveness
 - **2021-03-28 13:45**: fix: adjust passing score threshold according to new rules
 - **2021-03-28 19:26**: feat: add result summary with passing threshold analysis
+- **2021-03-28 20:19**: docs: improve code comments and API documentation
