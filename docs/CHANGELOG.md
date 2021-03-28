@@ -1,4 +1,3 @@
-- **2021-02-14 11:10**: feat: add result summary with passing threshold analysis
 - **2021-02-14 16:28**: style: enhance traffic sign card layout and responsiveness
 - **2021-02-15 15:59**: test: verify question extraction script against exam PDF
 - **2021-02-15 17:47**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2021-03-27 20:48**: docs: add instructions for Nepali driving license written exam
 - **2021-03-27 21:33**: fix: typo in Nepali road safety regulations question
 - **2021-03-28 11:40**: style: enhance traffic sign card layout and responsiveness
+- **2021-03-28 13:45**: fix: adjust passing score threshold according to new rules
