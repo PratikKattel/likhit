@@ -1,4 +1,3 @@
-- **2021-02-16 17:29**: fix: correct color specifications for mandatory traffic signs
 - **2021-02-17 11:08**: refactor: modularize traffic app logic and event listeners
 - **2021-02-17 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-02-18 13:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-03-28 19:26**: feat: add result summary with passing threshold analysis
 - **2021-03-28 20:19**: docs: improve code comments and API documentation
 - **2021-03-29 17:10**: feat: implement timer and score calculation for mock test
+- **2021-03-30 20:57**: style: enhance traffic sign card layout and responsiveness
