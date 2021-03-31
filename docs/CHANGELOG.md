@@ -1,4 +1,3 @@
-- **2021-02-17 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-02-18 13:35**: fix: resolve layout shift during question transitions
 - **2021-02-19 10:06**: chore: format code style and clean up redundant variables
 - **2021-02-19 17:06**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-03-29 17:10**: feat: implement timer and score calculation for mock test
 - **2021-03-30 20:57**: style: enhance traffic sign card layout and responsiveness
 - **2021-03-31 14:45**: feat: add search and filter by sign category
+- **2021-03-31 17:50**: chore: update questions database with recent DOTM updates
