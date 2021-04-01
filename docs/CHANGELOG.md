@@ -1,4 +1,3 @@
-- **2021-02-19 10:06**: chore: format code style and clean up redundant variables
 - **2021-02-19 17:06**: docs: update README with setup instructions and feature list
 - **2021-02-20 15:38**: feat: add category A and B traffic test questions
 - **2021-02-21 18:16**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2021-03-31 14:45**: feat: add search and filter by sign category
 - **2021-03-31 17:50**: chore: update questions database with recent DOTM updates
 - **2021-04-01 09:12**: chore: update questions database with recent DOTM updates
+- **2021-04-01 15:51**: refactor: modularize traffic app logic and event listeners
