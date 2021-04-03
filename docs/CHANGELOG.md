@@ -1,4 +1,3 @@
-- **2021-02-20 15:38**: feat: add category A and B traffic test questions
 - **2021-02-21 18:16**: feat: implement timer and score calculation for mock test
 - **2021-02-21 20:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-02-21 22:05**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2021-04-01 09:12**: chore: update questions database with recent DOTM updates
 - **2021-04-01 15:51**: refactor: modularize traffic app logic and event listeners
 - **2021-04-02 14:00**: docs: add instructions for Nepali driving license written exam
+- **2021-04-03 15:27**: feat: add warning signs and informational road signs
