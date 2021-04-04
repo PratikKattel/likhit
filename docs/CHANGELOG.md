@@ -1,4 +1,3 @@
-- **2021-02-21 22:05**: feat: support multiple choice questions for motorcycle category
 - **2021-02-22 10:06**: test: verify question extraction script against exam PDF
 - **2021-02-22 15:40**: feat: add instant feedback and explanation on answer selection
 - **2021-02-23 10:15**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-04-03 15:27**: feat: add warning signs and informational road signs
 - **2021-04-04 14:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-04-04 18:50**: chore: format code style and clean up redundant variables
+- **2021-04-04 18:53**: refactor: restructure question data schema for faster loading
