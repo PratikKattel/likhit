@@ -1,4 +1,3 @@
-- **2021-02-23 10:15**: feat: add category A and B traffic test questions
 - **2021-02-24 22:11**: feat: implement timer and score calculation for mock test
 - **2021-02-25 15:27**: refactor: restructure question data schema for faster loading
 - **2021-02-25 18:11**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-04-04 18:53**: refactor: restructure question data schema for faster loading
 - **2021-04-05 20:09**: feat: add keyboard navigation shortcuts for question selection
 - **2021-04-06 14:30**: docs: update README with setup instructions and feature list
+- **2021-04-06 17:27**: fix: typo in Nepali road safety regulations question
