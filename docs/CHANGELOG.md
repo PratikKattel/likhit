@@ -1,4 +1,3 @@
-- **2021-02-27 15:10**: docs: update traffic signals catalog documentation
 - **2021-02-28 12:19**: feat: add keyboard navigation shortcuts for question selection
 - **2021-03-01 15:17**: docs: update README with setup instructions and feature list
 - **2021-03-01 18:16**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-04-08 12:00**: feat: add regulatory traffic signs SVG graphics
 - **2021-04-08 15:24**: fix: adjust passing score threshold according to new rules
 - **2021-04-09 09:32**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-04-10 15:25**: perf: index question IDs for rapid lookup
