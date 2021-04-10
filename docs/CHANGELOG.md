@@ -1,4 +1,3 @@
-- **2021-02-28 12:19**: feat: add keyboard navigation shortcuts for question selection
 - **2021-03-01 15:17**: docs: update README with setup instructions and feature list
 - **2021-03-01 18:16**: feat: add instant feedback and explanation on answer selection
 - **2021-03-02 19:26**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-04-08 15:24**: fix: adjust passing score threshold according to new rules
 - **2021-04-09 09:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-04-10 15:25**: perf: index question IDs for rapid lookup
+- **2021-04-10 21:02**: chore: update project metadata and build configuration
