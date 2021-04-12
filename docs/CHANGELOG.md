@@ -1,4 +1,3 @@
-- **2021-03-02 20:38**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-02 21:50**: fix: update DOTM Nepal license syllabus questions
 - **2021-03-03 13:58**: perf: optimize image caching for traffic sign assets
 - **2021-03-03 15:00**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-04-11 22:08**: feat: add result summary with passing threshold analysis
 - **2021-04-12 12:40**: chore: update project metadata and build configuration
 - **2021-04-12 13:23**: chore: format code style and clean up redundant variables
+- **2021-04-12 20:23**: feat: add search and filter by sign category
