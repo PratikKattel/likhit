@@ -1,4 +1,3 @@
-- **2021-03-03 15:00**: feat: add category A and B traffic test questions
 - **2021-03-04 19:18**: fix: adjust passing score threshold according to new rules
 - **2021-03-05 09:42**: perf: optimize image caching for traffic sign assets
 - **2021-03-06 14:07**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-04-12 20:23**: feat: add search and filter by sign category
 - **2021-04-13 15:34**: feat: add warning signs and informational road signs
 - **2021-04-13 20:23**: feat: add warning signs and informational road signs
+- **2021-04-14 17:05**: fix: resolve layout shift during question transitions
