@@ -1,4 +1,3 @@
-- **2021-03-06 14:07**: style: enhance traffic sign card layout and responsiveness
 - **2021-03-06 14:35**: feat: add warning signs and informational road signs
 - **2021-03-06 15:36**: docs: improve code comments and API documentation
 - **2021-03-06 18:29**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-04-14 17:05**: fix: resolve layout shift during question transitions
 - **2021-04-15 11:26**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-04-15 16:30**: feat: add instant feedback and explanation on answer selection
+- **2021-04-16 10:58**: docs: improve code comments and API documentation
