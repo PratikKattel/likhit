@@ -1,4 +1,3 @@
-- **2021-03-06 15:36**: docs: improve code comments and API documentation
 - **2021-03-06 18:29**: feat: add keyboard navigation shortcuts for question selection
 - **2021-03-07 14:09**: feat: implement timer and score calculation for mock test
 - **2021-03-07 14:29**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-04-15 16:30**: feat: add instant feedback and explanation on answer selection
 - **2021-04-16 10:58**: docs: improve code comments and API documentation
 - **2021-04-17 17:20**: docs: add instructions for Nepali driving license written exam
+- **2021-04-18 16:13**: perf: index question IDs for rapid lookup
