@@ -1,4 +1,3 @@
-- **2021-03-07 14:09**: feat: implement timer and score calculation for mock test
 - **2021-03-07 14:29**: fix: adjust passing score threshold according to new rules
 - **2021-03-07 19:10**: docs: update traffic signals catalog documentation
 - **2021-03-08 13:34**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-04-17 17:20**: docs: add instructions for Nepali driving license written exam
 - **2021-04-18 16:13**: perf: index question IDs for rapid lookup
 - **2021-04-19 15:25**: test: verify question extraction script against exam PDF
+- **2021-04-20 13:10**: refactor: optimize SVG rendering for road signs
