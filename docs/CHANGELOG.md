@@ -1,4 +1,3 @@
-- **2021-03-07 14:29**: fix: adjust passing score threshold according to new rules
 - **2021-03-07 19:10**: docs: update traffic signals catalog documentation
 - **2021-03-08 13:34**: perf: index question IDs for rapid lookup
 - **2021-03-09 19:57**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2021-04-18 16:13**: perf: index question IDs for rapid lookup
 - **2021-04-19 15:25**: test: verify question extraction script against exam PDF
 - **2021-04-20 13:10**: refactor: optimize SVG rendering for road signs
+- **2021-04-21 18:13**: style: enhance traffic sign card layout and responsiveness
