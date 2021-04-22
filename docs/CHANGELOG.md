@@ -1,4 +1,3 @@
-- **2021-03-08 13:34**: perf: index question IDs for rapid lookup
 - **2021-03-09 19:57**: feat: add regulatory traffic signs SVG graphics
 - **2021-03-10 10:38**: fix: resolve layout shift during question transitions
 - **2021-03-10 17:34**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-04-20 13:10**: refactor: optimize SVG rendering for road signs
 - **2021-04-21 18:13**: style: enhance traffic sign card layout and responsiveness
 - **2021-04-22 09:41**: feat: implement timer and score calculation for mock test
+- **2021-04-22 15:38**: perf: lazy load signal graphics and question assets
