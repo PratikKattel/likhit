@@ -1,4 +1,3 @@
-- **2021-03-11 10:14**: chore: format code style and clean up redundant variables
 - **2021-03-11 11:48**: feat: add warning signs and informational road signs
 - **2021-03-11 17:36**: feat: add category A and B traffic test questions
 - **2021-03-12 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-04-22 16:16**: style: polish typography and Nepali Unicode font rendering
 - **2021-04-23 11:13**: perf: index question IDs for rapid lookup
 - **2021-04-23 22:04**: docs: update README with setup instructions and feature list
+- **2021-04-24 14:16**: perf: optimize image caching for traffic sign assets
