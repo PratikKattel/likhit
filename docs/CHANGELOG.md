@@ -1,4 +1,3 @@
-- **2021-03-11 17:36**: feat: add category A and B traffic test questions
 - **2021-03-12 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-12 21:13**: feat: support multiple choice questions for motorcycle category
 - **2021-03-13 19:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2021-04-23 22:04**: docs: update README with setup instructions and feature list
 - **2021-04-24 14:16**: perf: optimize image caching for traffic sign assets
 - **2021-04-25 11:40**: refactor: modularize traffic app logic and event listeners
+- **2021-04-26 15:18**: feat: add warning signs and informational road signs
