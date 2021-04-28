@@ -1,4 +1,3 @@
-- **2021-03-13 19:33**: feat: add regulatory traffic signs SVG graphics
 - **2021-03-14 12:57**: feat: add instant feedback and explanation on answer selection
 - **2021-03-14 20:08**: chore: update project metadata and build configuration
 - **2021-03-15 11:59**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-04-26 15:18**: feat: add warning signs and informational road signs
 - **2021-04-26 19:09**: style: polish typography and Nepali Unicode font rendering
 - **2021-04-27 09:11**: chore: format code style and clean up redundant variables
+- **2021-04-28 12:21**: fix: adjust passing score threshold according to new rules
