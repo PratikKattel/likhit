@@ -1,4 +1,3 @@
-- **2021-03-15 11:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-15 14:03**: feat: add search and filter by sign category
 - **2021-03-15 14:23**: feat: support multiple choice questions for motorcycle category
 - **2021-03-15 18:03**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-04-28 12:21**: fix: adjust passing score threshold according to new rules
 - **2021-04-29 11:52**: refactor: modularize traffic app logic and event listeners
 - **2021-04-29 12:00**: style: enhance traffic sign card layout and responsiveness
+- **2021-04-29 14:11**: docs: update README with setup instructions and feature list
