@@ -1,4 +1,3 @@
-- **2021-03-14 12:57**: feat: add instant feedback and explanation on answer selection
 - **2021-03-14 20:08**: chore: update project metadata and build configuration
 - **2021-03-15 11:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-03-15 14:03**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-04-26 19:09**: style: polish typography and Nepali Unicode font rendering
 - **2021-04-27 09:11**: chore: format code style and clean up redundant variables
 - **2021-04-28 12:21**: fix: adjust passing score threshold according to new rules
+- **2021-04-29 11:52**: refactor: modularize traffic app logic and event listeners
