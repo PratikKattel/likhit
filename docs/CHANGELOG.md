@@ -1,4 +1,3 @@
-- **2021-03-15 14:23**: feat: support multiple choice questions for motorcycle category
 - **2021-03-15 18:03**: perf: optimize image caching for traffic sign assets
 - **2021-03-16 19:42**: fix: adjust passing score threshold according to new rules
 - **2021-03-17 11:29**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-04-29 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-04-29 14:11**: docs: update README with setup instructions and feature list
 - **2021-04-29 15:41**: docs: add instructions for Nepali driving license written exam
+- **2021-04-30 12:35**: refactor: restructure question data schema for faster loading
