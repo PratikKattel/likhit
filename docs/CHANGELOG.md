@@ -1,4 +1,3 @@
-- **2021-03-16 19:42**: fix: adjust passing score threshold according to new rules
 - **2021-03-17 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-03-17 18:37**: fix: adjust passing score threshold according to new rules
 - **2021-03-18 10:42**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-04-29 15:41**: docs: add instructions for Nepali driving license written exam
 - **2021-04-30 12:35**: refactor: restructure question data schema for faster loading
 - **2021-04-30 13:31**: style: improve dark/light mode and mobile UI responsiveness
+- **2021-05-01 16:59**: fix: correct color specifications for mandatory traffic signs
