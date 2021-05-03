@@ -1,4 +1,3 @@
-- **2021-03-17 18:37**: fix: adjust passing score threshold according to new rules
 - **2021-03-18 10:42**: test: verify question extraction script against exam PDF
 - **2021-03-19 13:06**: docs: update traffic signals catalog documentation
 - **2021-03-19 16:10**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2021-04-30 13:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-05-01 16:59**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-02 11:36**: docs: improve code comments and API documentation
+- **2021-05-03 11:46**: feat: add category A and B traffic test questions
