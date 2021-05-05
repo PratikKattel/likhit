@@ -1,4 +1,3 @@
-- **2021-03-19 13:06**: docs: update traffic signals catalog documentation
 - **2021-03-19 16:10**: chore: update questions database with recent DOTM updates
 - **2021-03-20 10:54**: chore: format code style and clean up redundant variables
 - **2021-03-20 12:28**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-05-02 11:36**: docs: improve code comments and API documentation
 - **2021-05-03 11:46**: feat: add category A and B traffic test questions
 - **2021-05-04 12:01**: feat: add search and filter by sign category
+- **2021-05-05 16:08**: feat: add regulatory traffic signs SVG graphics
