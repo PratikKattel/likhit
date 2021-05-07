@@ -1,4 +1,3 @@
-- **2021-03-20 16:06**: feat: implement timer and score calculation for mock test
 - **2021-03-20 20:13**: feat: implement timer and score calculation for mock test
 - **2021-03-21 13:56**: chore: update questions database with recent DOTM updates
 - **2021-03-22 13:40**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-05-05 20:24**: perf: optimize image caching for traffic sign assets
 - **2021-05-06 13:24**: fix: adjust passing score threshold according to new rules
 - **2021-05-06 16:26**: feat: add regulatory traffic signs SVG graphics
+- **2021-05-07 18:57**: feat: add search and filter by sign category
