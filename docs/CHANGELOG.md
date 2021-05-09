@@ -1,4 +1,3 @@
-- **2021-03-21 13:56**: chore: update questions database with recent DOTM updates
 - **2021-03-22 13:40**: chore: format code style and clean up redundant variables
 - **2021-03-22 21:00**: refactor: modularize traffic app logic and event listeners
 - **2021-03-23 10:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2021-05-06 16:26**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-07 18:57**: feat: add search and filter by sign category
 - **2021-05-08 20:27**: feat: add category A and B traffic test questions
+- **2021-05-09 11:46**: fix: update DOTM Nepal license syllabus questions
