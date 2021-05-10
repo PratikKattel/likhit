@@ -1,4 +1,3 @@
-- **2021-03-23 10:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-03-23 20:35**: docs: improve code comments and API documentation
 - **2021-03-24 16:25**: test: verify question extraction script against exam PDF
 - **2021-03-25 14:52**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-05-09 11:46**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-09 15:09**: docs: update traffic signals catalog documentation
 - **2021-05-09 19:38**: fix: update DOTM Nepal license syllabus questions
+- **2021-05-10 19:16**: feat: add instant feedback and explanation on answer selection
