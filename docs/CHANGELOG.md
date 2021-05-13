@@ -1,4 +1,3 @@
-- **2021-03-25 14:52**: chore: format code style and clean up redundant variables
 - **2021-03-25 17:03**: fix: prevent option re-selection after submitting answer
 - **2021-03-25 20:11**: feat: add result summary with passing threshold analysis
 - **2021-03-26 21:28**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-05-10 19:16**: feat: add instant feedback and explanation on answer selection
 - **2021-05-11 11:18**: refactor: optimize SVG rendering for road signs
 - **2021-05-12 16:12**: style: enhance traffic sign card layout and responsiveness
+- **2021-05-13 16:07**: chore: format code style and clean up redundant variables
