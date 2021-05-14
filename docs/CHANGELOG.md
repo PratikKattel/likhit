@@ -1,4 +1,3 @@
-- **2021-03-25 20:11**: feat: add result summary with passing threshold analysis
 - **2021-03-26 21:28**: perf: optimize image caching for traffic sign assets
 - **2021-03-27 14:28**: feat: add result summary with passing threshold analysis
 - **2021-03-27 18:52**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-05-12 16:12**: style: enhance traffic sign card layout and responsiveness
 - **2021-05-13 16:07**: chore: format code style and clean up redundant variables
 - **2021-05-13 19:26**: test: verify question extraction script against exam PDF
+- **2021-05-14 11:38**: chore: format code style and clean up redundant variables
