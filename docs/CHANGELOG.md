@@ -1,4 +1,3 @@
-- **2021-03-26 21:28**: perf: optimize image caching for traffic sign assets
 - **2021-03-27 14:28**: feat: add result summary with passing threshold analysis
 - **2021-03-27 18:52**: perf: index question IDs for rapid lookup
 - **2021-03-27 20:48**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-05-13 16:07**: chore: format code style and clean up redundant variables
 - **2021-05-13 19:26**: test: verify question extraction script against exam PDF
 - **2021-05-14 11:38**: chore: format code style and clean up redundant variables
+- **2021-05-15 10:25**: docs: update README with setup instructions and feature list
