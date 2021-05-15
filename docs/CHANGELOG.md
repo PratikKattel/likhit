@@ -1,4 +1,3 @@
-- **2021-03-27 18:52**: perf: index question IDs for rapid lookup
 - **2021-03-27 20:48**: docs: add instructions for Nepali driving license written exam
 - **2021-03-27 21:33**: fix: typo in Nepali road safety regulations question
 - **2021-03-28 11:40**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-05-14 11:38**: chore: format code style and clean up redundant variables
 - **2021-05-15 10:25**: docs: update README with setup instructions and feature list
 - **2021-05-15 18:07**: feat: add regulatory traffic signs SVG graphics
+- **2021-05-15 18:48**: fix: correct color specifications for mandatory traffic signs
