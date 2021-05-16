@@ -1,4 +1,3 @@
-- **2021-03-27 21:33**: fix: typo in Nepali road safety regulations question
 - **2021-03-28 11:40**: style: enhance traffic sign card layout and responsiveness
 - **2021-03-28 13:45**: fix: adjust passing score threshold according to new rules
 - **2021-03-28 19:26**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-05-15 18:07**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-15 18:48**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-16 21:04**: style: improve dark/light mode and mobile UI responsiveness
+- **2021-05-16 22:13**: feat: implement timer and score calculation for mock test
