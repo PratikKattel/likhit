@@ -1,4 +1,3 @@
-- **2021-03-28 19:26**: feat: add result summary with passing threshold analysis
 - **2021-03-28 20:19**: docs: improve code comments and API documentation
 - **2021-03-29 17:10**: feat: implement timer and score calculation for mock test
 - **2021-03-30 20:57**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-05-16 22:13**: feat: implement timer and score calculation for mock test
 - **2021-05-17 14:41**: feat: add result summary with passing threshold analysis
 - **2021-05-17 17:12**: refactor: restructure question data schema for faster loading
+- **2021-05-17 20:55**: docs: update traffic signals catalog documentation
