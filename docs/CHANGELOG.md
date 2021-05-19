@@ -1,4 +1,3 @@
-- **2021-03-31 14:45**: feat: add search and filter by sign category
 - **2021-03-31 17:50**: chore: update questions database with recent DOTM updates
 - **2021-04-01 09:12**: chore: update questions database with recent DOTM updates
 - **2021-04-01 15:51**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-05-18 17:31**: feat: add category A and B traffic test questions
 - **2021-05-19 11:22**: refactor: modularize traffic app logic and event listeners
 - **2021-05-19 12:29**: fix: correct color specifications for mandatory traffic signs
+- **2021-05-19 15:25**: fix: typo in Nepali road safety regulations question
