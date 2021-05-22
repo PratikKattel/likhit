@@ -1,4 +1,3 @@
-- **2021-04-04 14:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-04-04 18:50**: chore: format code style and clean up redundant variables
 - **2021-04-04 18:53**: refactor: restructure question data schema for faster loading
 - **2021-04-05 20:09**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-05-21 12:39**: perf: optimize image caching for traffic sign assets
 - **2021-05-22 13:39**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-22 19:16**: perf: index question IDs for rapid lookup
+- **2021-05-22 22:18**: fix: correct color specifications for mandatory traffic signs
