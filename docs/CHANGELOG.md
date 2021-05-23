@@ -1,4 +1,3 @@
-- **2021-04-04 18:50**: chore: format code style and clean up redundant variables
 - **2021-04-04 18:53**: refactor: restructure question data schema for faster loading
 - **2021-04-05 20:09**: feat: add keyboard navigation shortcuts for question selection
 - **2021-04-06 14:30**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-05-22 13:39**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-22 19:16**: perf: index question IDs for rapid lookup
 - **2021-05-22 22:18**: fix: correct color specifications for mandatory traffic signs
+- **2021-05-23 12:01**: feat: add category-specific practice modes
