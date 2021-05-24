@@ -1,4 +1,3 @@
-- **2021-04-06 14:30**: docs: update README with setup instructions and feature list
 - **2021-04-06 17:27**: fix: typo in Nepali road safety regulations question
 - **2021-04-07 14:52**: chore: update questions database with recent DOTM updates
 - **2021-04-08 12:00**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2021-05-23 12:01**: feat: add category-specific practice modes
 - **2021-05-24 10:19**: perf: index question IDs for rapid lookup
 - **2021-05-24 10:55**: feat: add regulatory traffic signs SVG graphics
+- **2021-05-24 22:13**: perf: index question IDs for rapid lookup
