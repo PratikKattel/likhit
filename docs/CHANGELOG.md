@@ -1,4 +1,3 @@
-- **2021-04-08 12:00**: feat: add regulatory traffic signs SVG graphics
 - **2021-04-08 15:24**: fix: adjust passing score threshold according to new rules
 - **2021-04-09 09:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-04-10 15:25**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-05-24 22:13**: perf: index question IDs for rapid lookup
 - **2021-05-25 10:54**: fix: adjust passing score threshold according to new rules
 - **2021-05-25 16:59**: feat: add result summary with passing threshold analysis
+- **2021-05-26 20:21**: feat: support multiple choice questions for motorcycle category
