@@ -1,4 +1,3 @@
-- **2021-04-09 09:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-04-10 15:25**: perf: index question IDs for rapid lookup
 - **2021-04-10 21:02**: chore: update project metadata and build configuration
 - **2021-04-11 22:08**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-05-25 16:59**: feat: add result summary with passing threshold analysis
 - **2021-05-26 20:21**: feat: support multiple choice questions for motorcycle category
 - **2021-05-27 12:05**: feat: add keyboard navigation shortcuts for question selection
+- **2021-05-28 22:16**: feat: add instant feedback and explanation on answer selection
