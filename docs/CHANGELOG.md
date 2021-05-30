@@ -1,4 +1,3 @@
-- **2021-04-11 22:08**: feat: add result summary with passing threshold analysis
 - **2021-04-12 12:40**: chore: update project metadata and build configuration
 - **2021-04-12 13:23**: chore: format code style and clean up redundant variables
 - **2021-04-12 20:23**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-05-28 22:16**: feat: add instant feedback and explanation on answer selection
 - **2021-05-29 11:29**: docs: update traffic signals catalog documentation
 - **2021-05-29 19:14**: fix: prevent option re-selection after submitting answer
+- **2021-05-30 12:47**: chore: update project metadata and build configuration
