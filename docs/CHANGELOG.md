@@ -1,4 +1,3 @@
-- **2021-04-12 13:23**: chore: format code style and clean up redundant variables
 - **2021-04-12 20:23**: feat: add search and filter by sign category
 - **2021-04-13 15:34**: feat: add warning signs and informational road signs
 - **2021-04-13 20:23**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-05-29 19:14**: fix: prevent option re-selection after submitting answer
 - **2021-05-30 12:47**: chore: update project metadata and build configuration
 - **2021-05-30 13:17**: docs: improve code comments and API documentation
+- **2021-05-31 14:43**: feat: add keyboard navigation shortcuts for question selection
