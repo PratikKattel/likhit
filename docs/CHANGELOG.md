@@ -1,4 +1,3 @@
-- **2021-04-16 10:58**: docs: improve code comments and API documentation
 - **2021-04-17 17:20**: docs: add instructions for Nepali driving license written exam
 - **2021-04-18 16:13**: perf: index question IDs for rapid lookup
 - **2021-04-19 15:25**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-06-02 11:08**: feat: add search and filter by sign category
 - **2021-06-02 14:50**: docs: update README with setup instructions and feature list
 - **2021-06-03 11:29**: fix: adjust passing score threshold according to new rules
+- **2021-06-04 16:24**: chore: format code style and clean up redundant variables
