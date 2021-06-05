@@ -1,4 +1,3 @@
-- **2021-04-18 16:13**: perf: index question IDs for rapid lookup
 - **2021-04-19 15:25**: test: verify question extraction script against exam PDF
 - **2021-04-20 13:10**: refactor: optimize SVG rendering for road signs
 - **2021-04-21 18:13**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-06-03 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-06-04 16:24**: chore: format code style and clean up redundant variables
 - **2021-06-04 20:22**: fix: typo in Nepali road safety regulations question
+- **2021-06-05 14:00**: feat: implement timer and score calculation for mock test
