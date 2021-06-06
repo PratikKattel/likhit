@@ -1,4 +1,3 @@
-- **2021-04-20 13:10**: refactor: optimize SVG rendering for road signs
 - **2021-04-21 18:13**: style: enhance traffic sign card layout and responsiveness
 - **2021-04-22 09:41**: feat: implement timer and score calculation for mock test
 - **2021-04-22 15:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-06-04 20:22**: fix: typo in Nepali road safety regulations question
 - **2021-06-05 14:00**: feat: implement timer and score calculation for mock test
 - **2021-06-06 16:13**: feat: support multiple choice questions for motorcycle category
+- **2021-06-06 16:49**: perf: optimize image caching for traffic sign assets
