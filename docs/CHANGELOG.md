@@ -1,4 +1,3 @@
-- **2021-04-22 15:38**: perf: lazy load signal graphics and question assets
 - **2021-04-22 16:16**: style: polish typography and Nepali Unicode font rendering
 - **2021-04-23 11:13**: perf: index question IDs for rapid lookup
 - **2021-04-23 22:04**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-06-06 16:49**: perf: optimize image caching for traffic sign assets
 - **2021-06-07 09:28**: feat: add result summary with passing threshold analysis
 - **2021-06-08 10:03**: perf: index question IDs for rapid lookup
+- **2021-06-08 11:37**: feat: add search and filter by sign category
