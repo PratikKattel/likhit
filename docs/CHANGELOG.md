@@ -1,4 +1,3 @@
-- **2021-04-23 22:04**: docs: update README with setup instructions and feature list
 - **2021-04-24 14:16**: perf: optimize image caching for traffic sign assets
 - **2021-04-25 11:40**: refactor: modularize traffic app logic and event listeners
 - **2021-04-26 15:18**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-06-08 11:37**: feat: add search and filter by sign category
 - **2021-06-09 11:25**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-09 15:47**: feat: add category A and B traffic test questions
+- **2021-06-10 09:48**: docs: add instructions for Nepali driving license written exam
