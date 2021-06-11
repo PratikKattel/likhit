@@ -1,4 +1,3 @@
-- **2021-04-26 19:09**: style: polish typography and Nepali Unicode font rendering
 - **2021-04-27 09:11**: chore: format code style and clean up redundant variables
 - **2021-04-28 12:21**: fix: adjust passing score threshold according to new rules
 - **2021-04-29 11:52**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-06-10 11:03**: refactor: modularize traffic app logic and event listeners
 - **2021-06-10 13:20**: feat: add warning signs and informational road signs
 - **2021-06-10 19:52**: docs: improve code comments and API documentation
+- **2021-06-11 12:32**: fix: correct color specifications for mandatory traffic signs
