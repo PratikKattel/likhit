@@ -1,4 +1,3 @@
-- **2021-04-28 12:21**: fix: adjust passing score threshold according to new rules
 - **2021-04-29 11:52**: refactor: modularize traffic app logic and event listeners
 - **2021-04-29 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-04-29 14:11**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-06-10 19:52**: docs: improve code comments and API documentation
 - **2021-06-11 12:32**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-11 14:10**: chore: update project metadata and build configuration
+- **2021-06-12 17:17**: fix: prevent option re-selection after submitting answer
