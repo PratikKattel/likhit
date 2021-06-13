@@ -1,4 +1,3 @@
-- **2021-04-29 11:52**: refactor: modularize traffic app logic and event listeners
 - **2021-04-29 12:00**: style: enhance traffic sign card layout and responsiveness
 - **2021-04-29 14:11**: docs: update README with setup instructions and feature list
 - **2021-04-29 15:41**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-06-11 12:32**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-11 14:10**: chore: update project metadata and build configuration
 - **2021-06-12 17:17**: fix: prevent option re-selection after submitting answer
+- **2021-06-13 17:27**: docs: update traffic signals catalog documentation
