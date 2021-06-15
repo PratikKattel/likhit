@@ -1,4 +1,3 @@
-- **2021-04-29 15:41**: docs: add instructions for Nepali driving license written exam
 - **2021-04-30 12:35**: refactor: restructure question data schema for faster loading
 - **2021-04-30 13:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-05-01 16:59**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-06-13 17:27**: docs: update traffic signals catalog documentation
 - **2021-06-14 12:41**: feat: add warning signs and informational road signs
 - **2021-06-14 20:55**: fix: resolve layout shift during question transitions
+- **2021-06-15 12:21**: chore: update project metadata and build configuration
