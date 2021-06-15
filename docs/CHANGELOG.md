@@ -1,4 +1,3 @@
-- **2021-04-30 12:35**: refactor: restructure question data schema for faster loading
 - **2021-04-30 13:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-05-01 16:59**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-02 11:36**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-06-14 12:41**: feat: add warning signs and informational road signs
 - **2021-06-14 20:55**: fix: resolve layout shift during question transitions
 - **2021-06-15 12:21**: chore: update project metadata and build configuration
+- **2021-06-15 13:19**: test: verify question extraction script against exam PDF
