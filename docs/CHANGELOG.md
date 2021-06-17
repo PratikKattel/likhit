@@ -1,4 +1,3 @@
-- **2021-05-01 16:59**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-02 11:36**: docs: improve code comments and API documentation
 - **2021-05-03 11:46**: feat: add category A and B traffic test questions
 - **2021-05-04 12:01**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-06-15 12:21**: chore: update project metadata and build configuration
 - **2021-06-15 13:19**: test: verify question extraction script against exam PDF
 - **2021-06-16 21:07**: fix: correct color specifications for mandatory traffic signs
+- **2021-06-17 17:51**: feat: support multiple choice questions for motorcycle category
