@@ -1,4 +1,3 @@
-- **2021-05-04 12:01**: feat: add search and filter by sign category
 - **2021-05-05 16:08**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-05 20:24**: perf: optimize image caching for traffic sign assets
 - **2021-05-06 13:24**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-06-17 17:51**: feat: support multiple choice questions for motorcycle category
 - **2021-06-17 21:56**: docs: improve code comments and API documentation
 - **2021-06-18 19:31**: docs: improve code comments and API documentation
+- **2021-06-19 10:10**: fix: correct color specifications for mandatory traffic signs
