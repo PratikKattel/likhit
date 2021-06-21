@@ -1,4 +1,3 @@
-- **2021-05-05 20:24**: perf: optimize image caching for traffic sign assets
 - **2021-05-06 13:24**: fix: adjust passing score threshold according to new rules
 - **2021-05-06 16:26**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-07 18:57**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-06-18 19:31**: docs: improve code comments and API documentation
 - **2021-06-19 10:10**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-20 11:11**: test: verify question extraction script against exam PDF
+- **2021-06-21 16:30**: style: enhance traffic sign card layout and responsiveness
