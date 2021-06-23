@@ -1,4 +1,3 @@
-- **2021-05-07 18:57**: feat: add search and filter by sign category
 - **2021-05-08 20:27**: feat: add category A and B traffic test questions
 - **2021-05-09 11:46**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-09 15:09**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-06-21 16:30**: style: enhance traffic sign card layout and responsiveness
 - **2021-06-22 16:31**: fix: typo in Nepali road safety regulations question
 - **2021-06-22 18:37**: feat: add keyboard navigation shortcuts for question selection
+- **2021-06-23 18:08**: fix: correct color specifications for mandatory traffic signs
