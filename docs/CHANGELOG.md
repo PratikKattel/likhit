@@ -1,4 +1,3 @@
-- **2021-05-09 11:46**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-09 15:09**: docs: update traffic signals catalog documentation
 - **2021-05-09 19:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-10 19:16**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-06-22 18:37**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-23 18:08**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-23 21:44**: refactor: restructure question data schema for faster loading
+- **2021-06-24 11:10**: refactor: modularize traffic app logic and event listeners
