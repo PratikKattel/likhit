@@ -1,4 +1,3 @@
-- **2021-05-09 19:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-10 19:16**: feat: add instant feedback and explanation on answer selection
 - **2021-05-11 11:18**: refactor: optimize SVG rendering for road signs
 - **2021-05-12 16:12**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-06-23 21:44**: refactor: restructure question data schema for faster loading
 - **2021-06-24 11:10**: refactor: modularize traffic app logic and event listeners
 - **2021-06-25 12:08**: feat: implement timer and score calculation for mock test
+- **2021-06-25 20:52**: feat: add instant feedback and explanation on answer selection
