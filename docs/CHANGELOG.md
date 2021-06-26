@@ -1,4 +1,3 @@
-- **2021-05-11 11:18**: refactor: optimize SVG rendering for road signs
 - **2021-05-12 16:12**: style: enhance traffic sign card layout and responsiveness
 - **2021-05-13 16:07**: chore: format code style and clean up redundant variables
 - **2021-05-13 19:26**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-06-25 12:08**: feat: implement timer and score calculation for mock test
 - **2021-06-25 20:52**: feat: add instant feedback and explanation on answer selection
 - **2021-06-25 22:06**: feat: add warning signs and informational road signs
+- **2021-06-26 17:00**: docs: update README with setup instructions and feature list
