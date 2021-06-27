@@ -1,4 +1,3 @@
-- **2021-05-13 16:07**: chore: format code style and clean up redundant variables
 - **2021-05-13 19:26**: test: verify question extraction script against exam PDF
 - **2021-05-14 11:38**: chore: format code style and clean up redundant variables
 - **2021-05-15 10:25**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-06-25 22:06**: feat: add warning signs and informational road signs
 - **2021-06-26 17:00**: docs: update README with setup instructions and feature list
 - **2021-06-27 15:05**: docs: improve code comments and API documentation
+- **2021-06-27 15:51**: style: enhance traffic sign card layout and responsiveness
