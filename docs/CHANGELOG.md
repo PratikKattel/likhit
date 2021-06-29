@@ -1,4 +1,3 @@
-- **2021-05-15 10:25**: docs: update README with setup instructions and feature list
 - **2021-05-15 18:07**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-15 18:48**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-16 21:04**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2021-06-27 15:51**: style: enhance traffic sign card layout and responsiveness
 - **2021-06-28 09:27**: feat: add result summary with passing threshold analysis
 - **2021-06-29 18:26**: style: polish typography and Nepali Unicode font rendering
+- **2021-06-29 20:26**: refactor: clean up unused CSS classes and optimize stylesheet
