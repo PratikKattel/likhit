@@ -1,4 +1,3 @@
-- **2021-05-16 21:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-05-16 22:13**: feat: implement timer and score calculation for mock test
 - **2021-05-17 14:41**: feat: add result summary with passing threshold analysis
 - **2021-05-17 17:12**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-06-29 20:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-06-29 22:18**: docs: improve code comments and API documentation
 - **2021-06-30 09:33**: feat: add result summary with passing threshold analysis
+- **2021-06-30 09:49**: docs: improve code comments and API documentation
