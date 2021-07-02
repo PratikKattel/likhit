@@ -1,4 +1,3 @@
-- **2021-05-17 17:12**: refactor: restructure question data schema for faster loading
 - **2021-05-17 20:55**: docs: update traffic signals catalog documentation
 - **2021-05-18 17:31**: feat: add category A and B traffic test questions
 - **2021-05-19 11:22**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-06-30 09:49**: docs: improve code comments and API documentation
 - **2021-06-30 12:35**: feat: support multiple choice questions for motorcycle category
 - **2021-07-01 10:01**: fix: prevent option re-selection after submitting answer
+- **2021-07-02 12:43**: feat: add category A and B traffic test questions
