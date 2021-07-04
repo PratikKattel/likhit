@@ -1,4 +1,3 @@
-- **2021-05-19 11:22**: refactor: modularize traffic app logic and event listeners
 - **2021-05-19 12:29**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-19 15:25**: fix: typo in Nepali road safety regulations question
 - **2021-05-20 09:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-07-02 12:43**: feat: add category A and B traffic test questions
 - **2021-07-03 16:26**: perf: index question IDs for rapid lookup
 - **2021-07-04 13:37**: style: improve dark/light mode and mobile UI responsiveness
+- **2021-07-04 13:55**: feat: add search and filter by sign category
