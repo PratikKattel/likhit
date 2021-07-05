@@ -1,4 +1,3 @@
-- **2021-05-20 09:45**: test: verify question extraction script against exam PDF
 - **2021-05-20 12:46**: style: polish typography and Nepali Unicode font rendering
 - **2021-05-21 12:39**: perf: optimize image caching for traffic sign assets
 - **2021-05-22 13:39**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2021-07-04 13:55**: feat: add search and filter by sign category
 - **2021-07-04 20:46**: style: enhance traffic sign card layout and responsiveness
 - **2021-07-05 12:12**: feat: add warning signs and informational road signs
+- **2021-07-05 15:49**: fix: resolve layout shift during question transitions
