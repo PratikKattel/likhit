@@ -1,4 +1,3 @@
-- **2021-05-20 12:46**: style: polish typography and Nepali Unicode font rendering
 - **2021-05-21 12:39**: perf: optimize image caching for traffic sign assets
 - **2021-05-22 13:39**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-22 19:16**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-07-04 20:46**: style: enhance traffic sign card layout and responsiveness
 - **2021-07-05 12:12**: feat: add warning signs and informational road signs
 - **2021-07-05 15:49**: fix: resolve layout shift during question transitions
+- **2021-07-05 21:58**: chore: format code style and clean up redundant variables
