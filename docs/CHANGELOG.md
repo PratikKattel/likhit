@@ -1,4 +1,3 @@
-- **2021-05-19 15:25**: fix: typo in Nepali road safety regulations question
 - **2021-05-20 09:45**: test: verify question extraction script against exam PDF
 - **2021-05-20 12:46**: style: polish typography and Nepali Unicode font rendering
 - **2021-05-21 12:39**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-07-04 13:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-07-04 13:55**: feat: add search and filter by sign category
 - **2021-07-04 20:46**: style: enhance traffic sign card layout and responsiveness
+- **2021-07-05 12:12**: feat: add warning signs and informational road signs
