@@ -1,4 +1,3 @@
-- **2021-05-21 12:39**: perf: optimize image caching for traffic sign assets
 - **2021-05-22 13:39**: fix: update DOTM Nepal license syllabus questions
 - **2021-05-22 19:16**: perf: index question IDs for rapid lookup
 - **2021-05-22 22:18**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-07-05 12:12**: feat: add warning signs and informational road signs
 - **2021-07-05 15:49**: fix: resolve layout shift during question transitions
 - **2021-07-05 21:58**: chore: format code style and clean up redundant variables
+- **2021-07-06 12:40**: refactor: optimize SVG rendering for road signs
