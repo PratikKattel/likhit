@@ -1,4 +1,3 @@
-- **2021-05-22 19:16**: perf: index question IDs for rapid lookup
 - **2021-05-22 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2021-05-23 12:01**: feat: add category-specific practice modes
 - **2021-05-24 10:19**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-07-05 21:58**: chore: format code style and clean up redundant variables
 - **2021-07-06 12:40**: refactor: optimize SVG rendering for road signs
 - **2021-07-07 09:33**: fix: resolve layout shift during question transitions
+- **2021-07-08 21:09**: feat: add category A and B traffic test questions
