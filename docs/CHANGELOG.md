@@ -1,4 +1,3 @@
-- **2021-05-24 10:19**: perf: index question IDs for rapid lookup
 - **2021-05-24 10:55**: feat: add regulatory traffic signs SVG graphics
 - **2021-05-24 22:13**: perf: index question IDs for rapid lookup
 - **2021-05-25 10:54**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-07-08 21:09**: feat: add category A and B traffic test questions
 - **2021-07-09 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2021-07-09 16:38**: fix: correct color specifications for mandatory traffic signs
+- **2021-07-10 21:26**: chore: update questions database with recent DOTM updates
