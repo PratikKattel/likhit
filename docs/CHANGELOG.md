@@ -1,4 +1,3 @@
-- **2021-05-25 10:54**: fix: adjust passing score threshold according to new rules
 - **2021-05-25 16:59**: feat: add result summary with passing threshold analysis
 - **2021-05-26 20:21**: feat: support multiple choice questions for motorcycle category
 - **2021-05-27 12:05**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-07-10 21:26**: chore: update questions database with recent DOTM updates
 - **2021-07-11 15:31**: feat: add keyboard navigation shortcuts for question selection
 - **2021-07-12 10:00**: fix: correct color specifications for mandatory traffic signs
+- **2021-07-13 13:12**: fix: resolve layout shift during question transitions
