@@ -1,4 +1,3 @@
-- **2021-05-25 16:59**: feat: add result summary with passing threshold analysis
 - **2021-05-26 20:21**: feat: support multiple choice questions for motorcycle category
 - **2021-05-27 12:05**: feat: add keyboard navigation shortcuts for question selection
 - **2021-05-28 22:16**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-07-11 15:31**: feat: add keyboard navigation shortcuts for question selection
 - **2021-07-12 10:00**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-13 13:12**: fix: resolve layout shift during question transitions
+- **2021-07-14 20:23**: fix: typo in Nepali road safety regulations question
