@@ -1,4 +1,3 @@
-- **2021-05-26 20:21**: feat: support multiple choice questions for motorcycle category
 - **2021-05-27 12:05**: feat: add keyboard navigation shortcuts for question selection
 - **2021-05-28 22:16**: feat: add instant feedback and explanation on answer selection
 - **2021-05-29 11:29**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-07-12 10:00**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-13 13:12**: fix: resolve layout shift during question transitions
 - **2021-07-14 20:23**: fix: typo in Nepali road safety regulations question
+- **2021-07-14 21:17**: fix: typo in Nepali road safety regulations question
