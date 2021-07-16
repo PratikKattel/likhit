@@ -1,4 +1,3 @@
-- **2021-05-31 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-01 12:03**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-01 12:17**: feat: add instant feedback and explanation on answer selection
 - **2021-06-02 11:04**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-07-16 12:38**: feat: support multiple choice questions for motorcycle category
 - **2021-07-16 12:58**: feat: add warning signs and informational road signs
 - **2021-07-16 15:55**: feat: add category-specific practice modes
+- **2021-07-16 21:01**: docs: add instructions for Nepali driving license written exam
