@@ -1,4 +1,3 @@
-- **2021-05-30 12:47**: chore: update project metadata and build configuration
 - **2021-05-30 13:17**: docs: improve code comments and API documentation
 - **2021-05-31 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-01 12:03**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-07-15 13:02**: feat: add instant feedback and explanation on answer selection
 - **2021-07-15 13:54**: refactor: optimize SVG rendering for road signs
 - **2021-07-16 12:38**: feat: support multiple choice questions for motorcycle category
+- **2021-07-16 12:58**: feat: add warning signs and informational road signs
