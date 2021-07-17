@@ -1,4 +1,3 @@
-- **2021-06-02 11:04**: style: enhance traffic sign card layout and responsiveness
 - **2021-06-02 11:08**: feat: add search and filter by sign category
 - **2021-06-02 14:50**: docs: update README with setup instructions and feature list
 - **2021-06-03 11:29**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-07-16 21:01**: docs: add instructions for Nepali driving license written exam
 - **2021-07-17 10:05**: docs: update traffic signals catalog documentation
 - **2021-07-17 13:30**: docs: update traffic signals catalog documentation
+- **2021-07-17 18:09**: perf: optimize image caching for traffic sign assets
