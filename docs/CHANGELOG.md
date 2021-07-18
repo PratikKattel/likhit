@@ -1,4 +1,3 @@
-- **2021-06-02 11:08**: feat: add search and filter by sign category
 - **2021-06-02 14:50**: docs: update README with setup instructions and feature list
 - **2021-06-03 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-06-04 16:24**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-07-17 10:05**: docs: update traffic signals catalog documentation
 - **2021-07-17 13:30**: docs: update traffic signals catalog documentation
 - **2021-07-17 18:09**: perf: optimize image caching for traffic sign assets
+- **2021-07-18 18:46**: fix: typo in Nepali road safety regulations question
