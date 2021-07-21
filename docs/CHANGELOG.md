@@ -1,4 +1,3 @@
-- **2021-06-04 16:24**: chore: format code style and clean up redundant variables
 - **2021-06-04 20:22**: fix: typo in Nepali road safety regulations question
 - **2021-06-05 14:00**: feat: implement timer and score calculation for mock test
 - **2021-06-06 16:13**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2021-07-18 18:46**: fix: typo in Nepali road safety regulations question
 - **2021-07-19 10:08**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-20 16:59**: chore: update questions database with recent DOTM updates
+- **2021-07-21 12:12**: fix: adjust passing score threshold according to new rules
