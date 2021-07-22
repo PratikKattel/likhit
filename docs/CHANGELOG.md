@@ -1,4 +1,3 @@
-- **2021-06-05 14:00**: feat: implement timer and score calculation for mock test
 - **2021-06-06 16:13**: feat: support multiple choice questions for motorcycle category
 - **2021-06-06 16:49**: perf: optimize image caching for traffic sign assets
 - **2021-06-07 09:28**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-07-20 16:59**: chore: update questions database with recent DOTM updates
 - **2021-07-21 12:12**: fix: adjust passing score threshold according to new rules
 - **2021-07-22 18:51**: fix: prevent option re-selection after submitting answer
+- **2021-07-22 19:49**: fix: prevent option re-selection after submitting answer
