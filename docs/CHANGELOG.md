@@ -1,4 +1,3 @@
-- **2021-06-06 16:49**: perf: optimize image caching for traffic sign assets
 - **2021-06-07 09:28**: feat: add result summary with passing threshold analysis
 - **2021-06-08 10:03**: perf: index question IDs for rapid lookup
 - **2021-06-08 11:37**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-07-22 18:51**: fix: prevent option re-selection after submitting answer
 - **2021-07-22 19:49**: fix: prevent option re-selection after submitting answer
 - **2021-07-23 19:25**: chore: format code style and clean up redundant variables
+- **2021-07-24 14:27**: refactor: modularize traffic app logic and event listeners
