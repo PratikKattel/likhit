@@ -1,4 +1,3 @@
-- **2021-06-08 11:37**: feat: add search and filter by sign category
 - **2021-06-09 11:25**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-09 15:47**: feat: add category A and B traffic test questions
 - **2021-06-10 09:48**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-07-24 14:27**: refactor: modularize traffic app logic and event listeners
 - **2021-07-25 11:14**: docs: add instructions for Nepali driving license written exam
 - **2021-07-25 20:03**: feat: support multiple choice questions for motorcycle category
+- **2021-07-26 12:02**: perf: optimize image caching for traffic sign assets
