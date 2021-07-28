@@ -1,4 +1,3 @@
-- **2021-06-10 11:03**: refactor: modularize traffic app logic and event listeners
 - **2021-06-10 13:20**: feat: add warning signs and informational road signs
 - **2021-06-10 19:52**: docs: improve code comments and API documentation
 - **2021-06-11 12:32**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-07-26 12:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-07-27 16:30**: docs: improve code comments and API documentation
 - **2021-07-28 14:07**: perf: lazy load signal graphics and question assets
+- **2021-07-28 17:40**: chore: format code style and clean up redundant variables
