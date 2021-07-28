@@ -1,4 +1,3 @@
-- **2021-06-10 09:48**: docs: add instructions for Nepali driving license written exam
 - **2021-06-10 11:03**: refactor: modularize traffic app logic and event listeners
 - **2021-06-10 13:20**: feat: add warning signs and informational road signs
 - **2021-06-10 19:52**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-07-26 12:02**: perf: optimize image caching for traffic sign assets
 - **2021-07-26 12:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-07-27 16:30**: docs: improve code comments and API documentation
+- **2021-07-28 14:07**: perf: lazy load signal graphics and question assets
