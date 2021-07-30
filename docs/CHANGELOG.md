@@ -1,4 +1,3 @@
-- **2021-06-12 17:17**: fix: prevent option re-selection after submitting answer
 - **2021-06-13 17:27**: docs: update traffic signals catalog documentation
 - **2021-06-14 12:41**: feat: add warning signs and informational road signs
 - **2021-06-14 20:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-07-29 19:48**: fix: resolve layout shift during question transitions
 - **2021-07-30 10:20**: refactor: optimize SVG rendering for road signs
 - **2021-07-30 18:23**: docs: update README with setup instructions and feature list
+- **2021-07-30 19:55**: feat: add keyboard navigation shortcuts for question selection
