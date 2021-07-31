@@ -1,4 +1,3 @@
-- **2021-06-13 17:27**: docs: update traffic signals catalog documentation
 - **2021-06-14 12:41**: feat: add warning signs and informational road signs
 - **2021-06-14 20:55**: fix: resolve layout shift during question transitions
 - **2021-06-15 12:21**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2021-07-30 10:20**: refactor: optimize SVG rendering for road signs
 - **2021-07-30 18:23**: docs: update README with setup instructions and feature list
 - **2021-07-30 19:55**: feat: add keyboard navigation shortcuts for question selection
+- **2021-07-31 09:55**: feat: add search and filter by sign category
