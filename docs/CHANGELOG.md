@@ -1,4 +1,3 @@
-- **2021-06-15 12:21**: chore: update project metadata and build configuration
 - **2021-06-15 13:19**: test: verify question extraction script against exam PDF
 - **2021-06-16 21:07**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-17 17:51**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2021-07-31 09:55**: feat: add search and filter by sign category
 - **2021-07-31 13:54**: docs: update traffic signals catalog documentation
 - **2021-08-01 21:31**: fix: adjust passing score threshold according to new rules
+- **2021-08-02 14:52**: test: verify question extraction script against exam PDF
