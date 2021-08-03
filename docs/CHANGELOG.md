@@ -1,4 +1,3 @@
-- **2021-06-17 21:56**: docs: improve code comments and API documentation
 - **2021-06-18 19:31**: docs: improve code comments and API documentation
 - **2021-06-19 10:10**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-20 11:11**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-08-02 15:04**: feat: add search and filter by sign category
 - **2021-08-02 15:37**: docs: improve code comments and API documentation
 - **2021-08-02 21:26**: docs: update traffic signals catalog documentation
+- **2021-08-03 16:49**: chore: update project metadata and build configuration
