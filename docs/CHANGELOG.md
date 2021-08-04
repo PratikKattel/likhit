@@ -1,4 +1,3 @@
-- **2021-06-18 19:31**: docs: improve code comments and API documentation
 - **2021-06-19 10:10**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-20 11:11**: test: verify question extraction script against exam PDF
 - **2021-06-21 16:30**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-08-02 15:37**: docs: improve code comments and API documentation
 - **2021-08-02 21:26**: docs: update traffic signals catalog documentation
 - **2021-08-03 16:49**: chore: update project metadata and build configuration
+- **2021-08-04 15:50**: fix: adjust passing score threshold according to new rules
