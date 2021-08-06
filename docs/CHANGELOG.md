@@ -1,4 +1,3 @@
-- **2021-06-22 18:37**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-23 18:08**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-23 21:44**: refactor: restructure question data schema for faster loading
 - **2021-06-24 11:10**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-08-05 19:36**: feat: add result summary with passing threshold analysis
 - **2021-08-06 09:21**: feat: add category-specific practice modes
 - **2021-08-06 09:31**: feat: add instant feedback and explanation on answer selection
+- **2021-08-06 15:15**: feat: add result summary with passing threshold analysis
