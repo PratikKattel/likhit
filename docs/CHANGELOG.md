@@ -1,4 +1,3 @@
-- **2021-06-22 16:31**: fix: typo in Nepali road safety regulations question
 - **2021-06-22 18:37**: feat: add keyboard navigation shortcuts for question selection
 - **2021-06-23 18:08**: fix: correct color specifications for mandatory traffic signs
 - **2021-06-23 21:44**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-08-05 15:13**: chore: format code style and clean up redundant variables
 - **2021-08-05 19:36**: feat: add result summary with passing threshold analysis
 - **2021-08-06 09:21**: feat: add category-specific practice modes
+- **2021-08-06 09:31**: feat: add instant feedback and explanation on answer selection
