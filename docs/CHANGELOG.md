@@ -1,4 +1,3 @@
-- **2021-06-25 12:08**: feat: implement timer and score calculation for mock test
 - **2021-06-25 20:52**: feat: add instant feedback and explanation on answer selection
 - **2021-06-25 22:06**: feat: add warning signs and informational road signs
 - **2021-06-26 17:00**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-08-07 17:44**: feat: add category A and B traffic test questions
 - **2021-08-07 19:46**: chore: organize assets and image directory structure
 - **2021-08-08 12:05**: perf: index question IDs for rapid lookup
+- **2021-08-09 14:02**: feat: add warning signs and informational road signs
