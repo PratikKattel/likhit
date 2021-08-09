@@ -1,4 +1,3 @@
-- **2021-06-25 22:06**: feat: add warning signs and informational road signs
 - **2021-06-26 17:00**: docs: update README with setup instructions and feature list
 - **2021-06-27 15:05**: docs: improve code comments and API documentation
 - **2021-06-27 15:51**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2021-08-08 12:05**: perf: index question IDs for rapid lookup
 - **2021-08-09 14:02**: feat: add warning signs and informational road signs
 - **2021-08-09 15:54**: feat: add keyboard navigation shortcuts for question selection
+- **2021-08-09 19:00**: fix: prevent option re-selection after submitting answer
