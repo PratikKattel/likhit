@@ -1,4 +1,3 @@
-- **2021-06-27 15:05**: docs: improve code comments and API documentation
 - **2021-06-27 15:51**: style: enhance traffic sign card layout and responsiveness
 - **2021-06-28 09:27**: feat: add result summary with passing threshold analysis
 - **2021-06-29 18:26**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-08-09 15:54**: feat: add keyboard navigation shortcuts for question selection
 - **2021-08-09 19:00**: fix: prevent option re-selection after submitting answer
 - **2021-08-10 12:56**: docs: improve code comments and API documentation
+- **2021-08-10 15:24**: fix: resolve layout shift during question transitions
