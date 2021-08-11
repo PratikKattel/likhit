@@ -1,4 +1,3 @@
-- **2021-06-28 09:27**: feat: add result summary with passing threshold analysis
 - **2021-06-29 18:26**: style: polish typography and Nepali Unicode font rendering
 - **2021-06-29 20:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-06-29 22:18**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-08-10 12:56**: docs: improve code comments and API documentation
 - **2021-08-10 15:24**: fix: resolve layout shift during question transitions
 - **2021-08-11 10:27**: docs: update README with setup instructions and feature list
+- **2021-08-11 11:14**: feat: add instant feedback and explanation on answer selection
