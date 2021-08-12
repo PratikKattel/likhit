@@ -1,4 +1,3 @@
-- **2021-06-29 20:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-06-29 22:18**: docs: improve code comments and API documentation
 - **2021-06-30 09:33**: feat: add result summary with passing threshold analysis
 - **2021-06-30 09:49**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-08-11 10:27**: docs: update README with setup instructions and feature list
 - **2021-08-11 11:14**: feat: add instant feedback and explanation on answer selection
 - **2021-08-11 12:36**: feat: add warning signs and informational road signs
+- **2021-08-12 10:35**: test: verify question extraction script against exam PDF
