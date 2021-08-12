@@ -1,4 +1,3 @@
-- **2021-06-30 09:33**: feat: add result summary with passing threshold analysis
 - **2021-06-30 09:49**: docs: improve code comments and API documentation
 - **2021-06-30 12:35**: feat: support multiple choice questions for motorcycle category
 - **2021-07-01 10:01**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2021-08-11 12:36**: feat: add warning signs and informational road signs
 - **2021-08-12 10:35**: test: verify question extraction script against exam PDF
 - **2021-08-12 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-08-12 21:25**: feat: add keyboard navigation shortcuts for question selection
