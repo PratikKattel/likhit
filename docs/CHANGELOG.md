@@ -1,4 +1,3 @@
-- **2021-06-30 12:35**: feat: support multiple choice questions for motorcycle category
 - **2021-07-01 10:01**: fix: prevent option re-selection after submitting answer
 - **2021-07-02 12:43**: feat: add category A and B traffic test questions
 - **2021-07-03 16:26**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-08-12 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-08-12 21:25**: feat: add keyboard navigation shortcuts for question selection
 - **2021-08-13 14:48**: docs: update traffic signals catalog documentation
+- **2021-08-13 17:44**: chore: format code style and clean up redundant variables
