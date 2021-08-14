@@ -1,4 +1,3 @@
-- **2021-07-02 12:43**: feat: add category A and B traffic test questions
 - **2021-07-03 16:26**: perf: index question IDs for rapid lookup
 - **2021-07-04 13:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-07-04 13:55**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-08-13 14:48**: docs: update traffic signals catalog documentation
 - **2021-08-13 17:44**: chore: format code style and clean up redundant variables
 - **2021-08-13 21:49**: feat: add instant feedback and explanation on answer selection
+- **2021-08-14 12:30**: fix: adjust passing score threshold according to new rules
