@@ -1,4 +1,3 @@
-- **2021-07-04 20:46**: style: enhance traffic sign card layout and responsiveness
 - **2021-07-05 12:12**: feat: add warning signs and informational road signs
 - **2021-07-05 15:49**: fix: resolve layout shift during question transitions
 - **2021-07-05 21:58**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-08-15 15:10**: style: enhance traffic sign card layout and responsiveness
 - **2021-08-15 18:53**: feat: add result summary with passing threshold analysis
 - **2021-08-16 18:22**: feat: add search and filter by sign category
+- **2021-08-17 19:13**: feat: add category-specific practice modes
