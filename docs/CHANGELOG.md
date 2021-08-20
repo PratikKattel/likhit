@@ -1,4 +1,3 @@
-- **2021-07-05 21:58**: chore: format code style and clean up redundant variables
 - **2021-07-06 12:40**: refactor: optimize SVG rendering for road signs
 - **2021-07-07 09:33**: fix: resolve layout shift during question transitions
 - **2021-07-08 21:09**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-08-17 19:13**: feat: add category-specific practice modes
 - **2021-08-18 21:10**: refactor: modularize traffic app logic and event listeners
 - **2021-08-19 19:25**: docs: add instructions for Nepali driving license written exam
+- **2021-08-20 17:41**: test: verify question extraction script against exam PDF
