@@ -1,4 +1,3 @@
-- **2021-07-06 12:40**: refactor: optimize SVG rendering for road signs
 - **2021-07-07 09:33**: fix: resolve layout shift during question transitions
 - **2021-07-08 21:09**: feat: add category A and B traffic test questions
 - **2021-07-09 12:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2021-08-18 21:10**: refactor: modularize traffic app logic and event listeners
 - **2021-08-19 19:25**: docs: add instructions for Nepali driving license written exam
 - **2021-08-20 17:41**: test: verify question extraction script against exam PDF
+- **2021-08-21 16:31**: feat: add result summary with passing threshold analysis
