@@ -1,4 +1,3 @@
-- **2021-07-08 21:09**: feat: add category A and B traffic test questions
 - **2021-07-09 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2021-07-09 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-10 21:26**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2021-08-20 17:41**: test: verify question extraction script against exam PDF
 - **2021-08-21 16:31**: feat: add result summary with passing threshold analysis
 - **2021-08-21 18:25**: perf: lazy load signal graphics and question assets
+- **2021-08-22 10:09**: feat: implement timer and score calculation for mock test
