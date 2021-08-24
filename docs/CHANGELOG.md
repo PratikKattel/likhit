@@ -1,4 +1,3 @@
-- **2021-07-09 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-10 21:26**: chore: update questions database with recent DOTM updates
 - **2021-07-11 15:31**: feat: add keyboard navigation shortcuts for question selection
 - **2021-07-12 10:00**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-08-21 18:25**: perf: lazy load signal graphics and question assets
 - **2021-08-22 10:09**: feat: implement timer and score calculation for mock test
 - **2021-08-23 16:46**: chore: update project metadata and build configuration
+- **2021-08-24 17:09**: feat: add result summary with passing threshold analysis
