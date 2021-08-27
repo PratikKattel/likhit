@@ -1,4 +1,3 @@
-- **2021-07-12 10:00**: fix: correct color specifications for mandatory traffic signs
 - **2021-07-13 13:12**: fix: resolve layout shift during question transitions
 - **2021-07-14 20:23**: fix: typo in Nepali road safety regulations question
 - **2021-07-14 21:17**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2021-08-24 17:09**: feat: add result summary with passing threshold analysis
 - **2021-08-25 11:30**: docs: add instructions for Nepali driving license written exam
 - **2021-08-26 12:28**: refactor: restructure question data schema for faster loading
+- **2021-08-27 13:35**: feat: add category-specific practice modes
