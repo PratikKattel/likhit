@@ -1,4 +1,3 @@
-- **2021-07-14 20:23**: fix: typo in Nepali road safety regulations question
 - **2021-07-14 21:17**: fix: typo in Nepali road safety regulations question
 - **2021-07-15 10:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-07-15 13:02**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-08-26 12:28**: refactor: restructure question data schema for faster loading
 - **2021-08-27 13:35**: feat: add category-specific practice modes
 - **2021-08-27 16:15**: chore: organize assets and image directory structure
+- **2021-08-28 12:54**: feat: add warning signs and informational road signs
