@@ -1,4 +1,3 @@
-- **2021-07-15 13:02**: feat: add instant feedback and explanation on answer selection
 - **2021-07-15 13:54**: refactor: optimize SVG rendering for road signs
 - **2021-07-16 12:38**: feat: support multiple choice questions for motorcycle category
 - **2021-07-16 12:58**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-08-28 12:54**: feat: add warning signs and informational road signs
 - **2021-08-28 15:21**: perf: lazy load signal graphics and question assets
 - **2021-08-29 12:03**: chore: update project metadata and build configuration
+- **2021-08-29 21:34**: refactor: optimize SVG rendering for road signs
