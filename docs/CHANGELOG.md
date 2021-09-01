@@ -1,4 +1,3 @@
-- **2021-07-16 15:55**: feat: add category-specific practice modes
 - **2021-07-16 21:01**: docs: add instructions for Nepali driving license written exam
 - **2021-07-17 10:05**: docs: update traffic signals catalog documentation
 - **2021-07-17 13:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-08-30 12:26**: feat: add search and filter by sign category
 - **2021-08-31 10:15**: perf: lazy load signal graphics and question assets
 - **2021-08-31 13:57**: docs: improve code comments and API documentation
+- **2021-09-01 18:42**: perf: index question IDs for rapid lookup
