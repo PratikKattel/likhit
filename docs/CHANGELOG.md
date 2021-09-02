@@ -1,4 +1,3 @@
-- **2021-07-17 13:30**: docs: update traffic signals catalog documentation
 - **2021-07-17 18:09**: perf: optimize image caching for traffic sign assets
 - **2021-07-18 18:46**: fix: typo in Nepali road safety regulations question
 - **2021-07-19 10:08**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2021-09-01 18:42**: perf: index question IDs for rapid lookup
 - **2021-09-01 20:38**: style: polish typography and Nepali Unicode font rendering
 - **2021-09-02 12:06**: perf: optimize image caching for traffic sign assets
+- **2021-09-02 17:38**: refactor: optimize SVG rendering for road signs
