@@ -1,4 +1,3 @@
-- **2021-07-21 12:12**: fix: adjust passing score threshold according to new rules
 - **2021-07-22 18:51**: fix: prevent option re-selection after submitting answer
 - **2021-07-22 19:49**: fix: prevent option re-selection after submitting answer
 - **2021-07-23 19:25**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-09-03 19:40**: fix: adjust passing score threshold according to new rules
 - **2021-09-04 15:52**: perf: index question IDs for rapid lookup
 - **2021-09-05 15:39**: feat: add instant feedback and explanation on answer selection
+- **2021-09-06 17:04**: fix: update DOTM Nepal license syllabus questions
