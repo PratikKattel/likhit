@@ -1,4 +1,3 @@
-- **2021-07-24 14:27**: refactor: modularize traffic app logic and event listeners
 - **2021-07-25 11:14**: docs: add instructions for Nepali driving license written exam
 - **2021-07-25 20:03**: feat: support multiple choice questions for motorcycle category
 - **2021-07-26 12:02**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-09-07 18:27**: feat: add warning signs and informational road signs
 - **2021-09-08 09:36**: feat: add keyboard navigation shortcuts for question selection
 - **2021-09-08 12:52**: style: enhance traffic sign card layout and responsiveness
+- **2021-09-08 19:10**: feat: add result summary with passing threshold analysis
