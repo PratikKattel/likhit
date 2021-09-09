@@ -1,4 +1,3 @@
-- **2021-07-25 20:03**: feat: support multiple choice questions for motorcycle category
 - **2021-07-26 12:02**: perf: optimize image caching for traffic sign assets
 - **2021-07-26 12:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-07-27 16:30**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-09-08 12:52**: style: enhance traffic sign card layout and responsiveness
 - **2021-09-08 19:10**: feat: add result summary with passing threshold analysis
 - **2021-09-09 10:39**: feat: support multiple choice questions for motorcycle category
+- **2021-09-09 16:11**: style: polish typography and Nepali Unicode font rendering
