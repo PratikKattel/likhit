@@ -1,4 +1,3 @@
-- **2021-07-27 16:30**: docs: improve code comments and API documentation
 - **2021-07-28 14:07**: perf: lazy load signal graphics and question assets
 - **2021-07-28 17:40**: chore: format code style and clean up redundant variables
 - **2021-07-28 22:13**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-09-09 16:11**: style: polish typography and Nepali Unicode font rendering
 - **2021-09-09 21:16**: refactor: modularize traffic app logic and event listeners
 - **2021-09-10 14:42**: feat: implement timer and score calculation for mock test
+- **2021-09-11 16:19**: refactor: modularize traffic app logic and event listeners
