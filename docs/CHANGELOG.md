@@ -1,4 +1,3 @@
-- **2021-07-28 22:13**: refactor: optimize SVG rendering for road signs
 - **2021-07-29 19:48**: fix: resolve layout shift during question transitions
 - **2021-07-30 10:20**: refactor: optimize SVG rendering for road signs
 - **2021-07-30 18:23**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-09-11 16:19**: refactor: modularize traffic app logic and event listeners
 - **2021-09-11 17:19**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-12 19:10**: perf: index question IDs for rapid lookup
+- **2021-09-13 11:58**: feat: add instant feedback and explanation on answer selection
