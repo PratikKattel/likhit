@@ -1,4 +1,3 @@
-- **2021-08-01 21:31**: fix: adjust passing score threshold according to new rules
 - **2021-08-02 14:52**: test: verify question extraction script against exam PDF
 - **2021-08-02 15:04**: feat: add search and filter by sign category
 - **2021-08-02 15:37**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2021-09-14 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-09-15 09:41**: feat: add category-specific practice modes
 - **2021-09-15 15:29**: perf: index question IDs for rapid lookup
+- **2021-09-16 16:53**: feat: add keyboard navigation shortcuts for question selection
