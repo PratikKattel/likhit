@@ -1,4 +1,3 @@
-- **2021-08-02 15:37**: docs: improve code comments and API documentation
 - **2021-08-02 21:26**: docs: update traffic signals catalog documentation
 - **2021-08-03 16:49**: chore: update project metadata and build configuration
 - **2021-08-04 15:50**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-09-16 16:53**: feat: add keyboard navigation shortcuts for question selection
 - **2021-09-16 17:23**: chore: update project metadata and build configuration
 - **2021-09-16 20:41**: style: polish typography and Nepali Unicode font rendering
+- **2021-09-17 09:05**: fix: prevent option re-selection after submitting answer
