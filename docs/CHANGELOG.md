@@ -1,4 +1,3 @@
-- **2021-08-05 19:36**: feat: add result summary with passing threshold analysis
 - **2021-08-06 09:21**: feat: add category-specific practice modes
 - **2021-08-06 09:31**: feat: add instant feedback and explanation on answer selection
 - **2021-08-06 15:15**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-09-17 17:52**: refactor: modularize traffic app logic and event listeners
 - **2021-09-18 13:31**: feat: add warning signs and informational road signs
 - **2021-09-18 20:47**: feat: add instant feedback and explanation on answer selection
+- **2021-09-18 21:39**: feat: add category-specific practice modes
