@@ -1,4 +1,3 @@
-- **2021-08-06 09:31**: feat: add instant feedback and explanation on answer selection
 - **2021-08-06 15:15**: feat: add result summary with passing threshold analysis
 - **2021-08-07 17:44**: feat: add category A and B traffic test questions
 - **2021-08-07 19:46**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2021-09-18 20:47**: feat: add instant feedback and explanation on answer selection
 - **2021-09-18 21:39**: feat: add category-specific practice modes
 - **2021-09-19 19:19**: style: polish typography and Nepali Unicode font rendering
+- **2021-09-20 13:45**: perf: index question IDs for rapid lookup
