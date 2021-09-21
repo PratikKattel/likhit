@@ -1,4 +1,3 @@
-- **2021-08-07 17:44**: feat: add category A and B traffic test questions
 - **2021-08-07 19:46**: chore: organize assets and image directory structure
 - **2021-08-08 12:05**: perf: index question IDs for rapid lookup
 - **2021-08-09 14:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-09-19 19:19**: style: polish typography and Nepali Unicode font rendering
 - **2021-09-20 13:45**: perf: index question IDs for rapid lookup
 - **2021-09-21 21:46**: refactor: optimize SVG rendering for road signs
+- **2021-09-21 22:04**: docs: update traffic signals catalog documentation
