@@ -1,4 +1,3 @@
-- **2021-08-08 12:05**: perf: index question IDs for rapid lookup
 - **2021-08-09 14:02**: feat: add warning signs and informational road signs
 - **2021-08-09 15:54**: feat: add keyboard navigation shortcuts for question selection
 - **2021-08-09 19:00**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2021-09-21 21:46**: refactor: optimize SVG rendering for road signs
 - **2021-09-21 22:04**: docs: update traffic signals catalog documentation
 - **2021-09-22 14:05**: fix: adjust passing score threshold according to new rules
+- **2021-09-23 13:16**: test: verify question extraction script against exam PDF
