@@ -1,4 +1,3 @@
-- **2021-08-10 12:56**: docs: improve code comments and API documentation
 - **2021-08-10 15:24**: fix: resolve layout shift during question transitions
 - **2021-08-11 10:27**: docs: update README with setup instructions and feature list
 - **2021-08-11 11:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-09-23 19:58**: feat: implement timer and score calculation for mock test
 - **2021-09-24 09:38**: fix: prevent option re-selection after submitting answer
 - **2021-09-24 10:45**: perf: lazy load signal graphics and question assets
+- **2021-09-25 12:22**: docs: add instructions for Nepali driving license written exam
