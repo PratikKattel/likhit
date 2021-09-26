@@ -1,4 +1,3 @@
-- **2021-08-11 12:36**: feat: add warning signs and informational road signs
 - **2021-08-12 10:35**: test: verify question extraction script against exam PDF
 - **2021-08-12 14:11**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-08-12 21:25**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-09-25 13:31**: perf: lazy load signal graphics and question assets
 - **2021-09-25 13:32**: feat: add category A and B traffic test questions
 - **2021-09-25 18:52**: chore: format code style and clean up redundant variables
+- **2021-09-26 13:38**: fix: update DOTM Nepal license syllabus questions
