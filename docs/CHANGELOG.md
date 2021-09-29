@@ -1,4 +1,3 @@
-- **2021-08-13 14:48**: docs: update traffic signals catalog documentation
 - **2021-08-13 17:44**: chore: format code style and clean up redundant variables
 - **2021-08-13 21:49**: feat: add instant feedback and explanation on answer selection
 - **2021-08-14 12:30**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-09-27 12:58**: fix: resolve layout shift during question transitions
 - **2021-09-27 17:16**: refactor: restructure question data schema for faster loading
 - **2021-09-28 14:32**: fix: update DOTM Nepal license syllabus questions
+- **2021-09-29 19:16**: chore: format code style and clean up redundant variables
