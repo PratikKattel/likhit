@@ -1,4 +1,3 @@
-- **2021-08-14 12:30**: fix: adjust passing score threshold according to new rules
 - **2021-08-15 15:10**: style: enhance traffic sign card layout and responsiveness
 - **2021-08-15 18:53**: feat: add result summary with passing threshold analysis
 - **2021-08-16 18:22**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2021-09-29 19:16**: chore: format code style and clean up redundant variables
 - **2021-09-29 22:00**: feat: add result summary with passing threshold analysis
 - **2021-09-30 11:20**: fix: adjust passing score threshold according to new rules
+- **2021-10-01 18:01**: feat: add keyboard navigation shortcuts for question selection
