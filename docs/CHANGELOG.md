@@ -1,4 +1,3 @@
-- **2021-08-16 18:22**: feat: add search and filter by sign category
 - **2021-08-17 19:13**: feat: add category-specific practice modes
 - **2021-08-18 21:10**: refactor: modularize traffic app logic and event listeners
 - **2021-08-19 19:25**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-10-01 18:01**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-02 13:19**: chore: update project metadata and build configuration
 - **2021-10-02 16:48**: chore: update project metadata and build configuration
+- **2021-10-03 18:20**: feat: add category A and B traffic test questions
