@@ -1,4 +1,3 @@
-- **2021-08-18 21:10**: refactor: modularize traffic app logic and event listeners
 - **2021-08-19 19:25**: docs: add instructions for Nepali driving license written exam
 - **2021-08-20 17:41**: test: verify question extraction script against exam PDF
 - **2021-08-21 16:31**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-10-02 16:48**: chore: update project metadata and build configuration
 - **2021-10-03 18:20**: feat: add category A and B traffic test questions
 - **2021-10-03 21:00**: feat: add regulatory traffic signs SVG graphics
+- **2021-10-04 16:54**: chore: organize assets and image directory structure
