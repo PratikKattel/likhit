@@ -1,4 +1,3 @@
-- **2021-08-21 16:31**: feat: add result summary with passing threshold analysis
 - **2021-08-21 18:25**: perf: lazy load signal graphics and question assets
 - **2021-08-22 10:09**: feat: implement timer and score calculation for mock test
 - **2021-08-23 16:46**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2021-10-04 16:54**: chore: organize assets and image directory structure
 - **2021-10-05 12:09**: docs: improve code comments and API documentation
 - **2021-10-06 09:17**: feat: add regulatory traffic signs SVG graphics
+- **2021-10-07 14:09**: feat: add warning signs and informational road signs
