@@ -1,4 +1,3 @@
-- **2021-08-23 16:46**: chore: update project metadata and build configuration
 - **2021-08-24 17:09**: feat: add result summary with passing threshold analysis
 - **2021-08-25 11:30**: docs: add instructions for Nepali driving license written exam
 - **2021-08-26 12:28**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-10-07 14:09**: feat: add warning signs and informational road signs
 - **2021-10-08 09:22**: feat: add warning signs and informational road signs
 - **2021-10-08 11:01**: refactor: modularize traffic app logic and event listeners
+- **2021-10-08 12:29**: refactor: modularize traffic app logic and event listeners
