@@ -1,4 +1,3 @@
-- **2021-08-22 10:09**: feat: implement timer and score calculation for mock test
 - **2021-08-23 16:46**: chore: update project metadata and build configuration
 - **2021-08-24 17:09**: feat: add result summary with passing threshold analysis
 - **2021-08-25 11:30**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-10-06 09:17**: feat: add regulatory traffic signs SVG graphics
 - **2021-10-07 14:09**: feat: add warning signs and informational road signs
 - **2021-10-08 09:22**: feat: add warning signs and informational road signs
+- **2021-10-08 11:01**: refactor: modularize traffic app logic and event listeners
