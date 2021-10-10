@@ -1,4 +1,3 @@
-- **2021-08-27 13:35**: feat: add category-specific practice modes
 - **2021-08-27 16:15**: chore: organize assets and image directory structure
 - **2021-08-28 12:54**: feat: add warning signs and informational road signs
 - **2021-08-28 15:21**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-10-08 18:18**: refactor: optimize SVG rendering for road signs
 - **2021-10-09 15:05**: fix: typo in Nepali road safety regulations question
 - **2021-10-09 17:08**: docs: add instructions for Nepali driving license written exam
+- **2021-10-10 09:25**: test: verify question extraction script against exam PDF
