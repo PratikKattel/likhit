@@ -1,4 +1,3 @@
-- **2021-08-28 12:54**: feat: add warning signs and informational road signs
 - **2021-08-28 15:21**: perf: lazy load signal graphics and question assets
 - **2021-08-29 12:03**: chore: update project metadata and build configuration
 - **2021-08-29 21:34**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-10-09 17:08**: docs: add instructions for Nepali driving license written exam
 - **2021-10-10 09:25**: test: verify question extraction script against exam PDF
 - **2021-10-10 13:06**: perf: optimize image caching for traffic sign assets
+- **2021-10-11 14:13**: feat: add warning signs and informational road signs
