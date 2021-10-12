@@ -1,4 +1,3 @@
-- **2021-08-29 12:03**: chore: update project metadata and build configuration
 - **2021-08-29 21:34**: refactor: optimize SVG rendering for road signs
 - **2021-08-30 12:26**: feat: add search and filter by sign category
 - **2021-08-31 10:15**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-10-10 13:06**: perf: optimize image caching for traffic sign assets
 - **2021-10-11 14:13**: feat: add warning signs and informational road signs
 - **2021-10-11 20:44**: fix: update DOTM Nepal license syllabus questions
+- **2021-10-12 14:16**: feat: add category-specific practice modes
