@@ -1,4 +1,3 @@
-- **2021-08-30 12:26**: feat: add search and filter by sign category
 - **2021-08-31 10:15**: perf: lazy load signal graphics and question assets
 - **2021-08-31 13:57**: docs: improve code comments and API documentation
 - **2021-09-01 18:42**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-10-11 20:44**: fix: update DOTM Nepal license syllabus questions
 - **2021-10-12 14:16**: feat: add category-specific practice modes
 - **2021-10-13 09:00**: fix: typo in Nepali road safety regulations question
+- **2021-10-13 16:41**: feat: add regulatory traffic signs SVG graphics
