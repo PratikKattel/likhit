@@ -1,4 +1,3 @@
-- **2021-09-02 12:06**: perf: optimize image caching for traffic sign assets
 - **2021-09-02 17:38**: refactor: optimize SVG rendering for road signs
 - **2021-09-03 09:09**: docs: improve code comments and API documentation
 - **2021-09-03 19:40**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-10-15 16:12**: feat: add regulatory traffic signs SVG graphics
 - **2021-10-16 09:13**: perf: optimize image caching for traffic sign assets
 - **2021-10-16 10:19**: refactor: restructure question data schema for faster loading
+- **2021-10-17 22:19**: fix: typo in Nepali road safety regulations question
