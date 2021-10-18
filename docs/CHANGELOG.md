@@ -1,4 +1,3 @@
-- **2021-09-04 15:52**: perf: index question IDs for rapid lookup
 - **2021-09-05 15:39**: feat: add instant feedback and explanation on answer selection
 - **2021-09-06 17:04**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-07 18:27**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-10-18 11:12**: chore: organize assets and image directory structure
 - **2021-10-18 13:20**: refactor: restructure question data schema for faster loading
 - **2021-10-18 17:50**: fix: resolve layout shift during question transitions
+- **2021-10-18 18:03**: style: polish typography and Nepali Unicode font rendering
