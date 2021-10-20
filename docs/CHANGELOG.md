@@ -1,4 +1,3 @@
-- **2021-09-08 09:36**: feat: add keyboard navigation shortcuts for question selection
 - **2021-09-08 12:52**: style: enhance traffic sign card layout and responsiveness
 - **2021-09-08 19:10**: feat: add result summary with passing threshold analysis
 - **2021-09-09 10:39**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2021-10-19 19:49**: perf: index question IDs for rapid lookup
 - **2021-10-20 11:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-10-20 18:17**: feat: support multiple choice questions for motorcycle category
+- **2021-10-20 18:45**: docs: update README with setup instructions and feature list
