@@ -1,4 +1,3 @@
-- **2021-09-07 18:27**: feat: add warning signs and informational road signs
 - **2021-09-08 09:36**: feat: add keyboard navigation shortcuts for question selection
 - **2021-09-08 12:52**: style: enhance traffic sign card layout and responsiveness
 - **2021-09-08 19:10**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2021-10-18 18:03**: style: polish typography and Nepali Unicode font rendering
 - **2021-10-19 19:49**: perf: index question IDs for rapid lookup
 - **2021-10-20 11:21**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-10-20 18:17**: feat: support multiple choice questions for motorcycle category
