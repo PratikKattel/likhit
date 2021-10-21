@@ -1,4 +1,3 @@
-- **2021-09-08 12:52**: style: enhance traffic sign card layout and responsiveness
 - **2021-09-08 19:10**: feat: add result summary with passing threshold analysis
 - **2021-09-09 10:39**: feat: support multiple choice questions for motorcycle category
 - **2021-09-09 16:11**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-10-20 11:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-10-20 18:17**: feat: support multiple choice questions for motorcycle category
 - **2021-10-20 18:45**: docs: update README with setup instructions and feature list
+- **2021-10-21 09:32**: fix: prevent option re-selection after submitting answer
