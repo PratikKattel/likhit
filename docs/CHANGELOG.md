@@ -1,4 +1,3 @@
-- **2021-09-11 16:19**: refactor: modularize traffic app logic and event listeners
 - **2021-09-11 17:19**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-12 19:10**: perf: index question IDs for rapid lookup
 - **2021-09-13 11:58**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-10-23 19:49**: style: enhance traffic sign card layout and responsiveness
 - **2021-10-24 10:56**: perf: lazy load signal graphics and question assets
 - **2021-10-24 11:57**: fix: adjust passing score threshold according to new rules
+- **2021-10-24 20:51**: test: verify question extraction script against exam PDF
