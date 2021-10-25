@@ -1,4 +1,3 @@
-- **2021-09-12 19:10**: perf: index question IDs for rapid lookup
 - **2021-09-13 11:58**: feat: add instant feedback and explanation on answer selection
 - **2021-09-14 13:12**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-14 14:52**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-10-24 11:57**: fix: adjust passing score threshold according to new rules
 - **2021-10-24 20:51**: test: verify question extraction script against exam PDF
 - **2021-10-25 15:00**: chore: update project metadata and build configuration
+- **2021-10-25 18:15**: chore: organize assets and image directory structure
