@@ -1,4 +1,3 @@
-- **2021-09-13 11:58**: feat: add instant feedback and explanation on answer selection
 - **2021-09-14 13:12**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-14 14:52**: chore: format code style and clean up redundant variables
 - **2021-09-14 16:52**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-10-24 20:51**: test: verify question extraction script against exam PDF
 - **2021-10-25 15:00**: chore: update project metadata and build configuration
 - **2021-10-25 18:15**: chore: organize assets and image directory structure
+- **2021-10-26 14:57**: feat: add keyboard navigation shortcuts for question selection
