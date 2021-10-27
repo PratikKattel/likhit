@@ -1,4 +1,3 @@
-- **2021-09-14 14:52**: chore: format code style and clean up redundant variables
 - **2021-09-14 16:52**: docs: add instructions for Nepali driving license written exam
 - **2021-09-14 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-09-15 09:41**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2021-10-25 18:15**: chore: organize assets and image directory structure
 - **2021-10-26 14:57**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-26 20:39**: refactor: modularize traffic app logic and event listeners
+- **2021-10-27 09:25**: refactor: modularize traffic app logic and event listeners
