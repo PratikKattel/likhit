@@ -1,4 +1,3 @@
-- **2021-09-14 18:07**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-09-15 09:41**: feat: add category-specific practice modes
 - **2021-09-15 15:29**: perf: index question IDs for rapid lookup
 - **2021-09-16 16:53**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-10-26 20:39**: refactor: modularize traffic app logic and event listeners
 - **2021-10-27 09:25**: refactor: modularize traffic app logic and event listeners
 - **2021-10-27 21:47**: feat: add category A and B traffic test questions
+- **2021-10-28 09:27**: feat: add keyboard navigation shortcuts for question selection
