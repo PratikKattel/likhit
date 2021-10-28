@@ -1,4 +1,3 @@
-- **2021-09-15 15:29**: perf: index question IDs for rapid lookup
 - **2021-09-16 16:53**: feat: add keyboard navigation shortcuts for question selection
 - **2021-09-16 17:23**: chore: update project metadata and build configuration
 - **2021-09-16 20:41**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-10-27 21:47**: feat: add category A and B traffic test questions
 - **2021-10-28 09:27**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-28 09:53**: feat: add search and filter by sign category
+- **2021-10-28 18:42**: fix: update DOTM Nepal license syllabus questions
