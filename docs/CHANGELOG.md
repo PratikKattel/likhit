@@ -1,4 +1,3 @@
-- **2021-09-16 20:41**: style: polish typography and Nepali Unicode font rendering
 - **2021-09-17 09:05**: fix: prevent option re-selection after submitting answer
 - **2021-09-17 12:19**: perf: index question IDs for rapid lookup
 - **2021-09-17 17:52**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-10-28 18:42**: fix: update DOTM Nepal license syllabus questions
 - **2021-10-29 13:58**: feat: add category A and B traffic test questions
 - **2021-10-29 14:52**: chore: format code style and clean up redundant variables
+- **2021-10-29 18:17**: perf: optimize image caching for traffic sign assets
