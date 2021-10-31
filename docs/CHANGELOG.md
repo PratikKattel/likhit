@@ -1,4 +1,3 @@
-- **2021-09-17 17:52**: refactor: modularize traffic app logic and event listeners
 - **2021-09-18 13:31**: feat: add warning signs and informational road signs
 - **2021-09-18 20:47**: feat: add instant feedback and explanation on answer selection
 - **2021-09-18 21:39**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2021-10-29 18:17**: perf: optimize image caching for traffic sign assets
 - **2021-10-29 20:22**: refactor: restructure question data schema for faster loading
 - **2021-10-30 20:22**: refactor: optimize SVG rendering for road signs
+- **2021-10-31 21:03**: style: polish typography and Nepali Unicode font rendering
