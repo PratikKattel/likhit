@@ -1,4 +1,3 @@
-- **2021-09-18 13:31**: feat: add warning signs and informational road signs
 - **2021-09-18 20:47**: feat: add instant feedback and explanation on answer selection
 - **2021-09-18 21:39**: feat: add category-specific practice modes
 - **2021-09-19 19:19**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2021-10-29 20:22**: refactor: restructure question data schema for faster loading
 - **2021-10-30 20:22**: refactor: optimize SVG rendering for road signs
 - **2021-10-31 21:03**: style: polish typography and Nepali Unicode font rendering
+- **2021-11-01 10:28**: style: improve dark/light mode and mobile UI responsiveness
