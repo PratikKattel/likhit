@@ -1,4 +1,3 @@
-- **2021-09-22 14:05**: fix: adjust passing score threshold according to new rules
 - **2021-09-23 13:16**: test: verify question extraction script against exam PDF
 - **2021-09-23 19:58**: feat: implement timer and score calculation for mock test
 - **2021-09-24 09:38**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2021-11-03 09:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-11-03 17:08**: chore: update project metadata and build configuration
 - **2021-11-04 18:34**: feat: support multiple choice questions for motorcycle category
+- **2021-11-04 22:15**: docs: update README with setup instructions and feature list
