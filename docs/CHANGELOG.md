@@ -1,4 +1,3 @@
-- **2021-09-24 09:38**: fix: prevent option re-selection after submitting answer
 - **2021-09-24 10:45**: perf: lazy load signal graphics and question assets
 - **2021-09-25 12:22**: docs: add instructions for Nepali driving license written exam
 - **2021-09-25 13:31**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-11-04 22:15**: docs: update README with setup instructions and feature list
 - **2021-11-05 11:28**: docs: update traffic signals catalog documentation
 - **2021-11-05 12:57**: perf: lazy load signal graphics and question assets
+- **2021-11-05 17:31**: fix: adjust passing score threshold according to new rules
