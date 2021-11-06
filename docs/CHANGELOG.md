@@ -1,4 +1,3 @@
-- **2021-09-25 12:22**: docs: add instructions for Nepali driving license written exam
 - **2021-09-25 13:31**: perf: lazy load signal graphics and question assets
 - **2021-09-25 13:32**: feat: add category A and B traffic test questions
 - **2021-09-25 18:52**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2021-11-05 12:57**: perf: lazy load signal graphics and question assets
 - **2021-11-05 17:31**: fix: adjust passing score threshold according to new rules
 - **2021-11-06 14:36**: fix: adjust passing score threshold according to new rules
+- **2021-11-06 15:21**: perf: optimize image caching for traffic sign assets
