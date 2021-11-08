@@ -1,4 +1,3 @@
-- **2021-09-25 18:52**: chore: format code style and clean up redundant variables
 - **2021-09-26 13:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-27 12:58**: fix: resolve layout shift during question transitions
 - **2021-09-27 17:16**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2021-11-06 15:21**: perf: optimize image caching for traffic sign assets
 - **2021-11-06 20:47**: docs: update README with setup instructions and feature list
 - **2021-11-07 11:40**: feat: add regulatory traffic signs SVG graphics
+- **2021-11-08 10:29**: refactor: optimize SVG rendering for road signs
