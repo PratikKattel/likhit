@@ -1,4 +1,3 @@
-- **2021-09-26 13:38**: fix: update DOTM Nepal license syllabus questions
 - **2021-09-27 12:58**: fix: resolve layout shift during question transitions
 - **2021-09-27 17:16**: refactor: restructure question data schema for faster loading
 - **2021-09-28 14:32**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2021-11-06 20:47**: docs: update README with setup instructions and feature list
 - **2021-11-07 11:40**: feat: add regulatory traffic signs SVG graphics
 - **2021-11-08 10:29**: refactor: optimize SVG rendering for road signs
+- **2021-11-09 22:05**: refactor: clean up unused CSS classes and optimize stylesheet
