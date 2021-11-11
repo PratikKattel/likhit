@@ -1,4 +1,3 @@
-- **2021-09-29 19:16**: chore: format code style and clean up redundant variables
 - **2021-09-29 22:00**: feat: add result summary with passing threshold analysis
 - **2021-09-30 11:20**: fix: adjust passing score threshold according to new rules
 - **2021-10-01 18:01**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-11-10 12:52**: docs: improve code comments and API documentation
 - **2021-11-10 15:44**: docs: add instructions for Nepali driving license written exam
 - **2021-11-11 11:54**: fix: prevent option re-selection after submitting answer
+- **2021-11-11 21:36**: feat: add instant feedback and explanation on answer selection
