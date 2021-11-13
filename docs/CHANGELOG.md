@@ -1,4 +1,3 @@
-- **2021-10-02 16:48**: chore: update project metadata and build configuration
 - **2021-10-03 18:20**: feat: add category A and B traffic test questions
 - **2021-10-03 21:00**: feat: add regulatory traffic signs SVG graphics
 - **2021-10-04 16:54**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2021-11-12 11:29**: docs: update traffic signals catalog documentation
 - **2021-11-13 09:15**: fix: typo in Nepali road safety regulations question
 - **2021-11-13 18:49**: feat: add warning signs and informational road signs
+- **2021-11-13 19:28**: perf: index question IDs for rapid lookup
