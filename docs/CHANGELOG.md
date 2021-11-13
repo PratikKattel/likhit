@@ -1,4 +1,3 @@
-- **2021-10-01 18:01**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-02 13:19**: chore: update project metadata and build configuration
 - **2021-10-02 16:48**: chore: update project metadata and build configuration
 - **2021-10-03 18:20**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2021-11-11 21:36**: feat: add instant feedback and explanation on answer selection
 - **2021-11-12 09:38**: feat: add category A and B traffic test questions
 - **2021-11-12 11:29**: docs: update traffic signals catalog documentation
+- **2021-11-13 09:15**: fix: typo in Nepali road safety regulations question
