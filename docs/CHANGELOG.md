@@ -1,4 +1,3 @@
-- **2021-10-04 16:54**: chore: organize assets and image directory structure
 - **2021-10-05 12:09**: docs: improve code comments and API documentation
 - **2021-10-06 09:17**: feat: add regulatory traffic signs SVG graphics
 - **2021-10-07 14:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-11-13 19:28**: perf: index question IDs for rapid lookup
 - **2021-11-14 10:12**: refactor: modularize traffic app logic and event listeners
 - **2021-11-14 20:43**: fix: prevent option re-selection after submitting answer
+- **2021-11-15 14:43**: chore: update questions database with recent DOTM updates
