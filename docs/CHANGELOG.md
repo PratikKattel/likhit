@@ -1,4 +1,3 @@
-- **2021-10-08 09:22**: feat: add warning signs and informational road signs
 - **2021-10-08 11:01**: refactor: modularize traffic app logic and event listeners
 - **2021-10-08 12:29**: refactor: modularize traffic app logic and event listeners
 - **2021-10-08 18:18**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2021-11-16 13:43**: docs: improve code comments and API documentation
 - **2021-11-17 21:15**: feat: add category-specific practice modes
 - **2021-11-18 21:24**: feat: add regulatory traffic signs SVG graphics
+- **2021-11-19 16:14**: docs: add instructions for Nepali driving license written exam
