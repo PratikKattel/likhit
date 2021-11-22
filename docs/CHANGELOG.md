@@ -1,4 +1,3 @@
-- **2021-10-08 18:18**: refactor: optimize SVG rendering for road signs
 - **2021-10-09 15:05**: fix: typo in Nepali road safety regulations question
 - **2021-10-09 17:08**: docs: add instructions for Nepali driving license written exam
 - **2021-10-10 09:25**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2021-11-19 16:14**: docs: add instructions for Nepali driving license written exam
 - **2021-11-20 13:37**: style: enhance traffic sign card layout and responsiveness
 - **2021-11-21 15:36**: fix: prevent option re-selection after submitting answer
+- **2021-11-22 10:27**: feat: implement timer and score calculation for mock test
