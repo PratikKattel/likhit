@@ -1,4 +1,3 @@
-- **2021-10-09 17:08**: docs: add instructions for Nepali driving license written exam
 - **2021-10-10 09:25**: test: verify question extraction script against exam PDF
 - **2021-10-10 13:06**: perf: optimize image caching for traffic sign assets
 - **2021-10-11 14:13**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-11-21 15:36**: fix: prevent option re-selection after submitting answer
 - **2021-11-22 10:27**: feat: implement timer and score calculation for mock test
 - **2021-11-23 14:12**: refactor: modularize traffic app logic and event listeners
+- **2021-11-24 14:39**: refactor: optimize SVG rendering for road signs
