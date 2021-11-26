@@ -1,4 +1,3 @@
-- **2021-10-10 13:06**: perf: optimize image caching for traffic sign assets
 - **2021-10-11 14:13**: feat: add warning signs and informational road signs
 - **2021-10-11 20:44**: fix: update DOTM Nepal license syllabus questions
 - **2021-10-12 14:16**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2021-11-23 14:12**: refactor: modularize traffic app logic and event listeners
 - **2021-11-24 14:39**: refactor: optimize SVG rendering for road signs
 - **2021-11-25 21:31**: fix: typo in Nepali road safety regulations question
+- **2021-11-26 09:54**: feat: add result summary with passing threshold analysis
