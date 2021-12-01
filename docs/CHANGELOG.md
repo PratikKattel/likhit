@@ -1,4 +1,3 @@
-- **2021-10-15 16:12**: feat: add regulatory traffic signs SVG graphics
 - **2021-10-16 09:13**: perf: optimize image caching for traffic sign assets
 - **2021-10-16 10:19**: refactor: restructure question data schema for faster loading
 - **2021-10-17 22:19**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2021-11-29 19:35**: feat: add warning signs and informational road signs
 - **2021-11-30 16:38**: fix: typo in Nepali road safety regulations question
 - **2021-12-01 15:40**: docs: update traffic signals catalog documentation
+- **2021-12-01 20:57**: feat: add instant feedback and explanation on answer selection
