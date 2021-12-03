@@ -1,4 +1,3 @@
-- **2021-10-17 22:19**: fix: typo in Nepali road safety regulations question
 - **2021-10-18 11:12**: chore: organize assets and image directory structure
 - **2021-10-18 13:20**: refactor: restructure question data schema for faster loading
 - **2021-10-18 17:50**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2021-12-01 20:57**: feat: add instant feedback and explanation on answer selection
 - **2021-12-02 17:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-12-02 17:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2021-12-03 10:39**: perf: index question IDs for rapid lookup
