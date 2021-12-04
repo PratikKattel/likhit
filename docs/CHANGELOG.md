@@ -1,4 +1,3 @@
-- **2021-10-18 17:50**: fix: resolve layout shift during question transitions
 - **2021-10-18 18:03**: style: polish typography and Nepali Unicode font rendering
 - **2021-10-19 19:49**: perf: index question IDs for rapid lookup
 - **2021-10-20 11:21**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-12-03 10:39**: perf: index question IDs for rapid lookup
 - **2021-12-03 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2021-12-03 22:20**: feat: add regulatory traffic signs SVG graphics
+- **2021-12-04 12:18**: fix: typo in Nepali road safety regulations question
