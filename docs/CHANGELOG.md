@@ -1,4 +1,3 @@
-- **2021-10-20 18:17**: feat: support multiple choice questions for motorcycle category
 - **2021-10-20 18:45**: docs: update README with setup instructions and feature list
 - **2021-10-21 09:32**: fix: prevent option re-selection after submitting answer
 - **2021-10-22 14:01**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-12-05 20:22**: refactor: optimize SVG rendering for road signs
 - **2021-12-06 10:17**: chore: format code style and clean up redundant variables
 - **2021-12-07 11:26**: chore: update questions database with recent DOTM updates
+- **2021-12-07 13:36**: chore: update questions database with recent DOTM updates
