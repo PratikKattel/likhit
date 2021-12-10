@@ -1,4 +1,3 @@
-- **2021-10-22 14:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-10-23 09:23**: fix: update DOTM Nepal license syllabus questions
 - **2021-10-23 19:49**: style: enhance traffic sign card layout and responsiveness
 - **2021-10-24 10:56**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2021-12-07 13:36**: chore: update questions database with recent DOTM updates
 - **2021-12-08 22:25**: refactor: optimize SVG rendering for road signs
 - **2021-12-09 22:28**: refactor: modularize traffic app logic and event listeners
+- **2021-12-10 09:04**: feat: implement timer and score calculation for mock test
