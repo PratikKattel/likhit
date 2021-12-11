@@ -1,4 +1,3 @@
-- **2021-10-24 10:56**: perf: lazy load signal graphics and question assets
 - **2021-10-24 11:57**: fix: adjust passing score threshold according to new rules
 - **2021-10-24 20:51**: test: verify question extraction script against exam PDF
 - **2021-10-25 15:00**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2021-12-10 09:04**: feat: implement timer and score calculation for mock test
 - **2021-12-10 11:14**: chore: organize assets and image directory structure
 - **2021-12-11 11:08**: docs: update traffic signals catalog documentation
+- **2021-12-11 11:29**: fix: adjust passing score threshold according to new rules
