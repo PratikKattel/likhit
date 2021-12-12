@@ -1,4 +1,3 @@
-- **2021-10-25 18:15**: chore: organize assets and image directory structure
 - **2021-10-26 14:57**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-26 20:39**: refactor: modularize traffic app logic and event listeners
 - **2021-10-27 09:25**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2021-12-11 12:26**: refactor: restructure question data schema for faster loading
 - **2021-12-12 13:20**: refactor: optimize SVG rendering for road signs
 - **2021-12-12 19:54**: perf: optimize image caching for traffic sign assets
+- **2021-12-12 19:56**: chore: update questions database with recent DOTM updates
