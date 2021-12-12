@@ -1,4 +1,3 @@
-- **2021-10-24 20:51**: test: verify question extraction script against exam PDF
 - **2021-10-25 15:00**: chore: update project metadata and build configuration
 - **2021-10-25 18:15**: chore: organize assets and image directory structure
 - **2021-10-26 14:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2021-12-11 11:08**: docs: update traffic signals catalog documentation
 - **2021-12-11 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-12-11 12:26**: refactor: restructure question data schema for faster loading
+- **2021-12-12 13:20**: refactor: optimize SVG rendering for road signs
