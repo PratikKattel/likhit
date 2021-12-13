@@ -1,4 +1,3 @@
-- **2021-10-27 21:47**: feat: add category A and B traffic test questions
 - **2021-10-28 09:27**: feat: add keyboard navigation shortcuts for question selection
 - **2021-10-28 09:53**: feat: add search and filter by sign category
 - **2021-10-28 18:42**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2021-12-12 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-12-13 10:14**: perf: optimize image caching for traffic sign assets
 - **2021-12-13 10:24**: perf: optimize image caching for traffic sign assets
+- **2021-12-13 14:59**: docs: update README with setup instructions and feature list
