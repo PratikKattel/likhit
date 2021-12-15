@@ -1,4 +1,3 @@
-- **2021-10-28 18:42**: fix: update DOTM Nepal license syllabus questions
 - **2021-10-29 13:58**: feat: add category A and B traffic test questions
 - **2021-10-29 14:52**: chore: format code style and clean up redundant variables
 - **2021-10-29 18:17**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2021-12-13 14:59**: docs: update README with setup instructions and feature list
 - **2021-12-14 11:59**: docs: update README with setup instructions and feature list
 - **2021-12-15 16:40**: style: polish typography and Nepali Unicode font rendering
+- **2021-12-15 19:24**: docs: add instructions for Nepali driving license written exam
