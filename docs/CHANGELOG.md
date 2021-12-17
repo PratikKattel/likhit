@@ -1,4 +1,3 @@
-- **2021-10-29 20:22**: refactor: restructure question data schema for faster loading
 - **2021-10-30 20:22**: refactor: optimize SVG rendering for road signs
 - **2021-10-31 21:03**: style: polish typography and Nepali Unicode font rendering
 - **2021-11-01 10:28**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2021-12-16 12:03**: perf: lazy load signal graphics and question assets
 - **2021-12-16 16:16**: feat: support multiple choice questions for motorcycle category
 - **2021-12-17 14:16**: feat: add category-specific practice modes
+- **2021-12-17 21:02**: chore: update project metadata and build configuration
