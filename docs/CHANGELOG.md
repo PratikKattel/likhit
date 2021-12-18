@@ -1,4 +1,3 @@
-- **2021-10-31 21:03**: style: polish typography and Nepali Unicode font rendering
 - **2021-11-01 10:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-11-01 15:37**: docs: update traffic signals catalog documentation
 - **2021-11-02 12:03**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2021-12-17 14:16**: feat: add category-specific practice modes
 - **2021-12-17 21:02**: chore: update project metadata and build configuration
 - **2021-12-18 13:14**: feat: add warning signs and informational road signs
+- **2021-12-18 17:36**: style: improve dark/light mode and mobile UI responsiveness
