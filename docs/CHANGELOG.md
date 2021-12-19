@@ -1,4 +1,3 @@
-- **2021-11-01 15:37**: docs: update traffic signals catalog documentation
 - **2021-11-02 12:03**: feat: implement timer and score calculation for mock test
 - **2021-11-02 15:51**: feat: add category-specific practice modes
 - **2021-11-03 09:36**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2021-12-18 13:14**: feat: add warning signs and informational road signs
 - **2021-12-18 17:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-12-18 18:22**: perf: index question IDs for rapid lookup
+- **2021-12-19 10:14**: chore: update project metadata and build configuration
