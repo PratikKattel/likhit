@@ -1,4 +1,3 @@
-- **2021-11-03 17:08**: chore: update project metadata and build configuration
 - **2021-11-04 18:34**: feat: support multiple choice questions for motorcycle category
 - **2021-11-04 22:15**: docs: update README with setup instructions and feature list
 - **2021-11-05 11:28**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2021-12-20 15:34**: fix: adjust passing score threshold according to new rules
 - **2021-12-21 15:32**: feat: add category A and B traffic test questions
 - **2021-12-22 13:00**: feat: add warning signs and informational road signs
+- **2021-12-23 18:25**: docs: update README with setup instructions and feature list
