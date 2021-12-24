@@ -1,4 +1,3 @@
-- **2021-11-04 22:15**: docs: update README with setup instructions and feature list
 - **2021-11-05 11:28**: docs: update traffic signals catalog documentation
 - **2021-11-05 12:57**: perf: lazy load signal graphics and question assets
 - **2021-11-05 17:31**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2021-12-22 13:00**: feat: add warning signs and informational road signs
 - **2021-12-23 18:25**: docs: update README with setup instructions and feature list
 - **2021-12-24 14:31**: feat: add category A and B traffic test questions
+- **2021-12-24 18:39**: chore: format code style and clean up redundant variables
