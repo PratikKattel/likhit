@@ -1,4 +1,3 @@
-- **2021-11-05 17:31**: fix: adjust passing score threshold according to new rules
 - **2021-11-06 14:36**: fix: adjust passing score threshold according to new rules
 - **2021-11-06 15:21**: perf: optimize image caching for traffic sign assets
 - **2021-11-06 20:47**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2021-12-24 18:39**: chore: format code style and clean up redundant variables
 - **2021-12-24 19:09**: feat: add category-specific practice modes
 - **2021-12-25 18:33**: feat: add keyboard navigation shortcuts for question selection
+- **2021-12-26 12:42**: perf: index question IDs for rapid lookup
