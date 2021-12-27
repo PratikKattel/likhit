@@ -1,4 +1,3 @@
-- **2021-11-06 20:47**: docs: update README with setup instructions and feature list
 - **2021-11-07 11:40**: feat: add regulatory traffic signs SVG graphics
 - **2021-11-08 10:29**: refactor: optimize SVG rendering for road signs
 - **2021-11-09 22:05**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2021-12-26 12:42**: perf: index question IDs for rapid lookup
 - **2021-12-26 15:41**: docs: update README with setup instructions and feature list
 - **2021-12-26 17:59**: perf: lazy load signal graphics and question assets
+- **2021-12-27 14:44**: style: improve dark/light mode and mobile UI responsiveness
