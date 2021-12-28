@@ -1,4 +1,3 @@
-- **2021-11-08 10:29**: refactor: optimize SVG rendering for road signs
 - **2021-11-09 22:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-11-10 12:52**: docs: improve code comments and API documentation
 - **2021-11-10 15:44**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2021-12-26 17:59**: perf: lazy load signal graphics and question assets
 - **2021-12-27 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-12-27 18:17**: chore: update questions database with recent DOTM updates
+- **2021-12-28 11:46**: feat: add instant feedback and explanation on answer selection
