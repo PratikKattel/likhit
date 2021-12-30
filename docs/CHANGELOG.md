@@ -1,4 +1,3 @@
-- **2021-11-10 12:52**: docs: improve code comments and API documentation
 - **2021-11-10 15:44**: docs: add instructions for Nepali driving license written exam
 - **2021-11-11 11:54**: fix: prevent option re-selection after submitting answer
 - **2021-11-11 21:36**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2021-12-27 18:17**: chore: update questions database with recent DOTM updates
 - **2021-12-28 11:46**: feat: add instant feedback and explanation on answer selection
 - **2021-12-29 12:40**: refactor: restructure question data schema for faster loading
+- **2021-12-30 16:48**: feat: add keyboard navigation shortcuts for question selection
