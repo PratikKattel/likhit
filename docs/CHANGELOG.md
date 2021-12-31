@@ -1,4 +1,3 @@
-- **2021-11-12 09:38**: feat: add category A and B traffic test questions
 - **2021-11-12 11:29**: docs: update traffic signals catalog documentation
 - **2021-11-13 09:15**: fix: typo in Nepali road safety regulations question
 - **2021-11-13 18:49**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2021-12-30 20:30**: chore: update project metadata and build configuration
 - **2021-12-31 19:11**: feat: add search and filter by sign category
 - **2021-12-31 19:35**: feat: add search and filter by sign category
+- **2021-12-31 21:22**: feat: add search and filter by sign category
