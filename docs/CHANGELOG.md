@@ -1,4 +1,3 @@
-- **2021-11-12 11:29**: docs: update traffic signals catalog documentation
 - **2021-11-13 09:15**: fix: typo in Nepali road safety regulations question
 - **2021-11-13 18:49**: feat: add warning signs and informational road signs
 - **2021-11-13 19:28**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2021-12-31 19:11**: feat: add search and filter by sign category
 - **2021-12-31 19:35**: feat: add search and filter by sign category
 - **2021-12-31 21:22**: feat: add search and filter by sign category
+- **2022-01-01 09:16**: refactor: modularize traffic app logic and event listeners
