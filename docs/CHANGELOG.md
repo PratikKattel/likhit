@@ -1,4 +1,3 @@
-- **2021-11-13 18:49**: feat: add warning signs and informational road signs
 - **2021-11-13 19:28**: perf: index question IDs for rapid lookup
 - **2021-11-14 10:12**: refactor: modularize traffic app logic and event listeners
 - **2021-11-14 20:43**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2021-12-31 21:22**: feat: add search and filter by sign category
 - **2022-01-01 09:16**: refactor: modularize traffic app logic and event listeners
 - **2022-01-02 17:38**: fix: typo in Nepali road safety regulations question
+- **2022-01-02 18:06**: perf: optimize image caching for traffic sign assets
