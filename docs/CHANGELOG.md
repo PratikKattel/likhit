@@ -1,4 +1,3 @@
-- **2021-11-16 13:43**: docs: improve code comments and API documentation
 - **2021-11-17 21:15**: feat: add category-specific practice modes
 - **2021-11-18 21:24**: feat: add regulatory traffic signs SVG graphics
 - **2021-11-19 16:14**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2022-01-04 12:32**: feat: add search and filter by sign category
 - **2022-01-04 17:59**: chore: format code style and clean up redundant variables
 - **2022-01-04 18:42**: refactor: optimize SVG rendering for road signs
+- **2022-01-04 20:01**: feat: add category A and B traffic test questions
