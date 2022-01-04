@@ -1,4 +1,3 @@
-- **2021-11-14 10:12**: refactor: modularize traffic app logic and event listeners
 - **2021-11-14 20:43**: fix: prevent option re-selection after submitting answer
 - **2021-11-15 14:43**: chore: update questions database with recent DOTM updates
 - **2021-11-16 13:43**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-01-02 17:38**: fix: typo in Nepali road safety regulations question
 - **2022-01-02 18:06**: perf: optimize image caching for traffic sign assets
 - **2022-01-03 21:26**: fix: update DOTM Nepal license syllabus questions
+- **2022-01-04 12:32**: feat: add search and filter by sign category
