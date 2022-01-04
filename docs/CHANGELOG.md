@@ -1,4 +1,3 @@
-- **2021-11-14 20:43**: fix: prevent option re-selection after submitting answer
 - **2021-11-15 14:43**: chore: update questions database with recent DOTM updates
 - **2021-11-16 13:43**: docs: improve code comments and API documentation
 - **2021-11-17 21:15**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-01-02 18:06**: perf: optimize image caching for traffic sign assets
 - **2022-01-03 21:26**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-04 12:32**: feat: add search and filter by sign category
+- **2022-01-04 17:59**: chore: format code style and clean up redundant variables
