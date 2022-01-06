@@ -1,4 +1,3 @@
-- **2021-11-18 21:24**: feat: add regulatory traffic signs SVG graphics
 - **2021-11-19 16:14**: docs: add instructions for Nepali driving license written exam
 - **2021-11-20 13:37**: style: enhance traffic sign card layout and responsiveness
 - **2021-11-21 15:36**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2022-01-04 18:42**: refactor: optimize SVG rendering for road signs
 - **2022-01-04 20:01**: feat: add category A and B traffic test questions
 - **2022-01-05 12:02**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-01-06 12:20**: refactor: modularize traffic app logic and event listeners
