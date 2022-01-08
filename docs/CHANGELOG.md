@@ -1,4 +1,3 @@
-- **2021-11-20 13:37**: style: enhance traffic sign card layout and responsiveness
 - **2021-11-21 15:36**: fix: prevent option re-selection after submitting answer
 - **2021-11-22 10:27**: feat: implement timer and score calculation for mock test
 - **2021-11-23 14:12**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-01-05 12:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-01-06 12:20**: refactor: modularize traffic app logic and event listeners
 - **2022-01-07 19:22**: fix: update DOTM Nepal license syllabus questions
+- **2022-01-08 14:16**: fix: typo in Nepali road safety regulations question
