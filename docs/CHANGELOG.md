@@ -1,4 +1,3 @@
-- **2021-11-22 10:27**: feat: implement timer and score calculation for mock test
 - **2021-11-23 14:12**: refactor: modularize traffic app logic and event listeners
 - **2021-11-24 14:39**: refactor: optimize SVG rendering for road signs
 - **2021-11-25 21:31**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-01-07 19:22**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-08 14:16**: fix: typo in Nepali road safety regulations question
 - **2022-01-08 19:20**: perf: lazy load signal graphics and question assets
+- **2022-01-09 10:19**: feat: add keyboard navigation shortcuts for question selection
