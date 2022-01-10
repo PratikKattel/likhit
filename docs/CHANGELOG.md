@@ -1,4 +1,3 @@
-- **2021-11-24 14:39**: refactor: optimize SVG rendering for road signs
 - **2021-11-25 21:31**: fix: typo in Nepali road safety regulations question
 - **2021-11-26 09:54**: feat: add result summary with passing threshold analysis
 - **2021-11-26 16:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2022-01-08 19:20**: perf: lazy load signal graphics and question assets
 - **2022-01-09 10:19**: feat: add keyboard navigation shortcuts for question selection
 - **2022-01-09 11:55**: feat: add regulatory traffic signs SVG graphics
+- **2022-01-10 09:50**: feat: implement timer and score calculation for mock test
