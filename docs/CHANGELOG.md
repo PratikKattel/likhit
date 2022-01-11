@@ -1,4 +1,3 @@
-- **2021-11-26 16:06**: fix: prevent option re-selection after submitting answer
 - **2021-11-27 17:46**: docs: update README with setup instructions and feature list
 - **2021-11-28 14:28**: docs: update README with setup instructions and feature list
 - **2021-11-29 19:35**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-01-10 09:50**: feat: implement timer and score calculation for mock test
 - **2022-01-11 17:36**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-11 18:38**: refactor: modularize traffic app logic and event listeners
+- **2022-01-11 19:20**: style: enhance traffic sign card layout and responsiveness
