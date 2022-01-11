@@ -1,4 +1,3 @@
-- **2021-11-26 09:54**: feat: add result summary with passing threshold analysis
 - **2021-11-26 16:06**: fix: prevent option re-selection after submitting answer
 - **2021-11-27 17:46**: docs: update README with setup instructions and feature list
 - **2021-11-28 14:28**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-01-09 11:55**: feat: add regulatory traffic signs SVG graphics
 - **2022-01-10 09:50**: feat: implement timer and score calculation for mock test
 - **2022-01-11 17:36**: fix: update DOTM Nepal license syllabus questions
+- **2022-01-11 18:38**: refactor: modularize traffic app logic and event listeners
