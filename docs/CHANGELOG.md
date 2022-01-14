@@ -1,4 +1,3 @@
-- **2021-11-29 19:35**: feat: add warning signs and informational road signs
 - **2021-11-30 16:38**: fix: typo in Nepali road safety regulations question
 - **2021-12-01 15:40**: docs: update traffic signals catalog documentation
 - **2021-12-01 20:57**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-01-11 19:20**: style: enhance traffic sign card layout and responsiveness
 - **2022-01-12 16:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-01-13 20:23**: docs: improve code comments and API documentation
+- **2022-01-14 18:44**: refactor: modularize traffic app logic and event listeners
