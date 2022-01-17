@@ -1,4 +1,3 @@
-- **2021-12-03 10:39**: perf: index question IDs for rapid lookup
 - **2021-12-03 16:52**: feat: add regulatory traffic signs SVG graphics
 - **2021-12-03 22:20**: feat: add regulatory traffic signs SVG graphics
 - **2021-12-04 12:18**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-01-15 12:45**: refactor: optimize SVG rendering for road signs
 - **2022-01-15 14:13**: perf: lazy load signal graphics and question assets
 - **2022-01-16 14:34**: refactor: modularize traffic app logic and event listeners
+- **2022-01-17 12:19**: style: enhance traffic sign card layout and responsiveness
