@@ -1,4 +1,3 @@
-- **2021-12-07 13:36**: chore: update questions database with recent DOTM updates
 - **2021-12-08 22:25**: refactor: optimize SVG rendering for road signs
 - **2021-12-09 22:28**: refactor: modularize traffic app logic and event listeners
 - **2021-12-10 09:04**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-01-18 14:59**: chore: format code style and clean up redundant variables
 - **2022-01-18 15:40**: feat: implement timer and score calculation for mock test
 - **2022-01-19 09:45**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-01-20 10:34**: feat: add result summary with passing threshold analysis
