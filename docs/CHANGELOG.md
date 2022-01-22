@@ -1,4 +1,3 @@
-- **2021-12-11 11:29**: fix: adjust passing score threshold according to new rules
 - **2021-12-11 12:26**: refactor: restructure question data schema for faster loading
 - **2021-12-12 13:20**: refactor: optimize SVG rendering for road signs
 - **2021-12-12 19:54**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-01-21 11:08**: feat: implement timer and score calculation for mock test
 - **2022-01-21 15:02**: feat: add warning signs and informational road signs
 - **2022-01-21 15:24**: feat: add result summary with passing threshold analysis
+- **2022-01-22 10:48**: chore: update project metadata and build configuration
