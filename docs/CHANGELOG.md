@@ -1,4 +1,3 @@
-- **2021-12-12 13:20**: refactor: optimize SVG rendering for road signs
 - **2021-12-12 19:54**: perf: optimize image caching for traffic sign assets
 - **2021-12-12 19:56**: chore: update questions database with recent DOTM updates
 - **2021-12-12 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-01-21 15:24**: feat: add result summary with passing threshold analysis
 - **2022-01-22 10:48**: chore: update project metadata and build configuration
 - **2022-01-22 17:28**: perf: lazy load signal graphics and question assets
+- **2022-01-22 20:38**: fix: adjust passing score threshold according to new rules
