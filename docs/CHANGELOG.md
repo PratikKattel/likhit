@@ -1,4 +1,3 @@
-- **2021-12-12 19:54**: perf: optimize image caching for traffic sign assets
 - **2021-12-12 19:56**: chore: update questions database with recent DOTM updates
 - **2021-12-12 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-12-13 10:14**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-01-22 10:48**: chore: update project metadata and build configuration
 - **2022-01-22 17:28**: perf: lazy load signal graphics and question assets
 - **2022-01-22 20:38**: fix: adjust passing score threshold according to new rules
+- **2022-01-23 10:42**: chore: organize assets and image directory structure
