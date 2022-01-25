@@ -1,4 +1,3 @@
-- **2021-12-12 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2021-12-13 10:14**: perf: optimize image caching for traffic sign assets
 - **2021-12-13 10:24**: perf: optimize image caching for traffic sign assets
 - **2021-12-13 14:59**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-01-22 20:38**: fix: adjust passing score threshold according to new rules
 - **2022-01-23 10:42**: chore: organize assets and image directory structure
 - **2022-01-24 10:28**: docs: improve code comments and API documentation
+- **2022-01-25 20:38**: fix: resolve layout shift during question transitions
