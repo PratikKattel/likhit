@@ -1,4 +1,3 @@
-- **2021-12-13 10:24**: perf: optimize image caching for traffic sign assets
 - **2021-12-13 14:59**: docs: update README with setup instructions and feature list
 - **2021-12-14 11:59**: docs: update README with setup instructions and feature list
 - **2021-12-15 16:40**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2022-01-24 10:28**: docs: improve code comments and API documentation
 - **2022-01-25 20:38**: fix: resolve layout shift during question transitions
 - **2022-01-26 10:17**: refactor: restructure question data schema for faster loading
+- **2022-01-27 13:31**: fix: adjust passing score threshold according to new rules
