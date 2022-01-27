@@ -1,4 +1,3 @@
-- **2021-12-14 11:59**: docs: update README with setup instructions and feature list
 - **2021-12-15 16:40**: style: polish typography and Nepali Unicode font rendering
 - **2021-12-15 19:24**: docs: add instructions for Nepali driving license written exam
 - **2021-12-16 12:03**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-01-26 10:17**: refactor: restructure question data schema for faster loading
 - **2022-01-27 13:31**: fix: adjust passing score threshold according to new rules
 - **2022-01-27 15:42**: fix: typo in Nepali road safety regulations question
+- **2022-01-27 20:19**: chore: organize assets and image directory structure
