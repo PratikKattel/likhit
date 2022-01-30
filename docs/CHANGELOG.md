@@ -1,4 +1,3 @@
-- **2021-12-16 16:16**: feat: support multiple choice questions for motorcycle category
 - **2021-12-17 14:16**: feat: add category-specific practice modes
 - **2021-12-17 21:02**: chore: update project metadata and build configuration
 - **2021-12-18 13:14**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-01-28 18:37**: docs: update README with setup instructions and feature list
 - **2022-01-28 21:25**: refactor: modularize traffic app logic and event listeners
 - **2022-01-29 20:37**: refactor: restructure question data schema for faster loading
+- **2022-01-30 11:34**: feat: support multiple choice questions for motorcycle category
