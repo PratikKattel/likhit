@@ -1,4 +1,3 @@
-- **2021-12-18 13:14**: feat: add warning signs and informational road signs
 - **2021-12-18 17:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-12-18 18:22**: perf: index question IDs for rapid lookup
 - **2021-12-19 10:14**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-01-30 11:34**: feat: support multiple choice questions for motorcycle category
 - **2022-01-30 17:16**: feat: add category-specific practice modes
 - **2022-01-31 17:03**: perf: lazy load signal graphics and question assets
+- **2022-02-01 11:39**: docs: update traffic signals catalog documentation
