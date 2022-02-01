@@ -1,4 +1,3 @@
-- **2021-12-19 10:14**: chore: update project metadata and build configuration
 - **2021-12-20 15:34**: fix: adjust passing score threshold according to new rules
 - **2021-12-21 15:32**: feat: add category A and B traffic test questions
 - **2021-12-22 13:00**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-02-01 11:39**: docs: update traffic signals catalog documentation
 - **2022-02-01 12:03**: docs: improve code comments and API documentation
 - **2022-02-01 15:42**: docs: update README with setup instructions and feature list
+- **2022-02-01 16:28**: feat: add result summary with passing threshold analysis
