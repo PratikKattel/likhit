@@ -1,4 +1,3 @@
-- **2021-12-21 15:32**: feat: add category A and B traffic test questions
 - **2021-12-22 13:00**: feat: add warning signs and informational road signs
 - **2021-12-23 18:25**: docs: update README with setup instructions and feature list
 - **2021-12-24 14:31**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-02-01 15:42**: docs: update README with setup instructions and feature list
 - **2022-02-01 16:28**: feat: add result summary with passing threshold analysis
 - **2022-02-02 09:53**: feat: add keyboard navigation shortcuts for question selection
+- **2022-02-02 13:53**: test: verify question extraction script against exam PDF
