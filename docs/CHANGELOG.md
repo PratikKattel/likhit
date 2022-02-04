@@ -1,4 +1,3 @@
-- **2021-12-24 18:39**: chore: format code style and clean up redundant variables
 - **2021-12-24 19:09**: feat: add category-specific practice modes
 - **2021-12-25 18:33**: feat: add keyboard navigation shortcuts for question selection
 - **2021-12-26 12:42**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-02-02 13:55**: feat: add regulatory traffic signs SVG graphics
 - **2022-02-03 15:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-04 11:42**: fix: update DOTM Nepal license syllabus questions
+- **2022-02-04 20:45**: fix: typo in Nepali road safety regulations question
