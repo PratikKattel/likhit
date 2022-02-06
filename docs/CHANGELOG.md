@@ -1,4 +1,3 @@
-- **2021-12-26 12:42**: perf: index question IDs for rapid lookup
 - **2021-12-26 15:41**: docs: update README with setup instructions and feature list
 - **2021-12-26 17:59**: perf: lazy load signal graphics and question assets
 - **2021-12-27 14:44**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2022-02-04 20:45**: fix: typo in Nepali road safety regulations question
 - **2022-02-05 21:04**: chore: update questions database with recent DOTM updates
 - **2022-02-06 09:30**: fix: correct color specifications for mandatory traffic signs
+- **2022-02-06 18:45**: fix: resolve layout shift during question transitions
