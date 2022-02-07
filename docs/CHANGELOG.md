@@ -1,4 +1,3 @@
-- **2021-12-27 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2021-12-27 18:17**: chore: update questions database with recent DOTM updates
 - **2021-12-28 11:46**: feat: add instant feedback and explanation on answer selection
 - **2021-12-29 12:40**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2022-02-06 18:45**: fix: resolve layout shift during question transitions
 - **2022-02-07 12:36**: perf: optimize image caching for traffic sign assets
 - **2022-02-07 17:45**: test: verify question extraction script against exam PDF
+- **2022-02-07 19:42**: feat: add keyboard navigation shortcuts for question selection
