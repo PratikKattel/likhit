@@ -1,4 +1,3 @@
-- **2021-12-28 11:46**: feat: add instant feedback and explanation on answer selection
 - **2021-12-29 12:40**: refactor: restructure question data schema for faster loading
 - **2021-12-30 16:48**: feat: add keyboard navigation shortcuts for question selection
 - **2021-12-30 20:30**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-02-07 17:45**: test: verify question extraction script against exam PDF
 - **2022-02-07 19:42**: feat: add keyboard navigation shortcuts for question selection
 - **2022-02-08 21:04**: docs: add instructions for Nepali driving license written exam
+- **2022-02-08 22:28**: docs: improve code comments and API documentation
