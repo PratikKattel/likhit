@@ -1,4 +1,3 @@
-- **2021-12-29 12:40**: refactor: restructure question data schema for faster loading
 - **2021-12-30 16:48**: feat: add keyboard navigation shortcuts for question selection
 - **2021-12-30 20:30**: chore: update project metadata and build configuration
 - **2021-12-31 19:11**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-02-07 19:42**: feat: add keyboard navigation shortcuts for question selection
 - **2022-02-08 21:04**: docs: add instructions for Nepali driving license written exam
 - **2022-02-08 22:28**: docs: improve code comments and API documentation
+- **2022-02-09 20:06**: chore: organize assets and image directory structure
