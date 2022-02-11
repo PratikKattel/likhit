@@ -1,4 +1,3 @@
-- **2021-12-30 20:30**: chore: update project metadata and build configuration
 - **2021-12-31 19:11**: feat: add search and filter by sign category
 - **2021-12-31 19:35**: feat: add search and filter by sign category
 - **2021-12-31 21:22**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-02-08 22:28**: docs: improve code comments and API documentation
 - **2022-02-09 20:06**: chore: organize assets and image directory structure
 - **2022-02-10 17:29**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-02-11 18:59**: fix: correct color specifications for mandatory traffic signs
