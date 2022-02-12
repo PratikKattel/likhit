@@ -1,4 +1,3 @@
-- **2021-12-31 19:11**: feat: add search and filter by sign category
 - **2021-12-31 19:35**: feat: add search and filter by sign category
 - **2021-12-31 21:22**: feat: add search and filter by sign category
 - **2022-01-01 09:16**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-02-09 20:06**: chore: organize assets and image directory structure
 - **2022-02-10 17:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-02-11 18:59**: fix: correct color specifications for mandatory traffic signs
+- **2022-02-12 12:53**: fix: typo in Nepali road safety regulations question
