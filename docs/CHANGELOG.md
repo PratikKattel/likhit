@@ -1,4 +1,3 @@
-- **2021-12-31 21:22**: feat: add search and filter by sign category
 - **2022-01-01 09:16**: refactor: modularize traffic app logic and event listeners
 - **2022-01-02 17:38**: fix: typo in Nepali road safety regulations question
 - **2022-01-02 18:06**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-02-11 18:59**: fix: correct color specifications for mandatory traffic signs
 - **2022-02-12 12:53**: fix: typo in Nepali road safety regulations question
 - **2022-02-13 17:18**: fix: update DOTM Nepal license syllabus questions
+- **2022-02-13 21:28**: fix: resolve layout shift during question transitions
