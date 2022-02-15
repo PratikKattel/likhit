@@ -1,4 +1,3 @@
-- **2022-01-03 21:26**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-04 12:32**: feat: add search and filter by sign category
 - **2022-01-04 17:59**: chore: format code style and clean up redundant variables
 - **2022-01-04 18:42**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-02-14 14:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-14 19:29**: refactor: restructure question data schema for faster loading
 - **2022-02-14 19:39**: feat: add category-specific practice modes
+- **2022-02-15 16:41**: feat: add instant feedback and explanation on answer selection
