@@ -1,4 +1,3 @@
-- **2022-01-04 17:59**: chore: format code style and clean up redundant variables
 - **2022-01-04 18:42**: refactor: optimize SVG rendering for road signs
 - **2022-01-04 20:01**: feat: add category A and B traffic test questions
 - **2022-01-05 12:02**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-02-14 19:39**: feat: add category-specific practice modes
 - **2022-02-15 16:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-16 09:22**: fix: prevent option re-selection after submitting answer
+- **2022-02-17 13:36**: feat: implement timer and score calculation for mock test
