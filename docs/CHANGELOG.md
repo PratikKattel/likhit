@@ -1,4 +1,3 @@
-- **2022-01-05 12:02**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-01-06 12:20**: refactor: modularize traffic app logic and event listeners
 - **2022-01-07 19:22**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-08 14:16**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-02-17 13:36**: feat: implement timer and score calculation for mock test
 - **2022-02-17 20:04**: fix: resolve layout shift during question transitions
 - **2022-02-18 10:07**: fix: adjust passing score threshold according to new rules
+- **2022-02-18 13:15**: feat: support multiple choice questions for motorcycle category
