@@ -1,4 +1,3 @@
-- **2022-01-07 19:22**: fix: update DOTM Nepal license syllabus questions
 - **2022-01-08 14:16**: fix: typo in Nepali road safety regulations question
 - **2022-01-08 19:20**: perf: lazy load signal graphics and question assets
 - **2022-01-09 10:19**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-02-18 10:07**: fix: adjust passing score threshold according to new rules
 - **2022-02-18 13:15**: feat: support multiple choice questions for motorcycle category
 - **2022-02-18 17:54**: fix: correct color specifications for mandatory traffic signs
+- **2022-02-19 09:00**: feat: add search and filter by sign category
