@@ -1,4 +1,3 @@
-- **2022-01-09 10:19**: feat: add keyboard navigation shortcuts for question selection
 - **2022-01-09 11:55**: feat: add regulatory traffic signs SVG graphics
 - **2022-01-10 09:50**: feat: implement timer and score calculation for mock test
 - **2022-01-11 17:36**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-02-19 09:00**: feat: add search and filter by sign category
 - **2022-02-19 20:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-02-20 11:59**: fix: typo in Nepali road safety regulations question
+- **2022-02-20 19:02**: feat: add result summary with passing threshold analysis
