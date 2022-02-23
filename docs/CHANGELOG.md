@@ -1,4 +1,3 @@
-- **2022-01-11 18:38**: refactor: modularize traffic app logic and event listeners
 - **2022-01-11 19:20**: style: enhance traffic sign card layout and responsiveness
 - **2022-01-12 16:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-01-13 20:23**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-02-20 19:06**: chore: organize assets and image directory structure
 - **2022-02-21 16:41**: fix: prevent option re-selection after submitting answer
 - **2022-02-22 15:53**: feat: add regulatory traffic signs SVG graphics
+- **2022-02-23 11:13**: chore: update questions database with recent DOTM updates
