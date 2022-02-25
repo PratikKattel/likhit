@@ -1,4 +1,3 @@
-- **2022-01-14 18:44**: refactor: modularize traffic app logic and event listeners
 - **2022-01-14 21:06**: feat: add instant feedback and explanation on answer selection
 - **2022-01-15 11:47**: style: enhance traffic sign card layout and responsiveness
 - **2022-01-15 12:45**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-02-23 18:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-02-24 17:25**: fix: typo in Nepali road safety regulations question
 - **2022-02-24 21:45**: fix: adjust passing score threshold according to new rules
+- **2022-02-25 17:11**: refactor: optimize SVG rendering for road signs
