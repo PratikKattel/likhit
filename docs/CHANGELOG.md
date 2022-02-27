@@ -1,4 +1,3 @@
-- **2022-01-16 14:34**: refactor: modularize traffic app logic and event listeners
 - **2022-01-17 12:19**: style: enhance traffic sign card layout and responsiveness
 - **2022-01-17 17:22**: perf: index question IDs for rapid lookup
 - **2022-01-17 21:44**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-02-25 21:11**: perf: index question IDs for rapid lookup
 - **2022-02-26 15:10**: refactor: restructure question data schema for faster loading
 - **2022-02-26 18:54**: chore: format code style and clean up redundant variables
+- **2022-02-27 12:05**: docs: update README with setup instructions and feature list
