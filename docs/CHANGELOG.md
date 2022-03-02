@@ -1,4 +1,3 @@
-- **2022-01-18 12:28**: feat: add keyboard navigation shortcuts for question selection
 - **2022-01-18 14:59**: chore: format code style and clean up redundant variables
 - **2022-01-18 15:40**: feat: implement timer and score calculation for mock test
 - **2022-01-19 09:45**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-02-28 11:17**: refactor: optimize SVG rendering for road signs
 - **2022-03-01 10:27**: docs: improve code comments and API documentation
 - **2022-03-01 20:43**: chore: organize assets and image directory structure
+- **2022-03-02 15:01**: style: enhance traffic sign card layout and responsiveness
