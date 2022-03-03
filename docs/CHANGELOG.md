@@ -1,4 +1,3 @@
-- **2022-01-19 09:45**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-01-20 10:34**: feat: add result summary with passing threshold analysis
 - **2022-01-20 11:59**: feat: add category-specific practice modes
 - **2022-01-20 12:38**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-03-02 15:01**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-03 11:09**: feat: add instant feedback and explanation on answer selection
 - **2022-03-03 13:59**: fix: resolve layout shift during question transitions
+- **2022-03-03 20:44**: feat: add instant feedback and explanation on answer selection
