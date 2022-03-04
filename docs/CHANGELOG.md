@@ -1,4 +1,3 @@
-- **2022-01-20 10:34**: feat: add result summary with passing threshold analysis
 - **2022-01-20 11:59**: feat: add category-specific practice modes
 - **2022-01-20 12:38**: refactor: modularize traffic app logic and event listeners
 - **2022-01-21 11:08**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-03-03 11:09**: feat: add instant feedback and explanation on answer selection
 - **2022-03-03 13:59**: fix: resolve layout shift during question transitions
 - **2022-03-03 20:44**: feat: add instant feedback and explanation on answer selection
+- **2022-03-04 09:57**: perf: index question IDs for rapid lookup
