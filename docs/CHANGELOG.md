@@ -1,4 +1,3 @@
-- **2022-01-22 17:28**: perf: lazy load signal graphics and question assets
 - **2022-01-22 20:38**: fix: adjust passing score threshold according to new rules
 - **2022-01-23 10:42**: chore: organize assets and image directory structure
 - **2022-01-24 10:28**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-03-05 11:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-03-05 19:39**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-06 14:15**: fix: update DOTM Nepal license syllabus questions
+- **2022-03-06 21:24**: docs: update README with setup instructions and feature list
