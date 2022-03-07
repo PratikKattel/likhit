@@ -1,4 +1,3 @@
-- **2022-01-22 20:38**: fix: adjust passing score threshold according to new rules
 - **2022-01-23 10:42**: chore: organize assets and image directory structure
 - **2022-01-24 10:28**: docs: improve code comments and API documentation
 - **2022-01-25 20:38**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-03-05 19:39**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-06 14:15**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-06 21:24**: docs: update README with setup instructions and feature list
+- **2022-03-07 14:43**: refactor: modularize traffic app logic and event listeners
