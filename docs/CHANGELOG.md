@@ -1,4 +1,3 @@
-- **2022-01-24 10:28**: docs: improve code comments and API documentation
 - **2022-01-25 20:38**: fix: resolve layout shift during question transitions
 - **2022-01-26 10:17**: refactor: restructure question data schema for faster loading
 - **2022-01-27 13:31**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-03-06 21:24**: docs: update README with setup instructions and feature list
 - **2022-03-07 14:43**: refactor: modularize traffic app logic and event listeners
 - **2022-03-08 15:18**: fix: typo in Nepali road safety regulations question
+- **2022-03-09 12:58**: docs: update traffic signals catalog documentation
