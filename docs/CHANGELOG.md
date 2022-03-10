@@ -1,4 +1,3 @@
-- **2022-01-26 10:17**: refactor: restructure question data schema for faster loading
 - **2022-01-27 13:31**: fix: adjust passing score threshold according to new rules
 - **2022-01-27 15:42**: fix: typo in Nepali road safety regulations question
 - **2022-01-27 20:19**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2022-03-08 15:18**: fix: typo in Nepali road safety regulations question
 - **2022-03-09 12:58**: docs: update traffic signals catalog documentation
 - **2022-03-10 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-03-10 19:19**: docs: update README with setup instructions and feature list
