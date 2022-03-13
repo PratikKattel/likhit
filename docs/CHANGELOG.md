@@ -1,4 +1,3 @@
-- **2022-01-28 18:37**: docs: update README with setup instructions and feature list
 - **2022-01-28 21:25**: refactor: modularize traffic app logic and event listeners
 - **2022-01-29 20:37**: refactor: restructure question data schema for faster loading
 - **2022-01-30 11:34**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-03-11 22:22**: feat: add category A and B traffic test questions
 - **2022-03-12 20:03**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-12 20:20**: feat: add category-specific practice modes
+- **2022-03-13 11:36**: feat: add keyboard navigation shortcuts for question selection
