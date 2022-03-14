@@ -1,4 +1,3 @@
-- **2022-01-29 20:37**: refactor: restructure question data schema for faster loading
 - **2022-01-30 11:34**: feat: support multiple choice questions for motorcycle category
 - **2022-01-30 17:16**: feat: add category-specific practice modes
 - **2022-01-31 17:03**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-03-12 20:20**: feat: add category-specific practice modes
 - **2022-03-13 11:36**: feat: add keyboard navigation shortcuts for question selection
 - **2022-03-13 22:20**: refactor: optimize SVG rendering for road signs
+- **2022-03-14 20:44**: fix: prevent option re-selection after submitting answer
