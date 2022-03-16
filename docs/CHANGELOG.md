@@ -1,4 +1,3 @@
-- **2022-01-30 17:16**: feat: add category-specific practice modes
 - **2022-01-31 17:03**: perf: lazy load signal graphics and question assets
 - **2022-02-01 11:39**: docs: update traffic signals catalog documentation
 - **2022-02-01 12:03**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-03-13 22:20**: refactor: optimize SVG rendering for road signs
 - **2022-03-14 20:44**: fix: prevent option re-selection after submitting answer
 - **2022-03-15 18:37**: chore: format code style and clean up redundant variables
+- **2022-03-16 10:40**: feat: add regulatory traffic signs SVG graphics
