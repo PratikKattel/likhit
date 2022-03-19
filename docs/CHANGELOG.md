@@ -1,4 +1,3 @@
-- **2022-02-01 16:28**: feat: add result summary with passing threshold analysis
 - **2022-02-02 09:53**: feat: add keyboard navigation shortcuts for question selection
 - **2022-02-02 13:53**: test: verify question extraction script against exam PDF
 - **2022-02-02 13:55**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2022-03-17 20:01**: refactor: optimize SVG rendering for road signs
 - **2022-03-18 13:16**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-03-19 18:37**: perf: index question IDs for rapid lookup
+- **2022-03-19 19:41**: refactor: modularize traffic app logic and event listeners
