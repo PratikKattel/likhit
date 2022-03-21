@@ -1,4 +1,3 @@
-- **2022-02-02 13:53**: test: verify question extraction script against exam PDF
 - **2022-02-02 13:55**: feat: add regulatory traffic signs SVG graphics
 - **2022-02-03 15:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-04 11:42**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-03-19 18:37**: perf: index question IDs for rapid lookup
 - **2022-03-19 19:41**: refactor: modularize traffic app logic and event listeners
 - **2022-03-20 13:01**: fix: adjust passing score threshold according to new rules
+- **2022-03-21 10:40**: feat: add regulatory traffic signs SVG graphics
