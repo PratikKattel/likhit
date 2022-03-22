@@ -1,4 +1,3 @@
-- **2022-02-03 15:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-04 11:42**: fix: update DOTM Nepal license syllabus questions
 - **2022-02-04 20:45**: fix: typo in Nepali road safety regulations question
 - **2022-02-05 21:04**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-03-20 13:01**: fix: adjust passing score threshold according to new rules
 - **2022-03-21 10:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-03-22 10:59**: feat: add keyboard navigation shortcuts for question selection
+- **2022-03-22 17:40**: perf: index question IDs for rapid lookup
