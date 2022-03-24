@@ -1,4 +1,3 @@
-- **2022-02-04 20:45**: fix: typo in Nepali road safety regulations question
 - **2022-02-05 21:04**: chore: update questions database with recent DOTM updates
 - **2022-02-06 09:30**: fix: correct color specifications for mandatory traffic signs
 - **2022-02-06 18:45**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-03-22 10:59**: feat: add keyboard navigation shortcuts for question selection
 - **2022-03-22 17:40**: perf: index question IDs for rapid lookup
 - **2022-03-23 11:40**: refactor: optimize SVG rendering for road signs
+- **2022-03-24 16:05**: docs: improve code comments and API documentation
