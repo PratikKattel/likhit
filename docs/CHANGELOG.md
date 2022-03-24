@@ -1,4 +1,3 @@
-- **2022-02-06 09:30**: fix: correct color specifications for mandatory traffic signs
 - **2022-02-06 18:45**: fix: resolve layout shift during question transitions
 - **2022-02-07 12:36**: perf: optimize image caching for traffic sign assets
 - **2022-02-07 17:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2022-03-23 11:40**: refactor: optimize SVG rendering for road signs
 - **2022-03-24 16:05**: docs: improve code comments and API documentation
 - **2022-03-24 17:25**: perf: lazy load signal graphics and question assets
+- **2022-03-24 20:51**: fix: prevent option re-selection after submitting answer
