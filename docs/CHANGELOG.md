@@ -1,4 +1,3 @@
-- **2022-02-07 12:36**: perf: optimize image caching for traffic sign assets
 - **2022-02-07 17:45**: test: verify question extraction script against exam PDF
 - **2022-02-07 19:42**: feat: add keyboard navigation shortcuts for question selection
 - **2022-02-08 21:04**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2022-03-24 17:25**: perf: lazy load signal graphics and question assets
 - **2022-03-24 20:51**: fix: prevent option re-selection after submitting answer
 - **2022-03-25 13:04**: style: improve dark/light mode and mobile UI responsiveness
+- **2022-03-25 14:56**: fix: resolve layout shift during question transitions
