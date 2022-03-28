@@ -1,4 +1,3 @@
-- **2022-02-09 20:06**: chore: organize assets and image directory structure
 - **2022-02-10 17:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-02-11 18:59**: fix: correct color specifications for mandatory traffic signs
 - **2022-02-12 12:53**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-03-26 19:59**: feat: add result summary with passing threshold analysis
 - **2022-03-26 20:56**: test: verify question extraction script against exam PDF
 - **2022-03-27 17:48**: docs: add instructions for Nepali driving license written exam
+- **2022-03-28 16:38**: docs: improve code comments and API documentation
