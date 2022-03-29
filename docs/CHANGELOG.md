@@ -1,4 +1,3 @@
-- **2022-02-12 12:53**: fix: typo in Nepali road safety regulations question
 - **2022-02-13 17:18**: fix: update DOTM Nepal license syllabus questions
 - **2022-02-13 21:28**: fix: resolve layout shift during question transitions
 - **2022-02-14 14:41**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-03-28 16:38**: docs: improve code comments and API documentation
 - **2022-03-28 21:31**: refactor: restructure question data schema for faster loading
 - **2022-03-29 09:56**: feat: implement timer and score calculation for mock test
+- **2022-03-29 11:39**: feat: add search and filter by sign category
