@@ -1,4 +1,3 @@
-- **2022-02-14 19:29**: refactor: restructure question data schema for faster loading
 - **2022-02-14 19:39**: feat: add category-specific practice modes
 - **2022-02-15 16:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-16 09:22**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2022-03-29 13:01**: docs: update README with setup instructions and feature list
 - **2022-03-30 13:08**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-30 17:02**: feat: add result summary with passing threshold analysis
+- **2022-03-31 19:39**: fix: update DOTM Nepal license syllabus questions
