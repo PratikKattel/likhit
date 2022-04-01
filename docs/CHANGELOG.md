@@ -1,4 +1,3 @@
-- **2022-02-15 16:41**: feat: add instant feedback and explanation on answer selection
 - **2022-02-16 09:22**: fix: prevent option re-selection after submitting answer
 - **2022-02-17 13:36**: feat: implement timer and score calculation for mock test
 - **2022-02-17 20:04**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-03-30 17:02**: feat: add result summary with passing threshold analysis
 - **2022-03-31 19:39**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-31 19:56**: fix: resolve layout shift during question transitions
+- **2022-04-01 14:04**: feat: add category A and B traffic test questions
