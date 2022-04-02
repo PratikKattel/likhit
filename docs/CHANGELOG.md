@@ -1,4 +1,3 @@
-- **2022-02-17 13:36**: feat: implement timer and score calculation for mock test
 - **2022-02-17 20:04**: fix: resolve layout shift during question transitions
 - **2022-02-18 10:07**: fix: adjust passing score threshold according to new rules
 - **2022-02-18 13:15**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-03-31 19:56**: fix: resolve layout shift during question transitions
 - **2022-04-01 14:04**: feat: add category A and B traffic test questions
 - **2022-04-02 14:19**: perf: lazy load signal graphics and question assets
+- **2022-04-02 18:55**: refactor: restructure question data schema for faster loading
