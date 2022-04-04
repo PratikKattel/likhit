@@ -1,4 +1,3 @@
-- **2022-02-18 10:07**: fix: adjust passing score threshold according to new rules
 - **2022-02-18 13:15**: feat: support multiple choice questions for motorcycle category
 - **2022-02-18 17:54**: fix: correct color specifications for mandatory traffic signs
 - **2022-02-19 09:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-04-02 14:19**: perf: lazy load signal graphics and question assets
 - **2022-04-02 18:55**: refactor: restructure question data schema for faster loading
 - **2022-04-03 21:24**: docs: add instructions for Nepali driving license written exam
+- **2022-04-04 15:35**: feat: add instant feedback and explanation on answer selection
