@@ -1,4 +1,3 @@
-- **2022-02-19 09:00**: feat: add search and filter by sign category
 - **2022-02-19 20:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-02-20 11:59**: fix: typo in Nepali road safety regulations question
 - **2022-02-20 19:02**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2022-04-04 15:35**: feat: add instant feedback and explanation on answer selection
 - **2022-04-04 18:43**: fix: resolve layout shift during question transitions
 - **2022-04-05 11:03**: chore: update project metadata and build configuration
+- **2022-04-05 15:12**: style: improve dark/light mode and mobile UI responsiveness
