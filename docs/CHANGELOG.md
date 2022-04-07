@@ -1,4 +1,3 @@
-- **2022-02-20 19:06**: chore: organize assets and image directory structure
 - **2022-02-21 16:41**: fix: prevent option re-selection after submitting answer
 - **2022-02-22 15:53**: feat: add regulatory traffic signs SVG graphics
 - **2022-02-23 11:13**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-04-05 19:49**: feat: add keyboard navigation shortcuts for question selection
 - **2022-04-06 10:43**: docs: update traffic signals catalog documentation
 - **2022-04-07 12:17**: fix: resolve layout shift during question transitions
+- **2022-04-07 21:08**: feat: add instant feedback and explanation on answer selection
