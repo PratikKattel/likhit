@@ -1,4 +1,3 @@
-- **2022-02-22 15:53**: feat: add regulatory traffic signs SVG graphics
 - **2022-02-23 11:13**: chore: update questions database with recent DOTM updates
 - **2022-02-23 18:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-02-24 17:25**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-04-07 12:17**: fix: resolve layout shift during question transitions
 - **2022-04-07 21:08**: feat: add instant feedback and explanation on answer selection
 - **2022-04-08 18:57**: feat: add warning signs and informational road signs
+- **2022-04-09 11:36**: docs: update README with setup instructions and feature list
