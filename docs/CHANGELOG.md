@@ -1,4 +1,3 @@
-- **2022-02-23 18:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-02-24 17:25**: fix: typo in Nepali road safety regulations question
 - **2022-02-24 21:45**: fix: adjust passing score threshold according to new rules
 - **2022-02-25 17:11**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-04-08 18:57**: feat: add warning signs and informational road signs
 - **2022-04-09 11:36**: docs: update README with setup instructions and feature list
 - **2022-04-09 12:43**: fix: correct color specifications for mandatory traffic signs
+- **2022-04-10 10:58**: docs: update README with setup instructions and feature list
