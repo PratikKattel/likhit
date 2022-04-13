@@ -1,4 +1,3 @@
-- **2022-02-25 17:11**: refactor: optimize SVG rendering for road signs
 - **2022-02-25 17:22**: feat: support multiple choice questions for motorcycle category
 - **2022-02-25 21:11**: perf: index question IDs for rapid lookup
 - **2022-02-26 15:10**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2022-04-10 10:58**: docs: update README with setup instructions and feature list
 - **2022-04-11 11:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-04-12 18:13**: fix: resolve layout shift during question transitions
+- **2022-04-13 10:35**: fix: correct color specifications for mandatory traffic signs
