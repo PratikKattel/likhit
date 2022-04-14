@@ -1,4 +1,3 @@
-- **2022-02-26 18:54**: chore: format code style and clean up redundant variables
 - **2022-02-27 12:05**: docs: update README with setup instructions and feature list
 - **2022-02-28 11:17**: refactor: optimize SVG rendering for road signs
 - **2022-03-01 10:27**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-04-13 21:16**: feat: add category A and B traffic test questions
 - **2022-04-13 22:16**: fix: update DOTM Nepal license syllabus questions
 - **2022-04-14 15:15**: style: enhance traffic sign card layout and responsiveness
+- **2022-04-14 20:14**: fix: correct color specifications for mandatory traffic signs
