@@ -1,4 +1,3 @@
-- **2022-03-01 10:27**: docs: improve code comments and API documentation
 - **2022-03-01 20:43**: chore: organize assets and image directory structure
 - **2022-03-02 15:01**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-03 11:09**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-04-14 20:14**: fix: correct color specifications for mandatory traffic signs
 - **2022-04-15 09:23**: feat: add instant feedback and explanation on answer selection
 - **2022-04-15 19:27**: docs: update traffic signals catalog documentation
+- **2022-04-15 22:07**: fix: adjust passing score threshold according to new rules
