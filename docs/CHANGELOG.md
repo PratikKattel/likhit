@@ -1,4 +1,3 @@
-- **2022-03-03 13:59**: fix: resolve layout shift during question transitions
 - **2022-03-03 20:44**: feat: add instant feedback and explanation on answer selection
 - **2022-03-04 09:57**: perf: index question IDs for rapid lookup
 - **2022-03-04 17:24**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-04-16 14:02**: docs: update traffic signals catalog documentation
 - **2022-04-17 11:34**: feat: implement timer and score calculation for mock test
 - **2022-04-18 10:04**: refactor: restructure question data schema for faster loading
+- **2022-04-18 17:22**: chore: organize assets and image directory structure
