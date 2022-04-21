@@ -1,4 +1,3 @@
-- **2022-03-04 18:17**: style: polish typography and Nepali Unicode font rendering
 - **2022-03-04 18:41**: perf: optimize image caching for traffic sign assets
 - **2022-03-05 11:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-03-05 19:39**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2022-04-19 09:47**: docs: add instructions for Nepali driving license written exam
 - **2022-04-20 20:06**: chore: format code style and clean up redundant variables
 - **2022-04-21 11:40**: feat: add regulatory traffic signs SVG graphics
+- **2022-04-21 20:41**: chore: format code style and clean up redundant variables
