@@ -1,4 +1,3 @@
-- **2022-03-05 19:39**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-06 14:15**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-06 21:24**: docs: update README with setup instructions and feature list
 - **2022-03-07 14:43**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-04-21 20:41**: chore: format code style and clean up redundant variables
 - **2022-04-22 11:22**: refactor: restructure question data schema for faster loading
 - **2022-04-22 15:49**: feat: add instant feedback and explanation on answer selection
+- **2022-04-23 19:21**: perf: index question IDs for rapid lookup
