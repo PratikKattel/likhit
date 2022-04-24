@@ -1,4 +1,3 @@
-- **2022-03-06 21:24**: docs: update README with setup instructions and feature list
 - **2022-03-07 14:43**: refactor: modularize traffic app logic and event listeners
 - **2022-03-08 15:18**: fix: typo in Nepali road safety regulations question
 - **2022-03-09 12:58**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-04-22 15:49**: feat: add instant feedback and explanation on answer selection
 - **2022-04-23 19:21**: perf: index question IDs for rapid lookup
 - **2022-04-23 19:37**: perf: lazy load signal graphics and question assets
+- **2022-04-24 09:33**: docs: improve code comments and API documentation
