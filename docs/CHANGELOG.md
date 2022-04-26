@@ -1,4 +1,3 @@
-- **2022-03-09 12:58**: docs: update traffic signals catalog documentation
 - **2022-03-10 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-03-10 19:19**: docs: update README with setup instructions and feature list
 - **2022-03-11 22:22**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-04-24 09:33**: docs: improve code comments and API documentation
 - **2022-04-25 12:09**: docs: update README with setup instructions and feature list
 - **2022-04-25 19:07**: feat: add result summary with passing threshold analysis
+- **2022-04-26 17:27**: perf: optimize image caching for traffic sign assets
