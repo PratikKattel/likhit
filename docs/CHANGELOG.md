@@ -1,4 +1,3 @@
-- **2022-03-11 22:22**: feat: add category A and B traffic test questions
 - **2022-03-12 20:03**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-12 20:20**: feat: add category-specific practice modes
 - **2022-03-13 11:36**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-04-26 17:27**: perf: optimize image caching for traffic sign assets
 - **2022-04-27 14:38**: chore: format code style and clean up redundant variables
 - **2022-04-27 18:43**: chore: update project metadata and build configuration
+- **2022-04-28 14:00**: feat: add result summary with passing threshold analysis
