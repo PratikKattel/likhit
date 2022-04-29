@@ -1,4 +1,3 @@
-- **2022-03-12 20:03**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-12 20:20**: feat: add category-specific practice modes
 - **2022-03-13 11:36**: feat: add keyboard navigation shortcuts for question selection
 - **2022-03-13 22:20**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-04-27 14:38**: chore: format code style and clean up redundant variables
 - **2022-04-27 18:43**: chore: update project metadata and build configuration
 - **2022-04-28 14:00**: feat: add result summary with passing threshold analysis
+- **2022-04-29 11:15**: style: polish typography and Nepali Unicode font rendering
