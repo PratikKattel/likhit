@@ -1,4 +1,3 @@
-- **2022-03-15 18:37**: chore: format code style and clean up redundant variables
 - **2022-03-16 10:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-03-16 20:35**: refactor: restructure question data schema for faster loading
 - **2022-03-17 20:01**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-05-01 12:30**: perf: optimize image caching for traffic sign assets
 - **2022-05-01 18:33**: feat: add keyboard navigation shortcuts for question selection
 - **2022-05-01 18:52**: style: improve dark/light mode and mobile UI responsiveness
+- **2022-05-01 21:14**: chore: format code style and clean up redundant variables
