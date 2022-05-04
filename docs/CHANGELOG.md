@@ -1,4 +1,3 @@
-- **2022-03-18 13:16**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-03-19 18:37**: perf: index question IDs for rapid lookup
 - **2022-03-19 19:41**: refactor: modularize traffic app logic and event listeners
 - **2022-03-20 13:01**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-05-02 09:46**: perf: index question IDs for rapid lookup
 - **2022-05-02 14:32**: docs: update README with setup instructions and feature list
 - **2022-05-03 10:09**: chore: update questions database with recent DOTM updates
+- **2022-05-04 16:24**: fix: update DOTM Nepal license syllabus questions
