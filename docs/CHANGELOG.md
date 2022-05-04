@@ -1,4 +1,3 @@
-- **2022-03-19 19:41**: refactor: modularize traffic app logic and event listeners
 - **2022-03-20 13:01**: fix: adjust passing score threshold according to new rules
 - **2022-03-21 10:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-03-22 10:59**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-05-03 10:09**: chore: update questions database with recent DOTM updates
 - **2022-05-04 16:24**: fix: update DOTM Nepal license syllabus questions
 - **2022-05-04 17:02**: perf: optimize image caching for traffic sign assets
+- **2022-05-04 17:14**: refactor: clean up unused CSS classes and optimize stylesheet
