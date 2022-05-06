@@ -1,4 +1,3 @@
-- **2022-03-22 10:59**: feat: add keyboard navigation shortcuts for question selection
 - **2022-03-22 17:40**: perf: index question IDs for rapid lookup
 - **2022-03-23 11:40**: refactor: optimize SVG rendering for road signs
 - **2022-03-24 16:05**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-05-04 17:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-05-05 10:46**: feat: implement timer and score calculation for mock test
 - **2022-05-05 11:30**: feat: add warning signs and informational road signs
+- **2022-05-06 16:32**: refactor: clean up unused CSS classes and optimize stylesheet
