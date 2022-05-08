@@ -1,4 +1,3 @@
-- **2022-03-24 16:05**: docs: improve code comments and API documentation
 - **2022-03-24 17:25**: perf: lazy load signal graphics and question assets
 - **2022-03-24 20:51**: fix: prevent option re-selection after submitting answer
 - **2022-03-25 13:04**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2022-05-06 16:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-05-07 13:21**: feat: add warning signs and informational road signs
 - **2022-05-07 15:55**: chore: organize assets and image directory structure
+- **2022-05-08 15:54**: fix: resolve layout shift during question transitions
