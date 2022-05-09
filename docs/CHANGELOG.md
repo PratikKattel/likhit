@@ -1,4 +1,3 @@
-- **2022-03-24 20:51**: fix: prevent option re-selection after submitting answer
 - **2022-03-25 13:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-03-25 14:56**: fix: resolve layout shift during question transitions
 - **2022-03-26 16:29**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-05-07 15:55**: chore: organize assets and image directory structure
 - **2022-05-08 15:54**: fix: resolve layout shift during question transitions
 - **2022-05-08 16:36**: fix: typo in Nepali road safety regulations question
+- **2022-05-09 10:28**: feat: add warning signs and informational road signs
