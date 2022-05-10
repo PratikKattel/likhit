@@ -1,4 +1,3 @@
-- **2022-03-25 14:56**: fix: resolve layout shift during question transitions
 - **2022-03-26 16:29**: refactor: modularize traffic app logic and event listeners
 - **2022-03-26 19:59**: feat: add result summary with passing threshold analysis
 - **2022-03-26 20:56**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2022-05-08 16:36**: fix: typo in Nepali road safety regulations question
 - **2022-05-09 10:28**: feat: add warning signs and informational road signs
 - **2022-05-09 15:25**: perf: optimize image caching for traffic sign assets
+- **2022-05-10 16:01**: feat: add warning signs and informational road signs
