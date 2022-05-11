@@ -1,4 +1,3 @@
-- **2022-03-26 19:59**: feat: add result summary with passing threshold analysis
 - **2022-03-26 20:56**: test: verify question extraction script against exam PDF
 - **2022-03-27 17:48**: docs: add instructions for Nepali driving license written exam
 - **2022-03-28 16:38**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-05-09 15:25**: perf: optimize image caching for traffic sign assets
 - **2022-05-10 16:01**: feat: add warning signs and informational road signs
 - **2022-05-10 18:28**: chore: format code style and clean up redundant variables
+- **2022-05-11 11:34**: style: polish typography and Nepali Unicode font rendering
