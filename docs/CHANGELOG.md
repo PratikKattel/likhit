@@ -1,4 +1,3 @@
-- **2022-03-27 17:48**: docs: add instructions for Nepali driving license written exam
 - **2022-03-28 16:38**: docs: improve code comments and API documentation
 - **2022-03-28 21:31**: refactor: restructure question data schema for faster loading
 - **2022-03-29 09:56**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-05-10 18:28**: chore: format code style and clean up redundant variables
 - **2022-05-11 11:34**: style: polish typography and Nepali Unicode font rendering
 - **2022-05-12 12:00**: fix: prevent option re-selection after submitting answer
+- **2022-05-12 17:28**: fix: typo in Nepali road safety regulations question
