@@ -1,4 +1,3 @@
-- **2022-03-28 21:31**: refactor: restructure question data schema for faster loading
 - **2022-03-29 09:56**: feat: implement timer and score calculation for mock test
 - **2022-03-29 11:39**: feat: add search and filter by sign category
 - **2022-03-29 13:01**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-05-12 12:00**: fix: prevent option re-selection after submitting answer
 - **2022-05-12 17:28**: fix: typo in Nepali road safety regulations question
 - **2022-05-13 16:51**: style: improve dark/light mode and mobile UI responsiveness
+- **2022-05-13 19:52**: docs: update traffic signals catalog documentation
