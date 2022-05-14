@@ -1,4 +1,3 @@
-- **2022-03-29 11:39**: feat: add search and filter by sign category
 - **2022-03-29 13:01**: docs: update README with setup instructions and feature list
 - **2022-03-30 13:08**: style: enhance traffic sign card layout and responsiveness
 - **2022-03-30 17:02**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2022-05-13 16:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-05-13 19:52**: docs: update traffic signals catalog documentation
 - **2022-05-14 17:19**: feat: add regulatory traffic signs SVG graphics
+- **2022-05-14 20:55**: feat: support multiple choice questions for motorcycle category
