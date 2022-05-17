@@ -1,4 +1,3 @@
-- **2022-03-31 19:39**: fix: update DOTM Nepal license syllabus questions
 - **2022-03-31 19:56**: fix: resolve layout shift during question transitions
 - **2022-04-01 14:04**: feat: add category A and B traffic test questions
 - **2022-04-02 14:19**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-05-15 17:09**: feat: support multiple choice questions for motorcycle category
 - **2022-05-16 14:52**: fix: prevent option re-selection after submitting answer
 - **2022-05-16 18:44**: chore: format code style and clean up redundant variables
+- **2022-05-17 21:27**: docs: add instructions for Nepali driving license written exam
