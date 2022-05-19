@@ -1,4 +1,3 @@
-- **2022-04-01 14:04**: feat: add category A and B traffic test questions
 - **2022-04-02 14:19**: perf: lazy load signal graphics and question assets
 - **2022-04-02 18:55**: refactor: restructure question data schema for faster loading
 - **2022-04-03 21:24**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2022-05-16 18:44**: chore: format code style and clean up redundant variables
 - **2022-05-17 21:27**: docs: add instructions for Nepali driving license written exam
 - **2022-05-18 19:19**: test: verify question extraction script against exam PDF
+- **2022-05-19 17:45**: docs: update traffic signals catalog documentation
