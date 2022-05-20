@@ -1,4 +1,3 @@
-- **2022-04-02 18:55**: refactor: restructure question data schema for faster loading
 - **2022-04-03 21:24**: docs: add instructions for Nepali driving license written exam
 - **2022-04-04 15:35**: feat: add instant feedback and explanation on answer selection
 - **2022-04-04 18:43**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-05-18 19:19**: test: verify question extraction script against exam PDF
 - **2022-05-19 17:45**: docs: update traffic signals catalog documentation
 - **2022-05-20 11:59**: feat: add search and filter by sign category
+- **2022-05-20 19:07**: chore: organize assets and image directory structure
