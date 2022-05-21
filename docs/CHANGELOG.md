@@ -1,4 +1,3 @@
-- **2022-04-03 21:24**: docs: add instructions for Nepali driving license written exam
 - **2022-04-04 15:35**: feat: add instant feedback and explanation on answer selection
 - **2022-04-04 18:43**: fix: resolve layout shift during question transitions
 - **2022-04-05 11:03**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-05-19 17:45**: docs: update traffic signals catalog documentation
 - **2022-05-20 11:59**: feat: add search and filter by sign category
 - **2022-05-20 19:07**: chore: organize assets and image directory structure
+- **2022-05-21 10:44**: feat: add result summary with passing threshold analysis
