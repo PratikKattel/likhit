@@ -1,4 +1,3 @@
-- **2022-04-05 11:03**: chore: update project metadata and build configuration
 - **2022-04-05 15:12**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-04-05 19:49**: feat: add keyboard navigation shortcuts for question selection
 - **2022-04-06 10:43**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-05-21 10:44**: feat: add result summary with passing threshold analysis
 - **2022-05-21 11:35**: refactor: optimize SVG rendering for road signs
 - **2022-05-22 11:22**: feat: implement timer and score calculation for mock test
+- **2022-05-23 13:36**: docs: update README with setup instructions and feature list
