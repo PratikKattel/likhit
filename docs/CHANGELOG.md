@@ -1,4 +1,3 @@
-- **2022-04-07 21:08**: feat: add instant feedback and explanation on answer selection
 - **2022-04-08 18:57**: feat: add warning signs and informational road signs
 - **2022-04-09 11:36**: docs: update README with setup instructions and feature list
 - **2022-04-09 12:43**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-05-25 18:12**: fix: prevent option re-selection after submitting answer
 - **2022-05-26 11:39**: refactor: modularize traffic app logic and event listeners
 - **2022-05-26 13:19**: feat: add search and filter by sign category
+- **2022-05-26 19:10**: feat: add warning signs and informational road signs
