@@ -1,4 +1,3 @@
-- **2022-04-06 10:43**: docs: update traffic signals catalog documentation
 - **2022-04-07 12:17**: fix: resolve layout shift during question transitions
 - **2022-04-07 21:08**: feat: add instant feedback and explanation on answer selection
 - **2022-04-08 18:57**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-05-23 13:36**: docs: update README with setup instructions and feature list
 - **2022-05-24 18:42**: chore: update questions database with recent DOTM updates
 - **2022-05-25 18:12**: fix: prevent option re-selection after submitting answer
+- **2022-05-26 11:39**: refactor: modularize traffic app logic and event listeners
