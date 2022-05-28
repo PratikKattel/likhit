@@ -1,4 +1,3 @@
-- **2022-04-09 12:43**: fix: correct color specifications for mandatory traffic signs
 - **2022-04-10 10:58**: docs: update README with setup instructions and feature list
 - **2022-04-11 11:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-04-12 18:13**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-05-26 19:10**: feat: add warning signs and informational road signs
 - **2022-05-26 20:47**: chore: format code style and clean up redundant variables
 - **2022-05-27 10:39**: feat: add keyboard navigation shortcuts for question selection
+- **2022-05-28 17:57**: refactor: optimize SVG rendering for road signs
