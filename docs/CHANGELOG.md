@@ -1,4 +1,3 @@
-- **2022-04-11 11:03**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-04-12 18:13**: fix: resolve layout shift during question transitions
 - **2022-04-13 10:35**: fix: correct color specifications for mandatory traffic signs
 - **2022-04-13 21:16**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-05-27 10:39**: feat: add keyboard navigation shortcuts for question selection
 - **2022-05-28 17:57**: refactor: optimize SVG rendering for road signs
 - **2022-05-29 12:26**: feat: add category-specific practice modes
+- **2022-05-29 22:09**: feat: implement timer and score calculation for mock test
