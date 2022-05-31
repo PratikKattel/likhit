@@ -1,4 +1,3 @@
-- **2022-04-13 21:16**: feat: add category A and B traffic test questions
 - **2022-04-13 22:16**: fix: update DOTM Nepal license syllabus questions
 - **2022-04-14 15:15**: style: enhance traffic sign card layout and responsiveness
 - **2022-04-14 20:14**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-05-29 22:09**: feat: implement timer and score calculation for mock test
 - **2022-05-30 12:47**: chore: organize assets and image directory structure
 - **2022-05-30 15:21**: fix: update DOTM Nepal license syllabus questions
+- **2022-05-31 17:22**: feat: add search and filter by sign category
