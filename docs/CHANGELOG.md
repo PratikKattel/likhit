@@ -1,4 +1,3 @@
-- **2022-04-13 22:16**: fix: update DOTM Nepal license syllabus questions
 - **2022-04-14 15:15**: style: enhance traffic sign card layout and responsiveness
 - **2022-04-14 20:14**: fix: correct color specifications for mandatory traffic signs
 - **2022-04-15 09:23**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-05-30 12:47**: chore: organize assets and image directory structure
 - **2022-05-30 15:21**: fix: update DOTM Nepal license syllabus questions
 - **2022-05-31 17:22**: feat: add search and filter by sign category
+- **2022-06-01 11:52**: feat: add warning signs and informational road signs
