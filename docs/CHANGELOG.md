@@ -1,4 +1,3 @@
-- **2022-04-14 20:14**: fix: correct color specifications for mandatory traffic signs
 - **2022-04-15 09:23**: feat: add instant feedback and explanation on answer selection
 - **2022-04-15 19:27**: docs: update traffic signals catalog documentation
 - **2022-04-15 22:07**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-05-31 17:22**: feat: add search and filter by sign category
 - **2022-06-01 11:52**: feat: add warning signs and informational road signs
 - **2022-06-01 15:25**: perf: index question IDs for rapid lookup
+- **2022-06-01 18:32**: feat: implement timer and score calculation for mock test
