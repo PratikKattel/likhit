@@ -1,4 +1,3 @@
-- **2022-04-15 09:23**: feat: add instant feedback and explanation on answer selection
 - **2022-04-15 19:27**: docs: update traffic signals catalog documentation
 - **2022-04-15 22:07**: fix: adjust passing score threshold according to new rules
 - **2022-04-16 14:02**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-06-01 11:52**: feat: add warning signs and informational road signs
 - **2022-06-01 15:25**: perf: index question IDs for rapid lookup
 - **2022-06-01 18:32**: feat: implement timer and score calculation for mock test
+- **2022-06-02 19:27**: feat: support multiple choice questions for motorcycle category
