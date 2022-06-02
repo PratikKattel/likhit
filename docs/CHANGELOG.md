@@ -1,4 +1,3 @@
-- **2022-04-15 19:27**: docs: update traffic signals catalog documentation
 - **2022-04-15 22:07**: fix: adjust passing score threshold according to new rules
 - **2022-04-16 14:02**: docs: update traffic signals catalog documentation
 - **2022-04-17 11:34**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-06-01 15:25**: perf: index question IDs for rapid lookup
 - **2022-06-01 18:32**: feat: implement timer and score calculation for mock test
 - **2022-06-02 19:27**: feat: support multiple choice questions for motorcycle category
+- **2022-06-02 20:06**: fix: update DOTM Nepal license syllabus questions
