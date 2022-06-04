@@ -1,4 +1,3 @@
-- **2022-04-16 14:02**: docs: update traffic signals catalog documentation
 - **2022-04-17 11:34**: feat: implement timer and score calculation for mock test
 - **2022-04-18 10:04**: refactor: restructure question data schema for faster loading
 - **2022-04-18 17:22**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2022-06-02 19:27**: feat: support multiple choice questions for motorcycle category
 - **2022-06-02 20:06**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-03 13:34**: perf: lazy load signal graphics and question assets
+- **2022-06-04 10:23**: refactor: modularize traffic app logic and event listeners
