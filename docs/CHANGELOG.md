@@ -1,4 +1,3 @@
-- **2022-04-18 17:22**: chore: organize assets and image directory structure
 - **2022-04-19 09:47**: docs: add instructions for Nepali driving license written exam
 - **2022-04-20 20:06**: chore: format code style and clean up redundant variables
 - **2022-04-21 11:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2022-06-04 10:23**: refactor: modularize traffic app logic and event listeners
 - **2022-06-04 12:45**: chore: format code style and clean up redundant variables
 - **2022-06-05 18:23**: chore: organize assets and image directory structure
+- **2022-06-05 20:48**: feat: add instant feedback and explanation on answer selection
