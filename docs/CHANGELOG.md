@@ -1,4 +1,3 @@
-- **2022-04-20 20:06**: chore: format code style and clean up redundant variables
 - **2022-04-21 11:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-04-21 20:41**: chore: format code style and clean up redundant variables
 - **2022-04-22 11:22**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2022-06-05 18:23**: chore: organize assets and image directory structure
 - **2022-06-05 20:48**: feat: add instant feedback and explanation on answer selection
 - **2022-06-06 19:30**: feat: add keyboard navigation shortcuts for question selection
+- **2022-06-07 10:00**: docs: improve code comments and API documentation
