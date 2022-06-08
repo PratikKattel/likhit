@@ -1,4 +1,3 @@
-- **2022-04-21 20:41**: chore: format code style and clean up redundant variables
 - **2022-04-22 11:22**: refactor: restructure question data schema for faster loading
 - **2022-04-22 15:49**: feat: add instant feedback and explanation on answer selection
 - **2022-04-23 19:21**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-06-06 19:30**: feat: add keyboard navigation shortcuts for question selection
 - **2022-06-07 10:00**: docs: improve code comments and API documentation
 - **2022-06-07 19:26**: refactor: restructure question data schema for faster loading
+- **2022-06-08 16:37**: feat: add result summary with passing threshold analysis
