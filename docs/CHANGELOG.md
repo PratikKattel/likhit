@@ -1,4 +1,3 @@
-- **2022-04-22 11:22**: refactor: restructure question data schema for faster loading
 - **2022-04-22 15:49**: feat: add instant feedback and explanation on answer selection
 - **2022-04-23 19:21**: perf: index question IDs for rapid lookup
 - **2022-04-23 19:37**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-06-07 10:00**: docs: improve code comments and API documentation
 - **2022-06-07 19:26**: refactor: restructure question data schema for faster loading
 - **2022-06-08 16:37**: feat: add result summary with passing threshold analysis
+- **2022-06-09 17:11**: fix: correct color specifications for mandatory traffic signs
