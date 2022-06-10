@@ -1,4 +1,3 @@
-- **2022-04-23 19:21**: perf: index question IDs for rapid lookup
 - **2022-04-23 19:37**: perf: lazy load signal graphics and question assets
 - **2022-04-24 09:33**: docs: improve code comments and API documentation
 - **2022-04-25 12:09**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-06-08 16:37**: feat: add result summary with passing threshold analysis
 - **2022-06-09 17:11**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-09 20:36**: chore: organize assets and image directory structure
+- **2022-06-10 09:00**: feat: add regulatory traffic signs SVG graphics
