@@ -1,4 +1,3 @@
-- **2022-04-25 12:09**: docs: update README with setup instructions and feature list
 - **2022-04-25 19:07**: feat: add result summary with passing threshold analysis
 - **2022-04-26 17:27**: perf: optimize image caching for traffic sign assets
 - **2022-04-27 14:38**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-06-10 09:00**: feat: add regulatory traffic signs SVG graphics
 - **2022-06-10 11:43**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-11 10:57**: style: enhance traffic sign card layout and responsiveness
+- **2022-06-11 18:33**: chore: update questions database with recent DOTM updates
