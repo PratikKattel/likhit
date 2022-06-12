@@ -1,4 +1,3 @@
-- **2022-04-25 19:07**: feat: add result summary with passing threshold analysis
 - **2022-04-26 17:27**: perf: optimize image caching for traffic sign assets
 - **2022-04-27 14:38**: chore: format code style and clean up redundant variables
 - **2022-04-27 18:43**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-06-10 11:43**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-11 10:57**: style: enhance traffic sign card layout and responsiveness
 - **2022-06-11 18:33**: chore: update questions database with recent DOTM updates
+- **2022-06-12 09:55**: feat: add search and filter by sign category
