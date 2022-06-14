@@ -1,4 +1,3 @@
-- **2022-04-28 14:00**: feat: add result summary with passing threshold analysis
 - **2022-04-29 11:15**: style: polish typography and Nepali Unicode font rendering
 - **2022-04-30 15:36**: chore: update questions database with recent DOTM updates
 - **2022-05-01 12:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-06-13 09:20**: docs: update README with setup instructions and feature list
 - **2022-06-13 12:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-06-14 12:28**: chore: update questions database with recent DOTM updates
+- **2022-06-14 14:57**: docs: update traffic signals catalog documentation
