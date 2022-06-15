@@ -1,4 +1,3 @@
-- **2022-04-30 15:36**: chore: update questions database with recent DOTM updates
 - **2022-05-01 12:30**: perf: optimize image caching for traffic sign assets
 - **2022-05-01 18:33**: feat: add keyboard navigation shortcuts for question selection
 - **2022-05-01 18:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2022-06-14 12:28**: chore: update questions database with recent DOTM updates
 - **2022-06-14 14:57**: docs: update traffic signals catalog documentation
 - **2022-06-14 15:15**: fix: update DOTM Nepal license syllabus questions
+- **2022-06-15 12:16**: feat: add category-specific practice modes
