@@ -1,4 +1,3 @@
-- **2022-05-01 18:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-05-01 21:14**: chore: format code style and clean up redundant variables
 - **2022-05-02 09:46**: perf: index question IDs for rapid lookup
 - **2022-05-02 14:32**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-06-15 12:16**: feat: add category-specific practice modes
 - **2022-06-16 16:21**: fix: typo in Nepali road safety regulations question
 - **2022-06-17 14:07**: feat: add search and filter by sign category
+- **2022-06-17 14:18**: feat: add instant feedback and explanation on answer selection
