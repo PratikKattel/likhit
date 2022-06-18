@@ -1,4 +1,3 @@
-- **2022-05-01 21:14**: chore: format code style and clean up redundant variables
 - **2022-05-02 09:46**: perf: index question IDs for rapid lookup
 - **2022-05-02 14:32**: docs: update README with setup instructions and feature list
 - **2022-05-03 10:09**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-06-16 16:21**: fix: typo in Nepali road safety regulations question
 - **2022-06-17 14:07**: feat: add search and filter by sign category
 - **2022-06-17 14:18**: feat: add instant feedback and explanation on answer selection
+- **2022-06-18 21:06**: feat: support multiple choice questions for motorcycle category
