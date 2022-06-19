@@ -1,4 +1,3 @@
-- **2022-05-02 14:32**: docs: update README with setup instructions and feature list
 - **2022-05-03 10:09**: chore: update questions database with recent DOTM updates
 - **2022-05-04 16:24**: fix: update DOTM Nepal license syllabus questions
 - **2022-05-04 17:02**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-06-17 14:18**: feat: add instant feedback and explanation on answer selection
 - **2022-06-18 21:06**: feat: support multiple choice questions for motorcycle category
 - **2022-06-18 21:32**: refactor: optimize SVG rendering for road signs
+- **2022-06-19 10:26**: feat: add search and filter by sign category
