@@ -1,4 +1,3 @@
-- **2022-05-04 17:02**: perf: optimize image caching for traffic sign assets
 - **2022-05-04 17:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-05-05 10:46**: feat: implement timer and score calculation for mock test
 - **2022-05-05 11:30**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-06-19 10:26**: feat: add search and filter by sign category
 - **2022-06-19 12:30**: test: verify question extraction script against exam PDF
 - **2022-06-20 18:39**: refactor: restructure question data schema for faster loading
+- **2022-06-20 20:32**: perf: index question IDs for rapid lookup
