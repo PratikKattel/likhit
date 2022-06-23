@@ -1,4 +1,3 @@
-- **2022-05-05 11:30**: feat: add warning signs and informational road signs
 - **2022-05-06 16:32**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-05-07 13:21**: feat: add warning signs and informational road signs
 - **2022-05-07 15:55**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2022-06-20 20:32**: perf: index question IDs for rapid lookup
 - **2022-06-21 18:38**: refactor: optimize SVG rendering for road signs
 - **2022-06-22 18:21**: fix: update DOTM Nepal license syllabus questions
+- **2022-06-23 20:59**: feat: add keyboard navigation shortcuts for question selection
