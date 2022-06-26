@@ -1,4 +1,3 @@
-- **2022-05-07 15:55**: chore: organize assets and image directory structure
 - **2022-05-08 15:54**: fix: resolve layout shift during question transitions
 - **2022-05-08 16:36**: fix: typo in Nepali road safety regulations question
 - **2022-05-09 10:28**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-06-23 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2022-06-24 11:09**: feat: add category A and B traffic test questions
 - **2022-06-25 12:26**: refactor: modularize traffic app logic and event listeners
+- **2022-06-26 11:16**: feat: implement timer and score calculation for mock test
