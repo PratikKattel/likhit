@@ -1,4 +1,3 @@
-- **2022-05-09 10:28**: feat: add warning signs and informational road signs
 - **2022-05-09 15:25**: perf: optimize image caching for traffic sign assets
 - **2022-05-10 16:01**: feat: add warning signs and informational road signs
 - **2022-05-10 18:28**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-06-26 11:16**: feat: implement timer and score calculation for mock test
 - **2022-06-26 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-06-27 10:52**: fix: typo in Nepali road safety regulations question
+- **2022-06-27 11:56**: chore: update questions database with recent DOTM updates
