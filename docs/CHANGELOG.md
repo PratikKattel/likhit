@@ -1,4 +1,3 @@
-- **2022-05-12 12:00**: fix: prevent option re-selection after submitting answer
 - **2022-05-12 17:28**: fix: typo in Nepali road safety regulations question
 - **2022-05-13 16:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-05-13 19:52**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-06-28 10:16**: docs: add instructions for Nepali driving license written exam
 - **2022-06-28 18:36**: chore: update questions database with recent DOTM updates
 - **2022-06-29 11:12**: fix: correct color specifications for mandatory traffic signs
+- **2022-06-30 11:35**: fix: prevent option re-selection after submitting answer
