@@ -1,4 +1,3 @@
-- **2022-05-14 17:19**: feat: add regulatory traffic signs SVG graphics
 - **2022-05-14 20:55**: feat: support multiple choice questions for motorcycle category
 - **2022-05-15 17:09**: feat: support multiple choice questions for motorcycle category
 - **2022-05-16 14:52**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2022-06-30 18:07**: chore: update questions database with recent DOTM updates
 - **2022-06-30 22:27**: fix: correct color specifications for mandatory traffic signs
 - **2022-07-01 17:49**: docs: update traffic signals catalog documentation
+- **2022-07-02 15:38**: style: improve dark/light mode and mobile UI responsiveness
