@@ -1,4 +1,3 @@
-- **2022-05-15 17:09**: feat: support multiple choice questions for motorcycle category
 - **2022-05-16 14:52**: fix: prevent option re-selection after submitting answer
 - **2022-05-16 18:44**: chore: format code style and clean up redundant variables
 - **2022-05-17 21:27**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2022-07-01 17:49**: docs: update traffic signals catalog documentation
 - **2022-07-02 15:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-07-03 17:39**: chore: update questions database with recent DOTM updates
+- **2022-07-03 18:15**: feat: add instant feedback and explanation on answer selection
