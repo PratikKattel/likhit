@@ -1,4 +1,3 @@
-- **2022-05-17 21:27**: docs: add instructions for Nepali driving license written exam
 - **2022-05-18 19:19**: test: verify question extraction script against exam PDF
 - **2022-05-19 17:45**: docs: update traffic signals catalog documentation
 - **2022-05-20 11:59**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-07-03 18:15**: feat: add instant feedback and explanation on answer selection
 - **2022-07-04 20:59**: feat: add category-specific practice modes
 - **2022-07-05 12:17**: docs: improve code comments and API documentation
+- **2022-07-05 13:22**: docs: improve code comments and API documentation
