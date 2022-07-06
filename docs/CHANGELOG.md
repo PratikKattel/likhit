@@ -1,4 +1,3 @@
-- **2022-05-21 11:35**: refactor: optimize SVG rendering for road signs
 - **2022-05-22 11:22**: feat: implement timer and score calculation for mock test
 - **2022-05-23 13:36**: docs: update README with setup instructions and feature list
 - **2022-05-24 18:42**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-07-06 17:31**: chore: update questions database with recent DOTM updates
 - **2022-07-06 19:22**: docs: update README with setup instructions and feature list
 - **2022-07-06 19:47**: docs: improve code comments and API documentation
+- **2022-07-06 22:11**: perf: lazy load signal graphics and question assets
