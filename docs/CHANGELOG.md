@@ -1,4 +1,3 @@
-- **2022-05-20 11:59**: feat: add search and filter by sign category
 - **2022-05-20 19:07**: chore: organize assets and image directory structure
 - **2022-05-21 10:44**: feat: add result summary with passing threshold analysis
 - **2022-05-21 11:35**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-07-05 13:22**: docs: improve code comments and API documentation
 - **2022-07-05 14:39**: docs: add instructions for Nepali driving license written exam
 - **2022-07-05 16:45**: fix: update DOTM Nepal license syllabus questions
+- **2022-07-06 17:31**: chore: update questions database with recent DOTM updates
