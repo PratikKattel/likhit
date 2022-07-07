@@ -1,4 +1,3 @@
-- **2022-05-22 11:22**: feat: implement timer and score calculation for mock test
 - **2022-05-23 13:36**: docs: update README with setup instructions and feature list
 - **2022-05-24 18:42**: chore: update questions database with recent DOTM updates
 - **2022-05-25 18:12**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2022-07-06 19:22**: docs: update README with setup instructions and feature list
 - **2022-07-06 19:47**: docs: improve code comments and API documentation
 - **2022-07-06 22:11**: perf: lazy load signal graphics and question assets
+- **2022-07-07 22:14**: chore: format code style and clean up redundant variables
