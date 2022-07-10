@@ -1,4 +1,3 @@
-- **2022-05-25 18:12**: fix: prevent option re-selection after submitting answer
 - **2022-05-26 11:39**: refactor: modularize traffic app logic and event listeners
 - **2022-05-26 13:19**: feat: add search and filter by sign category
 - **2022-05-26 19:10**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-07-07 22:14**: chore: format code style and clean up redundant variables
 - **2022-07-08 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2022-07-09 20:06**: refactor: optimize SVG rendering for road signs
+- **2022-07-10 14:32**: feat: add search and filter by sign category
