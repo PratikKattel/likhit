@@ -1,4 +1,3 @@
-- **2022-05-26 20:47**: chore: format code style and clean up redundant variables
 - **2022-05-27 10:39**: feat: add keyboard navigation shortcuts for question selection
 - **2022-05-28 17:57**: refactor: optimize SVG rendering for road signs
 - **2022-05-29 12:26**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-07-10 14:46**: fix: resolve layout shift during question transitions
 - **2022-07-10 17:21**: refactor: optimize SVG rendering for road signs
 - **2022-07-11 09:40**: chore: organize assets and image directory structure
+- **2022-07-12 11:07**: feat: add result summary with passing threshold analysis
