@@ -1,4 +1,3 @@
-- **2022-05-29 12:26**: feat: add category-specific practice modes
 - **2022-05-29 22:09**: feat: implement timer and score calculation for mock test
 - **2022-05-30 12:47**: chore: organize assets and image directory structure
 - **2022-05-30 15:21**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-07-12 11:07**: feat: add result summary with passing threshold analysis
 - **2022-07-12 12:16**: style: polish typography and Nepali Unicode font rendering
 - **2022-07-12 12:57**: refactor: restructure question data schema for faster loading
+- **2022-07-13 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
