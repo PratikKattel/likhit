@@ -1,4 +1,3 @@
-- **2022-05-30 12:47**: chore: organize assets and image directory structure
 - **2022-05-30 15:21**: fix: update DOTM Nepal license syllabus questions
 - **2022-05-31 17:22**: feat: add search and filter by sign category
 - **2022-06-01 11:52**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-07-12 12:57**: refactor: restructure question data schema for faster loading
 - **2022-07-13 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-07-14 13:03**: test: verify question extraction script against exam PDF
+- **2022-07-14 15:48**: refactor: modularize traffic app logic and event listeners
