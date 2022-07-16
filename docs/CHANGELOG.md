@@ -1,4 +1,3 @@
-- **2022-06-01 11:52**: feat: add warning signs and informational road signs
 - **2022-06-01 15:25**: perf: index question IDs for rapid lookup
 - **2022-06-01 18:32**: feat: implement timer and score calculation for mock test
 - **2022-06-02 19:27**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-07-14 15:48**: refactor: modularize traffic app logic and event listeners
 - **2022-07-15 12:15**: feat: add category-specific practice modes
 - **2022-07-15 17:53**: fix: adjust passing score threshold according to new rules
+- **2022-07-16 14:41**: docs: add instructions for Nepali driving license written exam
