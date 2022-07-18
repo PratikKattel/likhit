@@ -1,4 +1,3 @@
-- **2022-06-01 18:32**: feat: implement timer and score calculation for mock test
 - **2022-06-02 19:27**: feat: support multiple choice questions for motorcycle category
 - **2022-06-02 20:06**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-03 13:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-07-15 17:53**: fix: adjust passing score threshold according to new rules
 - **2022-07-16 14:41**: docs: add instructions for Nepali driving license written exam
 - **2022-07-17 13:51**: fix: resolve layout shift during question transitions
+- **2022-07-18 10:34**: chore: format code style and clean up redundant variables
