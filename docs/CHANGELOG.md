@@ -1,4 +1,3 @@
-- **2022-06-02 20:06**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-03 13:34**: perf: lazy load signal graphics and question assets
 - **2022-06-04 10:23**: refactor: modularize traffic app logic and event listeners
 - **2022-06-04 12:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-07-17 13:51**: fix: resolve layout shift during question transitions
 - **2022-07-18 10:34**: chore: format code style and clean up redundant variables
 - **2022-07-18 17:07**: feat: add category A and B traffic test questions
+- **2022-07-19 20:16**: feat: add category A and B traffic test questions
