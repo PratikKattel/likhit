@@ -1,4 +1,3 @@
-- **2022-06-04 12:45**: chore: format code style and clean up redundant variables
 - **2022-06-05 18:23**: chore: organize assets and image directory structure
 - **2022-06-05 20:48**: feat: add instant feedback and explanation on answer selection
 - **2022-06-06 19:30**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-07-19 20:16**: feat: add category A and B traffic test questions
 - **2022-07-19 21:07**: feat: add result summary with passing threshold analysis
 - **2022-07-19 22:07**: docs: update README with setup instructions and feature list
+- **2022-07-20 21:11**: perf: lazy load signal graphics and question assets
