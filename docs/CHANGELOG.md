@@ -1,4 +1,3 @@
-- **2022-06-07 10:00**: docs: improve code comments and API documentation
 - **2022-06-07 19:26**: refactor: restructure question data schema for faster loading
 - **2022-06-08 16:37**: feat: add result summary with passing threshold analysis
 - **2022-06-09 17:11**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-07-20 22:16**: fix: correct color specifications for mandatory traffic signs
 - **2022-07-21 14:15**: docs: update traffic signals catalog documentation
 - **2022-07-21 15:46**: style: enhance traffic sign card layout and responsiveness
+- **2022-07-21 21:24**: style: improve dark/light mode and mobile UI responsiveness
