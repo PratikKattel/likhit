@@ -1,4 +1,3 @@
-- **2022-06-05 20:48**: feat: add instant feedback and explanation on answer selection
 - **2022-06-06 19:30**: feat: add keyboard navigation shortcuts for question selection
 - **2022-06-07 10:00**: docs: improve code comments and API documentation
 - **2022-06-07 19:26**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2022-07-19 22:07**: docs: update README with setup instructions and feature list
 - **2022-07-20 21:11**: perf: lazy load signal graphics and question assets
 - **2022-07-20 22:16**: fix: correct color specifications for mandatory traffic signs
+- **2022-07-21 14:15**: docs: update traffic signals catalog documentation
