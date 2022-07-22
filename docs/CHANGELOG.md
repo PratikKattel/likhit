@@ -1,4 +1,3 @@
-- **2022-06-09 17:11**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-09 20:36**: chore: organize assets and image directory structure
 - **2022-06-10 09:00**: feat: add regulatory traffic signs SVG graphics
 - **2022-06-10 11:43**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-07-21 21:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-07-22 11:02**: chore: update questions database with recent DOTM updates
 - **2022-07-22 14:27**: chore: update questions database with recent DOTM updates
+- **2022-07-22 20:27**: feat: support multiple choice questions for motorcycle category
