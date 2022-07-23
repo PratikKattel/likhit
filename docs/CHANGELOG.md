@@ -1,4 +1,3 @@
-- **2022-06-10 11:43**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-11 10:57**: style: enhance traffic sign card layout and responsiveness
 - **2022-06-11 18:33**: chore: update questions database with recent DOTM updates
 - **2022-06-12 09:55**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-07-22 20:27**: feat: support multiple choice questions for motorcycle category
 - **2022-07-23 11:22**: feat: add category A and B traffic test questions
 - **2022-07-23 16:39**: refactor: restructure question data schema for faster loading
+- **2022-07-23 20:59**: fix: typo in Nepali road safety regulations question
