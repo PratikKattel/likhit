@@ -1,4 +1,3 @@
-- **2022-06-12 09:55**: feat: add search and filter by sign category
 - **2022-06-13 09:20**: docs: update README with setup instructions and feature list
 - **2022-06-13 12:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-06-14 12:28**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-07-23 20:59**: fix: typo in Nepali road safety regulations question
 - **2022-07-24 16:29**: feat: add search and filter by sign category
 - **2022-07-25 17:55**: refactor: optimize SVG rendering for road signs
+- **2022-07-26 22:20**: feat: add category A and B traffic test questions
