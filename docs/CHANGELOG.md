@@ -1,4 +1,3 @@
-- **2022-06-14 14:57**: docs: update traffic signals catalog documentation
 - **2022-06-14 15:15**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-15 12:16**: feat: add category-specific practice modes
 - **2022-06-16 16:21**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-07-27 15:40**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2022-07-28 12:28**: fix: adjust passing score threshold according to new rules
+- **2022-07-28 18:51**: docs: update traffic signals catalog documentation
