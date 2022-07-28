@@ -1,4 +1,3 @@
-- **2022-06-14 12:28**: chore: update questions database with recent DOTM updates
 - **2022-06-14 14:57**: docs: update traffic signals catalog documentation
 - **2022-06-14 15:15**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-15 12:16**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-07-26 22:20**: feat: add category A and B traffic test questions
 - **2022-07-27 15:40**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 11:08**: fix: update DOTM Nepal license syllabus questions
+- **2022-07-28 12:28**: fix: adjust passing score threshold according to new rules
