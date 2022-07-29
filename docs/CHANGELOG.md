@@ -1,4 +1,3 @@
-- **2022-06-16 16:21**: fix: typo in Nepali road safety regulations question
 - **2022-06-17 14:07**: feat: add search and filter by sign category
 - **2022-06-17 14:18**: feat: add instant feedback and explanation on answer selection
 - **2022-06-18 21:06**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-07-28 18:51**: docs: update traffic signals catalog documentation
 - **2022-07-28 20:23**: chore: organize assets and image directory structure
 - **2022-07-29 09:04**: test: verify question extraction script against exam PDF
+- **2022-07-29 09:52**: docs: improve code comments and API documentation
