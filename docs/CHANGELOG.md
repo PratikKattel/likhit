@@ -1,4 +1,3 @@
-- **2022-06-15 12:16**: feat: add category-specific practice modes
 - **2022-06-16 16:21**: fix: typo in Nepali road safety regulations question
 - **2022-06-17 14:07**: feat: add search and filter by sign category
 - **2022-06-17 14:18**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-07-28 12:28**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 18:51**: docs: update traffic signals catalog documentation
 - **2022-07-28 20:23**: chore: organize assets and image directory structure
+- **2022-07-29 09:04**: test: verify question extraction script against exam PDF
