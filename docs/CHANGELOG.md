@@ -1,4 +1,3 @@
-- **2022-06-18 21:06**: feat: support multiple choice questions for motorcycle category
 - **2022-06-18 21:32**: refactor: optimize SVG rendering for road signs
 - **2022-06-19 10:26**: feat: add search and filter by sign category
 - **2022-06-19 12:30**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2022-07-29 09:52**: docs: improve code comments and API documentation
 - **2022-07-29 15:40**: feat: add search and filter by sign category
 - **2022-07-30 12:39**: perf: optimize image caching for traffic sign assets
+- **2022-07-30 17:47**: fix: resolve layout shift during question transitions
