@@ -1,4 +1,3 @@
-- **2022-06-19 10:26**: feat: add search and filter by sign category
 - **2022-06-19 12:30**: test: verify question extraction script against exam PDF
 - **2022-06-20 18:39**: refactor: restructure question data schema for faster loading
 - **2022-06-20 20:32**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-07-30 12:39**: perf: optimize image caching for traffic sign assets
 - **2022-07-30 17:47**: fix: resolve layout shift during question transitions
 - **2022-07-31 15:30**: docs: update README with setup instructions and feature list
+- **2022-07-31 20:07**: fix: update DOTM Nepal license syllabus questions
