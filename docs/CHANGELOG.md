@@ -1,4 +1,3 @@
-- **2022-06-20 18:39**: refactor: restructure question data schema for faster loading
 - **2022-06-20 20:32**: perf: index question IDs for rapid lookup
 - **2022-06-21 18:38**: refactor: optimize SVG rendering for road signs
 - **2022-06-22 18:21**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-07-31 15:30**: docs: update README with setup instructions and feature list
 - **2022-07-31 20:07**: fix: update DOTM Nepal license syllabus questions
 - **2022-08-01 10:29**: feat: add result summary with passing threshold analysis
+- **2022-08-02 19:07**: chore: update questions database with recent DOTM updates
