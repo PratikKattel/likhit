@@ -1,4 +1,3 @@
-- **2022-06-21 18:38**: refactor: optimize SVG rendering for road signs
 - **2022-06-22 18:21**: fix: update DOTM Nepal license syllabus questions
 - **2022-06-23 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2022-06-24 11:09**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-08-01 10:29**: feat: add result summary with passing threshold analysis
 - **2022-08-02 19:07**: chore: update questions database with recent DOTM updates
 - **2022-08-03 17:27**: style: improve dark/light mode and mobile UI responsiveness
+- **2022-08-03 21:07**: feat: add result summary with passing threshold analysis
