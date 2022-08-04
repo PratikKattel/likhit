@@ -1,4 +1,3 @@
-- **2022-06-23 20:59**: feat: add keyboard navigation shortcuts for question selection
 - **2022-06-24 11:09**: feat: add category A and B traffic test questions
 - **2022-06-25 12:26**: refactor: modularize traffic app logic and event listeners
 - **2022-06-26 11:16**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-08-03 17:27**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-08-03 21:07**: feat: add result summary with passing threshold analysis
 - **2022-08-04 14:01**: feat: support multiple choice questions for motorcycle category
+- **2022-08-04 19:21**: docs: improve code comments and API documentation
