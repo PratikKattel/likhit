@@ -1,4 +1,3 @@
-- **2022-06-25 12:26**: refactor: modularize traffic app logic and event listeners
 - **2022-06-26 11:16**: feat: implement timer and score calculation for mock test
 - **2022-06-26 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-06-27 10:52**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-08-04 14:01**: feat: support multiple choice questions for motorcycle category
 - **2022-08-04 19:21**: docs: improve code comments and API documentation
 - **2022-08-05 09:22**: fix: adjust passing score threshold according to new rules
+- **2022-08-05 15:35**: style: polish typography and Nepali Unicode font rendering
