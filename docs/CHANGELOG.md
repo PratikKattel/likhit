@@ -1,4 +1,3 @@
-- **2022-06-27 11:56**: chore: update questions database with recent DOTM updates
 - **2022-06-27 17:11**: fix: adjust passing score threshold according to new rules
 - **2022-06-28 10:16**: docs: add instructions for Nepali driving license written exam
 - **2022-06-28 18:36**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-08-06 10:49**: fix: typo in Nepali road safety regulations question
 - **2022-08-07 11:19**: fix: resolve layout shift during question transitions
 - **2022-08-07 13:39**: fix: resolve layout shift during question transitions
+- **2022-08-07 14:48**: docs: update README with setup instructions and feature list
