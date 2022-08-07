@@ -1,4 +1,3 @@
-- **2022-06-26 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-06-27 10:52**: fix: typo in Nepali road safety regulations question
 - **2022-06-27 11:56**: chore: update questions database with recent DOTM updates
 - **2022-06-27 17:11**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-08-05 09:22**: fix: adjust passing score threshold according to new rules
 - **2022-08-05 15:35**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-06 10:49**: fix: typo in Nepali road safety regulations question
+- **2022-08-07 11:19**: fix: resolve layout shift during question transitions
