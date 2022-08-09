@@ -1,4 +1,3 @@
-- **2022-06-29 11:12**: fix: correct color specifications for mandatory traffic signs
 - **2022-06-30 11:35**: fix: prevent option re-selection after submitting answer
 - **2022-06-30 18:07**: chore: update questions database with recent DOTM updates
 - **2022-06-30 22:27**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-08-08 16:35**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-08 21:16**: feat: support multiple choice questions for motorcycle category
 - **2022-08-08 22:08**: style: polish typography and Nepali Unicode font rendering
+- **2022-08-09 09:13**: refactor: modularize traffic app logic and event listeners
