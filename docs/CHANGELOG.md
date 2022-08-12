@@ -1,4 +1,3 @@
-- **2022-06-30 22:27**: fix: correct color specifications for mandatory traffic signs
 - **2022-07-01 17:49**: docs: update traffic signals catalog documentation
 - **2022-07-02 15:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-07-03 17:39**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-08-09 09:13**: refactor: modularize traffic app logic and event listeners
 - **2022-08-10 18:49**: feat: add instant feedback and explanation on answer selection
 - **2022-08-11 09:59**: perf: optimize image caching for traffic sign assets
+- **2022-08-12 17:29**: chore: update questions database with recent DOTM updates
