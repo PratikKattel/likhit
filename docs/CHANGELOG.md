@@ -1,4 +1,3 @@
-- **2022-07-03 17:39**: chore: update questions database with recent DOTM updates
 - **2022-07-03 18:15**: feat: add instant feedback and explanation on answer selection
 - **2022-07-04 20:59**: feat: add category-specific practice modes
 - **2022-07-05 12:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-08-12 17:29**: chore: update questions database with recent DOTM updates
 - **2022-08-13 19:16**: feat: add category-specific practice modes
 - **2022-08-13 19:30**: perf: lazy load signal graphics and question assets
+- **2022-08-13 21:57**: refactor: clean up unused CSS classes and optimize stylesheet
