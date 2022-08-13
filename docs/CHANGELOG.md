@@ -1,4 +1,3 @@
-- **2022-07-02 15:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-07-03 17:39**: chore: update questions database with recent DOTM updates
 - **2022-07-03 18:15**: feat: add instant feedback and explanation on answer selection
 - **2022-07-04 20:59**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-08-11 09:59**: perf: optimize image caching for traffic sign assets
 - **2022-08-12 17:29**: chore: update questions database with recent DOTM updates
 - **2022-08-13 19:16**: feat: add category-specific practice modes
+- **2022-08-13 19:30**: perf: lazy load signal graphics and question assets
