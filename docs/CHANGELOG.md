@@ -1,4 +1,3 @@
-- **2022-07-05 12:17**: docs: improve code comments and API documentation
 - **2022-07-05 13:22**: docs: improve code comments and API documentation
 - **2022-07-05 14:39**: docs: add instructions for Nepali driving license written exam
 - **2022-07-05 16:45**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-08-13 21:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-08-14 13:48**: refactor: modularize traffic app logic and event listeners
 - **2022-08-14 20:12**: feat: add instant feedback and explanation on answer selection
+- **2022-08-15 20:05**: refactor: optimize SVG rendering for road signs
