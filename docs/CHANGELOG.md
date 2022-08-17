@@ -1,4 +1,3 @@
-- **2022-07-05 16:45**: fix: update DOTM Nepal license syllabus questions
 - **2022-07-06 17:31**: chore: update questions database with recent DOTM updates
 - **2022-07-06 19:22**: docs: update README with setup instructions and feature list
 - **2022-07-06 19:47**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-08-15 20:05**: refactor: optimize SVG rendering for road signs
 - **2022-08-16 17:32**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-17 14:53**: style: enhance traffic sign card layout and responsiveness
+- **2022-08-17 16:48**: feat: add search and filter by sign category
