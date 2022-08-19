@@ -1,4 +1,3 @@
-- **2022-07-06 19:22**: docs: update README with setup instructions and feature list
 - **2022-07-06 19:47**: docs: improve code comments and API documentation
 - **2022-07-06 22:11**: perf: lazy load signal graphics and question assets
 - **2022-07-07 22:14**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-08-17 14:53**: style: enhance traffic sign card layout and responsiveness
 - **2022-08-17 16:48**: feat: add search and filter by sign category
 - **2022-08-18 20:04**: docs: update traffic signals catalog documentation
+- **2022-08-19 10:14**: feat: add result summary with passing threshold analysis
