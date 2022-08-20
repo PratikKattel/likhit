@@ -1,4 +1,3 @@
-- **2022-07-06 22:11**: perf: lazy load signal graphics and question assets
 - **2022-07-07 22:14**: chore: format code style and clean up redundant variables
 - **2022-07-08 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2022-07-09 20:06**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-08-18 20:04**: docs: update traffic signals catalog documentation
 - **2022-08-19 10:14**: feat: add result summary with passing threshold analysis
 - **2022-08-20 15:14**: feat: add category-specific practice modes
+- **2022-08-20 21:38**: feat: add keyboard navigation shortcuts for question selection
