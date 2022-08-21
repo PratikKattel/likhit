@@ -1,4 +1,3 @@
-- **2022-07-08 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2022-07-09 20:06**: refactor: optimize SVG rendering for road signs
 - **2022-07-10 14:32**: feat: add search and filter by sign category
 - **2022-07-10 14:46**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-08-20 15:14**: feat: add category-specific practice modes
 - **2022-08-20 21:38**: feat: add keyboard navigation shortcuts for question selection
 - **2022-08-21 09:42**: chore: update project metadata and build configuration
+- **2022-08-21 13:47**: feat: support multiple choice questions for motorcycle category
