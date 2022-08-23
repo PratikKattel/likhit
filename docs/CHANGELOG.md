@@ -1,4 +1,3 @@
-- **2022-07-10 14:46**: fix: resolve layout shift during question transitions
 - **2022-07-10 17:21**: refactor: optimize SVG rendering for road signs
 - **2022-07-11 09:40**: chore: organize assets and image directory structure
 - **2022-07-12 11:07**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2022-08-21 13:47**: feat: support multiple choice questions for motorcycle category
 - **2022-08-21 13:56**: test: verify question extraction script against exam PDF
 - **2022-08-22 18:38**: feat: add warning signs and informational road signs
+- **2022-08-23 13:22**: chore: organize assets and image directory structure
