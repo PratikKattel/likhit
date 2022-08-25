@@ -1,4 +1,3 @@
-- **2022-07-12 11:07**: feat: add result summary with passing threshold analysis
 - **2022-07-12 12:16**: style: polish typography and Nepali Unicode font rendering
 - **2022-07-12 12:57**: refactor: restructure question data schema for faster loading
 - **2022-07-13 17:21**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-08-23 13:22**: chore: organize assets and image directory structure
 - **2022-08-24 20:05**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-24 21:04**: feat: add category-specific practice modes
+- **2022-08-25 18:46**: perf: index question IDs for rapid lookup
