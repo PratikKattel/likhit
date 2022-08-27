@@ -1,4 +1,3 @@
-- **2022-07-14 13:03**: test: verify question extraction script against exam PDF
 - **2022-07-14 15:48**: refactor: modularize traffic app logic and event listeners
 - **2022-07-15 12:15**: feat: add category-specific practice modes
 - **2022-07-15 17:53**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-08-25 22:01**: feat: add category A and B traffic test questions
 - **2022-08-26 09:10**: feat: add category A and B traffic test questions
 - **2022-08-27 12:19**: style: enhance traffic sign card layout and responsiveness
+- **2022-08-27 18:02**: fix: correct color specifications for mandatory traffic signs
