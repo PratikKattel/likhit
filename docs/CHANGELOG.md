@@ -1,4 +1,3 @@
-- **2022-07-15 12:15**: feat: add category-specific practice modes
 - **2022-07-15 17:53**: fix: adjust passing score threshold according to new rules
 - **2022-07-16 14:41**: docs: add instructions for Nepali driving license written exam
 - **2022-07-17 13:51**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-08-27 12:19**: style: enhance traffic sign card layout and responsiveness
 - **2022-08-27 18:02**: fix: correct color specifications for mandatory traffic signs
 - **2022-08-28 19:36**: fix: update DOTM Nepal license syllabus questions
+- **2022-08-29 20:06**: feat: add result summary with passing threshold analysis
