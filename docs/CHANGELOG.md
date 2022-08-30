@@ -1,4 +1,3 @@
-- **2022-07-16 14:41**: docs: add instructions for Nepali driving license written exam
 - **2022-07-17 13:51**: fix: resolve layout shift during question transitions
 - **2022-07-18 10:34**: chore: format code style and clean up redundant variables
 - **2022-07-18 17:07**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-08-28 19:36**: fix: update DOTM Nepal license syllabus questions
 - **2022-08-29 20:06**: feat: add result summary with passing threshold analysis
 - **2022-08-29 22:16**: fix: correct color specifications for mandatory traffic signs
+- **2022-08-30 20:50**: docs: update README with setup instructions and feature list
