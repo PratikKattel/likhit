@@ -1,4 +1,3 @@
-- **2022-07-18 10:34**: chore: format code style and clean up redundant variables
 - **2022-07-18 17:07**: feat: add category A and B traffic test questions
 - **2022-07-19 20:16**: feat: add category A and B traffic test questions
 - **2022-07-19 21:07**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2022-08-29 22:16**: fix: correct color specifications for mandatory traffic signs
 - **2022-08-30 20:50**: docs: update README with setup instructions and feature list
 - **2022-08-30 21:08**: feat: add category-specific practice modes
+- **2022-08-31 13:37**: test: verify question extraction script against exam PDF
