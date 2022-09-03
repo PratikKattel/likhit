@@ -1,4 +1,3 @@
-- **2022-07-19 22:07**: docs: update README with setup instructions and feature list
 - **2022-07-20 21:11**: perf: lazy load signal graphics and question assets
 - **2022-07-20 22:16**: fix: correct color specifications for mandatory traffic signs
 - **2022-07-21 14:15**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-08-31 14:46**: docs: improve code comments and API documentation
 - **2022-09-01 20:45**: feat: implement timer and score calculation for mock test
 - **2022-09-02 20:50**: refactor: optimize SVG rendering for road signs
+- **2022-09-03 13:55**: perf: optimize image caching for traffic sign assets
