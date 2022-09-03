@@ -1,4 +1,3 @@
-- **2022-07-20 22:16**: fix: correct color specifications for mandatory traffic signs
 - **2022-07-21 14:15**: docs: update traffic signals catalog documentation
 - **2022-07-21 15:46**: style: enhance traffic sign card layout and responsiveness
 - **2022-07-21 21:24**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2022-09-02 20:50**: refactor: optimize SVG rendering for road signs
 - **2022-09-03 13:55**: perf: optimize image caching for traffic sign assets
 - **2022-09-03 14:32**: style: enhance traffic sign card layout and responsiveness
+- **2022-09-03 22:06**: refactor: restructure question data schema for faster loading
