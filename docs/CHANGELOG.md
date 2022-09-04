@@ -1,4 +1,3 @@
-- **2022-07-21 15:46**: style: enhance traffic sign card layout and responsiveness
 - **2022-07-21 21:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-07-22 11:02**: chore: update questions database with recent DOTM updates
 - **2022-07-22 14:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-09-03 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2022-09-03 22:06**: refactor: restructure question data schema for faster loading
 - **2022-09-03 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-09-04 14:26**: feat: add result summary with passing threshold analysis
