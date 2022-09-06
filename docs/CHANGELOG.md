@@ -1,4 +1,3 @@
-- **2022-07-22 14:27**: chore: update questions database with recent DOTM updates
 - **2022-07-22 20:27**: feat: support multiple choice questions for motorcycle category
 - **2022-07-23 11:22**: feat: add category A and B traffic test questions
 - **2022-07-23 16:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2022-09-04 14:26**: feat: add result summary with passing threshold analysis
 - **2022-09-05 09:50**: feat: support multiple choice questions for motorcycle category
 - **2022-09-05 17:27**: docs: add instructions for Nepali driving license written exam
+- **2022-09-06 13:41**: refactor: modularize traffic app logic and event listeners
