@@ -1,4 +1,3 @@
-- **2022-07-23 11:22**: feat: add category A and B traffic test questions
 - **2022-07-23 16:39**: refactor: restructure question data schema for faster loading
 - **2022-07-23 20:59**: fix: typo in Nepali road safety regulations question
 - **2022-07-24 16:29**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-09-05 17:27**: docs: add instructions for Nepali driving license written exam
 - **2022-09-06 13:41**: refactor: modularize traffic app logic and event listeners
 - **2022-09-06 19:50**: feat: add search and filter by sign category
+- **2022-09-07 17:37**: style: enhance traffic sign card layout and responsiveness
