@@ -1,4 +1,3 @@
-- **2022-07-23 20:59**: fix: typo in Nepali road safety regulations question
 - **2022-07-24 16:29**: feat: add search and filter by sign category
 - **2022-07-25 17:55**: refactor: optimize SVG rendering for road signs
 - **2022-07-26 22:20**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-09-06 19:50**: feat: add search and filter by sign category
 - **2022-09-07 17:37**: style: enhance traffic sign card layout and responsiveness
 - **2022-09-08 12:20**: feat: support multiple choice questions for motorcycle category
+- **2022-09-08 12:30**: feat: add keyboard navigation shortcuts for question selection
