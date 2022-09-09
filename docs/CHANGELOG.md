@@ -1,4 +1,3 @@
-- **2022-07-28 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2022-07-28 12:28**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 18:51**: docs: update traffic signals catalog documentation
 - **2022-07-28 20:23**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2022-09-09 11:26**: chore: update project metadata and build configuration
 - **2022-09-09 13:48**: feat: add category-specific practice modes
 - **2022-09-09 19:08**: docs: update README with setup instructions and feature list
+- **2022-09-09 20:17**: fix: typo in Nepali road safety regulations question
