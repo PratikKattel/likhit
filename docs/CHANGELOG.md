@@ -1,4 +1,3 @@
-- **2022-07-27 15:40**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 11:08**: fix: update DOTM Nepal license syllabus questions
 - **2022-07-28 12:28**: fix: adjust passing score threshold according to new rules
 - **2022-07-28 18:51**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2022-09-08 22:13**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-09 11:26**: chore: update project metadata and build configuration
 - **2022-09-09 13:48**: feat: add category-specific practice modes
+- **2022-09-09 19:08**: docs: update README with setup instructions and feature list
