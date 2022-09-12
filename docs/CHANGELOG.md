@@ -1,4 +1,3 @@
-- **2022-07-28 20:23**: chore: organize assets and image directory structure
 - **2022-07-29 09:04**: test: verify question extraction script against exam PDF
 - **2022-07-29 09:52**: docs: improve code comments and API documentation
 - **2022-07-29 15:40**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-09-09 20:17**: fix: typo in Nepali road safety regulations question
 - **2022-09-10 16:03**: perf: index question IDs for rapid lookup
 - **2022-09-11 19:40**: feat: add regulatory traffic signs SVG graphics
+- **2022-09-12 14:02**: test: verify question extraction script against exam PDF
