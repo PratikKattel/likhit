@@ -1,4 +1,3 @@
-- **2022-07-29 09:52**: docs: improve code comments and API documentation
 - **2022-07-29 15:40**: feat: add search and filter by sign category
 - **2022-07-30 12:39**: perf: optimize image caching for traffic sign assets
 - **2022-07-30 17:47**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-09-11 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-09-12 14:02**: test: verify question extraction script against exam PDF
 - **2022-09-12 18:40**: perf: lazy load signal graphics and question assets
+- **2022-09-12 21:51**: perf: lazy load signal graphics and question assets
