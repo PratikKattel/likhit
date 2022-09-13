@@ -1,4 +1,3 @@
-- **2022-07-30 12:39**: perf: optimize image caching for traffic sign assets
 - **2022-07-30 17:47**: fix: resolve layout shift during question transitions
 - **2022-07-31 15:30**: docs: update README with setup instructions and feature list
 - **2022-07-31 20:07**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2022-09-12 18:40**: perf: lazy load signal graphics and question assets
 - **2022-09-12 21:51**: perf: lazy load signal graphics and question assets
 - **2022-09-13 10:08**: chore: update questions database with recent DOTM updates
+- **2022-09-13 14:04**: chore: format code style and clean up redundant variables
