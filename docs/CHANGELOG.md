@@ -1,4 +1,3 @@
-- **2022-08-04 14:01**: feat: support multiple choice questions for motorcycle category
 - **2022-08-04 19:21**: docs: improve code comments and API documentation
 - **2022-08-05 09:22**: fix: adjust passing score threshold according to new rules
 - **2022-08-05 15:35**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2022-09-15 18:10**: feat: implement timer and score calculation for mock test
 - **2022-09-15 20:53**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-16 13:44**: test: verify question extraction script against exam PDF
+- **2022-09-17 12:58**: fix: prevent option re-selection after submitting answer
