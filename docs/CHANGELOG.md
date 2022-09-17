@@ -1,4 +1,3 @@
-- **2022-08-05 09:22**: fix: adjust passing score threshold according to new rules
 - **2022-08-05 15:35**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-06 10:49**: fix: typo in Nepali road safety regulations question
 - **2022-08-07 11:19**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2022-09-16 13:44**: test: verify question extraction script against exam PDF
 - **2022-09-17 12:58**: fix: prevent option re-selection after submitting answer
 - **2022-09-17 14:51**: docs: add instructions for Nepali driving license written exam
+- **2022-09-17 22:02**: feat: add category-specific practice modes
