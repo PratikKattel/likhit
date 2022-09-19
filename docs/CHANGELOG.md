@@ -1,4 +1,3 @@
-- **2022-08-06 10:49**: fix: typo in Nepali road safety regulations question
 - **2022-08-07 11:19**: fix: resolve layout shift during question transitions
 - **2022-08-07 13:39**: fix: resolve layout shift during question transitions
 - **2022-08-07 14:48**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-09-17 14:51**: docs: add instructions for Nepali driving license written exam
 - **2022-09-17 22:02**: feat: add category-specific practice modes
 - **2022-09-18 20:50**: perf: optimize image caching for traffic sign assets
+- **2022-09-19 10:17**: feat: add instant feedback and explanation on answer selection
