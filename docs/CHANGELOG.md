@@ -1,4 +1,3 @@
-- **2022-08-07 13:39**: fix: resolve layout shift during question transitions
 - **2022-08-07 14:48**: docs: update README with setup instructions and feature list
 - **2022-08-08 16:35**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-08 21:16**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-09-18 20:50**: perf: optimize image caching for traffic sign assets
 - **2022-09-19 10:17**: feat: add instant feedback and explanation on answer selection
 - **2022-09-20 13:10**: perf: index question IDs for rapid lookup
+- **2022-09-21 11:53**: perf: lazy load signal graphics and question assets
