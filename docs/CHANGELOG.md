@@ -1,4 +1,3 @@
-- **2022-08-08 16:35**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-08 21:16**: feat: support multiple choice questions for motorcycle category
 - **2022-08-08 22:08**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-09 09:13**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-09-20 13:10**: perf: index question IDs for rapid lookup
 - **2022-09-21 11:53**: perf: lazy load signal graphics and question assets
 - **2022-09-21 18:03**: refactor: optimize SVG rendering for road signs
+- **2022-09-22 15:02**: feat: support multiple choice questions for motorcycle category
