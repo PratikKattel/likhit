@@ -1,4 +1,3 @@
-- **2022-08-10 18:49**: feat: add instant feedback and explanation on answer selection
 - **2022-08-11 09:59**: perf: optimize image caching for traffic sign assets
 - **2022-08-12 17:29**: chore: update questions database with recent DOTM updates
 - **2022-08-13 19:16**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-09-22 21:37**: feat: add search and filter by sign category
 - **2022-09-23 11:44**: chore: format code style and clean up redundant variables
 - **2022-09-23 17:21**: feat: implement timer and score calculation for mock test
+- **2022-09-23 21:28**: perf: optimize image caching for traffic sign assets
