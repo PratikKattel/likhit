@@ -1,4 +1,3 @@
-- **2022-08-12 17:29**: chore: update questions database with recent DOTM updates
 - **2022-08-13 19:16**: feat: add category-specific practice modes
 - **2022-08-13 19:30**: perf: lazy load signal graphics and question assets
 - **2022-08-13 21:57**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-09-23 17:21**: feat: implement timer and score calculation for mock test
 - **2022-09-23 21:28**: perf: optimize image caching for traffic sign assets
 - **2022-09-24 18:44**: docs: add instructions for Nepali driving license written exam
+- **2022-09-24 22:10**: feat: add instant feedback and explanation on answer selection
