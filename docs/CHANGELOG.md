@@ -1,4 +1,3 @@
-- **2022-08-13 19:30**: perf: lazy load signal graphics and question assets
 - **2022-08-13 21:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-08-14 13:48**: refactor: modularize traffic app logic and event listeners
 - **2022-08-14 20:12**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-09-24 18:44**: docs: add instructions for Nepali driving license written exam
 - **2022-09-24 22:10**: feat: add instant feedback and explanation on answer selection
 - **2022-09-25 11:26**: fix: correct color specifications for mandatory traffic signs
+- **2022-09-25 14:03**: feat: add keyboard navigation shortcuts for question selection
