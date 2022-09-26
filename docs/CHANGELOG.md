@@ -1,4 +1,3 @@
-- **2022-08-13 21:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-08-14 13:48**: refactor: modularize traffic app logic and event listeners
 - **2022-08-14 20:12**: feat: add instant feedback and explanation on answer selection
 - **2022-08-15 20:05**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-09-24 22:10**: feat: add instant feedback and explanation on answer selection
 - **2022-09-25 11:26**: fix: correct color specifications for mandatory traffic signs
 - **2022-09-25 14:03**: feat: add keyboard navigation shortcuts for question selection
+- **2022-09-26 09:21**: refactor: optimize SVG rendering for road signs
