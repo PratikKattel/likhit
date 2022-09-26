@@ -1,4 +1,3 @@
-- **2022-08-14 13:48**: refactor: modularize traffic app logic and event listeners
 - **2022-08-14 20:12**: feat: add instant feedback and explanation on answer selection
 - **2022-08-15 20:05**: refactor: optimize SVG rendering for road signs
 - **2022-08-16 17:32**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2022-09-25 11:26**: fix: correct color specifications for mandatory traffic signs
 - **2022-09-25 14:03**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-26 09:21**: refactor: optimize SVG rendering for road signs
+- **2022-09-26 10:39**: perf: optimize image caching for traffic sign assets
