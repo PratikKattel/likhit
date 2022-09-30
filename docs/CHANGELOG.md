@@ -1,4 +1,3 @@
-- **2022-08-19 10:14**: feat: add result summary with passing threshold analysis
 - **2022-08-20 15:14**: feat: add category-specific practice modes
 - **2022-08-20 21:38**: feat: add keyboard navigation shortcuts for question selection
 - **2022-08-21 09:42**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-09-28 12:03**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 11:08**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 14:02**: perf: lazy load signal graphics and question assets
+- **2022-09-30 10:49**: perf: lazy load signal graphics and question assets
