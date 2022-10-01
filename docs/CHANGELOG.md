@@ -1,4 +1,3 @@
-- **2022-08-21 13:47**: feat: support multiple choice questions for motorcycle category
 - **2022-08-21 13:56**: test: verify question extraction script against exam PDF
 - **2022-08-22 18:38**: feat: add warning signs and informational road signs
 - **2022-08-23 13:22**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2022-09-30 11:53**: feat: implement timer and score calculation for mock test
 - **2022-09-30 13:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-10-01 11:05**: perf: index question IDs for rapid lookup
+- **2022-10-01 14:20**: feat: add result summary with passing threshold analysis
