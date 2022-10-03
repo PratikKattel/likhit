@@ -1,4 +1,3 @@
-- **2022-08-22 18:38**: feat: add warning signs and informational road signs
 - **2022-08-23 13:22**: chore: organize assets and image directory structure
 - **2022-08-24 20:05**: style: polish typography and Nepali Unicode font rendering
 - **2022-08-24 21:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-10-01 11:05**: perf: index question IDs for rapid lookup
 - **2022-10-01 14:20**: feat: add result summary with passing threshold analysis
 - **2022-10-02 15:38**: style: enhance traffic sign card layout and responsiveness
+- **2022-10-03 22:12**: docs: update traffic signals catalog documentation
