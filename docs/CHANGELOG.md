@@ -1,4 +1,3 @@
-- **2022-08-25 22:01**: feat: add category A and B traffic test questions
 - **2022-08-26 09:10**: feat: add category A and B traffic test questions
 - **2022-08-27 12:19**: style: enhance traffic sign card layout and responsiveness
 - **2022-08-27 18:02**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-10-04 22:10**: feat: add category-specific practice modes
 - **2022-10-05 13:13**: chore: update questions database with recent DOTM updates
 - **2022-10-05 19:43**: chore: update project metadata and build configuration
+- **2022-10-06 12:05**: perf: index question IDs for rapid lookup
