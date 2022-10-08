@@ -1,4 +1,3 @@
-- **2022-08-27 12:19**: style: enhance traffic sign card layout and responsiveness
 - **2022-08-27 18:02**: fix: correct color specifications for mandatory traffic signs
 - **2022-08-28 19:36**: fix: update DOTM Nepal license syllabus questions
 - **2022-08-29 20:06**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2022-10-05 19:43**: chore: update project metadata and build configuration
 - **2022-10-06 12:05**: perf: index question IDs for rapid lookup
 - **2022-10-07 21:08**: docs: improve code comments and API documentation
+- **2022-10-08 09:47**: fix: correct color specifications for mandatory traffic signs
