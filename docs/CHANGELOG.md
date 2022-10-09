@@ -1,4 +1,3 @@
-- **2022-08-29 20:06**: feat: add result summary with passing threshold analysis
 - **2022-08-29 22:16**: fix: correct color specifications for mandatory traffic signs
 - **2022-08-30 20:50**: docs: update README with setup instructions and feature list
 - **2022-08-30 21:08**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-10-08 09:47**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-08 10:50**: perf: index question IDs for rapid lookup
 - **2022-10-09 18:02**: feat: add search and filter by sign category
+- **2022-10-09 18:09**: perf: index question IDs for rapid lookup
