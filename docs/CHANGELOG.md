@@ -1,4 +1,3 @@
-- **2022-08-30 21:08**: feat: add category-specific practice modes
 - **2022-08-31 13:37**: test: verify question extraction script against exam PDF
 - **2022-08-31 14:46**: docs: improve code comments and API documentation
 - **2022-09-01 20:45**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-10-09 18:09**: perf: index question IDs for rapid lookup
 - **2022-10-10 15:15**: chore: format code style and clean up redundant variables
 - **2022-10-11 20:17**: fix: correct color specifications for mandatory traffic signs
+- **2022-10-12 21:17**: feat: support multiple choice questions for motorcycle category
