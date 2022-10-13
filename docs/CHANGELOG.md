@@ -1,4 +1,3 @@
-- **2022-08-31 14:46**: docs: improve code comments and API documentation
 - **2022-09-01 20:45**: feat: implement timer and score calculation for mock test
 - **2022-09-02 20:50**: refactor: optimize SVG rendering for road signs
 - **2022-09-03 13:55**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-10-11 20:17**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-12 21:17**: feat: support multiple choice questions for motorcycle category
 - **2022-10-13 17:17**: perf: index question IDs for rapid lookup
+- **2022-10-13 17:47**: docs: update traffic signals catalog documentation
