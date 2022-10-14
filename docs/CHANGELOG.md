@@ -1,4 +1,3 @@
-- **2022-09-03 13:55**: perf: optimize image caching for traffic sign assets
 - **2022-09-03 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2022-09-03 22:06**: refactor: restructure question data schema for faster loading
 - **2022-09-03 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-10-13 17:47**: docs: update traffic signals catalog documentation
 - **2022-10-14 10:25**: fix: typo in Nepali road safety regulations question
 - **2022-10-14 20:18**: feat: add category-specific practice modes
+- **2022-10-14 21:10**: fix: update DOTM Nepal license syllabus questions
