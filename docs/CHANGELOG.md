@@ -1,4 +1,3 @@
-- **2022-09-03 22:06**: refactor: restructure question data schema for faster loading
 - **2022-09-03 22:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-09-04 14:26**: feat: add result summary with passing threshold analysis
 - **2022-09-05 09:50**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-10-14 20:18**: feat: add category-specific practice modes
 - **2022-10-14 21:10**: fix: update DOTM Nepal license syllabus questions
 - **2022-10-14 21:49**: feat: implement timer and score calculation for mock test
+- **2022-10-15 12:47**: feat: add keyboard navigation shortcuts for question selection
