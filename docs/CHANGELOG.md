@@ -1,4 +1,3 @@
-- **2022-09-05 17:27**: docs: add instructions for Nepali driving license written exam
 - **2022-09-06 13:41**: refactor: modularize traffic app logic and event listeners
 - **2022-09-06 19:50**: feat: add search and filter by sign category
 - **2022-09-07 17:37**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2022-10-16 12:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-10-17 12:55**: docs: update README with setup instructions and feature list
 - **2022-10-17 14:43**: chore: update questions database with recent DOTM updates
+- **2022-10-17 19:04**: fix: resolve layout shift during question transitions
