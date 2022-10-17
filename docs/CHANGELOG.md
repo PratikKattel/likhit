@@ -1,4 +1,3 @@
-- **2022-09-04 14:26**: feat: add result summary with passing threshold analysis
 - **2022-09-05 09:50**: feat: support multiple choice questions for motorcycle category
 - **2022-09-05 17:27**: docs: add instructions for Nepali driving license written exam
 - **2022-09-06 13:41**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-10-14 21:49**: feat: implement timer and score calculation for mock test
 - **2022-10-15 12:47**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-16 12:52**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-10-17 12:55**: docs: update README with setup instructions and feature list
