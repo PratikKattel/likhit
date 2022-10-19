@@ -1,4 +1,3 @@
-- **2022-09-06 19:50**: feat: add search and filter by sign category
 - **2022-09-07 17:37**: style: enhance traffic sign card layout and responsiveness
 - **2022-09-08 12:20**: feat: support multiple choice questions for motorcycle category
 - **2022-09-08 12:30**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-10-17 14:43**: chore: update questions database with recent DOTM updates
 - **2022-10-17 19:04**: fix: resolve layout shift during question transitions
 - **2022-10-18 10:31**: feat: add search and filter by sign category
+- **2022-10-19 22:18**: fix: correct color specifications for mandatory traffic signs
