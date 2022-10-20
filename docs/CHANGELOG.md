@@ -1,4 +1,3 @@
-- **2022-09-08 12:30**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-08 22:13**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-09 11:26**: chore: update project metadata and build configuration
 - **2022-09-09 13:48**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-10-19 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-20 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-20 15:14**: fix: adjust passing score threshold according to new rules
+- **2022-10-20 22:29**: style: enhance traffic sign card layout and responsiveness
