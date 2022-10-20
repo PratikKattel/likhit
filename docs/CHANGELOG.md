@@ -1,4 +1,3 @@
-- **2022-09-08 12:20**: feat: support multiple choice questions for motorcycle category
 - **2022-09-08 12:30**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-08 22:13**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-09 11:26**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-10-18 10:31**: feat: add search and filter by sign category
 - **2022-10-19 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-20 14:54**: feat: add keyboard navigation shortcuts for question selection
+- **2022-10-20 15:14**: fix: adjust passing score threshold according to new rules
