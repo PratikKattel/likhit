@@ -1,4 +1,3 @@
-- **2022-09-09 11:26**: chore: update project metadata and build configuration
 - **2022-09-09 13:48**: feat: add category-specific practice modes
 - **2022-09-09 19:08**: docs: update README with setup instructions and feature list
 - **2022-09-09 20:17**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-10-20 15:14**: fix: adjust passing score threshold according to new rules
 - **2022-10-20 22:29**: style: enhance traffic sign card layout and responsiveness
 - **2022-10-21 09:24**: refactor: modularize traffic app logic and event listeners
+- **2022-10-21 21:36**: feat: add category A and B traffic test questions
