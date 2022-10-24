@@ -1,4 +1,3 @@
-- **2022-09-09 20:17**: fix: typo in Nepali road safety regulations question
 - **2022-09-10 16:03**: perf: index question IDs for rapid lookup
 - **2022-09-11 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-09-12 14:02**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2022-10-21 21:36**: feat: add category A and B traffic test questions
 - **2022-10-22 16:22**: docs: update traffic signals catalog documentation
 - **2022-10-23 20:57**: feat: add keyboard navigation shortcuts for question selection
+- **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
