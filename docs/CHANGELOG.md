@@ -1,4 +1,3 @@
-- **2022-09-11 19:40**: feat: add regulatory traffic signs SVG graphics
 - **2022-09-12 14:02**: test: verify question extraction script against exam PDF
 - **2022-09-12 18:40**: perf: lazy load signal graphics and question assets
 - **2022-09-12 21:51**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-10-23 20:57**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
 - **2022-10-25 18:43**: fix: update DOTM Nepal license syllabus questions
+- **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
