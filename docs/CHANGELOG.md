@@ -1,4 +1,3 @@
-- **2022-09-12 14:02**: test: verify question extraction script against exam PDF
 - **2022-09-12 18:40**: perf: lazy load signal graphics and question assets
 - **2022-09-12 21:51**: perf: lazy load signal graphics and question assets
 - **2022-09-13 10:08**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
 - **2022-10-25 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-10-27 12:44**: refactor: modularize traffic app logic and event listeners
