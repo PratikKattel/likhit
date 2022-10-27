@@ -1,4 +1,3 @@
-- **2022-09-12 21:51**: perf: lazy load signal graphics and question assets
 - **2022-09-13 10:08**: chore: update questions database with recent DOTM updates
 - **2022-09-13 14:04**: chore: format code style and clean up redundant variables
 - **2022-09-13 16:55**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-10-27 12:44**: refactor: modularize traffic app logic and event listeners
 - **2022-10-27 16:01**: style: polish typography and Nepali Unicode font rendering
+- **2022-10-27 19:06**: feat: add regulatory traffic signs SVG graphics
