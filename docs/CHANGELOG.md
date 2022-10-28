@@ -1,4 +1,3 @@
-- **2022-09-13 14:04**: chore: format code style and clean up redundant variables
 - **2022-09-13 16:55**: chore: update questions database with recent DOTM updates
 - **2022-09-14 09:52**: style: enhance traffic sign card layout and responsiveness
 - **2022-09-14 20:43**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2022-10-27 16:01**: style: polish typography and Nepali Unicode font rendering
 - **2022-10-27 19:06**: feat: add regulatory traffic signs SVG graphics
 - **2022-10-27 20:13**: feat: add instant feedback and explanation on answer selection
+- **2022-10-28 16:53**: chore: update project metadata and build configuration
