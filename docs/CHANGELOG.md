@@ -1,4 +1,3 @@
-- **2022-09-15 12:59**: fix: update DOTM Nepal license syllabus questions
 - **2022-09-15 18:10**: feat: implement timer and score calculation for mock test
 - **2022-09-15 20:53**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-16 13:44**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2022-10-28 17:10**: style: enhance traffic sign card layout and responsiveness
 - **2022-10-28 21:53**: perf: optimize image caching for traffic sign assets
 - **2022-10-29 22:26**: perf: lazy load signal graphics and question assets
+- **2022-10-30 11:17**: feat: add warning signs and informational road signs
