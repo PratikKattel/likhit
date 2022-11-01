@@ -1,4 +1,3 @@
-- **2022-09-15 20:53**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-16 13:44**: test: verify question extraction script against exam PDF
 - **2022-09-17 12:58**: fix: prevent option re-selection after submitting answer
 - **2022-09-17 14:51**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2022-10-29 22:26**: perf: lazy load signal graphics and question assets
 - **2022-10-30 11:17**: feat: add warning signs and informational road signs
 - **2022-10-31 20:41**: feat: add search and filter by sign category
+- **2022-11-01 10:09**: perf: index question IDs for rapid lookup
