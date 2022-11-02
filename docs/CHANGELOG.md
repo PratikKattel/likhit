@@ -1,4 +1,3 @@
-- **2022-09-16 13:44**: test: verify question extraction script against exam PDF
 - **2022-09-17 12:58**: fix: prevent option re-selection after submitting answer
 - **2022-09-17 14:51**: docs: add instructions for Nepali driving license written exam
 - **2022-09-17 22:02**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-10-30 11:17**: feat: add warning signs and informational road signs
 - **2022-10-31 20:41**: feat: add search and filter by sign category
 - **2022-11-01 10:09**: perf: index question IDs for rapid lookup
+- **2022-11-02 15:07**: chore: format code style and clean up redundant variables
