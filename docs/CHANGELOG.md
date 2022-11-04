@@ -1,4 +1,3 @@
-- **2022-09-17 22:02**: feat: add category-specific practice modes
 - **2022-09-18 20:50**: perf: optimize image caching for traffic sign assets
 - **2022-09-19 10:17**: feat: add instant feedback and explanation on answer selection
 - **2022-09-20 13:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-11-02 15:07**: chore: format code style and clean up redundant variables
 - **2022-11-03 12:50**: perf: index question IDs for rapid lookup
 - **2022-11-03 21:49**: refactor: restructure question data schema for faster loading
+- **2022-11-04 18:12**: fix: correct color specifications for mandatory traffic signs
