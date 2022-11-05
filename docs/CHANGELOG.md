@@ -1,4 +1,3 @@
-- **2022-09-20 13:10**: perf: index question IDs for rapid lookup
 - **2022-09-21 11:53**: perf: lazy load signal graphics and question assets
 - **2022-09-21 18:03**: refactor: optimize SVG rendering for road signs
 - **2022-09-22 15:02**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2022-11-04 18:12**: fix: correct color specifications for mandatory traffic signs
 - **2022-11-04 21:13**: feat: add search and filter by sign category
 - **2022-11-05 15:27**: docs: improve code comments and API documentation
+- **2022-11-05 15:58**: docs: add instructions for Nepali driving license written exam
