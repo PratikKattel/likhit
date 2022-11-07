@@ -1,4 +1,3 @@
-- **2022-09-22 15:02**: feat: support multiple choice questions for motorcycle category
 - **2022-09-22 21:37**: feat: add search and filter by sign category
 - **2022-09-23 11:44**: chore: format code style and clean up redundant variables
 - **2022-09-23 17:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-11-05 15:58**: docs: add instructions for Nepali driving license written exam
 - **2022-11-06 21:06**: perf: optimize image caching for traffic sign assets
 - **2022-11-07 19:48**: chore: update questions database with recent DOTM updates
+- **2022-11-07 19:53**: chore: format code style and clean up redundant variables
