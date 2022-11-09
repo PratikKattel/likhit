@@ -1,4 +1,3 @@
-- **2022-09-23 17:21**: feat: implement timer and score calculation for mock test
 - **2022-09-23 21:28**: perf: optimize image caching for traffic sign assets
 - **2022-09-24 18:44**: docs: add instructions for Nepali driving license written exam
 - **2022-09-24 22:10**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2022-11-07 19:53**: chore: format code style and clean up redundant variables
 - **2022-11-08 11:48**: refactor: modularize traffic app logic and event listeners
 - **2022-11-08 18:10**: perf: optimize image caching for traffic sign assets
+- **2022-11-09 09:22**: fix: typo in Nepali road safety regulations question
