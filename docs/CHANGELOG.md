@@ -1,4 +1,3 @@
-- **2022-09-24 22:10**: feat: add instant feedback and explanation on answer selection
 - **2022-09-25 11:26**: fix: correct color specifications for mandatory traffic signs
 - **2022-09-25 14:03**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-26 09:21**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2022-11-09 09:22**: fix: typo in Nepali road safety regulations question
 - **2022-11-09 18:08**: docs: improve code comments and API documentation
 - **2022-11-10 12:15**: chore: update project metadata and build configuration
+- **2022-11-11 12:12**: perf: lazy load signal graphics and question assets
