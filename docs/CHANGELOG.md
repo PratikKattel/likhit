@@ -1,4 +1,3 @@
-- **2022-09-25 14:03**: feat: add keyboard navigation shortcuts for question selection
 - **2022-09-26 09:21**: refactor: optimize SVG rendering for road signs
 - **2022-09-26 10:39**: perf: optimize image caching for traffic sign assets
 - **2022-09-27 15:25**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2022-11-10 12:15**: chore: update project metadata and build configuration
 - **2022-11-11 12:12**: perf: lazy load signal graphics and question assets
 - **2022-11-12 09:43**: refactor: modularize traffic app logic and event listeners
+- **2022-11-12 13:59**: chore: update questions database with recent DOTM updates
