@@ -1,4 +1,3 @@
-- **2022-09-26 10:39**: perf: optimize image caching for traffic sign assets
 - **2022-09-27 15:25**: chore: update project metadata and build configuration
 - **2022-09-27 17:42**: chore: update project metadata and build configuration
 - **2022-09-27 21:24**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-11-12 09:43**: refactor: modularize traffic app logic and event listeners
 - **2022-11-12 13:59**: chore: update questions database with recent DOTM updates
 - **2022-11-12 21:10**: feat: add category A and B traffic test questions
+- **2022-11-13 15:38**: fix: update DOTM Nepal license syllabus questions
