@@ -1,4 +1,3 @@
-- **2022-09-27 17:42**: chore: update project metadata and build configuration
 - **2022-09-27 21:24**: feat: add category-specific practice modes
 - **2022-09-28 12:03**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 11:08**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2022-11-12 21:10**: feat: add category A and B traffic test questions
 - **2022-11-13 15:38**: fix: update DOTM Nepal license syllabus questions
 - **2022-11-13 16:14**: feat: add keyboard navigation shortcuts for question selection
+- **2022-11-14 10:10**: docs: update README with setup instructions and feature list
