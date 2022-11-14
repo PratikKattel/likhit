@@ -1,4 +1,3 @@
-- **2022-09-27 21:24**: feat: add category-specific practice modes
 - **2022-09-28 12:03**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 11:08**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 14:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2022-11-13 15:38**: fix: update DOTM Nepal license syllabus questions
 - **2022-11-13 16:14**: feat: add keyboard navigation shortcuts for question selection
 - **2022-11-14 10:10**: docs: update README with setup instructions and feature list
+- **2022-11-14 17:09**: feat: support multiple choice questions for motorcycle category
