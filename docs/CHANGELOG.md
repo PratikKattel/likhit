@@ -1,4 +1,3 @@
-- **2022-09-29 11:08**: style: polish typography and Nepali Unicode font rendering
 - **2022-09-29 14:02**: perf: lazy load signal graphics and question assets
 - **2022-09-30 10:49**: perf: lazy load signal graphics and question assets
 - **2022-09-30 11:53**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2022-11-14 10:10**: docs: update README with setup instructions and feature list
 - **2022-11-14 17:09**: feat: support multiple choice questions for motorcycle category
 - **2022-11-14 18:32**: perf: optimize image caching for traffic sign assets
+- **2022-11-15 13:59**: docs: update traffic signals catalog documentation
