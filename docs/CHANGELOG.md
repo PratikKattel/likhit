@@ -1,4 +1,3 @@
-- **2022-09-30 10:49**: perf: lazy load signal graphics and question assets
 - **2022-09-30 11:53**: feat: implement timer and score calculation for mock test
 - **2022-09-30 13:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-10-01 11:05**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-11-14 18:32**: perf: optimize image caching for traffic sign assets
 - **2022-11-15 13:59**: docs: update traffic signals catalog documentation
 - **2022-11-16 13:58**: refactor: restructure question data schema for faster loading
+- **2022-11-17 14:45**: refactor: modularize traffic app logic and event listeners
