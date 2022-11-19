@@ -1,4 +1,3 @@
-- **2022-10-01 14:20**: feat: add result summary with passing threshold analysis
 - **2022-10-02 15:38**: style: enhance traffic sign card layout and responsiveness
 - **2022-10-03 22:12**: docs: update traffic signals catalog documentation
 - **2022-10-04 15:34**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-11-18 13:39**: refactor: restructure question data schema for faster loading
 - **2022-11-18 19:31**: docs: update README with setup instructions and feature list
 - **2022-11-19 11:20**: feat: add category-specific practice modes
+- **2022-11-19 13:40**: feat: add category A and B traffic test questions
