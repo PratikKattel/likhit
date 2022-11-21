@@ -1,4 +1,3 @@
-- **2022-10-03 22:12**: docs: update traffic signals catalog documentation
 - **2022-10-04 15:34**: refactor: modularize traffic app logic and event listeners
 - **2022-10-04 22:10**: feat: add category-specific practice modes
 - **2022-10-05 13:13**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2022-11-19 11:20**: feat: add category-specific practice modes
 - **2022-11-19 13:40**: feat: add category A and B traffic test questions
 - **2022-11-20 16:45**: feat: implement timer and score calculation for mock test
+- **2022-11-21 10:28**: test: verify question extraction script against exam PDF
