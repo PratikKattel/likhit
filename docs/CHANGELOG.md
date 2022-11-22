@@ -1,4 +1,3 @@
-- **2022-10-05 13:13**: chore: update questions database with recent DOTM updates
 - **2022-10-05 19:43**: chore: update project metadata and build configuration
 - **2022-10-06 12:05**: perf: index question IDs for rapid lookup
 - **2022-10-07 21:08**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2022-11-21 10:28**: test: verify question extraction script against exam PDF
 - **2022-11-21 17:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-11-22 12:01**: feat: support multiple choice questions for motorcycle category
+- **2022-11-22 22:10**: perf: optimize image caching for traffic sign assets
