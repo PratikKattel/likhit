@@ -1,4 +1,3 @@
-- **2022-10-07 21:08**: docs: improve code comments and API documentation
 - **2022-10-08 09:47**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-08 10:50**: perf: index question IDs for rapid lookup
 - **2022-10-09 18:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-11-22 22:10**: perf: optimize image caching for traffic sign assets
 - **2022-11-23 10:40**: docs: add instructions for Nepali driving license written exam
 - **2022-11-24 10:37**: style: polish typography and Nepali Unicode font rendering
+- **2022-11-24 12:33**: refactor: restructure question data schema for faster loading
