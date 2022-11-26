@@ -1,4 +1,3 @@
-- **2022-10-09 18:02**: feat: add search and filter by sign category
 - **2022-10-09 18:09**: perf: index question IDs for rapid lookup
 - **2022-10-10 15:15**: chore: format code style and clean up redundant variables
 - **2022-10-11 20:17**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-11-24 12:33**: refactor: restructure question data schema for faster loading
 - **2022-11-24 13:19**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-25 19:47**: feat: add regulatory traffic signs SVG graphics
+- **2022-11-26 14:04**: docs: add instructions for Nepali driving license written exam
