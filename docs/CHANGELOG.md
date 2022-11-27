@@ -1,4 +1,3 @@
-- **2022-10-10 15:15**: chore: format code style and clean up redundant variables
 - **2022-10-11 20:17**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-12 21:17**: feat: support multiple choice questions for motorcycle category
 - **2022-10-13 17:17**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2022-11-25 19:47**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-26 14:04**: docs: add instructions for Nepali driving license written exam
 - **2022-11-26 15:49**: test: verify question extraction script against exam PDF
+- **2022-11-27 09:49**: refactor: optimize SVG rendering for road signs
