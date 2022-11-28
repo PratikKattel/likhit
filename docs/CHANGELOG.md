@@ -1,4 +1,3 @@
-- **2022-10-13 17:17**: perf: index question IDs for rapid lookup
 - **2022-10-13 17:47**: docs: update traffic signals catalog documentation
 - **2022-10-14 10:25**: fix: typo in Nepali road safety regulations question
 - **2022-10-14 20:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2022-11-27 09:49**: refactor: optimize SVG rendering for road signs
 - **2022-11-27 12:35**: chore: update project metadata and build configuration
 - **2022-11-27 15:56**: fix: correct color specifications for mandatory traffic signs
+- **2022-11-28 12:08**: chore: organize assets and image directory structure
