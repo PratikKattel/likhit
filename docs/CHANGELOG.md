@@ -1,4 +1,3 @@
-- **2022-10-14 21:49**: feat: implement timer and score calculation for mock test
 - **2022-10-15 12:47**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-16 12:52**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-10-17 12:55**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2022-11-29 10:42**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-30 16:43**: fix: resolve layout shift during question transitions
 - **2022-11-30 17:28**: feat: add category-specific practice modes
+- **2022-12-01 17:04**: docs: update README with setup instructions and feature list
