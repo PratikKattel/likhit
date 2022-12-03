@@ -1,4 +1,3 @@
-- **2022-10-17 14:43**: chore: update questions database with recent DOTM updates
 - **2022-10-17 19:04**: fix: resolve layout shift during question transitions
 - **2022-10-18 10:31**: feat: add search and filter by sign category
 - **2022-10-19 22:18**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2022-12-02 10:20**: refactor: modularize traffic app logic and event listeners
 - **2022-12-03 10:03**: test: verify question extraction script against exam PDF
 - **2022-12-03 12:46**: perf: lazy load signal graphics and question assets
+- **2022-12-03 16:32**: feat: add regulatory traffic signs SVG graphics
