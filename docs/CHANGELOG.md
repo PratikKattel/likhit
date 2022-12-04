@@ -1,4 +1,3 @@
-- **2022-10-18 10:31**: feat: add search and filter by sign category
 - **2022-10-19 22:18**: fix: correct color specifications for mandatory traffic signs
 - **2022-10-20 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-20 15:14**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2022-12-03 12:46**: perf: lazy load signal graphics and question assets
 - **2022-12-03 16:32**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-03 16:46**: chore: update questions database with recent DOTM updates
+- **2022-12-04 18:56**: fix: adjust passing score threshold according to new rules
