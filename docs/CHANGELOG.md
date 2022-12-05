@@ -1,4 +1,3 @@
-- **2022-10-20 15:14**: fix: adjust passing score threshold according to new rules
 - **2022-10-20 22:29**: style: enhance traffic sign card layout and responsiveness
 - **2022-10-21 09:24**: refactor: modularize traffic app logic and event listeners
 - **2022-10-21 21:36**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-12-04 18:56**: fix: adjust passing score threshold according to new rules
 - **2022-12-05 11:35**: feat: add instant feedback and explanation on answer selection
 - **2022-12-05 12:23**: feat: add regulatory traffic signs SVG graphics
+- **2022-12-05 18:56**: refactor: restructure question data schema for faster loading
