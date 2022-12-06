@@ -1,4 +1,3 @@
-- **2022-10-21 09:24**: refactor: modularize traffic app logic and event listeners
 - **2022-10-21 21:36**: feat: add category A and B traffic test questions
 - **2022-10-22 16:22**: docs: update traffic signals catalog documentation
 - **2022-10-23 20:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2022-12-05 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-05 18:56**: refactor: restructure question data schema for faster loading
 - **2022-12-06 16:03**: style: polish typography and Nepali Unicode font rendering
+- **2022-12-06 18:33**: perf: lazy load signal graphics and question assets
