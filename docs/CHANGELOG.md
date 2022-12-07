@@ -1,4 +1,3 @@
-- **2022-10-21 21:36**: feat: add category A and B traffic test questions
 - **2022-10-22 16:22**: docs: update traffic signals catalog documentation
 - **2022-10-23 20:57**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-12-05 18:56**: refactor: restructure question data schema for faster loading
 - **2022-12-06 16:03**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-06 18:33**: perf: lazy load signal graphics and question assets
+- **2022-12-07 19:04**: test: verify question extraction script against exam PDF
