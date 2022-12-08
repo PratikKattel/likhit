@@ -1,4 +1,3 @@
-- **2022-10-23 20:57**: feat: add keyboard navigation shortcuts for question selection
 - **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
 - **2022-10-25 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2022-12-06 18:33**: perf: lazy load signal graphics and question assets
 - **2022-12-07 19:04**: test: verify question extraction script against exam PDF
 - **2022-12-08 09:55**: feat: add search and filter by sign category
+- **2022-12-08 13:20**: style: polish typography and Nepali Unicode font rendering
