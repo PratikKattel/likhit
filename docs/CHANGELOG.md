@@ -1,4 +1,3 @@
-- **2022-10-24 18:41**: perf: optimize image caching for traffic sign assets
 - **2022-10-25 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-10-27 12:44**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-12-07 19:04**: test: verify question extraction script against exam PDF
 - **2022-12-08 09:55**: feat: add search and filter by sign category
 - **2022-12-08 13:20**: style: polish typography and Nepali Unicode font rendering
+- **2022-12-09 20:28**: perf: index question IDs for rapid lookup
