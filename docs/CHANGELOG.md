@@ -1,4 +1,3 @@
-- **2022-10-26 14:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-10-27 12:44**: refactor: modularize traffic app logic and event listeners
 - **2022-10-27 16:01**: style: polish typography and Nepali Unicode font rendering
 - **2022-10-27 19:06**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2022-12-08 13:20**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-09 20:28**: perf: index question IDs for rapid lookup
 - **2022-12-10 21:23**: feat: implement timer and score calculation for mock test
+- **2022-12-11 19:21**: fix: correct color specifications for mandatory traffic signs
