@@ -1,4 +1,3 @@
-- **2022-10-27 19:06**: feat: add regulatory traffic signs SVG graphics
 - **2022-10-27 20:13**: feat: add instant feedback and explanation on answer selection
 - **2022-10-28 16:53**: chore: update project metadata and build configuration
 - **2022-10-28 17:10**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2022-12-11 19:21**: fix: correct color specifications for mandatory traffic signs
 - **2022-12-12 09:01**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-13 19:08**: refactor: optimize SVG rendering for road signs
+- **2022-12-14 09:56**: chore: organize assets and image directory structure
