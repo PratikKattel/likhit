@@ -1,4 +1,3 @@
-- **2022-10-28 17:10**: style: enhance traffic sign card layout and responsiveness
 - **2022-10-28 21:53**: perf: optimize image caching for traffic sign assets
 - **2022-10-29 22:26**: perf: lazy load signal graphics and question assets
 - **2022-10-30 11:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2022-12-14 09:56**: chore: organize assets and image directory structure
 - **2022-12-14 18:04**: fix: correct color specifications for mandatory traffic signs
 - **2022-12-15 13:13**: feat: add regulatory traffic signs SVG graphics
+- **2022-12-15 15:46**: docs: update README with setup instructions and feature list
