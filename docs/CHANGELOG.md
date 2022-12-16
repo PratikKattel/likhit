@@ -1,4 +1,3 @@
-- **2022-10-30 11:17**: feat: add warning signs and informational road signs
 - **2022-10-31 20:41**: feat: add search and filter by sign category
 - **2022-11-01 10:09**: perf: index question IDs for rapid lookup
 - **2022-11-02 15:07**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-12-15 15:46**: docs: update README with setup instructions and feature list
 - **2022-12-15 20:18**: fix: prevent option re-selection after submitting answer
 - **2022-12-15 20:39**: feat: add regulatory traffic signs SVG graphics
+- **2022-12-16 15:47**: feat: add warning signs and informational road signs
