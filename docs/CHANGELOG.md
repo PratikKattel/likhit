@@ -1,4 +1,3 @@
-- **2022-11-03 12:50**: perf: index question IDs for rapid lookup
 - **2022-11-03 21:49**: refactor: restructure question data schema for faster loading
 - **2022-11-04 18:12**: fix: correct color specifications for mandatory traffic signs
 - **2022-11-04 21:13**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2022-12-17 21:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-12-18 09:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-12-18 21:54**: feat: support multiple choice questions for motorcycle category
+- **2022-12-19 10:10**: feat: implement timer and score calculation for mock test
