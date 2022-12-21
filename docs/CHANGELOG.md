@@ -1,4 +1,3 @@
-- **2022-11-04 21:13**: feat: add search and filter by sign category
 - **2022-11-05 15:27**: docs: improve code comments and API documentation
 - **2022-11-05 15:58**: docs: add instructions for Nepali driving license written exam
 - **2022-11-06 21:06**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-12-19 10:10**: feat: implement timer and score calculation for mock test
 - **2022-12-20 15:18**: docs: update traffic signals catalog documentation
 - **2022-12-20 18:37**: fix: resolve layout shift during question transitions
+- **2022-12-21 19:10**: test: verify question extraction script against exam PDF
