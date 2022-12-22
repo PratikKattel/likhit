@@ -1,4 +1,3 @@
-- **2022-11-05 15:58**: docs: add instructions for Nepali driving license written exam
 - **2022-11-06 21:06**: perf: optimize image caching for traffic sign assets
 - **2022-11-07 19:48**: chore: update questions database with recent DOTM updates
 - **2022-11-07 19:53**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2022-12-20 18:37**: fix: resolve layout shift during question transitions
 - **2022-12-21 19:10**: test: verify question extraction script against exam PDF
 - **2022-12-21 19:43**: docs: update traffic signals catalog documentation
+- **2022-12-22 15:43**: style: improve dark/light mode and mobile UI responsiveness
