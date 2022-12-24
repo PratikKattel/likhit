@@ -1,4 +1,3 @@
-- **2022-11-07 19:53**: chore: format code style and clean up redundant variables
 - **2022-11-08 11:48**: refactor: modularize traffic app logic and event listeners
 - **2022-11-08 18:10**: perf: optimize image caching for traffic sign assets
 - **2022-11-09 09:22**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2022-12-22 15:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-12-23 21:59**: feat: add warning signs and informational road signs
 - **2022-12-24 10:22**: refactor: restructure question data schema for faster loading
+- **2022-12-24 21:41**: feat: add warning signs and informational road signs
