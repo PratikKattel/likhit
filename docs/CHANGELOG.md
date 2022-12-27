@@ -1,4 +1,3 @@
-- **2022-11-09 18:08**: docs: improve code comments and API documentation
 - **2022-11-10 12:15**: chore: update project metadata and build configuration
 - **2022-11-11 12:12**: perf: lazy load signal graphics and question assets
 - **2022-11-12 09:43**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-12-25 10:45**: chore: update project metadata and build configuration
 - **2022-12-25 14:00**: feat: support multiple choice questions for motorcycle category
 - **2022-12-26 13:10**: docs: add instructions for Nepali driving license written exam
+- **2022-12-27 18:49**: refactor: restructure question data schema for faster loading
