@@ -1,4 +1,3 @@
-- **2022-11-11 12:12**: perf: lazy load signal graphics and question assets
 - **2022-11-12 09:43**: refactor: modularize traffic app logic and event listeners
 - **2022-11-12 13:59**: chore: update questions database with recent DOTM updates
 - **2022-11-12 21:10**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2022-12-26 13:10**: docs: add instructions for Nepali driving license written exam
 - **2022-12-27 18:49**: refactor: restructure question data schema for faster loading
 - **2022-12-28 12:36**: feat: implement timer and score calculation for mock test
+- **2022-12-28 18:47**: docs: improve code comments and API documentation
