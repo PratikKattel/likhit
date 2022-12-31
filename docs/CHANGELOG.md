@@ -1,4 +1,3 @@
-- **2022-11-13 16:14**: feat: add keyboard navigation shortcuts for question selection
 - **2022-11-14 10:10**: docs: update README with setup instructions and feature list
 - **2022-11-14 17:09**: feat: support multiple choice questions for motorcycle category
 - **2022-11-14 18:32**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2022-12-30 11:10**: feat: implement timer and score calculation for mock test
 - **2022-12-30 11:29**: refactor: optimize SVG rendering for road signs
 - **2022-12-30 12:33**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2022-12-31 22:22**: chore: update project metadata and build configuration
