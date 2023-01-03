@@ -1,4 +1,3 @@
-- **2022-11-14 18:32**: perf: optimize image caching for traffic sign assets
 - **2022-11-15 13:59**: docs: update traffic signals catalog documentation
 - **2022-11-16 13:58**: refactor: restructure question data schema for faster loading
 - **2022-11-17 14:45**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2022-12-31 22:22**: chore: update project metadata and build configuration
 - **2023-01-01 13:24**: feat: add warning signs and informational road signs
 - **2023-01-02 21:23**: refactor: restructure question data schema for faster loading
+- **2023-01-03 11:12**: docs: improve code comments and API documentation
