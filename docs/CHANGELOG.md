@@ -1,4 +1,3 @@
-- **2022-11-15 13:59**: docs: update traffic signals catalog documentation
 - **2022-11-16 13:58**: refactor: restructure question data schema for faster loading
 - **2022-11-17 14:45**: refactor: modularize traffic app logic and event listeners
 - **2022-11-18 13:39**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-01-01 13:24**: feat: add warning signs and informational road signs
 - **2023-01-02 21:23**: refactor: restructure question data schema for faster loading
 - **2023-01-03 11:12**: docs: improve code comments and API documentation
+- **2023-01-04 20:22**: fix: typo in Nepali road safety regulations question
