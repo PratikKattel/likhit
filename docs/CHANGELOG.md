@@ -1,4 +1,3 @@
-- **2022-11-18 13:39**: refactor: restructure question data schema for faster loading
 - **2022-11-18 19:31**: docs: update README with setup instructions and feature list
 - **2022-11-19 11:20**: feat: add category-specific practice modes
 - **2022-11-19 13:40**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2023-01-04 20:22**: fix: typo in Nepali road safety regulations question
 - **2023-01-05 12:07**: feat: add instant feedback and explanation on answer selection
 - **2023-01-06 21:31**: docs: update traffic signals catalog documentation
+- **2023-01-07 21:14**: refactor: clean up unused CSS classes and optimize stylesheet
