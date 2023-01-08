@@ -1,4 +1,3 @@
-- **2022-11-18 19:31**: docs: update README with setup instructions and feature list
 - **2022-11-19 11:20**: feat: add category-specific practice modes
 - **2022-11-19 13:40**: feat: add category A and B traffic test questions
 - **2022-11-20 16:45**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-01-05 12:07**: feat: add instant feedback and explanation on answer selection
 - **2023-01-06 21:31**: docs: update traffic signals catalog documentation
 - **2023-01-07 21:14**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-01-08 21:17**: refactor: clean up unused CSS classes and optimize stylesheet
