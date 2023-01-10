@@ -1,4 +1,3 @@
-- **2022-11-19 13:40**: feat: add category A and B traffic test questions
 - **2022-11-20 16:45**: feat: implement timer and score calculation for mock test
 - **2022-11-21 10:28**: test: verify question extraction script against exam PDF
 - **2022-11-21 17:59**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-01-07 21:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-01-08 21:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-01-09 20:21**: refactor: modularize traffic app logic and event listeners
+- **2023-01-10 18:29**: fix: update DOTM Nepal license syllabus questions
