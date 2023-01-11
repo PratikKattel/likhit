@@ -1,4 +1,3 @@
-- **2022-11-21 10:28**: test: verify question extraction script against exam PDF
 - **2022-11-21 17:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-11-22 12:01**: feat: support multiple choice questions for motorcycle category
 - **2022-11-22 22:10**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-01-09 20:21**: refactor: modularize traffic app logic and event listeners
 - **2023-01-10 18:29**: fix: update DOTM Nepal license syllabus questions
 - **2023-01-10 19:11**: perf: lazy load signal graphics and question assets
+- **2023-01-11 15:05**: perf: optimize image caching for traffic sign assets
