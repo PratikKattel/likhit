@@ -1,4 +1,3 @@
-- **2022-11-24 10:37**: style: polish typography and Nepali Unicode font rendering
 - **2022-11-24 12:33**: refactor: restructure question data schema for faster loading
 - **2022-11-24 13:19**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-25 19:47**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-01-12 09:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-01-12 12:12**: chore: organize assets and image directory structure
 - **2023-01-13 10:03**: fix: correct color specifications for mandatory traffic signs
+- **2023-01-14 18:30**: perf: optimize image caching for traffic sign assets
