@@ -1,4 +1,3 @@
-- **2022-11-24 12:33**: refactor: restructure question data schema for faster loading
 - **2022-11-24 13:19**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-25 19:47**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-26 14:04**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-01-12 12:12**: chore: organize assets and image directory structure
 - **2023-01-13 10:03**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-14 18:30**: perf: optimize image caching for traffic sign assets
+- **2023-01-14 21:10**: perf: index question IDs for rapid lookup
