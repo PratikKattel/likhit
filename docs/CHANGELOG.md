@@ -1,4 +1,3 @@
-- **2022-11-26 15:49**: test: verify question extraction script against exam PDF
 - **2022-11-27 09:49**: refactor: optimize SVG rendering for road signs
 - **2022-11-27 12:35**: chore: update project metadata and build configuration
 - **2022-11-27 15:56**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-01-15 18:24**: feat: add search and filter by sign category
 - **2023-01-16 12:55**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-16 13:19**: fix: adjust passing score threshold according to new rules
+- **2023-01-16 16:23**: fix: correct color specifications for mandatory traffic signs
