@@ -1,4 +1,3 @@
-- **2022-11-27 12:35**: chore: update project metadata and build configuration
 - **2022-11-27 15:56**: fix: correct color specifications for mandatory traffic signs
 - **2022-11-28 12:08**: chore: organize assets and image directory structure
 - **2022-11-28 22:05**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2023-01-16 13:19**: fix: adjust passing score threshold according to new rules
 - **2023-01-16 16:23**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-17 11:05**: feat: implement timer and score calculation for mock test
+- **2023-01-18 10:19**: fix: correct color specifications for mandatory traffic signs
