@@ -1,4 +1,3 @@
-- **2022-11-28 22:05**: chore: organize assets and image directory structure
 - **2022-11-29 10:42**: feat: add regulatory traffic signs SVG graphics
 - **2022-11-30 16:43**: fix: resolve layout shift during question transitions
 - **2022-11-30 17:28**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2023-01-18 10:19**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-18 19:56**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-19 16:02**: style: polish typography and Nepali Unicode font rendering
+- **2023-01-20 17:21**: docs: update README with setup instructions and feature list
