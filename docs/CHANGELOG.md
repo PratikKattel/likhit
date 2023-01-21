@@ -1,4 +1,3 @@
-- **2022-11-30 16:43**: fix: resolve layout shift during question transitions
 - **2022-11-30 17:28**: feat: add category-specific practice modes
 - **2022-12-01 17:04**: docs: update README with setup instructions and feature list
 - **2022-12-02 10:20**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-01-19 16:02**: style: polish typography and Nepali Unicode font rendering
 - **2023-01-20 17:21**: docs: update README with setup instructions and feature list
 - **2023-01-20 22:28**: feat: add result summary with passing threshold analysis
+- **2023-01-21 22:19**: style: improve dark/light mode and mobile UI responsiveness
