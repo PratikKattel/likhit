@@ -1,4 +1,3 @@
-- **2022-12-01 17:04**: docs: update README with setup instructions and feature list
 - **2022-12-02 10:20**: refactor: modularize traffic app logic and event listeners
 - **2022-12-03 10:03**: test: verify question extraction script against exam PDF
 - **2022-12-03 12:46**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-01-20 22:28**: feat: add result summary with passing threshold analysis
 - **2023-01-21 22:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-01-22 13:35**: test: verify question extraction script against exam PDF
+- **2023-01-23 11:52**: feat: add warning signs and informational road signs
