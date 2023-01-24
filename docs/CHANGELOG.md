@@ -1,4 +1,3 @@
-- **2022-12-03 10:03**: test: verify question extraction script against exam PDF
 - **2022-12-03 12:46**: perf: lazy load signal graphics and question assets
 - **2022-12-03 16:32**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-03 16:46**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-01-22 13:35**: test: verify question extraction script against exam PDF
 - **2023-01-23 11:52**: feat: add warning signs and informational road signs
 - **2023-01-23 16:08**: perf: optimize image caching for traffic sign assets
+- **2023-01-24 09:26**: fix: update DOTM Nepal license syllabus questions
