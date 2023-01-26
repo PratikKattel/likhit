@@ -1,4 +1,3 @@
-- **2022-12-04 18:56**: fix: adjust passing score threshold according to new rules
 - **2022-12-05 11:35**: feat: add instant feedback and explanation on answer selection
 - **2022-12-05 12:23**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-05 18:56**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-01-25 19:31**: docs: update README with setup instructions and feature list
 - **2023-01-26 12:02**: feat: add regulatory traffic signs SVG graphics
 - **2023-01-26 13:26**: feat: add instant feedback and explanation on answer selection
+- **2023-01-26 18:07**: docs: add instructions for Nepali driving license written exam
