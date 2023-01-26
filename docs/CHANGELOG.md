@@ -1,4 +1,3 @@
-- **2022-12-03 16:32**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-03 16:46**: chore: update questions database with recent DOTM updates
 - **2022-12-04 18:56**: fix: adjust passing score threshold according to new rules
 - **2022-12-05 11:35**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-01-23 16:08**: perf: optimize image caching for traffic sign assets
 - **2023-01-24 09:26**: fix: update DOTM Nepal license syllabus questions
 - **2023-01-25 19:31**: docs: update README with setup instructions and feature list
+- **2023-01-26 12:02**: feat: add regulatory traffic signs SVG graphics
