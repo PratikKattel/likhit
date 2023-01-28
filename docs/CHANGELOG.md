@@ -1,4 +1,3 @@
-- **2022-12-06 16:03**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-06 18:33**: perf: lazy load signal graphics and question assets
 - **2022-12-07 19:04**: test: verify question extraction script against exam PDF
 - **2022-12-08 09:55**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2023-01-27 12:23**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-27 14:02**: fix: prevent option re-selection after submitting answer
 - **2023-01-28 11:44**: style: enhance traffic sign card layout and responsiveness
+- **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
