@@ -1,4 +1,3 @@
-- **2022-12-08 09:55**: feat: add search and filter by sign category
 - **2022-12-08 13:20**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-09 20:28**: perf: index question IDs for rapid lookup
 - **2022-12-10 21:23**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
 - **2023-01-28 19:32**: feat: support multiple choice questions for motorcycle category
 - **2023-01-29 10:54**: style: polish typography and Nepali Unicode font rendering
+- **2023-01-29 17:03**: feat: add keyboard navigation shortcuts for question selection
