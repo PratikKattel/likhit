@@ -1,4 +1,3 @@
-- **2022-12-07 19:04**: test: verify question extraction script against exam PDF
 - **2022-12-08 09:55**: feat: add search and filter by sign category
 - **2022-12-08 13:20**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-09 20:28**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-01-28 11:44**: style: enhance traffic sign card layout and responsiveness
 - **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
 - **2023-01-28 19:32**: feat: support multiple choice questions for motorcycle category
+- **2023-01-29 10:54**: style: polish typography and Nepali Unicode font rendering
