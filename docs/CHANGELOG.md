@@ -1,4 +1,3 @@
-- **2022-12-09 20:28**: perf: index question IDs for rapid lookup
 - **2022-12-10 21:23**: feat: implement timer and score calculation for mock test
 - **2022-12-11 19:21**: fix: correct color specifications for mandatory traffic signs
 - **2022-12-12 09:01**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-01-29 10:54**: style: polish typography and Nepali Unicode font rendering
 - **2023-01-29 17:03**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-29 19:58**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-01-30 10:38**: feat: add category A and B traffic test questions
