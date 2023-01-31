@@ -1,4 +1,3 @@
-- **2022-12-12 09:01**: style: polish typography and Nepali Unicode font rendering
 - **2022-12-13 19:08**: refactor: optimize SVG rendering for road signs
 - **2022-12-14 09:56**: chore: organize assets and image directory structure
 - **2022-12-14 18:04**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-01-30 10:38**: feat: add category A and B traffic test questions
 - **2023-01-30 12:06**: chore: format code style and clean up redundant variables
 - **2023-01-30 16:20**: fix: resolve layout shift during question transitions
+- **2023-01-31 09:10**: perf: optimize image caching for traffic sign assets
