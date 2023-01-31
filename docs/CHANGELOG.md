@@ -1,4 +1,3 @@
-- **2022-12-14 09:56**: chore: organize assets and image directory structure
 - **2022-12-14 18:04**: fix: correct color specifications for mandatory traffic signs
 - **2022-12-15 13:13**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-15 15:46**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-01-30 16:20**: fix: resolve layout shift during question transitions
 - **2023-01-31 09:10**: perf: optimize image caching for traffic sign assets
 - **2023-01-31 18:20**: style: polish typography and Nepali Unicode font rendering
+- **2023-01-31 20:49**: feat: add keyboard navigation shortcuts for question selection
