@@ -1,4 +1,3 @@
-- **2022-12-15 20:39**: feat: add regulatory traffic signs SVG graphics
 - **2022-12-16 15:47**: feat: add warning signs and informational road signs
 - **2022-12-17 21:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-12-18 09:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-02-01 22:00**: docs: improve code comments and API documentation
 - **2023-02-02 11:50**: refactor: restructure question data schema for faster loading
 - **2023-02-02 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-02-02 21:04**: fix: adjust passing score threshold according to new rules
