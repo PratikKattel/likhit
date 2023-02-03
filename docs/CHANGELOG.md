@@ -1,4 +1,3 @@
-- **2022-12-18 09:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-12-18 21:54**: feat: support multiple choice questions for motorcycle category
 - **2022-12-19 10:10**: feat: implement timer and score calculation for mock test
 - **2022-12-20 15:18**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-02-02 21:04**: fix: adjust passing score threshold according to new rules
 - **2023-02-02 21:45**: feat: add keyboard navigation shortcuts for question selection
 - **2023-02-03 22:02**: feat: add search and filter by sign category
+- **2023-02-03 22:18**: chore: update questions database with recent DOTM updates
