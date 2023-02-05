@@ -1,4 +1,3 @@
-- **2022-12-19 10:10**: feat: implement timer and score calculation for mock test
 - **2022-12-20 15:18**: docs: update traffic signals catalog documentation
 - **2022-12-20 18:37**: fix: resolve layout shift during question transitions
 - **2022-12-21 19:10**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2023-02-03 22:02**: feat: add search and filter by sign category
 - **2023-02-03 22:18**: chore: update questions database with recent DOTM updates
 - **2023-02-04 10:44**: style: polish typography and Nepali Unicode font rendering
+- **2023-02-05 21:33**: refactor: optimize SVG rendering for road signs
