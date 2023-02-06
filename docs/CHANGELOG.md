@@ -1,4 +1,3 @@
-- **2022-12-20 18:37**: fix: resolve layout shift during question transitions
 - **2022-12-21 19:10**: test: verify question extraction script against exam PDF
 - **2022-12-21 19:43**: docs: update traffic signals catalog documentation
 - **2022-12-22 15:43**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-02-04 10:44**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-05 21:33**: refactor: optimize SVG rendering for road signs
 - **2023-02-06 09:23**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-02-06 09:39**: style: enhance traffic sign card layout and responsiveness
