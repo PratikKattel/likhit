@@ -1,4 +1,3 @@
-- **2022-12-24 10:22**: refactor: restructure question data schema for faster loading
 - **2022-12-24 21:41**: feat: add warning signs and informational road signs
 - **2022-12-25 10:45**: chore: update project metadata and build configuration
 - **2022-12-25 14:00**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-02-07 14:42**: fix: typo in Nepali road safety regulations question
 - **2023-02-08 10:47**: refactor: optimize SVG rendering for road signs
 - **2023-02-08 14:04**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-02-08 15:38**: perf: index question IDs for rapid lookup
