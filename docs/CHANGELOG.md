@@ -1,4 +1,3 @@
-- **2022-12-22 15:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2022-12-23 21:59**: feat: add warning signs and informational road signs
 - **2022-12-24 10:22**: refactor: restructure question data schema for faster loading
 - **2022-12-24 21:41**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-02-06 09:39**: style: enhance traffic sign card layout and responsiveness
 - **2023-02-07 12:35**: feat: add instant feedback and explanation on answer selection
 - **2023-02-07 14:42**: fix: typo in Nepali road safety regulations question
+- **2023-02-08 10:47**: refactor: optimize SVG rendering for road signs
