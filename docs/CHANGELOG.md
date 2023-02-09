@@ -1,4 +1,3 @@
-- **2022-12-25 10:45**: chore: update project metadata and build configuration
 - **2022-12-25 14:00**: feat: support multiple choice questions for motorcycle category
 - **2022-12-26 13:10**: docs: add instructions for Nepali driving license written exam
 - **2022-12-27 18:49**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-02-08 14:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-02-08 15:38**: perf: index question IDs for rapid lookup
 - **2023-02-08 15:41**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-02-09 10:35**: fix: prevent option re-selection after submitting answer
