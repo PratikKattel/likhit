@@ -1,4 +1,3 @@
-- **2022-12-25 14:00**: feat: support multiple choice questions for motorcycle category
 - **2022-12-26 13:10**: docs: add instructions for Nepali driving license written exam
 - **2022-12-27 18:49**: refactor: restructure question data schema for faster loading
 - **2022-12-28 12:36**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-02-08 15:38**: perf: index question IDs for rapid lookup
 - **2023-02-08 15:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-02-09 10:35**: fix: prevent option re-selection after submitting answer
+- **2023-02-09 22:28**: refactor: optimize SVG rendering for road signs
