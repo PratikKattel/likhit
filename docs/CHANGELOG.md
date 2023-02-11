@@ -1,4 +1,3 @@
-- **2022-12-27 18:49**: refactor: restructure question data schema for faster loading
 - **2022-12-28 12:36**: feat: implement timer and score calculation for mock test
 - **2022-12-28 18:47**: docs: improve code comments and API documentation
 - **2022-12-29 09:14**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-02-09 10:35**: fix: prevent option re-selection after submitting answer
 - **2023-02-09 22:28**: refactor: optimize SVG rendering for road signs
 - **2023-02-10 21:49**: chore: update project metadata and build configuration
+- **2023-02-11 14:44**: refactor: restructure question data schema for faster loading
