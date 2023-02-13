@@ -1,4 +1,3 @@
-- **2022-12-29 09:14**: feat: add instant feedback and explanation on answer selection
 - **2022-12-30 11:10**: feat: implement timer and score calculation for mock test
 - **2022-12-30 11:29**: refactor: optimize SVG rendering for road signs
 - **2022-12-30 12:33**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-02-11 14:44**: refactor: restructure question data schema for faster loading
 - **2023-02-12 16:56**: test: verify question extraction script against exam PDF
 - **2023-02-12 18:56**: chore: format code style and clean up redundant variables
+- **2023-02-13 16:30**: feat: add instant feedback and explanation on answer selection
