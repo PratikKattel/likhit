@@ -1,4 +1,3 @@
-- **2022-12-30 11:29**: refactor: optimize SVG rendering for road signs
 - **2022-12-30 12:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2022-12-31 22:22**: chore: update project metadata and build configuration
 - **2023-01-01 13:24**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-02-12 18:56**: chore: format code style and clean up redundant variables
 - **2023-02-13 16:30**: feat: add instant feedback and explanation on answer selection
 - **2023-02-13 17:39**: feat: add result summary with passing threshold analysis
+- **2023-02-14 13:05**: style: polish typography and Nepali Unicode font rendering
