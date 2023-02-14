@@ -1,4 +1,3 @@
-- **2022-12-31 22:22**: chore: update project metadata and build configuration
 - **2023-01-01 13:24**: feat: add warning signs and informational road signs
 - **2023-01-02 21:23**: refactor: restructure question data schema for faster loading
 - **2023-01-03 11:12**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2023-02-13 17:39**: feat: add result summary with passing threshold analysis
 - **2023-02-14 13:05**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-14 16:05**: fix: resolve layout shift during question transitions
+- **2023-02-14 17:32**: perf: optimize image caching for traffic sign assets
