@@ -1,4 +1,3 @@
-- **2023-01-01 13:24**: feat: add warning signs and informational road signs
 - **2023-01-02 21:23**: refactor: restructure question data schema for faster loading
 - **2023-01-03 11:12**: docs: improve code comments and API documentation
 - **2023-01-04 20:22**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2023-02-14 13:05**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-14 16:05**: fix: resolve layout shift during question transitions
 - **2023-02-14 17:32**: perf: optimize image caching for traffic sign assets
+- **2023-02-15 12:01**: fix: update DOTM Nepal license syllabus questions
