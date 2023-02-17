@@ -1,4 +1,3 @@
-- **2023-01-04 20:22**: fix: typo in Nepali road safety regulations question
 - **2023-01-05 12:07**: feat: add instant feedback and explanation on answer selection
 - **2023-01-06 21:31**: docs: update traffic signals catalog documentation
 - **2023-01-07 21:14**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-02-15 12:01**: fix: update DOTM Nepal license syllabus questions
 - **2023-02-15 15:33**: fix: resolve layout shift during question transitions
 - **2023-02-16 09:34**: refactor: optimize SVG rendering for road signs
+- **2023-02-17 22:23**: chore: organize assets and image directory structure
