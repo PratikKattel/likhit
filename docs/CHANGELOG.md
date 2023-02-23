@@ -1,4 +1,3 @@
-- **2023-01-12 09:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-01-12 12:12**: chore: organize assets and image directory structure
 - **2023-01-13 10:03**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-14 18:30**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-02-23 13:37**: docs: update traffic signals catalog documentation
 - **2023-02-23 17:38**: feat: add warning signs and informational road signs
 - **2023-02-23 17:58**: feat: add category-specific practice modes
+- **2023-02-23 19:57**: fix: prevent option re-selection after submitting answer
