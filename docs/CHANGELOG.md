@@ -1,4 +1,3 @@
-- **2023-01-10 19:11**: perf: lazy load signal graphics and question assets
 - **2023-01-11 15:05**: perf: optimize image caching for traffic sign assets
 - **2023-01-11 20:09**: refactor: modularize traffic app logic and event listeners
 - **2023-01-12 09:54**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-02-21 22:15**: refactor: restructure question data schema for faster loading
 - **2023-02-22 15:36**: feat: add instant feedback and explanation on answer selection
 - **2023-02-22 15:41**: docs: improve code comments and API documentation
+- **2023-02-23 13:37**: docs: update traffic signals catalog documentation
