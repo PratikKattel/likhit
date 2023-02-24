@@ -1,4 +1,3 @@
-- **2023-01-12 12:12**: chore: organize assets and image directory structure
 - **2023-01-13 10:03**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-14 18:30**: perf: optimize image caching for traffic sign assets
 - **2023-01-14 21:10**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-02-23 17:38**: feat: add warning signs and informational road signs
 - **2023-02-23 17:58**: feat: add category-specific practice modes
 - **2023-02-23 19:57**: fix: prevent option re-selection after submitting answer
+- **2023-02-24 16:00**: chore: format code style and clean up redundant variables
