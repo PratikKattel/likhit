@@ -1,4 +1,3 @@
-- **2023-01-14 21:10**: perf: index question IDs for rapid lookup
 - **2023-01-15 18:24**: feat: add search and filter by sign category
 - **2023-01-16 12:55**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-16 13:19**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-02-24 16:00**: chore: format code style and clean up redundant variables
 - **2023-02-25 11:16**: feat: add category-specific practice modes
 - **2023-02-25 15:38**: perf: lazy load signal graphics and question assets
+- **2023-02-26 19:55**: docs: improve code comments and API documentation
