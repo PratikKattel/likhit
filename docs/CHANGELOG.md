@@ -1,4 +1,3 @@
-- **2023-01-16 16:23**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-17 11:05**: feat: implement timer and score calculation for mock test
 - **2023-01-18 10:19**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-18 19:56**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-02-27 09:38**: test: verify question extraction script against exam PDF
 - **2023-02-27 12:27**: perf: index question IDs for rapid lookup
 - **2023-02-27 21:35**: refactor: modularize traffic app logic and event listeners
+- **2023-02-28 10:53**: test: verify question extraction script against exam PDF
