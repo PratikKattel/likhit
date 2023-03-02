@@ -1,4 +1,3 @@
-- **2023-01-18 19:56**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-19 16:02**: style: polish typography and Nepali Unicode font rendering
 - **2023-01-20 17:21**: docs: update README with setup instructions and feature list
 - **2023-01-20 22:28**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2023-02-28 10:53**: test: verify question extraction script against exam PDF
 - **2023-02-28 11:52**: fix: resolve layout shift during question transitions
 - **2023-03-01 21:59**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-03-02 15:02**: feat: add result summary with passing threshold analysis
