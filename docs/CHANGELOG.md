@@ -1,4 +1,3 @@
-- **2023-01-21 22:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-01-22 13:35**: test: verify question extraction script against exam PDF
 - **2023-01-23 11:52**: feat: add warning signs and informational road signs
 - **2023-01-23 16:08**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-03-02 19:59**: refactor: modularize traffic app logic and event listeners
 - **2023-03-03 15:23**: chore: format code style and clean up redundant variables
 - **2023-03-03 22:09**: style: polish typography and Nepali Unicode font rendering
+- **2023-03-04 12:03**: perf: optimize image caching for traffic sign assets
