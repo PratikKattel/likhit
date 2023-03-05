@@ -1,4 +1,3 @@
-- **2023-01-23 16:08**: perf: optimize image caching for traffic sign assets
 - **2023-01-24 09:26**: fix: update DOTM Nepal license syllabus questions
 - **2023-01-25 19:31**: docs: update README with setup instructions and feature list
 - **2023-01-26 12:02**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-03-04 12:03**: perf: optimize image caching for traffic sign assets
 - **2023-03-04 20:04**: fix: adjust passing score threshold according to new rules
 - **2023-03-05 18:32**: feat: support multiple choice questions for motorcycle category
+- **2023-03-05 18:45**: fix: prevent option re-selection after submitting answer
