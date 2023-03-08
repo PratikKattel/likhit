@@ -1,4 +1,3 @@
-- **2023-01-26 12:02**: feat: add regulatory traffic signs SVG graphics
 - **2023-01-26 13:26**: feat: add instant feedback and explanation on answer selection
 - **2023-01-26 18:07**: docs: add instructions for Nepali driving license written exam
 - **2023-01-27 12:23**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-03-05 18:45**: fix: prevent option re-selection after submitting answer
 - **2023-03-06 20:24**: feat: add instant feedback and explanation on answer selection
 - **2023-03-07 14:33**: docs: add instructions for Nepali driving license written exam
+- **2023-03-08 12:48**: fix: prevent option re-selection after submitting answer
