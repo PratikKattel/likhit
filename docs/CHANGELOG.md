@@ -1,4 +1,3 @@
-- **2023-01-27 12:23**: fix: correct color specifications for mandatory traffic signs
 - **2023-01-27 14:02**: fix: prevent option re-selection after submitting answer
 - **2023-01-28 11:44**: style: enhance traffic sign card layout and responsiveness
 - **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-03-08 12:48**: fix: prevent option re-selection after submitting answer
 - **2023-03-09 10:47**: feat: support multiple choice questions for motorcycle category
 - **2023-03-10 09:50**: fix: correct color specifications for mandatory traffic signs
+- **2023-03-10 16:36**: perf: index question IDs for rapid lookup
