@@ -1,4 +1,3 @@
-- **2023-01-28 11:44**: style: enhance traffic sign card layout and responsiveness
 - **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
 - **2023-01-28 19:32**: feat: support multiple choice questions for motorcycle category
 - **2023-01-29 10:54**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-03-10 09:50**: fix: correct color specifications for mandatory traffic signs
 - **2023-03-10 16:36**: perf: index question IDs for rapid lookup
 - **2023-03-10 17:25**: perf: index question IDs for rapid lookup
+- **2023-03-11 13:46**: style: polish typography and Nepali Unicode font rendering
