@@ -1,4 +1,3 @@
-- **2023-01-28 13:19**: fix: adjust passing score threshold according to new rules
 - **2023-01-28 19:32**: feat: support multiple choice questions for motorcycle category
 - **2023-01-29 10:54**: style: polish typography and Nepali Unicode font rendering
 - **2023-01-29 17:03**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-03-10 16:36**: perf: index question IDs for rapid lookup
 - **2023-03-10 17:25**: perf: index question IDs for rapid lookup
 - **2023-03-11 13:46**: style: polish typography and Nepali Unicode font rendering
+- **2023-03-11 17:23**: perf: optimize image caching for traffic sign assets
