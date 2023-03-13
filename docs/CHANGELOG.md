@@ -1,4 +1,3 @@
-- **2023-01-29 17:03**: feat: add keyboard navigation shortcuts for question selection
 - **2023-01-29 19:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-01-30 10:38**: feat: add category A and B traffic test questions
 - **2023-01-30 12:06**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2023-03-11 17:23**: perf: optimize image caching for traffic sign assets
 - **2023-03-11 18:03**: feat: add regulatory traffic signs SVG graphics
 - **2023-03-12 12:03**: perf: optimize image caching for traffic sign assets
+- **2023-03-13 22:13**: chore: organize assets and image directory structure
