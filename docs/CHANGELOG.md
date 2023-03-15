@@ -1,4 +1,3 @@
-- **2023-01-30 16:20**: fix: resolve layout shift during question transitions
 - **2023-01-31 09:10**: perf: optimize image caching for traffic sign assets
 - **2023-01-31 18:20**: style: polish typography and Nepali Unicode font rendering
 - **2023-01-31 20:49**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-03-14 14:59**: perf: index question IDs for rapid lookup
 - **2023-03-15 17:30**: feat: add warning signs and informational road signs
 - **2023-03-15 18:11**: feat: add category-specific practice modes
+- **2023-03-15 20:04**: style: polish typography and Nepali Unicode font rendering
