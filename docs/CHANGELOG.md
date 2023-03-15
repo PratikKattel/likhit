@@ -1,4 +1,3 @@
-- **2023-01-30 10:38**: feat: add category A and B traffic test questions
 - **2023-01-30 12:06**: chore: format code style and clean up redundant variables
 - **2023-01-30 16:20**: fix: resolve layout shift during question transitions
 - **2023-01-31 09:10**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-03-12 12:03**: perf: optimize image caching for traffic sign assets
 - **2023-03-13 22:13**: chore: organize assets and image directory structure
 - **2023-03-14 14:59**: perf: index question IDs for rapid lookup
+- **2023-03-15 17:30**: feat: add warning signs and informational road signs
