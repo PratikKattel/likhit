@@ -1,4 +1,3 @@
-- **2023-01-31 20:49**: feat: add keyboard navigation shortcuts for question selection
 - **2023-02-01 12:49**: fix: adjust passing score threshold according to new rules
 - **2023-02-01 22:00**: docs: improve code comments and API documentation
 - **2023-02-02 11:50**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-03-15 20:04**: style: polish typography and Nepali Unicode font rendering
 - **2023-03-16 13:34**: fix: prevent option re-selection after submitting answer
 - **2023-03-17 20:14**: fix: typo in Nepali road safety regulations question
+- **2023-03-17 21:06**: feat: add search and filter by sign category
