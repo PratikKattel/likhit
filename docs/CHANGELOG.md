@@ -1,4 +1,3 @@
-- **2023-02-01 22:00**: docs: improve code comments and API documentation
 - **2023-02-02 11:50**: refactor: restructure question data schema for faster loading
 - **2023-02-02 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-02-02 21:04**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-03-17 20:14**: fix: typo in Nepali road safety regulations question
 - **2023-03-17 21:06**: feat: add search and filter by sign category
 - **2023-03-18 11:41**: docs: improve code comments and API documentation
+- **2023-03-19 11:21**: docs: update traffic signals catalog documentation
