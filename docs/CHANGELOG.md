@@ -1,4 +1,3 @@
-- **2023-02-02 21:04**: fix: adjust passing score threshold according to new rules
 - **2023-02-02 21:45**: feat: add keyboard navigation shortcuts for question selection
 - **2023-02-03 22:02**: feat: add search and filter by sign category
 - **2023-02-03 22:18**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-03-19 11:21**: docs: update traffic signals catalog documentation
 - **2023-03-20 17:06**: fix: update DOTM Nepal license syllabus questions
 - **2023-03-20 19:52**: feat: add category-specific practice modes
+- **2023-03-20 22:20**: feat: add category-specific practice modes
