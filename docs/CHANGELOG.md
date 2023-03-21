@@ -1,4 +1,3 @@
-- **2023-02-04 10:44**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-05 21:33**: refactor: optimize SVG rendering for road signs
 - **2023-02-06 09:23**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-02-06 09:39**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-03-21 12:56**: fix: typo in Nepali road safety regulations question
 - **2023-03-21 13:28**: docs: update traffic signals catalog documentation
 - **2023-03-21 15:03**: feat: add regulatory traffic signs SVG graphics
+- **2023-03-21 15:24**: fix: correct color specifications for mandatory traffic signs
