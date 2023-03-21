@@ -1,4 +1,3 @@
-- **2023-02-03 22:02**: feat: add search and filter by sign category
 - **2023-02-03 22:18**: chore: update questions database with recent DOTM updates
 - **2023-02-04 10:44**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-05 21:33**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-03-20 19:52**: feat: add category-specific practice modes
 - **2023-03-20 22:20**: feat: add category-specific practice modes
 - **2023-03-21 12:56**: fix: typo in Nepali road safety regulations question
+- **2023-03-21 13:28**: docs: update traffic signals catalog documentation
