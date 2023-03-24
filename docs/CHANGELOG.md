@@ -1,4 +1,3 @@
-- **2023-02-06 09:39**: style: enhance traffic sign card layout and responsiveness
 - **2023-02-07 12:35**: feat: add instant feedback and explanation on answer selection
 - **2023-02-07 14:42**: fix: typo in Nepali road safety regulations question
 - **2023-02-08 10:47**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-03-21 15:24**: fix: correct color specifications for mandatory traffic signs
 - **2023-03-22 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2023-03-23 09:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-03-24 17:13**: feat: add search and filter by sign category
