@@ -1,4 +1,3 @@
-- **2023-02-07 12:35**: feat: add instant feedback and explanation on answer selection
 - **2023-02-07 14:42**: fix: typo in Nepali road safety regulations question
 - **2023-02-08 10:47**: refactor: optimize SVG rendering for road signs
 - **2023-02-08 14:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-03-22 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2023-03-23 09:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-03-24 17:13**: feat: add search and filter by sign category
+- **2023-03-25 09:51**: fix: typo in Nepali road safety regulations question
