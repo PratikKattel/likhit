@@ -1,4 +1,3 @@
-- **2023-02-11 14:44**: refactor: restructure question data schema for faster loading
 - **2023-02-12 16:56**: test: verify question extraction script against exam PDF
 - **2023-02-12 18:56**: chore: format code style and clean up redundant variables
 - **2023-02-13 16:30**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-03-30 12:09**: docs: update README with setup instructions and feature list
 - **2023-03-31 17:52**: chore: update questions database with recent DOTM updates
 - **2023-04-01 10:27**: docs: improve code comments and API documentation
+- **2023-04-01 19:31**: refactor: restructure question data schema for faster loading
