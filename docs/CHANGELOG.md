@@ -1,4 +1,3 @@
-- **2023-02-12 18:56**: chore: format code style and clean up redundant variables
 - **2023-02-13 16:30**: feat: add instant feedback and explanation on answer selection
 - **2023-02-13 17:39**: feat: add result summary with passing threshold analysis
 - **2023-02-14 13:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-04-01 10:27**: docs: improve code comments and API documentation
 - **2023-04-01 19:31**: refactor: restructure question data schema for faster loading
 - **2023-04-02 18:24**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-04-03 21:33**: feat: add instant feedback and explanation on answer selection
