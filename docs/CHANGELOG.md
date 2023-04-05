@@ -1,4 +1,3 @@
-- **2023-02-13 17:39**: feat: add result summary with passing threshold analysis
 - **2023-02-14 13:05**: style: polish typography and Nepali Unicode font rendering
 - **2023-02-14 16:05**: fix: resolve layout shift during question transitions
 - **2023-02-14 17:32**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-04-02 18:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-04-03 21:33**: feat: add instant feedback and explanation on answer selection
 - **2023-04-04 21:21**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-04-05 09:05**: feat: support multiple choice questions for motorcycle category
