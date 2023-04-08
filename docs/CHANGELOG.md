@@ -1,4 +1,3 @@
-- **2023-02-15 15:33**: fix: resolve layout shift during question transitions
 - **2023-02-16 09:34**: refactor: optimize SVG rendering for road signs
 - **2023-02-17 22:23**: chore: organize assets and image directory structure
 - **2023-02-18 22:19**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-04-07 13:45**: feat: add category-specific practice modes
 - **2023-04-07 16:32**: refactor: optimize SVG rendering for road signs
 - **2023-04-07 21:40**: chore: update questions database with recent DOTM updates
+- **2023-04-08 14:06**: feat: add instant feedback and explanation on answer selection
