@@ -1,4 +1,3 @@
-- **2023-02-19 16:12**: style: enhance traffic sign card layout and responsiveness
 - **2023-02-20 18:28**: style: enhance traffic sign card layout and responsiveness
 - **2023-02-21 22:15**: refactor: restructure question data schema for faster loading
 - **2023-02-22 15:36**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-04-08 14:40**: fix: adjust passing score threshold according to new rules
 - **2023-04-09 11:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-04-09 15:54**: chore: organize assets and image directory structure
+- **2023-04-09 19:49**: feat: add keyboard navigation shortcuts for question selection
