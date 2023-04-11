@@ -1,4 +1,3 @@
-- **2023-02-22 15:41**: docs: improve code comments and API documentation
 - **2023-02-23 13:37**: docs: update traffic signals catalog documentation
 - **2023-02-23 17:38**: feat: add warning signs and informational road signs
 - **2023-02-23 17:58**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2023-04-10 13:59**: perf: index question IDs for rapid lookup
 - **2023-04-10 21:17**: perf: lazy load signal graphics and question assets
 - **2023-04-11 16:05**: feat: add instant feedback and explanation on answer selection
+- **2023-04-11 18:19**: style: polish typography and Nepali Unicode font rendering
