@@ -1,4 +1,3 @@
-- **2023-02-23 17:38**: feat: add warning signs and informational road signs
 - **2023-02-23 17:58**: feat: add category-specific practice modes
 - **2023-02-23 19:57**: fix: prevent option re-selection after submitting answer
 - **2023-02-24 16:00**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2023-04-11 16:05**: feat: add instant feedback and explanation on answer selection
 - **2023-04-11 18:19**: style: polish typography and Nepali Unicode font rendering
 - **2023-04-12 11:58**: feat: implement timer and score calculation for mock test
+- **2023-04-13 11:33**: fix: correct color specifications for mandatory traffic signs
