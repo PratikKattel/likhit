@@ -1,4 +1,3 @@
-- **2023-02-23 19:57**: fix: prevent option re-selection after submitting answer
 - **2023-02-24 16:00**: chore: format code style and clean up redundant variables
 - **2023-02-25 11:16**: feat: add category-specific practice modes
 - **2023-02-25 15:38**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-04-12 11:58**: feat: implement timer and score calculation for mock test
 - **2023-04-13 11:33**: fix: correct color specifications for mandatory traffic signs
 - **2023-04-13 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-04-13 20:38**: feat: add warning signs and informational road signs
