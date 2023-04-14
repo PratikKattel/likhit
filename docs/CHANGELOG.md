@@ -1,4 +1,3 @@
-- **2023-02-25 11:16**: feat: add category-specific practice modes
 - **2023-02-25 15:38**: perf: lazy load signal graphics and question assets
 - **2023-02-26 19:55**: docs: improve code comments and API documentation
 - **2023-02-27 09:38**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2023-04-13 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-04-13 20:38**: feat: add warning signs and informational road signs
 - **2023-04-14 11:43**: fix: prevent option re-selection after submitting answer
+- **2023-04-14 20:02**: feat: add instant feedback and explanation on answer selection
