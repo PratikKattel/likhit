@@ -1,4 +1,3 @@
-- **2023-02-26 19:55**: docs: improve code comments and API documentation
 - **2023-02-27 09:38**: test: verify question extraction script against exam PDF
 - **2023-02-27 12:27**: perf: index question IDs for rapid lookup
 - **2023-02-27 21:35**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-04-14 11:43**: fix: prevent option re-selection after submitting answer
 - **2023-04-14 20:02**: feat: add instant feedback and explanation on answer selection
 - **2023-04-15 13:30**: feat: support multiple choice questions for motorcycle category
+- **2023-04-15 15:17**: chore: update questions database with recent DOTM updates
