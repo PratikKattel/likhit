@@ -1,4 +1,3 @@
-- **2023-02-27 21:35**: refactor: modularize traffic app logic and event listeners
 - **2023-02-28 10:53**: test: verify question extraction script against exam PDF
 - **2023-02-28 11:52**: fix: resolve layout shift during question transitions
 - **2023-03-01 21:59**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-04-15 15:17**: chore: update questions database with recent DOTM updates
 - **2023-04-16 16:20**: feat: implement timer and score calculation for mock test
 - **2023-04-16 16:24**: fix: resolve layout shift during question transitions
+- **2023-04-16 22:14**: style: polish typography and Nepali Unicode font rendering
