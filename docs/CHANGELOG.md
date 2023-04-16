@@ -1,4 +1,3 @@
-- **2023-02-27 12:27**: perf: index question IDs for rapid lookup
 - **2023-02-27 21:35**: refactor: modularize traffic app logic and event listeners
 - **2023-02-28 10:53**: test: verify question extraction script against exam PDF
 - **2023-02-28 11:52**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2023-04-15 13:30**: feat: support multiple choice questions for motorcycle category
 - **2023-04-15 15:17**: chore: update questions database with recent DOTM updates
 - **2023-04-16 16:20**: feat: implement timer and score calculation for mock test
+- **2023-04-16 16:24**: fix: resolve layout shift during question transitions
