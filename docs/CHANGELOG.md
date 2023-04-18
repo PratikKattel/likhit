@@ -1,4 +1,3 @@
-- **2023-02-28 11:52**: fix: resolve layout shift during question transitions
 - **2023-03-01 21:59**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-03-02 15:02**: feat: add result summary with passing threshold analysis
 - **2023-03-02 19:59**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-04-16 16:24**: fix: resolve layout shift during question transitions
 - **2023-04-16 22:14**: style: polish typography and Nepali Unicode font rendering
 - **2023-04-17 15:37**: fix: prevent option re-selection after submitting answer
+- **2023-04-18 11:37**: chore: update project metadata and build configuration
