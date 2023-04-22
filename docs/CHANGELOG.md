@@ -1,4 +1,3 @@
-- **2023-03-04 12:03**: perf: optimize image caching for traffic sign assets
 - **2023-03-04 20:04**: fix: adjust passing score threshold according to new rules
 - **2023-03-05 18:32**: feat: support multiple choice questions for motorcycle category
 - **2023-03-05 18:45**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-04-21 18:25**: chore: format code style and clean up redundant variables
 - **2023-04-22 09:12**: refactor: optimize SVG rendering for road signs
 - **2023-04-22 12:24**: feat: add instant feedback and explanation on answer selection
+- **2023-04-22 19:03**: fix: prevent option re-selection after submitting answer
