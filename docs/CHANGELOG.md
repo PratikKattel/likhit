@@ -1,4 +1,3 @@
-- **2023-03-05 18:32**: feat: support multiple choice questions for motorcycle category
 - **2023-03-05 18:45**: fix: prevent option re-selection after submitting answer
 - **2023-03-06 20:24**: feat: add instant feedback and explanation on answer selection
 - **2023-03-07 14:33**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-04-22 12:24**: feat: add instant feedback and explanation on answer selection
 - **2023-04-22 19:03**: fix: prevent option re-selection after submitting answer
 - **2023-04-23 22:07**: feat: add search and filter by sign category
+- **2023-04-24 21:08**: refactor: restructure question data schema for faster loading
