@@ -1,4 +1,3 @@
-- **2023-03-07 14:33**: docs: add instructions for Nepali driving license written exam
 - **2023-03-08 12:48**: fix: prevent option re-selection after submitting answer
 - **2023-03-09 10:47**: feat: support multiple choice questions for motorcycle category
 - **2023-03-10 09:50**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-04-24 21:08**: refactor: restructure question data schema for faster loading
 - **2023-04-25 12:02**: test: verify question extraction script against exam PDF
 - **2023-04-25 21:46**: feat: add result summary with passing threshold analysis
+- **2023-04-26 10:18**: docs: add instructions for Nepali driving license written exam
