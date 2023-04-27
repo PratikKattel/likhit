@@ -1,4 +1,3 @@
-- **2023-03-10 09:50**: fix: correct color specifications for mandatory traffic signs
 - **2023-03-10 16:36**: perf: index question IDs for rapid lookup
 - **2023-03-10 17:25**: perf: index question IDs for rapid lookup
 - **2023-03-11 13:46**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-04-26 10:18**: docs: add instructions for Nepali driving license written exam
 - **2023-04-26 13:24**: docs: add instructions for Nepali driving license written exam
 - **2023-04-26 16:06**: perf: lazy load signal graphics and question assets
+- **2023-04-27 16:19**: feat: add result summary with passing threshold analysis
