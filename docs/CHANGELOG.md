@@ -1,4 +1,3 @@
-- **2023-03-11 18:03**: feat: add regulatory traffic signs SVG graphics
 - **2023-03-12 12:03**: perf: optimize image caching for traffic sign assets
 - **2023-03-13 22:13**: chore: organize assets and image directory structure
 - **2023-03-14 14:59**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-04-29 13:43**: refactor: modularize traffic app logic and event listeners
 - **2023-04-30 13:51**: docs: improve code comments and API documentation
 - **2023-04-30 16:47**: feat: add category-specific practice modes
+- **2023-05-01 11:51**: feat: add warning signs and informational road signs
