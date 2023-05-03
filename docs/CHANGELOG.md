@@ -1,4 +1,3 @@
-- **2023-03-15 18:11**: feat: add category-specific practice modes
 - **2023-03-15 20:04**: style: polish typography and Nepali Unicode font rendering
 - **2023-03-16 13:34**: fix: prevent option re-selection after submitting answer
 - **2023-03-17 20:14**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2023-05-01 15:37**: style: polish typography and Nepali Unicode font rendering
 - **2023-05-02 09:36**: chore: update project metadata and build configuration
 - **2023-05-02 20:45**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-05-03 18:39**: perf: lazy load signal graphics and question assets
