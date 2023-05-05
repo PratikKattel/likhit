@@ -1,4 +1,3 @@
-- **2023-03-17 20:14**: fix: typo in Nepali road safety regulations question
 - **2023-03-17 21:06**: feat: add search and filter by sign category
 - **2023-03-18 11:41**: docs: improve code comments and API documentation
 - **2023-03-19 11:21**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-05-03 18:39**: perf: lazy load signal graphics and question assets
 - **2023-05-04 09:56**: refactor: restructure question data schema for faster loading
 - **2023-05-05 12:17**: fix: correct color specifications for mandatory traffic signs
+- **2023-05-05 12:58**: chore: format code style and clean up redundant variables
