@@ -1,4 +1,3 @@
-- **2023-03-18 11:41**: docs: improve code comments and API documentation
 - **2023-03-19 11:21**: docs: update traffic signals catalog documentation
 - **2023-03-20 17:06**: fix: update DOTM Nepal license syllabus questions
 - **2023-03-20 19:52**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2023-05-05 12:17**: fix: correct color specifications for mandatory traffic signs
 - **2023-05-05 12:58**: chore: format code style and clean up redundant variables
 - **2023-05-06 09:57**: fix: prevent option re-selection after submitting answer
+- **2023-05-06 14:44**: docs: add instructions for Nepali driving license written exam
