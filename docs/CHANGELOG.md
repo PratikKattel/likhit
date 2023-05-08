@@ -1,4 +1,3 @@
-- **2023-03-20 19:52**: feat: add category-specific practice modes
 - **2023-03-20 22:20**: feat: add category-specific practice modes
 - **2023-03-21 12:56**: fix: typo in Nepali road safety regulations question
 - **2023-03-21 13:28**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-05-06 14:44**: docs: add instructions for Nepali driving license written exam
 - **2023-05-06 15:41**: docs: update README with setup instructions and feature list
 - **2023-05-07 09:57**: feat: implement timer and score calculation for mock test
+- **2023-05-08 13:32**: perf: lazy load signal graphics and question assets
