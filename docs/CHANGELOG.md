@@ -1,4 +1,3 @@
-- **2023-03-21 13:28**: docs: update traffic signals catalog documentation
 - **2023-03-21 15:03**: feat: add regulatory traffic signs SVG graphics
 - **2023-03-21 15:24**: fix: correct color specifications for mandatory traffic signs
 - **2023-03-22 14:54**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-05-08 13:32**: perf: lazy load signal graphics and question assets
 - **2023-05-08 15:29**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-08 19:22**: style: enhance traffic sign card layout and responsiveness
+- **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
