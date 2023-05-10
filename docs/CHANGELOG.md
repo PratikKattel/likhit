@@ -1,4 +1,3 @@
-- **2023-03-22 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2023-03-23 09:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-03-24 17:13**: feat: add search and filter by sign category
 - **2023-03-25 09:51**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
 - **2023-05-09 17:52**: perf: index question IDs for rapid lookup
 - **2023-05-10 15:23**: fix: prevent option re-selection after submitting answer
+- **2023-05-10 18:15**: perf: optimize image caching for traffic sign assets
