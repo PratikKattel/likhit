@@ -1,4 +1,3 @@
-- **2023-03-21 15:24**: fix: correct color specifications for mandatory traffic signs
 - **2023-03-22 14:54**: feat: add keyboard navigation shortcuts for question selection
 - **2023-03-23 09:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-03-24 17:13**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2023-05-08 19:22**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
 - **2023-05-09 17:52**: perf: index question IDs for rapid lookup
+- **2023-05-10 15:23**: fix: prevent option re-selection after submitting answer
