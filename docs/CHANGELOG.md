@@ -1,4 +1,3 @@
-- **2023-03-23 09:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-03-24 17:13**: feat: add search and filter by sign category
 - **2023-03-25 09:51**: fix: typo in Nepali road safety regulations question
 - **2023-03-26 21:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-05-09 17:52**: perf: index question IDs for rapid lookup
 - **2023-05-10 15:23**: fix: prevent option re-selection after submitting answer
 - **2023-05-10 18:15**: perf: optimize image caching for traffic sign assets
+- **2023-05-10 20:05**: docs: update README with setup instructions and feature list
