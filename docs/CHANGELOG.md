@@ -1,4 +1,3 @@
-- **2023-03-26 21:33**: feat: add regulatory traffic signs SVG graphics
 - **2023-03-27 10:26**: chore: format code style and clean up redundant variables
 - **2023-03-27 18:31**: fix: typo in Nepali road safety regulations question
 - **2023-03-28 20:59**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-05-10 20:05**: docs: update README with setup instructions and feature list
 - **2023-05-10 21:41**: fix: prevent option re-selection after submitting answer
 - **2023-05-11 15:47**: docs: add instructions for Nepali driving license written exam
+- **2023-05-12 12:23**: feat: add category-specific practice modes
