@@ -1,4 +1,3 @@
-- **2023-03-28 20:59**: feat: add regulatory traffic signs SVG graphics
 - **2023-03-29 17:02**: chore: update questions database with recent DOTM updates
 - **2023-03-30 12:09**: docs: update README with setup instructions and feature list
 - **2023-03-31 17:52**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-05-12 12:23**: feat: add category-specific practice modes
 - **2023-05-13 13:31**: refactor: modularize traffic app logic and event listeners
 - **2023-05-13 15:50**: chore: update project metadata and build configuration
+- **2023-05-13 16:44**: style: enhance traffic sign card layout and responsiveness
