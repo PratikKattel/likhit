@@ -1,4 +1,3 @@
-- **2023-03-30 12:09**: docs: update README with setup instructions and feature list
 - **2023-03-31 17:52**: chore: update questions database with recent DOTM updates
 - **2023-04-01 10:27**: docs: improve code comments and API documentation
 - **2023-04-01 19:31**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-05-13 15:50**: chore: update project metadata and build configuration
 - **2023-05-13 16:44**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-14 15:42**: fix: adjust passing score threshold according to new rules
+- **2023-05-14 18:36**: refactor: restructure question data schema for faster loading
