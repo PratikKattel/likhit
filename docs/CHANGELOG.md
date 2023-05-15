@@ -1,4 +1,3 @@
-- **2023-04-01 10:27**: docs: improve code comments and API documentation
 - **2023-04-01 19:31**: refactor: restructure question data schema for faster loading
 - **2023-04-02 18:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-04-03 21:33**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-05-14 15:42**: fix: adjust passing score threshold according to new rules
 - **2023-05-14 18:36**: refactor: restructure question data schema for faster loading
 - **2023-05-15 11:20**: docs: improve code comments and API documentation
+- **2023-05-15 18:57**: refactor: optimize SVG rendering for road signs
