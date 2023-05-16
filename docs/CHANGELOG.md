@@ -1,4 +1,3 @@
-- **2023-04-01 19:31**: refactor: restructure question data schema for faster loading
 - **2023-04-02 18:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-04-03 21:33**: feat: add instant feedback and explanation on answer selection
 - **2023-04-04 21:21**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-05-14 18:36**: refactor: restructure question data schema for faster loading
 - **2023-05-15 11:20**: docs: improve code comments and API documentation
 - **2023-05-15 18:57**: refactor: optimize SVG rendering for road signs
+- **2023-05-16 21:36**: feat: add instant feedback and explanation on answer selection
