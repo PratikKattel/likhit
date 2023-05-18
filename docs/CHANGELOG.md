@@ -1,4 +1,3 @@
-- **2023-04-05 09:05**: feat: support multiple choice questions for motorcycle category
 - **2023-04-06 19:11**: chore: format code style and clean up redundant variables
 - **2023-04-07 13:45**: feat: add category-specific practice modes
 - **2023-04-07 16:32**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-05-17 10:30**: feat: add keyboard navigation shortcuts for question selection
 - **2023-05-17 11:29**: feat: add category A and B traffic test questions
 - **2023-05-18 10:07**: perf: optimize image caching for traffic sign assets
+- **2023-05-18 16:56**: docs: update README with setup instructions and feature list
