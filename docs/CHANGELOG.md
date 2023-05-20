@@ -1,4 +1,3 @@
-- **2023-04-07 21:40**: chore: update questions database with recent DOTM updates
 - **2023-04-08 14:06**: feat: add instant feedback and explanation on answer selection
 - **2023-04-08 14:40**: fix: adjust passing score threshold according to new rules
 - **2023-04-09 11:52**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-05-19 15:50**: perf: index question IDs for rapid lookup
 - **2023-05-19 18:20**: fix: correct color specifications for mandatory traffic signs
 - **2023-05-20 11:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-05-20 20:38**: style: polish typography and Nepali Unicode font rendering
