@@ -1,4 +1,3 @@
-- **2023-04-08 14:40**: fix: adjust passing score threshold according to new rules
 - **2023-04-09 11:52**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-04-09 15:54**: chore: organize assets and image directory structure
 - **2023-04-09 19:49**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-05-20 11:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-05-20 20:38**: style: polish typography and Nepali Unicode font rendering
 - **2023-05-20 21:10**: feat: add instant feedback and explanation on answer selection
+- **2023-05-21 15:57**: refactor: clean up unused CSS classes and optimize stylesheet
