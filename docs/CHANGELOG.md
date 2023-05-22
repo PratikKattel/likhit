@@ -1,4 +1,3 @@
-- **2023-04-09 19:49**: feat: add keyboard navigation shortcuts for question selection
 - **2023-04-10 13:59**: perf: index question IDs for rapid lookup
 - **2023-04-10 21:17**: perf: lazy load signal graphics and question assets
 - **2023-04-11 16:05**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-05-21 15:57**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-05-22 09:45**: fix: typo in Nepali road safety regulations question
 - **2023-05-22 15:00**: chore: organize assets and image directory structure
+- **2023-05-22 16:12**: feat: add keyboard navigation shortcuts for question selection
