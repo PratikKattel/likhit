@@ -1,4 +1,3 @@
-- **2023-04-11 18:19**: style: polish typography and Nepali Unicode font rendering
 - **2023-04-12 11:58**: feat: implement timer and score calculation for mock test
 - **2023-04-13 11:33**: fix: correct color specifications for mandatory traffic signs
 - **2023-04-13 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-05-23 09:03**: feat: add warning signs and informational road signs
 - **2023-05-23 10:33**: feat: implement timer and score calculation for mock test
 - **2023-05-23 18:53**: feat: add result summary with passing threshold analysis
+- **2023-05-24 20:07**: feat: add search and filter by sign category
