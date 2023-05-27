@@ -1,4 +1,3 @@
-- **2023-04-13 20:38**: feat: add warning signs and informational road signs
 - **2023-04-14 11:43**: fix: prevent option re-selection after submitting answer
 - **2023-04-14 20:02**: feat: add instant feedback and explanation on answer selection
 - **2023-04-15 13:30**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-05-25 19:46**: docs: add instructions for Nepali driving license written exam
 - **2023-05-26 09:51**: refactor: restructure question data schema for faster loading
 - **2023-05-27 13:46**: fix: resolve layout shift during question transitions
+- **2023-05-27 22:10**: fix: adjust passing score threshold according to new rules
