@@ -1,4 +1,3 @@
-- **2023-04-15 13:30**: feat: support multiple choice questions for motorcycle category
 - **2023-04-15 15:17**: chore: update questions database with recent DOTM updates
 - **2023-04-16 16:20**: feat: implement timer and score calculation for mock test
 - **2023-04-16 16:24**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2023-05-27 22:10**: fix: adjust passing score threshold according to new rules
 - **2023-05-28 13:28**: refactor: restructure question data schema for faster loading
 - **2023-05-29 21:42**: feat: add keyboard navigation shortcuts for question selection
+- **2023-05-29 21:46**: docs: update traffic signals catalog documentation
