@@ -1,4 +1,3 @@
-- **2023-04-16 16:20**: feat: implement timer and score calculation for mock test
 - **2023-04-16 16:24**: fix: resolve layout shift during question transitions
 - **2023-04-16 22:14**: style: polish typography and Nepali Unicode font rendering
 - **2023-04-17 15:37**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-05-29 21:42**: feat: add keyboard navigation shortcuts for question selection
 - **2023-05-29 21:46**: docs: update traffic signals catalog documentation
 - **2023-05-30 10:01**: chore: update questions database with recent DOTM updates
+- **2023-05-31 13:16**: style: enhance traffic sign card layout and responsiveness
