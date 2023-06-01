@@ -1,4 +1,3 @@
-- **2023-04-16 22:14**: style: polish typography and Nepali Unicode font rendering
 - **2023-04-17 15:37**: fix: prevent option re-selection after submitting answer
 - **2023-04-18 11:37**: chore: update project metadata and build configuration
 - **2023-04-19 20:33**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2023-05-30 10:01**: chore: update questions database with recent DOTM updates
 - **2023-05-31 13:16**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-01 11:06**: refactor: restructure question data schema for faster loading
+- **2023-06-01 17:06**: feat: add keyboard navigation shortcuts for question selection
