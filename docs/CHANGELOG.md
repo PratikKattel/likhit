@@ -1,4 +1,3 @@
-- **2023-04-19 20:33**: fix: update DOTM Nepal license syllabus questions
 - **2023-04-20 09:12**: feat: add result summary with passing threshold analysis
 - **2023-04-21 18:25**: chore: format code style and clean up redundant variables
 - **2023-04-22 09:12**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-06-01 17:06**: feat: add keyboard navigation shortcuts for question selection
 - **2023-06-01 21:04**: docs: add instructions for Nepali driving license written exam
 - **2023-06-02 19:09**: fix: typo in Nepali road safety regulations question
+- **2023-06-02 19:43**: chore: update questions database with recent DOTM updates
