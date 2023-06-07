@@ -1,4 +1,3 @@
-- **2023-04-23 22:07**: feat: add search and filter by sign category
 - **2023-04-24 21:08**: refactor: restructure question data schema for faster loading
 - **2023-04-25 12:02**: test: verify question extraction script against exam PDF
 - **2023-04-25 21:46**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2023-06-04 16:53**: refactor: optimize SVG rendering for road signs
 - **2023-06-05 13:05**: feat: add instant feedback and explanation on answer selection
 - **2023-06-06 14:08**: fix: adjust passing score threshold according to new rules
+- **2023-06-07 11:32**: docs: add instructions for Nepali driving license written exam
