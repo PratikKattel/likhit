@@ -1,4 +1,3 @@
-- **2023-04-26 16:06**: perf: lazy load signal graphics and question assets
 - **2023-04-27 16:19**: feat: add result summary with passing threshold analysis
 - **2023-04-28 14:34**: refactor: modularize traffic app logic and event listeners
 - **2023-04-29 13:43**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-06-10 09:50**: docs: update traffic signals catalog documentation
 - **2023-06-10 12:46**: refactor: modularize traffic app logic and event listeners
 - **2023-06-10 13:55**: perf: lazy load signal graphics and question assets
+- **2023-06-11 09:35**: feat: support multiple choice questions for motorcycle category
