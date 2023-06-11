@@ -1,4 +1,3 @@
-- **2023-04-27 16:19**: feat: add result summary with passing threshold analysis
 - **2023-04-28 14:34**: refactor: modularize traffic app logic and event listeners
 - **2023-04-29 13:43**: refactor: modularize traffic app logic and event listeners
 - **2023-04-30 13:51**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2023-06-10 12:46**: refactor: modularize traffic app logic and event listeners
 - **2023-06-10 13:55**: perf: lazy load signal graphics and question assets
 - **2023-06-11 09:35**: feat: support multiple choice questions for motorcycle category
+- **2023-06-11 12:36**: fix: prevent option re-selection after submitting answer
