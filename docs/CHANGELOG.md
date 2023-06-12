@@ -1,4 +1,3 @@
-- **2023-04-30 13:51**: docs: improve code comments and API documentation
 - **2023-04-30 16:47**: feat: add category-specific practice modes
 - **2023-05-01 11:51**: feat: add warning signs and informational road signs
 - **2023-05-01 13:19**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-06-11 12:36**: fix: prevent option re-selection after submitting answer
 - **2023-06-11 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2023-06-11 16:00**: refactor: optimize SVG rendering for road signs
+- **2023-06-12 18:34**: perf: lazy load signal graphics and question assets
