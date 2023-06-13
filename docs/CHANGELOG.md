@@ -1,4 +1,3 @@
-- **2023-05-01 11:51**: feat: add warning signs and informational road signs
 - **2023-05-01 13:19**: feat: implement timer and score calculation for mock test
 - **2023-05-01 15:37**: style: polish typography and Nepali Unicode font rendering
 - **2023-05-02 09:36**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2023-06-11 16:00**: refactor: optimize SVG rendering for road signs
 - **2023-06-12 18:34**: perf: lazy load signal graphics and question assets
 - **2023-06-13 09:28**: docs: add instructions for Nepali driving license written exam
+- **2023-06-13 19:35**: feat: implement timer and score calculation for mock test
