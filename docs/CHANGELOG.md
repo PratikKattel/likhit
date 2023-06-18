@@ -1,4 +1,3 @@
-- **2023-05-06 14:44**: docs: add instructions for Nepali driving license written exam
 - **2023-05-06 15:41**: docs: update README with setup instructions and feature list
 - **2023-05-07 09:57**: feat: implement timer and score calculation for mock test
 - **2023-05-08 13:32**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-06-16 18:14**: feat: support multiple choice questions for motorcycle category
 - **2023-06-17 15:35**: feat: add category A and B traffic test questions
 - **2023-06-18 09:53**: feat: add search and filter by sign category
+- **2023-06-18 16:52**: test: verify question extraction script against exam PDF
