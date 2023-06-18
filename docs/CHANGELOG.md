@@ -1,4 +1,3 @@
-- **2023-05-06 09:57**: fix: prevent option re-selection after submitting answer
 - **2023-05-06 14:44**: docs: add instructions for Nepali driving license written exam
 - **2023-05-06 15:41**: docs: update README with setup instructions and feature list
 - **2023-05-07 09:57**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-06-15 13:11**: fix: typo in Nepali road safety regulations question
 - **2023-06-16 18:14**: feat: support multiple choice questions for motorcycle category
 - **2023-06-17 15:35**: feat: add category A and B traffic test questions
+- **2023-06-18 09:53**: feat: add search and filter by sign category
