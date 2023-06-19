@@ -1,4 +1,3 @@
-- **2023-05-08 13:32**: perf: lazy load signal graphics and question assets
 - **2023-05-08 15:29**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-08 19:22**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-06-18 16:52**: test: verify question extraction script against exam PDF
 - **2023-06-19 11:30**: refactor: restructure question data schema for faster loading
 - **2023-06-19 14:22**: feat: support multiple choice questions for motorcycle category
+- **2023-06-19 20:29**: chore: organize assets and image directory structure
