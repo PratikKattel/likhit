@@ -1,4 +1,3 @@
-- **2023-05-08 15:29**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-08 19:22**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
 - **2023-05-09 17:52**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-06-19 11:30**: refactor: restructure question data schema for faster loading
 - **2023-06-19 14:22**: feat: support multiple choice questions for motorcycle category
 - **2023-06-19 20:29**: chore: organize assets and image directory structure
+- **2023-06-19 20:51**: chore: update project metadata and build configuration
