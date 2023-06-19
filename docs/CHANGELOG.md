@@ -1,4 +1,3 @@
-- **2023-05-07 09:57**: feat: implement timer and score calculation for mock test
 - **2023-05-08 13:32**: perf: lazy load signal graphics and question assets
 - **2023-05-08 15:29**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-08 19:22**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-06-18 09:53**: feat: add search and filter by sign category
 - **2023-06-18 16:52**: test: verify question extraction script against exam PDF
 - **2023-06-19 11:30**: refactor: restructure question data schema for faster loading
+- **2023-06-19 14:22**: feat: support multiple choice questions for motorcycle category
