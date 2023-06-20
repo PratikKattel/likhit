@@ -1,4 +1,3 @@
-- **2023-05-09 11:18**: chore: update questions database with recent DOTM updates
 - **2023-05-09 17:52**: perf: index question IDs for rapid lookup
 - **2023-05-10 15:23**: fix: prevent option re-selection after submitting answer
 - **2023-05-10 18:15**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-06-19 20:29**: chore: organize assets and image directory structure
 - **2023-06-19 20:51**: chore: update project metadata and build configuration
 - **2023-06-20 14:16**: fix: prevent option re-selection after submitting answer
+- **2023-06-20 18:14**: fix: adjust passing score threshold according to new rules
