@@ -1,4 +1,3 @@
-- **2023-05-09 17:52**: perf: index question IDs for rapid lookup
 - **2023-05-10 15:23**: fix: prevent option re-selection after submitting answer
 - **2023-05-10 18:15**: perf: optimize image caching for traffic sign assets
 - **2023-05-10 20:05**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-06-19 20:51**: chore: update project metadata and build configuration
 - **2023-06-20 14:16**: fix: prevent option re-selection after submitting answer
 - **2023-06-20 18:14**: fix: adjust passing score threshold according to new rules
+- **2023-06-20 21:43**: feat: add search and filter by sign category
