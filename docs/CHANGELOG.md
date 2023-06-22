@@ -1,4 +1,3 @@
-- **2023-05-10 18:15**: perf: optimize image caching for traffic sign assets
 - **2023-05-10 20:05**: docs: update README with setup instructions and feature list
 - **2023-05-10 21:41**: fix: prevent option re-selection after submitting answer
 - **2023-05-11 15:47**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-06-20 18:14**: fix: adjust passing score threshold according to new rules
 - **2023-06-20 21:43**: feat: add search and filter by sign category
 - **2023-06-21 10:19**: docs: update traffic signals catalog documentation
+- **2023-06-22 14:33**: refactor: optimize SVG rendering for road signs
