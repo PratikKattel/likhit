@@ -1,4 +1,3 @@
-- **2023-05-10 21:41**: fix: prevent option re-selection after submitting answer
 - **2023-05-11 15:47**: docs: add instructions for Nepali driving license written exam
 - **2023-05-12 12:23**: feat: add category-specific practice modes
 - **2023-05-13 13:31**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-06-21 10:19**: docs: update traffic signals catalog documentation
 - **2023-06-22 14:33**: refactor: optimize SVG rendering for road signs
 - **2023-06-22 20:00**: fix: adjust passing score threshold according to new rules
+- **2023-06-23 10:53**: chore: update questions database with recent DOTM updates
