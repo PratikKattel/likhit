@@ -1,4 +1,3 @@
-- **2023-05-13 15:50**: chore: update project metadata and build configuration
 - **2023-05-13 16:44**: style: enhance traffic sign card layout and responsiveness
 - **2023-05-14 15:42**: fix: adjust passing score threshold according to new rules
 - **2023-05-14 18:36**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-06-23 20:20**: fix: correct color specifications for mandatory traffic signs
 - **2023-06-23 21:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-06-24 19:22**: chore: format code style and clean up redundant variables
+- **2023-06-25 09:11**: feat: support multiple choice questions for motorcycle category
