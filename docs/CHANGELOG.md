@@ -1,4 +1,3 @@
-- **2023-05-14 15:42**: fix: adjust passing score threshold according to new rules
 - **2023-05-14 18:36**: refactor: restructure question data schema for faster loading
 - **2023-05-15 11:20**: docs: improve code comments and API documentation
 - **2023-05-15 18:57**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-06-24 19:22**: chore: format code style and clean up redundant variables
 - **2023-06-25 09:11**: feat: support multiple choice questions for motorcycle category
 - **2023-06-26 19:19**: test: verify question extraction script against exam PDF
+- **2023-06-27 17:12**: fix: resolve layout shift during question transitions
