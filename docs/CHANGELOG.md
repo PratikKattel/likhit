@@ -1,4 +1,3 @@
-- **2023-05-15 11:20**: docs: improve code comments and API documentation
 - **2023-05-15 18:57**: refactor: optimize SVG rendering for road signs
 - **2023-05-16 21:36**: feat: add instant feedback and explanation on answer selection
 - **2023-05-17 10:30**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-06-26 19:19**: test: verify question extraction script against exam PDF
 - **2023-06-27 17:12**: fix: resolve layout shift during question transitions
 - **2023-06-27 21:43**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-06-28 16:16**: style: enhance traffic sign card layout and responsiveness
