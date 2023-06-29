@@ -1,4 +1,3 @@
-- **2023-05-17 10:30**: feat: add keyboard navigation shortcuts for question selection
 - **2023-05-17 11:29**: feat: add category A and B traffic test questions
 - **2023-05-18 10:07**: perf: optimize image caching for traffic sign assets
 - **2023-05-18 16:56**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-06-28 16:16**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-29 10:13**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-29 12:51**: docs: update traffic signals catalog documentation
+- **2023-06-29 20:30**: feat: add search and filter by sign category
