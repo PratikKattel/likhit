@@ -1,4 +1,3 @@
-- **2023-05-18 10:07**: perf: optimize image caching for traffic sign assets
 - **2023-05-18 16:56**: docs: update README with setup instructions and feature list
 - **2023-05-19 15:50**: perf: index question IDs for rapid lookup
 - **2023-05-19 18:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-06-29 12:51**: docs: update traffic signals catalog documentation
 - **2023-06-29 20:30**: feat: add search and filter by sign category
 - **2023-06-30 17:11**: docs: improve code comments and API documentation
+- **2023-06-30 18:56**: feat: add regulatory traffic signs SVG graphics
