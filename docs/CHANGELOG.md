@@ -1,4 +1,3 @@
-- **2023-05-20 11:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-05-20 20:38**: style: polish typography and Nepali Unicode font rendering
 - **2023-05-20 21:10**: feat: add instant feedback and explanation on answer selection
 - **2023-05-21 15:57**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-07-01 22:27**: feat: add instant feedback and explanation on answer selection
 - **2023-07-02 14:47**: feat: add category-specific practice modes
 - **2023-07-03 15:33**: refactor: optimize SVG rendering for road signs
+- **2023-07-03 17:08**: docs: improve code comments and API documentation
