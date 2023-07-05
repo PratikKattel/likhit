@@ -1,4 +1,3 @@
-- **2023-05-22 09:45**: fix: typo in Nepali road safety regulations question
 - **2023-05-22 15:00**: chore: organize assets and image directory structure
 - **2023-05-22 16:12**: feat: add keyboard navigation shortcuts for question selection
 - **2023-05-23 09:03**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-07-03 21:44**: chore: organize assets and image directory structure
 - **2023-07-04 18:11**: docs: update traffic signals catalog documentation
 - **2023-07-05 10:42**: docs: add instructions for Nepali driving license written exam
+- **2023-07-05 19:55**: fix: prevent option re-selection after submitting answer
