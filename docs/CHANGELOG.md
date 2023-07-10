@@ -1,4 +1,3 @@
-- **2023-05-23 18:53**: feat: add result summary with passing threshold analysis
 - **2023-05-24 20:07**: feat: add search and filter by sign category
 - **2023-05-25 19:46**: docs: add instructions for Nepali driving license written exam
 - **2023-05-26 09:51**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-07-07 21:33**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-08 18:52**: chore: organize assets and image directory structure
 - **2023-07-09 18:13**: chore: update questions database with recent DOTM updates
+- **2023-07-10 20:21**: feat: add search and filter by sign category
