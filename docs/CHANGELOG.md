@@ -1,4 +1,3 @@
-- **2023-05-27 13:46**: fix: resolve layout shift during question transitions
 - **2023-05-27 22:10**: fix: adjust passing score threshold according to new rules
 - **2023-05-28 13:28**: refactor: restructure question data schema for faster loading
 - **2023-05-29 21:42**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-07-11 10:04**: chore: update project metadata and build configuration
 - **2023-07-11 22:27**: docs: update README with setup instructions and feature list
 - **2023-07-12 13:33**: docs: update traffic signals catalog documentation
+- **2023-07-12 17:11**: chore: update questions database with recent DOTM updates
