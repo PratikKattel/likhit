@@ -1,4 +1,3 @@
-- **2023-05-29 21:42**: feat: add keyboard navigation shortcuts for question selection
 - **2023-05-29 21:46**: docs: update traffic signals catalog documentation
 - **2023-05-30 10:01**: chore: update questions database with recent DOTM updates
 - **2023-05-31 13:16**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-07-12 17:11**: chore: update questions database with recent DOTM updates
 - **2023-07-12 18:59**: feat: add result summary with passing threshold analysis
 - **2023-07-13 09:40**: test: verify question extraction script against exam PDF
+- **2023-07-13 11:16**: style: improve dark/light mode and mobile UI responsiveness
