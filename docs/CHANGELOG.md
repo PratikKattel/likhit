@@ -1,4 +1,3 @@
-- **2023-05-31 13:16**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-01 11:06**: refactor: restructure question data schema for faster loading
 - **2023-06-01 17:06**: feat: add keyboard navigation shortcuts for question selection
 - **2023-06-01 21:04**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-07-13 11:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-07-13 13:43**: refactor: modularize traffic app logic and event listeners
 - **2023-07-13 14:56**: test: verify question extraction script against exam PDF
+- **2023-07-14 12:40**: feat: add result summary with passing threshold analysis
