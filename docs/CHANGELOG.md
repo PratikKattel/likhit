@@ -1,4 +1,3 @@
-- **2023-06-01 21:04**: docs: add instructions for Nepali driving license written exam
 - **2023-06-02 19:09**: fix: typo in Nepali road safety regulations question
 - **2023-06-02 19:43**: chore: update questions database with recent DOTM updates
 - **2023-06-03 21:29**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-07-14 12:40**: feat: add result summary with passing threshold analysis
 - **2023-07-14 22:12**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-15 16:16**: chore: update project metadata and build configuration
+- **2023-07-16 21:14**: style: enhance traffic sign card layout and responsiveness
