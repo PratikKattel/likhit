@@ -1,4 +1,3 @@
-- **2023-06-02 19:43**: chore: update questions database with recent DOTM updates
 - **2023-06-03 21:29**: docs: add instructions for Nepali driving license written exam
 - **2023-06-04 15:03**: docs: add instructions for Nepali driving license written exam
 - **2023-06-04 16:53**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-07-15 16:16**: chore: update project metadata and build configuration
 - **2023-07-16 21:14**: style: enhance traffic sign card layout and responsiveness
 - **2023-07-17 11:06**: fix: adjust passing score threshold according to new rules
+- **2023-07-17 13:31**: feat: add result summary with passing threshold analysis
