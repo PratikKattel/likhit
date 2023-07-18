@@ -1,4 +1,3 @@
-- **2023-06-06 14:08**: fix: adjust passing score threshold according to new rules
 - **2023-06-07 11:32**: docs: add instructions for Nepali driving license written exam
 - **2023-06-08 18:45**: chore: format code style and clean up redundant variables
 - **2023-06-09 16:39**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-07-18 13:22**: feat: add regulatory traffic signs SVG graphics
 - **2023-07-18 18:13**: fix: correct color specifications for mandatory traffic signs
 - **2023-07-18 18:58**: feat: implement timer and score calculation for mock test
+- **2023-07-18 19:09**: refactor: modularize traffic app logic and event listeners
