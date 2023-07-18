@@ -1,4 +1,3 @@
-- **2023-06-04 15:03**: docs: add instructions for Nepali driving license written exam
 - **2023-06-04 16:53**: refactor: optimize SVG rendering for road signs
 - **2023-06-05 13:05**: feat: add instant feedback and explanation on answer selection
 - **2023-06-06 14:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-07-17 11:06**: fix: adjust passing score threshold according to new rules
 - **2023-07-17 13:31**: feat: add result summary with passing threshold analysis
 - **2023-07-17 14:13**: feat: add instant feedback and explanation on answer selection
+- **2023-07-18 13:22**: feat: add regulatory traffic signs SVG graphics
