@@ -1,4 +1,3 @@
-- **2023-06-08 18:45**: chore: format code style and clean up redundant variables
 - **2023-06-09 16:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-06-10 09:50**: docs: update traffic signals catalog documentation
 - **2023-06-10 12:46**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-07-18 18:58**: feat: implement timer and score calculation for mock test
 - **2023-07-18 19:09**: refactor: modularize traffic app logic and event listeners
 - **2023-07-19 10:36**: fix: resolve layout shift during question transitions
+- **2023-07-19 18:18**: test: verify question extraction script against exam PDF
