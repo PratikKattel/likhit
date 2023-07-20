@@ -1,4 +1,3 @@
-- **2023-06-10 09:50**: docs: update traffic signals catalog documentation
 - **2023-06-10 12:46**: refactor: modularize traffic app logic and event listeners
 - **2023-06-10 13:55**: perf: lazy load signal graphics and question assets
 - **2023-06-11 09:35**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-07-19 10:36**: fix: resolve layout shift during question transitions
 - **2023-07-19 18:18**: test: verify question extraction script against exam PDF
 - **2023-07-20 12:39**: perf: index question IDs for rapid lookup
+- **2023-07-20 19:11**: perf: index question IDs for rapid lookup
