@@ -1,4 +1,3 @@
-- **2023-06-10 12:46**: refactor: modularize traffic app logic and event listeners
 - **2023-06-10 13:55**: perf: lazy load signal graphics and question assets
 - **2023-06-11 09:35**: feat: support multiple choice questions for motorcycle category
 - **2023-06-11 12:36**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-07-19 18:18**: test: verify question extraction script against exam PDF
 - **2023-07-20 12:39**: perf: index question IDs for rapid lookup
 - **2023-07-20 19:11**: perf: index question IDs for rapid lookup
+- **2023-07-21 12:36**: fix: prevent option re-selection after submitting answer
