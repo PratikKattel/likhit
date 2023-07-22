@@ -1,4 +1,3 @@
-- **2023-06-11 09:35**: feat: support multiple choice questions for motorcycle category
 - **2023-06-11 12:36**: fix: prevent option re-selection after submitting answer
 - **2023-06-11 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2023-06-11 16:00**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-07-20 19:11**: perf: index question IDs for rapid lookup
 - **2023-07-21 12:36**: fix: prevent option re-selection after submitting answer
 - **2023-07-22 09:12**: docs: improve code comments and API documentation
+- **2023-07-22 11:15**: refactor: optimize SVG rendering for road signs
