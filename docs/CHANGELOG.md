@@ -1,4 +1,3 @@
-- **2023-06-12 18:34**: perf: lazy load signal graphics and question assets
 - **2023-06-13 09:28**: docs: add instructions for Nepali driving license written exam
 - **2023-06-13 19:35**: feat: implement timer and score calculation for mock test
 - **2023-06-13 20:01**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2023-07-22 14:36**: docs: add instructions for Nepali driving license written exam
 - **2023-07-23 16:06**: docs: improve code comments and API documentation
 - **2023-07-23 18:09**: perf: optimize image caching for traffic sign assets
+- **2023-07-23 20:54**: refactor: restructure question data schema for faster loading
