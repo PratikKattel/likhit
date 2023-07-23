@@ -1,4 +1,3 @@
-- **2023-06-11 13:51**: feat: add keyboard navigation shortcuts for question selection
 - **2023-06-11 16:00**: refactor: optimize SVG rendering for road signs
 - **2023-06-12 18:34**: perf: lazy load signal graphics and question assets
 - **2023-06-13 09:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-07-22 09:12**: docs: improve code comments and API documentation
 - **2023-07-22 11:15**: refactor: optimize SVG rendering for road signs
 - **2023-07-22 14:36**: docs: add instructions for Nepali driving license written exam
+- **2023-07-23 16:06**: docs: improve code comments and API documentation
