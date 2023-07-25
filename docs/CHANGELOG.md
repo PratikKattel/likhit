@@ -1,4 +1,3 @@
-- **2023-06-13 19:35**: feat: implement timer and score calculation for mock test
 - **2023-06-13 20:01**: fix: resolve layout shift during question transitions
 - **2023-06-14 10:06**: perf: index question IDs for rapid lookup
 - **2023-06-14 10:18**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-07-23 18:09**: perf: optimize image caching for traffic sign assets
 - **2023-07-23 20:54**: refactor: restructure question data schema for faster loading
 - **2023-07-24 11:27**: feat: add category-specific practice modes
+- **2023-07-25 11:04**: feat: add category-specific practice modes
