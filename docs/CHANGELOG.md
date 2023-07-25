@@ -1,4 +1,3 @@
-- **2023-06-13 20:01**: fix: resolve layout shift during question transitions
 - **2023-06-14 10:06**: perf: index question IDs for rapid lookup
 - **2023-06-14 10:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-06-14 17:48**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2023-07-23 20:54**: refactor: restructure question data schema for faster loading
 - **2023-07-24 11:27**: feat: add category-specific practice modes
 - **2023-07-25 11:04**: feat: add category-specific practice modes
+- **2023-07-25 11:45**: feat: add result summary with passing threshold analysis
