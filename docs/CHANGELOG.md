@@ -1,4 +1,3 @@
-- **2023-06-14 17:48**: fix: update DOTM Nepal license syllabus questions
 - **2023-06-14 21:10**: feat: add warning signs and informational road signs
 - **2023-06-15 13:11**: fix: typo in Nepali road safety regulations question
 - **2023-06-16 18:14**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-07-25 11:45**: feat: add result summary with passing threshold analysis
 - **2023-07-26 14:43**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-26 15:29**: feat: support multiple choice questions for motorcycle category
+- **2023-07-27 10:25**: style: polish typography and Nepali Unicode font rendering
