@@ -1,4 +1,3 @@
-- **2023-06-19 11:30**: refactor: restructure question data schema for faster loading
 - **2023-06-19 14:22**: feat: support multiple choice questions for motorcycle category
 - **2023-06-19 20:29**: chore: organize assets and image directory structure
 - **2023-06-19 20:51**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2023-07-29 15:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-07-29 15:45**: docs: add instructions for Nepali driving license written exam
 - **2023-07-29 19:26**: docs: update README with setup instructions and feature list
+- **2023-07-30 10:44**: feat: add regulatory traffic signs SVG graphics
