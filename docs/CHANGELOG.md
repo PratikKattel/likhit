@@ -1,4 +1,3 @@
-- **2023-06-19 20:29**: chore: organize assets and image directory structure
 - **2023-06-19 20:51**: chore: update project metadata and build configuration
 - **2023-06-20 14:16**: fix: prevent option re-selection after submitting answer
 - **2023-06-20 18:14**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-07-29 19:26**: docs: update README with setup instructions and feature list
 - **2023-07-30 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2023-07-31 18:46**: feat: add instant feedback and explanation on answer selection
+- **2023-08-01 09:56**: refactor: restructure question data schema for faster loading
