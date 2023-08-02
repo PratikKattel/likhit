@@ -1,4 +1,3 @@
-- **2023-06-20 14:16**: fix: prevent option re-selection after submitting answer
 - **2023-06-20 18:14**: fix: adjust passing score threshold according to new rules
 - **2023-06-20 21:43**: feat: add search and filter by sign category
 - **2023-06-21 10:19**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-07-31 18:46**: feat: add instant feedback and explanation on answer selection
 - **2023-08-01 09:56**: refactor: restructure question data schema for faster loading
 - **2023-08-01 11:58**: fix: prevent option re-selection after submitting answer
+- **2023-08-02 17:25**: style: improve dark/light mode and mobile UI responsiveness
