@@ -1,4 +1,3 @@
-- **2023-06-22 14:33**: refactor: optimize SVG rendering for road signs
 - **2023-06-22 20:00**: fix: adjust passing score threshold according to new rules
 - **2023-06-23 10:53**: chore: update questions database with recent DOTM updates
 - **2023-06-23 20:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-08-02 17:42**: feat: add instant feedback and explanation on answer selection
 - **2023-08-02 20:01**: feat: add category-specific practice modes
 - **2023-08-02 22:08**: refactor: restructure question data schema for faster loading
+- **2023-08-03 14:33**: feat: add regulatory traffic signs SVG graphics
