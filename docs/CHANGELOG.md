@@ -1,4 +1,3 @@
-- **2023-06-23 10:53**: chore: update questions database with recent DOTM updates
 - **2023-06-23 20:20**: fix: correct color specifications for mandatory traffic signs
 - **2023-06-23 21:00**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-06-24 19:22**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2023-08-02 22:08**: refactor: restructure question data schema for faster loading
 - **2023-08-03 14:33**: feat: add regulatory traffic signs SVG graphics
 - **2023-08-03 16:34**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-08-04 17:16**: docs: improve code comments and API documentation
