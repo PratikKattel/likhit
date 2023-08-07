@@ -1,4 +1,3 @@
-- **2023-06-26 19:19**: test: verify question extraction script against exam PDF
 - **2023-06-27 17:12**: fix: resolve layout shift during question transitions
 - **2023-06-27 21:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-06-28 16:16**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-08-05 15:53**: fix: adjust passing score threshold according to new rules
 - **2023-08-06 14:28**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-06 16:05**: refactor: restructure question data schema for faster loading
+- **2023-08-07 13:58**: fix: adjust passing score threshold according to new rules
