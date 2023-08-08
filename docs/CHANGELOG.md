@@ -1,4 +1,3 @@
-- **2023-06-28 16:16**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-29 10:13**: style: enhance traffic sign card layout and responsiveness
 - **2023-06-29 12:51**: docs: update traffic signals catalog documentation
 - **2023-06-29 20:30**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2023-08-07 13:58**: fix: adjust passing score threshold according to new rules
 - **2023-08-07 20:42**: docs: add instructions for Nepali driving license written exam
 - **2023-08-07 21:02**: perf: lazy load signal graphics and question assets
+- **2023-08-08 11:40**: chore: organize assets and image directory structure
