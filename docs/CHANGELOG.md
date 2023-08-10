@@ -1,4 +1,3 @@
-- **2023-06-29 12:51**: docs: update traffic signals catalog documentation
 - **2023-06-29 20:30**: feat: add search and filter by sign category
 - **2023-06-30 17:11**: docs: improve code comments and API documentation
 - **2023-06-30 18:56**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-08-07 21:02**: perf: lazy load signal graphics and question assets
 - **2023-08-08 11:40**: chore: organize assets and image directory structure
 - **2023-08-09 09:40**: feat: add regulatory traffic signs SVG graphics
+- **2023-08-10 12:00**: fix: correct color specifications for mandatory traffic signs
