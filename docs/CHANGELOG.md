@@ -1,4 +1,3 @@
-- **2023-07-01 22:27**: feat: add instant feedback and explanation on answer selection
 - **2023-07-02 14:47**: feat: add category-specific practice modes
 - **2023-07-03 15:33**: refactor: optimize SVG rendering for road signs
 - **2023-07-03 17:08**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2023-08-11 10:40**: refactor: optimize SVG rendering for road signs
 - **2023-08-12 14:34**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-12 16:45**: chore: update project metadata and build configuration
+- **2023-08-13 09:47**: style: enhance traffic sign card layout and responsiveness
