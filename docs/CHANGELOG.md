@@ -1,4 +1,3 @@
-- **2023-07-03 17:08**: docs: improve code comments and API documentation
 - **2023-07-03 21:44**: chore: organize assets and image directory structure
 - **2023-07-04 18:11**: docs: update traffic signals catalog documentation
 - **2023-07-05 10:42**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-08-13 09:47**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-13 17:41**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-14 16:38**: fix: correct color specifications for mandatory traffic signs
+- **2023-08-15 19:55**: fix: resolve layout shift during question transitions
