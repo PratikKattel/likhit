@@ -1,4 +1,3 @@
-- **2023-07-05 19:55**: fix: prevent option re-selection after submitting answer
 - **2023-07-06 18:21**: fix: adjust passing score threshold according to new rules
 - **2023-07-07 21:33**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-08 18:52**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2023-08-16 14:57**: perf: optimize image caching for traffic sign assets
 - **2023-08-16 18:39**: docs: update traffic signals catalog documentation
 - **2023-08-17 18:07**: test: verify question extraction script against exam PDF
+- **2023-08-18 10:19**: perf: index question IDs for rapid lookup
