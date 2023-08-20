@@ -1,4 +1,3 @@
-- **2023-07-09 18:13**: chore: update questions database with recent DOTM updates
 - **2023-07-10 20:21**: feat: add search and filter by sign category
 - **2023-07-11 10:04**: chore: update project metadata and build configuration
 - **2023-07-11 22:27**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-08-18 20:49**: docs: add instructions for Nepali driving license written exam
 - **2023-08-19 12:12**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-20 14:51**: perf: index question IDs for rapid lookup
+- **2023-08-20 20:00**: feat: add result summary with passing threshold analysis
