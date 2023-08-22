@@ -1,4 +1,3 @@
-- **2023-07-11 10:04**: chore: update project metadata and build configuration
 - **2023-07-11 22:27**: docs: update README with setup instructions and feature list
 - **2023-07-12 13:33**: docs: update traffic signals catalog documentation
 - **2023-07-12 17:11**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-08-20 14:51**: perf: index question IDs for rapid lookup
 - **2023-08-20 20:00**: feat: add result summary with passing threshold analysis
 - **2023-08-21 10:05**: refactor: optimize SVG rendering for road signs
+- **2023-08-22 20:19**: docs: update README with setup instructions and feature list
