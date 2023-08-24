@@ -1,4 +1,3 @@
-- **2023-07-12 17:11**: chore: update questions database with recent DOTM updates
 - **2023-07-12 18:59**: feat: add result summary with passing threshold analysis
 - **2023-07-13 09:40**: test: verify question extraction script against exam PDF
 - **2023-07-13 11:16**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-08-22 20:19**: docs: update README with setup instructions and feature list
 - **2023-08-23 15:26**: docs: add instructions for Nepali driving license written exam
 - **2023-08-24 15:25**: fix: correct color specifications for mandatory traffic signs
+- **2023-08-24 21:07**: feat: add regulatory traffic signs SVG graphics
