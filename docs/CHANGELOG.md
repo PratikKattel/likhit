@@ -1,4 +1,3 @@
-- **2023-07-13 09:40**: test: verify question extraction script against exam PDF
 - **2023-07-13 11:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-07-13 13:43**: refactor: modularize traffic app logic and event listeners
 - **2023-07-13 14:56**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2023-08-24 15:25**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-24 21:07**: feat: add regulatory traffic signs SVG graphics
 - **2023-08-25 12:33**: style: polish typography and Nepali Unicode font rendering
+- **2023-08-25 19:57**: chore: update questions database with recent DOTM updates
