@@ -1,4 +1,3 @@
-- **2023-07-16 21:14**: style: enhance traffic sign card layout and responsiveness
 - **2023-07-17 11:06**: fix: adjust passing score threshold according to new rules
 - **2023-07-17 13:31**: feat: add result summary with passing threshold analysis
 - **2023-07-17 14:13**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-08-27 18:48**: perf: index question IDs for rapid lookup
 - **2023-08-28 11:31**: perf: index question IDs for rapid lookup
 - **2023-08-28 16:36**: chore: update project metadata and build configuration
+- **2023-08-28 22:17**: feat: add category-specific practice modes
