@@ -1,4 +1,3 @@
-- **2023-07-17 11:06**: fix: adjust passing score threshold according to new rules
 - **2023-07-17 13:31**: feat: add result summary with passing threshold analysis
 - **2023-07-17 14:13**: feat: add instant feedback and explanation on answer selection
 - **2023-07-18 13:22**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-08-28 11:31**: perf: index question IDs for rapid lookup
 - **2023-08-28 16:36**: chore: update project metadata and build configuration
 - **2023-08-28 22:17**: feat: add category-specific practice modes
+- **2023-08-29 20:52**: refactor: modularize traffic app logic and event listeners
