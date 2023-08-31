@@ -1,4 +1,3 @@
-- **2023-07-18 18:58**: feat: implement timer and score calculation for mock test
 - **2023-07-18 19:09**: refactor: modularize traffic app logic and event listeners
 - **2023-07-19 10:36**: fix: resolve layout shift during question transitions
 - **2023-07-19 18:18**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2023-08-29 22:00**: refactor: optimize SVG rendering for road signs
 - **2023-08-30 09:56**: fix: adjust passing score threshold according to new rules
 - **2023-08-31 13:44**: feat: add category A and B traffic test questions
+- **2023-08-31 19:12**: feat: add search and filter by sign category
