@@ -1,4 +1,3 @@
-- **2023-07-18 19:09**: refactor: modularize traffic app logic and event listeners
 - **2023-07-19 10:36**: fix: resolve layout shift during question transitions
 - **2023-07-19 18:18**: test: verify question extraction script against exam PDF
 - **2023-07-20 12:39**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-08-30 09:56**: fix: adjust passing score threshold according to new rules
 - **2023-08-31 13:44**: feat: add category A and B traffic test questions
 - **2023-08-31 19:12**: feat: add search and filter by sign category
+- **2023-08-31 22:27**: docs: update README with setup instructions and feature list
