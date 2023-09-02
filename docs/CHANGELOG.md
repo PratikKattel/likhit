@@ -1,4 +1,3 @@
-- **2023-07-20 19:11**: perf: index question IDs for rapid lookup
 - **2023-07-21 12:36**: fix: prevent option re-selection after submitting answer
 - **2023-07-22 09:12**: docs: improve code comments and API documentation
 - **2023-07-22 11:15**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-09-01 16:23**: docs: update traffic signals catalog documentation
 - **2023-09-01 16:50**: style: enhance traffic sign card layout and responsiveness
 - **2023-09-02 15:06**: refactor: optimize SVG rendering for road signs
+- **2023-09-02 21:52**: style: enhance traffic sign card layout and responsiveness
