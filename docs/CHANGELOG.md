@@ -1,4 +1,3 @@
-- **2023-07-22 11:15**: refactor: optimize SVG rendering for road signs
 - **2023-07-22 14:36**: docs: add instructions for Nepali driving license written exam
 - **2023-07-23 16:06**: docs: improve code comments and API documentation
 - **2023-07-23 18:09**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-09-02 21:52**: style: enhance traffic sign card layout and responsiveness
 - **2023-09-03 15:58**: chore: update questions database with recent DOTM updates
 - **2023-09-03 21:09**: feat: implement timer and score calculation for mock test
+- **2023-09-03 21:59**: chore: organize assets and image directory structure
