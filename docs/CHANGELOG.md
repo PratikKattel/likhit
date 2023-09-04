@@ -1,4 +1,3 @@
-- **2023-07-22 14:36**: docs: add instructions for Nepali driving license written exam
 - **2023-07-23 16:06**: docs: improve code comments and API documentation
 - **2023-07-23 18:09**: perf: optimize image caching for traffic sign assets
 - **2023-07-23 20:54**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-09-03 15:58**: chore: update questions database with recent DOTM updates
 - **2023-09-03 21:09**: feat: implement timer and score calculation for mock test
 - **2023-09-03 21:59**: chore: organize assets and image directory structure
+- **2023-09-04 22:15**: fix: correct color specifications for mandatory traffic signs
