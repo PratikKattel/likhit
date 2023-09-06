@@ -1,4 +1,3 @@
-- **2023-07-23 18:09**: perf: optimize image caching for traffic sign assets
 - **2023-07-23 20:54**: refactor: restructure question data schema for faster loading
 - **2023-07-24 11:27**: feat: add category-specific practice modes
 - **2023-07-25 11:04**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2023-09-03 21:59**: chore: organize assets and image directory structure
 - **2023-09-04 22:15**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-05 19:46**: fix: resolve layout shift during question transitions
+- **2023-09-06 16:58**: docs: add instructions for Nepali driving license written exam
