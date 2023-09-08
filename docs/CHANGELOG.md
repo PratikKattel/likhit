@@ -1,4 +1,3 @@
-- **2023-07-25 11:45**: feat: add result summary with passing threshold analysis
 - **2023-07-26 14:43**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-26 15:29**: feat: support multiple choice questions for motorcycle category
 - **2023-07-27 10:25**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-09-07 13:32**: docs: improve code comments and API documentation
 - **2023-09-07 16:33**: feat: implement timer and score calculation for mock test
 - **2023-09-07 21:30**: feat: add warning signs and informational road signs
+- **2023-09-08 09:54**: fix: typo in Nepali road safety regulations question
