@@ -1,4 +1,3 @@
-- **2023-07-27 10:25**: style: polish typography and Nepali Unicode font rendering
 - **2023-07-28 16:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-07-28 19:46**: chore: update project metadata and build configuration
 - **2023-07-28 22:20**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-09-08 09:54**: fix: typo in Nepali road safety regulations question
 - **2023-09-08 14:32**: feat: implement timer and score calculation for mock test
 - **2023-09-08 22:29**: style: polish typography and Nepali Unicode font rendering
+- **2023-09-09 20:08**: feat: add keyboard navigation shortcuts for question selection
