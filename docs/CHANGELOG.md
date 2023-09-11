@@ -1,4 +1,3 @@
-- **2023-07-28 19:46**: chore: update project metadata and build configuration
 - **2023-07-28 22:20**: docs: update README with setup instructions and feature list
 - **2023-07-29 15:43**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-07-29 15:45**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-09-08 22:29**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-09 20:08**: feat: add keyboard navigation shortcuts for question selection
 - **2023-09-10 09:45**: test: verify question extraction script against exam PDF
+- **2023-09-11 16:29**: perf: lazy load signal graphics and question assets
