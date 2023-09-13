@@ -1,4 +1,3 @@
-- **2023-07-29 15:45**: docs: add instructions for Nepali driving license written exam
 - **2023-07-29 19:26**: docs: update README with setup instructions and feature list
 - **2023-07-30 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2023-07-31 18:46**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2023-09-11 16:29**: perf: lazy load signal graphics and question assets
 - **2023-09-12 09:27**: fix: resolve layout shift during question transitions
 - **2023-09-12 14:28**: refactor: modularize traffic app logic and event listeners
+- **2023-09-13 19:21**: refactor: optimize SVG rendering for road signs
