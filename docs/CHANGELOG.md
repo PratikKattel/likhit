@@ -1,4 +1,3 @@
-- **2023-07-30 10:44**: feat: add regulatory traffic signs SVG graphics
 - **2023-07-31 18:46**: feat: add instant feedback and explanation on answer selection
 - **2023-08-01 09:56**: refactor: restructure question data schema for faster loading
 - **2023-08-01 11:58**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-09-12 14:28**: refactor: modularize traffic app logic and event listeners
 - **2023-09-13 19:21**: refactor: optimize SVG rendering for road signs
 - **2023-09-13 20:01**: docs: update traffic signals catalog documentation
+- **2023-09-14 15:47**: refactor: optimize SVG rendering for road signs
