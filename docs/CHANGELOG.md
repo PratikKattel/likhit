@@ -1,4 +1,3 @@
-- **2023-08-02 17:42**: feat: add instant feedback and explanation on answer selection
 - **2023-08-02 20:01**: feat: add category-specific practice modes
 - **2023-08-02 22:08**: refactor: restructure question data schema for faster loading
 - **2023-08-03 14:33**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-09-15 21:03**: perf: optimize image caching for traffic sign assets
 - **2023-09-16 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-16 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-09-17 09:22**: feat: add warning signs and informational road signs
