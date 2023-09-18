@@ -1,4 +1,3 @@
-- **2023-08-03 14:33**: feat: add regulatory traffic signs SVG graphics
 - **2023-08-03 16:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-08-04 17:16**: docs: improve code comments and API documentation
 - **2023-08-04 17:18**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-09-17 09:22**: feat: add warning signs and informational road signs
 - **2023-09-18 13:17**: fix: typo in Nepali road safety regulations question
 - **2023-09-18 15:09**: perf: lazy load signal graphics and question assets
+- **2023-09-18 19:18**: feat: implement timer and score calculation for mock test
