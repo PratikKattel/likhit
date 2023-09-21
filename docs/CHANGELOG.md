@@ -1,4 +1,3 @@
-- **2023-08-06 16:05**: refactor: restructure question data schema for faster loading
 - **2023-08-07 13:58**: fix: adjust passing score threshold according to new rules
 - **2023-08-07 20:42**: docs: add instructions for Nepali driving license written exam
 - **2023-08-07 21:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-09-19 18:25**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-20 11:08**: refactor: optimize SVG rendering for road signs
 - **2023-09-20 21:31**: fix: correct color specifications for mandatory traffic signs
+- **2023-09-21 13:19**: feat: add search and filter by sign category
