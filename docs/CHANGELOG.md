@@ -1,4 +1,3 @@
-- **2023-08-07 20:42**: docs: add instructions for Nepali driving license written exam
 - **2023-08-07 21:02**: perf: lazy load signal graphics and question assets
 - **2023-08-08 11:40**: chore: organize assets and image directory structure
 - **2023-08-09 09:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-09-20 21:31**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-21 13:19**: feat: add search and filter by sign category
 - **2023-09-22 11:18**: refactor: modularize traffic app logic and event listeners
+- **2023-09-23 20:19**: fix: correct color specifications for mandatory traffic signs
