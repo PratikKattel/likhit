@@ -1,4 +1,3 @@
-- **2023-08-08 11:40**: chore: organize assets and image directory structure
 - **2023-08-09 09:40**: feat: add regulatory traffic signs SVG graphics
 - **2023-08-10 12:00**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-11 10:40**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2023-09-22 11:18**: refactor: modularize traffic app logic and event listeners
 - **2023-09-23 20:19**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-24 21:37**: fix: adjust passing score threshold according to new rules
+- **2023-09-25 11:13**: chore: update project metadata and build configuration
