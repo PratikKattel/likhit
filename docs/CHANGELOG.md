@@ -1,4 +1,3 @@
-- **2023-08-11 10:40**: refactor: optimize SVG rendering for road signs
 - **2023-08-12 14:34**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-12 16:45**: chore: update project metadata and build configuration
 - **2023-08-13 09:47**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-09-25 11:13**: chore: update project metadata and build configuration
 - **2023-09-25 22:21**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-26 14:30**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-09-26 20:01**: fix: adjust passing score threshold according to new rules
