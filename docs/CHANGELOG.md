@@ -1,4 +1,3 @@
-- **2023-08-12 16:45**: chore: update project metadata and build configuration
 - **2023-08-13 09:47**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-13 17:41**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-14 16:38**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-09-26 14:30**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-09-26 20:01**: fix: adjust passing score threshold according to new rules
 - **2023-09-27 11:36**: feat: add warning signs and informational road signs
+- **2023-09-27 20:13**: chore: update questions database with recent DOTM updates
