@@ -1,4 +1,3 @@
-- **2023-08-13 09:47**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-13 17:41**: style: enhance traffic sign card layout and responsiveness
 - **2023-08-14 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-15 19:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2023-09-26 20:01**: fix: adjust passing score threshold according to new rules
 - **2023-09-27 11:36**: feat: add warning signs and informational road signs
 - **2023-09-27 20:13**: chore: update questions database with recent DOTM updates
+- **2023-09-28 10:29**: refactor: restructure question data schema for faster loading
