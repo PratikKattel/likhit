@@ -1,4 +1,3 @@
-- **2023-08-14 16:38**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-15 19:55**: fix: resolve layout shift during question transitions
 - **2023-08-16 14:57**: perf: optimize image caching for traffic sign assets
 - **2023-08-16 18:39**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-09-27 20:13**: chore: update questions database with recent DOTM updates
 - **2023-09-28 10:29**: refactor: restructure question data schema for faster loading
 - **2023-09-28 12:54**: perf: optimize image caching for traffic sign assets
+- **2023-09-28 20:17**: feat: add warning signs and informational road signs
