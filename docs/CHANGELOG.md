@@ -1,4 +1,3 @@
-- **2023-08-17 18:07**: test: verify question extraction script against exam PDF
 - **2023-08-18 10:19**: perf: index question IDs for rapid lookup
 - **2023-08-18 20:49**: docs: add instructions for Nepali driving license written exam
 - **2023-08-19 12:12**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-09-29 09:37**: feat: support multiple choice questions for motorcycle category
 - **2023-09-29 12:30**: feat: implement timer and score calculation for mock test
 - **2023-09-29 16:49**: chore: format code style and clean up redundant variables
+- **2023-09-29 21:33**: fix: update DOTM Nepal license syllabus questions
