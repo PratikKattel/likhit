@@ -1,4 +1,3 @@
-- **2023-08-16 14:57**: perf: optimize image caching for traffic sign assets
 - **2023-08-16 18:39**: docs: update traffic signals catalog documentation
 - **2023-08-17 18:07**: test: verify question extraction script against exam PDF
 - **2023-08-18 10:19**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-09-28 12:54**: perf: optimize image caching for traffic sign assets
 - **2023-09-28 20:17**: feat: add warning signs and informational road signs
 - **2023-09-29 09:37**: feat: support multiple choice questions for motorcycle category
+- **2023-09-29 12:30**: feat: implement timer and score calculation for mock test
