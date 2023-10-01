@@ -1,4 +1,3 @@
-- **2023-08-18 20:49**: docs: add instructions for Nepali driving license written exam
 - **2023-08-19 12:12**: fix: correct color specifications for mandatory traffic signs
 - **2023-08-20 14:51**: perf: index question IDs for rapid lookup
 - **2023-08-20 20:00**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2023-09-29 16:49**: chore: format code style and clean up redundant variables
 - **2023-09-29 21:33**: fix: update DOTM Nepal license syllabus questions
 - **2023-09-30 14:27**: feat: add category-specific practice modes
+- **2023-10-01 13:53**: docs: update README with setup instructions and feature list
