@@ -1,4 +1,3 @@
-- **2023-08-20 14:51**: perf: index question IDs for rapid lookup
 - **2023-08-20 20:00**: feat: add result summary with passing threshold analysis
 - **2023-08-21 10:05**: refactor: optimize SVG rendering for road signs
 - **2023-08-22 20:19**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-09-30 14:27**: feat: add category-specific practice modes
 - **2023-10-01 13:53**: docs: update README with setup instructions and feature list
 - **2023-10-01 20:11**: refactor: optimize SVG rendering for road signs
+- **2023-10-02 10:16**: fix: correct color specifications for mandatory traffic signs
