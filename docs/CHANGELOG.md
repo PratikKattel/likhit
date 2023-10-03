@@ -1,4 +1,3 @@
-- **2023-08-21 10:05**: refactor: optimize SVG rendering for road signs
 - **2023-08-22 20:19**: docs: update README with setup instructions and feature list
 - **2023-08-23 15:26**: docs: add instructions for Nepali driving license written exam
 - **2023-08-24 15:25**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-10-01 20:11**: refactor: optimize SVG rendering for road signs
 - **2023-10-02 10:16**: fix: correct color specifications for mandatory traffic signs
 - **2023-10-03 14:45**: feat: implement timer and score calculation for mock test
+- **2023-10-03 18:21**: chore: organize assets and image directory structure
