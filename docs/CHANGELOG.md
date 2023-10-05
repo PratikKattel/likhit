@@ -1,4 +1,3 @@
-- **2023-08-25 19:57**: chore: update questions database with recent DOTM updates
 - **2023-08-26 12:18**: refactor: modularize traffic app logic and event listeners
 - **2023-08-26 12:42**: chore: update questions database with recent DOTM updates
 - **2023-08-26 20:04**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2023-10-04 13:19**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-04 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2023-10-05 09:32**: perf: optimize image caching for traffic sign assets
+- **2023-10-05 18:59**: style: enhance traffic sign card layout and responsiveness
