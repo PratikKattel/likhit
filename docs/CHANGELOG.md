@@ -1,4 +1,3 @@
-- **2023-08-26 12:42**: chore: update questions database with recent DOTM updates
 - **2023-08-26 20:04**: fix: typo in Nepali road safety regulations question
 - **2023-08-27 18:48**: perf: index question IDs for rapid lookup
 - **2023-08-28 11:31**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2023-10-05 09:32**: perf: optimize image caching for traffic sign assets
 - **2023-10-05 18:59**: style: enhance traffic sign card layout and responsiveness
 - **2023-10-05 20:40**: feat: add category A and B traffic test questions
+- **2023-10-05 22:23**: feat: implement timer and score calculation for mock test
