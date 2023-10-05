@@ -1,4 +1,3 @@
-- **2023-08-25 12:33**: style: polish typography and Nepali Unicode font rendering
 - **2023-08-25 19:57**: chore: update questions database with recent DOTM updates
 - **2023-08-26 12:18**: refactor: modularize traffic app logic and event listeners
 - **2023-08-26 12:42**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2023-10-03 22:15**: chore: organize assets and image directory structure
 - **2023-10-04 13:19**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-04 20:12**: fix: correct color specifications for mandatory traffic signs
+- **2023-10-05 09:32**: perf: optimize image caching for traffic sign assets
