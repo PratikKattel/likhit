@@ -1,4 +1,3 @@
-- **2023-08-28 16:36**: chore: update project metadata and build configuration
 - **2023-08-28 22:17**: feat: add category-specific practice modes
 - **2023-08-29 20:52**: refactor: modularize traffic app logic and event listeners
 - **2023-08-29 21:05**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2023-10-06 16:31**: docs: update traffic signals catalog documentation
 - **2023-10-06 16:42**: feat: support multiple choice questions for motorcycle category
 - **2023-10-07 09:06**: feat: support multiple choice questions for motorcycle category
+- **2023-10-07 21:46**: feat: add search and filter by sign category
