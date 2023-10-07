@@ -1,4 +1,3 @@
-- **2023-08-28 11:31**: perf: index question IDs for rapid lookup
 - **2023-08-28 16:36**: chore: update project metadata and build configuration
 - **2023-08-28 22:17**: feat: add category-specific practice modes
 - **2023-08-29 20:52**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-10-05 22:23**: feat: implement timer and score calculation for mock test
 - **2023-10-06 16:31**: docs: update traffic signals catalog documentation
 - **2023-10-06 16:42**: feat: support multiple choice questions for motorcycle category
+- **2023-10-07 09:06**: feat: support multiple choice questions for motorcycle category
