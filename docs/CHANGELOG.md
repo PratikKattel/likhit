@@ -1,4 +1,3 @@
-- **2023-08-29 21:05**: docs: update README with setup instructions and feature list
 - **2023-08-29 22:00**: refactor: optimize SVG rendering for road signs
 - **2023-08-30 09:56**: fix: adjust passing score threshold according to new rules
 - **2023-08-31 13:44**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2023-10-07 21:46**: feat: add search and filter by sign category
 - **2023-10-08 11:46**: feat: add keyboard navigation shortcuts for question selection
 - **2023-10-08 16:54**: refactor: optimize SVG rendering for road signs
+- **2023-10-08 21:22**: style: improve dark/light mode and mobile UI responsiveness
