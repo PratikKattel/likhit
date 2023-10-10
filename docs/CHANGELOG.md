@@ -1,4 +1,3 @@
-- **2023-09-01 16:23**: docs: update traffic signals catalog documentation
 - **2023-09-01 16:50**: style: enhance traffic sign card layout and responsiveness
 - **2023-09-02 15:06**: refactor: optimize SVG rendering for road signs
 - **2023-09-02 21:52**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2023-10-09 19:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-10-10 09:51**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-10 10:03**: refactor: optimize SVG rendering for road signs
+- **2023-10-10 11:58**: docs: add instructions for Nepali driving license written exam
