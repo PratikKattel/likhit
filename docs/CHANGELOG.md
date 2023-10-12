@@ -1,4 +1,3 @@
-- **2023-09-03 21:09**: feat: implement timer and score calculation for mock test
 - **2023-09-03 21:59**: chore: organize assets and image directory structure
 - **2023-09-04 22:15**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-05 19:46**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2023-10-11 17:59**: fix: resolve layout shift during question transitions
 - **2023-10-12 13:26**: refactor: modularize traffic app logic and event listeners
 - **2023-10-12 15:16**: docs: update README with setup instructions and feature list
+- **2023-10-12 20:07**: feat: add regulatory traffic signs SVG graphics
