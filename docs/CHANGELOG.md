@@ -1,4 +1,3 @@
-- **2023-09-06 16:58**: docs: add instructions for Nepali driving license written exam
 - **2023-09-07 13:32**: docs: improve code comments and API documentation
 - **2023-09-07 16:33**: feat: implement timer and score calculation for mock test
 - **2023-09-07 21:30**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-10-13 16:16**: refactor: restructure question data schema for faster loading
 - **2023-10-13 16:21**: feat: add warning signs and informational road signs
 - **2023-10-13 19:25**: feat: support multiple choice questions for motorcycle category
+- **2023-10-14 10:38**: chore: format code style and clean up redundant variables
