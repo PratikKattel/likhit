@@ -1,4 +1,3 @@
-- **2023-09-07 21:30**: feat: add warning signs and informational road signs
 - **2023-09-08 09:54**: fix: typo in Nepali road safety regulations question
 - **2023-09-08 14:32**: feat: implement timer and score calculation for mock test
 - **2023-09-08 22:29**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-10-14 10:38**: chore: format code style and clean up redundant variables
 - **2023-10-14 17:24**: feat: add instant feedback and explanation on answer selection
 - **2023-10-14 18:04**: chore: organize assets and image directory structure
+- **2023-10-15 10:56**: feat: add warning signs and informational road signs
