@@ -1,4 +1,3 @@
-- **2023-09-08 22:29**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-09 20:08**: feat: add keyboard navigation shortcuts for question selection
 - **2023-09-10 09:45**: test: verify question extraction script against exam PDF
 - **2023-09-11 16:29**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2023-10-15 10:56**: feat: add warning signs and informational road signs
 - **2023-10-15 18:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-10-16 12:24**: feat: add result summary with passing threshold analysis
+- **2023-10-16 21:00**: refactor: modularize traffic app logic and event listeners
