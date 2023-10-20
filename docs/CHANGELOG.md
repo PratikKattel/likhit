@@ -1,4 +1,3 @@
-- **2023-09-13 20:01**: docs: update traffic signals catalog documentation
 - **2023-09-14 15:47**: refactor: optimize SVG rendering for road signs
 - **2023-09-15 09:40**: feat: implement timer and score calculation for mock test
 - **2023-09-15 21:03**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-10-18 12:38**: chore: update project metadata and build configuration
 - **2023-10-18 15:49**: fix: resolve layout shift during question transitions
 - **2023-10-19 21:12**: docs: update README with setup instructions and feature list
+- **2023-10-20 11:00**: style: polish typography and Nepali Unicode font rendering
