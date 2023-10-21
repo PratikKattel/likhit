@@ -1,4 +1,3 @@
-- **2023-09-15 21:03**: perf: optimize image caching for traffic sign assets
 - **2023-09-16 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-16 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-09-17 09:22**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-10-20 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-20 20:58**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-21 15:20**: chore: update project metadata and build configuration
+- **2023-10-21 15:36**: refactor: restructure question data schema for faster loading
