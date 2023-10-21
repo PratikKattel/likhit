@@ -1,4 +1,3 @@
-- **2023-09-15 09:40**: feat: implement timer and score calculation for mock test
 - **2023-09-15 21:03**: perf: optimize image caching for traffic sign assets
 - **2023-09-16 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-16 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-10-19 21:12**: docs: update README with setup instructions and feature list
 - **2023-10-20 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-20 20:58**: fix: update DOTM Nepal license syllabus questions
+- **2023-10-21 15:20**: chore: update project metadata and build configuration
