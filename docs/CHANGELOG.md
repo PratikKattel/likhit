@@ -1,4 +1,3 @@
-- **2023-09-17 09:22**: feat: add warning signs and informational road signs
 - **2023-09-18 13:17**: fix: typo in Nepali road safety regulations question
 - **2023-09-18 15:09**: perf: lazy load signal graphics and question assets
 - **2023-09-18 19:18**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-10-21 15:36**: refactor: restructure question data schema for faster loading
 - **2023-10-22 09:13**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-22 09:18**: feat: add category-specific practice modes
+- **2023-10-22 11:54**: perf: optimize image caching for traffic sign assets
