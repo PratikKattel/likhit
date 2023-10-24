@@ -1,4 +1,3 @@
-- **2023-09-18 19:18**: feat: implement timer and score calculation for mock test
 - **2023-09-19 09:30**: feat: add result summary with passing threshold analysis
 - **2023-09-19 17:03**: perf: lazy load signal graphics and question assets
 - **2023-09-19 18:25**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-10-22 11:54**: perf: optimize image caching for traffic sign assets
 - **2023-10-22 16:36**: feat: add instant feedback and explanation on answer selection
 - **2023-10-23 09:36**: chore: update project metadata and build configuration
+- **2023-10-24 11:45**: test: verify question extraction script against exam PDF
