@@ -1,4 +1,3 @@
-- **2023-09-19 18:25**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-20 11:08**: refactor: optimize SVG rendering for road signs
 - **2023-09-20 21:31**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-21 13:19**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2023-10-24 11:45**: test: verify question extraction script against exam PDF
 - **2023-10-25 10:47**: docs: improve code comments and API documentation
 - **2023-10-25 11:32**: refactor: optimize SVG rendering for road signs
+- **2023-10-25 19:03**: refactor: restructure question data schema for faster loading
