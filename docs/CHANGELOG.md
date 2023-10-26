@@ -1,4 +1,3 @@
-- **2023-09-20 21:31**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-21 13:19**: feat: add search and filter by sign category
 - **2023-09-22 11:18**: refactor: modularize traffic app logic and event listeners
 - **2023-09-23 20:19**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-10-25 11:32**: refactor: optimize SVG rendering for road signs
 - **2023-10-25 19:03**: refactor: restructure question data schema for faster loading
 - **2023-10-26 10:09**: feat: add warning signs and informational road signs
+- **2023-10-26 12:38**: style: polish typography and Nepali Unicode font rendering
