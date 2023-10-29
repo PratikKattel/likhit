@@ -1,4 +1,3 @@
-- **2023-09-23 20:19**: fix: correct color specifications for mandatory traffic signs
 - **2023-09-24 21:37**: fix: adjust passing score threshold according to new rules
 - **2023-09-25 11:13**: chore: update project metadata and build configuration
 - **2023-09-25 22:21**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-10-26 12:38**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-27 16:40**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-28 20:59**: fix: prevent option re-selection after submitting answer
+- **2023-10-29 15:39**: chore: format code style and clean up redundant variables
