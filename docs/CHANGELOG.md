@@ -1,4 +1,3 @@
-- **2023-09-24 21:37**: fix: adjust passing score threshold according to new rules
 - **2023-09-25 11:13**: chore: update project metadata and build configuration
 - **2023-09-25 22:21**: style: polish typography and Nepali Unicode font rendering
 - **2023-09-26 14:30**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-10-27 16:40**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-28 20:59**: fix: prevent option re-selection after submitting answer
 - **2023-10-29 15:39**: chore: format code style and clean up redundant variables
+- **2023-10-29 21:33**: chore: format code style and clean up redundant variables
