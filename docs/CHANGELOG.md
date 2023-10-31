@@ -1,4 +1,3 @@
-- **2023-09-26 20:01**: fix: adjust passing score threshold according to new rules
 - **2023-09-27 11:36**: feat: add warning signs and informational road signs
 - **2023-09-27 20:13**: chore: update questions database with recent DOTM updates
 - **2023-09-28 10:29**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-10-30 16:00**: feat: add search and filter by sign category
 - **2023-10-30 16:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-10-31 13:15**: chore: update project metadata and build configuration
+- **2023-10-31 14:53**: fix: adjust passing score threshold according to new rules
