@@ -1,4 +1,3 @@
-- **2023-09-28 12:54**: perf: optimize image caching for traffic sign assets
 - **2023-09-28 20:17**: feat: add warning signs and informational road signs
 - **2023-09-29 09:37**: feat: support multiple choice questions for motorcycle category
 - **2023-09-29 12:30**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-10-31 16:25**: fix: prevent option re-selection after submitting answer
 - **2023-11-01 11:31**: docs: update README with setup instructions and feature list
 - **2023-11-01 18:05**: feat: add regulatory traffic signs SVG graphics
+- **2023-11-02 21:28**: feat: add category A and B traffic test questions
