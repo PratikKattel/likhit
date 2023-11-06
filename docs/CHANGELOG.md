@@ -1,4 +1,3 @@
-- **2023-09-30 14:27**: feat: add category-specific practice modes
 - **2023-10-01 13:53**: docs: update README with setup instructions and feature list
 - **2023-10-01 20:11**: refactor: optimize SVG rendering for road signs
 - **2023-10-02 10:16**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2023-11-05 16:37**: fix: correct color specifications for mandatory traffic signs
 - **2023-11-06 17:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-11-06 18:10**: feat: add category-specific practice modes
+- **2023-11-06 19:27**: style: polish typography and Nepali Unicode font rendering
