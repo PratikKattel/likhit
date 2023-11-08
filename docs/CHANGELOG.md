@@ -1,4 +1,3 @@
-- **2023-10-01 20:11**: refactor: optimize SVG rendering for road signs
 - **2023-10-02 10:16**: fix: correct color specifications for mandatory traffic signs
 - **2023-10-03 14:45**: feat: implement timer and score calculation for mock test
 - **2023-10-03 18:21**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2023-11-06 18:10**: feat: add category-specific practice modes
 - **2023-11-06 19:27**: style: polish typography and Nepali Unicode font rendering
 - **2023-11-07 15:58**: docs: add instructions for Nepali driving license written exam
+- **2023-11-08 10:55**: docs: update traffic signals catalog documentation
