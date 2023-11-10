@@ -1,4 +1,3 @@
-- **2023-10-03 18:21**: chore: organize assets and image directory structure
 - **2023-10-03 22:06**: refactor: restructure question data schema for faster loading
 - **2023-10-03 22:15**: chore: organize assets and image directory structure
 - **2023-10-04 13:19**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2023-11-08 10:55**: docs: update traffic signals catalog documentation
 - **2023-11-08 17:38**: chore: update project metadata and build configuration
 - **2023-11-09 13:44**: feat: support multiple choice questions for motorcycle category
+- **2023-11-10 12:40**: perf: optimize image caching for traffic sign assets
