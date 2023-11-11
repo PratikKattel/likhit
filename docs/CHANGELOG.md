@@ -1,4 +1,3 @@
-- **2023-10-03 22:15**: chore: organize assets and image directory structure
 - **2023-10-04 13:19**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-04 20:12**: fix: correct color specifications for mandatory traffic signs
 - **2023-10-05 09:32**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2023-11-09 13:44**: feat: support multiple choice questions for motorcycle category
 - **2023-11-10 12:40**: perf: optimize image caching for traffic sign assets
 - **2023-11-10 18:45**: feat: implement timer and score calculation for mock test
+- **2023-11-11 16:16**: style: polish typography and Nepali Unicode font rendering
