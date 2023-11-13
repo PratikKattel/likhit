@@ -1,4 +1,3 @@
-- **2023-10-05 09:32**: perf: optimize image caching for traffic sign assets
 - **2023-10-05 18:59**: style: enhance traffic sign card layout and responsiveness
 - **2023-10-05 20:40**: feat: add category A and B traffic test questions
 - **2023-10-05 22:23**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2023-11-11 16:16**: style: polish typography and Nepali Unicode font rendering
 - **2023-11-12 15:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-13 14:28**: feat: add result summary with passing threshold analysis
+- **2023-11-13 21:22**: chore: update project metadata and build configuration
