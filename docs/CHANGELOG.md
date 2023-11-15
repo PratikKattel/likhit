@@ -1,4 +1,3 @@
-- **2023-10-05 20:40**: feat: add category A and B traffic test questions
 - **2023-10-05 22:23**: feat: implement timer and score calculation for mock test
 - **2023-10-06 16:31**: docs: update traffic signals catalog documentation
 - **2023-10-06 16:42**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-11-13 14:28**: feat: add result summary with passing threshold analysis
 - **2023-11-13 21:22**: chore: update project metadata and build configuration
 - **2023-11-14 13:43**: docs: update README with setup instructions and feature list
+- **2023-11-15 18:49**: style: improve dark/light mode and mobile UI responsiveness
