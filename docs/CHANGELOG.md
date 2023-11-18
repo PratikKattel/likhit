@@ -1,4 +1,3 @@
-- **2023-10-06 16:42**: feat: support multiple choice questions for motorcycle category
 - **2023-10-07 09:06**: feat: support multiple choice questions for motorcycle category
 - **2023-10-07 21:46**: feat: add search and filter by sign category
 - **2023-10-08 11:46**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2023-11-15 18:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-16 10:07**: refactor: optimize SVG rendering for road signs
 - **2023-11-17 15:55**: docs: add instructions for Nepali driving license written exam
+- **2023-11-18 09:17**: fix: adjust passing score threshold according to new rules
