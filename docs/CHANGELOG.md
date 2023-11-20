@@ -1,4 +1,3 @@
-- **2023-10-07 21:46**: feat: add search and filter by sign category
 - **2023-10-08 11:46**: feat: add keyboard navigation shortcuts for question selection
 - **2023-10-08 16:54**: refactor: optimize SVG rendering for road signs
 - **2023-10-08 21:22**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-11-17 15:55**: docs: add instructions for Nepali driving license written exam
 - **2023-11-18 09:17**: fix: adjust passing score threshold according to new rules
 - **2023-11-19 09:19**: style: improve dark/light mode and mobile UI responsiveness
+- **2023-11-20 16:16**: feat: add regulatory traffic signs SVG graphics
