@@ -1,4 +1,3 @@
-- **2023-10-08 16:54**: refactor: optimize SVG rendering for road signs
 - **2023-10-08 21:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-10-09 11:09**: feat: add result summary with passing threshold analysis
 - **2023-10-09 12:32**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-11-19 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-20 16:16**: feat: add regulatory traffic signs SVG graphics
 - **2023-11-21 12:33**: fix: resolve layout shift during question transitions
+- **2023-11-21 18:20**: perf: lazy load signal graphics and question assets
