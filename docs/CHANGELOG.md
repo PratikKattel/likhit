@@ -1,4 +1,3 @@
-- **2023-10-09 19:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-10-10 09:51**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-10 10:03**: refactor: optimize SVG rendering for road signs
 - **2023-10-10 11:58**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2023-11-22 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2023-11-22 22:16**: feat: add search and filter by sign category
 - **2023-11-23 10:05**: feat: implement timer and score calculation for mock test
+- **2023-11-23 10:13**: chore: organize assets and image directory structure
