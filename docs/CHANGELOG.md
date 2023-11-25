@@ -1,4 +1,3 @@
-- **2023-10-10 11:58**: docs: add instructions for Nepali driving license written exam
 - **2023-10-10 13:31**: refactor: modularize traffic app logic and event listeners
 - **2023-10-11 17:59**: fix: resolve layout shift during question transitions
 - **2023-10-12 13:26**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2023-11-23 10:13**: chore: organize assets and image directory structure
 - **2023-11-24 09:05**: style: polish typography and Nepali Unicode font rendering
 - **2023-11-25 09:19**: docs: update README with setup instructions and feature list
+- **2023-11-25 19:24**: docs: update README with setup instructions and feature list
