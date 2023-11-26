@@ -1,4 +1,3 @@
-- **2023-10-11 17:59**: fix: resolve layout shift during question transitions
 - **2023-10-12 13:26**: refactor: modularize traffic app logic and event listeners
 - **2023-10-12 15:16**: docs: update README with setup instructions and feature list
 - **2023-10-12 20:07**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-11-25 09:19**: docs: update README with setup instructions and feature list
 - **2023-11-25 19:24**: docs: update README with setup instructions and feature list
 - **2023-11-26 14:32**: perf: lazy load signal graphics and question assets
+- **2023-11-26 15:53**: docs: update README with setup instructions and feature list
