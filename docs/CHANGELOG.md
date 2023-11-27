@@ -1,4 +1,3 @@
-- **2023-10-12 20:07**: feat: add regulatory traffic signs SVG graphics
 - **2023-10-13 16:16**: refactor: restructure question data schema for faster loading
 - **2023-10-13 16:21**: feat: add warning signs and informational road signs
 - **2023-10-13 19:25**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-11-26 15:53**: docs: update README with setup instructions and feature list
 - **2023-11-27 13:53**: refactor: modularize traffic app logic and event listeners
 - **2023-11-27 19:06**: perf: lazy load signal graphics and question assets
+- **2023-11-27 20:42**: fix: update DOTM Nepal license syllabus questions
