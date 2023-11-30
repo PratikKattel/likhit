@@ -1,4 +1,3 @@
-- **2023-10-14 10:38**: chore: format code style and clean up redundant variables
 - **2023-10-14 17:24**: feat: add instant feedback and explanation on answer selection
 - **2023-10-14 18:04**: chore: organize assets and image directory structure
 - **2023-10-15 10:56**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-11-28 10:56**: feat: add warning signs and informational road signs
 - **2023-11-29 14:32**: perf: lazy load signal graphics and question assets
 - **2023-11-29 17:11**: docs: add instructions for Nepali driving license written exam
+- **2023-11-30 22:07**: fix: adjust passing score threshold according to new rules
