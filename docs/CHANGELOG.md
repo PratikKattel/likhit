@@ -1,4 +1,3 @@
-- **2023-10-14 17:24**: feat: add instant feedback and explanation on answer selection
 - **2023-10-14 18:04**: chore: organize assets and image directory structure
 - **2023-10-15 10:56**: feat: add warning signs and informational road signs
 - **2023-10-15 18:20**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2023-11-29 14:32**: perf: lazy load signal graphics and question assets
 - **2023-11-29 17:11**: docs: add instructions for Nepali driving license written exam
 - **2023-11-30 22:07**: fix: adjust passing score threshold according to new rules
+- **2023-12-01 17:51**: refactor: clean up unused CSS classes and optimize stylesheet
