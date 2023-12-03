@@ -1,4 +1,3 @@
-- **2023-10-15 18:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-10-16 12:24**: feat: add result summary with passing threshold analysis
 - **2023-10-16 21:00**: refactor: modularize traffic app logic and event listeners
 - **2023-10-17 12:20**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2023-12-01 17:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-12-02 13:03**: fix: prevent option re-selection after submitting answer
 - **2023-12-02 21:41**: fix: resolve layout shift during question transitions
+- **2023-12-03 14:52**: chore: organize assets and image directory structure
