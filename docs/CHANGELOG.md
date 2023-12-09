@@ -1,4 +1,3 @@
-- **2023-10-18 15:49**: fix: resolve layout shift during question transitions
 - **2023-10-19 21:12**: docs: update README with setup instructions and feature list
 - **2023-10-20 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-20 20:58**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2023-12-07 10:57**: docs: update README with setup instructions and feature list
 - **2023-12-08 16:12**: fix: resolve layout shift during question transitions
 - **2023-12-09 10:57**: style: polish typography and Nepali Unicode font rendering
+- **2023-12-09 15:51**: refactor: clean up unused CSS classes and optimize stylesheet
