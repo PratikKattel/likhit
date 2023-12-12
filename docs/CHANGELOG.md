@@ -1,4 +1,3 @@
-- **2023-10-21 15:20**: chore: update project metadata and build configuration
 - **2023-10-21 15:36**: refactor: restructure question data schema for faster loading
 - **2023-10-22 09:13**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-22 09:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2023-12-10 15:54**: feat: add category A and B traffic test questions
 - **2023-12-11 11:34**: feat: add result summary with passing threshold analysis
 - **2023-12-11 12:39**: perf: index question IDs for rapid lookup
+- **2023-12-12 11:39**: perf: index question IDs for rapid lookup
