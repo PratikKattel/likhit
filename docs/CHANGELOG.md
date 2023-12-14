@@ -1,4 +1,3 @@
-- **2023-10-22 09:18**: feat: add category-specific practice modes
 - **2023-10-22 11:54**: perf: optimize image caching for traffic sign assets
 - **2023-10-22 16:36**: feat: add instant feedback and explanation on answer selection
 - **2023-10-23 09:36**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2023-12-12 11:39**: perf: index question IDs for rapid lookup
 - **2023-12-12 13:36**: refactor: restructure question data schema for faster loading
 - **2023-12-13 11:54**: feat: implement timer and score calculation for mock test
+- **2023-12-14 16:42**: chore: format code style and clean up redundant variables
