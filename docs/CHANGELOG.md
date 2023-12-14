@@ -1,4 +1,3 @@
-- **2023-10-22 11:54**: perf: optimize image caching for traffic sign assets
 - **2023-10-22 16:36**: feat: add instant feedback and explanation on answer selection
 - **2023-10-23 09:36**: chore: update project metadata and build configuration
 - **2023-10-24 11:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2023-12-12 13:36**: refactor: restructure question data schema for faster loading
 - **2023-12-13 11:54**: feat: implement timer and score calculation for mock test
 - **2023-12-14 16:42**: chore: format code style and clean up redundant variables
+- **2023-12-14 20:32**: docs: add instructions for Nepali driving license written exam
