@@ -1,4 +1,3 @@
-- **2023-10-24 11:45**: test: verify question extraction script against exam PDF
 - **2023-10-25 10:47**: docs: improve code comments and API documentation
 - **2023-10-25 11:32**: refactor: optimize SVG rendering for road signs
 - **2023-10-25 19:03**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2023-12-14 20:32**: docs: add instructions for Nepali driving license written exam
 - **2023-12-15 17:11**: fix: correct color specifications for mandatory traffic signs
 - **2023-12-16 10:41**: feat: add keyboard navigation shortcuts for question selection
+- **2023-12-17 10:45**: feat: implement timer and score calculation for mock test
