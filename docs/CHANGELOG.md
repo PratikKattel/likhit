@@ -1,4 +1,3 @@
-- **2023-10-25 10:47**: docs: improve code comments and API documentation
 - **2023-10-25 11:32**: refactor: optimize SVG rendering for road signs
 - **2023-10-25 19:03**: refactor: restructure question data schema for faster loading
 - **2023-10-26 10:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2023-12-15 17:11**: fix: correct color specifications for mandatory traffic signs
 - **2023-12-16 10:41**: feat: add keyboard navigation shortcuts for question selection
 - **2023-12-17 10:45**: feat: implement timer and score calculation for mock test
+- **2023-12-18 13:36**: feat: add search and filter by sign category
