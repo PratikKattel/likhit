@@ -1,4 +1,3 @@
-- **2023-10-25 19:03**: refactor: restructure question data schema for faster loading
 - **2023-10-26 10:09**: feat: add warning signs and informational road signs
 - **2023-10-26 12:38**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-27 16:40**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2023-12-17 10:45**: feat: implement timer and score calculation for mock test
 - **2023-12-18 13:36**: feat: add search and filter by sign category
 - **2023-12-19 09:34**: feat: add search and filter by sign category
+- **2023-12-19 22:10**: feat: support multiple choice questions for motorcycle category
