@@ -1,4 +1,3 @@
-- **2023-10-26 10:09**: feat: add warning signs and informational road signs
 - **2023-10-26 12:38**: style: polish typography and Nepali Unicode font rendering
 - **2023-10-27 16:40**: fix: update DOTM Nepal license syllabus questions
 - **2023-10-28 20:59**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2023-12-18 13:36**: feat: add search and filter by sign category
 - **2023-12-19 09:34**: feat: add search and filter by sign category
 - **2023-12-19 22:10**: feat: support multiple choice questions for motorcycle category
+- **2023-12-20 10:16**: docs: improve code comments and API documentation
