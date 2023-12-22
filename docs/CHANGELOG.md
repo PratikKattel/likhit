@@ -1,4 +1,3 @@
-- **2023-10-28 20:59**: fix: prevent option re-selection after submitting answer
 - **2023-10-29 15:39**: chore: format code style and clean up redundant variables
 - **2023-10-29 21:33**: chore: format code style and clean up redundant variables
 - **2023-10-30 16:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2023-12-20 10:16**: docs: improve code comments and API documentation
 - **2023-12-20 14:13**: docs: update traffic signals catalog documentation
 - **2023-12-21 21:33**: style: enhance traffic sign card layout and responsiveness
+- **2023-12-22 13:29**: docs: improve code comments and API documentation
