@@ -1,4 +1,3 @@
-- **2023-10-29 21:33**: chore: format code style and clean up redundant variables
 - **2023-10-30 16:00**: feat: add search and filter by sign category
 - **2023-10-30 16:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-10-31 13:15**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2023-12-21 21:33**: style: enhance traffic sign card layout and responsiveness
 - **2023-12-22 13:29**: docs: improve code comments and API documentation
 - **2023-12-22 22:23**: feat: implement timer and score calculation for mock test
+- **2023-12-23 13:41**: refactor: modularize traffic app logic and event listeners
