@@ -1,4 +1,3 @@
-- **2023-10-30 16:00**: feat: add search and filter by sign category
 - **2023-10-30 16:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-10-31 13:15**: chore: update project metadata and build configuration
 - **2023-10-31 14:53**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2023-12-22 13:29**: docs: improve code comments and API documentation
 - **2023-12-22 22:23**: feat: implement timer and score calculation for mock test
 - **2023-12-23 13:41**: refactor: modularize traffic app logic and event listeners
+- **2023-12-24 16:06**: feat: add warning signs and informational road signs
