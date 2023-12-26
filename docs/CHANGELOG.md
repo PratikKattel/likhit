@@ -1,4 +1,3 @@
-- **2023-10-31 14:53**: fix: adjust passing score threshold according to new rules
 - **2023-10-31 16:25**: fix: prevent option re-selection after submitting answer
 - **2023-11-01 11:31**: docs: update README with setup instructions and feature list
 - **2023-11-01 18:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-12-24 16:06**: feat: add warning signs and informational road signs
 - **2023-12-25 11:31**: docs: update traffic signals catalog documentation
 - **2023-12-25 11:56**: docs: update traffic signals catalog documentation
+- **2023-12-26 17:21**: docs: improve code comments and API documentation
