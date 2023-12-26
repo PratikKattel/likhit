@@ -1,4 +1,3 @@
-- **2023-10-31 16:25**: fix: prevent option re-selection after submitting answer
 - **2023-11-01 11:31**: docs: update README with setup instructions and feature list
 - **2023-11-01 18:05**: feat: add regulatory traffic signs SVG graphics
 - **2023-11-02 21:28**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2023-12-25 11:31**: docs: update traffic signals catalog documentation
 - **2023-12-25 11:56**: docs: update traffic signals catalog documentation
 - **2023-12-26 17:21**: docs: improve code comments and API documentation
+- **2023-12-26 22:13**: fix: resolve layout shift during question transitions
