@@ -1,4 +1,3 @@
-- **2023-11-01 11:31**: docs: update README with setup instructions and feature list
 - **2023-11-01 18:05**: feat: add regulatory traffic signs SVG graphics
 - **2023-11-02 21:28**: feat: add category A and B traffic test questions
 - **2023-11-03 22:21**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2023-12-25 11:56**: docs: update traffic signals catalog documentation
 - **2023-12-26 17:21**: docs: improve code comments and API documentation
 - **2023-12-26 22:13**: fix: resolve layout shift during question transitions
+- **2023-12-27 13:16**: docs: add instructions for Nepali driving license written exam
