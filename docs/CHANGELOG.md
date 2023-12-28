@@ -1,4 +1,3 @@
-- **2023-11-05 16:37**: fix: correct color specifications for mandatory traffic signs
 - **2023-11-06 17:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-11-06 18:10**: feat: add category-specific practice modes
 - **2023-11-06 19:27**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2023-12-27 17:15**: docs: improve code comments and API documentation
 - **2023-12-28 11:27**: docs: add instructions for Nepali driving license written exam
 - **2023-12-28 13:18**: docs: update traffic signals catalog documentation
+- **2023-12-28 18:52**: style: polish typography and Nepali Unicode font rendering
