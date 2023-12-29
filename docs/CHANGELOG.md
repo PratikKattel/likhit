@@ -1,4 +1,3 @@
-- **2023-11-06 18:10**: feat: add category-specific practice modes
 - **2023-11-06 19:27**: style: polish typography and Nepali Unicode font rendering
 - **2023-11-07 15:58**: docs: add instructions for Nepali driving license written exam
 - **2023-11-08 10:55**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2023-12-28 13:18**: docs: update traffic signals catalog documentation
 - **2023-12-28 18:52**: style: polish typography and Nepali Unicode font rendering
 - **2023-12-29 17:20**: fix: typo in Nepali road safety regulations question
+- **2023-12-29 18:59**: refactor: optimize SVG rendering for road signs
