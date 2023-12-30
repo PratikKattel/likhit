@@ -1,4 +1,3 @@
-- **2023-11-07 15:58**: docs: add instructions for Nepali driving license written exam
 - **2023-11-08 10:55**: docs: update traffic signals catalog documentation
 - **2023-11-08 17:38**: chore: update project metadata and build configuration
 - **2023-11-09 13:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2023-12-29 17:20**: fix: typo in Nepali road safety regulations question
 - **2023-12-29 18:59**: refactor: optimize SVG rendering for road signs
 - **2023-12-29 21:31**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2023-12-30 17:48**: test: verify question extraction script against exam PDF
