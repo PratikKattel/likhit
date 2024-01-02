@@ -1,4 +1,3 @@
-- **2023-11-11 16:16**: style: polish typography and Nepali Unicode font rendering
 - **2023-11-12 15:37**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-13 14:28**: feat: add result summary with passing threshold analysis
 - **2023-11-13 21:22**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2024-01-01 14:53**: fix: typo in Nepali road safety regulations question
 - **2024-01-01 17:50**: perf: optimize image caching for traffic sign assets
 - **2024-01-02 16:12**: chore: update questions database with recent DOTM updates
+- **2024-01-02 18:05**: style: improve dark/light mode and mobile UI responsiveness
