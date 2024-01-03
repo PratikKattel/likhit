@@ -1,4 +1,3 @@
-- **2023-11-13 21:22**: chore: update project metadata and build configuration
 - **2023-11-14 13:43**: docs: update README with setup instructions and feature list
 - **2023-11-15 18:49**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-16 10:07**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2024-01-02 18:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-03 12:33**: feat: add result summary with passing threshold analysis
 - **2024-01-03 15:10**: feat: add instant feedback and explanation on answer selection
+- **2024-01-03 16:03**: feat: add instant feedback and explanation on answer selection
