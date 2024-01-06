@@ -1,4 +1,3 @@
-- **2023-11-16 10:07**: refactor: optimize SVG rendering for road signs
 - **2023-11-17 15:55**: docs: add instructions for Nepali driving license written exam
 - **2023-11-18 09:17**: fix: adjust passing score threshold according to new rules
 - **2023-11-19 09:19**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2024-01-03 16:03**: feat: add instant feedback and explanation on answer selection
 - **2024-01-04 14:42**: fix: prevent option re-selection after submitting answer
 - **2024-01-05 12:41**: feat: add regulatory traffic signs SVG graphics
+- **2024-01-06 12:21**: chore: update questions database with recent DOTM updates
