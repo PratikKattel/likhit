@@ -1,4 +1,3 @@
-- **2023-11-19 09:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2023-11-20 16:16**: feat: add regulatory traffic signs SVG graphics
 - **2023-11-21 12:33**: fix: resolve layout shift during question transitions
 - **2023-11-21 18:20**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-01-06 12:21**: chore: update questions database with recent DOTM updates
 - **2024-01-06 17:02**: perf: lazy load signal graphics and question assets
 - **2024-01-06 21:54**: docs: update traffic signals catalog documentation
+- **2024-01-07 17:46**: docs: update README with setup instructions and feature list
