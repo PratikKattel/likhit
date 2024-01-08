@@ -1,4 +1,3 @@
-- **2023-11-21 12:33**: fix: resolve layout shift during question transitions
 - **2023-11-21 18:20**: perf: lazy load signal graphics and question assets
 - **2023-11-22 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2023-11-22 22:16**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-01-06 21:54**: docs: update traffic signals catalog documentation
 - **2024-01-07 17:46**: docs: update README with setup instructions and feature list
 - **2024-01-08 11:52**: fix: resolve layout shift during question transitions
+- **2024-01-08 19:30**: refactor: clean up unused CSS classes and optimize stylesheet
