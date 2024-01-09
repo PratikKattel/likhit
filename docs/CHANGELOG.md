@@ -1,4 +1,3 @@
-- **2023-11-21 18:20**: perf: lazy load signal graphics and question assets
 - **2023-11-22 18:43**: fix: update DOTM Nepal license syllabus questions
 - **2023-11-22 22:16**: feat: add search and filter by sign category
 - **2023-11-23 10:05**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-01-07 17:46**: docs: update README with setup instructions and feature list
 - **2024-01-08 11:52**: fix: resolve layout shift during question transitions
 - **2024-01-08 19:30**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-01-09 13:23**: fix: update DOTM Nepal license syllabus questions
