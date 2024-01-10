@@ -1,4 +1,3 @@
-- **2023-11-22 22:16**: feat: add search and filter by sign category
 - **2023-11-23 10:05**: feat: implement timer and score calculation for mock test
 - **2023-11-23 10:13**: chore: organize assets and image directory structure
 - **2023-11-24 09:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-01-08 19:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-01-09 13:23**: fix: update DOTM Nepal license syllabus questions
 - **2024-01-10 09:26**: feat: add search and filter by sign category
+- **2024-01-10 11:58**: fix: prevent option re-selection after submitting answer
