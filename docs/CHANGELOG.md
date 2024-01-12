@@ -1,4 +1,3 @@
-- **2023-11-25 19:24**: docs: update README with setup instructions and feature list
 - **2023-11-26 14:32**: perf: lazy load signal graphics and question assets
 - **2023-11-26 15:53**: docs: update README with setup instructions and feature list
 - **2023-11-27 13:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-01-10 22:08**: fix: update DOTM Nepal license syllabus questions
 - **2024-01-11 11:14**: perf: index question IDs for rapid lookup
 - **2024-01-12 09:35**: docs: update traffic signals catalog documentation
+- **2024-01-12 12:29**: fix: correct color specifications for mandatory traffic signs
