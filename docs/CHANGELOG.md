@@ -1,4 +1,3 @@
-- **2023-11-27 13:53**: refactor: modularize traffic app logic and event listeners
 - **2023-11-27 19:06**: perf: lazy load signal graphics and question assets
 - **2023-11-27 20:42**: fix: update DOTM Nepal license syllabus questions
 - **2023-11-28 10:56**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-01-12 12:29**: fix: correct color specifications for mandatory traffic signs
 - **2024-01-12 19:01**: perf: optimize image caching for traffic sign assets
 - **2024-01-13 11:41**: fix: resolve layout shift during question transitions
+- **2024-01-14 17:57**: feat: add keyboard navigation shortcuts for question selection
