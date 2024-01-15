@@ -1,4 +1,3 @@
-- **2023-11-27 20:42**: fix: update DOTM Nepal license syllabus questions
 - **2023-11-28 10:56**: feat: add warning signs and informational road signs
 - **2023-11-29 14:32**: perf: lazy load signal graphics and question assets
 - **2023-11-29 17:11**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-01-13 11:41**: fix: resolve layout shift during question transitions
 - **2024-01-14 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2024-01-15 15:51**: style: improve dark/light mode and mobile UI responsiveness
+- **2024-01-15 18:14**: fix: prevent option re-selection after submitting answer
