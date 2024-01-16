@@ -1,4 +1,3 @@
-- **2023-11-29 17:11**: docs: add instructions for Nepali driving license written exam
 - **2023-11-30 22:07**: fix: adjust passing score threshold according to new rules
 - **2023-12-01 17:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-12-02 13:03**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-01-15 18:14**: fix: prevent option re-selection after submitting answer
 - **2024-01-16 10:53**: chore: format code style and clean up redundant variables
 - **2024-01-16 16:10**: feat: add category A and B traffic test questions
+- **2024-01-16 20:00**: refactor: modularize traffic app logic and event listeners
