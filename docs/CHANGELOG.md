@@ -1,4 +1,3 @@
-- **2023-11-29 14:32**: perf: lazy load signal graphics and question assets
 - **2023-11-29 17:11**: docs: add instructions for Nepali driving license written exam
 - **2023-11-30 22:07**: fix: adjust passing score threshold according to new rules
 - **2023-12-01 17:51**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-01-15 15:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-15 18:14**: fix: prevent option re-selection after submitting answer
 - **2024-01-16 10:53**: chore: format code style and clean up redundant variables
+- **2024-01-16 16:10**: feat: add category A and B traffic test questions
