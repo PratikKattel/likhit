@@ -1,4 +1,3 @@
-- **2023-12-01 17:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-12-02 13:03**: fix: prevent option re-selection after submitting answer
 - **2023-12-02 21:41**: fix: resolve layout shift during question transitions
 - **2023-12-03 14:52**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-01-16 16:10**: feat: add category A and B traffic test questions
 - **2024-01-16 20:00**: refactor: modularize traffic app logic and event listeners
 - **2024-01-16 22:03**: test: verify question extraction script against exam PDF
+- **2024-01-17 09:09**: fix: resolve layout shift during question transitions
