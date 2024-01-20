@@ -1,4 +1,3 @@
-- **2023-12-05 09:14**: perf: optimize image caching for traffic sign assets
 - **2023-12-06 10:42**: perf: index question IDs for rapid lookup
 - **2023-12-07 10:57**: docs: update README with setup instructions and feature list
 - **2023-12-08 16:12**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-01-18 18:21**: perf: index question IDs for rapid lookup
 - **2024-01-19 19:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-01-20 10:28**: style: polish typography and Nepali Unicode font rendering
+- **2024-01-20 16:04**: refactor: modularize traffic app logic and event listeners
