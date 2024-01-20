@@ -1,4 +1,3 @@
-- **2023-12-06 10:42**: perf: index question IDs for rapid lookup
 - **2023-12-07 10:57**: docs: update README with setup instructions and feature list
 - **2023-12-08 16:12**: fix: resolve layout shift during question transitions
 - **2023-12-09 10:57**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-01-19 19:39**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-01-20 10:28**: style: polish typography and Nepali Unicode font rendering
 - **2024-01-20 16:04**: refactor: modularize traffic app logic and event listeners
+- **2024-01-20 17:59**: feat: implement timer and score calculation for mock test
