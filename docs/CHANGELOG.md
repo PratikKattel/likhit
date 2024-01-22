@@ -1,4 +1,3 @@
-- **2023-12-09 10:57**: style: polish typography and Nepali Unicode font rendering
 - **2023-12-09 15:51**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2023-12-10 15:54**: feat: add category A and B traffic test questions
 - **2023-12-11 11:34**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-01-20 17:59**: feat: implement timer and score calculation for mock test
 - **2024-01-21 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2024-01-21 19:40**: fix: adjust passing score threshold according to new rules
+- **2024-01-22 11:05**: feat: add search and filter by sign category
