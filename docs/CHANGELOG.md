@@ -1,4 +1,3 @@
-- **2023-12-10 15:54**: feat: add category A and B traffic test questions
 - **2023-12-11 11:34**: feat: add result summary with passing threshold analysis
 - **2023-12-11 12:39**: perf: index question IDs for rapid lookup
 - **2023-12-12 11:39**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-01-21 19:40**: fix: adjust passing score threshold according to new rules
 - **2024-01-22 11:05**: feat: add search and filter by sign category
 - **2024-01-22 17:43**: feat: add search and filter by sign category
+- **2024-01-23 21:36**: chore: update questions database with recent DOTM updates
