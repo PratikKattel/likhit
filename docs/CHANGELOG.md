@@ -1,4 +1,3 @@
-- **2023-12-11 12:39**: perf: index question IDs for rapid lookup
 - **2023-12-12 11:39**: perf: index question IDs for rapid lookup
 - **2023-12-12 13:36**: refactor: restructure question data schema for faster loading
 - **2023-12-13 11:54**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-01-22 17:43**: feat: add search and filter by sign category
 - **2024-01-23 21:36**: chore: update questions database with recent DOTM updates
 - **2024-01-24 12:16**: perf: optimize image caching for traffic sign assets
+- **2024-01-25 14:30**: style: enhance traffic sign card layout and responsiveness
