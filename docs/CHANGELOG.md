@@ -1,4 +1,3 @@
-- **2023-12-14 16:42**: chore: format code style and clean up redundant variables
 - **2023-12-14 20:32**: docs: add instructions for Nepali driving license written exam
 - **2023-12-15 17:11**: fix: correct color specifications for mandatory traffic signs
 - **2023-12-16 10:41**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-01-26 12:59**: perf: optimize image caching for traffic sign assets
 - **2024-01-27 15:45**: perf: index question IDs for rapid lookup
 - **2024-01-27 16:58**: feat: add result summary with passing threshold analysis
+- **2024-01-28 14:21**: feat: add keyboard navigation shortcuts for question selection
