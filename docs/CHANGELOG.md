@@ -1,4 +1,3 @@
-- **2023-12-16 10:41**: feat: add keyboard navigation shortcuts for question selection
 - **2023-12-17 10:45**: feat: implement timer and score calculation for mock test
 - **2023-12-18 13:36**: feat: add search and filter by sign category
 - **2023-12-19 09:34**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-01-28 14:21**: feat: add keyboard navigation shortcuts for question selection
 - **2024-01-29 15:15**: chore: update questions database with recent DOTM updates
 - **2024-01-29 18:22**: perf: index question IDs for rapid lookup
+- **2024-01-30 12:07**: style: improve dark/light mode and mobile UI responsiveness
