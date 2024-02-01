@@ -1,4 +1,3 @@
-- **2023-12-19 09:34**: feat: add search and filter by sign category
 - **2023-12-19 22:10**: feat: support multiple choice questions for motorcycle category
 - **2023-12-20 10:16**: docs: improve code comments and API documentation
 - **2023-12-20 14:13**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-01-30 12:07**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-31 16:32**: fix: resolve layout shift during question transitions
 - **2024-01-31 18:54**: chore: update questions database with recent DOTM updates
+- **2024-02-01 10:19**: fix: prevent option re-selection after submitting answer
