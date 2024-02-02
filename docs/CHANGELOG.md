@@ -1,4 +1,3 @@
-- **2023-12-20 10:16**: docs: improve code comments and API documentation
 - **2023-12-20 14:13**: docs: update traffic signals catalog documentation
 - **2023-12-21 21:33**: style: enhance traffic sign card layout and responsiveness
 - **2023-12-22 13:29**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-01-31 18:54**: chore: update questions database with recent DOTM updates
 - **2024-02-01 10:19**: fix: prevent option re-selection after submitting answer
 - **2024-02-01 18:06**: refactor: optimize SVG rendering for road signs
+- **2024-02-02 20:07**: chore: format code style and clean up redundant variables
