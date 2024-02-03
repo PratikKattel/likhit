@@ -1,4 +1,3 @@
-- **2023-12-22 13:29**: docs: improve code comments and API documentation
 - **2023-12-22 22:23**: feat: implement timer and score calculation for mock test
 - **2023-12-23 13:41**: refactor: modularize traffic app logic and event listeners
 - **2023-12-24 16:06**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-02-02 20:07**: chore: format code style and clean up redundant variables
 - **2024-02-02 20:41**: perf: optimize image caching for traffic sign assets
 - **2024-02-03 11:51**: refactor: restructure question data schema for faster loading
+- **2024-02-03 16:28**: perf: optimize image caching for traffic sign assets
