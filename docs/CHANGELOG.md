@@ -1,4 +1,3 @@
-- **2023-12-24 16:06**: feat: add warning signs and informational road signs
 - **2023-12-25 11:31**: docs: update traffic signals catalog documentation
 - **2023-12-25 11:56**: docs: update traffic signals catalog documentation
 - **2023-12-26 17:21**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-02-03 16:28**: perf: optimize image caching for traffic sign assets
 - **2024-02-04 09:37**: perf: lazy load signal graphics and question assets
 - **2024-02-04 09:48**: refactor: restructure question data schema for faster loading
+- **2024-02-04 17:16**: style: polish typography and Nepali Unicode font rendering
