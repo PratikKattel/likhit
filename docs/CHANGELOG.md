@@ -1,4 +1,3 @@
-- **2023-12-26 17:21**: docs: improve code comments and API documentation
 - **2023-12-26 22:13**: fix: resolve layout shift during question transitions
 - **2023-12-27 13:16**: docs: add instructions for Nepali driving license written exam
 - **2023-12-27 15:14**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-02-04 17:16**: style: polish typography and Nepali Unicode font rendering
 - **2024-02-05 13:15**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-05 20:02**: chore: format code style and clean up redundant variables
+- **2024-02-05 20:08**: fix: update DOTM Nepal license syllabus questions
