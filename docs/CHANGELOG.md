@@ -1,4 +1,3 @@
-- **2023-12-27 15:14**: docs: update traffic signals catalog documentation
 - **2023-12-27 17:15**: docs: improve code comments and API documentation
 - **2023-12-28 11:27**: docs: add instructions for Nepali driving license written exam
 - **2023-12-28 13:18**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-02-05 20:08**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-06 10:26**: feat: add result summary with passing threshold analysis
 - **2024-02-07 09:37**: chore: update project metadata and build configuration
+- **2024-02-07 14:52**: fix: prevent option re-selection after submitting answer
