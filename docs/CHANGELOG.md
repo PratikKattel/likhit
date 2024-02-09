@@ -1,4 +1,3 @@
-- **2023-12-28 18:52**: style: polish typography and Nepali Unicode font rendering
 - **2023-12-29 17:20**: fix: typo in Nepali road safety regulations question
 - **2023-12-29 18:59**: refactor: optimize SVG rendering for road signs
 - **2023-12-29 21:31**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-02-08 09:24**: feat: support multiple choice questions for motorcycle category
 - **2024-02-08 11:19**: feat: implement timer and score calculation for mock test
 - **2024-02-09 18:38**: test: verify question extraction script against exam PDF
+- **2024-02-09 19:25**: feat: implement timer and score calculation for mock test
