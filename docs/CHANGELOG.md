@@ -1,4 +1,3 @@
-- **2023-12-31 14:19**: docs: update README with setup instructions and feature list
 - **2024-01-01 13:15**: perf: index question IDs for rapid lookup
 - **2024-01-01 14:53**: fix: typo in Nepali road safety regulations question
 - **2024-01-01 17:50**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-02-10 15:27**: refactor: optimize SVG rendering for road signs
 - **2024-02-11 17:47**: feat: support multiple choice questions for motorcycle category
 - **2024-02-12 16:20**: feat: add search and filter by sign category
+- **2024-02-13 09:59**: feat: add keyboard navigation shortcuts for question selection
