@@ -1,4 +1,3 @@
-- **2024-01-01 17:50**: perf: optimize image caching for traffic sign assets
 - **2024-01-02 16:12**: chore: update questions database with recent DOTM updates
 - **2024-01-02 18:05**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-03 12:33**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-02-13 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-02-13 17:09**: perf: index question IDs for rapid lookup
 - **2024-02-14 09:26**: docs: add instructions for Nepali driving license written exam
+- **2024-02-14 10:15**: refactor: restructure question data schema for faster loading
