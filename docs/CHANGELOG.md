@@ -1,4 +1,3 @@
-- **2024-01-03 15:10**: feat: add instant feedback and explanation on answer selection
 - **2024-01-03 16:03**: feat: add instant feedback and explanation on answer selection
 - **2024-01-04 14:42**: fix: prevent option re-selection after submitting answer
 - **2024-01-05 12:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-02-14 11:46**: perf: index question IDs for rapid lookup
 - **2024-02-15 14:45**: docs: update README with setup instructions and feature list
 - **2024-02-15 18:55**: chore: format code style and clean up redundant variables
+- **2024-02-16 09:52**: perf: index question IDs for rapid lookup
