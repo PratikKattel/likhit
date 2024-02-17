@@ -1,4 +1,3 @@
-- **2024-01-04 14:42**: fix: prevent option re-selection after submitting answer
 - **2024-01-05 12:41**: feat: add regulatory traffic signs SVG graphics
 - **2024-01-06 12:21**: chore: update questions database with recent DOTM updates
 - **2024-01-06 17:02**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-02-15 18:55**: chore: format code style and clean up redundant variables
 - **2024-02-16 09:52**: perf: index question IDs for rapid lookup
 - **2024-02-17 11:45**: test: verify question extraction script against exam PDF
+- **2024-02-17 17:37**: feat: add result summary with passing threshold analysis
