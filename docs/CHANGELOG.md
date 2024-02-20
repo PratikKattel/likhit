@@ -1,4 +1,3 @@
-- **2024-01-06 17:02**: perf: lazy load signal graphics and question assets
 - **2024-01-06 21:54**: docs: update traffic signals catalog documentation
 - **2024-01-07 17:46**: docs: update README with setup instructions and feature list
 - **2024-01-08 11:52**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-02-17 17:37**: feat: add result summary with passing threshold analysis
 - **2024-02-18 16:46**: docs: update traffic signals catalog documentation
 - **2024-02-19 22:28**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-02-20 09:17**: perf: lazy load signal graphics and question assets
