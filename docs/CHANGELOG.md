@@ -1,4 +1,3 @@
-- **2024-01-07 17:46**: docs: update README with setup instructions and feature list
 - **2024-01-08 11:52**: fix: resolve layout shift during question transitions
 - **2024-01-08 19:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-01-09 13:23**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-02-19 22:28**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-02-20 09:17**: perf: lazy load signal graphics and question assets
 - **2024-02-20 12:51**: feat: add category A and B traffic test questions
+- **2024-02-20 18:03**: docs: improve code comments and API documentation
