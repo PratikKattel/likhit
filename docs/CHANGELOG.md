@@ -1,4 +1,3 @@
-- **2024-01-10 11:58**: fix: prevent option re-selection after submitting answer
 - **2024-01-10 13:20**: perf: optimize image caching for traffic sign assets
 - **2024-01-10 22:08**: fix: update DOTM Nepal license syllabus questions
 - **2024-01-11 11:14**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-02-21 19:26**: chore: organize assets and image directory structure
 - **2024-02-22 09:13**: refactor: restructure question data schema for faster loading
 - **2024-02-23 17:13**: style: polish typography and Nepali Unicode font rendering
+- **2024-02-24 20:12**: style: enhance traffic sign card layout and responsiveness
