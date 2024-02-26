@@ -1,4 +1,3 @@
-- **2024-01-10 22:08**: fix: update DOTM Nepal license syllabus questions
 - **2024-01-11 11:14**: perf: index question IDs for rapid lookup
 - **2024-01-12 09:35**: docs: update traffic signals catalog documentation
 - **2024-01-12 12:29**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-02-23 17:13**: style: polish typography and Nepali Unicode font rendering
 - **2024-02-24 20:12**: style: enhance traffic sign card layout and responsiveness
 - **2024-02-25 18:58**: feat: add category A and B traffic test questions
+- **2024-02-26 10:31**: feat: implement timer and score calculation for mock test
