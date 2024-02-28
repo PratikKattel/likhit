@@ -1,4 +1,3 @@
-- **2024-01-13 11:41**: fix: resolve layout shift during question transitions
 - **2024-01-14 17:57**: feat: add keyboard navigation shortcuts for question selection
 - **2024-01-15 15:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-15 18:14**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-02-26 19:43**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-27 13:16**: fix: prevent option re-selection after submitting answer
 - **2024-02-28 14:29**: fix: correct color specifications for mandatory traffic signs
+- **2024-02-28 18:52**: feat: support multiple choice questions for motorcycle category
