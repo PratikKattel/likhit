@@ -1,4 +1,3 @@
-- **2024-01-15 15:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-01-15 18:14**: fix: prevent option re-selection after submitting answer
 - **2024-01-16 10:53**: chore: format code style and clean up redundant variables
 - **2024-01-16 16:10**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2024-02-28 14:29**: fix: correct color specifications for mandatory traffic signs
 - **2024-02-28 18:52**: feat: support multiple choice questions for motorcycle category
 - **2024-02-28 19:03**: feat: add instant feedback and explanation on answer selection
+- **2024-02-29 12:12**: feat: add search and filter by sign category
