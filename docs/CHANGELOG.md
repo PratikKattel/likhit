@@ -1,4 +1,3 @@
-- **2024-01-16 10:53**: chore: format code style and clean up redundant variables
 - **2024-01-16 16:10**: feat: add category A and B traffic test questions
 - **2024-01-16 20:00**: refactor: modularize traffic app logic and event listeners
 - **2024-01-16 22:03**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-02-28 19:03**: feat: add instant feedback and explanation on answer selection
 - **2024-02-29 12:12**: feat: add search and filter by sign category
 - **2024-02-29 21:30**: perf: index question IDs for rapid lookup
+- **2024-03-01 21:19**: chore: format code style and clean up redundant variables
