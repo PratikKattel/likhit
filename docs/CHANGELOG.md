@@ -1,4 +1,3 @@
-- **2024-01-21 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2024-01-21 19:40**: fix: adjust passing score threshold according to new rules
 - **2024-01-22 11:05**: feat: add search and filter by sign category
 - **2024-01-22 17:43**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-03-06 14:24**: feat: add instant feedback and explanation on answer selection
 - **2024-03-06 16:14**: docs: update traffic signals catalog documentation
 - **2024-03-06 18:32**: feat: add keyboard navigation shortcuts for question selection
+- **2024-03-07 11:09**: feat: add regulatory traffic signs SVG graphics
