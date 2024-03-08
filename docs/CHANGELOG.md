@@ -1,4 +1,3 @@
-- **2024-01-21 19:40**: fix: adjust passing score threshold according to new rules
 - **2024-01-22 11:05**: feat: add search and filter by sign category
 - **2024-01-22 17:43**: feat: add search and filter by sign category
 - **2024-01-23 21:36**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-03-06 16:14**: docs: update traffic signals catalog documentation
 - **2024-03-06 18:32**: feat: add keyboard navigation shortcuts for question selection
 - **2024-03-07 11:09**: feat: add regulatory traffic signs SVG graphics
+- **2024-03-08 12:16**: fix: adjust passing score threshold according to new rules
