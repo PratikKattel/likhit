@@ -1,4 +1,3 @@
-- **2024-01-22 17:43**: feat: add search and filter by sign category
 - **2024-01-23 21:36**: chore: update questions database with recent DOTM updates
 - **2024-01-24 12:16**: perf: optimize image caching for traffic sign assets
 - **2024-01-25 14:30**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-03-07 11:09**: feat: add regulatory traffic signs SVG graphics
 - **2024-03-08 12:16**: fix: adjust passing score threshold according to new rules
 - **2024-03-08 17:05**: style: polish typography and Nepali Unicode font rendering
+- **2024-03-09 09:28**: docs: update README with setup instructions and feature list
