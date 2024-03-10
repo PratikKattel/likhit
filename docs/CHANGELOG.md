@@ -1,4 +1,3 @@
-- **2024-01-25 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2024-01-26 12:59**: perf: optimize image caching for traffic sign assets
 - **2024-01-27 15:45**: perf: index question IDs for rapid lookup
 - **2024-01-27 16:58**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-03-09 09:28**: docs: update README with setup instructions and feature list
 - **2024-03-10 16:04**: feat: add regulatory traffic signs SVG graphics
 - **2024-03-10 17:34**: docs: update traffic signals catalog documentation
+- **2024-03-10 19:47**: feat: support multiple choice questions for motorcycle category
