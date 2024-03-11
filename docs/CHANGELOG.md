@@ -1,4 +1,3 @@
-- **2024-01-28 14:21**: feat: add keyboard navigation shortcuts for question selection
 - **2024-01-29 15:15**: chore: update questions database with recent DOTM updates
 - **2024-01-29 18:22**: perf: index question IDs for rapid lookup
 - **2024-01-30 12:07**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2024-03-10 20:16**: feat: add category-specific practice modes
 - **2024-03-11 10:31**: chore: update questions database with recent DOTM updates
 - **2024-03-11 16:33**: perf: optimize image caching for traffic sign assets
+- **2024-03-11 16:44**: perf: index question IDs for rapid lookup
