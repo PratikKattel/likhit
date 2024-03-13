@@ -1,4 +1,3 @@
-- **2024-01-31 16:32**: fix: resolve layout shift during question transitions
 - **2024-01-31 18:54**: chore: update questions database with recent DOTM updates
 - **2024-02-01 10:19**: fix: prevent option re-selection after submitting answer
 - **2024-02-01 18:06**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2024-03-12 09:14**: chore: organize assets and image directory structure
 - **2024-03-12 10:41**: fix: prevent option re-selection after submitting answer
 - **2024-03-12 17:12**: style: enhance traffic sign card layout and responsiveness
+- **2024-03-13 10:38**: fix: update DOTM Nepal license syllabus questions
