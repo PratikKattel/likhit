@@ -1,4 +1,3 @@
-- **2024-02-02 20:41**: perf: optimize image caching for traffic sign assets
 - **2024-02-03 11:51**: refactor: restructure question data schema for faster loading
 - **2024-02-03 16:28**: perf: optimize image caching for traffic sign assets
 - **2024-02-04 09:37**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-03-14 15:36**: feat: add instant feedback and explanation on answer selection
 - **2024-03-14 16:17**: feat: add category A and B traffic test questions
 - **2024-03-15 16:23**: refactor: modularize traffic app logic and event listeners
+- **2024-03-15 19:41**: style: improve dark/light mode and mobile UI responsiveness
