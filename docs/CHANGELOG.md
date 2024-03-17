@@ -1,4 +1,3 @@
-- **2024-02-04 09:48**: refactor: restructure question data schema for faster loading
 - **2024-02-04 17:16**: style: polish typography and Nepali Unicode font rendering
 - **2024-02-05 13:15**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-05 20:02**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2024-03-16 21:02**: feat: add search and filter by sign category
 - **2024-03-16 21:25**: fix: correct color specifications for mandatory traffic signs
 - **2024-03-17 11:15**: chore: format code style and clean up redundant variables
+- **2024-03-17 15:29**: feat: implement timer and score calculation for mock test
