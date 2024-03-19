@@ -1,4 +1,3 @@
-- **2024-02-05 20:02**: chore: format code style and clean up redundant variables
 - **2024-02-05 20:08**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-06 10:26**: feat: add result summary with passing threshold analysis
 - **2024-02-07 09:37**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2024-03-17 15:29**: feat: implement timer and score calculation for mock test
 - **2024-03-18 16:55**: fix: update DOTM Nepal license syllabus questions
 - **2024-03-19 09:15**: refactor: restructure question data schema for faster loading
+- **2024-03-19 11:25**: feat: add instant feedback and explanation on answer selection
