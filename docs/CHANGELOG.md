@@ -1,4 +1,3 @@
-- **2024-02-07 14:52**: fix: prevent option re-selection after submitting answer
 - **2024-02-08 09:24**: feat: support multiple choice questions for motorcycle category
 - **2024-02-08 11:19**: feat: implement timer and score calculation for mock test
 - **2024-02-09 18:38**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-03-19 14:46**: chore: update project metadata and build configuration
 - **2024-03-19 22:08**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-03-20 10:26**: refactor: optimize SVG rendering for road signs
+- **2024-03-20 16:29**: style: polish typography and Nepali Unicode font rendering
