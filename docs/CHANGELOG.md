@@ -1,4 +1,3 @@
-- **2024-02-09 18:38**: test: verify question extraction script against exam PDF
 - **2024-02-09 19:25**: feat: implement timer and score calculation for mock test
 - **2024-02-10 10:25**: feat: add warning signs and informational road signs
 - **2024-02-10 15:27**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2024-03-20 16:29**: style: polish typography and Nepali Unicode font rendering
 - **2024-03-20 18:21**: perf: index question IDs for rapid lookup
 - **2024-03-21 17:13**: refactor: optimize SVG rendering for road signs
+- **2024-03-21 17:14**: feat: add search and filter by sign category
