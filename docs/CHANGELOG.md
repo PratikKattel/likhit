@@ -1,4 +1,3 @@
-- **2024-02-10 10:25**: feat: add warning signs and informational road signs
 - **2024-02-10 15:27**: refactor: optimize SVG rendering for road signs
 - **2024-02-11 17:47**: feat: support multiple choice questions for motorcycle category
 - **2024-02-12 16:20**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-03-21 17:13**: refactor: optimize SVG rendering for road signs
 - **2024-03-21 17:14**: feat: add search and filter by sign category
 - **2024-03-21 18:21**: perf: optimize image caching for traffic sign assets
+- **2024-03-22 09:55**: feat: support multiple choice questions for motorcycle category
