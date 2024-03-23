@@ -1,4 +1,3 @@
-- **2024-02-11 17:47**: feat: support multiple choice questions for motorcycle category
 - **2024-02-12 16:20**: feat: add search and filter by sign category
 - **2024-02-13 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-02-13 17:09**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-03-21 18:21**: perf: optimize image caching for traffic sign assets
 - **2024-03-22 09:55**: feat: support multiple choice questions for motorcycle category
 - **2024-03-22 13:00**: refactor: optimize SVG rendering for road signs
+- **2024-03-23 09:30**: feat: support multiple choice questions for motorcycle category
