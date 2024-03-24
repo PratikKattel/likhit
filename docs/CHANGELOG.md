@@ -1,4 +1,3 @@
-- **2024-02-13 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-02-13 17:09**: perf: index question IDs for rapid lookup
 - **2024-02-14 09:26**: docs: add instructions for Nepali driving license written exam
 - **2024-02-14 10:15**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2024-03-22 13:00**: refactor: optimize SVG rendering for road signs
 - **2024-03-23 09:30**: feat: support multiple choice questions for motorcycle category
 - **2024-03-23 20:45**: feat: add instant feedback and explanation on answer selection
+- **2024-03-24 12:41**: refactor: optimize SVG rendering for road signs
