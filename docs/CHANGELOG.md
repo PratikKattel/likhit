@@ -1,4 +1,3 @@
-- **2024-02-14 09:26**: docs: add instructions for Nepali driving license written exam
 - **2024-02-14 10:15**: refactor: restructure question data schema for faster loading
 - **2024-02-14 11:46**: perf: index question IDs for rapid lookup
 - **2024-02-15 14:45**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2024-03-23 20:45**: feat: add instant feedback and explanation on answer selection
 - **2024-03-24 12:41**: refactor: optimize SVG rendering for road signs
 - **2024-03-24 20:44**: perf: optimize image caching for traffic sign assets
+- **2024-03-25 20:02**: chore: update project metadata and build configuration
