@@ -1,4 +1,3 @@
-- **2024-02-15 14:45**: docs: update README with setup instructions and feature list
 - **2024-02-15 18:55**: chore: format code style and clean up redundant variables
 - **2024-02-16 09:52**: perf: index question IDs for rapid lookup
 - **2024-02-17 11:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-03-25 20:02**: chore: update project metadata and build configuration
 - **2024-03-26 14:57**: chore: update questions database with recent DOTM updates
 - **2024-03-27 12:03**: feat: add result summary with passing threshold analysis
+- **2024-03-27 17:07**: refactor: optimize SVG rendering for road signs
