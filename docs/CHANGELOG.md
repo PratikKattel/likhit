@@ -1,4 +1,3 @@
-- **2024-02-17 11:45**: test: verify question extraction script against exam PDF
 - **2024-02-17 17:37**: feat: add result summary with passing threshold analysis
 - **2024-02-18 16:46**: docs: update traffic signals catalog documentation
 - **2024-02-19 22:28**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-03-27 17:07**: refactor: optimize SVG rendering for road signs
 - **2024-03-28 12:00**: docs: add instructions for Nepali driving license written exam
 - **2024-03-29 09:22**: fix: correct color specifications for mandatory traffic signs
+- **2024-03-30 13:03**: feat: implement timer and score calculation for mock test
