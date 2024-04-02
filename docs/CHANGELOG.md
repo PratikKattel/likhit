@@ -1,4 +1,3 @@
-- **2024-02-20 12:51**: feat: add category A and B traffic test questions
 - **2024-02-20 18:03**: docs: improve code comments and API documentation
 - **2024-02-21 18:21**: feat: add regulatory traffic signs SVG graphics
 - **2024-02-21 19:26**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-03-31 14:55**: fix: typo in Nepali road safety regulations question
 - **2024-03-31 21:54**: feat: add category-specific practice modes
 - **2024-04-01 12:22**: fix: correct color specifications for mandatory traffic signs
+- **2024-04-02 11:00**: chore: format code style and clean up redundant variables
