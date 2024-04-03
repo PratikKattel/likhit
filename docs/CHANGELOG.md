@@ -1,4 +1,3 @@
-- **2024-02-21 18:21**: feat: add regulatory traffic signs SVG graphics
 - **2024-02-21 19:26**: chore: organize assets and image directory structure
 - **2024-02-22 09:13**: refactor: restructure question data schema for faster loading
 - **2024-02-23 17:13**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-04-01 12:22**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-02 11:00**: chore: format code style and clean up redundant variables
 - **2024-04-03 20:03**: fix: update DOTM Nepal license syllabus questions
+- **2024-04-03 21:34**: feat: add category A and B traffic test questions
