@@ -1,4 +1,3 @@
-- **2024-02-22 09:13**: refactor: restructure question data schema for faster loading
 - **2024-02-23 17:13**: style: polish typography and Nepali Unicode font rendering
 - **2024-02-24 20:12**: style: enhance traffic sign card layout and responsiveness
 - **2024-02-25 18:58**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2024-04-03 20:03**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-03 21:34**: feat: add category A and B traffic test questions
 - **2024-04-03 22:26**: fix: update DOTM Nepal license syllabus questions
+- **2024-04-04 21:15**: feat: add result summary with passing threshold analysis
