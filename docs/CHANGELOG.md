@@ -1,4 +1,3 @@
-- **2024-02-24 20:12**: style: enhance traffic sign card layout and responsiveness
 - **2024-02-25 18:58**: feat: add category A and B traffic test questions
 - **2024-02-26 10:31**: feat: implement timer and score calculation for mock test
 - **2024-02-26 17:50**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-04-03 22:26**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-04 21:15**: feat: add result summary with passing threshold analysis
 - **2024-04-05 12:30**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-04-06 12:51**: docs: add instructions for Nepali driving license written exam
