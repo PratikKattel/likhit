@@ -1,4 +1,3 @@
-- **2024-02-26 10:31**: feat: implement timer and score calculation for mock test
 - **2024-02-26 17:50**: feat: add result summary with passing threshold analysis
 - **2024-02-26 19:43**: fix: update DOTM Nepal license syllabus questions
 - **2024-02-27 13:16**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-04-05 12:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-06 12:51**: docs: add instructions for Nepali driving license written exam
 - **2024-04-06 18:41**: perf: lazy load signal graphics and question assets
+- **2024-04-07 15:54**: fix: update DOTM Nepal license syllabus questions
