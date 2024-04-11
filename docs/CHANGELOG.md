@@ -1,4 +1,3 @@
-- **2024-02-28 18:52**: feat: support multiple choice questions for motorcycle category
 - **2024-02-28 19:03**: feat: add instant feedback and explanation on answer selection
 - **2024-02-29 12:12**: feat: add search and filter by sign category
 - **2024-02-29 21:30**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-04-08 14:36**: docs: improve code comments and API documentation
 - **2024-04-09 10:34**: fix: prevent option re-selection after submitting answer
 - **2024-04-10 14:19**: perf: index question IDs for rapid lookup
+- **2024-04-11 14:55**: test: verify question extraction script against exam PDF
