@@ -1,4 +1,3 @@
-- **2024-02-29 12:12**: feat: add search and filter by sign category
 - **2024-02-29 21:30**: perf: index question IDs for rapid lookup
 - **2024-03-01 21:19**: chore: format code style and clean up redundant variables
 - **2024-03-02 20:19**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-04-10 14:19**: perf: index question IDs for rapid lookup
 - **2024-04-11 14:55**: test: verify question extraction script against exam PDF
 - **2024-04-11 18:46**: docs: update README with setup instructions and feature list
+- **2024-04-12 11:17**: feat: add warning signs and informational road signs
