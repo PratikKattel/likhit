@@ -1,4 +1,3 @@
-- **2024-03-03 10:42**: style: enhance traffic sign card layout and responsiveness
 - **2024-03-03 15:13**: refactor: optimize SVG rendering for road signs
 - **2024-03-04 11:06**: feat: add keyboard navigation shortcuts for question selection
 - **2024-03-05 18:45**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2024-04-12 12:28**: refactor: modularize traffic app logic and event listeners
 - **2024-04-12 12:37**: style: polish typography and Nepali Unicode font rendering
 - **2024-04-13 16:45**: test: verify question extraction script against exam PDF
+- **2024-04-13 17:05**: feat: add category A and B traffic test questions
