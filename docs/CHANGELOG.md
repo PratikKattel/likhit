@@ -1,4 +1,3 @@
-- **2024-03-05 18:45**: chore: format code style and clean up redundant variables
 - **2024-03-05 22:03**: perf: optimize image caching for traffic sign assets
 - **2024-03-06 12:44**: perf: optimize image caching for traffic sign assets
 - **2024-03-06 14:24**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-04-13 17:05**: feat: add category A and B traffic test questions
 - **2024-04-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-14 17:47**: feat: add instant feedback and explanation on answer selection
+- **2024-04-14 20:50**: feat: add keyboard navigation shortcuts for question selection
