@@ -1,4 +1,3 @@
-- **2024-03-06 18:32**: feat: add keyboard navigation shortcuts for question selection
 - **2024-03-07 11:09**: feat: add regulatory traffic signs SVG graphics
 - **2024-03-08 12:16**: fix: adjust passing score threshold according to new rules
 - **2024-03-08 17:05**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-04-15 17:28**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-16 14:09**: feat: add warning signs and informational road signs
 - **2024-04-17 16:15**: feat: add regulatory traffic signs SVG graphics
+- **2024-04-18 13:02**: fix: adjust passing score threshold according to new rules
