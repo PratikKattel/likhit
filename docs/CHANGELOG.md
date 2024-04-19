@@ -1,4 +1,3 @@
-- **2024-03-08 17:05**: style: polish typography and Nepali Unicode font rendering
 - **2024-03-09 09:28**: docs: update README with setup instructions and feature list
 - **2024-03-10 16:04**: feat: add regulatory traffic signs SVG graphics
 - **2024-03-10 17:34**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-04-18 13:02**: fix: adjust passing score threshold according to new rules
 - **2024-04-18 16:19**: test: verify question extraction script against exam PDF
 - **2024-04-19 18:39**: fix: correct color specifications for mandatory traffic signs
+- **2024-04-19 19:10**: fix: correct color specifications for mandatory traffic signs
