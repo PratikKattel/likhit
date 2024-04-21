@@ -1,4 +1,3 @@
-- **2024-03-10 16:04**: feat: add regulatory traffic signs SVG graphics
 - **2024-03-10 17:34**: docs: update traffic signals catalog documentation
 - **2024-03-10 19:47**: feat: support multiple choice questions for motorcycle category
 - **2024-03-10 20:16**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2024-04-19 18:39**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-19 19:10**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-20 22:04**: style: enhance traffic sign card layout and responsiveness
+- **2024-04-21 19:04**: fix: correct color specifications for mandatory traffic signs
