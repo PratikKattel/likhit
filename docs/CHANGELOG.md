@@ -1,4 +1,3 @@
-- **2024-03-10 20:16**: feat: add category-specific practice modes
 - **2024-03-11 10:31**: chore: update questions database with recent DOTM updates
 - **2024-03-11 16:33**: perf: optimize image caching for traffic sign assets
 - **2024-03-11 16:44**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-04-21 19:04**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-22 15:38**: test: verify question extraction script against exam PDF
 - **2024-04-22 18:57**: feat: add regulatory traffic signs SVG graphics
+- **2024-04-23 10:54**: fix: adjust passing score threshold according to new rules
