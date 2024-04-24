@@ -1,4 +1,3 @@
-- **2024-03-11 10:31**: chore: update questions database with recent DOTM updates
 - **2024-03-11 16:33**: perf: optimize image caching for traffic sign assets
 - **2024-03-11 16:44**: perf: index question IDs for rapid lookup
 - **2024-03-12 09:14**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-04-22 15:38**: test: verify question extraction script against exam PDF
 - **2024-04-22 18:57**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-23 10:54**: fix: adjust passing score threshold according to new rules
+- **2024-04-24 15:57**: feat: add keyboard navigation shortcuts for question selection
