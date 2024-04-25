@@ -1,4 +1,3 @@
-- **2024-03-11 16:33**: perf: optimize image caching for traffic sign assets
 - **2024-03-11 16:44**: perf: index question IDs for rapid lookup
 - **2024-03-12 09:14**: chore: organize assets and image directory structure
 - **2024-03-12 10:41**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-04-22 18:57**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-23 10:54**: fix: adjust passing score threshold according to new rules
 - **2024-04-24 15:57**: feat: add keyboard navigation shortcuts for question selection
+- **2024-04-25 12:24**: feat: add result summary with passing threshold analysis
