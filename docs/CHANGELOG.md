@@ -1,4 +1,3 @@
-- **2024-03-12 09:14**: chore: organize assets and image directory structure
 - **2024-03-12 10:41**: fix: prevent option re-selection after submitting answer
 - **2024-03-12 17:12**: style: enhance traffic sign card layout and responsiveness
 - **2024-03-13 10:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-04-24 15:57**: feat: add keyboard navigation shortcuts for question selection
 - **2024-04-25 12:24**: feat: add result summary with passing threshold analysis
 - **2024-04-25 13:09**: chore: organize assets and image directory structure
+- **2024-04-25 14:58**: feat: add regulatory traffic signs SVG graphics
