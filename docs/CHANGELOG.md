@@ -1,4 +1,3 @@
-- **2024-03-12 17:12**: style: enhance traffic sign card layout and responsiveness
 - **2024-03-13 10:38**: fix: update DOTM Nepal license syllabus questions
 - **2024-03-14 10:49**: feat: support multiple choice questions for motorcycle category
 - **2024-03-14 15:36**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-04-25 13:09**: chore: organize assets and image directory structure
 - **2024-04-25 14:58**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-25 18:14**: docs: improve code comments and API documentation
+- **2024-04-26 14:50**: feat: add result summary with passing threshold analysis
