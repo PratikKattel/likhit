@@ -1,4 +1,3 @@
-- **2024-03-14 10:49**: feat: support multiple choice questions for motorcycle category
 - **2024-03-14 15:36**: feat: add instant feedback and explanation on answer selection
 - **2024-03-14 16:17**: feat: add category A and B traffic test questions
 - **2024-03-15 16:23**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-04-25 18:14**: docs: improve code comments and API documentation
 - **2024-04-26 14:50**: feat: add result summary with passing threshold analysis
 - **2024-04-26 19:38**: perf: optimize image caching for traffic sign assets
+- **2024-04-27 22:12**: refactor: clean up unused CSS classes and optimize stylesheet
