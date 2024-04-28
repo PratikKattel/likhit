@@ -1,4 +1,3 @@
-- **2024-03-14 16:17**: feat: add category A and B traffic test questions
 - **2024-03-15 16:23**: refactor: modularize traffic app logic and event listeners
 - **2024-03-15 19:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-03-16 21:02**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-04-26 19:38**: perf: optimize image caching for traffic sign assets
 - **2024-04-27 22:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-28 13:49**: chore: format code style and clean up redundant variables
+- **2024-04-28 22:27**: fix: update DOTM Nepal license syllabus questions
