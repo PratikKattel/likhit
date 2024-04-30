@@ -1,4 +1,3 @@
-- **2024-03-15 19:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-03-16 21:02**: feat: add search and filter by sign category
 - **2024-03-16 21:25**: fix: correct color specifications for mandatory traffic signs
 - **2024-03-17 11:15**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2024-04-28 13:49**: chore: format code style and clean up redundant variables
 - **2024-04-28 22:27**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-29 10:17**: fix: typo in Nepali road safety regulations question
+- **2024-04-30 09:42**: feat: support multiple choice questions for motorcycle category
