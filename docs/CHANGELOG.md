@@ -1,4 +1,3 @@
-- **2024-03-17 11:15**: chore: format code style and clean up redundant variables
 - **2024-03-17 15:29**: feat: implement timer and score calculation for mock test
 - **2024-03-18 16:55**: fix: update DOTM Nepal license syllabus questions
 - **2024-03-19 09:15**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2024-04-30 09:42**: feat: support multiple choice questions for motorcycle category
 - **2024-04-30 14:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-30 21:48**: refactor: restructure question data schema for faster loading
+- **2024-05-01 10:53**: refactor: clean up unused CSS classes and optimize stylesheet
