@@ -1,4 +1,3 @@
-- **2024-03-19 09:15**: refactor: restructure question data schema for faster loading
 - **2024-03-19 11:25**: feat: add instant feedback and explanation on answer selection
 - **2024-03-19 14:46**: chore: update project metadata and build configuration
 - **2024-03-19 22:08**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2024-05-01 10:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-02 16:05**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-02 17:45**: feat: add category-specific practice modes
+- **2024-05-03 09:47**: feat: add result summary with passing threshold analysis
