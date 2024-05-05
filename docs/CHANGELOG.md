@@ -1,4 +1,3 @@
-- **2024-03-20 18:21**: perf: index question IDs for rapid lookup
 - **2024-03-21 17:13**: refactor: optimize SVG rendering for road signs
 - **2024-03-21 17:14**: feat: add search and filter by sign category
 - **2024-03-21 18:21**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-05-04 11:22**: style: polish typography and Nepali Unicode font rendering
 - **2024-05-04 16:42**: docs: update README with setup instructions and feature list
 - **2024-05-04 19:48**: chore: update project metadata and build configuration
+- **2024-05-05 09:53**: fix: adjust passing score threshold according to new rules
