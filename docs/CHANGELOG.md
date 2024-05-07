@@ -1,4 +1,3 @@
-- **2024-03-21 18:21**: perf: optimize image caching for traffic sign assets
 - **2024-03-22 09:55**: feat: support multiple choice questions for motorcycle category
 - **2024-03-22 13:00**: refactor: optimize SVG rendering for road signs
 - **2024-03-23 09:30**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2024-05-05 09:53**: fix: adjust passing score threshold according to new rules
 - **2024-05-05 12:55**: perf: index question IDs for rapid lookup
 - **2024-05-06 16:30**: docs: update traffic signals catalog documentation
+- **2024-05-07 20:18**: fix: resolve layout shift during question transitions
