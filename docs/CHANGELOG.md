@@ -1,4 +1,3 @@
-- **2024-03-22 09:55**: feat: support multiple choice questions for motorcycle category
 - **2024-03-22 13:00**: refactor: optimize SVG rendering for road signs
 - **2024-03-23 09:30**: feat: support multiple choice questions for motorcycle category
 - **2024-03-23 20:45**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-05-05 12:55**: perf: index question IDs for rapid lookup
 - **2024-05-06 16:30**: docs: update traffic signals catalog documentation
 - **2024-05-07 20:18**: fix: resolve layout shift during question transitions
+- **2024-05-07 20:42**: chore: format code style and clean up redundant variables
