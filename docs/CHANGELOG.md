@@ -1,4 +1,3 @@
-- **2024-03-23 09:30**: feat: support multiple choice questions for motorcycle category
 - **2024-03-23 20:45**: feat: add instant feedback and explanation on answer selection
 - **2024-03-24 12:41**: refactor: optimize SVG rendering for road signs
 - **2024-03-24 20:44**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-05-07 20:18**: fix: resolve layout shift during question transitions
 - **2024-05-07 20:42**: chore: format code style and clean up redundant variables
 - **2024-05-08 19:21**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-05-09 16:23**: docs: update README with setup instructions and feature list
