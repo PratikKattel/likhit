@@ -1,4 +1,3 @@
-- **2024-03-24 20:44**: perf: optimize image caching for traffic sign assets
 - **2024-03-25 20:02**: chore: update project metadata and build configuration
 - **2024-03-26 14:57**: chore: update questions database with recent DOTM updates
 - **2024-03-27 12:03**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-05-09 16:23**: docs: update README with setup instructions and feature list
 - **2024-05-09 21:31**: feat: add category-specific practice modes
 - **2024-05-10 11:24**: feat: add instant feedback and explanation on answer selection
+- **2024-05-10 12:23**: docs: update traffic signals catalog documentation
