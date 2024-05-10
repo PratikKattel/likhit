@@ -1,4 +1,3 @@
-- **2024-03-26 14:57**: chore: update questions database with recent DOTM updates
 - **2024-03-27 12:03**: feat: add result summary with passing threshold analysis
 - **2024-03-27 17:07**: refactor: optimize SVG rendering for road signs
 - **2024-03-28 12:00**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-05-10 11:24**: feat: add instant feedback and explanation on answer selection
 - **2024-05-10 12:23**: docs: update traffic signals catalog documentation
 - **2024-05-10 14:32**: chore: organize assets and image directory structure
+- **2024-05-10 21:26**: refactor: modularize traffic app logic and event listeners
