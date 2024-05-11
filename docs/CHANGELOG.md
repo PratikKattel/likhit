@@ -1,4 +1,3 @@
-- **2024-03-27 12:03**: feat: add result summary with passing threshold analysis
 - **2024-03-27 17:07**: refactor: optimize SVG rendering for road signs
 - **2024-03-28 12:00**: docs: add instructions for Nepali driving license written exam
 - **2024-03-29 09:22**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-05-10 12:23**: docs: update traffic signals catalog documentation
 - **2024-05-10 14:32**: chore: organize assets and image directory structure
 - **2024-05-10 21:26**: refactor: modularize traffic app logic and event listeners
+- **2024-05-11 20:32**: fix: prevent option re-selection after submitting answer
