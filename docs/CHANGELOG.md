@@ -1,4 +1,3 @@
-- **2024-03-27 17:07**: refactor: optimize SVG rendering for road signs
 - **2024-03-28 12:00**: docs: add instructions for Nepali driving license written exam
 - **2024-03-29 09:22**: fix: correct color specifications for mandatory traffic signs
 - **2024-03-30 13:03**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-05-10 14:32**: chore: organize assets and image directory structure
 - **2024-05-10 21:26**: refactor: modularize traffic app logic and event listeners
 - **2024-05-11 20:32**: fix: prevent option re-selection after submitting answer
+- **2024-05-12 21:16**: fix: update DOTM Nepal license syllabus questions
