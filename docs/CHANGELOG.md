@@ -1,4 +1,3 @@
-- **2024-03-30 13:03**: feat: implement timer and score calculation for mock test
 - **2024-03-30 18:09**: feat: add result summary with passing threshold analysis
 - **2024-03-31 14:55**: fix: typo in Nepali road safety regulations question
 - **2024-03-31 21:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2024-05-12 21:16**: fix: update DOTM Nepal license syllabus questions
 - **2024-05-13 20:46**: fix: adjust passing score threshold according to new rules
 - **2024-05-14 09:01**: style: polish typography and Nepali Unicode font rendering
+- **2024-05-14 14:13**: perf: optimize image caching for traffic sign assets
