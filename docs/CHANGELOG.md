@@ -1,4 +1,3 @@
-- **2024-03-31 21:54**: feat: add category-specific practice modes
 - **2024-04-01 12:22**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-02 11:00**: chore: format code style and clean up redundant variables
 - **2024-04-03 20:03**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-05-14 14:13**: perf: optimize image caching for traffic sign assets
 - **2024-05-15 22:28**: style: polish typography and Nepali Unicode font rendering
 - **2024-05-16 09:17**: feat: add category A and B traffic test questions
+- **2024-05-16 18:34**: feat: add warning signs and informational road signs
