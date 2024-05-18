@@ -1,4 +1,3 @@
-- **2024-04-03 20:03**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-03 21:34**: feat: add category A and B traffic test questions
 - **2024-04-03 22:26**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-04 21:15**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-05-16 18:34**: feat: add warning signs and informational road signs
 - **2024-05-17 18:54**: fix: correct color specifications for mandatory traffic signs
 - **2024-05-18 10:34**: feat: add result summary with passing threshold analysis
+- **2024-05-18 11:47**: test: verify question extraction script against exam PDF
