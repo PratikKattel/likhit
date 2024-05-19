@@ -1,4 +1,3 @@
-- **2024-04-03 22:26**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-04 21:15**: feat: add result summary with passing threshold analysis
 - **2024-04-05 12:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-06 12:51**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-05-18 10:34**: feat: add result summary with passing threshold analysis
 - **2024-05-18 11:47**: test: verify question extraction script against exam PDF
 - **2024-05-19 13:37**: fix: adjust passing score threshold according to new rules
+- **2024-05-19 15:29**: feat: add warning signs and informational road signs
