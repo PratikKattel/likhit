@@ -1,4 +1,3 @@
-- **2024-04-06 12:51**: docs: add instructions for Nepali driving license written exam
 - **2024-04-06 18:41**: perf: lazy load signal graphics and question assets
 - **2024-04-07 15:54**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-07 20:37**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-05-19 15:29**: feat: add warning signs and informational road signs
 - **2024-05-20 11:49**: perf: index question IDs for rapid lookup
 - **2024-05-20 15:16**: chore: organize assets and image directory structure
+- **2024-05-21 19:31**: style: improve dark/light mode and mobile UI responsiveness
