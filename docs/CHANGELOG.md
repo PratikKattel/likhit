@@ -1,4 +1,3 @@
-- **2024-04-07 15:54**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-07 20:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-08 14:36**: docs: improve code comments and API documentation
 - **2024-04-09 10:34**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-05-20 15:16**: chore: organize assets and image directory structure
 - **2024-05-21 19:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-22 10:27**: chore: format code style and clean up redundant variables
+- **2024-05-22 15:13**: fix: resolve layout shift during question transitions
