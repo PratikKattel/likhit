@@ -1,4 +1,3 @@
-- **2024-04-08 14:36**: docs: improve code comments and API documentation
 - **2024-04-09 10:34**: fix: prevent option re-selection after submitting answer
 - **2024-04-10 14:19**: perf: index question IDs for rapid lookup
 - **2024-04-11 14:55**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-05-22 10:27**: chore: format code style and clean up redundant variables
 - **2024-05-22 15:13**: fix: resolve layout shift during question transitions
 - **2024-05-22 20:00**: feat: support multiple choice questions for motorcycle category
+- **2024-05-23 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
