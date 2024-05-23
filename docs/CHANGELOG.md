@@ -1,4 +1,3 @@
-- **2024-04-10 14:19**: perf: index question IDs for rapid lookup
 - **2024-04-11 14:55**: test: verify question extraction script against exam PDF
 - **2024-04-11 18:46**: docs: update README with setup instructions and feature list
 - **2024-04-12 11:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-05-22 20:00**: feat: support multiple choice questions for motorcycle category
 - **2024-05-23 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-23 11:55**: fix: resolve layout shift during question transitions
+- **2024-05-23 22:20**: docs: add instructions for Nepali driving license written exam
