@@ -1,4 +1,3 @@
-- **2024-04-12 11:17**: feat: add warning signs and informational road signs
 - **2024-04-12 12:28**: refactor: modularize traffic app logic and event listeners
 - **2024-04-12 12:37**: style: polish typography and Nepali Unicode font rendering
 - **2024-04-13 16:45**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-05-23 22:20**: docs: add instructions for Nepali driving license written exam
 - **2024-05-24 10:15**: feat: add result summary with passing threshold analysis
 - **2024-05-24 17:34**: style: improve dark/light mode and mobile UI responsiveness
+- **2024-05-25 21:54**: docs: improve code comments and API documentation
