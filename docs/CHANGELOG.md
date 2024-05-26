@@ -1,4 +1,3 @@
-- **2024-04-12 12:28**: refactor: modularize traffic app logic and event listeners
 - **2024-04-12 12:37**: style: polish typography and Nepali Unicode font rendering
 - **2024-04-13 16:45**: test: verify question extraction script against exam PDF
 - **2024-04-13 17:05**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2024-05-24 10:15**: feat: add result summary with passing threshold analysis
 - **2024-05-24 17:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-25 21:54**: docs: improve code comments and API documentation
+- **2024-05-26 10:48**: feat: add regulatory traffic signs SVG graphics
