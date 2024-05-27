@@ -1,4 +1,3 @@
-- **2024-04-13 16:45**: test: verify question extraction script against exam PDF
 - **2024-04-13 17:05**: feat: add category A and B traffic test questions
 - **2024-04-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-14 17:47**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-05-25 21:54**: docs: improve code comments and API documentation
 - **2024-05-26 10:48**: feat: add regulatory traffic signs SVG graphics
 - **2024-05-26 19:24**: docs: improve code comments and API documentation
+- **2024-05-27 12:30**: test: verify question extraction script against exam PDF
