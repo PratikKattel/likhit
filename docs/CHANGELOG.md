@@ -1,4 +1,3 @@
-- **2024-04-14 11:29**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-14 17:47**: feat: add instant feedback and explanation on answer selection
 - **2024-04-14 20:50**: feat: add keyboard navigation shortcuts for question selection
 - **2024-04-14 21:00**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-05-26 19:24**: docs: improve code comments and API documentation
 - **2024-05-27 12:30**: test: verify question extraction script against exam PDF
 - **2024-05-28 09:49**: docs: add instructions for Nepali driving license written exam
+- **2024-05-28 17:15**: docs: add instructions for Nepali driving license written exam
