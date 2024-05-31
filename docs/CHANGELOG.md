@@ -1,4 +1,3 @@
-- **2024-04-15 17:28**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-16 14:09**: feat: add warning signs and informational road signs
 - **2024-04-17 16:15**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-18 13:02**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-05-28 17:45**: perf: lazy load signal graphics and question assets
 - **2024-05-29 13:36**: docs: improve code comments and API documentation
 - **2024-05-30 13:00**: perf: lazy load signal graphics and question assets
+- **2024-05-31 21:02**: perf: index question IDs for rapid lookup
