@@ -1,4 +1,3 @@
-- **2024-04-18 13:02**: fix: adjust passing score threshold according to new rules
 - **2024-04-18 16:19**: test: verify question extraction script against exam PDF
 - **2024-04-19 18:39**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-19 19:10**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-05-31 21:02**: perf: index question IDs for rapid lookup
 - **2024-06-01 15:22**: docs: improve code comments and API documentation
 - **2024-06-01 20:57**: feat: support multiple choice questions for motorcycle category
+- **2024-06-02 15:17**: perf: optimize image caching for traffic sign assets
