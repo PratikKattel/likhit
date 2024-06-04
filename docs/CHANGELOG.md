@@ -1,4 +1,3 @@
-- **2024-04-19 18:39**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-19 19:10**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-20 22:04**: style: enhance traffic sign card layout and responsiveness
 - **2024-04-21 19:04**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-06-01 20:57**: feat: support multiple choice questions for motorcycle category
 - **2024-06-02 15:17**: perf: optimize image caching for traffic sign assets
 - **2024-06-03 12:19**: fix: prevent option re-selection after submitting answer
+- **2024-06-04 22:21**: feat: implement timer and score calculation for mock test
