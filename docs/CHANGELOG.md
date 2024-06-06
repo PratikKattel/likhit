@@ -1,4 +1,3 @@
-- **2024-04-21 19:04**: fix: correct color specifications for mandatory traffic signs
 - **2024-04-22 15:38**: test: verify question extraction script against exam PDF
 - **2024-04-22 18:57**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-23 10:54**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-06-04 22:21**: feat: implement timer and score calculation for mock test
 - **2024-06-05 09:41**: feat: add regulatory traffic signs SVG graphics
 - **2024-06-05 16:54**: refactor: modularize traffic app logic and event listeners
+- **2024-06-06 14:23**: feat: add category A and B traffic test questions
