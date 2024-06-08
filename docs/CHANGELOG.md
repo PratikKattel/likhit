@@ -1,4 +1,3 @@
-- **2024-04-24 15:57**: feat: add keyboard navigation shortcuts for question selection
 - **2024-04-25 12:24**: feat: add result summary with passing threshold analysis
 - **2024-04-25 13:09**: chore: organize assets and image directory structure
 - **2024-04-25 14:58**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-06-06 21:15**: refactor: modularize traffic app logic and event listeners
 - **2024-06-07 16:28**: feat: add category A and B traffic test questions
 - **2024-06-07 21:32**: feat: add search and filter by sign category
+- **2024-06-08 15:38**: style: enhance traffic sign card layout and responsiveness
