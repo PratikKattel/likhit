@@ -1,4 +1,3 @@
-- **2024-04-25 13:09**: chore: organize assets and image directory structure
 - **2024-04-25 14:58**: feat: add regulatory traffic signs SVG graphics
 - **2024-04-25 18:14**: docs: improve code comments and API documentation
 - **2024-04-26 14:50**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-06-07 21:32**: feat: add search and filter by sign category
 - **2024-06-08 15:38**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-08 20:12**: perf: index question IDs for rapid lookup
+- **2024-06-09 11:30**: test: verify question extraction script against exam PDF
