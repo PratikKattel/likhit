@@ -1,4 +1,3 @@
-- **2024-04-26 14:50**: feat: add result summary with passing threshold analysis
 - **2024-04-26 19:38**: perf: optimize image caching for traffic sign assets
 - **2024-04-27 22:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-28 13:49**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2024-06-09 11:30**: test: verify question extraction script against exam PDF
 - **2024-06-09 22:03**: fix: adjust passing score threshold according to new rules
 - **2024-06-10 12:55**: style: polish typography and Nepali Unicode font rendering
+- **2024-06-10 13:20**: style: polish typography and Nepali Unicode font rendering
