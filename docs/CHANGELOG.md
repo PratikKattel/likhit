@@ -1,4 +1,3 @@
-- **2024-04-28 13:49**: chore: format code style and clean up redundant variables
 - **2024-04-28 22:27**: fix: update DOTM Nepal license syllabus questions
 - **2024-04-29 10:17**: fix: typo in Nepali road safety regulations question
 - **2024-04-30 09:42**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2024-06-10 13:20**: style: polish typography and Nepali Unicode font rendering
 - **2024-06-10 16:26**: chore: update project metadata and build configuration
 - **2024-06-11 13:08**: perf: index question IDs for rapid lookup
+- **2024-06-11 18:43**: fix: typo in Nepali road safety regulations question
