@@ -1,4 +1,3 @@
-- **2024-04-29 10:17**: fix: typo in Nepali road safety regulations question
 - **2024-04-30 09:42**: feat: support multiple choice questions for motorcycle category
 - **2024-04-30 14:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-30 21:48**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2024-06-11 13:08**: perf: index question IDs for rapid lookup
 - **2024-06-11 18:43**: fix: typo in Nepali road safety regulations question
 - **2024-06-12 15:48**: chore: format code style and clean up redundant variables
+- **2024-06-12 19:38**: feat: add keyboard navigation shortcuts for question selection
