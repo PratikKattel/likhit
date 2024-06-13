@@ -1,4 +1,3 @@
-- **2024-04-30 14:34**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-04-30 21:48**: refactor: restructure question data schema for faster loading
 - **2024-05-01 10:53**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-02 16:05**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-06-12 15:48**: chore: format code style and clean up redundant variables
 - **2024-06-12 19:38**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-13 14:53**: fix: correct color specifications for mandatory traffic signs
+- **2024-06-13 15:41**: refactor: restructure question data schema for faster loading
