@@ -1,4 +1,3 @@
-- **2024-05-03 09:47**: feat: add result summary with passing threshold analysis
 - **2024-05-03 10:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-03 11:58**: chore: update project metadata and build configuration
 - **2024-05-04 11:22**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-06-14 09:19**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-14 15:46**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-14 20:35**: feat: add result summary with passing threshold analysis
+- **2024-06-15 12:34**: perf: index question IDs for rapid lookup
