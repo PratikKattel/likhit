@@ -1,4 +1,3 @@
-- **2024-05-04 19:48**: chore: update project metadata and build configuration
 - **2024-05-05 09:53**: fix: adjust passing score threshold according to new rules
 - **2024-05-05 12:55**: perf: index question IDs for rapid lookup
 - **2024-05-06 16:30**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-06-15 16:02**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-16 21:50**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-17 17:17**: docs: improve code comments and API documentation
+- **2024-06-18 18:28**: docs: update README with setup instructions and feature list
