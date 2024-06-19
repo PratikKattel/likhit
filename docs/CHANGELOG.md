@@ -1,4 +1,3 @@
-- **2024-05-05 12:55**: perf: index question IDs for rapid lookup
 - **2024-05-06 16:30**: docs: update traffic signals catalog documentation
 - **2024-05-07 20:18**: fix: resolve layout shift during question transitions
 - **2024-05-07 20:42**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2024-06-17 17:17**: docs: improve code comments and API documentation
 - **2024-06-18 18:28**: docs: update README with setup instructions and feature list
 - **2024-06-19 10:12**: docs: add instructions for Nepali driving license written exam
+- **2024-06-19 14:22**: feat: add keyboard navigation shortcuts for question selection
