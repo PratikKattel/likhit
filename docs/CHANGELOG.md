@@ -1,4 +1,3 @@
-- **2024-05-07 20:18**: fix: resolve layout shift during question transitions
 - **2024-05-07 20:42**: chore: format code style and clean up redundant variables
 - **2024-05-08 19:21**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-09 16:23**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2024-06-19 10:12**: docs: add instructions for Nepali driving license written exam
 - **2024-06-19 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-19 20:29**: feat: add search and filter by sign category
+- **2024-06-20 15:57**: fix: update DOTM Nepal license syllabus questions
