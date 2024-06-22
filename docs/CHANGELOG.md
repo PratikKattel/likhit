@@ -1,4 +1,3 @@
-- **2024-05-09 16:23**: docs: update README with setup instructions and feature list
 - **2024-05-09 21:31**: feat: add category-specific practice modes
 - **2024-05-10 11:24**: feat: add instant feedback and explanation on answer selection
 - **2024-05-10 12:23**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2024-06-20 15:57**: fix: update DOTM Nepal license syllabus questions
 - **2024-06-20 20:53**: refactor: modularize traffic app logic and event listeners
 - **2024-06-21 19:03**: fix: typo in Nepali road safety regulations question
+- **2024-06-22 18:48**: style: improve dark/light mode and mobile UI responsiveness
