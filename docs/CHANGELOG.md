@@ -1,4 +1,3 @@
-- **2024-05-10 11:24**: feat: add instant feedback and explanation on answer selection
 - **2024-05-10 12:23**: docs: update traffic signals catalog documentation
 - **2024-05-10 14:32**: chore: organize assets and image directory structure
 - **2024-05-10 21:26**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-06-21 19:03**: fix: typo in Nepali road safety regulations question
 - **2024-06-22 18:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-06-23 13:41**: feat: support multiple choice questions for motorcycle category
+- **2024-06-23 17:42**: docs: update traffic signals catalog documentation
