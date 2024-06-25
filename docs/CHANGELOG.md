@@ -1,4 +1,3 @@
-- **2024-05-10 21:26**: refactor: modularize traffic app logic and event listeners
 - **2024-05-11 20:32**: fix: prevent option re-selection after submitting answer
 - **2024-05-12 21:16**: fix: update DOTM Nepal license syllabus questions
 - **2024-05-13 20:46**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-06-23 17:42**: docs: update traffic signals catalog documentation
 - **2024-06-24 12:21**: feat: add category A and B traffic test questions
 - **2024-06-24 12:33**: feat: add category A and B traffic test questions
+- **2024-06-25 11:59**: docs: update traffic signals catalog documentation
