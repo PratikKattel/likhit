@@ -1,4 +1,3 @@
-- **2024-05-12 21:16**: fix: update DOTM Nepal license syllabus questions
 - **2024-05-13 20:46**: fix: adjust passing score threshold according to new rules
 - **2024-05-14 09:01**: style: polish typography and Nepali Unicode font rendering
 - **2024-05-14 14:13**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-06-24 12:33**: feat: add category A and B traffic test questions
 - **2024-06-25 11:59**: docs: update traffic signals catalog documentation
 - **2024-06-26 21:31**: feat: add instant feedback and explanation on answer selection
+- **2024-06-27 14:12**: feat: add search and filter by sign category
