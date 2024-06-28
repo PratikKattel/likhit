@@ -1,4 +1,3 @@
-- **2024-05-14 14:13**: perf: optimize image caching for traffic sign assets
 - **2024-05-15 22:28**: style: polish typography and Nepali Unicode font rendering
 - **2024-05-16 09:17**: feat: add category A and B traffic test questions
 - **2024-05-16 18:34**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-06-27 14:12**: feat: add search and filter by sign category
 - **2024-06-27 17:31**: docs: update README with setup instructions and feature list
 - **2024-06-28 10:41**: feat: add search and filter by sign category
+- **2024-06-28 12:44**: fix: typo in Nepali road safety regulations question
