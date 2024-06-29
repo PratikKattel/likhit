@@ -1,4 +1,3 @@
-- **2024-05-16 09:17**: feat: add category A and B traffic test questions
 - **2024-05-16 18:34**: feat: add warning signs and informational road signs
 - **2024-05-17 18:54**: fix: correct color specifications for mandatory traffic signs
 - **2024-05-18 10:34**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-06-28 10:41**: feat: add search and filter by sign category
 - **2024-06-28 12:44**: fix: typo in Nepali road safety regulations question
 - **2024-06-28 17:10**: fix: correct color specifications for mandatory traffic signs
+- **2024-06-29 16:34**: feat: implement timer and score calculation for mock test
