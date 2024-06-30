@@ -1,4 +1,3 @@
-- **2024-05-16 18:34**: feat: add warning signs and informational road signs
 - **2024-05-17 18:54**: fix: correct color specifications for mandatory traffic signs
 - **2024-05-18 10:34**: feat: add result summary with passing threshold analysis
 - **2024-05-18 11:47**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-06-28 12:44**: fix: typo in Nepali road safety regulations question
 - **2024-06-28 17:10**: fix: correct color specifications for mandatory traffic signs
 - **2024-06-29 16:34**: feat: implement timer and score calculation for mock test
+- **2024-06-30 10:28**: perf: lazy load signal graphics and question assets
