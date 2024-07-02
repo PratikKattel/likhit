@@ -1,4 +1,3 @@
-- **2024-05-19 13:37**: fix: adjust passing score threshold according to new rules
 - **2024-05-19 15:29**: feat: add warning signs and informational road signs
 - **2024-05-20 11:49**: perf: index question IDs for rapid lookup
 - **2024-05-20 15:16**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-06-30 15:30**: feat: add result summary with passing threshold analysis
 - **2024-07-01 10:08**: fix: prevent option re-selection after submitting answer
 - **2024-07-02 15:24**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-07-02 21:56**: chore: update project metadata and build configuration
