@@ -1,4 +1,3 @@
-- **2024-05-20 15:16**: chore: organize assets and image directory structure
 - **2024-05-21 19:31**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-22 10:27**: chore: format code style and clean up redundant variables
 - **2024-05-22 15:13**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-07-02 21:56**: chore: update project metadata and build configuration
 - **2024-07-03 20:49**: fix: typo in Nepali road safety regulations question
 - **2024-07-04 09:38**: docs: improve code comments and API documentation
+- **2024-07-04 21:57**: style: improve dark/light mode and mobile UI responsiveness
