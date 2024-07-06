@@ -1,4 +1,3 @@
-- **2024-05-22 15:13**: fix: resolve layout shift during question transitions
 - **2024-05-22 20:00**: feat: support multiple choice questions for motorcycle category
 - **2024-05-23 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-23 11:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-07-04 21:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-07-05 12:50**: perf: lazy load signal graphics and question assets
 - **2024-07-05 15:39**: refactor: optimize SVG rendering for road signs
+- **2024-07-06 17:29**: style: enhance traffic sign card layout and responsiveness
