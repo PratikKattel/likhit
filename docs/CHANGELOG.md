@@ -1,4 +1,3 @@
-- **2024-05-23 09:27**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-05-23 11:55**: fix: resolve layout shift during question transitions
 - **2024-05-23 22:20**: docs: add instructions for Nepali driving license written exam
 - **2024-05-24 10:15**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-07-05 15:39**: refactor: optimize SVG rendering for road signs
 - **2024-07-06 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2024-07-07 11:51**: feat: add instant feedback and explanation on answer selection
+- **2024-07-07 19:04**: perf: optimize image caching for traffic sign assets
