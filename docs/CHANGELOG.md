@@ -1,4 +1,3 @@
-- **2024-05-23 22:20**: docs: add instructions for Nepali driving license written exam
 - **2024-05-24 10:15**: feat: add result summary with passing threshold analysis
 - **2024-05-24 17:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-25 21:54**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-07-07 11:51**: feat: add instant feedback and explanation on answer selection
 - **2024-07-07 19:04**: perf: optimize image caching for traffic sign assets
 - **2024-07-08 12:57**: fix: adjust passing score threshold according to new rules
+- **2024-07-08 16:16**: refactor: optimize SVG rendering for road signs
