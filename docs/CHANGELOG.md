@@ -1,4 +1,3 @@
-- **2024-05-24 17:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-05-25 21:54**: docs: improve code comments and API documentation
 - **2024-05-26 10:48**: feat: add regulatory traffic signs SVG graphics
 - **2024-05-26 19:24**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-07-08 12:57**: fix: adjust passing score threshold according to new rules
 - **2024-07-08 16:16**: refactor: optimize SVG rendering for road signs
 - **2024-07-08 16:53**: feat: support multiple choice questions for motorcycle category
+- **2024-07-09 13:33**: chore: update project metadata and build configuration
