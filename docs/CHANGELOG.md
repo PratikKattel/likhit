@@ -1,4 +1,3 @@
-- **2024-05-26 10:48**: feat: add regulatory traffic signs SVG graphics
 - **2024-05-26 19:24**: docs: improve code comments and API documentation
 - **2024-05-27 12:30**: test: verify question extraction script against exam PDF
 - **2024-05-28 09:49**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-07-08 16:53**: feat: support multiple choice questions for motorcycle category
 - **2024-07-09 13:33**: chore: update project metadata and build configuration
 - **2024-07-09 14:40**: perf: index question IDs for rapid lookup
+- **2024-07-10 12:18**: refactor: restructure question data schema for faster loading
