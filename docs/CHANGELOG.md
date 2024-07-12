@@ -1,4 +1,3 @@
-- **2024-05-28 09:49**: docs: add instructions for Nepali driving license written exam
 - **2024-05-28 17:15**: docs: add instructions for Nepali driving license written exam
 - **2024-05-28 17:45**: perf: lazy load signal graphics and question assets
 - **2024-05-29 13:36**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-07-10 12:18**: refactor: restructure question data schema for faster loading
 - **2024-07-11 17:05**: feat: add search and filter by sign category
 - **2024-07-11 21:21**: refactor: optimize SVG rendering for road signs
+- **2024-07-12 19:35**: fix: resolve layout shift during question transitions
