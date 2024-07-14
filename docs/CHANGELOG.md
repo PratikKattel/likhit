@@ -1,4 +1,3 @@
-- **2024-05-28 17:45**: perf: lazy load signal graphics and question assets
 - **2024-05-29 13:36**: docs: improve code comments and API documentation
 - **2024-05-30 13:00**: perf: lazy load signal graphics and question assets
 - **2024-05-31 21:02**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2024-07-11 21:21**: refactor: optimize SVG rendering for road signs
 - **2024-07-12 19:35**: fix: resolve layout shift during question transitions
 - **2024-07-13 15:43**: feat: add warning signs and informational road signs
+- **2024-07-14 16:54**: chore: update questions database with recent DOTM updates
