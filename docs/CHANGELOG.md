@@ -1,4 +1,3 @@
-- **2024-06-01 20:57**: feat: support multiple choice questions for motorcycle category
 - **2024-06-02 15:17**: perf: optimize image caching for traffic sign assets
 - **2024-06-03 12:19**: fix: prevent option re-selection after submitting answer
 - **2024-06-04 22:21**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-07-15 20:55**: feat: add regulatory traffic signs SVG graphics
 - **2024-07-15 21:19**: feat: add instant feedback and explanation on answer selection
 - **2024-07-16 15:13**: perf: index question IDs for rapid lookup
+- **2024-07-17 19:58**: feat: add instant feedback and explanation on answer selection
