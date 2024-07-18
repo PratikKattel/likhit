@@ -1,4 +1,3 @@
-- **2024-06-03 12:19**: fix: prevent option re-selection after submitting answer
 - **2024-06-04 22:21**: feat: implement timer and score calculation for mock test
 - **2024-06-05 09:41**: feat: add regulatory traffic signs SVG graphics
 - **2024-06-05 16:54**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-07-16 15:13**: perf: index question IDs for rapid lookup
 - **2024-07-17 19:58**: feat: add instant feedback and explanation on answer selection
 - **2024-07-18 17:50**: docs: update README with setup instructions and feature list
+- **2024-07-18 19:44**: feat: add search and filter by sign category
