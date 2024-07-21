@@ -1,4 +1,3 @@
-- **2024-06-06 21:15**: refactor: modularize traffic app logic and event listeners
 - **2024-06-07 16:28**: feat: add category A and B traffic test questions
 - **2024-06-07 21:32**: feat: add search and filter by sign category
 - **2024-06-08 15:38**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-07-19 21:45**: feat: add result summary with passing threshold analysis
 - **2024-07-20 16:53**: feat: add result summary with passing threshold analysis
 - **2024-07-21 20:21**: fix: correct color specifications for mandatory traffic signs
+- **2024-07-21 20:42**: docs: update traffic signals catalog documentation
