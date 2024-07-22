@@ -1,4 +1,3 @@
-- **2024-06-07 21:32**: feat: add search and filter by sign category
 - **2024-06-08 15:38**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-08 20:12**: perf: index question IDs for rapid lookup
 - **2024-06-09 11:30**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-07-21 20:21**: fix: correct color specifications for mandatory traffic signs
 - **2024-07-21 20:42**: docs: update traffic signals catalog documentation
 - **2024-07-22 13:40**: fix: correct color specifications for mandatory traffic signs
+- **2024-07-22 18:10**: refactor: modularize traffic app logic and event listeners
