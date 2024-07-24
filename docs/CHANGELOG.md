@@ -1,4 +1,3 @@
-- **2024-06-08 20:12**: perf: index question IDs for rapid lookup
 - **2024-06-09 11:30**: test: verify question extraction script against exam PDF
 - **2024-06-09 22:03**: fix: adjust passing score threshold according to new rules
 - **2024-06-10 12:55**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-07-22 13:40**: fix: correct color specifications for mandatory traffic signs
 - **2024-07-22 18:10**: refactor: modularize traffic app logic and event listeners
 - **2024-07-23 09:14**: chore: organize assets and image directory structure
+- **2024-07-24 16:08**: feat: add category-specific practice modes
