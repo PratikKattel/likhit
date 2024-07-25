@@ -1,4 +1,3 @@
-- **2024-06-09 22:03**: fix: adjust passing score threshold according to new rules
 - **2024-06-10 12:55**: style: polish typography and Nepali Unicode font rendering
 - **2024-06-10 13:20**: style: polish typography and Nepali Unicode font rendering
 - **2024-06-10 16:26**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2024-07-23 09:14**: chore: organize assets and image directory structure
 - **2024-07-24 16:08**: feat: add category-specific practice modes
 - **2024-07-24 22:21**: fix: update DOTM Nepal license syllabus questions
+- **2024-07-25 10:09**: feat: add search and filter by sign category
