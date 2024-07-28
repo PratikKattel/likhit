@@ -1,4 +1,3 @@
-- **2024-06-11 18:43**: fix: typo in Nepali road safety regulations question
 - **2024-06-12 15:48**: chore: format code style and clean up redundant variables
 - **2024-06-12 19:38**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-13 14:53**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-07-26 12:03**: docs: update traffic signals catalog documentation
 - **2024-07-27 13:48**: docs: update traffic signals catalog documentation
 - **2024-07-27 17:24**: chore: organize assets and image directory structure
+- **2024-07-28 14:23**: feat: add keyboard navigation shortcuts for question selection
