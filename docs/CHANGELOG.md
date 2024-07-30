@@ -1,4 +1,3 @@
-- **2024-06-12 19:38**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-13 14:53**: fix: correct color specifications for mandatory traffic signs
 - **2024-06-13 15:41**: refactor: restructure question data schema for faster loading
 - **2024-06-13 17:45**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-07-27 17:24**: chore: organize assets and image directory structure
 - **2024-07-28 14:23**: feat: add keyboard navigation shortcuts for question selection
 - **2024-07-29 15:25**: docs: improve code comments and API documentation
+- **2024-07-30 15:39**: feat: add warning signs and informational road signs
