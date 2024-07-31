@@ -1,4 +1,3 @@
-- **2024-06-13 15:41**: refactor: restructure question data schema for faster loading
 - **2024-06-13 17:45**: feat: add instant feedback and explanation on answer selection
 - **2024-06-14 09:19**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-14 15:46**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-07-29 15:25**: docs: improve code comments and API documentation
 - **2024-07-30 15:39**: feat: add warning signs and informational road signs
 - **2024-07-31 09:18**: feat: add result summary with passing threshold analysis
+- **2024-07-31 17:02**: feat: add search and filter by sign category
