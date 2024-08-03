@@ -1,4 +1,3 @@
-- **2024-06-15 12:34**: perf: index question IDs for rapid lookup
 - **2024-06-15 14:32**: refactor: modularize traffic app logic and event listeners
 - **2024-06-15 16:02**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-16 21:50**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-07-31 20:25**: feat: add search and filter by sign category
 - **2024-08-01 20:09**: feat: support multiple choice questions for motorcycle category
 - **2024-08-02 16:14**: style: polish typography and Nepali Unicode font rendering
+- **2024-08-03 14:48**: fix: adjust passing score threshold according to new rules
