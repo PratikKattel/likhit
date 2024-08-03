@@ -1,4 +1,3 @@
-- **2024-06-15 16:02**: style: enhance traffic sign card layout and responsiveness
 - **2024-06-16 21:50**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-17 17:17**: docs: improve code comments and API documentation
 - **2024-06-18 18:28**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2024-08-02 16:14**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-03 14:48**: fix: adjust passing score threshold according to new rules
 - **2024-08-03 18:57**: feat: add keyboard navigation shortcuts for question selection
+- **2024-08-03 19:21**: fix: update DOTM Nepal license syllabus questions
