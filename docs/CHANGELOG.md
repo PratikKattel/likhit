@@ -1,4 +1,3 @@
-- **2024-06-18 18:28**: docs: update README with setup instructions and feature list
 - **2024-06-19 10:12**: docs: add instructions for Nepali driving license written exam
 - **2024-06-19 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-19 20:29**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-08-03 19:21**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-04 21:50**: docs: add instructions for Nepali driving license written exam
 - **2024-08-05 11:35**: feat: add category A and B traffic test questions
+- **2024-08-05 14:26**: fix: update DOTM Nepal license syllabus questions
