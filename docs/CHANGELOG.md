@@ -1,4 +1,3 @@
-- **2024-06-19 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2024-06-19 20:29**: feat: add search and filter by sign category
 - **2024-06-20 15:57**: fix: update DOTM Nepal license syllabus questions
 - **2024-06-20 20:53**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-08-05 11:35**: feat: add category A and B traffic test questions
 - **2024-08-05 14:26**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-06 11:54**: feat: add category-specific practice modes
+- **2024-08-06 21:16**: feat: add category-specific practice modes
