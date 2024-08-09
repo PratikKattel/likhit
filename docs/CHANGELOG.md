@@ -1,4 +1,3 @@
-- **2024-06-23 13:41**: feat: support multiple choice questions for motorcycle category
 - **2024-06-23 17:42**: docs: update traffic signals catalog documentation
 - **2024-06-24 12:21**: feat: add category A and B traffic test questions
 - **2024-06-24 12:33**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2024-08-08 20:57**: chore: update questions database with recent DOTM updates
 - **2024-08-08 21:21**: chore: update questions database with recent DOTM updates
 - **2024-08-09 18:23**: fix: update DOTM Nepal license syllabus questions
+- **2024-08-09 19:24**: style: polish typography and Nepali Unicode font rendering
