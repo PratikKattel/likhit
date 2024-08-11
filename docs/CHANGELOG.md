@@ -1,4 +1,3 @@
-- **2024-06-24 12:33**: feat: add category A and B traffic test questions
 - **2024-06-25 11:59**: docs: update traffic signals catalog documentation
 - **2024-06-26 21:31**: feat: add instant feedback and explanation on answer selection
 - **2024-06-27 14:12**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-08-09 19:24**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-10 11:49**: feat: implement timer and score calculation for mock test
 - **2024-08-11 09:46**: feat: support multiple choice questions for motorcycle category
+- **2024-08-11 20:28**: docs: add instructions for Nepali driving license written exam
