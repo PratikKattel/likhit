@@ -1,4 +1,3 @@
-- **2024-06-27 14:12**: feat: add search and filter by sign category
 - **2024-06-27 17:31**: docs: update README with setup instructions and feature list
 - **2024-06-28 10:41**: feat: add search and filter by sign category
 - **2024-06-28 12:44**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2024-08-11 20:28**: docs: add instructions for Nepali driving license written exam
 - **2024-08-12 21:07**: feat: implement timer and score calculation for mock test
 - **2024-08-13 10:55**: feat: add search and filter by sign category
+- **2024-08-13 12:30**: feat: implement timer and score calculation for mock test
