@@ -1,4 +1,3 @@
-- **2024-06-28 17:10**: fix: correct color specifications for mandatory traffic signs
 - **2024-06-29 16:34**: feat: implement timer and score calculation for mock test
 - **2024-06-30 10:28**: perf: lazy load signal graphics and question assets
 - **2024-06-30 15:30**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-08-13 22:01**: feat: support multiple choice questions for motorcycle category
 - **2024-08-14 10:40**: perf: lazy load signal graphics and question assets
 - **2024-08-14 21:11**: fix: adjust passing score threshold according to new rules
+- **2024-08-15 15:08**: docs: add instructions for Nepali driving license written exam
