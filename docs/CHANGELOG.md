@@ -1,4 +1,3 @@
-- **2024-07-01 10:08**: fix: prevent option re-selection after submitting answer
 - **2024-07-02 15:24**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-07-02 21:56**: chore: update project metadata and build configuration
 - **2024-07-03 20:49**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2024-08-15 20:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-15 20:47**: docs: update README with setup instructions and feature list
 - **2024-08-15 21:58**: fix: adjust passing score threshold according to new rules
+- **2024-08-16 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
