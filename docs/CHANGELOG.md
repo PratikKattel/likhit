@@ -1,4 +1,3 @@
-- **2024-07-03 20:49**: fix: typo in Nepali road safety regulations question
 - **2024-07-04 09:38**: docs: improve code comments and API documentation
 - **2024-07-04 21:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-07-05 12:50**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-08-16 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-08-16 20:01**: refactor: modularize traffic app logic and event listeners
 - **2024-08-17 09:27**: feat: add result summary with passing threshold analysis
+- **2024-08-17 09:47**: feat: add search and filter by sign category
