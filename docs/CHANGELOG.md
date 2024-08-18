@@ -1,4 +1,3 @@
-- **2024-07-05 12:50**: perf: lazy load signal graphics and question assets
 - **2024-07-05 15:39**: refactor: optimize SVG rendering for road signs
 - **2024-07-06 17:29**: style: enhance traffic sign card layout and responsiveness
 - **2024-07-07 11:51**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-08-17 09:47**: feat: add search and filter by sign category
 - **2024-08-17 21:49**: docs: update README with setup instructions and feature list
 - **2024-08-17 22:20**: fix: resolve layout shift during question transitions
+- **2024-08-18 11:59**: refactor: modularize traffic app logic and event listeners
