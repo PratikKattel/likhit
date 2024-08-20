@@ -1,4 +1,3 @@
-- **2024-07-08 12:57**: fix: adjust passing score threshold according to new rules
 - **2024-07-08 16:16**: refactor: optimize SVG rendering for road signs
 - **2024-07-08 16:53**: feat: support multiple choice questions for motorcycle category
 - **2024-07-09 13:33**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2024-08-19 14:02**: feat: implement timer and score calculation for mock test
 - **2024-08-19 16:48**: refactor: restructure question data schema for faster loading
 - **2024-08-19 18:51**: feat: add category-specific practice modes
+- **2024-08-20 19:54**: feat: add search and filter by sign category
