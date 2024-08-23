@@ -1,4 +1,3 @@
-- **2024-07-10 12:18**: refactor: restructure question data schema for faster loading
 - **2024-07-11 17:05**: feat: add search and filter by sign category
 - **2024-07-11 21:21**: refactor: optimize SVG rendering for road signs
 - **2024-07-12 19:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-08-22 13:24**: fix: resolve layout shift during question transitions
 - **2024-08-22 17:08**: style: enhance traffic sign card layout and responsiveness
 - **2024-08-22 22:26**: style: enhance traffic sign card layout and responsiveness
+- **2024-08-23 09:09**: test: verify question extraction script against exam PDF
