@@ -1,4 +1,3 @@
-- **2024-07-11 21:21**: refactor: optimize SVG rendering for road signs
 - **2024-07-12 19:35**: fix: resolve layout shift during question transitions
 - **2024-07-13 15:43**: feat: add warning signs and informational road signs
 - **2024-07-14 16:54**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-08-22 22:26**: style: enhance traffic sign card layout and responsiveness
 - **2024-08-23 09:09**: test: verify question extraction script against exam PDF
 - **2024-08-23 11:31**: style: polish typography and Nepali Unicode font rendering
+- **2024-08-23 15:11**: feat: add search and filter by sign category
