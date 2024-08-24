@@ -1,4 +1,3 @@
-- **2024-07-12 19:35**: fix: resolve layout shift during question transitions
 - **2024-07-13 15:43**: feat: add warning signs and informational road signs
 - **2024-07-14 16:54**: chore: update questions database with recent DOTM updates
 - **2024-07-14 18:01**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-08-23 09:09**: test: verify question extraction script against exam PDF
 - **2024-08-23 11:31**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-23 15:11**: feat: add search and filter by sign category
+- **2024-08-24 09:19**: feat: implement timer and score calculation for mock test
