@@ -1,4 +1,3 @@
-- **2024-07-14 16:54**: chore: update questions database with recent DOTM updates
 - **2024-07-14 18:01**: refactor: modularize traffic app logic and event listeners
 - **2024-07-15 20:55**: feat: add regulatory traffic signs SVG graphics
 - **2024-07-15 21:19**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-08-23 15:11**: feat: add search and filter by sign category
 - **2024-08-24 09:19**: feat: implement timer and score calculation for mock test
 - **2024-08-25 21:55**: fix: update DOTM Nepal license syllabus questions
+- **2024-08-26 15:10**: style: improve dark/light mode and mobile UI responsiveness
