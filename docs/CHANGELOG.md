@@ -1,4 +1,3 @@
-- **2024-07-15 20:55**: feat: add regulatory traffic signs SVG graphics
 - **2024-07-15 21:19**: feat: add instant feedback and explanation on answer selection
 - **2024-07-16 15:13**: perf: index question IDs for rapid lookup
 - **2024-07-17 19:58**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-08-25 21:55**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-26 15:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-26 19:08**: fix: prevent option re-selection after submitting answer
+- **2024-08-27 10:21**: feat: add regulatory traffic signs SVG graphics
