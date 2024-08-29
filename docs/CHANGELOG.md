@@ -1,4 +1,3 @@
-- **2024-07-18 21:06**: chore: organize assets and image directory structure
 - **2024-07-19 21:45**: feat: add result summary with passing threshold analysis
 - **2024-07-20 16:53**: feat: add result summary with passing threshold analysis
 - **2024-07-21 20:21**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-08-28 10:25**: feat: implement timer and score calculation for mock test
 - **2024-08-28 12:27**: feat: add keyboard navigation shortcuts for question selection
 - **2024-08-29 12:10**: feat: add category-specific practice modes
+- **2024-08-29 13:46**: chore: organize assets and image directory structure
