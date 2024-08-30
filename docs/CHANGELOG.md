@@ -1,4 +1,3 @@
-- **2024-07-21 20:42**: docs: update traffic signals catalog documentation
 - **2024-07-22 13:40**: fix: correct color specifications for mandatory traffic signs
 - **2024-07-22 18:10**: refactor: modularize traffic app logic and event listeners
 - **2024-07-23 09:14**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-08-29 18:33**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-30 12:17**: perf: optimize image caching for traffic sign assets
 - **2024-08-30 18:05**: feat: add warning signs and informational road signs
+- **2024-08-30 21:32**: feat: add search and filter by sign category
