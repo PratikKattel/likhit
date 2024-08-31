@@ -1,4 +1,3 @@
-- **2024-07-22 18:10**: refactor: modularize traffic app logic and event listeners
 - **2024-07-23 09:14**: chore: organize assets and image directory structure
 - **2024-07-24 16:08**: feat: add category-specific practice modes
 - **2024-07-24 22:21**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-08-30 18:05**: feat: add warning signs and informational road signs
 - **2024-08-30 21:32**: feat: add search and filter by sign category
 - **2024-08-31 10:25**: docs: improve code comments and API documentation
+- **2024-08-31 13:00**: docs: improve code comments and API documentation
