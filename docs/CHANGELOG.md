@@ -1,4 +1,3 @@
-- **2024-07-24 16:08**: feat: add category-specific practice modes
 - **2024-07-24 22:21**: fix: update DOTM Nepal license syllabus questions
 - **2024-07-25 10:09**: feat: add search and filter by sign category
 - **2024-07-25 21:54**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2024-08-31 10:25**: docs: improve code comments and API documentation
 - **2024-08-31 13:00**: docs: improve code comments and API documentation
 - **2024-08-31 14:57**: feat: add warning signs and informational road signs
+- **2024-08-31 21:17**: perf: optimize image caching for traffic sign assets
