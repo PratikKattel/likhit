@@ -1,4 +1,3 @@
-- **2024-07-26 12:03**: docs: update traffic signals catalog documentation
 - **2024-07-27 13:48**: docs: update traffic signals catalog documentation
 - **2024-07-27 17:24**: chore: organize assets and image directory structure
 - **2024-07-28 14:23**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-09-01 10:22**: chore: update questions database with recent DOTM updates
 - **2024-09-01 11:21**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-01 14:19**: feat: support multiple choice questions for motorcycle category
+- **2024-09-02 13:06**: docs: add instructions for Nepali driving license written exam
