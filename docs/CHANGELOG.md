@@ -1,4 +1,3 @@
-- **2024-07-27 17:24**: chore: organize assets and image directory structure
 - **2024-07-28 14:23**: feat: add keyboard navigation shortcuts for question selection
 - **2024-07-29 15:25**: docs: improve code comments and API documentation
 - **2024-07-30 15:39**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-09-01 14:19**: feat: support multiple choice questions for motorcycle category
 - **2024-09-02 13:06**: docs: add instructions for Nepali driving license written exam
 - **2024-09-03 19:18**: docs: add instructions for Nepali driving license written exam
+- **2024-09-04 19:04**: refactor: modularize traffic app logic and event listeners
