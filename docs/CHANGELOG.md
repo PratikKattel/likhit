@@ -1,4 +1,3 @@
-- **2024-07-31 09:18**: feat: add result summary with passing threshold analysis
 - **2024-07-31 17:02**: feat: add search and filter by sign category
 - **2024-07-31 19:12**: refactor: restructure question data schema for faster loading
 - **2024-07-31 20:25**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-09-05 11:45**: fix: update DOTM Nepal license syllabus questions
 - **2024-09-05 13:02**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-06 13:18**: feat: add category A and B traffic test questions
+- **2024-09-06 14:42**: fix: update DOTM Nepal license syllabus questions
