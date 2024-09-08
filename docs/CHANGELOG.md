@@ -1,4 +1,3 @@
-- **2024-08-01 20:09**: feat: support multiple choice questions for motorcycle category
 - **2024-08-02 16:14**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-03 14:48**: fix: adjust passing score threshold according to new rules
 - **2024-08-03 18:57**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-09-06 21:11**: feat: implement timer and score calculation for mock test
 - **2024-09-07 09:14**: feat: add result summary with passing threshold analysis
 - **2024-09-07 13:39**: fix: update DOTM Nepal license syllabus questions
+- **2024-09-08 09:41**: chore: update questions database with recent DOTM updates
