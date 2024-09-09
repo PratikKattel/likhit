@@ -1,4 +1,3 @@
-- **2024-08-03 14:48**: fix: adjust passing score threshold according to new rules
 - **2024-08-03 18:57**: feat: add keyboard navigation shortcuts for question selection
 - **2024-08-03 19:21**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-04 21:50**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-09-07 13:39**: fix: update DOTM Nepal license syllabus questions
 - **2024-09-08 09:41**: chore: update questions database with recent DOTM updates
 - **2024-09-09 16:19**: test: verify question extraction script against exam PDF
+- **2024-09-09 17:05**: chore: format code style and clean up redundant variables
