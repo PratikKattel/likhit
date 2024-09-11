@@ -1,4 +1,3 @@
-- **2024-08-04 21:50**: docs: add instructions for Nepali driving license written exam
 - **2024-08-05 11:35**: feat: add category A and B traffic test questions
 - **2024-08-05 14:26**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-06 11:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2024-09-09 17:05**: chore: format code style and clean up redundant variables
 - **2024-09-10 16:09**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-10 18:30**: fix: typo in Nepali road safety regulations question
+- **2024-09-11 11:22**: refactor: restructure question data schema for faster loading
