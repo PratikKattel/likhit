@@ -1,4 +1,3 @@
-- **2024-08-06 11:54**: feat: add category-specific practice modes
 - **2024-08-06 21:16**: feat: add category-specific practice modes
 - **2024-08-07 17:58**: fix: resolve layout shift during question transitions
 - **2024-08-08 20:54**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-09-11 11:22**: refactor: restructure question data schema for faster loading
 - **2024-09-11 15:15**: feat: implement timer and score calculation for mock test
 - **2024-09-12 09:59**: feat: add keyboard navigation shortcuts for question selection
+- **2024-09-12 15:28**: perf: optimize image caching for traffic sign assets
