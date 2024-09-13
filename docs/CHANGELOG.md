@@ -1,4 +1,3 @@
-- **2024-08-06 21:16**: feat: add category-specific practice modes
 - **2024-08-07 17:58**: fix: resolve layout shift during question transitions
 - **2024-08-08 20:54**: feat: add keyboard navigation shortcuts for question selection
 - **2024-08-08 20:57**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-09-11 15:15**: feat: implement timer and score calculation for mock test
 - **2024-09-12 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-12 15:28**: perf: optimize image caching for traffic sign assets
+- **2024-09-13 12:08**: refactor: modularize traffic app logic and event listeners
