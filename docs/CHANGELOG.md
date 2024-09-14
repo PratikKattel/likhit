@@ -1,4 +1,3 @@
-- **2024-08-08 20:54**: feat: add keyboard navigation shortcuts for question selection
 - **2024-08-08 20:57**: chore: update questions database with recent DOTM updates
 - **2024-08-08 21:21**: chore: update questions database with recent DOTM updates
 - **2024-08-09 18:23**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-09-12 15:28**: perf: optimize image caching for traffic sign assets
 - **2024-09-13 12:08**: refactor: modularize traffic app logic and event listeners
 - **2024-09-13 13:04**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-09-14 11:52**: perf: lazy load signal graphics and question assets
