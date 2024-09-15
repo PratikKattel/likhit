@@ -1,4 +1,3 @@
-- **2024-08-09 19:24**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-10 11:49**: feat: implement timer and score calculation for mock test
 - **2024-08-11 09:46**: feat: support multiple choice questions for motorcycle category
 - **2024-08-11 20:28**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-09-14 18:08**: chore: organize assets and image directory structure
 - **2024-09-15 12:14**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-15 15:48**: fix: adjust passing score threshold according to new rules
+- **2024-09-15 17:23**: style: polish typography and Nepali Unicode font rendering
