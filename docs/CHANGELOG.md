@@ -1,4 +1,3 @@
-- **2024-08-12 21:07**: feat: implement timer and score calculation for mock test
 - **2024-08-13 10:55**: feat: add search and filter by sign category
 - **2024-08-13 12:30**: feat: implement timer and score calculation for mock test
 - **2024-08-13 22:01**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2024-09-16 21:03**: docs: improve code comments and API documentation
 - **2024-09-17 18:05**: chore: organize assets and image directory structure
 - **2024-09-18 18:03**: chore: organize assets and image directory structure
+- **2024-09-18 20:06**: fix: prevent option re-selection after submitting answer
