@@ -1,4 +1,3 @@
-- **2024-08-13 12:30**: feat: implement timer and score calculation for mock test
 - **2024-08-13 22:01**: feat: support multiple choice questions for motorcycle category
 - **2024-08-14 10:40**: perf: lazy load signal graphics and question assets
 - **2024-08-14 21:11**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-09-18 18:03**: chore: organize assets and image directory structure
 - **2024-09-18 20:06**: fix: prevent option re-selection after submitting answer
 - **2024-09-19 11:58**: style: enhance traffic sign card layout and responsiveness
+- **2024-09-20 09:32**: feat: add regulatory traffic signs SVG graphics
