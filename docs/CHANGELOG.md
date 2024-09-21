@@ -1,4 +1,3 @@
-- **2024-08-14 10:40**: perf: lazy load signal graphics and question assets
 - **2024-08-14 21:11**: fix: adjust passing score threshold according to new rules
 - **2024-08-15 15:08**: docs: add instructions for Nepali driving license written exam
 - **2024-08-15 20:38**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2024-09-19 11:58**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-20 09:32**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-20 09:35**: feat: implement timer and score calculation for mock test
+- **2024-09-21 11:10**: feat: add category A and B traffic test questions
