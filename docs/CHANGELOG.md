@@ -1,4 +1,3 @@
-- **2024-08-14 21:11**: fix: adjust passing score threshold according to new rules
 - **2024-08-15 15:08**: docs: add instructions for Nepali driving license written exam
 - **2024-08-15 20:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-15 20:47**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2024-09-20 09:32**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-20 09:35**: feat: implement timer and score calculation for mock test
 - **2024-09-21 11:10**: feat: add category A and B traffic test questions
+- **2024-09-21 19:52**: chore: format code style and clean up redundant variables
