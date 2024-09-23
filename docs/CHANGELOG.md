@@ -1,4 +1,3 @@
-- **2024-08-15 20:38**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-15 20:47**: docs: update README with setup instructions and feature list
 - **2024-08-15 21:58**: fix: adjust passing score threshold according to new rules
 - **2024-08-16 12:12**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-09-21 11:10**: feat: add category A and B traffic test questions
 - **2024-09-21 19:52**: chore: format code style and clean up redundant variables
 - **2024-09-22 11:51**: feat: add regulatory traffic signs SVG graphics
+- **2024-09-23 14:16**: feat: add regulatory traffic signs SVG graphics
