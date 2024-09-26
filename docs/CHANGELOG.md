@@ -1,4 +1,3 @@
-- **2024-08-17 09:27**: feat: add result summary with passing threshold analysis
 - **2024-08-17 09:47**: feat: add search and filter by sign category
 - **2024-08-17 21:49**: docs: update README with setup instructions and feature list
 - **2024-08-17 22:20**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-09-24 18:11**: feat: add result summary with passing threshold analysis
 - **2024-09-25 11:26**: feat: add result summary with passing threshold analysis
 - **2024-09-25 20:17**: fix: correct color specifications for mandatory traffic signs
+- **2024-09-26 09:19**: perf: optimize image caching for traffic sign assets
