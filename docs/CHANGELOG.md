@@ -1,4 +1,3 @@
-- **2024-08-17 21:49**: docs: update README with setup instructions and feature list
 - **2024-08-17 22:20**: fix: resolve layout shift during question transitions
 - **2024-08-18 11:59**: refactor: modularize traffic app logic and event listeners
 - **2024-08-18 13:12**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-09-25 20:17**: fix: correct color specifications for mandatory traffic signs
 - **2024-09-26 09:19**: perf: optimize image caching for traffic sign assets
 - **2024-09-27 18:07**: feat: add instant feedback and explanation on answer selection
+- **2024-09-28 11:13**: feat: add regulatory traffic signs SVG graphics
