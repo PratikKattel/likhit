@@ -1,4 +1,3 @@
-- **2024-08-18 11:59**: refactor: modularize traffic app logic and event listeners
 - **2024-08-18 13:12**: perf: lazy load signal graphics and question assets
 - **2024-08-19 14:02**: feat: implement timer and score calculation for mock test
 - **2024-08-19 16:48**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2024-09-27 18:07**: feat: add instant feedback and explanation on answer selection
 - **2024-09-28 11:13**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-28 11:48**: style: enhance traffic sign card layout and responsiveness
+- **2024-09-28 15:30**: style: enhance traffic sign card layout and responsiveness
