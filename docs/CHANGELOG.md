@@ -1,4 +1,3 @@
-- **2024-08-19 14:02**: feat: implement timer and score calculation for mock test
 - **2024-08-19 16:48**: refactor: restructure question data schema for faster loading
 - **2024-08-19 18:51**: feat: add category-specific practice modes
 - **2024-08-20 19:54**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-09-28 11:48**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-28 15:30**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-29 14:36**: style: enhance traffic sign card layout and responsiveness
+- **2024-09-29 18:56**: style: enhance traffic sign card layout and responsiveness
