@@ -1,4 +1,3 @@
-- **2024-08-21 10:05**: chore: organize assets and image directory structure
 - **2024-08-22 13:24**: fix: resolve layout shift during question transitions
 - **2024-08-22 17:08**: style: enhance traffic sign card layout and responsiveness
 - **2024-08-22 22:26**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-09-30 19:51**: perf: lazy load signal graphics and question assets
 - **2024-10-01 12:45**: feat: implement timer and score calculation for mock test
 - **2024-10-01 21:10**: test: verify question extraction script against exam PDF
+- **2024-10-02 11:12**: style: polish typography and Nepali Unicode font rendering
