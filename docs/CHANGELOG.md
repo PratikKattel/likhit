@@ -1,4 +1,3 @@
-- **2024-08-23 09:09**: test: verify question extraction script against exam PDF
 - **2024-08-23 11:31**: style: polish typography and Nepali Unicode font rendering
 - **2024-08-23 15:11**: feat: add search and filter by sign category
 - **2024-08-24 09:19**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-10-03 12:16**: perf: lazy load signal graphics and question assets
 - **2024-10-04 17:23**: chore: organize assets and image directory structure
 - **2024-10-05 11:12**: refactor: modularize traffic app logic and event listeners
+- **2024-10-06 11:06**: fix: resolve layout shift during question transitions
