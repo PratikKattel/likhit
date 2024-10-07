@@ -1,4 +1,3 @@
-- **2024-08-26 15:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-26 19:08**: fix: prevent option re-selection after submitting answer
 - **2024-08-27 10:21**: feat: add regulatory traffic signs SVG graphics
 - **2024-08-27 18:10**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-10-07 16:30**: refactor: restructure question data schema for faster loading
 - **2024-10-07 20:05**: feat: add keyboard navigation shortcuts for question selection
 - **2024-10-07 20:42**: chore: update project metadata and build configuration
+- **2024-10-07 22:01**: fix: resolve layout shift during question transitions
