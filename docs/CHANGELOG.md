@@ -1,4 +1,3 @@
-- **2024-08-25 21:55**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-26 15:10**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-08-26 19:08**: fix: prevent option re-selection after submitting answer
 - **2024-08-27 10:21**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-10-06 21:42**: docs: update README with setup instructions and feature list
 - **2024-10-07 16:30**: refactor: restructure question data schema for faster loading
 - **2024-10-07 20:05**: feat: add keyboard navigation shortcuts for question selection
+- **2024-10-07 20:42**: chore: update project metadata and build configuration
