@@ -1,4 +1,3 @@
-- **2024-08-27 18:10**: fix: prevent option re-selection after submitting answer
 - **2024-08-27 19:40**: feat: add result summary with passing threshold analysis
 - **2024-08-28 10:25**: feat: implement timer and score calculation for mock test
 - **2024-08-28 12:27**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-10-07 22:01**: fix: resolve layout shift during question transitions
 - **2024-10-08 21:27**: feat: add instant feedback and explanation on answer selection
 - **2024-10-09 18:50**: fix: adjust passing score threshold according to new rules
+- **2024-10-09 19:50**: docs: improve code comments and API documentation
