@@ -1,4 +1,3 @@
-- **2024-08-27 19:40**: feat: add result summary with passing threshold analysis
 - **2024-08-28 10:25**: feat: implement timer and score calculation for mock test
 - **2024-08-28 12:27**: feat: add keyboard navigation shortcuts for question selection
 - **2024-08-29 12:10**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2024-10-08 21:27**: feat: add instant feedback and explanation on answer selection
 - **2024-10-09 18:50**: fix: adjust passing score threshold according to new rules
 - **2024-10-09 19:50**: docs: improve code comments and API documentation
+- **2024-10-10 22:26**: refactor: restructure question data schema for faster loading
