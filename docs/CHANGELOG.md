@@ -1,4 +1,3 @@
-- **2024-08-29 13:46**: chore: organize assets and image directory structure
 - **2024-08-29 18:33**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-30 12:17**: perf: optimize image caching for traffic sign assets
 - **2024-08-30 18:05**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-10-11 13:53**: chore: update questions database with recent DOTM updates
 - **2024-10-12 11:05**: feat: add instant feedback and explanation on answer selection
 - **2024-10-13 14:43**: feat: add keyboard navigation shortcuts for question selection
+- **2024-10-13 19:33**: feat: add category A and B traffic test questions
