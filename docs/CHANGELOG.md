@@ -1,4 +1,3 @@
-- **2024-08-30 12:17**: perf: optimize image caching for traffic sign assets
 - **2024-08-30 18:05**: feat: add warning signs and informational road signs
 - **2024-08-30 21:32**: feat: add search and filter by sign category
 - **2024-08-31 10:25**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-10-13 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2024-10-13 19:33**: feat: add category A and B traffic test questions
 - **2024-10-14 18:17**: docs: improve code comments and API documentation
+- **2024-10-14 20:27**: fix: adjust passing score threshold according to new rules
