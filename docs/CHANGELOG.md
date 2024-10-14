@@ -1,4 +1,3 @@
-- **2024-08-29 18:33**: fix: update DOTM Nepal license syllabus questions
 - **2024-08-30 12:17**: perf: optimize image caching for traffic sign assets
 - **2024-08-30 18:05**: feat: add warning signs and informational road signs
 - **2024-08-30 21:32**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-10-12 11:05**: feat: add instant feedback and explanation on answer selection
 - **2024-10-13 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2024-10-13 19:33**: feat: add category A and B traffic test questions
+- **2024-10-14 18:17**: docs: improve code comments and API documentation
