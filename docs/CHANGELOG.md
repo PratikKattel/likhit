@@ -1,4 +1,3 @@
-- **2024-08-31 10:25**: docs: improve code comments and API documentation
 - **2024-08-31 13:00**: docs: improve code comments and API documentation
 - **2024-08-31 14:57**: feat: add warning signs and informational road signs
 - **2024-08-31 21:17**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-10-14 20:27**: fix: adjust passing score threshold according to new rules
 - **2024-10-14 22:08**: fix: correct color specifications for mandatory traffic signs
 - **2024-10-15 11:52**: fix: adjust passing score threshold according to new rules
+- **2024-10-16 12:07**: perf: index question IDs for rapid lookup
