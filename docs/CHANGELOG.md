@@ -1,4 +1,3 @@
-- **2024-08-31 14:57**: feat: add warning signs and informational road signs
 - **2024-08-31 21:17**: perf: optimize image caching for traffic sign assets
 - **2024-09-01 10:22**: chore: update questions database with recent DOTM updates
 - **2024-09-01 11:21**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-10-15 11:52**: fix: adjust passing score threshold according to new rules
 - **2024-10-16 12:07**: perf: index question IDs for rapid lookup
 - **2024-10-16 16:38**: refactor: restructure question data schema for faster loading
+- **2024-10-16 18:22**: fix: resolve layout shift during question transitions
