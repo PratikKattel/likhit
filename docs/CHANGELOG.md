@@ -1,4 +1,3 @@
-- **2024-09-01 11:21**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-01 14:19**: feat: support multiple choice questions for motorcycle category
 - **2024-09-02 13:06**: docs: add instructions for Nepali driving license written exam
 - **2024-09-03 19:18**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-10-16 18:22**: fix: resolve layout shift during question transitions
 - **2024-10-16 20:09**: fix: resolve layout shift during question transitions
 - **2024-10-17 14:40**: fix: resolve layout shift during question transitions
+- **2024-10-17 15:21**: feat: add category-specific practice modes
