@@ -1,4 +1,3 @@
-- **2024-09-01 14:19**: feat: support multiple choice questions for motorcycle category
 - **2024-09-02 13:06**: docs: add instructions for Nepali driving license written exam
 - **2024-09-03 19:18**: docs: add instructions for Nepali driving license written exam
 - **2024-09-04 19:04**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-10-16 20:09**: fix: resolve layout shift during question transitions
 - **2024-10-17 14:40**: fix: resolve layout shift during question transitions
 - **2024-10-17 15:21**: feat: add category-specific practice modes
+- **2024-10-17 16:43**: feat: add category A and B traffic test questions
