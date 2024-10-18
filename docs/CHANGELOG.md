@@ -1,4 +1,3 @@
-- **2024-09-03 19:18**: docs: add instructions for Nepali driving license written exam
 - **2024-09-04 19:04**: refactor: modularize traffic app logic and event listeners
 - **2024-09-05 11:45**: fix: update DOTM Nepal license syllabus questions
 - **2024-09-05 13:02**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-10-17 15:21**: feat: add category-specific practice modes
 - **2024-10-17 16:43**: feat: add category A and B traffic test questions
 - **2024-10-17 19:14**: feat: add category-specific practice modes
+- **2024-10-18 10:44**: chore: update questions database with recent DOTM updates
