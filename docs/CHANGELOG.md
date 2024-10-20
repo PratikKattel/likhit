@@ -1,4 +1,3 @@
-- **2024-09-05 13:02**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-06 13:18**: feat: add category A and B traffic test questions
 - **2024-09-06 14:42**: fix: update DOTM Nepal license syllabus questions
 - **2024-09-06 21:11**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-10-18 10:44**: chore: update questions database with recent DOTM updates
 - **2024-10-18 10:50**: chore: format code style and clean up redundant variables
 - **2024-10-19 09:23**: fix: prevent option re-selection after submitting answer
+- **2024-10-20 21:54**: chore: update project metadata and build configuration
