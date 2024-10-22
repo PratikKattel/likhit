@@ -1,4 +1,3 @@
-- **2024-09-06 14:42**: fix: update DOTM Nepal license syllabus questions
 - **2024-09-06 21:11**: feat: implement timer and score calculation for mock test
 - **2024-09-07 09:14**: feat: add result summary with passing threshold analysis
 - **2024-09-07 13:39**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2024-10-19 09:23**: fix: prevent option re-selection after submitting answer
 - **2024-10-20 21:54**: chore: update project metadata and build configuration
 - **2024-10-21 09:35**: refactor: restructure question data schema for faster loading
+- **2024-10-22 17:50**: refactor: optimize SVG rendering for road signs
