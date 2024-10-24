@@ -1,4 +1,3 @@
-- **2024-09-08 09:41**: chore: update questions database with recent DOTM updates
 - **2024-09-09 16:19**: test: verify question extraction script against exam PDF
 - **2024-09-09 17:05**: chore: format code style and clean up redundant variables
 - **2024-09-10 16:09**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-10-23 10:30**: chore: update questions database with recent DOTM updates
 - **2024-10-23 15:06**: docs: improve code comments and API documentation
 - **2024-10-23 18:04**: fix: resolve layout shift during question transitions
+- **2024-10-24 09:09**: feat: add warning signs and informational road signs
