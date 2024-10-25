@@ -1,4 +1,3 @@
-- **2024-09-09 17:05**: chore: format code style and clean up redundant variables
 - **2024-09-10 16:09**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-10 18:30**: fix: typo in Nepali road safety regulations question
 - **2024-09-11 11:22**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2024-10-23 18:04**: fix: resolve layout shift during question transitions
 - **2024-10-24 09:09**: feat: add warning signs and informational road signs
 - **2024-10-24 11:33**: docs: update traffic signals catalog documentation
+- **2024-10-25 19:24**: feat: implement timer and score calculation for mock test
