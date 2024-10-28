@@ -1,4 +1,3 @@
-- **2024-09-11 11:22**: refactor: restructure question data schema for faster loading
 - **2024-09-11 15:15**: feat: implement timer and score calculation for mock test
 - **2024-09-12 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-12 15:28**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2024-10-25 19:24**: feat: implement timer and score calculation for mock test
 - **2024-10-26 10:00**: docs: add instructions for Nepali driving license written exam
 - **2024-10-27 10:26**: feat: support multiple choice questions for motorcycle category
+- **2024-10-28 19:30**: perf: lazy load signal graphics and question assets
