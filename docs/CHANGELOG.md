@@ -1,4 +1,3 @@
-- **2024-09-12 09:59**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-12 15:28**: perf: optimize image caching for traffic sign assets
 - **2024-09-13 12:08**: refactor: modularize traffic app logic and event listeners
 - **2024-09-13 13:04**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-10-27 10:26**: feat: support multiple choice questions for motorcycle category
 - **2024-10-28 19:30**: perf: lazy load signal graphics and question assets
 - **2024-10-28 21:34**: perf: index question IDs for rapid lookup
+- **2024-10-29 12:27**: refactor: modularize traffic app logic and event listeners
