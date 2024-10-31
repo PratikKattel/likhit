@@ -1,4 +1,3 @@
-- **2024-09-13 13:04**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-09-14 11:52**: perf: lazy load signal graphics and question assets
 - **2024-09-14 18:08**: chore: organize assets and image directory structure
 - **2024-09-15 12:14**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-10-29 12:27**: refactor: modularize traffic app logic and event listeners
 - **2024-10-30 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-10-31 09:41**: feat: add regulatory traffic signs SVG graphics
+- **2024-10-31 19:50**: fix: prevent option re-selection after submitting answer
