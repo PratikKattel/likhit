@@ -1,4 +1,3 @@
-- **2024-09-14 18:08**: chore: organize assets and image directory structure
 - **2024-09-15 12:14**: feat: add keyboard navigation shortcuts for question selection
 - **2024-09-15 15:48**: fix: adjust passing score threshold according to new rules
 - **2024-09-15 17:23**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-10-31 09:41**: feat: add regulatory traffic signs SVG graphics
 - **2024-10-31 19:50**: fix: prevent option re-selection after submitting answer
 - **2024-11-01 10:45**: perf: lazy load signal graphics and question assets
+- **2024-11-02 11:30**: feat: add search and filter by sign category
