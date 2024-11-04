@@ -1,4 +1,3 @@
-- **2024-09-16 21:03**: docs: improve code comments and API documentation
 - **2024-09-17 18:05**: chore: organize assets and image directory structure
 - **2024-09-18 18:03**: chore: organize assets and image directory structure
 - **2024-09-18 20:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-11-02 19:30**: perf: lazy load signal graphics and question assets
 - **2024-11-03 10:25**: fix: resolve layout shift during question transitions
 - **2024-11-03 12:21**: docs: add instructions for Nepali driving license written exam
+- **2024-11-04 11:01**: docs: add instructions for Nepali driving license written exam
