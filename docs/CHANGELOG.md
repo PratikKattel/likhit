@@ -1,4 +1,3 @@
-- **2024-09-18 20:06**: fix: prevent option re-selection after submitting answer
 - **2024-09-19 11:58**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-20 09:32**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-20 09:35**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2024-11-04 11:01**: docs: add instructions for Nepali driving license written exam
 - **2024-11-04 11:13**: perf: optimize image caching for traffic sign assets
 - **2024-11-04 14:41**: feat: add search and filter by sign category
+- **2024-11-05 17:06**: refactor: modularize traffic app logic and event listeners
