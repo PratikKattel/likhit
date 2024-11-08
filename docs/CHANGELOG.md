@@ -1,4 +1,3 @@
-- **2024-09-20 09:35**: feat: implement timer and score calculation for mock test
 - **2024-09-21 11:10**: feat: add category A and B traffic test questions
 - **2024-09-21 19:52**: chore: format code style and clean up redundant variables
 - **2024-09-22 11:51**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-11-05 17:06**: refactor: modularize traffic app logic and event listeners
 - **2024-11-06 22:19**: fix: prevent option re-selection after submitting answer
 - **2024-11-07 13:27**: docs: update README with setup instructions and feature list
+- **2024-11-08 13:35**: fix: prevent option re-selection after submitting answer
