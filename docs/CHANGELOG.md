@@ -1,4 +1,3 @@
-- **2024-09-21 19:52**: chore: format code style and clean up redundant variables
 - **2024-09-22 11:51**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-23 14:16**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-23 16:35**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-11-07 13:27**: docs: update README with setup instructions and feature list
 - **2024-11-08 13:35**: fix: prevent option re-selection after submitting answer
 - **2024-11-08 21:06**: feat: add search and filter by sign category
+- **2024-11-09 20:50**: perf: lazy load signal graphics and question assets
