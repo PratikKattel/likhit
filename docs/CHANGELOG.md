@@ -1,4 +1,3 @@
-- **2024-09-23 14:16**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-23 16:35**: refactor: modularize traffic app logic and event listeners
 - **2024-09-24 18:11**: feat: add result summary with passing threshold analysis
 - **2024-09-25 11:26**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2024-11-08 21:06**: feat: add search and filter by sign category
 - **2024-11-09 20:50**: perf: lazy load signal graphics and question assets
 - **2024-11-10 17:47**: chore: organize assets and image directory structure
+- **2024-11-10 20:14**: docs: add instructions for Nepali driving license written exam
