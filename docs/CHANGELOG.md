@@ -1,4 +1,3 @@
-- **2024-09-25 11:26**: feat: add result summary with passing threshold analysis
 - **2024-09-25 20:17**: fix: correct color specifications for mandatory traffic signs
 - **2024-09-26 09:19**: perf: optimize image caching for traffic sign assets
 - **2024-09-27 18:07**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-11-10 20:14**: docs: add instructions for Nepali driving license written exam
 - **2024-11-11 16:34**: fix: prevent option re-selection after submitting answer
 - **2024-11-12 17:33**: perf: index question IDs for rapid lookup
+- **2024-11-13 18:46**: feat: add regulatory traffic signs SVG graphics
