@@ -1,4 +1,3 @@
-- **2024-09-28 11:13**: feat: add regulatory traffic signs SVG graphics
 - **2024-09-28 11:48**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-28 15:30**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-29 14:36**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2024-11-14 11:38**: feat: add category A and B traffic test questions
 - **2024-11-14 13:43**: fix: update DOTM Nepal license syllabus questions
 - **2024-11-14 15:41**: test: verify question extraction script against exam PDF
+- **2024-11-14 19:58**: style: polish typography and Nepali Unicode font rendering
