@@ -1,4 +1,3 @@
-- **2024-09-25 20:17**: fix: correct color specifications for mandatory traffic signs
 - **2024-09-26 09:19**: perf: optimize image caching for traffic sign assets
 - **2024-09-27 18:07**: feat: add instant feedback and explanation on answer selection
 - **2024-09-28 11:13**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-11-11 16:34**: fix: prevent option re-selection after submitting answer
 - **2024-11-12 17:33**: perf: index question IDs for rapid lookup
 - **2024-11-13 18:46**: feat: add regulatory traffic signs SVG graphics
+- **2024-11-14 11:38**: feat: add category A and B traffic test questions
