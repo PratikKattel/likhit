@@ -1,4 +1,3 @@
-- **2024-09-28 15:30**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-29 14:36**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-29 18:56**: style: enhance traffic sign card layout and responsiveness
 - **2024-09-30 19:51**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-11-14 15:41**: test: verify question extraction script against exam PDF
 - **2024-11-14 19:58**: style: polish typography and Nepali Unicode font rendering
 - **2024-11-15 10:54**: feat: add instant feedback and explanation on answer selection
+- **2024-11-15 14:17**: docs: add instructions for Nepali driving license written exam
