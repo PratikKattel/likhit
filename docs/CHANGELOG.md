@@ -1,4 +1,3 @@
-- **2024-09-30 19:51**: perf: lazy load signal graphics and question assets
 - **2024-10-01 12:45**: feat: implement timer and score calculation for mock test
 - **2024-10-01 21:10**: test: verify question extraction script against exam PDF
 - **2024-10-02 11:12**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-11-15 14:17**: docs: add instructions for Nepali driving license written exam
 - **2024-11-16 15:42**: docs: improve code comments and API documentation
 - **2024-11-16 17:19**: chore: update project metadata and build configuration
+- **2024-11-17 18:32**: fix: typo in Nepali road safety regulations question
