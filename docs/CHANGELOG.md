@@ -1,4 +1,3 @@
-- **2024-10-02 11:12**: style: polish typography and Nepali Unicode font rendering
 - **2024-10-03 12:16**: perf: lazy load signal graphics and question assets
 - **2024-10-04 17:23**: chore: organize assets and image directory structure
 - **2024-10-05 11:12**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-11-17 18:32**: fix: typo in Nepali road safety regulations question
 - **2024-11-17 20:47**: feat: add result summary with passing threshold analysis
 - **2024-11-18 21:55**: test: verify question extraction script against exam PDF
+- **2024-11-19 18:27**: feat: add instant feedback and explanation on answer selection
