@@ -1,4 +1,3 @@
-- **2024-10-06 11:06**: fix: resolve layout shift during question transitions
 - **2024-10-06 21:42**: docs: update README with setup instructions and feature list
 - **2024-10-07 16:30**: refactor: restructure question data schema for faster loading
 - **2024-10-07 20:05**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-11-20 14:26**: docs: update README with setup instructions and feature list
 - **2024-11-20 19:08**: fix: adjust passing score threshold according to new rules
 - **2024-11-21 10:11**: feat: add category A and B traffic test questions
+- **2024-11-21 11:00**: style: polish typography and Nepali Unicode font rendering
