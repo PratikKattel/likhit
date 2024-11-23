@@ -1,4 +1,3 @@
-- **2024-10-07 20:42**: chore: update project metadata and build configuration
 - **2024-10-07 22:01**: fix: resolve layout shift during question transitions
 - **2024-10-08 21:27**: feat: add instant feedback and explanation on answer selection
 - **2024-10-09 18:50**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-11-21 17:31**: feat: add warning signs and informational road signs
 - **2024-11-22 22:05**: test: verify question extraction script against exam PDF
 - **2024-11-23 17:35**: feat: support multiple choice questions for motorcycle category
+- **2024-11-23 19:09**: style: improve dark/light mode and mobile UI responsiveness
