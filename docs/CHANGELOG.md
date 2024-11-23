@@ -1,4 +1,3 @@
-- **2024-10-07 20:05**: feat: add keyboard navigation shortcuts for question selection
 - **2024-10-07 20:42**: chore: update project metadata and build configuration
 - **2024-10-07 22:01**: fix: resolve layout shift during question transitions
 - **2024-10-08 21:27**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2024-11-21 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2024-11-21 17:31**: feat: add warning signs and informational road signs
 - **2024-11-22 22:05**: test: verify question extraction script against exam PDF
+- **2024-11-23 17:35**: feat: support multiple choice questions for motorcycle category
