@@ -1,4 +1,3 @@
-- **2024-10-09 18:50**: fix: adjust passing score threshold according to new rules
 - **2024-10-09 19:50**: docs: improve code comments and API documentation
 - **2024-10-10 22:26**: refactor: restructure question data schema for faster loading
 - **2024-10-11 13:53**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-11-23 19:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-11-24 11:02**: feat: implement timer and score calculation for mock test
 - **2024-11-24 15:16**: feat: add keyboard navigation shortcuts for question selection
+- **2024-11-24 20:55**: style: improve dark/light mode and mobile UI responsiveness
