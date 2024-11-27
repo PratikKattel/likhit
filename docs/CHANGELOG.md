@@ -1,4 +1,3 @@
-- **2024-10-13 19:33**: feat: add category A and B traffic test questions
 - **2024-10-14 18:17**: docs: improve code comments and API documentation
 - **2024-10-14 20:27**: fix: adjust passing score threshold according to new rules
 - **2024-10-14 22:08**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2024-11-26 09:43**: fix: update DOTM Nepal license syllabus questions
 - **2024-11-27 14:27**: chore: update questions database with recent DOTM updates
 - **2024-11-27 16:55**: chore: update project metadata and build configuration
+- **2024-11-27 17:56**: feat: add result summary with passing threshold analysis
