@@ -1,4 +1,3 @@
-- **2024-10-12 11:05**: feat: add instant feedback and explanation on answer selection
 - **2024-10-13 14:43**: feat: add keyboard navigation shortcuts for question selection
 - **2024-10-13 19:33**: feat: add category A and B traffic test questions
 - **2024-10-14 18:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-11-25 19:19**: feat: add keyboard navigation shortcuts for question selection
 - **2024-11-25 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-11-26 09:43**: fix: update DOTM Nepal license syllabus questions
+- **2024-11-27 14:27**: chore: update questions database with recent DOTM updates
