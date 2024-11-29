@@ -1,4 +1,3 @@
-- **2024-10-15 11:52**: fix: adjust passing score threshold according to new rules
 - **2024-10-16 12:07**: perf: index question IDs for rapid lookup
 - **2024-10-16 16:38**: refactor: restructure question data schema for faster loading
 - **2024-10-16 18:22**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-11-28 12:46**: refactor: modularize traffic app logic and event listeners
 - **2024-11-28 14:51**: refactor: optimize SVG rendering for road signs
 - **2024-11-28 19:11**: test: verify question extraction script against exam PDF
+- **2024-11-29 11:06**: fix: prevent option re-selection after submitting answer
