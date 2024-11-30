@@ -1,4 +1,3 @@
-- **2024-10-16 16:38**: refactor: restructure question data schema for faster loading
 - **2024-10-16 18:22**: fix: resolve layout shift during question transitions
 - **2024-10-16 20:09**: fix: resolve layout shift during question transitions
 - **2024-10-17 14:40**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-11-28 19:11**: test: verify question extraction script against exam PDF
 - **2024-11-29 11:06**: fix: prevent option re-selection after submitting answer
 - **2024-11-29 21:31**: refactor: restructure question data schema for faster loading
+- **2024-11-30 11:34**: fix: typo in Nepali road safety regulations question
