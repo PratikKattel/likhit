@@ -1,4 +1,3 @@
-- **2024-10-17 15:21**: feat: add category-specific practice modes
 - **2024-10-17 16:43**: feat: add category A and B traffic test questions
 - **2024-10-17 19:14**: feat: add category-specific practice modes
 - **2024-10-18 10:44**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-11-30 15:03**: refactor: optimize SVG rendering for road signs
 - **2024-12-01 21:04**: feat: add result summary with passing threshold analysis
 - **2024-12-02 10:20**: chore: organize assets and image directory structure
+- **2024-12-02 13:58**: chore: organize assets and image directory structure
