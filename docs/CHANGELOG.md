@@ -1,4 +1,3 @@
-- **2024-10-17 19:14**: feat: add category-specific practice modes
 - **2024-10-18 10:44**: chore: update questions database with recent DOTM updates
 - **2024-10-18 10:50**: chore: format code style and clean up redundant variables
 - **2024-10-19 09:23**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2024-12-02 10:20**: chore: organize assets and image directory structure
 - **2024-12-02 13:58**: chore: organize assets and image directory structure
 - **2024-12-02 15:23**: fix: update DOTM Nepal license syllabus questions
+- **2024-12-02 22:05**: feat: add regulatory traffic signs SVG graphics
