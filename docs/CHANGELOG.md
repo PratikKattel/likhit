@@ -1,4 +1,3 @@
-- **2024-10-20 21:54**: chore: update project metadata and build configuration
 - **2024-10-21 09:35**: refactor: restructure question data schema for faster loading
 - **2024-10-22 17:50**: refactor: optimize SVG rendering for road signs
 - **2024-10-23 10:30**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2024-12-03 11:37**: feat: add regulatory traffic signs SVG graphics
 - **2024-12-03 16:29**: chore: format code style and clean up redundant variables
 - **2024-12-03 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2024-12-03 21:10**: fix: prevent option re-selection after submitting answer
