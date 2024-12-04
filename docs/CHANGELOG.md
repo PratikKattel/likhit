@@ -1,4 +1,3 @@
-- **2024-10-23 10:30**: chore: update questions database with recent DOTM updates
 - **2024-10-23 15:06**: docs: improve code comments and API documentation
 - **2024-10-23 18:04**: fix: resolve layout shift during question transitions
 - **2024-10-24 09:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-12-03 21:10**: fix: prevent option re-selection after submitting answer
 - **2024-12-04 09:17**: test: verify question extraction script against exam PDF
 - **2024-12-04 19:03**: fix: adjust passing score threshold according to new rules
+- **2024-12-04 21:23**: chore: format code style and clean up redundant variables
