@@ -1,4 +1,3 @@
-- **2024-10-24 11:33**: docs: update traffic signals catalog documentation
 - **2024-10-25 19:24**: feat: implement timer and score calculation for mock test
 - **2024-10-26 10:00**: docs: add instructions for Nepali driving license written exam
 - **2024-10-27 10:26**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2024-12-05 15:54**: fix: typo in Nepali road safety regulations question
 - **2024-12-05 20:00**: style: polish typography and Nepali Unicode font rendering
 - **2024-12-06 10:26**: style: polish typography and Nepali Unicode font rendering
+- **2024-12-06 10:59**: refactor: optimize SVG rendering for road signs
