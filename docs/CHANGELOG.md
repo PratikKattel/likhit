@@ -1,4 +1,3 @@
-- **2024-10-27 10:26**: feat: support multiple choice questions for motorcycle category
 - **2024-10-28 19:30**: perf: lazy load signal graphics and question assets
 - **2024-10-28 21:34**: perf: index question IDs for rapid lookup
 - **2024-10-29 12:27**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2024-12-06 10:59**: refactor: optimize SVG rendering for road signs
 - **2024-12-06 21:00**: chore: format code style and clean up redundant variables
 - **2024-12-07 09:48**: docs: improve code comments and API documentation
+- **2024-12-08 10:59**: style: enhance traffic sign card layout and responsiveness
