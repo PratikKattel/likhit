@@ -1,4 +1,3 @@
-- **2024-10-28 21:34**: perf: index question IDs for rapid lookup
 - **2024-10-29 12:27**: refactor: modularize traffic app logic and event listeners
 - **2024-10-30 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-10-31 09:41**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-12-07 09:48**: docs: improve code comments and API documentation
 - **2024-12-08 10:59**: style: enhance traffic sign card layout and responsiveness
 - **2024-12-08 20:18**: docs: update README with setup instructions and feature list
+- **2024-12-09 15:46**: chore: update questions database with recent DOTM updates
