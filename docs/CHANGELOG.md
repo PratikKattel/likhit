@@ -1,4 +1,3 @@
-- **2024-10-30 14:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-10-31 09:41**: feat: add regulatory traffic signs SVG graphics
 - **2024-10-31 19:50**: fix: prevent option re-selection after submitting answer
 - **2024-11-01 10:45**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2024-12-08 20:18**: docs: update README with setup instructions and feature list
 - **2024-12-09 15:46**: chore: update questions database with recent DOTM updates
 - **2024-12-09 21:07**: style: enhance traffic sign card layout and responsiveness
+- **2024-12-10 14:13**: feat: add warning signs and informational road signs
