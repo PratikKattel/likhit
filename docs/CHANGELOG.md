@@ -1,4 +1,3 @@
-- **2024-11-01 10:45**: perf: lazy load signal graphics and question assets
 - **2024-11-02 11:30**: feat: add search and filter by sign category
 - **2024-11-02 19:30**: perf: lazy load signal graphics and question assets
 - **2024-11-03 10:25**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2024-12-10 14:13**: feat: add warning signs and informational road signs
 - **2024-12-10 14:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-12-11 11:09**: feat: add result summary with passing threshold analysis
+- **2024-12-11 13:30**: feat: add keyboard navigation shortcuts for question selection
