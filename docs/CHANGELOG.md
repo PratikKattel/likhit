@@ -1,4 +1,3 @@
-- **2024-11-02 19:30**: perf: lazy load signal graphics and question assets
 - **2024-11-03 10:25**: fix: resolve layout shift during question transitions
 - **2024-11-03 12:21**: docs: add instructions for Nepali driving license written exam
 - **2024-11-04 11:01**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2024-12-11 11:09**: feat: add result summary with passing threshold analysis
 - **2024-12-11 13:30**: feat: add keyboard navigation shortcuts for question selection
 - **2024-12-12 22:07**: refactor: modularize traffic app logic and event listeners
+- **2024-12-13 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
