@@ -1,4 +1,3 @@
-- **2024-11-03 12:21**: docs: add instructions for Nepali driving license written exam
 - **2024-11-04 11:01**: docs: add instructions for Nepali driving license written exam
 - **2024-11-04 11:13**: perf: optimize image caching for traffic sign assets
 - **2024-11-04 14:41**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-12-12 22:07**: refactor: modularize traffic app logic and event listeners
 - **2024-12-13 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-12-14 11:42**: feat: add regulatory traffic signs SVG graphics
+- **2024-12-14 19:16**: perf: optimize image caching for traffic sign assets
