@@ -1,4 +1,3 @@
-- **2024-11-04 14:41**: feat: add search and filter by sign category
 - **2024-11-05 17:06**: refactor: modularize traffic app logic and event listeners
 - **2024-11-06 22:19**: fix: prevent option re-selection after submitting answer
 - **2024-11-07 13:27**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2024-12-14 19:16**: perf: optimize image caching for traffic sign assets
 - **2024-12-15 16:56**: fix: typo in Nepali road safety regulations question
 - **2024-12-16 11:15**: fix: typo in Nepali road safety regulations question
+- **2024-12-16 16:51**: perf: index question IDs for rapid lookup
