@@ -1,4 +1,3 @@
-- **2024-11-06 22:19**: fix: prevent option re-selection after submitting answer
 - **2024-11-07 13:27**: docs: update README with setup instructions and feature list
 - **2024-11-08 13:35**: fix: prevent option re-selection after submitting answer
 - **2024-11-08 21:06**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2024-12-16 11:15**: fix: typo in Nepali road safety regulations question
 - **2024-12-16 16:51**: perf: index question IDs for rapid lookup
 - **2024-12-17 17:47**: fix: adjust passing score threshold according to new rules
+- **2024-12-17 19:45**: chore: format code style and clean up redundant variables
