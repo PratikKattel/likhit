@@ -1,4 +1,3 @@
-- **2024-11-08 13:35**: fix: prevent option re-selection after submitting answer
 - **2024-11-08 21:06**: feat: add search and filter by sign category
 - **2024-11-09 20:50**: perf: lazy load signal graphics and question assets
 - **2024-11-10 17:47**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2024-12-17 17:47**: fix: adjust passing score threshold according to new rules
 - **2024-12-17 19:45**: chore: format code style and clean up redundant variables
 - **2024-12-17 20:04**: fix: resolve layout shift during question transitions
+- **2024-12-18 18:19**: docs: update traffic signals catalog documentation
