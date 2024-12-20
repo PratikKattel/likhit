@@ -1,4 +1,3 @@
-- **2024-11-10 20:14**: docs: add instructions for Nepali driving license written exam
 - **2024-11-11 16:34**: fix: prevent option re-selection after submitting answer
 - **2024-11-12 17:33**: perf: index question IDs for rapid lookup
 - **2024-11-13 18:46**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2024-12-19 11:05**: feat: add search and filter by sign category
 - **2024-12-19 18:05**: chore: organize assets and image directory structure
 - **2024-12-19 21:21**: chore: update project metadata and build configuration
+- **2024-12-20 14:11**: fix: prevent option re-selection after submitting answer
