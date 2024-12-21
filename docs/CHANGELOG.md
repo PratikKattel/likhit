@@ -1,4 +1,3 @@
-- **2024-11-14 11:38**: feat: add category A and B traffic test questions
 - **2024-11-14 13:43**: fix: update DOTM Nepal license syllabus questions
 - **2024-11-14 15:41**: test: verify question extraction script against exam PDF
 - **2024-11-14 19:58**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2024-12-20 19:42**: docs: update traffic signals catalog documentation
 - **2024-12-21 12:37**: chore: organize assets and image directory structure
 - **2024-12-21 15:56**: fix: typo in Nepali road safety regulations question
+- **2024-12-21 17:57**: perf: lazy load signal graphics and question assets
