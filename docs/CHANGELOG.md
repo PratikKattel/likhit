@@ -1,4 +1,3 @@
-- **2024-11-14 19:58**: style: polish typography and Nepali Unicode font rendering
 - **2024-11-15 10:54**: feat: add instant feedback and explanation on answer selection
 - **2024-11-15 14:17**: docs: add instructions for Nepali driving license written exam
 - **2024-11-16 15:42**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2024-12-21 17:57**: perf: lazy load signal graphics and question assets
 - **2024-12-22 09:52**: chore: organize assets and image directory structure
 - **2024-12-22 13:06**: chore: organize assets and image directory structure
+- **2024-12-22 21:18**: feat: add category-specific practice modes
