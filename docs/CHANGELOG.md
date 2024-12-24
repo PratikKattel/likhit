@@ -1,4 +1,3 @@
-- **2024-11-15 14:17**: docs: add instructions for Nepali driving license written exam
 - **2024-11-16 15:42**: docs: improve code comments and API documentation
 - **2024-11-16 17:19**: chore: update project metadata and build configuration
 - **2024-11-17 18:32**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2024-12-22 13:06**: chore: organize assets and image directory structure
 - **2024-12-22 21:18**: feat: add category-specific practice modes
 - **2024-12-23 17:34**: docs: update README with setup instructions and feature list
+- **2024-12-24 17:13**: chore: update project metadata and build configuration
