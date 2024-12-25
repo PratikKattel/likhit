@@ -1,4 +1,3 @@
-- **2024-11-16 17:19**: chore: update project metadata and build configuration
 - **2024-11-17 18:32**: fix: typo in Nepali road safety regulations question
 - **2024-11-17 20:47**: feat: add result summary with passing threshold analysis
 - **2024-11-18 21:55**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2024-12-23 17:34**: docs: update README with setup instructions and feature list
 - **2024-12-24 17:13**: chore: update project metadata and build configuration
 - **2024-12-24 18:49**: feat: add category-specific practice modes
+- **2024-12-25 09:01**: fix: resolve layout shift during question transitions
