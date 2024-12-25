@@ -1,4 +1,3 @@
-- **2024-11-18 21:55**: test: verify question extraction script against exam PDF
 - **2024-11-19 18:27**: feat: add instant feedback and explanation on answer selection
 - **2024-11-20 14:26**: docs: update README with setup instructions and feature list
 - **2024-11-20 19:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2024-12-25 09:01**: fix: resolve layout shift during question transitions
 - **2024-12-25 09:16**: feat: add keyboard navigation shortcuts for question selection
 - **2024-12-25 14:03**: chore: format code style and clean up redundant variables
+- **2024-12-25 22:03**: style: enhance traffic sign card layout and responsiveness
