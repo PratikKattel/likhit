@@ -1,4 +1,3 @@
-- **2024-11-20 19:08**: fix: adjust passing score threshold according to new rules
 - **2024-11-21 10:11**: feat: add category A and B traffic test questions
 - **2024-11-21 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2024-11-21 17:31**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2024-12-25 22:03**: style: enhance traffic sign card layout and responsiveness
 - **2024-12-26 11:32**: refactor: restructure question data schema for faster loading
 - **2024-12-26 19:57**: test: verify question extraction script against exam PDF
+- **2024-12-27 18:51**: feat: add instant feedback and explanation on answer selection
