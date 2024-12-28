@@ -1,4 +1,3 @@
-- **2024-11-21 11:00**: style: polish typography and Nepali Unicode font rendering
 - **2024-11-21 17:31**: feat: add warning signs and informational road signs
 - **2024-11-22 22:05**: test: verify question extraction script against exam PDF
 - **2024-11-23 17:35**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2024-12-26 19:57**: test: verify question extraction script against exam PDF
 - **2024-12-27 18:51**: feat: add instant feedback and explanation on answer selection
 - **2024-12-28 12:15**: perf: optimize image caching for traffic sign assets
+- **2024-12-28 18:29**: feat: add search and filter by sign category
