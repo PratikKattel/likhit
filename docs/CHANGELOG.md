@@ -1,4 +1,3 @@
-- **2024-11-23 17:35**: feat: support multiple choice questions for motorcycle category
 - **2024-11-23 19:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-11-24 11:02**: feat: implement timer and score calculation for mock test
 - **2024-11-24 15:16**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2024-12-28 18:29**: feat: add search and filter by sign category
 - **2024-12-29 12:42**: feat: add instant feedback and explanation on answer selection
 - **2024-12-29 18:00**: docs: improve code comments and API documentation
+- **2024-12-29 20:52**: chore: update questions database with recent DOTM updates
