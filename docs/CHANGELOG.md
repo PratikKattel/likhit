@@ -1,4 +1,3 @@
-- **2024-11-24 15:16**: feat: add keyboard navigation shortcuts for question selection
 - **2024-11-24 20:55**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-11-25 19:19**: feat: add keyboard navigation shortcuts for question selection
 - **2024-11-25 20:25**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2024-12-29 20:52**: chore: update questions database with recent DOTM updates
 - **2024-12-29 22:17**: feat: support multiple choice questions for motorcycle category
 - **2024-12-30 18:38**: fix: typo in Nepali road safety regulations question
+- **2024-12-31 11:21**: feat: add warning signs and informational road signs
