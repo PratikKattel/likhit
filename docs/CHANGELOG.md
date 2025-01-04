@@ -1,4 +1,3 @@
-- **2024-11-27 14:27**: chore: update questions database with recent DOTM updates
 - **2024-11-27 16:55**: chore: update project metadata and build configuration
 - **2024-11-27 17:56**: feat: add result summary with passing threshold analysis
 - **2024-11-28 12:46**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-01-02 15:45**: test: verify question extraction script against exam PDF
 - **2025-01-03 12:59**: feat: add warning signs and informational road signs
 - **2025-01-03 17:17**: fix: update DOTM Nepal license syllabus questions
+- **2025-01-04 13:47**: style: improve dark/light mode and mobile UI responsiveness
