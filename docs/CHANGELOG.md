@@ -1,4 +1,3 @@
-- **2024-11-28 12:46**: refactor: modularize traffic app logic and event listeners
 - **2024-11-28 14:51**: refactor: optimize SVG rendering for road signs
 - **2024-11-28 19:11**: test: verify question extraction script against exam PDF
 - **2024-11-29 11:06**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-01-04 13:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-01-05 17:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-05 18:05**: chore: organize assets and image directory structure
+- **2025-01-05 21:12**: feat: implement timer and score calculation for mock test
