@@ -1,4 +1,3 @@
-- **2024-11-29 21:31**: refactor: restructure question data schema for faster loading
 - **2024-11-30 11:34**: fix: typo in Nepali road safety regulations question
 - **2024-11-30 15:03**: refactor: optimize SVG rendering for road signs
 - **2024-12-01 21:04**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2025-01-06 11:30**: docs: add instructions for Nepali driving license written exam
 - **2025-01-07 09:28**: fix: adjust passing score threshold according to new rules
 - **2025-01-08 13:41**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-01-09 10:56**: feat: add category-specific practice modes
