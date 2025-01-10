@@ -1,4 +1,3 @@
-- **2024-11-30 15:03**: refactor: optimize SVG rendering for road signs
 - **2024-12-01 21:04**: feat: add result summary with passing threshold analysis
 - **2024-12-02 10:20**: chore: organize assets and image directory structure
 - **2024-12-02 13:58**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-01-08 13:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-01-09 10:56**: feat: add category-specific practice modes
 - **2025-01-09 21:46**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-01-10 13:15**: docs: update traffic signals catalog documentation
