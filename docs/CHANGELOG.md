@@ -1,4 +1,3 @@
-- **2024-12-02 10:20**: chore: organize assets and image directory structure
 - **2024-12-02 13:58**: chore: organize assets and image directory structure
 - **2024-12-02 15:23**: fix: update DOTM Nepal license syllabus questions
 - **2024-12-02 22:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-01-09 21:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-10 13:15**: docs: update traffic signals catalog documentation
 - **2025-01-11 11:47**: style: polish typography and Nepali Unicode font rendering
+- **2025-01-12 10:02**: test: verify question extraction script against exam PDF
