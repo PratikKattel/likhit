@@ -1,4 +1,3 @@
-- **2024-12-02 15:23**: fix: update DOTM Nepal license syllabus questions
 - **2024-12-02 22:05**: feat: add regulatory traffic signs SVG graphics
 - **2024-12-03 11:37**: feat: add regulatory traffic signs SVG graphics
 - **2024-12-03 16:29**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-01-11 11:47**: style: polish typography and Nepali Unicode font rendering
 - **2025-01-12 10:02**: test: verify question extraction script against exam PDF
 - **2025-01-12 11:52**: chore: organize assets and image directory structure
+- **2025-01-13 14:59**: feat: support multiple choice questions for motorcycle category
