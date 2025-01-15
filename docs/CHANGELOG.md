@@ -1,4 +1,3 @@
-- **2024-12-03 11:37**: feat: add regulatory traffic signs SVG graphics
 - **2024-12-03 16:29**: chore: format code style and clean up redundant variables
 - **2024-12-03 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-12-03 21:10**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-01-12 11:52**: chore: organize assets and image directory structure
 - **2025-01-13 14:59**: feat: support multiple choice questions for motorcycle category
 - **2025-01-14 10:13**: fix: correct color specifications for mandatory traffic signs
+- **2025-01-15 21:44**: feat: add category A and B traffic test questions
