@@ -1,4 +1,3 @@
-- **2024-12-03 17:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-12-03 21:10**: fix: prevent option re-selection after submitting answer
 - **2024-12-04 09:17**: test: verify question extraction script against exam PDF
 - **2024-12-04 19:03**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2025-01-14 10:13**: fix: correct color specifications for mandatory traffic signs
 - **2025-01-15 21:44**: feat: add category A and B traffic test questions
 - **2025-01-16 15:38**: refactor: optimize SVG rendering for road signs
+- **2025-01-16 16:17**: feat: add warning signs and informational road signs
