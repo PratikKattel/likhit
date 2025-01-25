@@ -1,4 +1,3 @@
-- **2024-12-09 15:46**: chore: update questions database with recent DOTM updates
 - **2024-12-09 21:07**: style: enhance traffic sign card layout and responsiveness
 - **2024-12-10 14:13**: feat: add warning signs and informational road signs
 - **2024-12-10 14:15**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-01-23 20:58**: test: verify question extraction script against exam PDF
 - **2025-01-24 16:41**: feat: add category-specific practice modes
 - **2025-01-24 22:27**: refactor: modularize traffic app logic and event listeners
+- **2025-01-25 18:09**: style: improve dark/light mode and mobile UI responsiveness
