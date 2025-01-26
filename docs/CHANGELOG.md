@@ -1,4 +1,3 @@
-- **2024-12-09 21:07**: style: enhance traffic sign card layout and responsiveness
 - **2024-12-10 14:13**: feat: add warning signs and informational road signs
 - **2024-12-10 14:15**: style: improve dark/light mode and mobile UI responsiveness
 - **2024-12-11 11:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2025-01-24 16:41**: feat: add category-specific practice modes
 - **2025-01-24 22:27**: refactor: modularize traffic app logic and event listeners
 - **2025-01-25 18:09**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-01-26 20:21**: test: verify question extraction script against exam PDF
