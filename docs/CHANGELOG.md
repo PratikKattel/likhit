@@ -1,4 +1,3 @@
-- **2024-12-11 13:30**: feat: add keyboard navigation shortcuts for question selection
 - **2024-12-12 22:07**: refactor: modularize traffic app logic and event listeners
 - **2024-12-13 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-12-14 11:42**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-01-27 11:37**: feat: add category A and B traffic test questions
 - **2025-01-27 11:43**: refactor: optimize SVG rendering for road signs
 - **2025-01-28 13:31**: fix: correct color specifications for mandatory traffic signs
+- **2025-01-28 19:30**: docs: add instructions for Nepali driving license written exam
