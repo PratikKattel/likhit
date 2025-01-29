@@ -1,4 +1,3 @@
-- **2024-12-13 21:22**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2024-12-14 11:42**: feat: add regulatory traffic signs SVG graphics
 - **2024-12-14 19:16**: perf: optimize image caching for traffic sign assets
 - **2024-12-15 16:56**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-01-28 13:31**: fix: correct color specifications for mandatory traffic signs
 - **2025-01-28 19:30**: docs: add instructions for Nepali driving license written exam
 - **2025-01-29 15:03**: chore: update project metadata and build configuration
+- **2025-01-29 15:04**: docs: update traffic signals catalog documentation
