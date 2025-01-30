@@ -1,4 +1,3 @@
-- **2024-12-14 19:16**: perf: optimize image caching for traffic sign assets
 - **2024-12-15 16:56**: fix: typo in Nepali road safety regulations question
 - **2024-12-16 11:15**: fix: typo in Nepali road safety regulations question
 - **2024-12-16 16:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-01-29 15:03**: chore: update project metadata and build configuration
 - **2025-01-29 15:04**: docs: update traffic signals catalog documentation
 - **2025-01-29 17:37**: docs: add instructions for Nepali driving license written exam
+- **2025-01-30 09:43**: style: polish typography and Nepali Unicode font rendering
