@@ -1,4 +1,3 @@
-- **2024-12-16 16:51**: perf: index question IDs for rapid lookup
 - **2024-12-17 17:47**: fix: adjust passing score threshold according to new rules
 - **2024-12-17 19:45**: chore: format code style and clean up redundant variables
 - **2024-12-17 20:04**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-01-30 09:43**: style: polish typography and Nepali Unicode font rendering
 - **2025-01-30 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-31 20:23**: style: enhance traffic sign card layout and responsiveness
+- **2025-02-01 13:48**: docs: improve code comments and API documentation
