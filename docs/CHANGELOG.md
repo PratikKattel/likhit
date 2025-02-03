@@ -1,4 +1,3 @@
-- **2024-12-17 20:04**: fix: resolve layout shift during question transitions
 - **2024-12-18 18:19**: docs: update traffic signals catalog documentation
 - **2024-12-19 11:05**: feat: add search and filter by sign category
 - **2024-12-19 18:05**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-02-01 13:48**: docs: improve code comments and API documentation
 - **2025-02-01 14:47**: refactor: optimize SVG rendering for road signs
 - **2025-02-02 11:42**: refactor: restructure question data schema for faster loading
+- **2025-02-03 09:56**: feat: add result summary with passing threshold analysis
