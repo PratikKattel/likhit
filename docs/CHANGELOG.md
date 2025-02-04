@@ -1,4 +1,3 @@
-- **2024-12-19 11:05**: feat: add search and filter by sign category
 - **2024-12-19 18:05**: chore: organize assets and image directory structure
 - **2024-12-19 21:21**: chore: update project metadata and build configuration
 - **2024-12-20 14:11**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-02-02 11:42**: refactor: restructure question data schema for faster loading
 - **2025-02-03 09:56**: feat: add result summary with passing threshold analysis
 - **2025-02-03 14:08**: docs: update README with setup instructions and feature list
+- **2025-02-04 15:32**: feat: add warning signs and informational road signs
