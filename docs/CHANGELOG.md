@@ -1,4 +1,3 @@
-- **2024-12-20 14:11**: fix: prevent option re-selection after submitting answer
 - **2024-12-20 19:42**: docs: update traffic signals catalog documentation
 - **2024-12-21 12:37**: chore: organize assets and image directory structure
 - **2024-12-21 15:56**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-02-04 15:32**: feat: add warning signs and informational road signs
 - **2025-02-04 22:09**: feat: add category-specific practice modes
 - **2025-02-05 13:04**: refactor: restructure question data schema for faster loading
+- **2025-02-06 16:06**: refactor: clean up unused CSS classes and optimize stylesheet
