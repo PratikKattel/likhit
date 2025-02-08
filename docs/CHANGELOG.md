@@ -1,4 +1,3 @@
-- **2024-12-22 09:52**: chore: organize assets and image directory structure
 - **2024-12-22 13:06**: chore: organize assets and image directory structure
 - **2024-12-22 21:18**: feat: add category-specific practice modes
 - **2024-12-23 17:34**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2025-02-07 13:22**: feat: add regulatory traffic signs SVG graphics
 - **2025-02-07 18:55**: feat: add keyboard navigation shortcuts for question selection
 - **2025-02-08 10:02**: feat: add keyboard navigation shortcuts for question selection
+- **2025-02-08 21:38**: docs: improve code comments and API documentation
