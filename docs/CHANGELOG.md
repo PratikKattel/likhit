@@ -1,4 +1,3 @@
-- **2024-12-21 17:57**: perf: lazy load signal graphics and question assets
 - **2024-12-22 09:52**: chore: organize assets and image directory structure
 - **2024-12-22 13:06**: chore: organize assets and image directory structure
 - **2024-12-22 21:18**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-02-06 17:44**: fix: update DOTM Nepal license syllabus questions
 - **2025-02-07 13:22**: feat: add regulatory traffic signs SVG graphics
 - **2025-02-07 18:55**: feat: add keyboard navigation shortcuts for question selection
+- **2025-02-08 10:02**: feat: add keyboard navigation shortcuts for question selection
