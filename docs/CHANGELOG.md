@@ -1,4 +1,3 @@
-- **2024-12-23 17:34**: docs: update README with setup instructions and feature list
 - **2024-12-24 17:13**: chore: update project metadata and build configuration
 - **2024-12-24 18:49**: feat: add category-specific practice modes
 - **2024-12-25 09:01**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-02-08 21:38**: docs: improve code comments and API documentation
 - **2025-02-09 15:02**: refactor: optimize SVG rendering for road signs
 - **2025-02-09 16:03**: feat: add category-specific practice modes
+- **2025-02-10 15:50**: fix: prevent option re-selection after submitting answer
