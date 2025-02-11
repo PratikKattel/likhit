@@ -1,4 +1,3 @@
-- **2024-12-24 17:13**: chore: update project metadata and build configuration
 - **2024-12-24 18:49**: feat: add category-specific practice modes
 - **2024-12-25 09:01**: fix: resolve layout shift during question transitions
 - **2024-12-25 09:16**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-02-09 15:02**: refactor: optimize SVG rendering for road signs
 - **2025-02-09 16:03**: feat: add category-specific practice modes
 - **2025-02-10 15:50**: fix: prevent option re-selection after submitting answer
+- **2025-02-11 10:38**: feat: implement timer and score calculation for mock test
