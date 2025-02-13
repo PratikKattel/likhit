@@ -1,4 +1,3 @@
-- **2024-12-25 09:01**: fix: resolve layout shift during question transitions
 - **2024-12-25 09:16**: feat: add keyboard navigation shortcuts for question selection
 - **2024-12-25 14:03**: chore: format code style and clean up redundant variables
 - **2024-12-25 22:03**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-02-10 15:50**: fix: prevent option re-selection after submitting answer
 - **2025-02-11 10:38**: feat: implement timer and score calculation for mock test
 - **2025-02-12 21:03**: docs: improve code comments and API documentation
+- **2025-02-13 10:19**: feat: implement timer and score calculation for mock test
