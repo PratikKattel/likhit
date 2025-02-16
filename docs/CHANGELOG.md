@@ -1,4 +1,3 @@
-- **2024-12-28 12:15**: perf: optimize image caching for traffic sign assets
 - **2024-12-28 18:29**: feat: add search and filter by sign category
 - **2024-12-29 12:42**: feat: add instant feedback and explanation on answer selection
 - **2024-12-29 18:00**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-02-15 11:16**: docs: add instructions for Nepali driving license written exam
 - **2025-02-16 11:13**: fix: correct color specifications for mandatory traffic signs
 - **2025-02-16 15:25**: feat: add warning signs and informational road signs
+- **2025-02-16 21:55**: fix: resolve layout shift during question transitions
