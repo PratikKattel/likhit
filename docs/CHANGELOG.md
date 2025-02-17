@@ -1,4 +1,3 @@
-- **2024-12-29 12:42**: feat: add instant feedback and explanation on answer selection
 - **2024-12-29 18:00**: docs: improve code comments and API documentation
 - **2024-12-29 20:52**: chore: update questions database with recent DOTM updates
 - **2024-12-29 22:17**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-02-16 15:25**: feat: add warning signs and informational road signs
 - **2025-02-16 21:55**: fix: resolve layout shift during question transitions
 - **2025-02-17 15:21**: perf: index question IDs for rapid lookup
+- **2025-02-17 21:23**: feat: add category-specific practice modes
