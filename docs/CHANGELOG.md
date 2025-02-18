@@ -1,4 +1,3 @@
-- **2024-12-29 18:00**: docs: improve code comments and API documentation
 - **2024-12-29 20:52**: chore: update questions database with recent DOTM updates
 - **2024-12-29 22:17**: feat: support multiple choice questions for motorcycle category
 - **2024-12-30 18:38**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-02-16 21:55**: fix: resolve layout shift during question transitions
 - **2025-02-17 15:21**: perf: index question IDs for rapid lookup
 - **2025-02-17 21:23**: feat: add category-specific practice modes
+- **2025-02-18 12:17**: feat: add search and filter by sign category
