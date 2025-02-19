@@ -1,4 +1,3 @@
-- **2024-12-29 22:17**: feat: support multiple choice questions for motorcycle category
 - **2024-12-30 18:38**: fix: typo in Nepali road safety regulations question
 - **2024-12-31 11:21**: feat: add warning signs and informational road signs
 - **2025-01-01 10:00**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-02-17 21:23**: feat: add category-specific practice modes
 - **2025-02-18 12:17**: feat: add search and filter by sign category
 - **2025-02-18 16:40**: feat: implement timer and score calculation for mock test
+- **2025-02-19 17:20**: fix: prevent option re-selection after submitting answer
