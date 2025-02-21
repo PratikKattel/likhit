@@ -1,4 +1,3 @@
-- **2024-12-31 11:21**: feat: add warning signs and informational road signs
 - **2025-01-01 10:00**: refactor: modularize traffic app logic and event listeners
 - **2025-01-02 15:45**: test: verify question extraction script against exam PDF
 - **2025-01-03 12:59**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-02-18 16:40**: feat: implement timer and score calculation for mock test
 - **2025-02-19 17:20**: fix: prevent option re-selection after submitting answer
 - **2025-02-20 16:11**: feat: add category-specific practice modes
+- **2025-02-21 14:41**: docs: improve code comments and API documentation
