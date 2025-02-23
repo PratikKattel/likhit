@@ -1,4 +1,3 @@
-- **2025-01-02 15:45**: test: verify question extraction script against exam PDF
 - **2025-01-03 12:59**: feat: add warning signs and informational road signs
 - **2025-01-03 17:17**: fix: update DOTM Nepal license syllabus questions
 - **2025-01-04 13:47**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-02-20 16:11**: feat: add category-specific practice modes
 - **2025-02-21 14:41**: docs: improve code comments and API documentation
 - **2025-02-22 09:44**: chore: organize assets and image directory structure
+- **2025-02-23 10:27**: test: verify question extraction script against exam PDF
