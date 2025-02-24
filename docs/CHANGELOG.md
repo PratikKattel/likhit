@@ -1,4 +1,3 @@
-- **2025-01-03 17:17**: fix: update DOTM Nepal license syllabus questions
 - **2025-01-04 13:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-01-05 17:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-05 18:05**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-02-22 09:44**: chore: organize assets and image directory structure
 - **2025-02-23 10:27**: test: verify question extraction script against exam PDF
 - **2025-02-23 14:32**: style: enhance traffic sign card layout and responsiveness
+- **2025-02-24 17:01**: docs: update traffic signals catalog documentation
