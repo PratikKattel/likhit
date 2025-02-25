@@ -1,4 +1,3 @@
-- **2025-01-05 17:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-05 18:05**: chore: organize assets and image directory structure
 - **2025-01-05 21:12**: feat: implement timer and score calculation for mock test
 - **2025-01-06 11:30**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-02-23 14:32**: style: enhance traffic sign card layout and responsiveness
 - **2025-02-24 17:01**: docs: update traffic signals catalog documentation
 - **2025-02-24 17:49**: feat: add warning signs and informational road signs
+- **2025-02-25 10:43**: style: polish typography and Nepali Unicode font rendering
