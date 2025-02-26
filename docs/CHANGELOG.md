@@ -1,4 +1,3 @@
-- **2025-01-08 13:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-01-09 10:56**: feat: add category-specific practice modes
 - **2025-01-09 21:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-10 13:15**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2025-02-25 20:57**: test: verify question extraction script against exam PDF
 - **2025-02-26 11:50**: chore: organize assets and image directory structure
 - **2025-02-26 15:22**: fix: correct color specifications for mandatory traffic signs
+- **2025-02-26 18:35**: docs: add instructions for Nepali driving license written exam
