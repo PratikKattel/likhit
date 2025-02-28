@@ -1,4 +1,3 @@
-- **2025-01-09 21:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-10 13:15**: docs: update traffic signals catalog documentation
 - **2025-01-11 11:47**: style: polish typography and Nepali Unicode font rendering
 - **2025-01-12 10:02**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-02-26 15:22**: fix: correct color specifications for mandatory traffic signs
 - **2025-02-26 18:35**: docs: add instructions for Nepali driving license written exam
 - **2025-02-27 14:16**: refactor: restructure question data schema for faster loading
+- **2025-02-28 19:03**: refactor: optimize SVG rendering for road signs
