@@ -1,4 +1,3 @@
-- **2025-01-11 11:47**: style: polish typography and Nepali Unicode font rendering
 - **2025-01-12 10:02**: test: verify question extraction script against exam PDF
 - **2025-01-12 11:52**: chore: organize assets and image directory structure
 - **2025-01-13 14:59**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-02-27 14:16**: refactor: restructure question data schema for faster loading
 - **2025-02-28 19:03**: refactor: optimize SVG rendering for road signs
 - **2025-03-01 13:37**: perf: lazy load signal graphics and question assets
+- **2025-03-02 18:10**: refactor: optimize SVG rendering for road signs
