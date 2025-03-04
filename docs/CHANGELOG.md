@@ -1,4 +1,3 @@
-- **2025-01-14 10:13**: fix: correct color specifications for mandatory traffic signs
 - **2025-01-15 21:44**: feat: add category A and B traffic test questions
 - **2025-01-16 15:38**: refactor: optimize SVG rendering for road signs
 - **2025-01-16 16:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-03-03 16:11**: feat: add warning signs and informational road signs
 - **2025-03-03 21:47**: feat: add warning signs and informational road signs
 - **2025-03-04 17:00**: feat: add instant feedback and explanation on answer selection
+- **2025-03-04 21:54**: feat: add keyboard navigation shortcuts for question selection
