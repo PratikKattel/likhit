@@ -1,4 +1,3 @@
-- **2025-01-16 15:38**: refactor: optimize SVG rendering for road signs
 - **2025-01-16 16:17**: feat: add warning signs and informational road signs
 - **2025-01-16 20:55**: feat: add keyboard navigation shortcuts for question selection
 - **2025-01-17 09:05**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-03-04 17:00**: feat: add instant feedback and explanation on answer selection
 - **2025-03-04 21:54**: feat: add keyboard navigation shortcuts for question selection
 - **2025-03-05 11:29**: feat: add keyboard navigation shortcuts for question selection
+- **2025-03-06 22:21**: style: enhance traffic sign card layout and responsiveness
