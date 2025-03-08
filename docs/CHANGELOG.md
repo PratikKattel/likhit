@@ -1,4 +1,3 @@
-- **2025-01-17 09:05**: test: verify question extraction script against exam PDF
 - **2025-01-17 15:16**: fix: resolve layout shift during question transitions
 - **2025-01-18 15:03**: refactor: modularize traffic app logic and event listeners
 - **2025-01-19 09:17**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-03-06 22:21**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-07 13:10**: chore: organize assets and image directory structure
 - **2025-03-08 13:58**: fix: typo in Nepali road safety regulations question
+- **2025-03-08 14:39**: perf: lazy load signal graphics and question assets
