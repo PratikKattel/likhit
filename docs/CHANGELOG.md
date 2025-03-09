@@ -1,4 +1,3 @@
-- **2025-01-19 09:17**: test: verify question extraction script against exam PDF
 - **2025-01-20 12:52**: fix: correct color specifications for mandatory traffic signs
 - **2025-01-21 20:20**: perf: lazy load signal graphics and question assets
 - **2025-01-22 11:22**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2025-03-08 14:39**: perf: lazy load signal graphics and question assets
 - **2025-03-08 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-03-09 15:50**: fix: update DOTM Nepal license syllabus questions
+- **2025-03-09 18:40**: perf: index question IDs for rapid lookup
