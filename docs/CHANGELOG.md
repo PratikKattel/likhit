@@ -1,4 +1,3 @@
-- **2025-01-22 11:22**: feat: add result summary with passing threshold analysis
 - **2025-01-22 19:12**: chore: organize assets and image directory structure
 - **2025-01-23 20:58**: test: verify question extraction script against exam PDF
 - **2025-01-24 16:41**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-03-09 18:40**: perf: index question IDs for rapid lookup
 - **2025-03-10 09:10**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-10 18:50**: style: polish typography and Nepali Unicode font rendering
+- **2025-03-11 19:07**: feat: support multiple choice questions for motorcycle category
