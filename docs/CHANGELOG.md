@@ -1,4 +1,3 @@
-- **2025-01-25 18:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-01-26 20:21**: test: verify question extraction script against exam PDF
 - **2025-01-27 11:37**: feat: add category A and B traffic test questions
 - **2025-01-27 11:43**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-03-12 18:24**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-13 10:58**: feat: add warning signs and informational road signs
 - **2025-03-13 12:22**: chore: format code style and clean up redundant variables
+- **2025-03-13 20:49**: feat: add regulatory traffic signs SVG graphics
