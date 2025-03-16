@@ -1,4 +1,3 @@
-- **2025-01-29 17:37**: docs: add instructions for Nepali driving license written exam
 - **2025-01-30 09:43**: style: polish typography and Nepali Unicode font rendering
 - **2025-01-30 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-31 20:23**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-03-15 14:53**: fix: update DOTM Nepal license syllabus questions
 - **2025-03-16 13:38**: chore: format code style and clean up redundant variables
 - **2025-03-16 13:47**: docs: improve code comments and API documentation
+- **2025-03-16 16:07**: test: verify question extraction script against exam PDF
