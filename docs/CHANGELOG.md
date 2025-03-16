@@ -1,4 +1,3 @@
-- **2025-01-29 15:03**: chore: update project metadata and build configuration
 - **2025-01-29 15:04**: docs: update traffic signals catalog documentation
 - **2025-01-29 17:37**: docs: add instructions for Nepali driving license written exam
 - **2025-01-30 09:43**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-03-14 17:59**: fix: update DOTM Nepal license syllabus questions
 - **2025-03-14 21:15**: perf: optimize image caching for traffic sign assets
 - **2025-03-15 14:53**: fix: update DOTM Nepal license syllabus questions
+- **2025-03-16 13:38**: chore: format code style and clean up redundant variables
