@@ -1,4 +1,3 @@
-- **2025-01-30 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-01-31 20:23**: style: enhance traffic sign card layout and responsiveness
 - **2025-02-01 13:48**: docs: improve code comments and API documentation
 - **2025-02-01 14:47**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-03-16 13:47**: docs: improve code comments and API documentation
 - **2025-03-16 16:07**: test: verify question extraction script against exam PDF
 - **2025-03-17 12:52**: perf: lazy load signal graphics and question assets
+- **2025-03-17 17:54**: chore: format code style and clean up redundant variables
