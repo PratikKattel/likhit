@@ -1,4 +1,3 @@
-- **2025-02-01 14:47**: refactor: optimize SVG rendering for road signs
 - **2025-02-02 11:42**: refactor: restructure question data schema for faster loading
 - **2025-02-03 09:56**: feat: add result summary with passing threshold analysis
 - **2025-02-03 14:08**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2025-03-17 17:54**: chore: format code style and clean up redundant variables
 - **2025-03-17 20:21**: feat: add instant feedback and explanation on answer selection
 - **2025-03-17 20:50**: style: polish typography and Nepali Unicode font rendering
+- **2025-03-18 20:03**: style: improve dark/light mode and mobile UI responsiveness
