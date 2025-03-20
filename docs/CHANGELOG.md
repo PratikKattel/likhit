@@ -1,4 +1,3 @@
-- **2025-02-03 14:08**: docs: update README with setup instructions and feature list
 - **2025-02-04 15:32**: feat: add warning signs and informational road signs
 - **2025-02-04 22:09**: feat: add category-specific practice modes
 - **2025-02-05 13:04**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-03-18 20:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-03-19 09:24**: test: verify question extraction script against exam PDF
 - **2025-03-19 22:04**: feat: add instant feedback and explanation on answer selection
+- **2025-03-20 15:25**: fix: resolve layout shift during question transitions
