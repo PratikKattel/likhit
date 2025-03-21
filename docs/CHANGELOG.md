@@ -1,4 +1,3 @@
-- **2025-02-04 22:09**: feat: add category-specific practice modes
 - **2025-02-05 13:04**: refactor: restructure question data schema for faster loading
 - **2025-02-06 16:06**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-02-06 17:44**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-03-19 22:04**: feat: add instant feedback and explanation on answer selection
 - **2025-03-20 15:25**: fix: resolve layout shift during question transitions
 - **2025-03-20 21:11**: chore: organize assets and image directory structure
+- **2025-03-21 19:27**: feat: add search and filter by sign category
