@@ -1,4 +1,3 @@
-- **2025-02-06 17:44**: fix: update DOTM Nepal license syllabus questions
 - **2025-02-07 13:22**: feat: add regulatory traffic signs SVG graphics
 - **2025-02-07 18:55**: feat: add keyboard navigation shortcuts for question selection
 - **2025-02-08 10:02**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-03-21 19:27**: feat: add search and filter by sign category
 - **2025-03-21 22:25**: perf: lazy load signal graphics and question assets
 - **2025-03-22 12:47**: style: enhance traffic sign card layout and responsiveness
+- **2025-03-23 13:57**: test: verify question extraction script against exam PDF
