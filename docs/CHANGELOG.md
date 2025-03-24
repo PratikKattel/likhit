@@ -1,4 +1,3 @@
-- **2025-02-08 10:02**: feat: add keyboard navigation shortcuts for question selection
 - **2025-02-08 21:38**: docs: improve code comments and API documentation
 - **2025-02-09 15:02**: refactor: optimize SVG rendering for road signs
 - **2025-02-09 16:03**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-03-23 13:57**: test: verify question extraction script against exam PDF
 - **2025-03-23 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-24 16:16**: style: polish typography and Nepali Unicode font rendering
+- **2025-03-24 19:36**: docs: update traffic signals catalog documentation
