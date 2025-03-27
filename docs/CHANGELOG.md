@@ -1,4 +1,3 @@
-- **2025-02-11 10:38**: feat: implement timer and score calculation for mock test
 - **2025-02-12 21:03**: docs: improve code comments and API documentation
 - **2025-02-13 10:19**: feat: implement timer and score calculation for mock test
 - **2025-02-13 18:51**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-03-25 16:51**: fix: adjust passing score threshold according to new rules
 - **2025-03-26 15:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-03-27 09:14**: feat: add search and filter by sign category
+- **2025-03-27 10:15**: style: enhance traffic sign card layout and responsiveness
