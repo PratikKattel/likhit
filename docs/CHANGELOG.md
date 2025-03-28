@@ -1,4 +1,3 @@
-- **2025-02-13 10:19**: feat: implement timer and score calculation for mock test
 - **2025-02-13 18:51**: fix: typo in Nepali road safety regulations question
 - **2025-02-14 11:35**: refactor: optimize SVG rendering for road signs
 - **2025-02-14 18:58**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-03-27 09:14**: feat: add search and filter by sign category
 - **2025-03-27 10:15**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-28 13:01**: test: verify question extraction script against exam PDF
+- **2025-03-28 18:18**: chore: update questions database with recent DOTM updates
