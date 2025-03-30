@@ -1,4 +1,3 @@
-- **2025-02-14 11:35**: refactor: optimize SVG rendering for road signs
 - **2025-02-14 18:58**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-02-15 11:16**: docs: add instructions for Nepali driving license written exam
 - **2025-02-16 11:13**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2025-03-28 13:01**: test: verify question extraction script against exam PDF
 - **2025-03-28 18:18**: chore: update questions database with recent DOTM updates
 - **2025-03-29 11:53**: chore: format code style and clean up redundant variables
+- **2025-03-30 20:36**: feat: add category A and B traffic test questions
