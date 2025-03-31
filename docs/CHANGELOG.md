@@ -1,4 +1,3 @@
-- **2025-02-15 11:16**: docs: add instructions for Nepali driving license written exam
 - **2025-02-16 11:13**: fix: correct color specifications for mandatory traffic signs
 - **2025-02-16 15:25**: feat: add warning signs and informational road signs
 - **2025-02-16 21:55**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-03-29 11:53**: chore: format code style and clean up redundant variables
 - **2025-03-30 20:36**: feat: add category A and B traffic test questions
 - **2025-03-31 11:44**: docs: update README with setup instructions and feature list
+- **2025-03-31 14:36**: perf: optimize image caching for traffic sign assets
