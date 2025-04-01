@@ -1,4 +1,3 @@
-- **2025-02-16 21:55**: fix: resolve layout shift during question transitions
 - **2025-02-17 15:21**: perf: index question IDs for rapid lookup
 - **2025-02-17 21:23**: feat: add category-specific practice modes
 - **2025-02-18 12:17**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-03-31 14:36**: perf: optimize image caching for traffic sign assets
 - **2025-03-31 20:32**: feat: add category-specific practice modes
 - **2025-04-01 16:25**: fix: prevent option re-selection after submitting answer
+- **2025-04-01 20:49**: feat: add category-specific practice modes
