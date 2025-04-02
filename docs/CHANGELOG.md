@@ -1,4 +1,3 @@
-- **2025-02-17 21:23**: feat: add category-specific practice modes
 - **2025-02-18 12:17**: feat: add search and filter by sign category
 - **2025-02-18 16:40**: feat: implement timer and score calculation for mock test
 - **2025-02-19 17:20**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-04-01 16:25**: fix: prevent option re-selection after submitting answer
 - **2025-04-01 20:49**: feat: add category-specific practice modes
 - **2025-04-02 16:29**: chore: update project metadata and build configuration
+- **2025-04-02 16:46**: feat: implement timer and score calculation for mock test
