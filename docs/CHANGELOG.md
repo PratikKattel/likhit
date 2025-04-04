@@ -1,4 +1,3 @@
-- **2025-02-19 17:20**: fix: prevent option re-selection after submitting answer
 - **2025-02-20 16:11**: feat: add category-specific practice modes
 - **2025-02-21 14:41**: docs: improve code comments and API documentation
 - **2025-02-22 09:44**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-04-02 16:46**: feat: implement timer and score calculation for mock test
 - **2025-04-03 18:44**: chore: update questions database with recent DOTM updates
 - **2025-04-03 20:51**: chore: update questions database with recent DOTM updates
+- **2025-04-04 15:36**: fix: prevent option re-selection after submitting answer
