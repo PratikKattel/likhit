@@ -1,4 +1,3 @@
-- **2025-02-21 14:41**: docs: improve code comments and API documentation
 - **2025-02-22 09:44**: chore: organize assets and image directory structure
 - **2025-02-23 10:27**: test: verify question extraction script against exam PDF
 - **2025-02-23 14:32**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-04-03 20:51**: chore: update questions database with recent DOTM updates
 - **2025-04-04 15:36**: fix: prevent option re-selection after submitting answer
 - **2025-04-05 13:58**: feat: add keyboard navigation shortcuts for question selection
+- **2025-04-06 17:27**: chore: update questions database with recent DOTM updates
