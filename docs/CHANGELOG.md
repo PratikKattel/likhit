@@ -1,4 +1,3 @@
-- **2025-02-24 17:01**: docs: update traffic signals catalog documentation
 - **2025-02-24 17:49**: feat: add warning signs and informational road signs
 - **2025-02-25 10:43**: style: polish typography and Nepali Unicode font rendering
 - **2025-02-25 11:11**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-04-07 15:02**: fix: prevent option re-selection after submitting answer
 - **2025-04-07 17:00**: chore: update project metadata and build configuration
 - **2025-04-08 11:13**: refactor: modularize traffic app logic and event listeners
+- **2025-04-08 16:06**: style: polish typography and Nepali Unicode font rendering
