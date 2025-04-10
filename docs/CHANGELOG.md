@@ -1,4 +1,3 @@
-- **2025-02-25 10:43**: style: polish typography and Nepali Unicode font rendering
 - **2025-02-25 11:11**: feat: support multiple choice questions for motorcycle category
 - **2025-02-25 20:57**: test: verify question extraction script against exam PDF
 - **2025-02-26 11:50**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-04-08 11:13**: refactor: modularize traffic app logic and event listeners
 - **2025-04-08 16:06**: style: polish typography and Nepali Unicode font rendering
 - **2025-04-09 14:03**: perf: lazy load signal graphics and question assets
+- **2025-04-10 17:31**: feat: support multiple choice questions for motorcycle category
