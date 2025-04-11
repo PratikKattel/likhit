@@ -1,4 +1,3 @@
-- **2025-02-26 11:50**: chore: organize assets and image directory structure
 - **2025-02-26 15:22**: fix: correct color specifications for mandatory traffic signs
 - **2025-02-26 18:35**: docs: add instructions for Nepali driving license written exam
 - **2025-02-27 14:16**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-04-10 17:31**: feat: support multiple choice questions for motorcycle category
 - **2025-04-11 17:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-11 19:11**: perf: lazy load signal graphics and question assets
+- **2025-04-11 21:09**: feat: support multiple choice questions for motorcycle category
