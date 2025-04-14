@@ -1,4 +1,3 @@
-- **2025-03-02 18:10**: refactor: optimize SVG rendering for road signs
 - **2025-03-03 16:11**: feat: add warning signs and informational road signs
 - **2025-03-03 21:47**: feat: add warning signs and informational road signs
 - **2025-03-04 17:00**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2025-04-13 17:51**: chore: update project metadata and build configuration
 - **2025-04-13 21:29**: refactor: modularize traffic app logic and event listeners
 - **2025-04-13 21:40**: docs: improve code comments and API documentation
+- **2025-04-14 19:31**: chore: organize assets and image directory structure
