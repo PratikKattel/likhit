@@ -1,4 +1,3 @@
-- **2025-03-03 21:47**: feat: add warning signs and informational road signs
 - **2025-03-04 17:00**: feat: add instant feedback and explanation on answer selection
 - **2025-03-04 21:54**: feat: add keyboard navigation shortcuts for question selection
 - **2025-03-05 11:29**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-04-13 21:40**: docs: improve code comments and API documentation
 - **2025-04-14 19:31**: chore: organize assets and image directory structure
 - **2025-04-14 21:07**: test: verify question extraction script against exam PDF
+- **2025-04-15 14:43**: docs: add instructions for Nepali driving license written exam
