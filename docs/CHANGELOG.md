@@ -1,4 +1,3 @@
-- **2025-03-05 11:29**: feat: add keyboard navigation shortcuts for question selection
 - **2025-03-06 22:21**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-07 13:10**: chore: organize assets and image directory structure
 - **2025-03-08 13:58**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-04-15 14:43**: docs: add instructions for Nepali driving license written exam
 - **2025-04-15 21:49**: refactor: modularize traffic app logic and event listeners
 - **2025-04-16 09:39**: refactor: modularize traffic app logic and event listeners
+- **2025-04-17 09:55**: perf: lazy load signal graphics and question assets
