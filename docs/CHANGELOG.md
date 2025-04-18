@@ -1,4 +1,3 @@
-- **2025-03-07 13:10**: chore: organize assets and image directory structure
 - **2025-03-08 13:58**: fix: typo in Nepali road safety regulations question
 - **2025-03-08 14:39**: perf: lazy load signal graphics and question assets
 - **2025-03-08 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-04-16 09:39**: refactor: modularize traffic app logic and event listeners
 - **2025-04-17 09:55**: perf: lazy load signal graphics and question assets
 - **2025-04-18 09:42**: refactor: optimize SVG rendering for road signs
+- **2025-04-18 12:50**: style: improve dark/light mode and mobile UI responsiveness
