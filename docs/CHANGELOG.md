@@ -1,4 +1,3 @@
-- **2025-03-08 13:58**: fix: typo in Nepali road safety regulations question
 - **2025-03-08 14:39**: perf: lazy load signal graphics and question assets
 - **2025-03-08 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-03-09 15:50**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-04-17 09:55**: perf: lazy load signal graphics and question assets
 - **2025-04-18 09:42**: refactor: optimize SVG rendering for road signs
 - **2025-04-18 12:50**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-04-18 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
