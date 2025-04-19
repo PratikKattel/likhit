@@ -1,4 +1,3 @@
-- **2025-03-08 14:39**: perf: lazy load signal graphics and question assets
 - **2025-03-08 15:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-03-09 15:50**: fix: update DOTM Nepal license syllabus questions
 - **2025-03-09 18:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-04-18 09:42**: refactor: optimize SVG rendering for road signs
 - **2025-04-18 12:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-18 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-04-19 21:29**: feat: add keyboard navigation shortcuts for question selection
