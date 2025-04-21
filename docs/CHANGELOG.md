@@ -1,4 +1,3 @@
-- **2025-03-09 18:40**: perf: index question IDs for rapid lookup
 - **2025-03-10 09:10**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-10 18:50**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-11 19:07**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-04-19 21:29**: feat: add keyboard navigation shortcuts for question selection
 - **2025-04-20 11:48**: refactor: modularize traffic app logic and event listeners
 - **2025-04-20 19:51**: feat: add regulatory traffic signs SVG graphics
+- **2025-04-21 17:41**: fix: prevent option re-selection after submitting answer
