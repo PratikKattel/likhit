@@ -1,4 +1,3 @@
-- **2025-03-11 19:07**: feat: support multiple choice questions for motorcycle category
 - **2025-03-12 09:06**: feat: add instant feedback and explanation on answer selection
 - **2025-03-12 18:24**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-13 10:58**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-04-21 17:41**: fix: prevent option re-selection after submitting answer
 - **2025-04-21 21:39**: docs: add instructions for Nepali driving license written exam
 - **2025-04-22 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-04-23 13:59**: chore: update questions database with recent DOTM updates
