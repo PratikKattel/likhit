@@ -1,4 +1,3 @@
-- **2025-03-12 18:24**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-13 10:58**: feat: add warning signs and informational road signs
 - **2025-03-13 12:22**: chore: format code style and clean up redundant variables
 - **2025-03-13 20:49**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-04-22 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-23 13:59**: chore: update questions database with recent DOTM updates
 - **2025-04-24 22:23**: perf: lazy load signal graphics and question assets
+- **2025-04-25 12:20**: fix: prevent option re-selection after submitting answer
