@@ -1,4 +1,3 @@
-- **2025-03-13 12:22**: chore: format code style and clean up redundant variables
 - **2025-03-13 20:49**: feat: add regulatory traffic signs SVG graphics
 - **2025-03-14 12:08**: refactor: restructure question data schema for faster loading
 - **2025-03-14 12:20**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-04-24 22:23**: perf: lazy load signal graphics and question assets
 - **2025-04-25 12:20**: fix: prevent option re-selection after submitting answer
 - **2025-04-25 20:42**: fix: update DOTM Nepal license syllabus questions
+- **2025-04-26 13:44**: feat: support multiple choice questions for motorcycle category
