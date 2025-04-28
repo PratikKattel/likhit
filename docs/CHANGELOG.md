@@ -1,4 +1,3 @@
-- **2025-03-14 17:59**: fix: update DOTM Nepal license syllabus questions
 - **2025-03-14 21:15**: perf: optimize image caching for traffic sign assets
 - **2025-03-15 14:53**: fix: update DOTM Nepal license syllabus questions
 - **2025-03-16 13:38**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-04-26 21:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-27 19:20**: docs: add instructions for Nepali driving license written exam
 - **2025-04-27 19:47**: style: enhance traffic sign card layout and responsiveness
+- **2025-04-28 10:32**: style: improve dark/light mode and mobile UI responsiveness
