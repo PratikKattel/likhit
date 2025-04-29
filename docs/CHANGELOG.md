@@ -1,4 +1,3 @@
-- **2025-03-16 13:47**: docs: improve code comments and API documentation
 - **2025-03-16 16:07**: test: verify question extraction script against exam PDF
 - **2025-03-17 12:52**: perf: lazy load signal graphics and question assets
 - **2025-03-17 17:54**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-04-28 13:11**: feat: add keyboard navigation shortcuts for question selection
 - **2025-04-28 16:10**: style: polish typography and Nepali Unicode font rendering
 - **2025-04-29 18:08**: feat: add category A and B traffic test questions
+- **2025-04-29 18:55**: fix: prevent option re-selection after submitting answer
