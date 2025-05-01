@@ -1,4 +1,3 @@
-- **2025-03-17 17:54**: chore: format code style and clean up redundant variables
 - **2025-03-17 20:21**: feat: add instant feedback and explanation on answer selection
 - **2025-03-17 20:50**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-18 20:03**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-04-29 18:55**: fix: prevent option re-selection after submitting answer
 - **2025-04-30 15:00**: docs: add instructions for Nepali driving license written exam
 - **2025-04-30 16:24**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-05-01 09:27**: chore: format code style and clean up redundant variables
