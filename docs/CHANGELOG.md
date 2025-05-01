@@ -1,4 +1,3 @@
-- **2025-03-17 20:21**: feat: add instant feedback and explanation on answer selection
 - **2025-03-17 20:50**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-18 20:03**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-03-19 09:24**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-04-30 15:00**: docs: add instructions for Nepali driving license written exam
 - **2025-04-30 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-01 09:27**: chore: format code style and clean up redundant variables
+- **2025-05-01 10:52**: docs: update README with setup instructions and feature list
