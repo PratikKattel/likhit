@@ -1,4 +1,3 @@
-- **2025-03-19 09:24**: test: verify question extraction script against exam PDF
 - **2025-03-19 22:04**: feat: add instant feedback and explanation on answer selection
 - **2025-03-20 15:25**: fix: resolve layout shift during question transitions
 - **2025-03-20 21:11**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-05-01 10:52**: docs: update README with setup instructions and feature list
 - **2025-05-01 12:07**: feat: add search and filter by sign category
 - **2025-05-02 11:16**: feat: add result summary with passing threshold analysis
+- **2025-05-02 12:48**: chore: update questions database with recent DOTM updates
