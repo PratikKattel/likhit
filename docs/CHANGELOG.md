@@ -1,4 +1,3 @@
-- **2025-03-21 22:25**: perf: lazy load signal graphics and question assets
 - **2025-03-22 12:47**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-23 13:57**: test: verify question extraction script against exam PDF
 - **2025-03-23 14:30**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-05-04 14:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-04 15:25**: test: verify question extraction script against exam PDF
 - **2025-05-04 18:20**: docs: add instructions for Nepali driving license written exam
+- **2025-05-04 18:48**: refactor: restructure question data schema for faster loading
