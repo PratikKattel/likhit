@@ -1,4 +1,3 @@
-- **2025-03-22 12:47**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-23 13:57**: test: verify question extraction script against exam PDF
 - **2025-03-23 14:30**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-24 16:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-05-04 15:25**: test: verify question extraction script against exam PDF
 - **2025-05-04 18:20**: docs: add instructions for Nepali driving license written exam
 - **2025-05-04 18:48**: refactor: restructure question data schema for faster loading
+- **2025-05-05 09:34**: docs: add instructions for Nepali driving license written exam
