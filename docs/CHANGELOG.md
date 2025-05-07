@@ -1,4 +1,3 @@
-- **2025-03-24 16:16**: style: polish typography and Nepali Unicode font rendering
 - **2025-03-24 19:36**: docs: update traffic signals catalog documentation
 - **2025-03-25 14:15**: chore: update project metadata and build configuration
 - **2025-03-25 16:51**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2025-05-05 09:34**: docs: add instructions for Nepali driving license written exam
 - **2025-05-06 13:15**: docs: add instructions for Nepali driving license written exam
 - **2025-05-06 19:20**: chore: update project metadata and build configuration
+- **2025-05-07 19:34**: feat: add regulatory traffic signs SVG graphics
