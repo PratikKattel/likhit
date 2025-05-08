@@ -1,4 +1,3 @@
-- **2025-03-25 14:15**: chore: update project metadata and build configuration
 - **2025-03-25 16:51**: fix: adjust passing score threshold according to new rules
 - **2025-03-26 15:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-03-27 09:14**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-05-06 19:20**: chore: update project metadata and build configuration
 - **2025-05-07 19:34**: feat: add regulatory traffic signs SVG graphics
 - **2025-05-08 12:45**: docs: improve code comments and API documentation
+- **2025-05-08 12:51**: fix: correct color specifications for mandatory traffic signs
