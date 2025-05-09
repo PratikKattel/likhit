@@ -1,4 +1,3 @@
-- **2025-03-27 10:15**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-28 13:01**: test: verify question extraction script against exam PDF
 - **2025-03-28 18:18**: chore: update questions database with recent DOTM updates
 - **2025-03-29 11:53**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-05-08 19:34**: docs: improve code comments and API documentation
 - **2025-05-09 13:36**: fix: adjust passing score threshold according to new rules
 - **2025-05-09 18:43**: style: enhance traffic sign card layout and responsiveness
+- **2025-05-09 19:40**: chore: update project metadata and build configuration
