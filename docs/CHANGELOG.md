@@ -1,4 +1,3 @@
-- **2025-03-26 15:34**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-03-27 09:14**: feat: add search and filter by sign category
 - **2025-03-27 10:15**: style: enhance traffic sign card layout and responsiveness
 - **2025-03-28 13:01**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-05-08 12:45**: docs: improve code comments and API documentation
 - **2025-05-08 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2025-05-08 19:34**: docs: improve code comments and API documentation
+- **2025-05-09 13:36**: fix: adjust passing score threshold according to new rules
