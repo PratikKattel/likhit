@@ -1,4 +1,3 @@
-- **2025-03-29 11:53**: chore: format code style and clean up redundant variables
 - **2025-03-30 20:36**: feat: add category A and B traffic test questions
 - **2025-03-31 11:44**: docs: update README with setup instructions and feature list
 - **2025-03-31 14:36**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2025-05-09 19:40**: chore: update project metadata and build configuration
 - **2025-05-10 10:31**: fix: resolve layout shift during question transitions
 - **2025-05-10 15:27**: fix: update DOTM Nepal license syllabus questions
+- **2025-05-11 10:25**: style: improve dark/light mode and mobile UI responsiveness
