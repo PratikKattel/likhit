@@ -1,4 +1,3 @@
-- **2025-03-31 14:36**: perf: optimize image caching for traffic sign assets
 - **2025-03-31 20:32**: feat: add category-specific practice modes
 - **2025-04-01 16:25**: fix: prevent option re-selection after submitting answer
 - **2025-04-01 20:49**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-05-11 10:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-12 09:59**: fix: adjust passing score threshold according to new rules
 - **2025-05-13 09:21**: fix: correct color specifications for mandatory traffic signs
+- **2025-05-13 10:35**: fix: resolve layout shift during question transitions
