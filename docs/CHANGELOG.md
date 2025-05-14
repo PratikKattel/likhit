@@ -1,4 +1,3 @@
-- **2025-04-02 16:29**: chore: update project metadata and build configuration
 - **2025-04-02 16:46**: feat: implement timer and score calculation for mock test
 - **2025-04-03 18:44**: chore: update questions database with recent DOTM updates
 - **2025-04-03 20:51**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-05-13 15:55**: docs: add instructions for Nepali driving license written exam
 - **2025-05-14 09:01**: docs: update README with setup instructions and feature list
 - **2025-05-14 11:17**: refactor: restructure question data schema for faster loading
+- **2025-05-14 22:02**: docs: add instructions for Nepali driving license written exam
