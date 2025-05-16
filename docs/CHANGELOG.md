@@ -1,4 +1,3 @@
-- **2025-04-06 17:27**: chore: update questions database with recent DOTM updates
 - **2025-04-07 15:02**: fix: prevent option re-selection after submitting answer
 - **2025-04-07 17:00**: chore: update project metadata and build configuration
 - **2025-04-08 11:13**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-05-15 21:25**: docs: update traffic signals catalog documentation
 - **2025-05-16 16:51**: feat: implement timer and score calculation for mock test
 - **2025-05-16 17:17**: docs: update README with setup instructions and feature list
+- **2025-05-16 19:14**: chore: update project metadata and build configuration
