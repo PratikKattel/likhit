@@ -1,4 +1,3 @@
-- **2025-04-04 15:36**: fix: prevent option re-selection after submitting answer
 - **2025-04-05 13:58**: feat: add keyboard navigation shortcuts for question selection
 - **2025-04-06 17:27**: chore: update questions database with recent DOTM updates
 - **2025-04-07 15:02**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-05-14 22:22**: feat: add category A and B traffic test questions
 - **2025-05-15 15:09**: fix: update DOTM Nepal license syllabus questions
 - **2025-05-15 21:25**: docs: update traffic signals catalog documentation
+- **2025-05-16 16:51**: feat: implement timer and score calculation for mock test
