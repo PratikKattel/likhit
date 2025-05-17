@@ -1,4 +1,3 @@
-- **2025-04-07 15:02**: fix: prevent option re-selection after submitting answer
 - **2025-04-07 17:00**: chore: update project metadata and build configuration
 - **2025-04-08 11:13**: refactor: modularize traffic app logic and event listeners
 - **2025-04-08 16:06**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-05-16 16:51**: feat: implement timer and score calculation for mock test
 - **2025-05-16 17:17**: docs: update README with setup instructions and feature list
 - **2025-05-16 19:14**: chore: update project metadata and build configuration
+- **2025-05-17 10:24**: feat: add result summary with passing threshold analysis
