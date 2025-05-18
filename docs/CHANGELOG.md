@@ -1,4 +1,3 @@
-- **2025-04-08 16:06**: style: polish typography and Nepali Unicode font rendering
 - **2025-04-09 14:03**: perf: lazy load signal graphics and question assets
 - **2025-04-10 17:31**: feat: support multiple choice questions for motorcycle category
 - **2025-04-11 17:43**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-05-17 10:24**: feat: add result summary with passing threshold analysis
 - **2025-05-17 16:34**: feat: add result summary with passing threshold analysis
 - **2025-05-17 21:45**: fix: typo in Nepali road safety regulations question
+- **2025-05-18 10:30**: fix: adjust passing score threshold according to new rules
