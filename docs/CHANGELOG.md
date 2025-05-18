@@ -1,4 +1,3 @@
-- **2025-04-10 17:31**: feat: support multiple choice questions for motorcycle category
 - **2025-04-11 17:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-11 19:11**: perf: lazy load signal graphics and question assets
 - **2025-04-11 21:09**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-05-17 21:45**: fix: typo in Nepali road safety regulations question
 - **2025-05-18 10:30**: fix: adjust passing score threshold according to new rules
 - **2025-05-18 11:22**: fix: prevent option re-selection after submitting answer
+- **2025-05-18 21:48**: fix: resolve layout shift during question transitions
