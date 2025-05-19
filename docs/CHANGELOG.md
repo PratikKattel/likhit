@@ -1,4 +1,3 @@
-- **2025-04-11 19:11**: perf: lazy load signal graphics and question assets
 - **2025-04-11 21:09**: feat: support multiple choice questions for motorcycle category
 - **2025-04-11 22:25**: feat: add regulatory traffic signs SVG graphics
 - **2025-04-12 18:09**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-05-18 11:22**: fix: prevent option re-selection after submitting answer
 - **2025-05-18 21:48**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:03**: fix: resolve layout shift during question transitions
+- **2025-05-19 16:57**: feat: add category-specific practice modes
