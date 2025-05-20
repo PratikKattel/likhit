@@ -1,4 +1,3 @@
-- **2025-04-11 21:09**: feat: support multiple choice questions for motorcycle category
 - **2025-04-11 22:25**: feat: add regulatory traffic signs SVG graphics
 - **2025-04-12 18:09**: refactor: restructure question data schema for faster loading
 - **2025-04-13 17:51**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-05-18 21:48**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:03**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:57**: feat: add category-specific practice modes
+- **2025-05-20 19:44**: style: improve dark/light mode and mobile UI responsiveness
