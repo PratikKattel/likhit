@@ -1,4 +1,3 @@
-- **2025-04-13 21:29**: refactor: modularize traffic app logic and event listeners
 - **2025-04-13 21:40**: docs: improve code comments and API documentation
 - **2025-04-14 19:31**: chore: organize assets and image directory structure
 - **2025-04-14 21:07**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-05-20 21:50**: feat: add instant feedback and explanation on answer selection
 - **2025-05-21 16:56**: refactor: optimize SVG rendering for road signs
 - **2025-05-21 17:50**: docs: update traffic signals catalog documentation
+- **2025-05-22 10:16**: feat: add keyboard navigation shortcuts for question selection
