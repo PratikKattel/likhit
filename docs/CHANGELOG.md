@@ -1,4 +1,3 @@
-- **2025-04-14 21:07**: test: verify question extraction script against exam PDF
 - **2025-04-15 14:43**: docs: add instructions for Nepali driving license written exam
 - **2025-04-15 21:49**: refactor: modularize traffic app logic and event listeners
 - **2025-04-16 09:39**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-05-22 10:16**: feat: add keyboard navigation shortcuts for question selection
 - **2025-05-22 18:59**: perf: lazy load signal graphics and question assets
 - **2025-05-23 15:23**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-05-23 17:38**: style: polish typography and Nepali Unicode font rendering
