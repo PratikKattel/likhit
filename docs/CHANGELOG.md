@@ -1,4 +1,3 @@
-- **2025-04-15 14:43**: docs: add instructions for Nepali driving license written exam
 - **2025-04-15 21:49**: refactor: modularize traffic app logic and event listeners
 - **2025-04-16 09:39**: refactor: modularize traffic app logic and event listeners
 - **2025-04-17 09:55**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2025-05-22 18:59**: perf: lazy load signal graphics and question assets
 - **2025-05-23 15:23**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-23 17:38**: style: polish typography and Nepali Unicode font rendering
+- **2025-05-24 10:53**: perf: optimize image caching for traffic sign assets
