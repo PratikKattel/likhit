@@ -1,4 +1,3 @@
-- **2025-04-17 09:55**: perf: lazy load signal graphics and question assets
 - **2025-04-18 09:42**: refactor: optimize SVG rendering for road signs
 - **2025-04-18 12:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-18 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-05-24 10:53**: perf: optimize image caching for traffic sign assets
 - **2025-05-25 21:52**: feat: add regulatory traffic signs SVG graphics
 - **2025-05-26 14:07**: docs: update README with setup instructions and feature list
+- **2025-05-27 09:20**: style: enhance traffic sign card layout and responsiveness
