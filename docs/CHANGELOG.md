@@ -1,4 +1,3 @@
-- **2025-04-18 12:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-18 15:33**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-19 21:29**: feat: add keyboard navigation shortcuts for question selection
 - **2025-04-20 11:48**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-05-26 14:07**: docs: update README with setup instructions and feature list
 - **2025-05-27 09:20**: style: enhance traffic sign card layout and responsiveness
 - **2025-05-27 16:29**: docs: update README with setup instructions and feature list
+- **2025-05-27 21:40**: feat: support multiple choice questions for motorcycle category
