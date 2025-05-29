@@ -1,4 +1,3 @@
-- **2025-04-20 11:48**: refactor: modularize traffic app logic and event listeners
 - **2025-04-20 19:51**: feat: add regulatory traffic signs SVG graphics
 - **2025-04-21 17:41**: fix: prevent option re-selection after submitting answer
 - **2025-04-21 21:39**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-05-27 21:40**: feat: support multiple choice questions for motorcycle category
 - **2025-05-28 18:23**: docs: improve code comments and API documentation
 - **2025-05-28 21:17**: chore: update questions database with recent DOTM updates
+- **2025-05-29 15:18**: chore: organize assets and image directory structure
