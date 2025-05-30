@@ -1,4 +1,3 @@
-- **2025-04-21 17:41**: fix: prevent option re-selection after submitting answer
 - **2025-04-21 21:39**: docs: add instructions for Nepali driving license written exam
 - **2025-04-22 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-23 13:59**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-05-28 21:17**: chore: update questions database with recent DOTM updates
 - **2025-05-29 15:18**: chore: organize assets and image directory structure
 - **2025-05-30 10:36**: chore: update project metadata and build configuration
+- **2025-05-30 18:41**: perf: index question IDs for rapid lookup
