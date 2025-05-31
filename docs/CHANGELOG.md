@@ -1,4 +1,3 @@
-- **2025-04-22 17:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-04-23 13:59**: chore: update questions database with recent DOTM updates
 - **2025-04-24 22:23**: perf: lazy load signal graphics and question assets
 - **2025-04-25 12:20**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-05-30 10:36**: chore: update project metadata and build configuration
 - **2025-05-30 18:41**: perf: index question IDs for rapid lookup
 - **2025-05-30 19:13**: feat: add instant feedback and explanation on answer selection
+- **2025-05-31 11:38**: fix: update DOTM Nepal license syllabus questions
