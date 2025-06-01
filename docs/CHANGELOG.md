@@ -1,4 +1,3 @@
-- **2025-04-24 22:23**: perf: lazy load signal graphics and question assets
 - **2025-04-25 12:20**: fix: prevent option re-selection after submitting answer
 - **2025-04-25 20:42**: fix: update DOTM Nepal license syllabus questions
 - **2025-04-26 13:44**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2025-05-30 19:13**: feat: add instant feedback and explanation on answer selection
 - **2025-05-31 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-01 12:23**: docs: improve code comments and API documentation
+- **2025-06-01 16:14**: refactor: restructure question data schema for faster loading
