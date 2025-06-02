@@ -1,4 +1,3 @@
-- **2025-04-25 12:20**: fix: prevent option re-selection after submitting answer
 - **2025-04-25 20:42**: fix: update DOTM Nepal license syllabus questions
 - **2025-04-26 13:44**: feat: support multiple choice questions for motorcycle category
 - **2025-04-26 21:16**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-05-31 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-01 12:23**: docs: improve code comments and API documentation
 - **2025-06-01 16:14**: refactor: restructure question data schema for faster loading
+- **2025-06-02 14:27**: fix: prevent option re-selection after submitting answer
