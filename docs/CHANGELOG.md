@@ -1,4 +1,3 @@
-- **2025-04-26 13:44**: feat: support multiple choice questions for motorcycle category
 - **2025-04-26 21:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-27 19:20**: docs: add instructions for Nepali driving license written exam
 - **2025-04-27 19:47**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-06-01 16:14**: refactor: restructure question data schema for faster loading
 - **2025-06-02 14:27**: fix: prevent option re-selection after submitting answer
 - **2025-06-02 17:51**: perf: optimize image caching for traffic sign assets
+- **2025-06-03 09:32**: refactor: modularize traffic app logic and event listeners
