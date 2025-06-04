@@ -1,4 +1,3 @@
-- **2025-04-27 19:20**: docs: add instructions for Nepali driving license written exam
 - **2025-04-27 19:47**: style: enhance traffic sign card layout and responsiveness
 - **2025-04-28 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-28 13:11**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-06-02 17:51**: perf: optimize image caching for traffic sign assets
 - **2025-06-03 09:32**: refactor: modularize traffic app logic and event listeners
 - **2025-06-03 10:53**: fix: adjust passing score threshold according to new rules
+- **2025-06-04 13:20**: chore: update questions database with recent DOTM updates
