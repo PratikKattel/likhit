@@ -1,4 +1,3 @@
-- **2025-04-28 10:32**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-04-28 13:11**: feat: add keyboard navigation shortcuts for question selection
 - **2025-04-28 16:10**: style: polish typography and Nepali Unicode font rendering
 - **2025-04-29 18:08**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2025-06-03 10:53**: fix: adjust passing score threshold according to new rules
 - **2025-06-04 13:20**: chore: update questions database with recent DOTM updates
 - **2025-06-04 15:52**: docs: improve code comments and API documentation
+- **2025-06-05 17:59**: docs: update traffic signals catalog documentation
