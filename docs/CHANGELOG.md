@@ -1,4 +1,3 @@
-- **2025-04-29 18:55**: fix: prevent option re-selection after submitting answer
 - **2025-04-30 15:00**: docs: add instructions for Nepali driving license written exam
 - **2025-04-30 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-01 09:27**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-06-05 20:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-06 11:08**: chore: format code style and clean up redundant variables
 - **2025-06-07 15:40**: fix: update DOTM Nepal license syllabus questions
+- **2025-06-07 18:22**: feat: add result summary with passing threshold analysis
