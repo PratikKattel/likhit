@@ -1,4 +1,3 @@
-- **2025-04-29 18:08**: feat: add category A and B traffic test questions
 - **2025-04-29 18:55**: fix: prevent option re-selection after submitting answer
 - **2025-04-30 15:00**: docs: add instructions for Nepali driving license written exam
 - **2025-04-30 16:24**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-06-05 17:59**: docs: update traffic signals catalog documentation
 - **2025-06-05 20:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-06 11:08**: chore: format code style and clean up redundant variables
+- **2025-06-07 15:40**: fix: update DOTM Nepal license syllabus questions
