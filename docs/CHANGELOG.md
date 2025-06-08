@@ -1,4 +1,3 @@
-- **2025-04-30 16:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-01 09:27**: chore: format code style and clean up redundant variables
 - **2025-05-01 10:52**: docs: update README with setup instructions and feature list
 - **2025-05-01 12:07**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-06-07 15:40**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-07 18:22**: feat: add result summary with passing threshold analysis
 - **2025-06-08 11:46**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-06-08 11:54**: feat: support multiple choice questions for motorcycle category
