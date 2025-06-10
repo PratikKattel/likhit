@@ -1,4 +1,3 @@
-- **2025-05-02 12:48**: chore: update questions database with recent DOTM updates
 - **2025-05-03 18:35**: feat: implement timer and score calculation for mock test
 - **2025-05-04 14:47**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-04 15:25**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-06-09 20:39**: feat: add instant feedback and explanation on answer selection
 - **2025-06-09 22:25**: chore: format code style and clean up redundant variables
 - **2025-06-10 10:48**: docs: update README with setup instructions and feature list
+- **2025-06-10 22:08**: perf: optimize image caching for traffic sign assets
