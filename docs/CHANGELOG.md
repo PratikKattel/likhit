@@ -1,4 +1,3 @@
-- **2025-05-05 09:34**: docs: add instructions for Nepali driving license written exam
 - **2025-05-06 13:15**: docs: add instructions for Nepali driving license written exam
 - **2025-05-06 19:20**: chore: update project metadata and build configuration
 - **2025-05-07 19:34**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-06-13 15:42**: feat: add search and filter by sign category
 - **2025-06-14 16:52**: chore: format code style and clean up redundant variables
 - **2025-06-15 22:07**: fix: correct color specifications for mandatory traffic signs
+- **2025-06-16 15:47**: docs: update traffic signals catalog documentation
