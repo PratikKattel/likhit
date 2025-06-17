@@ -1,4 +1,3 @@
-- **2025-05-07 19:34**: feat: add regulatory traffic signs SVG graphics
 - **2025-05-08 12:45**: docs: improve code comments and API documentation
 - **2025-05-08 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2025-05-08 19:34**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-06-16 15:47**: docs: update traffic signals catalog documentation
 - **2025-06-16 16:20**: fix: correct color specifications for mandatory traffic signs
 - **2025-06-16 20:26**: fix: resolve layout shift during question transitions
+- **2025-06-17 14:03**: feat: add search and filter by sign category
