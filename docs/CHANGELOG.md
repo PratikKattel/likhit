@@ -1,4 +1,3 @@
-- **2025-05-08 19:34**: docs: improve code comments and API documentation
 - **2025-05-09 13:36**: fix: adjust passing score threshold according to new rules
 - **2025-05-09 18:43**: style: enhance traffic sign card layout and responsiveness
 - **2025-05-09 19:40**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-06-17 14:03**: feat: add search and filter by sign category
 - **2025-06-18 10:32**: chore: format code style and clean up redundant variables
 - **2025-06-18 15:16**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-06-18 18:08**: test: verify question extraction script against exam PDF
