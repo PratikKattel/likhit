@@ -1,4 +1,3 @@
-- **2025-05-08 12:45**: docs: improve code comments and API documentation
 - **2025-05-08 12:51**: fix: correct color specifications for mandatory traffic signs
 - **2025-05-08 19:34**: docs: improve code comments and API documentation
 - **2025-05-09 13:36**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2025-06-16 16:20**: fix: correct color specifications for mandatory traffic signs
 - **2025-06-16 20:26**: fix: resolve layout shift during question transitions
 - **2025-06-17 14:03**: feat: add search and filter by sign category
+- **2025-06-18 10:32**: chore: format code style and clean up redundant variables
