@@ -1,4 +1,3 @@
-- **2025-05-09 19:40**: chore: update project metadata and build configuration
 - **2025-05-10 10:31**: fix: resolve layout shift during question transitions
 - **2025-05-10 15:27**: fix: update DOTM Nepal license syllabus questions
 - **2025-05-11 10:25**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-06-18 18:08**: test: verify question extraction script against exam PDF
 - **2025-06-19 10:10**: docs: improve code comments and API documentation
 - **2025-06-19 14:20**: feat: add result summary with passing threshold analysis
+- **2025-06-19 14:35**: fix: prevent option re-selection after submitting answer
