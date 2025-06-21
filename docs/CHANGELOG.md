@@ -1,4 +1,3 @@
-- **2025-05-11 10:25**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-12 09:59**: fix: adjust passing score threshold according to new rules
 - **2025-05-13 09:21**: fix: correct color specifications for mandatory traffic signs
 - **2025-05-13 10:35**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-06-19 14:35**: fix: prevent option re-selection after submitting answer
 - **2025-06-20 13:21**: style: polish typography and Nepali Unicode font rendering
 - **2025-06-20 22:20**: perf: index question IDs for rapid lookup
+- **2025-06-21 18:27**: refactor: optimize SVG rendering for road signs
