@@ -1,4 +1,3 @@
-- **2025-05-12 09:59**: fix: adjust passing score threshold according to new rules
 - **2025-05-13 09:21**: fix: correct color specifications for mandatory traffic signs
 - **2025-05-13 10:35**: fix: resolve layout shift during question transitions
 - **2025-05-13 15:55**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-06-20 13:21**: style: polish typography and Nepali Unicode font rendering
 - **2025-06-20 22:20**: perf: index question IDs for rapid lookup
 - **2025-06-21 18:27**: refactor: optimize SVG rendering for road signs
+- **2025-06-22 16:17**: feat: implement timer and score calculation for mock test
