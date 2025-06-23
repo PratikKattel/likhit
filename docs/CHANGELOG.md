@@ -1,4 +1,3 @@
-- **2025-05-13 15:55**: docs: add instructions for Nepali driving license written exam
 - **2025-05-14 09:01**: docs: update README with setup instructions and feature list
 - **2025-05-14 11:17**: refactor: restructure question data schema for faster loading
 - **2025-05-14 22:02**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-06-22 16:17**: feat: implement timer and score calculation for mock test
 - **2025-06-22 21:01**: fix: prevent option re-selection after submitting answer
 - **2025-06-23 18:20**: style: polish typography and Nepali Unicode font rendering
+- **2025-06-23 20:44**: feat: support multiple choice questions for motorcycle category
