@@ -1,4 +1,3 @@
-- **2025-05-14 22:22**: feat: add category A and B traffic test questions
 - **2025-05-15 15:09**: fix: update DOTM Nepal license syllabus questions
 - **2025-05-15 21:25**: docs: update traffic signals catalog documentation
 - **2025-05-16 16:51**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-06-23 20:54**: feat: add category-specific practice modes
 - **2025-06-24 12:57**: refactor: optimize SVG rendering for road signs
 - **2025-06-24 15:34**: feat: implement timer and score calculation for mock test
+- **2025-06-25 14:01**: fix: prevent option re-selection after submitting answer
