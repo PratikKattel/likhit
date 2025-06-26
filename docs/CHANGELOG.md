@@ -1,4 +1,3 @@
-- **2025-05-15 21:25**: docs: update traffic signals catalog documentation
 - **2025-05-16 16:51**: feat: implement timer and score calculation for mock test
 - **2025-05-16 17:17**: docs: update README with setup instructions and feature list
 - **2025-05-16 19:14**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-06-24 15:34**: feat: implement timer and score calculation for mock test
 - **2025-06-25 14:01**: fix: prevent option re-selection after submitting answer
 - **2025-06-25 17:26**: fix: update DOTM Nepal license syllabus questions
+- **2025-06-26 12:34**: fix: typo in Nepali road safety regulations question
