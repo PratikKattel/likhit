@@ -1,4 +1,3 @@
-- **2025-05-16 19:14**: chore: update project metadata and build configuration
 - **2025-05-17 10:24**: feat: add result summary with passing threshold analysis
 - **2025-05-17 16:34**: feat: add result summary with passing threshold analysis
 - **2025-05-17 21:45**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-06-26 12:34**: fix: typo in Nepali road safety regulations question
 - **2025-06-27 21:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-28 11:34**: refactor: modularize traffic app logic and event listeners
+- **2025-06-28 20:39**: feat: support multiple choice questions for motorcycle category
