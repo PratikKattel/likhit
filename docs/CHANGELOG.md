@@ -1,4 +1,3 @@
-- **2025-05-18 10:30**: fix: adjust passing score threshold according to new rules
 - **2025-05-18 11:22**: fix: prevent option re-selection after submitting answer
 - **2025-05-18 21:48**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:03**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-06-28 21:38**: feat: add regulatory traffic signs SVG graphics
 - **2025-06-29 20:29**: feat: support multiple choice questions for motorcycle category
 - **2025-06-30 22:02**: perf: lazy load signal graphics and question assets
+- **2025-07-01 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
