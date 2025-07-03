@@ -1,4 +1,3 @@
-- **2025-05-18 21:48**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:03**: fix: resolve layout shift during question transitions
 - **2025-05-19 16:57**: feat: add category-specific practice modes
 - **2025-05-20 19:44**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-06-30 22:02**: perf: lazy load signal graphics and question assets
 - **2025-07-01 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-02 19:58**: chore: update project metadata and build configuration
+- **2025-07-03 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
