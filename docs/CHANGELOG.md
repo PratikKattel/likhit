@@ -1,4 +1,3 @@
-- **2025-05-20 19:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-05-20 21:50**: feat: add instant feedback and explanation on answer selection
 - **2025-05-21 16:56**: refactor: optimize SVG rendering for road signs
 - **2025-05-21 17:50**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2025-07-03 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-03 13:49**: refactor: optimize SVG rendering for road signs
 - **2025-07-04 14:34**: chore: update project metadata and build configuration
+- **2025-07-04 18:34**: refactor: optimize SVG rendering for road signs
