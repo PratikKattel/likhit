@@ -1,4 +1,3 @@
-- **2025-05-20 21:50**: feat: add instant feedback and explanation on answer selection
 - **2025-05-21 16:56**: refactor: optimize SVG rendering for road signs
 - **2025-05-21 17:50**: docs: update traffic signals catalog documentation
 - **2025-05-22 10:16**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-07-03 13:49**: refactor: optimize SVG rendering for road signs
 - **2025-07-04 14:34**: chore: update project metadata and build configuration
 - **2025-07-04 18:34**: refactor: optimize SVG rendering for road signs
+- **2025-07-05 21:26**: perf: lazy load signal graphics and question assets
