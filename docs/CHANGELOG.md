@@ -1,4 +1,3 @@
-- **2025-05-21 17:50**: docs: update traffic signals catalog documentation
 - **2025-05-22 10:16**: feat: add keyboard navigation shortcuts for question selection
 - **2025-05-22 18:59**: perf: lazy load signal graphics and question assets
 - **2025-05-23 15:23**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-07-04 18:34**: refactor: optimize SVG rendering for road signs
 - **2025-07-05 21:26**: perf: lazy load signal graphics and question assets
 - **2025-07-06 22:14**: chore: organize assets and image directory structure
+- **2025-07-07 11:34**: feat: add keyboard navigation shortcuts for question selection
