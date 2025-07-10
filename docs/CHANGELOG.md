@@ -1,4 +1,3 @@
-- **2025-05-23 17:38**: style: polish typography and Nepali Unicode font rendering
 - **2025-05-24 10:53**: perf: optimize image caching for traffic sign assets
 - **2025-05-25 21:52**: feat: add regulatory traffic signs SVG graphics
 - **2025-05-26 14:07**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2025-07-08 16:55**: fix: update DOTM Nepal license syllabus questions
 - **2025-07-08 22:09**: fix: resolve layout shift during question transitions
 - **2025-07-09 15:24**: feat: support multiple choice questions for motorcycle category
+- **2025-07-10 17:08**: fix: adjust passing score threshold according to new rules
