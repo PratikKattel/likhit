@@ -1,4 +1,3 @@
-- **2025-05-25 21:52**: feat: add regulatory traffic signs SVG graphics
 - **2025-05-26 14:07**: docs: update README with setup instructions and feature list
 - **2025-05-27 09:20**: style: enhance traffic sign card layout and responsiveness
 - **2025-05-27 16:29**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2025-07-09 15:24**: feat: support multiple choice questions for motorcycle category
 - **2025-07-10 17:08**: fix: adjust passing score threshold according to new rules
 - **2025-07-11 10:01**: feat: support multiple choice questions for motorcycle category
+- **2025-07-11 18:51**: docs: add instructions for Nepali driving license written exam
