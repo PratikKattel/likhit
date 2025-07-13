@@ -1,4 +1,3 @@
-- **2025-05-27 21:40**: feat: support multiple choice questions for motorcycle category
 - **2025-05-28 18:23**: docs: improve code comments and API documentation
 - **2025-05-28 21:17**: chore: update questions database with recent DOTM updates
 - **2025-05-29 15:18**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-07-12 18:35**: chore: update project metadata and build configuration
 - **2025-07-13 15:47**: fix: resolve layout shift during question transitions
 - **2025-07-13 16:05**: perf: lazy load signal graphics and question assets
+- **2025-07-13 20:01**: docs: improve code comments and API documentation
