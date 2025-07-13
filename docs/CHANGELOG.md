@@ -1,4 +1,3 @@
-- **2025-05-27 09:20**: style: enhance traffic sign card layout and responsiveness
 - **2025-05-27 16:29**: docs: update README with setup instructions and feature list
 - **2025-05-27 21:40**: feat: support multiple choice questions for motorcycle category
 - **2025-05-28 18:23**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-07-11 10:01**: feat: support multiple choice questions for motorcycle category
 - **2025-07-11 18:51**: docs: add instructions for Nepali driving license written exam
 - **2025-07-12 18:35**: chore: update project metadata and build configuration
+- **2025-07-13 15:47**: fix: resolve layout shift during question transitions
