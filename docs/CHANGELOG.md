@@ -1,4 +1,3 @@
-- **2025-05-30 10:36**: chore: update project metadata and build configuration
 - **2025-05-30 18:41**: perf: index question IDs for rapid lookup
 - **2025-05-30 19:13**: feat: add instant feedback and explanation on answer selection
 - **2025-05-31 11:38**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-07-14 12:27**: refactor: restructure question data schema for faster loading
 - **2025-07-14 15:51**: feat: add category-specific practice modes
 - **2025-07-15 12:16**: refactor: optimize SVG rendering for road signs
+- **2025-07-15 12:40**: feat: add keyboard navigation shortcuts for question selection
