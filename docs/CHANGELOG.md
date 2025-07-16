@@ -1,4 +1,3 @@
-- **2025-05-30 19:13**: feat: add instant feedback and explanation on answer selection
 - **2025-05-31 11:38**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-01 12:23**: docs: improve code comments and API documentation
 - **2025-06-01 16:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-07-15 12:16**: refactor: optimize SVG rendering for road signs
 - **2025-07-15 12:40**: feat: add keyboard navigation shortcuts for question selection
 - **2025-07-15 13:57**: chore: organize assets and image directory structure
+- **2025-07-16 15:14**: docs: update README with setup instructions and feature list
