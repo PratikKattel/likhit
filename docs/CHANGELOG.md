@@ -1,4 +1,3 @@
-- **2025-06-02 17:51**: perf: optimize image caching for traffic sign assets
 - **2025-06-03 09:32**: refactor: modularize traffic app logic and event listeners
 - **2025-06-03 10:53**: fix: adjust passing score threshold according to new rules
 - **2025-06-04 13:20**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-07-17 12:54**: feat: add regulatory traffic signs SVG graphics
 - **2025-07-17 13:51**: feat: implement timer and score calculation for mock test
 - **2025-07-18 09:03**: feat: add warning signs and informational road signs
+- **2025-07-18 10:41**: fix: resolve layout shift during question transitions
