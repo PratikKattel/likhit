@@ -1,4 +1,3 @@
-- **2025-06-04 13:20**: chore: update questions database with recent DOTM updates
 - **2025-06-04 15:52**: docs: improve code comments and API documentation
 - **2025-06-05 17:59**: docs: update traffic signals catalog documentation
 - **2025-06-05 20:25**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-07-18 10:41**: fix: resolve layout shift during question transitions
 - **2025-07-18 13:31**: feat: add result summary with passing threshold analysis
 - **2025-07-19 09:47**: refactor: restructure question data schema for faster loading
+- **2025-07-19 13:48**: fix: correct color specifications for mandatory traffic signs
