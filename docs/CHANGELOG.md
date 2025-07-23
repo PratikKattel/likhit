@@ -1,4 +1,3 @@
-- **2025-06-08 11:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-06-08 11:54**: feat: support multiple choice questions for motorcycle category
 - **2025-06-09 17:19**: chore: format code style and clean up redundant variables
 - **2025-06-09 20:39**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2025-07-21 21:16**: fix: correct color specifications for mandatory traffic signs
 - **2025-07-22 09:16**: style: polish typography and Nepali Unicode font rendering
 - **2025-07-22 11:45**: perf: lazy load signal graphics and question assets
+- **2025-07-23 19:17**: test: verify question extraction script against exam PDF
