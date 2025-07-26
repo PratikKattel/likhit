@@ -1,4 +1,3 @@
-- **2025-06-10 10:48**: docs: update README with setup instructions and feature list
 - **2025-06-10 22:08**: perf: optimize image caching for traffic sign assets
 - **2025-06-11 10:49**: feat: add category A and B traffic test questions
 - **2025-06-12 17:02**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-07-24 15:40**: feat: add category-specific practice modes
 - **2025-07-25 11:43**: chore: update questions database with recent DOTM updates
 - **2025-07-25 18:30**: docs: improve code comments and API documentation
+- **2025-07-26 21:51**: perf: index question IDs for rapid lookup
