@@ -1,4 +1,3 @@
-- **2025-06-12 17:02**: feat: implement timer and score calculation for mock test
 - **2025-06-13 15:42**: feat: add search and filter by sign category
 - **2025-06-14 16:52**: chore: format code style and clean up redundant variables
 - **2025-06-15 22:07**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2025-07-26 21:51**: perf: index question IDs for rapid lookup
 - **2025-07-27 09:15**: feat: implement timer and score calculation for mock test
 - **2025-07-27 09:49**: feat: add category-specific practice modes
+- **2025-07-27 21:11**: test: verify question extraction script against exam PDF
