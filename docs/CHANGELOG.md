@@ -1,4 +1,3 @@
-- **2025-06-14 16:52**: chore: format code style and clean up redundant variables
 - **2025-06-15 22:07**: fix: correct color specifications for mandatory traffic signs
 - **2025-06-16 15:47**: docs: update traffic signals catalog documentation
 - **2025-06-16 16:20**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2025-07-27 09:49**: feat: add category-specific practice modes
 - **2025-07-27 21:11**: test: verify question extraction script against exam PDF
 - **2025-07-28 11:18**: feat: add result summary with passing threshold analysis
+- **2025-07-28 21:54**: feat: add result summary with passing threshold analysis
