@@ -1,4 +1,3 @@
-- **2025-06-16 15:47**: docs: update traffic signals catalog documentation
 - **2025-06-16 16:20**: fix: correct color specifications for mandatory traffic signs
 - **2025-06-16 20:26**: fix: resolve layout shift during question transitions
 - **2025-06-17 14:03**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-07-28 11:18**: feat: add result summary with passing threshold analysis
 - **2025-07-28 21:54**: feat: add result summary with passing threshold analysis
 - **2025-07-29 18:06**: chore: format code style and clean up redundant variables
+- **2025-07-30 19:14**: perf: index question IDs for rapid lookup
