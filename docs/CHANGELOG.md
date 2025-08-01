@@ -1,4 +1,3 @@
-- **2025-06-18 10:32**: chore: format code style and clean up redundant variables
 - **2025-06-18 15:16**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-18 18:08**: test: verify question extraction script against exam PDF
 - **2025-06-19 10:10**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-07-30 20:31**: fix: prevent option re-selection after submitting answer
 - **2025-07-31 22:17**: docs: improve code comments and API documentation
 - **2025-08-01 09:50**: style: enhance traffic sign card layout and responsiveness
+- **2025-08-01 10:09**: feat: support multiple choice questions for motorcycle category
