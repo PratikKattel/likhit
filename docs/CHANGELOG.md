@@ -1,4 +1,3 @@
-- **2025-06-18 18:08**: test: verify question extraction script against exam PDF
 - **2025-06-19 10:10**: docs: improve code comments and API documentation
 - **2025-06-19 14:20**: feat: add result summary with passing threshold analysis
 - **2025-06-19 14:35**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-08-01 09:50**: style: enhance traffic sign card layout and responsiveness
 - **2025-08-01 10:09**: feat: support multiple choice questions for motorcycle category
 - **2025-08-01 17:55**: fix: adjust passing score threshold according to new rules
+- **2025-08-01 20:49**: feat: implement timer and score calculation for mock test
