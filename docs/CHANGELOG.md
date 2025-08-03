@@ -1,4 +1,3 @@
-- **2025-06-19 14:20**: feat: add result summary with passing threshold analysis
 - **2025-06-19 14:35**: fix: prevent option re-selection after submitting answer
 - **2025-06-20 13:21**: style: polish typography and Nepali Unicode font rendering
 - **2025-06-20 22:20**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-08-01 17:55**: fix: adjust passing score threshold according to new rules
 - **2025-08-01 20:49**: feat: implement timer and score calculation for mock test
 - **2025-08-02 20:53**: test: verify question extraction script against exam PDF
+- **2025-08-03 09:09**: feat: add keyboard navigation shortcuts for question selection
