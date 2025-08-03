@@ -1,4 +1,3 @@
-- **2025-06-20 22:20**: perf: index question IDs for rapid lookup
 - **2025-06-21 18:27**: refactor: optimize SVG rendering for road signs
 - **2025-06-22 16:17**: feat: implement timer and score calculation for mock test
 - **2025-06-22 21:01**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-08-03 09:09**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-03 10:09**: chore: organize assets and image directory structure
 - **2025-08-03 16:36**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-08-03 19:35**: refactor: optimize SVG rendering for road signs
