@@ -1,4 +1,3 @@
-- **2025-06-23 18:20**: style: polish typography and Nepali Unicode font rendering
 - **2025-06-23 20:44**: feat: support multiple choice questions for motorcycle category
 - **2025-06-23 20:54**: feat: add category-specific practice modes
 - **2025-06-24 12:57**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-08-04 12:42**: style: polish typography and Nepali Unicode font rendering
 - **2025-08-05 11:30**: fix: resolve layout shift during question transitions
 - **2025-08-06 10:33**: chore: format code style and clean up redundant variables
+- **2025-08-07 11:09**: feat: add keyboard navigation shortcuts for question selection
