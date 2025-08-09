@@ -1,4 +1,3 @@
-- **2025-06-24 12:57**: refactor: optimize SVG rendering for road signs
 - **2025-06-24 15:34**: feat: implement timer and score calculation for mock test
 - **2025-06-25 14:01**: fix: prevent option re-selection after submitting answer
 - **2025-06-25 17:26**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-08-07 11:09**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-07 12:19**: feat: add warning signs and informational road signs
 - **2025-08-08 11:46**: chore: update project metadata and build configuration
+- **2025-08-09 17:08**: chore: organize assets and image directory structure
