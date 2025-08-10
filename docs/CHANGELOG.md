@@ -1,4 +1,3 @@
-- **2025-06-25 14:01**: fix: prevent option re-selection after submitting answer
 - **2025-06-25 17:26**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-26 12:34**: fix: typo in Nepali road safety regulations question
 - **2025-06-27 21:21**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-08-08 11:46**: chore: update project metadata and build configuration
 - **2025-08-09 17:08**: chore: organize assets and image directory structure
 - **2025-08-09 19:11**: feat: add regulatory traffic signs SVG graphics
+- **2025-08-10 10:21**: fix: prevent option re-selection after submitting answer
