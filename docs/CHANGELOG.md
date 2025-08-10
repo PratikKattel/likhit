@@ -1,4 +1,3 @@
-- **2025-06-25 17:26**: fix: update DOTM Nepal license syllabus questions
 - **2025-06-26 12:34**: fix: typo in Nepali road safety regulations question
 - **2025-06-27 21:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-28 11:34**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-08-09 17:08**: chore: organize assets and image directory structure
 - **2025-08-09 19:11**: feat: add regulatory traffic signs SVG graphics
 - **2025-08-10 10:21**: fix: prevent option re-selection after submitting answer
+- **2025-08-10 12:54**: feat: add search and filter by sign category
