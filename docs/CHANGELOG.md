@@ -1,4 +1,3 @@
-- **2025-06-27 21:21**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-06-28 11:34**: refactor: modularize traffic app logic and event listeners
 - **2025-06-28 20:39**: feat: support multiple choice questions for motorcycle category
 - **2025-06-28 21:38**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-08-10 10:21**: fix: prevent option re-selection after submitting answer
 - **2025-08-10 12:54**: feat: add search and filter by sign category
 - **2025-08-10 15:21**: perf: lazy load signal graphics and question assets
+- **2025-08-10 15:27**: test: verify question extraction script against exam PDF
