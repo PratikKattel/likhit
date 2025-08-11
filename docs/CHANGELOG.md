@@ -1,4 +1,3 @@
-- **2025-06-29 20:29**: feat: support multiple choice questions for motorcycle category
 - **2025-06-30 22:02**: perf: lazy load signal graphics and question assets
 - **2025-07-01 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-02 19:58**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-08-11 11:51**: chore: update project metadata and build configuration
 - **2025-08-11 12:46**: fix: prevent option re-selection after submitting answer
 - **2025-08-11 16:17**: style: enhance traffic sign card layout and responsiveness
+- **2025-08-11 21:13**: fix: typo in Nepali road safety regulations question
