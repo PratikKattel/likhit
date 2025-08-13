@@ -1,4 +1,3 @@
-- **2025-07-01 16:18**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-02 19:58**: chore: update project metadata and build configuration
 - **2025-07-03 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-03 13:49**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-08-11 16:17**: style: enhance traffic sign card layout and responsiveness
 - **2025-08-11 21:13**: fix: typo in Nepali road safety regulations question
 - **2025-08-12 18:46**: chore: update questions database with recent DOTM updates
+- **2025-08-13 15:17**: docs: improve code comments and API documentation
