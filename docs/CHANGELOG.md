@@ -1,4 +1,3 @@
-- **2025-07-03 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-07-03 13:49**: refactor: optimize SVG rendering for road signs
 - **2025-07-04 14:34**: chore: update project metadata and build configuration
 - **2025-07-04 18:34**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-08-12 18:46**: chore: update questions database with recent DOTM updates
 - **2025-08-13 15:17**: docs: improve code comments and API documentation
 - **2025-08-13 21:26**: fix: resolve layout shift during question transitions
+- **2025-08-14 19:04**: fix: prevent option re-selection after submitting answer
