@@ -1,4 +1,3 @@
-- **2025-07-03 13:49**: refactor: optimize SVG rendering for road signs
 - **2025-07-04 14:34**: chore: update project metadata and build configuration
 - **2025-07-04 18:34**: refactor: optimize SVG rendering for road signs
 - **2025-07-05 21:26**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2025-08-13 15:17**: docs: improve code comments and API documentation
 - **2025-08-13 21:26**: fix: resolve layout shift during question transitions
 - **2025-08-14 19:04**: fix: prevent option re-selection after submitting answer
+- **2025-08-15 22:27**: feat: add warning signs and informational road signs
