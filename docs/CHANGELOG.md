@@ -1,4 +1,3 @@
-- **2025-07-08 16:55**: fix: update DOTM Nepal license syllabus questions
 - **2025-07-08 22:09**: fix: resolve layout shift during question transitions
 - **2025-07-09 15:24**: feat: support multiple choice questions for motorcycle category
 - **2025-07-10 17:08**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2025-08-17 09:24**: docs: update traffic signals catalog documentation
 - **2025-08-17 14:36**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-18 11:26**: feat: add search and filter by sign category
+- **2025-08-19 18:35**: chore: update project metadata and build configuration
