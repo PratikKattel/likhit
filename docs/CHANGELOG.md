@@ -1,4 +1,3 @@
-- **2025-07-09 15:24**: feat: support multiple choice questions for motorcycle category
 - **2025-07-10 17:08**: fix: adjust passing score threshold according to new rules
 - **2025-07-11 10:01**: feat: support multiple choice questions for motorcycle category
 - **2025-07-11 18:51**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-08-18 11:26**: feat: add search and filter by sign category
 - **2025-08-19 18:35**: chore: update project metadata and build configuration
 - **2025-08-20 09:01**: refactor: restructure question data schema for faster loading
+- **2025-08-21 21:23**: chore: update questions database with recent DOTM updates
