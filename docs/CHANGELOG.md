@@ -1,4 +1,3 @@
-- **2025-07-11 10:01**: feat: support multiple choice questions for motorcycle category
 - **2025-07-11 18:51**: docs: add instructions for Nepali driving license written exam
 - **2025-07-12 18:35**: chore: update project metadata and build configuration
 - **2025-07-13 15:47**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-08-20 09:01**: refactor: restructure question data schema for faster loading
 - **2025-08-21 21:23**: chore: update questions database with recent DOTM updates
 - **2025-08-22 20:00**: test: verify question extraction script against exam PDF
+- **2025-08-23 19:25**: refactor: optimize SVG rendering for road signs
