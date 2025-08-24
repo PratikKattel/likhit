@@ -1,4 +1,3 @@
-- **2025-07-12 18:35**: chore: update project metadata and build configuration
 - **2025-07-13 15:47**: fix: resolve layout shift during question transitions
 - **2025-07-13 16:05**: perf: lazy load signal graphics and question assets
 - **2025-07-13 20:01**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-08-22 20:00**: test: verify question extraction script against exam PDF
 - **2025-08-23 19:25**: refactor: optimize SVG rendering for road signs
 - **2025-08-24 13:40**: chore: organize assets and image directory structure
+- **2025-08-24 20:37**: fix: correct color specifications for mandatory traffic signs
