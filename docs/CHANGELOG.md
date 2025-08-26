@@ -1,4 +1,3 @@
-- **2025-07-13 16:05**: perf: lazy load signal graphics and question assets
 - **2025-07-13 20:01**: docs: improve code comments and API documentation
 - **2025-07-14 12:27**: refactor: restructure question data schema for faster loading
 - **2025-07-14 15:51**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-08-24 13:40**: chore: organize assets and image directory structure
 - **2025-08-24 20:37**: fix: correct color specifications for mandatory traffic signs
 - **2025-08-25 13:33**: fix: typo in Nepali road safety regulations question
+- **2025-08-26 19:44**: feat: implement timer and score calculation for mock test
