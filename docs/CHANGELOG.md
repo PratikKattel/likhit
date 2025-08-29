@@ -1,4 +1,3 @@
-- **2025-07-15 12:40**: feat: add keyboard navigation shortcuts for question selection
 - **2025-07-15 13:57**: chore: organize assets and image directory structure
 - **2025-07-16 15:14**: docs: update README with setup instructions and feature list
 - **2025-07-16 21:45**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2025-08-27 18:41**: feat: add category-specific practice modes
 - **2025-08-28 15:39**: chore: organize assets and image directory structure
 - **2025-08-29 14:56**: fix: update DOTM Nepal license syllabus questions
+- **2025-08-29 20:50**: style: improve dark/light mode and mobile UI responsiveness
