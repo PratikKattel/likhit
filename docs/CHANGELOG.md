@@ -1,4 +1,3 @@
-- **2025-07-16 15:14**: docs: update README with setup instructions and feature list
 - **2025-07-16 21:45**: refactor: optimize SVG rendering for road signs
 - **2025-07-17 12:54**: feat: add regulatory traffic signs SVG graphics
 - **2025-07-17 13:51**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-08-29 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2025-08-29 20:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-08-30 11:35**: refactor: modularize traffic app logic and event listeners
+- **2025-08-30 15:56**: fix: correct color specifications for mandatory traffic signs
