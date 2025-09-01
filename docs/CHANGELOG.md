@@ -1,4 +1,3 @@
-- **2025-07-18 13:31**: feat: add result summary with passing threshold analysis
 - **2025-07-19 09:47**: refactor: restructure question data schema for faster loading
 - **2025-07-19 13:48**: fix: correct color specifications for mandatory traffic signs
 - **2025-07-19 18:08**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2025-08-31 14:04**: style: enhance traffic sign card layout and responsiveness
 - **2025-09-01 18:29**: feat: add instant feedback and explanation on answer selection
 - **2025-09-01 19:28**: chore: format code style and clean up redundant variables
+- **2025-09-01 19:59**: fix: typo in Nepali road safety regulations question
