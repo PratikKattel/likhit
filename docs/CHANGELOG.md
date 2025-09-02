@@ -1,4 +1,3 @@
-- **2025-07-19 09:47**: refactor: restructure question data schema for faster loading
 - **2025-07-19 13:48**: fix: correct color specifications for mandatory traffic signs
 - **2025-07-19 18:08**: chore: format code style and clean up redundant variables
 - **2025-07-20 09:07**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2025-09-01 18:29**: feat: add instant feedback and explanation on answer selection
 - **2025-09-01 19:28**: chore: format code style and clean up redundant variables
 - **2025-09-01 19:59**: fix: typo in Nepali road safety regulations question
+- **2025-09-02 21:29**: fix: correct color specifications for mandatory traffic signs
