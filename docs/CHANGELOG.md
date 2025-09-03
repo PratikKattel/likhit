@@ -1,4 +1,3 @@
-- **2025-07-20 09:07**: perf: optimize image caching for traffic sign assets
 - **2025-07-20 21:46**: docs: improve code comments and API documentation
 - **2025-07-21 21:16**: fix: correct color specifications for mandatory traffic signs
 - **2025-07-22 09:16**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-09-02 21:29**: fix: correct color specifications for mandatory traffic signs
 - **2025-09-02 22:11**: feat: add category-specific practice modes
 - **2025-09-03 10:33**: fix: typo in Nepali road safety regulations question
+- **2025-09-03 17:22**: style: enhance traffic sign card layout and responsiveness
