@@ -1,4 +1,3 @@
-- **2025-07-21 21:16**: fix: correct color specifications for mandatory traffic signs
 - **2025-07-22 09:16**: style: polish typography and Nepali Unicode font rendering
 - **2025-07-22 11:45**: perf: lazy load signal graphics and question assets
 - **2025-07-23 19:17**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-09-03 10:33**: fix: typo in Nepali road safety regulations question
 - **2025-09-03 17:22**: style: enhance traffic sign card layout and responsiveness
 - **2025-09-04 09:37**: fix: update DOTM Nepal license syllabus questions
+- **2025-09-04 18:13**: fix: resolve layout shift during question transitions
