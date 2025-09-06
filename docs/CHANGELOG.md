@@ -1,4 +1,3 @@
-- **2025-07-22 11:45**: perf: lazy load signal graphics and question assets
 - **2025-07-23 19:17**: test: verify question extraction script against exam PDF
 - **2025-07-24 15:37**: feat: add search and filter by sign category
 - **2025-07-24 15:40**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-09-04 09:37**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-04 18:13**: fix: resolve layout shift during question transitions
 - **2025-09-05 13:46**: feat: add regulatory traffic signs SVG graphics
+- **2025-09-06 16:10**: test: verify question extraction script against exam PDF
