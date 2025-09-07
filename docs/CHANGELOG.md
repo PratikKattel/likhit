@@ -1,4 +1,3 @@
-- **2025-07-25 11:43**: chore: update questions database with recent DOTM updates
 - **2025-07-25 18:30**: docs: improve code comments and API documentation
 - **2025-07-26 21:51**: perf: index question IDs for rapid lookup
 - **2025-07-27 09:15**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-09-06 19:57**: chore: update project metadata and build configuration
 - **2025-09-07 10:52**: chore: update questions database with recent DOTM updates
 - **2025-09-07 13:36**: refactor: optimize SVG rendering for road signs
+- **2025-09-07 16:04**: style: improve dark/light mode and mobile UI responsiveness
