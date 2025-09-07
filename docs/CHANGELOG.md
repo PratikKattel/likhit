@@ -1,4 +1,3 @@
-- **2025-07-24 15:40**: feat: add category-specific practice modes
 - **2025-07-25 11:43**: chore: update questions database with recent DOTM updates
 - **2025-07-25 18:30**: docs: improve code comments and API documentation
 - **2025-07-26 21:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-09-06 16:10**: test: verify question extraction script against exam PDF
 - **2025-09-06 19:57**: chore: update project metadata and build configuration
 - **2025-09-07 10:52**: chore: update questions database with recent DOTM updates
+- **2025-09-07 13:36**: refactor: optimize SVG rendering for road signs
