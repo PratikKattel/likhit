@@ -1,4 +1,3 @@
-- **2025-07-27 09:15**: feat: implement timer and score calculation for mock test
 - **2025-07-27 09:49**: feat: add category-specific practice modes
 - **2025-07-27 21:11**: test: verify question extraction script against exam PDF
 - **2025-07-28 11:18**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2025-09-07 16:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-09-07 18:14**: fix: adjust passing score threshold according to new rules
 - **2025-09-08 20:08**: refactor: modularize traffic app logic and event listeners
+- **2025-09-09 13:56**: refactor: clean up unused CSS classes and optimize stylesheet
