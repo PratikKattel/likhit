@@ -1,4 +1,3 @@
-- **2025-07-28 21:54**: feat: add result summary with passing threshold analysis
 - **2025-07-29 18:06**: chore: format code style and clean up redundant variables
 - **2025-07-30 19:14**: perf: index question IDs for rapid lookup
 - **2025-07-30 20:31**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-09-10 09:37**: perf: index question IDs for rapid lookup
 - **2025-09-11 11:05**: perf: optimize image caching for traffic sign assets
 - **2025-09-11 11:41**: chore: update project metadata and build configuration
+- **2025-09-12 09:03**: feat: add category A and B traffic test questions
