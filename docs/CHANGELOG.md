@@ -1,4 +1,3 @@
-- **2025-08-01 09:50**: style: enhance traffic sign card layout and responsiveness
 - **2025-08-01 10:09**: feat: support multiple choice questions for motorcycle category
 - **2025-08-01 17:55**: fix: adjust passing score threshold according to new rules
 - **2025-08-01 20:49**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-09-13 17:32**: feat: support multiple choice questions for motorcycle category
 - **2025-09-14 12:43**: fix: resolve layout shift during question transitions
 - **2025-09-14 15:36**: feat: add search and filter by sign category
+- **2025-09-14 22:16**: chore: update questions database with recent DOTM updates
