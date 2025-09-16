@@ -1,4 +1,3 @@
-- **2025-08-01 20:49**: feat: implement timer and score calculation for mock test
 - **2025-08-02 20:53**: test: verify question extraction script against exam PDF
 - **2025-08-03 09:09**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-03 10:09**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-09-14 22:16**: chore: update questions database with recent DOTM updates
 - **2025-09-15 12:05**: chore: update questions database with recent DOTM updates
 - **2025-09-16 09:42**: feat: add warning signs and informational road signs
+- **2025-09-16 14:57**: fix: resolve layout shift during question transitions
