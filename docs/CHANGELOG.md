@@ -1,4 +1,3 @@
-- **2025-08-03 10:09**: chore: organize assets and image directory structure
 - **2025-08-03 16:36**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-08-03 19:35**: refactor: optimize SVG rendering for road signs
 - **2025-08-04 12:42**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-09-16 14:57**: fix: resolve layout shift during question transitions
 - **2025-09-16 22:17**: fix: typo in Nepali road safety regulations question
 - **2025-09-17 16:44**: docs: add instructions for Nepali driving license written exam
+- **2025-09-18 09:45**: docs: improve code comments and API documentation
