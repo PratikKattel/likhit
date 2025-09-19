@@ -1,4 +1,3 @@
-- **2025-08-04 12:42**: style: polish typography and Nepali Unicode font rendering
 - **2025-08-05 11:30**: fix: resolve layout shift during question transitions
 - **2025-08-06 10:33**: chore: format code style and clean up redundant variables
 - **2025-08-07 11:09**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-09-18 09:45**: docs: improve code comments and API documentation
 - **2025-09-18 18:40**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-18 21:18**: fix: correct color specifications for mandatory traffic signs
+- **2025-09-19 10:23**: feat: add keyboard navigation shortcuts for question selection
