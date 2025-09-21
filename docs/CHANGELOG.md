@@ -1,4 +1,3 @@
-- **2025-08-06 10:33**: chore: format code style and clean up redundant variables
 - **2025-08-07 11:09**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-07 12:19**: feat: add warning signs and informational road signs
 - **2025-08-08 11:46**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-09-18 21:18**: fix: correct color specifications for mandatory traffic signs
 - **2025-09-19 10:23**: feat: add keyboard navigation shortcuts for question selection
 - **2025-09-20 18:06**: feat: add search and filter by sign category
+- **2025-09-21 09:33**: style: polish typography and Nepali Unicode font rendering
