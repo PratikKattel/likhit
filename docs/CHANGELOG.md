@@ -1,4 +1,3 @@
-- **2025-08-07 12:19**: feat: add warning signs and informational road signs
 - **2025-08-08 11:46**: chore: update project metadata and build configuration
 - **2025-08-09 17:08**: chore: organize assets and image directory structure
 - **2025-08-09 19:11**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-09-20 18:06**: feat: add search and filter by sign category
 - **2025-09-21 09:33**: style: polish typography and Nepali Unicode font rendering
 - **2025-09-21 12:05**: fix: prevent option re-selection after submitting answer
+- **2025-09-21 22:19**: style: improve dark/light mode and mobile UI responsiveness
