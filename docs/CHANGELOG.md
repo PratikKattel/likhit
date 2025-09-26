@@ -1,4 +1,3 @@
-- **2025-08-10 12:54**: feat: add search and filter by sign category
 - **2025-08-10 15:21**: perf: lazy load signal graphics and question assets
 - **2025-08-10 15:27**: test: verify question extraction script against exam PDF
 - **2025-08-11 11:51**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-09-23 13:45**: feat: add warning signs and informational road signs
 - **2025-09-24 10:33**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-09-25 10:18**: feat: implement timer and score calculation for mock test
+- **2025-09-26 22:04**: feat: add regulatory traffic signs SVG graphics
