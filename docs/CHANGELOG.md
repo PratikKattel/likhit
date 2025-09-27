@@ -1,4 +1,3 @@
-- **2025-08-11 11:51**: chore: update project metadata and build configuration
 - **2025-08-11 12:46**: fix: prevent option re-selection after submitting answer
 - **2025-08-11 16:17**: style: enhance traffic sign card layout and responsiveness
 - **2025-08-11 21:13**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-09-26 22:04**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-27 11:18**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-27 11:41**: feat: add warning signs and informational road signs
+- **2025-09-27 14:58**: fix: update DOTM Nepal license syllabus questions
