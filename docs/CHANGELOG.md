@@ -1,4 +1,3 @@
-- **2025-08-11 16:17**: style: enhance traffic sign card layout and responsiveness
 - **2025-08-11 21:13**: fix: typo in Nepali road safety regulations question
 - **2025-08-12 18:46**: chore: update questions database with recent DOTM updates
 - **2025-08-13 15:17**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2025-09-27 11:41**: feat: add warning signs and informational road signs
 - **2025-09-27 14:58**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-28 11:33**: docs: add instructions for Nepali driving license written exam
+- **2025-09-28 15:35**: feat: add search and filter by sign category
