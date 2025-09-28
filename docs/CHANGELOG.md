@@ -1,4 +1,3 @@
-- **2025-08-12 18:46**: chore: update questions database with recent DOTM updates
 - **2025-08-13 15:17**: docs: improve code comments and API documentation
 - **2025-08-13 21:26**: fix: resolve layout shift during question transitions
 - **2025-08-14 19:04**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-09-28 11:33**: docs: add instructions for Nepali driving license written exam
 - **2025-09-28 15:35**: feat: add search and filter by sign category
 - **2025-09-28 17:22**: refactor: restructure question data schema for faster loading
+- **2025-09-28 18:07**: chore: organize assets and image directory structure
