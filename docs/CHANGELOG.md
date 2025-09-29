@@ -1,4 +1,3 @@
-- **2025-08-15 22:27**: feat: add warning signs and informational road signs
 - **2025-08-16 10:35**: style: polish typography and Nepali Unicode font rendering
 - **2025-08-16 12:51**: chore: format code style and clean up redundant variables
 - **2025-08-17 09:24**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2025-09-29 10:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-09-29 11:19**: docs: add instructions for Nepali driving license written exam
 - **2025-09-29 17:19**: fix: update DOTM Nepal license syllabus questions
+- **2025-09-29 18:33**: feat: support multiple choice questions for motorcycle category
