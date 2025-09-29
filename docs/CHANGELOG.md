@@ -1,4 +1,3 @@
-- **2025-08-13 21:26**: fix: resolve layout shift during question transitions
 - **2025-08-14 19:04**: fix: prevent option re-selection after submitting answer
 - **2025-08-15 22:27**: feat: add warning signs and informational road signs
 - **2025-08-16 10:35**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-09-28 17:22**: refactor: restructure question data schema for faster loading
 - **2025-09-28 18:07**: chore: organize assets and image directory structure
 - **2025-09-29 10:17**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-09-29 11:19**: docs: add instructions for Nepali driving license written exam
