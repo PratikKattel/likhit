@@ -1,4 +1,3 @@
-- **2025-08-17 09:24**: docs: update traffic signals catalog documentation
 - **2025-08-17 14:36**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-18 11:26**: feat: add search and filter by sign category
 - **2025-08-19 18:35**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-09-29 18:33**: feat: support multiple choice questions for motorcycle category
 - **2025-09-30 19:08**: feat: add warning signs and informational road signs
 - **2025-10-01 13:58**: fix: correct color specifications for mandatory traffic signs
+- **2025-10-01 14:19**: test: verify question extraction script against exam PDF
