@@ -1,4 +1,3 @@
-- **2025-08-16 12:51**: chore: format code style and clean up redundant variables
 - **2025-08-17 09:24**: docs: update traffic signals catalog documentation
 - **2025-08-17 14:36**: feat: add keyboard navigation shortcuts for question selection
 - **2025-08-18 11:26**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-09-29 17:19**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-29 18:33**: feat: support multiple choice questions for motorcycle category
 - **2025-09-30 19:08**: feat: add warning signs and informational road signs
+- **2025-10-01 13:58**: fix: correct color specifications for mandatory traffic signs
