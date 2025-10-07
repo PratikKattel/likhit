@@ -1,4 +1,3 @@
-- **2025-08-24 20:37**: fix: correct color specifications for mandatory traffic signs
 - **2025-08-25 13:33**: fix: typo in Nepali road safety regulations question
 - **2025-08-26 19:44**: feat: implement timer and score calculation for mock test
 - **2025-08-27 13:09**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2025-10-04 09:42**: style: polish typography and Nepali Unicode font rendering
 - **2025-10-05 18:51**: fix: resolve layout shift during question transitions
 - **2025-10-06 22:24**: refactor: modularize traffic app logic and event listeners
+- **2025-10-07 11:09**: feat: add keyboard navigation shortcuts for question selection
