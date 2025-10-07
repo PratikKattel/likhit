@@ -1,4 +1,3 @@
-- **2025-08-25 13:33**: fix: typo in Nepali road safety regulations question
 - **2025-08-26 19:44**: feat: implement timer and score calculation for mock test
 - **2025-08-27 13:09**: feat: add result summary with passing threshold analysis
 - **2025-08-27 18:41**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-10-05 18:51**: fix: resolve layout shift during question transitions
 - **2025-10-06 22:24**: refactor: modularize traffic app logic and event listeners
 - **2025-10-07 11:09**: feat: add keyboard navigation shortcuts for question selection
+- **2025-10-07 12:46**: refactor: clean up unused CSS classes and optimize stylesheet
