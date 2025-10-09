@@ -1,4 +1,3 @@
-- **2025-08-27 18:41**: feat: add category-specific practice modes
 - **2025-08-28 15:39**: chore: organize assets and image directory structure
 - **2025-08-29 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2025-08-29 20:50**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-10-07 12:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-07 21:38**: docs: update traffic signals catalog documentation
 - **2025-10-08 20:36**: refactor: restructure question data schema for faster loading
+- **2025-10-09 14:21**: perf: lazy load signal graphics and question assets
