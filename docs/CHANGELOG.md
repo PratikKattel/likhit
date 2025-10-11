@@ -1,4 +1,3 @@
-- **2025-08-29 14:56**: fix: update DOTM Nepal license syllabus questions
 - **2025-08-29 20:50**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-08-30 11:35**: refactor: modularize traffic app logic and event listeners
 - **2025-08-30 15:56**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2025-10-08 20:36**: refactor: restructure question data schema for faster loading
 - **2025-10-09 14:21**: perf: lazy load signal graphics and question assets
 - **2025-10-10 12:20**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-10-11 15:31**: feat: add regulatory traffic signs SVG graphics
