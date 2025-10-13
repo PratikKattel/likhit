@@ -1,4 +1,3 @@
-- **2025-08-30 15:56**: fix: correct color specifications for mandatory traffic signs
 - **2025-08-30 18:08**: fix: prevent option re-selection after submitting answer
 - **2025-08-31 12:47**: fix: prevent option re-selection after submitting answer
 - **2025-08-31 14:04**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2025-10-11 15:31**: feat: add regulatory traffic signs SVG graphics
 - **2025-10-12 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2025-10-12 19:31**: fix: prevent option re-selection after submitting answer
+- **2025-10-13 11:50**: chore: organize assets and image directory structure
