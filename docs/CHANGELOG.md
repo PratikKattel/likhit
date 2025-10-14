@@ -1,4 +1,3 @@
-- **2025-08-30 18:08**: fix: prevent option re-selection after submitting answer
 - **2025-08-31 12:47**: fix: prevent option re-selection after submitting answer
 - **2025-08-31 14:04**: style: enhance traffic sign card layout and responsiveness
 - **2025-09-01 18:29**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2025-10-12 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2025-10-12 19:31**: fix: prevent option re-selection after submitting answer
 - **2025-10-13 11:50**: chore: organize assets and image directory structure
+- **2025-10-14 13:04**: perf: optimize image caching for traffic sign assets
