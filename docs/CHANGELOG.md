@@ -1,4 +1,3 @@
-- **2025-09-01 19:59**: fix: typo in Nepali road safety regulations question
 - **2025-09-02 21:29**: fix: correct color specifications for mandatory traffic signs
 - **2025-09-02 22:11**: feat: add category-specific practice modes
 - **2025-09-03 10:33**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2025-10-15 11:14**: chore: update project metadata and build configuration
 - **2025-10-15 14:15**: perf: index question IDs for rapid lookup
 - **2025-10-15 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-10-16 11:20**: feat: add keyboard navigation shortcuts for question selection
