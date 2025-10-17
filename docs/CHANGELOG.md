@@ -1,4 +1,3 @@
-- **2025-09-02 22:11**: feat: add category-specific practice modes
 - **2025-09-03 10:33**: fix: typo in Nepali road safety regulations question
 - **2025-09-03 17:22**: style: enhance traffic sign card layout and responsiveness
 - **2025-09-04 09:37**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-10-15 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-16 11:20**: feat: add keyboard navigation shortcuts for question selection
 - **2025-10-16 13:03**: chore: organize assets and image directory structure
+- **2025-10-17 10:18**: refactor: restructure question data schema for faster loading
