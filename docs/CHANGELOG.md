@@ -1,4 +1,3 @@
-- **2025-09-04 09:37**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-04 18:13**: fix: resolve layout shift during question transitions
 - **2025-09-05 13:46**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-06 16:10**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-10-17 10:18**: refactor: restructure question data schema for faster loading
 - **2025-10-18 14:35**: chore: format code style and clean up redundant variables
 - **2025-10-19 09:41**: fix: prevent option re-selection after submitting answer
+- **2025-10-19 13:41**: chore: organize assets and image directory structure
