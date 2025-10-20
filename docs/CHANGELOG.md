@@ -1,4 +1,3 @@
-- **2025-09-05 13:46**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-06 16:10**: test: verify question extraction script against exam PDF
 - **2025-09-06 19:57**: chore: update project metadata and build configuration
 - **2025-09-07 10:52**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-10-19 09:41**: fix: prevent option re-selection after submitting answer
 - **2025-10-19 13:41**: chore: organize assets and image directory structure
 - **2025-10-20 12:19**: test: verify question extraction script against exam PDF
+- **2025-10-20 20:39**: feat: add instant feedback and explanation on answer selection
