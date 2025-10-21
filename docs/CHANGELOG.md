@@ -1,4 +1,3 @@
-- **2025-09-06 19:57**: chore: update project metadata and build configuration
 - **2025-09-07 10:52**: chore: update questions database with recent DOTM updates
 - **2025-09-07 13:36**: refactor: optimize SVG rendering for road signs
 - **2025-09-07 16:04**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-10-20 12:19**: test: verify question extraction script against exam PDF
 - **2025-10-20 20:39**: feat: add instant feedback and explanation on answer selection
 - **2025-10-20 22:11**: docs: add instructions for Nepali driving license written exam
+- **2025-10-21 22:05**: docs: update traffic signals catalog documentation
