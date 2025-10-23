@@ -1,4 +1,3 @@
-- **2025-09-07 16:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-09-07 18:14**: fix: adjust passing score threshold according to new rules
 - **2025-09-08 20:08**: refactor: modularize traffic app logic and event listeners
 - **2025-09-09 13:56**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-10-21 22:05**: docs: update traffic signals catalog documentation
 - **2025-10-22 10:24**: fix: update DOTM Nepal license syllabus questions
 - **2025-10-22 15:53**: feat: add category-specific practice modes
+- **2025-10-23 21:41**: perf: lazy load signal graphics and question assets
