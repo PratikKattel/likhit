@@ -1,4 +1,3 @@
-- **2025-09-08 20:08**: refactor: modularize traffic app logic and event listeners
 - **2025-09-09 13:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-09-10 09:37**: perf: index question IDs for rapid lookup
 - **2025-09-11 11:05**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2025-10-22 15:53**: feat: add category-specific practice modes
 - **2025-10-23 21:41**: perf: lazy load signal graphics and question assets
 - **2025-10-24 10:10**: refactor: restructure question data schema for faster loading
+- **2025-10-24 19:34**: refactor: restructure question data schema for faster loading
