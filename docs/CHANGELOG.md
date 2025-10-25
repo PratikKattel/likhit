@@ -1,4 +1,3 @@
-- **2025-09-10 09:37**: perf: index question IDs for rapid lookup
 - **2025-09-11 11:05**: perf: optimize image caching for traffic sign assets
 - **2025-09-11 11:41**: chore: update project metadata and build configuration
 - **2025-09-12 09:03**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2025-10-24 10:10**: refactor: restructure question data schema for faster loading
 - **2025-10-24 19:34**: refactor: restructure question data schema for faster loading
 - **2025-10-25 13:33**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-10-25 14:14**: docs: update traffic signals catalog documentation
