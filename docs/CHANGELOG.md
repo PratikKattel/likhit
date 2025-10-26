@@ -1,4 +1,3 @@
-- **2025-09-12 09:03**: feat: add category A and B traffic test questions
 - **2025-09-13 10:45**: refactor: optimize SVG rendering for road signs
 - **2025-09-13 17:32**: feat: support multiple choice questions for motorcycle category
 - **2025-09-14 12:43**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-10-25 14:14**: docs: update traffic signals catalog documentation
 - **2025-10-26 12:01**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-26 17:34**: feat: add warning signs and informational road signs
+- **2025-10-26 18:18**: feat: add warning signs and informational road signs
