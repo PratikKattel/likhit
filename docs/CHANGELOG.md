@@ -1,4 +1,3 @@
-- **2025-09-14 12:43**: fix: resolve layout shift during question transitions
 - **2025-09-14 15:36**: feat: add search and filter by sign category
 - **2025-09-14 22:16**: chore: update questions database with recent DOTM updates
 - **2025-09-15 12:05**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-10-26 18:18**: feat: add warning signs and informational road signs
 - **2025-10-27 13:06**: docs: improve code comments and API documentation
 - **2025-10-27 20:28**: chore: update project metadata and build configuration
+- **2025-10-28 10:49**: chore: format code style and clean up redundant variables
