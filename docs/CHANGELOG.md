@@ -1,4 +1,3 @@
-- **2025-09-14 22:16**: chore: update questions database with recent DOTM updates
 - **2025-09-15 12:05**: chore: update questions database with recent DOTM updates
 - **2025-09-16 09:42**: feat: add warning signs and informational road signs
 - **2025-09-16 14:57**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2025-10-27 20:28**: chore: update project metadata and build configuration
 - **2025-10-28 10:49**: chore: format code style and clean up redundant variables
 - **2025-10-29 11:27**: perf: optimize image caching for traffic sign assets
+- **2025-10-29 19:24**: test: verify question extraction script against exam PDF
