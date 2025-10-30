@@ -1,4 +1,3 @@
-- **2025-09-16 09:42**: feat: add warning signs and informational road signs
 - **2025-09-16 14:57**: fix: resolve layout shift during question transitions
 - **2025-09-16 22:17**: fix: typo in Nepali road safety regulations question
 - **2025-09-17 16:44**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-10-29 11:27**: perf: optimize image caching for traffic sign assets
 - **2025-10-29 19:24**: test: verify question extraction script against exam PDF
 - **2025-10-30 11:26**: feat: add regulatory traffic signs SVG graphics
+- **2025-10-30 13:36**: docs: add instructions for Nepali driving license written exam
