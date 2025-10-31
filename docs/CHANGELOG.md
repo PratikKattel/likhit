@@ -1,4 +1,3 @@
-- **2025-09-16 22:17**: fix: typo in Nepali road safety regulations question
 - **2025-09-17 16:44**: docs: add instructions for Nepali driving license written exam
 - **2025-09-18 09:45**: docs: improve code comments and API documentation
 - **2025-09-18 18:40**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2025-10-30 11:26**: feat: add regulatory traffic signs SVG graphics
 - **2025-10-30 13:36**: docs: add instructions for Nepali driving license written exam
 - **2025-10-30 21:33**: feat: add keyboard navigation shortcuts for question selection
+- **2025-10-31 14:54**: feat: add search and filter by sign category
