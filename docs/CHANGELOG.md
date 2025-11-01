@@ -1,4 +1,3 @@
-- **2025-09-18 18:40**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-18 21:18**: fix: correct color specifications for mandatory traffic signs
 - **2025-09-19 10:23**: feat: add keyboard navigation shortcuts for question selection
 - **2025-09-20 18:06**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-10-31 14:54**: feat: add search and filter by sign category
 - **2025-11-01 10:15**: chore: organize assets and image directory structure
 - **2025-11-01 13:13**: chore: update questions database with recent DOTM updates
+- **2025-11-01 19:04**: style: improve dark/light mode and mobile UI responsiveness
