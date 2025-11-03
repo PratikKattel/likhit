@@ -1,4 +1,3 @@
-- **2025-09-19 10:23**: feat: add keyboard navigation shortcuts for question selection
 - **2025-09-20 18:06**: feat: add search and filter by sign category
 - **2025-09-21 09:33**: style: polish typography and Nepali Unicode font rendering
 - **2025-09-21 12:05**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-11-01 13:13**: chore: update questions database with recent DOTM updates
 - **2025-11-01 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-11-02 13:48**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-11-03 11:55**: feat: support multiple choice questions for motorcycle category
