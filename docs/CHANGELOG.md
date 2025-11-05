@@ -1,4 +1,3 @@
-- **2025-09-21 12:05**: fix: prevent option re-selection after submitting answer
 - **2025-09-21 22:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-09-22 20:32**: perf: lazy load signal graphics and question assets
 - **2025-09-23 13:45**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-11-03 11:55**: feat: support multiple choice questions for motorcycle category
 - **2025-11-03 15:51**: perf: index question IDs for rapid lookup
 - **2025-11-04 21:22**: chore: update project metadata and build configuration
+- **2025-11-05 19:11**: perf: index question IDs for rapid lookup
