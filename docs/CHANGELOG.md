@@ -1,4 +1,3 @@
-- **2025-09-22 20:32**: perf: lazy load signal graphics and question assets
 - **2025-09-23 13:45**: feat: add warning signs and informational road signs
 - **2025-09-24 10:33**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-09-25 10:18**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2025-11-04 21:22**: chore: update project metadata and build configuration
 - **2025-11-05 19:11**: perf: index question IDs for rapid lookup
 - **2025-11-05 20:47**: feat: add result summary with passing threshold analysis
+- **2025-11-06 12:03**: feat: add result summary with passing threshold analysis
