@@ -1,4 +1,3 @@
-- **2025-09-26 22:04**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-27 11:18**: feat: add regulatory traffic signs SVG graphics
 - **2025-09-27 11:41**: feat: add warning signs and informational road signs
 - **2025-09-27 14:58**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-11-06 15:17**: feat: add warning signs and informational road signs
 - **2025-11-06 19:36**: fix: correct color specifications for mandatory traffic signs
 - **2025-11-07 13:13**: feat: add search and filter by sign category
+- **2025-11-07 15:57**: feat: add category A and B traffic test questions
