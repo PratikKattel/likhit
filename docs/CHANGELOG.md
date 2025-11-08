@@ -1,4 +1,3 @@
-- **2025-09-27 11:41**: feat: add warning signs and informational road signs
 - **2025-09-27 14:58**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-28 11:33**: docs: add instructions for Nepali driving license written exam
 - **2025-09-28 15:35**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2025-11-07 13:13**: feat: add search and filter by sign category
 - **2025-11-07 15:57**: feat: add category A and B traffic test questions
 - **2025-11-08 16:22**: feat: support multiple choice questions for motorcycle category
+- **2025-11-08 19:11**: style: enhance traffic sign card layout and responsiveness
