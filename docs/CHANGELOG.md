@@ -1,4 +1,3 @@
-- **2025-09-28 11:33**: docs: add instructions for Nepali driving license written exam
 - **2025-09-28 15:35**: feat: add search and filter by sign category
 - **2025-09-28 17:22**: refactor: restructure question data schema for faster loading
 - **2025-09-28 18:07**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-11-08 16:22**: feat: support multiple choice questions for motorcycle category
 - **2025-11-08 19:11**: style: enhance traffic sign card layout and responsiveness
 - **2025-11-09 12:07**: feat: add instant feedback and explanation on answer selection
+- **2025-11-09 18:14**: fix: prevent option re-selection after submitting answer
