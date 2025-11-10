@@ -1,4 +1,3 @@
-- **2025-09-28 15:35**: feat: add search and filter by sign category
 - **2025-09-28 17:22**: refactor: restructure question data schema for faster loading
 - **2025-09-28 18:07**: chore: organize assets and image directory structure
 - **2025-09-29 10:17**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-11-08 19:11**: style: enhance traffic sign card layout and responsiveness
 - **2025-11-09 12:07**: feat: add instant feedback and explanation on answer selection
 - **2025-11-09 18:14**: fix: prevent option re-selection after submitting answer
+- **2025-11-10 14:34**: perf: lazy load signal graphics and question assets
