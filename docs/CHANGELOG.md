@@ -1,4 +1,3 @@
-- **2025-09-28 18:07**: chore: organize assets and image directory structure
 - **2025-09-29 10:17**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-09-29 11:19**: docs: add instructions for Nepali driving license written exam
 - **2025-09-29 17:19**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-11-09 18:14**: fix: prevent option re-selection after submitting answer
 - **2025-11-10 14:34**: perf: lazy load signal graphics and question assets
 - **2025-11-10 14:55**: perf: lazy load signal graphics and question assets
+- **2025-11-10 21:29**: feat: add search and filter by sign category
