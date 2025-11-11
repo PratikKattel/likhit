@@ -1,4 +1,3 @@
-- **2025-09-29 11:19**: docs: add instructions for Nepali driving license written exam
 - **2025-09-29 17:19**: fix: update DOTM Nepal license syllabus questions
 - **2025-09-29 18:33**: feat: support multiple choice questions for motorcycle category
 - **2025-09-30 19:08**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-11-10 14:55**: perf: lazy load signal graphics and question assets
 - **2025-11-10 21:29**: feat: add search and filter by sign category
 - **2025-11-11 12:12**: chore: update project metadata and build configuration
+- **2025-11-11 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
