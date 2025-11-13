@@ -1,4 +1,3 @@
-- **2025-10-01 14:19**: test: verify question extraction script against exam PDF
 - **2025-10-01 18:41**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-10-02 15:37**: feat: add category A and B traffic test questions
 - **2025-10-02 17:00**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2025-11-12 11:16**: fix: update DOTM Nepal license syllabus questions
 - **2025-11-12 19:22**: chore: organize assets and image directory structure
 - **2025-11-13 14:53**: feat: add result summary with passing threshold analysis
+- **2025-11-13 20:42**: feat: add keyboard navigation shortcuts for question selection
