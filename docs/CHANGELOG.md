@@ -1,4 +1,3 @@
-- **2025-10-02 15:37**: feat: add category A and B traffic test questions
 - **2025-10-02 17:00**: fix: prevent option re-selection after submitting answer
 - **2025-10-02 19:37**: fix: correct color specifications for mandatory traffic signs
 - **2025-10-03 18:31**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2025-11-13 14:53**: feat: add result summary with passing threshold analysis
 - **2025-11-13 20:42**: feat: add keyboard navigation shortcuts for question selection
 - **2025-11-14 11:59**: perf: optimize image caching for traffic sign assets
+- **2025-11-15 12:42**: perf: index question IDs for rapid lookup
