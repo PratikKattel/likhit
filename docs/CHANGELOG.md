@@ -1,4 +1,3 @@
-- **2025-10-03 18:31**: feat: add category-specific practice modes
 - **2025-10-04 09:42**: style: polish typography and Nepali Unicode font rendering
 - **2025-10-05 18:51**: fix: resolve layout shift during question transitions
 - **2025-10-06 22:24**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2025-11-15 12:42**: perf: index question IDs for rapid lookup
 - **2025-11-16 13:01**: test: verify question extraction script against exam PDF
 - **2025-11-16 21:07**: chore: update questions database with recent DOTM updates
+- **2025-11-17 14:34**: feat: add instant feedback and explanation on answer selection
