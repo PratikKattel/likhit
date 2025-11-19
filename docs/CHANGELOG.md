@@ -1,4 +1,3 @@
-- **2025-10-05 18:51**: fix: resolve layout shift during question transitions
 - **2025-10-06 22:24**: refactor: modularize traffic app logic and event listeners
 - **2025-10-07 11:09**: feat: add keyboard navigation shortcuts for question selection
 - **2025-10-07 12:46**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-11-16 21:07**: chore: update questions database with recent DOTM updates
 - **2025-11-17 14:34**: feat: add instant feedback and explanation on answer selection
 - **2025-11-18 10:04**: feat: add result summary with passing threshold analysis
+- **2025-11-19 16:00**: refactor: optimize SVG rendering for road signs
