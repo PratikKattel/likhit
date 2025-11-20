@@ -1,4 +1,3 @@
-- **2025-10-07 12:46**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-07 21:38**: docs: update traffic signals catalog documentation
 - **2025-10-08 20:36**: refactor: restructure question data schema for faster loading
 - **2025-10-09 14:21**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2025-11-19 16:00**: refactor: optimize SVG rendering for road signs
 - **2025-11-19 18:27**: chore: update questions database with recent DOTM updates
 - **2025-11-19 22:04**: chore: update questions database with recent DOTM updates
+- **2025-11-20 11:21**: feat: add result summary with passing threshold analysis
