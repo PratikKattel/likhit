@@ -1,4 +1,3 @@
-- **2025-10-09 14:21**: perf: lazy load signal graphics and question assets
 - **2025-10-10 12:20**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-11 15:31**: feat: add regulatory traffic signs SVG graphics
 - **2025-10-12 13:52**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2025-11-20 11:21**: feat: add result summary with passing threshold analysis
 - **2025-11-20 16:20**: chore: update questions database with recent DOTM updates
 - **2025-11-20 18:09**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-11-21 14:20**: docs: update traffic signals catalog documentation
