@@ -1,4 +1,3 @@
-- **2025-10-12 13:52**: style: polish typography and Nepali Unicode font rendering
 - **2025-10-12 19:31**: fix: prevent option re-selection after submitting answer
 - **2025-10-13 11:50**: chore: organize assets and image directory structure
 - **2025-10-14 13:04**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2025-11-21 14:20**: docs: update traffic signals catalog documentation
 - **2025-11-21 22:07**: feat: add warning signs and informational road signs
 - **2025-11-22 14:41**: docs: update README with setup instructions and feature list
+- **2025-11-23 11:09**: perf: lazy load signal graphics and question assets
