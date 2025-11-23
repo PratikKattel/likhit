@@ -1,4 +1,3 @@
-- **2025-10-13 11:50**: chore: organize assets and image directory structure
 - **2025-10-14 13:04**: perf: optimize image caching for traffic sign assets
 - **2025-10-14 15:47**: feat: add instant feedback and explanation on answer selection
 - **2025-10-15 11:14**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-11-22 14:41**: docs: update README with setup instructions and feature list
 - **2025-11-23 11:09**: perf: lazy load signal graphics and question assets
 - **2025-11-23 13:21**: docs: update README with setup instructions and feature list
+- **2025-11-23 14:31**: docs: update README with setup instructions and feature list
