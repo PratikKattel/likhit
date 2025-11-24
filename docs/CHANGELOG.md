@@ -1,4 +1,3 @@
-- **2025-10-15 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-16 11:20**: feat: add keyboard navigation shortcuts for question selection
 - **2025-10-16 13:03**: chore: organize assets and image directory structure
 - **2025-10-17 10:18**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-11-24 10:32**: feat: add result summary with passing threshold analysis
 - **2025-11-24 15:40**: fix: resolve layout shift during question transitions
 - **2025-11-24 19:04**: feat: add regulatory traffic signs SVG graphics
+- **2025-11-24 20:19**: fix: resolve layout shift during question transitions
