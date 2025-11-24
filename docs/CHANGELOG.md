@@ -1,4 +1,3 @@
-- **2025-10-15 11:14**: chore: update project metadata and build configuration
 - **2025-10-15 14:15**: perf: index question IDs for rapid lookup
 - **2025-10-15 18:19**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-10-16 11:20**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-11-23 14:31**: docs: update README with setup instructions and feature list
 - **2025-11-23 16:23**: feat: add regulatory traffic signs SVG graphics
 - **2025-11-24 10:32**: feat: add result summary with passing threshold analysis
+- **2025-11-24 15:40**: fix: resolve layout shift during question transitions
