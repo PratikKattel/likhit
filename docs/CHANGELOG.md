@@ -1,4 +1,3 @@
-- **2025-10-17 10:18**: refactor: restructure question data schema for faster loading
 - **2025-10-18 14:35**: chore: format code style and clean up redundant variables
 - **2025-10-19 09:41**: fix: prevent option re-selection after submitting answer
 - **2025-10-19 13:41**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2025-11-24 20:19**: fix: resolve layout shift during question transitions
 - **2025-11-25 14:07**: chore: format code style and clean up redundant variables
 - **2025-11-26 14:41**: perf: lazy load signal graphics and question assets
+- **2025-11-26 21:13**: refactor: optimize SVG rendering for road signs
