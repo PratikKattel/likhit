@@ -1,4 +1,3 @@
-- **2025-10-20 12:19**: test: verify question extraction script against exam PDF
 - **2025-10-20 20:39**: feat: add instant feedback and explanation on answer selection
 - **2025-10-20 22:11**: docs: add instructions for Nepali driving license written exam
 - **2025-10-21 22:05**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2025-11-27 12:35**: chore: update project metadata and build configuration
 - **2025-11-27 18:02**: feat: add result summary with passing threshold analysis
 - **2025-11-27 21:51**: test: verify question extraction script against exam PDF
+- **2025-11-28 17:21**: docs: update README with setup instructions and feature list
