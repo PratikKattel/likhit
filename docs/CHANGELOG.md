@@ -1,4 +1,3 @@
-- **2025-10-22 10:24**: fix: update DOTM Nepal license syllabus questions
 - **2025-10-22 15:53**: feat: add category-specific practice modes
 - **2025-10-23 21:41**: perf: lazy load signal graphics and question assets
 - **2025-10-24 10:10**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2025-11-28 21:12**: chore: format code style and clean up redundant variables
 - **2025-11-29 14:53**: refactor: optimize SVG rendering for road signs
 - **2025-11-29 17:50**: chore: organize assets and image directory structure
+- **2025-11-30 15:40**: chore: update questions database with recent DOTM updates
