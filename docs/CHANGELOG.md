@@ -1,4 +1,3 @@
-- **2025-10-23 21:41**: perf: lazy load signal graphics and question assets
 - **2025-10-24 10:10**: refactor: restructure question data schema for faster loading
 - **2025-10-24 19:34**: refactor: restructure question data schema for faster loading
 - **2025-10-25 13:33**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-11-29 17:50**: chore: organize assets and image directory structure
 - **2025-11-30 15:40**: chore: update questions database with recent DOTM updates
 - **2025-11-30 18:15**: feat: support multiple choice questions for motorcycle category
+- **2025-12-01 10:38**: test: verify question extraction script against exam PDF
