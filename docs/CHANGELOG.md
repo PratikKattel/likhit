@@ -1,4 +1,3 @@
-- **2025-10-26 17:34**: feat: add warning signs and informational road signs
 - **2025-10-26 18:18**: feat: add warning signs and informational road signs
 - **2025-10-27 13:06**: docs: improve code comments and API documentation
 - **2025-10-27 20:28**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2025-12-01 17:17**: fix: resolve layout shift during question transitions
 - **2025-12-02 11:39**: perf: lazy load signal graphics and question assets
 - **2025-12-03 18:49**: fix: typo in Nepali road safety regulations question
+- **2025-12-04 12:46**: perf: index question IDs for rapid lookup
