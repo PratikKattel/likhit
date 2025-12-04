@@ -1,4 +1,3 @@
-- **2025-10-27 13:06**: docs: improve code comments and API documentation
 - **2025-10-27 20:28**: chore: update project metadata and build configuration
 - **2025-10-28 10:49**: chore: format code style and clean up redundant variables
 - **2025-10-29 11:27**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2025-12-03 18:49**: fix: typo in Nepali road safety regulations question
 - **2025-12-04 12:46**: perf: index question IDs for rapid lookup
 - **2025-12-04 18:19**: fix: adjust passing score threshold according to new rules
+- **2025-12-04 20:24**: style: improve dark/light mode and mobile UI responsiveness
