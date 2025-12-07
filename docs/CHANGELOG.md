@@ -1,4 +1,3 @@
-- **2025-10-29 11:27**: perf: optimize image caching for traffic sign assets
 - **2025-10-29 19:24**: test: verify question extraction script against exam PDF
 - **2025-10-30 11:26**: feat: add regulatory traffic signs SVG graphics
 - **2025-10-30 13:36**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2025-12-04 20:24**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-12-05 11:54**: fix: adjust passing score threshold according to new rules
 - **2025-12-06 17:08**: test: verify question extraction script against exam PDF
+- **2025-12-07 18:25**: style: enhance traffic sign card layout and responsiveness
