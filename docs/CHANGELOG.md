@@ -1,4 +1,3 @@
-- **2025-10-31 14:54**: feat: add search and filter by sign category
 - **2025-11-01 10:15**: chore: organize assets and image directory structure
 - **2025-11-01 13:13**: chore: update questions database with recent DOTM updates
 - **2025-11-01 19:04**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2025-12-09 13:43**: feat: add category-specific practice modes
 - **2025-12-09 14:53**: perf: optimize image caching for traffic sign assets
 - **2025-12-10 14:14**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-12-10 16:24**: fix: resolve layout shift during question transitions
