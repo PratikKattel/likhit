@@ -1,4 +1,3 @@
-- **2025-11-01 19:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-11-02 13:48**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-11-03 11:55**: feat: support multiple choice questions for motorcycle category
 - **2025-11-03 15:51**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-12-10 16:24**: fix: resolve layout shift during question transitions
 - **2025-12-11 21:55**: perf: optimize image caching for traffic sign assets
 - **2025-12-12 11:39**: perf: lazy load signal graphics and question assets
+- **2025-12-12 14:45**: refactor: clean up unused CSS classes and optimize stylesheet
