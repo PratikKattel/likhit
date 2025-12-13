@@ -1,4 +1,3 @@
-- **2025-11-03 11:55**: feat: support multiple choice questions for motorcycle category
 - **2025-11-03 15:51**: perf: index question IDs for rapid lookup
 - **2025-11-04 21:22**: chore: update project metadata and build configuration
 - **2025-11-05 19:11**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2025-12-12 11:39**: perf: lazy load signal graphics and question assets
 - **2025-12-12 14:45**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-12 20:59**: fix: prevent option re-selection after submitting answer
+- **2025-12-13 16:30**: refactor: clean up unused CSS classes and optimize stylesheet
