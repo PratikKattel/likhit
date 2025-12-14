@@ -1,4 +1,3 @@
-- **2025-11-05 19:11**: perf: index question IDs for rapid lookup
 - **2025-11-05 20:47**: feat: add result summary with passing threshold analysis
 - **2025-11-06 12:03**: feat: add result summary with passing threshold analysis
 - **2025-11-06 15:17**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2025-12-13 16:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-13 22:18**: fix: prevent option re-selection after submitting answer
 - **2025-12-14 10:10**: refactor: modularize traffic app logic and event listeners
+- **2025-12-14 17:23**: feat: support multiple choice questions for motorcycle category
