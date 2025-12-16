@@ -1,4 +1,3 @@
-- **2025-11-06 15:17**: feat: add warning signs and informational road signs
 - **2025-11-06 19:36**: fix: correct color specifications for mandatory traffic signs
 - **2025-11-07 13:13**: feat: add search and filter by sign category
 - **2025-11-07 15:57**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2025-12-14 17:23**: feat: support multiple choice questions for motorcycle category
 - **2025-12-14 17:56**: style: enhance traffic sign card layout and responsiveness
 - **2025-12-15 10:31**: feat: support multiple choice questions for motorcycle category
+- **2025-12-16 13:56**: refactor: modularize traffic app logic and event listeners
