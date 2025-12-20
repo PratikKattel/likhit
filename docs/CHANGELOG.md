@@ -1,4 +1,3 @@
-- **2025-11-08 19:11**: style: enhance traffic sign card layout and responsiveness
 - **2025-11-09 12:07**: feat: add instant feedback and explanation on answer selection
 - **2025-11-09 18:14**: fix: prevent option re-selection after submitting answer
 - **2025-11-10 14:34**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2025-12-18 16:17**: docs: update README with setup instructions and feature list
 - **2025-12-19 16:01**: refactor: restructure question data schema for faster loading
 - **2025-12-19 18:44**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2025-12-20 19:38**: refactor: modularize traffic app logic and event listeners
