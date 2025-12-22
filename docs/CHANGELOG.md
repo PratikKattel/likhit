@@ -1,4 +1,3 @@
-- **2025-11-10 14:55**: perf: lazy load signal graphics and question assets
 - **2025-11-10 21:29**: feat: add search and filter by sign category
 - **2025-11-11 12:12**: chore: update project metadata and build configuration
 - **2025-11-11 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2025-12-21 13:46**: feat: add search and filter by sign category
 - **2025-12-21 17:57**: feat: add result summary with passing threshold analysis
 - **2025-12-21 17:58**: feat: add instant feedback and explanation on answer selection
+- **2025-12-22 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
