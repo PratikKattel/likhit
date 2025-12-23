@@ -1,4 +1,3 @@
-- **2025-11-11 12:12**: chore: update project metadata and build configuration
 - **2025-11-11 13:13**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-11-11 15:39**: feat: add category A and B traffic test questions
 - **2025-11-12 11:16**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2025-12-21 17:58**: feat: add instant feedback and explanation on answer selection
 - **2025-12-22 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-22 17:29**: chore: update questions database with recent DOTM updates
+- **2025-12-23 13:25**: feat: add regulatory traffic signs SVG graphics
