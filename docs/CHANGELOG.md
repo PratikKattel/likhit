@@ -1,4 +1,3 @@
-- **2025-11-12 11:16**: fix: update DOTM Nepal license syllabus questions
 - **2025-11-12 19:22**: chore: organize assets and image directory structure
 - **2025-11-13 14:53**: feat: add result summary with passing threshold analysis
 - **2025-11-13 20:42**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2025-12-23 13:25**: feat: add regulatory traffic signs SVG graphics
 - **2025-12-23 14:25**: refactor: modularize traffic app logic and event listeners
 - **2025-12-24 15:50**: feat: add warning signs and informational road signs
+- **2025-12-25 10:16**: feat: add category A and B traffic test questions
