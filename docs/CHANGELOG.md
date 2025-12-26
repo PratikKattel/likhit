@@ -1,4 +1,3 @@
-- **2025-11-13 20:42**: feat: add keyboard navigation shortcuts for question selection
 - **2025-11-14 11:59**: perf: optimize image caching for traffic sign assets
 - **2025-11-15 12:42**: perf: index question IDs for rapid lookup
 - **2025-11-16 13:01**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2025-12-25 10:16**: feat: add category A and B traffic test questions
 - **2025-12-25 11:33**: test: verify question extraction script against exam PDF
 - **2025-12-25 15:49**: docs: update traffic signals catalog documentation
+- **2025-12-26 17:48**: chore: format code style and clean up redundant variables
