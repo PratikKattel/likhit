@@ -1,4 +1,3 @@
-- **2025-11-17 14:34**: feat: add instant feedback and explanation on answer selection
 - **2025-11-18 10:04**: feat: add result summary with passing threshold analysis
 - **2025-11-19 16:00**: refactor: optimize SVG rendering for road signs
 - **2025-11-19 18:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-12-27 10:17**: docs: update traffic signals catalog documentation
 - **2025-12-27 10:35**: fix: prevent option re-selection after submitting answer
 - **2025-12-28 10:39**: fix: update DOTM Nepal license syllabus questions
+- **2025-12-28 13:10**: docs: improve code comments and API documentation
