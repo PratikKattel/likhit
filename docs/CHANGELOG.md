@@ -1,4 +1,3 @@
-- **2025-11-19 18:27**: chore: update questions database with recent DOTM updates
 - **2025-11-19 22:04**: chore: update questions database with recent DOTM updates
 - **2025-11-20 11:21**: feat: add result summary with passing threshold analysis
 - **2025-11-20 16:20**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2025-12-28 13:10**: docs: improve code comments and API documentation
 - **2025-12-29 16:17**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-12-30 18:01**: style: improve dark/light mode and mobile UI responsiveness
+- **2025-12-30 20:41**: perf: index question IDs for rapid lookup
