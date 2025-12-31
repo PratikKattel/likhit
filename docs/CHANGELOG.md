@@ -1,4 +1,3 @@
-- **2025-11-20 11:21**: feat: add result summary with passing threshold analysis
 - **2025-11-20 16:20**: chore: update questions database with recent DOTM updates
 - **2025-11-20 18:09**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-11-21 14:20**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2025-12-30 18:01**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-12-30 20:41**: perf: index question IDs for rapid lookup
 - **2025-12-30 20:47**: test: verify question extraction script against exam PDF
+- **2025-12-31 10:15**: refactor: clean up unused CSS classes and optimize stylesheet
