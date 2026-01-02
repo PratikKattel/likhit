@@ -1,4 +1,3 @@
-- **2025-11-21 14:20**: docs: update traffic signals catalog documentation
 - **2025-11-21 22:07**: feat: add warning signs and informational road signs
 - **2025-11-22 14:41**: docs: update README with setup instructions and feature list
 - **2025-11-23 11:09**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2025-12-31 10:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-31 13:57**: docs: improve code comments and API documentation
 - **2026-01-01 13:04**: perf: lazy load signal graphics and question assets
+- **2026-01-02 09:35**: docs: improve code comments and API documentation
