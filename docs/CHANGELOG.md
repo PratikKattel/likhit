@@ -1,4 +1,3 @@
-- **2025-11-23 13:21**: docs: update README with setup instructions and feature list
 - **2025-11-23 14:31**: docs: update README with setup instructions and feature list
 - **2025-11-23 16:23**: feat: add regulatory traffic signs SVG graphics
 - **2025-11-24 10:32**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-01-03 17:13**: refactor: restructure question data schema for faster loading
 - **2026-01-03 19:30**: refactor: optimize SVG rendering for road signs
 - **2026-01-04 20:28**: refactor: modularize traffic app logic and event listeners
+- **2026-01-05 09:54**: chore: organize assets and image directory structure
