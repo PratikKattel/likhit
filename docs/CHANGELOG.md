@@ -1,4 +1,3 @@
-- **2025-11-24 10:32**: feat: add result summary with passing threshold analysis
 - **2025-11-24 15:40**: fix: resolve layout shift during question transitions
 - **2025-11-24 19:04**: feat: add regulatory traffic signs SVG graphics
 - **2025-11-24 20:19**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2026-01-05 09:54**: chore: organize assets and image directory structure
 - **2026-01-05 15:01**: fix: correct color specifications for mandatory traffic signs
 - **2026-01-05 19:54**: fix: resolve layout shift during question transitions
+- **2026-01-06 17:34**: feat: add category-specific practice modes
