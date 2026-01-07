@@ -1,4 +1,3 @@
-- **2025-11-24 19:04**: feat: add regulatory traffic signs SVG graphics
 - **2025-11-24 20:19**: fix: resolve layout shift during question transitions
 - **2025-11-25 14:07**: chore: format code style and clean up redundant variables
 - **2025-11-26 14:41**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-01-05 19:54**: fix: resolve layout shift during question transitions
 - **2026-01-06 17:34**: feat: add category-specific practice modes
 - **2026-01-06 18:55**: feat: add category A and B traffic test questions
+- **2026-01-07 15:17**: test: verify question extraction script against exam PDF
