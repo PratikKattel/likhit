@@ -1,4 +1,3 @@
-- **2025-11-26 21:13**: refactor: optimize SVG rendering for road signs
 - **2025-11-27 12:35**: chore: update project metadata and build configuration
 - **2025-11-27 18:02**: feat: add result summary with passing threshold analysis
 - **2025-11-27 21:51**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-01-08 12:09**: perf: lazy load signal graphics and question assets
 - **2026-01-08 17:28**: fix: prevent option re-selection after submitting answer
 - **2026-01-08 18:53**: docs: update traffic signals catalog documentation
+- **2026-01-09 14:35**: docs: update README with setup instructions and feature list
