@@ -1,4 +1,3 @@
-- **2025-11-27 18:02**: feat: add result summary with passing threshold analysis
 - **2025-11-27 21:51**: test: verify question extraction script against exam PDF
 - **2025-11-28 17:21**: docs: update README with setup instructions and feature list
 - **2025-11-28 21:12**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-01-08 18:53**: docs: update traffic signals catalog documentation
 - **2026-01-09 14:35**: docs: update README with setup instructions and feature list
 - **2026-01-10 10:44**: style: enhance traffic sign card layout and responsiveness
+- **2026-01-11 11:23**: feat: add category-specific practice modes
