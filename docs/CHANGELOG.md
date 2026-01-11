@@ -1,4 +1,3 @@
-- **2025-11-28 21:12**: chore: format code style and clean up redundant variables
 - **2025-11-29 14:53**: refactor: optimize SVG rendering for road signs
 - **2025-11-29 17:50**: chore: organize assets and image directory structure
 - **2025-11-30 15:40**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2026-01-11 11:23**: feat: add category-specific practice modes
 - **2026-01-11 15:54**: style: polish typography and Nepali Unicode font rendering
 - **2026-01-11 19:20**: feat: add keyboard navigation shortcuts for question selection
+- **2026-01-11 21:27**: chore: update questions database with recent DOTM updates
