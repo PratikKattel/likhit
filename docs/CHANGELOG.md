@@ -1,4 +1,3 @@
-- **2025-11-30 15:40**: chore: update questions database with recent DOTM updates
 - **2025-11-30 18:15**: feat: support multiple choice questions for motorcycle category
 - **2025-12-01 10:38**: test: verify question extraction script against exam PDF
 - **2025-12-01 12:56**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2026-01-11 21:27**: chore: update questions database with recent DOTM updates
 - **2026-01-12 15:25**: perf: index question IDs for rapid lookup
 - **2026-01-12 22:04**: feat: add category A and B traffic test questions
+- **2026-01-13 13:24**: docs: update traffic signals catalog documentation
