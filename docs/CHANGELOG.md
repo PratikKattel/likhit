@@ -1,4 +1,3 @@
-- **2025-12-01 13:18**: feat: add category A and B traffic test questions
 - **2025-12-01 17:17**: fix: resolve layout shift during question transitions
 - **2025-12-02 11:39**: perf: lazy load signal graphics and question assets
 - **2025-12-03 18:49**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2026-01-13 21:53**: test: verify question extraction script against exam PDF
 - **2026-01-14 20:39**: feat: support multiple choice questions for motorcycle category
 - **2026-01-15 15:25**: docs: update traffic signals catalog documentation
+- **2026-01-15 18:09**: fix: typo in Nepali road safety regulations question
