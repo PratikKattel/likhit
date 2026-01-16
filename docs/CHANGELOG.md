@@ -1,4 +1,3 @@
-- **2025-12-03 18:49**: fix: typo in Nepali road safety regulations question
 - **2025-12-04 12:46**: perf: index question IDs for rapid lookup
 - **2025-12-04 18:19**: fix: adjust passing score threshold according to new rules
 - **2025-12-04 20:24**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-01-15 18:09**: fix: typo in Nepali road safety regulations question
 - **2026-01-15 19:49**: docs: update traffic signals catalog documentation
 - **2026-01-15 21:13**: fix: adjust passing score threshold according to new rules
+- **2026-01-16 19:56**: chore: organize assets and image directory structure
