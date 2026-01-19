@@ -1,4 +1,3 @@
-- **2025-12-05 11:54**: fix: adjust passing score threshold according to new rules
 - **2025-12-06 17:08**: test: verify question extraction script against exam PDF
 - **2025-12-07 18:25**: style: enhance traffic sign card layout and responsiveness
 - **2025-12-08 09:48**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2026-01-17 10:12**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-18 09:57**: feat: add category A and B traffic test questions
 - **2026-01-18 17:12**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2026-01-19 15:34**: perf: lazy load signal graphics and question assets
