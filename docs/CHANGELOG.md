@@ -1,4 +1,3 @@
-- **2025-12-08 09:48**: chore: organize assets and image directory structure
 - **2025-12-09 13:43**: feat: add category-specific practice modes
 - **2025-12-09 14:53**: perf: optimize image caching for traffic sign assets
 - **2025-12-10 14:14**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-01-19 15:34**: perf: lazy load signal graphics and question assets
 - **2026-01-19 18:10**: fix: adjust passing score threshold according to new rules
 - **2026-01-20 10:50**: feat: add instant feedback and explanation on answer selection
+- **2026-01-21 09:06**: feat: add instant feedback and explanation on answer selection
