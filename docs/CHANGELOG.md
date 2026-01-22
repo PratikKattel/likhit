@@ -1,4 +1,3 @@
-- **2025-12-09 14:53**: perf: optimize image caching for traffic sign assets
 - **2025-12-10 14:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-10 16:24**: fix: resolve layout shift during question transitions
 - **2025-12-11 21:55**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-01-20 10:50**: feat: add instant feedback and explanation on answer selection
 - **2026-01-21 09:06**: feat: add instant feedback and explanation on answer selection
 - **2026-01-22 18:58**: style: polish typography and Nepali Unicode font rendering
+- **2026-01-22 20:58**: chore: organize assets and image directory structure
