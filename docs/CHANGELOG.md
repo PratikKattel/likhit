@@ -1,4 +1,3 @@
-- **2025-12-12 11:39**: perf: lazy load signal graphics and question assets
 - **2025-12-12 14:45**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-12 20:59**: fix: prevent option re-selection after submitting answer
 - **2025-12-13 16:30**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-01-23 17:31**: feat: implement timer and score calculation for mock test
 - **2026-01-24 13:55**: chore: organize assets and image directory structure
 - **2026-01-25 10:15**: chore: update project metadata and build configuration
+- **2026-01-25 15:39**: docs: update traffic signals catalog documentation
