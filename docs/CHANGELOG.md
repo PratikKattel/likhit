@@ -1,4 +1,3 @@
-- **2025-12-12 20:59**: fix: prevent option re-selection after submitting answer
 - **2025-12-13 16:30**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-13 22:18**: fix: prevent option re-selection after submitting answer
 - **2025-12-14 10:10**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-01-25 10:15**: chore: update project metadata and build configuration
 - **2026-01-25 15:39**: docs: update traffic signals catalog documentation
 - **2026-01-26 14:54**: feat: add regulatory traffic signs SVG graphics
+- **2026-01-27 16:33**: style: enhance traffic sign card layout and responsiveness
