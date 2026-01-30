@@ -1,4 +1,3 @@
-- **2025-12-14 17:56**: style: enhance traffic sign card layout and responsiveness
 - **2025-12-15 10:31**: feat: support multiple choice questions for motorcycle category
 - **2025-12-16 13:56**: refactor: modularize traffic app logic and event listeners
 - **2025-12-17 16:49**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-01-28 14:45**: fix: update DOTM Nepal license syllabus questions
 - **2026-01-29 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-30 11:30**: docs: improve code comments and API documentation
+- **2026-01-30 13:10**: feat: add category-specific practice modes
