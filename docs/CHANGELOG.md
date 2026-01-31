@@ -1,4 +1,3 @@
-- **2025-12-17 16:49**: feat: add search and filter by sign category
 - **2025-12-18 16:17**: docs: update README with setup instructions and feature list
 - **2025-12-19 16:01**: refactor: restructure question data schema for faster loading
 - **2025-12-19 18:44**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-01-30 13:10**: feat: add category-specific practice modes
 - **2026-01-31 09:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-01-31 10:24**: fix: prevent option re-selection after submitting answer
+- **2026-01-31 14:16**: feat: add search and filter by sign category
