@@ -1,4 +1,3 @@
-- **2025-12-19 16:01**: refactor: restructure question data schema for faster loading
 - **2025-12-19 18:44**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-20 19:38**: refactor: modularize traffic app logic and event listeners
 - **2025-12-21 13:46**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-01-31 10:24**: fix: prevent option re-selection after submitting answer
 - **2026-01-31 14:16**: feat: add search and filter by sign category
 - **2026-02-01 09:59**: feat: add result summary with passing threshold analysis
+- **2026-02-01 12:40**: feat: implement timer and score calculation for mock test
