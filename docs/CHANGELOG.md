@@ -1,4 +1,3 @@
-- **2025-12-21 13:46**: feat: add search and filter by sign category
 - **2025-12-21 17:57**: feat: add result summary with passing threshold analysis
 - **2025-12-21 17:58**: feat: add instant feedback and explanation on answer selection
 - **2025-12-22 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-02-01 12:40**: feat: implement timer and score calculation for mock test
 - **2026-02-02 09:14**: chore: format code style and clean up redundant variables
 - **2026-02-02 17:26**: docs: update traffic signals catalog documentation
+- **2026-02-03 09:53**: feat: add warning signs and informational road signs
