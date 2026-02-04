@@ -1,4 +1,3 @@
-- **2025-12-21 17:58**: feat: add instant feedback and explanation on answer selection
 - **2025-12-22 15:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-22 17:29**: chore: update questions database with recent DOTM updates
 - **2025-12-23 13:25**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-02-02 17:26**: docs: update traffic signals catalog documentation
 - **2026-02-03 09:53**: feat: add warning signs and informational road signs
 - **2026-02-03 11:24**: docs: improve code comments and API documentation
+- **2026-02-04 20:49**: refactor: modularize traffic app logic and event listeners
