@@ -1,4 +1,3 @@
-- **2025-12-23 14:25**: refactor: modularize traffic app logic and event listeners
 - **2025-12-24 15:50**: feat: add warning signs and informational road signs
 - **2025-12-25 10:16**: feat: add category A and B traffic test questions
 - **2025-12-25 11:33**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-02-05 15:34**: feat: add search and filter by sign category
 - **2026-02-06 10:21**: feat: implement timer and score calculation for mock test
 - **2026-02-06 19:29**: docs: update traffic signals catalog documentation
+- **2026-02-07 10:23**: feat: add instant feedback and explanation on answer selection
