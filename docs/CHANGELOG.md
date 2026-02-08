@@ -1,4 +1,3 @@
-- **2025-12-25 11:33**: test: verify question extraction script against exam PDF
 - **2025-12-25 15:49**: docs: update traffic signals catalog documentation
 - **2025-12-26 17:48**: chore: format code style and clean up redundant variables
 - **2025-12-26 21:20**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-02-07 10:23**: feat: add instant feedback and explanation on answer selection
 - **2026-02-07 15:02**: fix: typo in Nepali road safety regulations question
 - **2026-02-08 13:18**: docs: update traffic signals catalog documentation
+- **2026-02-08 15:19**: perf: index question IDs for rapid lookup
