@@ -1,4 +1,3 @@
-- **2025-12-26 21:20**: style: polish typography and Nepali Unicode font rendering
 - **2025-12-27 10:17**: docs: update traffic signals catalog documentation
 - **2025-12-27 10:35**: fix: prevent option re-selection after submitting answer
 - **2025-12-28 10:39**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-02-08 15:19**: perf: index question IDs for rapid lookup
 - **2026-02-08 18:40**: feat: support multiple choice questions for motorcycle category
 - **2026-02-08 19:50**: perf: optimize image caching for traffic sign assets
+- **2026-02-09 19:14**: docs: improve code comments and API documentation
