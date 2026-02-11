@@ -1,4 +1,3 @@
-- **2025-12-28 10:39**: fix: update DOTM Nepal license syllabus questions
 - **2025-12-28 13:10**: docs: improve code comments and API documentation
 - **2025-12-29 16:17**: style: improve dark/light mode and mobile UI responsiveness
 - **2025-12-30 18:01**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-02-09 19:14**: docs: improve code comments and API documentation
 - **2026-02-10 20:55**: docs: improve code comments and API documentation
 - **2026-02-10 22:11**: fix: update DOTM Nepal license syllabus questions
+- **2026-02-11 10:51**: docs: update README with setup instructions and feature list
