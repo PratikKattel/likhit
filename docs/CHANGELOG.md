@@ -1,4 +1,3 @@
-- **2025-12-30 20:41**: perf: index question IDs for rapid lookup
 - **2025-12-30 20:47**: test: verify question extraction script against exam PDF
 - **2025-12-31 10:15**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2025-12-31 13:57**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-02-11 17:40**: perf: index question IDs for rapid lookup
 - **2026-02-12 09:57**: feat: implement timer and score calculation for mock test
 - **2026-02-12 10:02**: fix: correct color specifications for mandatory traffic signs
+- **2026-02-13 11:52**: feat: add category-specific practice modes
