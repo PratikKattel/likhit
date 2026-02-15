@@ -1,4 +1,3 @@
-- **2026-01-01 13:04**: perf: lazy load signal graphics and question assets
 - **2026-01-02 09:35**: docs: improve code comments and API documentation
 - **2026-01-03 17:13**: refactor: restructure question data schema for faster loading
 - **2026-01-03 19:30**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-02-14 11:01**: refactor: optimize SVG rendering for road signs
 - **2026-02-14 19:50**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-14 20:53**: feat: add keyboard navigation shortcuts for question selection
+- **2026-02-15 16:41**: fix: update DOTM Nepal license syllabus questions
