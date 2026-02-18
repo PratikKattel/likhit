@@ -1,4 +1,3 @@
-- **2026-01-05 09:54**: chore: organize assets and image directory structure
 - **2026-01-05 15:01**: fix: correct color specifications for mandatory traffic signs
 - **2026-01-05 19:54**: fix: resolve layout shift during question transitions
 - **2026-01-06 17:34**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-02-16 17:59**: feat: implement timer and score calculation for mock test
 - **2026-02-17 10:11**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-17 19:54**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-02-18 14:12**: perf: lazy load signal graphics and question assets
