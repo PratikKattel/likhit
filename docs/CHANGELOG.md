@@ -1,4 +1,3 @@
-- **2026-01-05 15:01**: fix: correct color specifications for mandatory traffic signs
 - **2026-01-05 19:54**: fix: resolve layout shift during question transitions
 - **2026-01-06 17:34**: feat: add category-specific practice modes
 - **2026-01-06 18:55**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2026-02-17 10:11**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-17 19:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-18 14:12**: perf: lazy load signal graphics and question assets
+- **2026-02-18 21:24**: docs: add instructions for Nepali driving license written exam
