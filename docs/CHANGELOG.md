@@ -1,4 +1,3 @@
-- **2026-01-06 17:34**: feat: add category-specific practice modes
 - **2026-01-06 18:55**: feat: add category A and B traffic test questions
 - **2026-01-07 15:17**: test: verify question extraction script against exam PDF
 - **2026-01-08 12:09**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-02-18 14:12**: perf: lazy load signal graphics and question assets
 - **2026-02-18 21:24**: docs: add instructions for Nepali driving license written exam
 - **2026-02-19 13:10**: feat: add search and filter by sign category
+- **2026-02-19 21:10**: perf: optimize image caching for traffic sign assets
