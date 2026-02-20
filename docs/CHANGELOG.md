@@ -1,4 +1,3 @@
-- **2026-01-07 15:17**: test: verify question extraction script against exam PDF
 - **2026-01-08 12:09**: perf: lazy load signal graphics and question assets
 - **2026-01-08 17:28**: fix: prevent option re-selection after submitting answer
 - **2026-01-08 18:53**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-02-19 13:10**: feat: add search and filter by sign category
 - **2026-02-19 21:10**: perf: optimize image caching for traffic sign assets
 - **2026-02-20 11:52**: perf: index question IDs for rapid lookup
+- **2026-02-20 15:14**: docs: add instructions for Nepali driving license written exam
