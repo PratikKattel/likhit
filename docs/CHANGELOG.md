@@ -1,4 +1,3 @@
-- **2026-01-08 12:09**: perf: lazy load signal graphics and question assets
 - **2026-01-08 17:28**: fix: prevent option re-selection after submitting answer
 - **2026-01-08 18:53**: docs: update traffic signals catalog documentation
 - **2026-01-09 14:35**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2026-02-19 21:10**: perf: optimize image caching for traffic sign assets
 - **2026-02-20 11:52**: perf: index question IDs for rapid lookup
 - **2026-02-20 15:14**: docs: add instructions for Nepali driving license written exam
+- **2026-02-21 14:02**: style: improve dark/light mode and mobile UI responsiveness
