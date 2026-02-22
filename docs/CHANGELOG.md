@@ -1,4 +1,3 @@
-- **2026-01-08 18:53**: docs: update traffic signals catalog documentation
 - **2026-01-09 14:35**: docs: update README with setup instructions and feature list
 - **2026-01-10 10:44**: style: enhance traffic sign card layout and responsiveness
 - **2026-01-11 11:23**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-02-20 15:14**: docs: add instructions for Nepali driving license written exam
 - **2026-02-21 14:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-22 16:39**: chore: organize assets and image directory structure
+- **2026-02-22 17:41**: test: verify question extraction script against exam PDF
