@@ -1,4 +1,3 @@
-- **2026-01-11 11:23**: feat: add category-specific practice modes
 - **2026-01-11 15:54**: style: polish typography and Nepali Unicode font rendering
 - **2026-01-11 19:20**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-11 21:27**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2026-02-22 17:41**: test: verify question extraction script against exam PDF
 - **2026-02-22 22:06**: style: polish typography and Nepali Unicode font rendering
 - **2026-02-23 09:42**: chore: update project metadata and build configuration
+- **2026-02-23 18:25**: perf: index question IDs for rapid lookup
