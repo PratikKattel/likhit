@@ -1,4 +1,3 @@
-- **2026-01-11 15:54**: style: polish typography and Nepali Unicode font rendering
 - **2026-01-11 19:20**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-11 21:27**: chore: update questions database with recent DOTM updates
 - **2026-01-12 15:25**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-02-22 22:06**: style: polish typography and Nepali Unicode font rendering
 - **2026-02-23 09:42**: chore: update project metadata and build configuration
 - **2026-02-23 18:25**: perf: index question IDs for rapid lookup
+- **2026-02-24 09:43**: feat: add warning signs and informational road signs
