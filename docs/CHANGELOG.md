@@ -1,4 +1,3 @@
-- **2026-01-12 22:04**: feat: add category A and B traffic test questions
 - **2026-01-13 13:24**: docs: update traffic signals catalog documentation
 - **2026-01-13 21:53**: test: verify question extraction script against exam PDF
 - **2026-01-14 20:39**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-02-24 19:39**: test: verify question extraction script against exam PDF
 - **2026-02-25 21:04**: feat: add search and filter by sign category
 - **2026-02-25 21:19**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-02-26 15:14**: docs: improve code comments and API documentation
