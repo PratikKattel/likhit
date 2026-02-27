@@ -1,4 +1,3 @@
-- **2026-01-14 20:39**: feat: support multiple choice questions for motorcycle category
 - **2026-01-15 15:25**: docs: update traffic signals catalog documentation
 - **2026-01-15 18:09**: fix: typo in Nepali road safety regulations question
 - **2026-01-15 19:49**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-02-26 15:14**: docs: improve code comments and API documentation
 - **2026-02-27 10:59**: docs: update traffic signals catalog documentation
 - **2026-02-27 17:42**: chore: format code style and clean up redundant variables
+- **2026-02-27 18:41**: fix: adjust passing score threshold according to new rules
