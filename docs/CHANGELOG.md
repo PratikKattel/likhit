@@ -1,4 +1,3 @@
-- **2026-01-15 21:13**: fix: adjust passing score threshold according to new rules
 - **2026-01-16 19:56**: chore: organize assets and image directory structure
 - **2026-01-17 10:12**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-18 09:57**: feat: add category A and B traffic test questions
@@ -78,3 +77,4 @@
 - **2026-02-28 09:28**: refactor: modularize traffic app logic and event listeners
 - **2026-03-01 21:12**: chore: organize assets and image directory structure
 - **2026-03-02 13:27**: refactor: modularize traffic app logic and event listeners
+- **2026-03-03 09:55**: chore: update project metadata and build configuration
