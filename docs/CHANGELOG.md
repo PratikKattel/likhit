@@ -1,4 +1,3 @@
-- **2026-01-16 19:56**: chore: organize assets and image directory structure
 - **2026-01-17 10:12**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-18 09:57**: feat: add category A and B traffic test questions
 - **2026-01-18 17:12**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-03-01 21:12**: chore: organize assets and image directory structure
 - **2026-03-02 13:27**: refactor: modularize traffic app logic and event listeners
 - **2026-03-03 09:55**: chore: update project metadata and build configuration
+- **2026-03-03 19:28**: chore: update questions database with recent DOTM updates
