@@ -1,4 +1,3 @@
-- **2026-01-18 17:12**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-01-19 15:34**: perf: lazy load signal graphics and question assets
 - **2026-01-19 18:10**: fix: adjust passing score threshold according to new rules
 - **2026-01-20 10:50**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2026-03-03 19:28**: chore: update questions database with recent DOTM updates
 - **2026-03-04 10:35**: docs: update README with setup instructions and feature list
 - **2026-03-04 19:43**: feat: implement timer and score calculation for mock test
+- **2026-03-05 17:15**: feat: implement timer and score calculation for mock test
