@@ -1,4 +1,3 @@
-- **2026-01-19 18:10**: fix: adjust passing score threshold according to new rules
 - **2026-01-20 10:50**: feat: add instant feedback and explanation on answer selection
 - **2026-01-21 09:06**: feat: add instant feedback and explanation on answer selection
 - **2026-01-22 18:58**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-03-04 19:43**: feat: implement timer and score calculation for mock test
 - **2026-03-05 17:15**: feat: implement timer and score calculation for mock test
 - **2026-03-06 21:20**: feat: support multiple choice questions for motorcycle category
+- **2026-03-07 14:39**: feat: add result summary with passing threshold analysis
