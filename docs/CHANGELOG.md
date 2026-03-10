@@ -1,4 +1,3 @@
-- **2026-01-23 17:31**: feat: implement timer and score calculation for mock test
 - **2026-01-24 13:55**: chore: organize assets and image directory structure
 - **2026-01-25 10:15**: chore: update project metadata and build configuration
 - **2026-01-25 15:39**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-03-07 17:50**: style: enhance traffic sign card layout and responsiveness
 - **2026-03-08 19:48**: perf: lazy load signal graphics and question assets
 - **2026-03-09 13:59**: fix: update DOTM Nepal license syllabus questions
+- **2026-03-10 12:41**: style: enhance traffic sign card layout and responsiveness
