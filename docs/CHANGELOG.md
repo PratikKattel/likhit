@@ -1,4 +1,3 @@
-- **2026-01-25 10:15**: chore: update project metadata and build configuration
 - **2026-01-25 15:39**: docs: update traffic signals catalog documentation
 - **2026-01-26 14:54**: feat: add regulatory traffic signs SVG graphics
 - **2026-01-27 16:33**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2026-03-09 13:59**: fix: update DOTM Nepal license syllabus questions
 - **2026-03-10 12:41**: style: enhance traffic sign card layout and responsiveness
 - **2026-03-11 10:16**: refactor: optimize SVG rendering for road signs
+- **2026-03-11 15:59**: docs: update README with setup instructions and feature list
