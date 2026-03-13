@@ -1,4 +1,3 @@
-- **2026-01-26 14:54**: feat: add regulatory traffic signs SVG graphics
 - **2026-01-27 16:33**: style: enhance traffic sign card layout and responsiveness
 - **2026-01-27 18:20**: feat: add category A and B traffic test questions
 - **2026-01-28 14:45**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-03-11 10:16**: refactor: optimize SVG rendering for road signs
 - **2026-03-11 15:59**: docs: update README with setup instructions and feature list
 - **2026-03-12 15:00**: chore: format code style and clean up redundant variables
+- **2026-03-13 14:35**: fix: update DOTM Nepal license syllabus questions
