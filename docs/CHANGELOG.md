@@ -1,4 +1,3 @@
-- **2026-01-27 18:20**: feat: add category A and B traffic test questions
 - **2026-01-28 14:45**: fix: update DOTM Nepal license syllabus questions
 - **2026-01-29 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-30 11:30**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-03-12 15:00**: chore: format code style and clean up redundant variables
 - **2026-03-13 14:35**: fix: update DOTM Nepal license syllabus questions
 - **2026-03-13 22:18**: fix: update DOTM Nepal license syllabus questions
+- **2026-03-14 15:55**: fix: typo in Nepali road safety regulations question
