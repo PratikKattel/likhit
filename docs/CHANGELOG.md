@@ -1,4 +1,3 @@
-- **2026-01-29 21:52**: feat: add keyboard navigation shortcuts for question selection
 - **2026-01-30 11:30**: docs: improve code comments and API documentation
 - **2026-01-30 13:10**: feat: add category-specific practice modes
 - **2026-01-31 09:04**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-03-13 22:18**: fix: update DOTM Nepal license syllabus questions
 - **2026-03-14 15:55**: fix: typo in Nepali road safety regulations question
 - **2026-03-15 18:32**: feat: add category A and B traffic test questions
+- **2026-03-15 20:00**: feat: add search and filter by sign category
