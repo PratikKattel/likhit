@@ -1,4 +1,3 @@
-- **2026-01-31 09:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-01-31 10:24**: fix: prevent option re-selection after submitting answer
 - **2026-01-31 14:16**: feat: add search and filter by sign category
 - **2026-02-01 09:59**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-03-15 20:00**: feat: add search and filter by sign category
 - **2026-03-16 13:09**: docs: add instructions for Nepali driving license written exam
 - **2026-03-17 12:59**: chore: organize assets and image directory structure
+- **2026-03-17 18:21**: chore: update project metadata and build configuration
