@@ -1,4 +1,3 @@
-- **2026-01-31 14:16**: feat: add search and filter by sign category
 - **2026-02-01 09:59**: feat: add result summary with passing threshold analysis
 - **2026-02-01 12:40**: feat: implement timer and score calculation for mock test
 - **2026-02-02 09:14**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-03-17 12:59**: chore: organize assets and image directory structure
 - **2026-03-17 18:21**: chore: update project metadata and build configuration
 - **2026-03-18 17:57**: feat: add search and filter by sign category
+- **2026-03-19 19:32**: feat: add keyboard navigation shortcuts for question selection
