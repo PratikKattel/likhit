@@ -1,4 +1,3 @@
-- **2026-02-02 09:14**: chore: format code style and clean up redundant variables
 - **2026-02-02 17:26**: docs: update traffic signals catalog documentation
 - **2026-02-03 09:53**: feat: add warning signs and informational road signs
 - **2026-02-03 11:24**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-03-19 19:32**: feat: add keyboard navigation shortcuts for question selection
 - **2026-03-20 20:58**: fix: correct color specifications for mandatory traffic signs
 - **2026-03-21 09:23**: fix: adjust passing score threshold according to new rules
+- **2026-03-22 19:18**: feat: add category-specific practice modes
