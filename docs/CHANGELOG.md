@@ -1,4 +1,3 @@
-- **2026-02-02 17:26**: docs: update traffic signals catalog documentation
 - **2026-02-03 09:53**: feat: add warning signs and informational road signs
 - **2026-02-03 11:24**: docs: improve code comments and API documentation
 - **2026-02-04 20:49**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-03-20 20:58**: fix: correct color specifications for mandatory traffic signs
 - **2026-03-21 09:23**: fix: adjust passing score threshold according to new rules
 - **2026-03-22 19:18**: feat: add category-specific practice modes
+- **2026-03-22 21:53**: fix: typo in Nepali road safety regulations question
