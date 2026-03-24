@@ -1,4 +1,3 @@
-- **2026-02-04 20:49**: refactor: modularize traffic app logic and event listeners
 - **2026-02-05 15:34**: feat: add search and filter by sign category
 - **2026-02-06 10:21**: feat: implement timer and score calculation for mock test
 - **2026-02-06 19:29**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-03-22 21:53**: fix: typo in Nepali road safety regulations question
 - **2026-03-23 17:40**: fix: adjust passing score threshold according to new rules
 - **2026-03-24 19:49**: feat: support multiple choice questions for motorcycle category
+- **2026-03-24 21:05**: docs: add instructions for Nepali driving license written exam
