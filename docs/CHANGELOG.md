@@ -1,4 +1,3 @@
-- **2026-02-06 19:29**: docs: update traffic signals catalog documentation
 - **2026-02-07 10:23**: feat: add instant feedback and explanation on answer selection
 - **2026-02-07 15:02**: fix: typo in Nepali road safety regulations question
 - **2026-02-08 13:18**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-03-24 21:05**: docs: add instructions for Nepali driving license written exam
 - **2026-03-25 18:47**: refactor: modularize traffic app logic and event listeners
 - **2026-03-26 13:14**: refactor: restructure question data schema for faster loading
+- **2026-03-26 17:51**: docs: update traffic signals catalog documentation
