@@ -1,4 +1,3 @@
-- **2026-02-08 13:18**: docs: update traffic signals catalog documentation
 - **2026-02-08 15:19**: perf: index question IDs for rapid lookup
 - **2026-02-08 18:40**: feat: support multiple choice questions for motorcycle category
 - **2026-02-08 19:50**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-03-26 17:51**: docs: update traffic signals catalog documentation
 - **2026-03-27 16:00**: feat: add search and filter by sign category
 - **2026-03-28 15:22**: perf: index question IDs for rapid lookup
+- **2026-03-29 19:16**: fix: prevent option re-selection after submitting answer
