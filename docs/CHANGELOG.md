@@ -1,4 +1,3 @@
-- **2026-02-10 20:55**: docs: improve code comments and API documentation
 - **2026-02-10 22:11**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-11 10:51**: docs: update README with setup instructions and feature list
 - **2026-02-11 17:40**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-03-30 11:43**: perf: optimize image caching for traffic sign assets
 - **2026-03-30 13:18**: perf: lazy load signal graphics and question assets
 - **2026-03-31 09:26**: fix: typo in Nepali road safety regulations question
+- **2026-03-31 22:15**: feat: add result summary with passing threshold analysis
