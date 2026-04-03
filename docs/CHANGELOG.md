@@ -1,4 +1,3 @@
-- **2026-02-11 17:40**: perf: index question IDs for rapid lookup
 - **2026-02-12 09:57**: feat: implement timer and score calculation for mock test
 - **2026-02-12 10:02**: fix: correct color specifications for mandatory traffic signs
 - **2026-02-13 11:52**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-03-31 22:15**: feat: add result summary with passing threshold analysis
 - **2026-04-01 10:21**: fix: adjust passing score threshold according to new rules
 - **2026-04-02 20:32**: style: polish typography and Nepali Unicode font rendering
+- **2026-04-03 10:46**: refactor: restructure question data schema for faster loading
