@@ -1,4 +1,3 @@
-- **2026-02-14 11:01**: refactor: optimize SVG rendering for road signs
 - **2026-02-14 19:50**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-14 20:53**: feat: add keyboard navigation shortcuts for question selection
 - **2026-02-15 16:41**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-04-04 09:58**: fix: prevent option re-selection after submitting answer
 - **2026-04-04 12:05**: fix: adjust passing score threshold according to new rules
 - **2026-04-05 12:57**: refactor: restructure question data schema for faster loading
+- **2026-04-05 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
