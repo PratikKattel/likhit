@@ -1,4 +1,3 @@
-- **2026-02-15 16:41**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-15 17:42**: fix: correct color specifications for mandatory traffic signs
 - **2026-02-16 17:59**: feat: implement timer and score calculation for mock test
 - **2026-02-17 10:11**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-04-05 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-05 17:25**: docs: update traffic signals catalog documentation
 - **2026-04-06 10:10**: test: verify question extraction script against exam PDF
+- **2026-04-06 15:14**: feat: add instant feedback and explanation on answer selection
