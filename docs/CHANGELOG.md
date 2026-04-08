@@ -1,4 +1,3 @@
-- **2026-02-16 17:59**: feat: implement timer and score calculation for mock test
 - **2026-02-17 10:11**: fix: update DOTM Nepal license syllabus questions
 - **2026-02-17 19:54**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-18 14:12**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-04-06 10:10**: test: verify question extraction script against exam PDF
 - **2026-04-06 15:14**: feat: add instant feedback and explanation on answer selection
 - **2026-04-07 16:08**: docs: add instructions for Nepali driving license written exam
+- **2026-04-08 20:04**: chore: update questions database with recent DOTM updates
