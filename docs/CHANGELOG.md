@@ -1,4 +1,3 @@
-- **2026-02-18 21:24**: docs: add instructions for Nepali driving license written exam
 - **2026-02-19 13:10**: feat: add search and filter by sign category
 - **2026-02-19 21:10**: perf: optimize image caching for traffic sign assets
 - **2026-02-20 11:52**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-04-09 11:13**: test: verify question extraction script against exam PDF
 - **2026-04-09 15:11**: feat: add instant feedback and explanation on answer selection
 - **2026-04-09 21:18**: perf: index question IDs for rapid lookup
+- **2026-04-10 16:15**: docs: add instructions for Nepali driving license written exam
