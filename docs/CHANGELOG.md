@@ -1,4 +1,3 @@
-- **2026-02-19 21:10**: perf: optimize image caching for traffic sign assets
 - **2026-02-20 11:52**: perf: index question IDs for rapid lookup
 - **2026-02-20 15:14**: docs: add instructions for Nepali driving license written exam
 - **2026-02-21 14:02**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-04-09 21:18**: perf: index question IDs for rapid lookup
 - **2026-04-10 16:15**: docs: add instructions for Nepali driving license written exam
 - **2026-04-11 19:49**: perf: optimize image caching for traffic sign assets
+- **2026-04-12 11:10**: docs: improve code comments and API documentation
