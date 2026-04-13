@@ -1,4 +1,3 @@
-- **2026-02-20 15:14**: docs: add instructions for Nepali driving license written exam
 - **2026-02-21 14:02**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-22 16:39**: chore: organize assets and image directory structure
 - **2026-02-22 17:41**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-04-11 19:49**: perf: optimize image caching for traffic sign assets
 - **2026-04-12 11:10**: docs: improve code comments and API documentation
 - **2026-04-12 11:51**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-04-13 19:22**: style: improve dark/light mode and mobile UI responsiveness
