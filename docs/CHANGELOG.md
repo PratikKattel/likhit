@@ -1,4 +1,3 @@
-- **2026-02-22 22:06**: style: polish typography and Nepali Unicode font rendering
 - **2026-02-23 09:42**: chore: update project metadata and build configuration
 - **2026-02-23 18:25**: perf: index question IDs for rapid lookup
 - **2026-02-24 09:43**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-04-14 14:16**: feat: implement timer and score calculation for mock test
 - **2026-04-14 19:22**: style: polish typography and Nepali Unicode font rendering
 - **2026-04-15 20:32**: feat: add category A and B traffic test questions
+- **2026-04-16 14:36**: fix: correct color specifications for mandatory traffic signs
