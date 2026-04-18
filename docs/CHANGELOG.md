@@ -1,4 +1,3 @@
-- **2026-02-23 18:25**: perf: index question IDs for rapid lookup
 - **2026-02-24 09:43**: feat: add warning signs and informational road signs
 - **2026-02-24 19:39**: test: verify question extraction script against exam PDF
 - **2026-02-25 21:04**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-04-15 20:32**: feat: add category A and B traffic test questions
 - **2026-04-16 14:36**: fix: correct color specifications for mandatory traffic signs
 - **2026-04-17 19:42**: feat: add category A and B traffic test questions
+- **2026-04-18 10:52**: chore: update questions database with recent DOTM updates
