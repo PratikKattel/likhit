@@ -1,4 +1,3 @@
-- **2026-02-24 19:39**: test: verify question extraction script against exam PDF
 - **2026-02-25 21:04**: feat: add search and filter by sign category
 - **2026-02-25 21:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-26 15:14**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-04-17 19:42**: feat: add category A and B traffic test questions
 - **2026-04-18 10:52**: chore: update questions database with recent DOTM updates
 - **2026-04-18 14:33**: feat: add keyboard navigation shortcuts for question selection
+- **2026-04-18 14:57**: fix: adjust passing score threshold according to new rules
