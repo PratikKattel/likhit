@@ -1,4 +1,3 @@
-- **2026-02-25 21:19**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-02-26 15:14**: docs: improve code comments and API documentation
 - **2026-02-27 10:59**: docs: update traffic signals catalog documentation
 - **2026-02-27 17:42**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-04-18 14:33**: feat: add keyboard navigation shortcuts for question selection
 - **2026-04-18 14:57**: fix: adjust passing score threshold according to new rules
 - **2026-04-19 12:27**: docs: improve code comments and API documentation
+- **2026-04-19 19:04**: docs: improve code comments and API documentation
