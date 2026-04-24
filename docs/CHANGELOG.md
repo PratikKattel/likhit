@@ -1,4 +1,3 @@
-- **2026-03-02 13:27**: refactor: modularize traffic app logic and event listeners
 - **2026-03-03 09:55**: chore: update project metadata and build configuration
 - **2026-03-03 19:28**: chore: update questions database with recent DOTM updates
 - **2026-03-04 10:35**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2026-04-22 21:55**: chore: format code style and clean up redundant variables
 - **2026-04-23 11:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-24 15:22**: refactor: modularize traffic app logic and event listeners
+- **2026-04-24 16:48**: feat: add keyboard navigation shortcuts for question selection
