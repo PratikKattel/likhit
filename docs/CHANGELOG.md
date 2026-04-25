@@ -1,4 +1,3 @@
-- **2026-03-03 19:28**: chore: update questions database with recent DOTM updates
 - **2026-03-04 10:35**: docs: update README with setup instructions and feature list
 - **2026-03-04 19:43**: feat: implement timer and score calculation for mock test
 - **2026-03-05 17:15**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2026-04-24 15:22**: refactor: modularize traffic app logic and event listeners
 - **2026-04-24 16:48**: feat: add keyboard navigation shortcuts for question selection
 - **2026-04-25 11:38**: feat: add result summary with passing threshold analysis
+- **2026-04-25 20:25**: feat: implement timer and score calculation for mock test
