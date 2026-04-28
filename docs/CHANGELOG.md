@@ -1,4 +1,3 @@
-- **2026-03-07 15:05**: perf: index question IDs for rapid lookup
 - **2026-03-07 17:50**: style: enhance traffic sign card layout and responsiveness
 - **2026-03-08 19:48**: perf: lazy load signal graphics and question assets
 - **2026-03-09 13:59**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-04-27 14:53**: fix: typo in Nepali road safety regulations question
 - **2026-04-27 20:57**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-04-28 13:05**: docs: add instructions for Nepali driving license written exam
+- **2026-04-28 14:38**: chore: update project metadata and build configuration
