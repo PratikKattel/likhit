@@ -1,4 +1,3 @@
-- **2026-03-07 14:39**: feat: add result summary with passing threshold analysis
 - **2026-03-07 15:05**: perf: index question IDs for rapid lookup
 - **2026-03-07 17:50**: style: enhance traffic sign card layout and responsiveness
 - **2026-03-08 19:48**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-04-26 14:47**: feat: implement timer and score calculation for mock test
 - **2026-04-27 14:53**: fix: typo in Nepali road safety regulations question
 - **2026-04-27 20:57**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-04-28 13:05**: docs: add instructions for Nepali driving license written exam
