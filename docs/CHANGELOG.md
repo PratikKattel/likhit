@@ -1,4 +1,3 @@
-- **2026-03-11 10:16**: refactor: optimize SVG rendering for road signs
 - **2026-03-11 15:59**: docs: update README with setup instructions and feature list
 - **2026-03-12 15:00**: chore: format code style and clean up redundant variables
 - **2026-03-13 14:35**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-04-29 10:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-29 11:09**: docs: update traffic signals catalog documentation
 - **2026-04-29 22:20**: fix: adjust passing score threshold according to new rules
+- **2026-04-30 10:58**: perf: index question IDs for rapid lookup
