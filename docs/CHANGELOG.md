@@ -1,4 +1,3 @@
-- **2026-03-12 15:00**: chore: format code style and clean up redundant variables
 - **2026-03-13 14:35**: fix: update DOTM Nepal license syllabus questions
 - **2026-03-13 22:18**: fix: update DOTM Nepal license syllabus questions
 - **2026-03-14 15:55**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2026-04-29 22:20**: fix: adjust passing score threshold according to new rules
 - **2026-04-30 10:58**: perf: index question IDs for rapid lookup
 - **2026-04-30 19:59**: feat: implement timer and score calculation for mock test
+- **2026-04-30 22:12**: style: improve dark/light mode and mobile UI responsiveness
