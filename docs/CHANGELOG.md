@@ -1,4 +1,3 @@
-- **2026-03-14 15:55**: fix: typo in Nepali road safety regulations question
 - **2026-03-15 18:32**: feat: add category A and B traffic test questions
 - **2026-03-15 20:00**: feat: add search and filter by sign category
 - **2026-03-16 13:09**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2026-04-30 22:12**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-05-01 17:27**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-02 19:21**: feat: add category-specific practice modes
+- **2026-05-02 21:12**: docs: add instructions for Nepali driving license written exam
