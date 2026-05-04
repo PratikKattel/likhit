@@ -1,4 +1,3 @@
-- **2026-03-16 13:09**: docs: add instructions for Nepali driving license written exam
 - **2026-03-17 12:59**: chore: organize assets and image directory structure
 - **2026-03-17 18:21**: chore: update project metadata and build configuration
 - **2026-03-18 17:57**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-05-02 21:12**: docs: add instructions for Nepali driving license written exam
 - **2026-05-03 15:48**: feat: add category-specific practice modes
 - **2026-05-03 18:09**: feat: support multiple choice questions for motorcycle category
+- **2026-05-04 13:10**: docs: update traffic signals catalog documentation
