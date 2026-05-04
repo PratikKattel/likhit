@@ -1,4 +1,3 @@
-- **2026-03-17 18:21**: chore: update project metadata and build configuration
 - **2026-03-18 17:57**: feat: add search and filter by sign category
 - **2026-03-19 19:32**: feat: add keyboard navigation shortcuts for question selection
 - **2026-03-20 20:58**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-05-03 18:09**: feat: support multiple choice questions for motorcycle category
 - **2026-05-04 13:10**: docs: update traffic signals catalog documentation
 - **2026-05-04 13:17**: feat: add instant feedback and explanation on answer selection
+- **2026-05-04 18:56**: refactor: restructure question data schema for faster loading
