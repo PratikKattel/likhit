@@ -1,4 +1,3 @@
-- **2026-03-18 17:57**: feat: add search and filter by sign category
 - **2026-03-19 19:32**: feat: add keyboard navigation shortcuts for question selection
 - **2026-03-20 20:58**: fix: correct color specifications for mandatory traffic signs
 - **2026-03-21 09:23**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2026-05-04 13:10**: docs: update traffic signals catalog documentation
 - **2026-05-04 13:17**: feat: add instant feedback and explanation on answer selection
 - **2026-05-04 18:56**: refactor: restructure question data schema for faster loading
+- **2026-05-05 18:14**: feat: add warning signs and informational road signs
