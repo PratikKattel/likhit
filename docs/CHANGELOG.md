@@ -1,4 +1,3 @@
-- **2026-03-21 09:23**: fix: adjust passing score threshold according to new rules
 - **2026-03-22 19:18**: feat: add category-specific practice modes
 - **2026-03-22 21:53**: fix: typo in Nepali road safety regulations question
 - **2026-03-23 17:40**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2026-05-05 18:14**: feat: add warning signs and informational road signs
 - **2026-05-06 11:42**: feat: implement timer and score calculation for mock test
 - **2026-05-06 16:15**: docs: add instructions for Nepali driving license written exam
+- **2026-05-07 11:04**: docs: improve code comments and API documentation
