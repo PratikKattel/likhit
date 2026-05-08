@@ -1,4 +1,3 @@
-- **2026-03-24 19:49**: feat: support multiple choice questions for motorcycle category
 - **2026-03-24 21:05**: docs: add instructions for Nepali driving license written exam
 - **2026-03-25 18:47**: refactor: modularize traffic app logic and event listeners
 - **2026-03-26 13:14**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-05-07 16:09**: feat: implement timer and score calculation for mock test
 - **2026-05-08 10:13**: style: enhance traffic sign card layout and responsiveness
 - **2026-05-08 19:41**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2026-05-08 21:20**: style: polish typography and Nepali Unicode font rendering
