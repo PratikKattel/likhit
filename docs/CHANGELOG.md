@@ -1,4 +1,3 @@
-- **2026-03-23 17:40**: fix: adjust passing score threshold according to new rules
 - **2026-03-24 19:49**: feat: support multiple choice questions for motorcycle category
 - **2026-03-24 21:05**: docs: add instructions for Nepali driving license written exam
 - **2026-03-25 18:47**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-05-07 11:04**: docs: improve code comments and API documentation
 - **2026-05-07 16:09**: feat: implement timer and score calculation for mock test
 - **2026-05-08 10:13**: style: enhance traffic sign card layout and responsiveness
+- **2026-05-08 19:41**: refactor: clean up unused CSS classes and optimize stylesheet
