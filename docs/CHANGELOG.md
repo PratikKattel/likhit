@@ -1,4 +1,3 @@
-- **2026-03-25 18:47**: refactor: modularize traffic app logic and event listeners
 - **2026-03-26 13:14**: refactor: restructure question data schema for faster loading
 - **2026-03-26 17:51**: docs: update traffic signals catalog documentation
 - **2026-03-27 16:00**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-05-08 19:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-05-08 21:20**: style: polish typography and Nepali Unicode font rendering
 - **2026-05-09 09:25**: docs: update README with setup instructions and feature list
+- **2026-05-09 16:59**: chore: format code style and clean up redundant variables
