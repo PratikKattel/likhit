@@ -1,4 +1,3 @@
-- **2026-03-26 17:51**: docs: update traffic signals catalog documentation
 - **2026-03-27 16:00**: feat: add search and filter by sign category
 - **2026-03-28 15:22**: perf: index question IDs for rapid lookup
 - **2026-03-29 19:16**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2026-05-09 09:25**: docs: update README with setup instructions and feature list
 - **2026-05-09 16:59**: chore: format code style and clean up redundant variables
 - **2026-05-10 12:13**: perf: index question IDs for rapid lookup
+- **2026-05-10 13:03**: chore: organize assets and image directory structure
