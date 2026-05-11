@@ -1,4 +1,3 @@
-- **2026-03-28 15:22**: perf: index question IDs for rapid lookup
 - **2026-03-29 19:16**: fix: prevent option re-selection after submitting answer
 - **2026-03-30 10:00**: chore: organize assets and image directory structure
 - **2026-03-30 11:43**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-05-10 12:13**: perf: index question IDs for rapid lookup
 - **2026-05-10 13:03**: chore: organize assets and image directory structure
 - **2026-05-10 20:34**: fix: correct color specifications for mandatory traffic signs
+- **2026-05-11 09:05**: chore: update questions database with recent DOTM updates
