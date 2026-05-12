@@ -1,4 +1,3 @@
-- **2026-03-29 19:16**: fix: prevent option re-selection after submitting answer
 - **2026-03-30 10:00**: chore: organize assets and image directory structure
 - **2026-03-30 11:43**: perf: optimize image caching for traffic sign assets
 - **2026-03-30 13:18**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-05-10 13:03**: chore: organize assets and image directory structure
 - **2026-05-10 20:34**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-11 09:05**: chore: update questions database with recent DOTM updates
+- **2026-05-12 09:09**: refactor: restructure question data schema for faster loading
