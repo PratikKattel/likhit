@@ -1,4 +1,3 @@
-- **2026-03-30 13:18**: perf: lazy load signal graphics and question assets
 - **2026-03-31 09:26**: fix: typo in Nepali road safety regulations question
 - **2026-03-31 22:15**: feat: add result summary with passing threshold analysis
 - **2026-04-01 10:21**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2026-05-12 09:09**: refactor: restructure question data schema for faster loading
 - **2026-05-13 17:37**: refactor: modularize traffic app logic and event listeners
 - **2026-05-14 13:13**: feat: add warning signs and informational road signs
+- **2026-05-15 13:00**: docs: update README with setup instructions and feature list
