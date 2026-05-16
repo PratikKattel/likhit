@@ -1,4 +1,3 @@
-- **2026-03-31 22:15**: feat: add result summary with passing threshold analysis
 - **2026-04-01 10:21**: fix: adjust passing score threshold according to new rules
 - **2026-04-02 20:32**: style: polish typography and Nepali Unicode font rendering
 - **2026-04-03 10:46**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-05-14 13:13**: feat: add warning signs and informational road signs
 - **2026-05-15 13:00**: docs: update README with setup instructions and feature list
 - **2026-05-15 17:25**: feat: add category A and B traffic test questions
+- **2026-05-16 12:03**: perf: lazy load signal graphics and question assets
