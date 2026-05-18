@@ -1,4 +1,3 @@
-- **2026-04-04 12:05**: fix: adjust passing score threshold according to new rules
 - **2026-04-05 12:57**: refactor: restructure question data schema for faster loading
 - **2026-04-05 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-05 17:25**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-05-17 14:33**: docs: add instructions for Nepali driving license written exam
 - **2026-05-18 12:45**: fix: prevent option re-selection after submitting answer
 - **2026-05-18 18:46**: refactor: optimize SVG rendering for road signs
+- **2026-05-18 21:42**: fix: update DOTM Nepal license syllabus questions
