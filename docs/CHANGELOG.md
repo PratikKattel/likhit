@@ -1,4 +1,3 @@
-- **2026-04-05 12:57**: refactor: restructure question data schema for faster loading
 - **2026-04-05 15:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-05 17:25**: docs: update traffic signals catalog documentation
 - **2026-04-06 10:10**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-05-18 12:45**: fix: prevent option re-selection after submitting answer
 - **2026-05-18 18:46**: refactor: optimize SVG rendering for road signs
 - **2026-05-18 21:42**: fix: update DOTM Nepal license syllabus questions
+- **2026-05-19 20:44**: fix: correct color specifications for mandatory traffic signs
