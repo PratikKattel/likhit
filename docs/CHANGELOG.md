@@ -1,4 +1,3 @@
-- **2026-04-05 17:25**: docs: update traffic signals catalog documentation
 - **2026-04-06 10:10**: test: verify question extraction script against exam PDF
 - **2026-04-06 15:14**: feat: add instant feedback and explanation on answer selection
 - **2026-04-07 16:08**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2026-05-18 21:42**: fix: update DOTM Nepal license syllabus questions
 - **2026-05-19 20:44**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-19 21:09**: feat: add result summary with passing threshold analysis
+- **2026-05-20 18:26**: fix: correct color specifications for mandatory traffic signs
