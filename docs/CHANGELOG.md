@@ -1,4 +1,3 @@
-- **2026-04-09 15:11**: feat: add instant feedback and explanation on answer selection
 - **2026-04-09 21:18**: perf: index question IDs for rapid lookup
 - **2026-04-10 16:15**: docs: add instructions for Nepali driving license written exam
 - **2026-04-11 19:49**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-05-22 09:59**: feat: add warning signs and informational road signs
 - **2026-05-22 13:37**: feat: add result summary with passing threshold analysis
 - **2026-05-22 14:04**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-05-22 15:11**: feat: add regulatory traffic signs SVG graphics
