@@ -1,4 +1,3 @@
-- **2026-04-10 16:15**: docs: add instructions for Nepali driving license written exam
 - **2026-04-11 19:49**: perf: optimize image caching for traffic sign assets
 - **2026-04-12 11:10**: docs: improve code comments and API documentation
 - **2026-04-12 11:51**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-05-22 14:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-05-22 15:11**: feat: add regulatory traffic signs SVG graphics
 - **2026-05-23 11:10**: refactor: optimize SVG rendering for road signs
+- **2026-05-24 12:35**: feat: add category-specific practice modes
