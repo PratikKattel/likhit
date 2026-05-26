@@ -1,4 +1,3 @@
-- **2026-04-12 11:51**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-04-13 19:22**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-04-14 14:16**: feat: implement timer and score calculation for mock test
 - **2026-04-14 19:22**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-05-24 12:35**: feat: add category-specific practice modes
 - **2026-05-25 13:19**: docs: improve code comments and API documentation
 - **2026-05-26 15:21**: feat: add result summary with passing threshold analysis
+- **2026-05-26 21:31**: feat: add search and filter by sign category
