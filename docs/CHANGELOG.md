@@ -1,4 +1,3 @@
-- **2026-04-14 14:16**: feat: implement timer and score calculation for mock test
 - **2026-04-14 19:22**: style: polish typography and Nepali Unicode font rendering
 - **2026-04-15 20:32**: feat: add category A and B traffic test questions
 - **2026-04-16 14:36**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-05-26 15:21**: feat: add result summary with passing threshold analysis
 - **2026-05-26 21:31**: feat: add search and filter by sign category
 - **2026-05-27 11:57**: chore: organize assets and image directory structure
+- **2026-05-27 19:31**: chore: format code style and clean up redundant variables
