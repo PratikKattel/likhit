@@ -1,4 +1,3 @@
-- **2026-04-19 12:27**: docs: improve code comments and API documentation
 - **2026-04-19 19:04**: docs: improve code comments and API documentation
 - **2026-04-20 18:42**: feat: add regulatory traffic signs SVG graphics
 - **2026-04-21 18:31**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-05-30 20:59**: chore: organize assets and image directory structure
 - **2026-05-31 12:46**: feat: add search and filter by sign category
 - **2026-05-31 12:59**: docs: add instructions for Nepali driving license written exam
+- **2026-06-01 19:33**: chore: update project metadata and build configuration
