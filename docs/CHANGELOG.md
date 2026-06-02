@@ -1,4 +1,3 @@
-- **2026-04-20 18:42**: feat: add regulatory traffic signs SVG graphics
 - **2026-04-21 18:31**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-21 21:23**: chore: organize assets and image directory structure
 - **2026-04-22 21:55**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-05-31 12:59**: docs: add instructions for Nepali driving license written exam
 - **2026-06-01 19:33**: chore: update project metadata and build configuration
 - **2026-06-01 21:14**: perf: lazy load signal graphics and question assets
+- **2026-06-02 13:09**: feat: add warning signs and informational road signs
