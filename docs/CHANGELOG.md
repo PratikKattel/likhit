@@ -1,4 +1,3 @@
-- **2026-04-22 21:55**: chore: format code style and clean up redundant variables
 - **2026-04-23 11:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-24 15:22**: refactor: modularize traffic app logic and event listeners
 - **2026-04-24 16:48**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2026-06-02 13:09**: feat: add warning signs and informational road signs
 - **2026-06-03 09:32**: refactor: modularize traffic app logic and event listeners
 - **2026-06-04 18:50**: refactor: restructure question data schema for faster loading
+- **2026-06-05 20:28**: style: improve dark/light mode and mobile UI responsiveness
