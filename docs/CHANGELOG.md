@@ -1,4 +1,3 @@
-- **2026-04-24 16:48**: feat: add keyboard navigation shortcuts for question selection
 - **2026-04-25 11:38**: feat: add result summary with passing threshold analysis
 - **2026-04-25 20:25**: feat: implement timer and score calculation for mock test
 - **2026-04-26 13:51**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2026-06-05 20:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-06-05 20:57**: docs: add instructions for Nepali driving license written exam
 - **2026-06-06 09:20**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-06-06 19:27**: style: enhance traffic sign card layout and responsiveness
