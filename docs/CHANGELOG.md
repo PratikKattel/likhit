@@ -1,4 +1,3 @@
-- **2026-04-26 13:51**: chore: update questions database with recent DOTM updates
 - **2026-04-26 14:47**: feat: implement timer and score calculation for mock test
 - **2026-04-27 14:53**: fix: typo in Nepali road safety regulations question
 - **2026-04-27 20:57**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-06-06 19:27**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-07 16:52**: docs: update traffic signals catalog documentation
 - **2026-06-07 18:27**: perf: index question IDs for rapid lookup
+- **2026-06-08 10:44**: style: improve dark/light mode and mobile UI responsiveness
