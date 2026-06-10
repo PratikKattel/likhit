@@ -1,4 +1,3 @@
-- **2026-04-29 10:38**: chore: format code style and clean up redundant variables
 - **2026-04-29 10:56**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-04-29 11:09**: docs: update traffic signals catalog documentation
 - **2026-04-29 22:20**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2026-06-09 11:59**: refactor: modularize traffic app logic and event listeners
 - **2026-06-10 09:39**: test: verify question extraction script against exam PDF
 - **2026-06-10 13:23**: feat: add regulatory traffic signs SVG graphics
+- **2026-06-10 13:37**: perf: index question IDs for rapid lookup
