@@ -1,4 +1,3 @@
-- **2026-04-28 13:05**: docs: add instructions for Nepali driving license written exam
 - **2026-04-28 14:38**: chore: update project metadata and build configuration
 - **2026-04-29 10:38**: chore: format code style and clean up redundant variables
 - **2026-04-29 10:56**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-06-08 11:21**: style: polish typography and Nepali Unicode font rendering
 - **2026-06-08 20:57**: refactor: optimize SVG rendering for road signs
 - **2026-06-09 11:59**: refactor: modularize traffic app logic and event listeners
+- **2026-06-10 09:39**: test: verify question extraction script against exam PDF
