@@ -1,4 +1,3 @@
-- **2026-04-30 10:58**: perf: index question IDs for rapid lookup
 - **2026-04-30 19:59**: feat: implement timer and score calculation for mock test
 - **2026-04-30 22:12**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-05-01 17:27**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-06-10 17:50**: refactor: modularize traffic app logic and event listeners
 - **2026-06-11 11:47**: docs: update traffic signals catalog documentation
 - **2026-06-12 16:51**: feat: add category A and B traffic test questions
+- **2026-06-12 19:06**: feat: add result summary with passing threshold analysis
