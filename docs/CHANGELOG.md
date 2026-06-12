@@ -1,4 +1,3 @@
-- **2026-04-29 22:20**: fix: adjust passing score threshold according to new rules
 - **2026-04-30 10:58**: perf: index question IDs for rapid lookup
 - **2026-04-30 19:59**: feat: implement timer and score calculation for mock test
 - **2026-04-30 22:12**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-06-10 13:37**: perf: index question IDs for rapid lookup
 - **2026-06-10 17:50**: refactor: modularize traffic app logic and event listeners
 - **2026-06-11 11:47**: docs: update traffic signals catalog documentation
+- **2026-06-12 16:51**: feat: add category A and B traffic test questions
