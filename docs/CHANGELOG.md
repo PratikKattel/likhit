@@ -1,4 +1,3 @@
-- **2026-05-01 17:27**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-02 19:21**: feat: add category-specific practice modes
 - **2026-05-02 21:12**: docs: add instructions for Nepali driving license written exam
 - **2026-05-03 15:48**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-06-12 19:06**: feat: add result summary with passing threshold analysis
 - **2026-06-12 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2026-06-13 10:02**: feat: add warning signs and informational road signs
+- **2026-06-13 19:40**: perf: lazy load signal graphics and question assets
