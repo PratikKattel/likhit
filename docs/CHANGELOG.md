@@ -1,4 +1,3 @@
-- **2026-05-02 21:12**: docs: add instructions for Nepali driving license written exam
 - **2026-05-03 15:48**: feat: add category-specific practice modes
 - **2026-05-03 18:09**: feat: support multiple choice questions for motorcycle category
 - **2026-05-04 13:10**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-06-13 10:02**: feat: add warning signs and informational road signs
 - **2026-06-13 19:40**: perf: lazy load signal graphics and question assets
 - **2026-06-13 21:34**: feat: support multiple choice questions for motorcycle category
+- **2026-06-14 14:18**: style: enhance traffic sign card layout and responsiveness
