@@ -1,4 +1,3 @@
-- **2026-05-03 18:09**: feat: support multiple choice questions for motorcycle category
 - **2026-05-04 13:10**: docs: update traffic signals catalog documentation
 - **2026-05-04 13:17**: feat: add instant feedback and explanation on answer selection
 - **2026-05-04 18:56**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-06-13 21:34**: feat: support multiple choice questions for motorcycle category
 - **2026-06-14 14:18**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-14 16:05**: docs: update README with setup instructions and feature list
+- **2026-06-15 12:46**: docs: add instructions for Nepali driving license written exam
