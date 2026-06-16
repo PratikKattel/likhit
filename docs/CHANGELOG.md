@@ -1,4 +1,3 @@
-- **2026-05-04 13:10**: docs: update traffic signals catalog documentation
 - **2026-05-04 13:17**: feat: add instant feedback and explanation on answer selection
 - **2026-05-04 18:56**: refactor: restructure question data schema for faster loading
 - **2026-05-05 18:14**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-06-14 14:18**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-14 16:05**: docs: update README with setup instructions and feature list
 - **2026-06-15 12:46**: docs: add instructions for Nepali driving license written exam
+- **2026-06-16 12:59**: fix: resolve layout shift during question transitions
