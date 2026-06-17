@@ -1,4 +1,3 @@
-- **2026-05-04 18:56**: refactor: restructure question data schema for faster loading
 - **2026-05-05 18:14**: feat: add warning signs and informational road signs
 - **2026-05-06 11:42**: feat: implement timer and score calculation for mock test
 - **2026-05-06 16:15**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2026-06-15 12:46**: docs: add instructions for Nepali driving license written exam
 - **2026-06-16 12:59**: fix: resolve layout shift during question transitions
 - **2026-06-16 16:42**: feat: add category-specific practice modes
+- **2026-06-17 17:32**: docs: add instructions for Nepali driving license written exam
