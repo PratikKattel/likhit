@@ -1,4 +1,3 @@
-- **2026-05-07 11:04**: docs: improve code comments and API documentation
 - **2026-05-07 16:09**: feat: implement timer and score calculation for mock test
 - **2026-05-08 10:13**: style: enhance traffic sign card layout and responsiveness
 - **2026-05-08 19:41**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-06-18 10:30**: fix: typo in Nepali road safety regulations question
 - **2026-06-19 18:28**: feat: add instant feedback and explanation on answer selection
 - **2026-06-20 18:03**: docs: improve code comments and API documentation
+- **2026-06-20 21:32**: docs: update traffic signals catalog documentation
