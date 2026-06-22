@@ -1,4 +1,3 @@
-- **2026-05-08 10:13**: style: enhance traffic sign card layout and responsiveness
 - **2026-05-08 19:41**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-05-08 21:20**: style: polish typography and Nepali Unicode font rendering
 - **2026-05-09 09:25**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2026-06-20 18:03**: docs: improve code comments and API documentation
 - **2026-06-20 21:32**: docs: update traffic signals catalog documentation
 - **2026-06-21 15:06**: feat: add keyboard navigation shortcuts for question selection
+- **2026-06-22 12:13**: feat: implement timer and score calculation for mock test
