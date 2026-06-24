@@ -1,4 +1,3 @@
-- **2026-05-09 16:59**: chore: format code style and clean up redundant variables
 - **2026-05-10 12:13**: perf: index question IDs for rapid lookup
 - **2026-05-10 13:03**: chore: organize assets and image directory structure
 - **2026-05-10 20:34**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-06-22 20:33**: fix: adjust passing score threshold according to new rules
 - **2026-06-23 11:02**: docs: add instructions for Nepali driving license written exam
 - **2026-06-24 09:37**: docs: improve code comments and API documentation
+- **2026-06-24 10:32**: test: verify question extraction script against exam PDF
