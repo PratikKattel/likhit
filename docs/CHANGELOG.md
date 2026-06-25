@@ -1,4 +1,3 @@
-- **2026-05-10 13:03**: chore: organize assets and image directory structure
 - **2026-05-10 20:34**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-11 09:05**: chore: update questions database with recent DOTM updates
 - **2026-05-12 09:09**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-06-24 09:37**: docs: improve code comments and API documentation
 - **2026-06-24 10:32**: test: verify question extraction script against exam PDF
 - **2026-06-24 16:19**: feat: add result summary with passing threshold analysis
+- **2026-06-25 19:12**: feat: add result summary with passing threshold analysis
