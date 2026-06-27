@@ -1,4 +1,3 @@
-- **2026-05-12 09:09**: refactor: restructure question data schema for faster loading
 - **2026-05-13 17:37**: refactor: modularize traffic app logic and event listeners
 - **2026-05-14 13:13**: feat: add warning signs and informational road signs
 - **2026-05-15 13:00**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2026-06-25 19:12**: feat: add result summary with passing threshold analysis
 - **2026-06-25 21:07**: docs: update traffic signals catalog documentation
 - **2026-06-26 20:48**: feat: support multiple choice questions for motorcycle category
+- **2026-06-27 14:55**: feat: add category-specific practice modes
