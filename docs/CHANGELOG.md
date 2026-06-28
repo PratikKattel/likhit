@@ -1,4 +1,3 @@
-- **2026-05-15 13:00**: docs: update README with setup instructions and feature list
 - **2026-05-15 17:25**: feat: add category A and B traffic test questions
 - **2026-05-16 12:03**: perf: lazy load signal graphics and question assets
 - **2026-05-16 13:17**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-06-27 14:55**: feat: add category-specific practice modes
 - **2026-06-27 15:50**: perf: index question IDs for rapid lookup
 - **2026-06-27 16:38**: feat: implement timer and score calculation for mock test
+- **2026-06-28 11:01**: perf: index question IDs for rapid lookup
