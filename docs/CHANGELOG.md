@@ -1,4 +1,3 @@
-- **2026-05-18 12:45**: fix: prevent option re-selection after submitting answer
 - **2026-05-18 18:46**: refactor: optimize SVG rendering for road signs
 - **2026-05-18 21:42**: fix: update DOTM Nepal license syllabus questions
 - **2026-05-19 20:44**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-06-29 12:05**: perf: optimize image caching for traffic sign assets
 - **2026-06-30 11:50**: chore: update questions database with recent DOTM updates
 - **2026-07-01 12:33**: feat: add regulatory traffic signs SVG graphics
+- **2026-07-02 16:13**: feat: add regulatory traffic signs SVG graphics
