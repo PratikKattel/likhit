@@ -1,4 +1,3 @@
-- **2026-05-18 21:42**: fix: update DOTM Nepal license syllabus questions
 - **2026-05-19 20:44**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-19 21:09**: feat: add result summary with passing threshold analysis
 - **2026-05-20 18:26**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-07-01 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-02 16:13**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-02 17:41**: feat: add result summary with passing threshold analysis
+- **2026-07-03 15:07**: feat: add instant feedback and explanation on answer selection
