@@ -1,4 +1,3 @@
-- **2026-05-20 18:26**: fix: correct color specifications for mandatory traffic signs
 - **2026-05-21 12:45**: perf: optimize image caching for traffic sign assets
 - **2026-05-21 19:21**: style: enhance traffic sign card layout and responsiveness
 - **2026-05-22 09:59**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-07-03 15:07**: feat: add instant feedback and explanation on answer selection
 - **2026-07-04 09:31**: style: enhance traffic sign card layout and responsiveness
 - **2026-07-04 20:30**: fix: correct color specifications for mandatory traffic signs
+- **2026-07-05 17:10**: refactor: restructure question data schema for faster loading
