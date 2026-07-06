@@ -1,4 +1,3 @@
-- **2026-05-22 09:59**: feat: add warning signs and informational road signs
 - **2026-05-22 13:37**: feat: add result summary with passing threshold analysis
 - **2026-05-22 14:04**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-05-22 15:11**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-07-05 17:10**: refactor: restructure question data schema for faster loading
 - **2026-07-05 21:19**: chore: update project metadata and build configuration
 - **2026-07-06 16:25**: chore: update questions database with recent DOTM updates
+- **2026-07-06 17:58**: perf: index question IDs for rapid lookup
