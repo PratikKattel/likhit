@@ -1,4 +1,3 @@
-- **2026-05-26 15:21**: feat: add result summary with passing threshold analysis
 - **2026-05-26 21:31**: feat: add search and filter by sign category
 - **2026-05-27 11:57**: chore: organize assets and image directory structure
 - **2026-05-27 19:31**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-07-09 12:03**: feat: add search and filter by sign category
 - **2026-07-09 16:49**: feat: add search and filter by sign category
 - **2026-07-10 13:17**: feat: add category-specific practice modes
+- **2026-07-10 13:35**: feat: support multiple choice questions for motorcycle category
