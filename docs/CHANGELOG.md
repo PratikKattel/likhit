@@ -1,4 +1,3 @@
-- **2026-05-26 21:31**: feat: add search and filter by sign category
 - **2026-05-27 11:57**: chore: organize assets and image directory structure
 - **2026-05-27 19:31**: chore: format code style and clean up redundant variables
 - **2026-05-28 11:43**: refactor: clean up unused CSS classes and optimize stylesheet
@@ -78,3 +77,4 @@
 - **2026-07-09 16:49**: feat: add search and filter by sign category
 - **2026-07-10 13:17**: feat: add category-specific practice modes
 - **2026-07-10 13:35**: feat: support multiple choice questions for motorcycle category
+- **2026-07-10 16:33**: style: polish typography and Nepali Unicode font rendering
