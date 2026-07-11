@@ -1,4 +1,3 @@
-- **2026-05-27 19:31**: chore: format code style and clean up redundant variables
 - **2026-05-28 11:43**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-05-28 11:55**: chore: update questions database with recent DOTM updates
 - **2026-05-29 13:02**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2026-07-10 13:35**: feat: support multiple choice questions for motorcycle category
 - **2026-07-10 16:33**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-10 22:05**: fix: correct color specifications for mandatory traffic signs
+- **2026-07-11 13:24**: chore: update questions database with recent DOTM updates
