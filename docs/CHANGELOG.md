@@ -1,4 +1,3 @@
-- **2026-05-30 09:48**: fix: adjust passing score threshold according to new rules
 - **2026-05-30 20:59**: chore: organize assets and image directory structure
 - **2026-05-31 12:46**: feat: add search and filter by sign category
 - **2026-05-31 12:59**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2026-07-11 15:48**: docs: update README with setup instructions and feature list
 - **2026-07-11 21:18**: docs: update README with setup instructions and feature list
 - **2026-07-12 21:44**: docs: update README with setup instructions and feature list
+- **2026-07-13 09:18**: style: polish typography and Nepali Unicode font rendering
