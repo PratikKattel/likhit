@@ -1,4 +1,3 @@
-- **2026-05-31 12:59**: docs: add instructions for Nepali driving license written exam
 - **2026-06-01 19:33**: chore: update project metadata and build configuration
 - **2026-06-01 21:14**: perf: lazy load signal graphics and question assets
 - **2026-06-02 13:09**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-07-13 09:18**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-14 18:01**: feat: add search and filter by sign category
 - **2026-07-14 18:05**: perf: optimize image caching for traffic sign assets
+- **2026-07-14 19:22**: style: polish typography and Nepali Unicode font rendering
