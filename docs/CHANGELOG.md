@@ -1,4 +1,3 @@
-- **2026-06-01 21:14**: perf: lazy load signal graphics and question assets
 - **2026-06-02 13:09**: feat: add warning signs and informational road signs
 - **2026-06-03 09:32**: refactor: modularize traffic app logic and event listeners
 - **2026-06-04 18:50**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-07-14 18:05**: perf: optimize image caching for traffic sign assets
 - **2026-07-14 19:22**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-15 09:12**: chore: update project metadata and build configuration
+- **2026-07-15 10:49**: fix: update DOTM Nepal license syllabus questions
