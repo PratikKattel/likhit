@@ -1,4 +1,3 @@
-- **2026-06-04 18:50**: refactor: restructure question data schema for faster loading
 - **2026-06-05 20:28**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-06-05 20:57**: docs: add instructions for Nepali driving license written exam
 - **2026-06-06 09:20**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-07-15 10:49**: fix: update DOTM Nepal license syllabus questions
 - **2026-07-16 15:08**: perf: lazy load signal graphics and question assets
 - **2026-07-16 16:05**: feat: support multiple choice questions for motorcycle category
+- **2026-07-16 16:27**: feat: add category-specific practice modes
