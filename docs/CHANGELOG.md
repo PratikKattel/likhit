@@ -1,4 +1,3 @@
-- **2026-06-07 16:52**: docs: update traffic signals catalog documentation
 - **2026-06-07 18:27**: perf: index question IDs for rapid lookup
 - **2026-06-08 10:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-06-08 11:21**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-07-17 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-17 15:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-07-17 20:09**: fix: correct color specifications for mandatory traffic signs
+- **2026-07-17 20:19**: perf: lazy load signal graphics and question assets
