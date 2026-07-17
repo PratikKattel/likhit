@@ -1,4 +1,3 @@
-- **2026-06-06 19:27**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-07 16:52**: docs: update traffic signals catalog documentation
 - **2026-06-07 18:27**: perf: index question IDs for rapid lookup
 - **2026-06-08 10:44**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-07-16 19:55**: perf: index question IDs for rapid lookup
 - **2026-07-17 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-17 15:00**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-07-17 20:09**: fix: correct color specifications for mandatory traffic signs
