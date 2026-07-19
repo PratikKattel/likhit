@@ -1,4 +1,3 @@
-- **2026-06-08 10:44**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-06-08 11:21**: style: polish typography and Nepali Unicode font rendering
 - **2026-06-08 20:57**: refactor: optimize SVG rendering for road signs
 - **2026-06-09 11:59**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-07-17 20:09**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-17 20:19**: perf: lazy load signal graphics and question assets
 - **2026-07-18 15:58**: docs: update README with setup instructions and feature list
+- **2026-07-19 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
