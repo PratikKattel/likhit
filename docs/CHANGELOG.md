@@ -1,4 +1,3 @@
-- **2026-06-08 20:57**: refactor: optimize SVG rendering for road signs
 - **2026-06-09 11:59**: refactor: modularize traffic app logic and event listeners
 - **2026-06-10 09:39**: test: verify question extraction script against exam PDF
 - **2026-06-10 13:23**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-07-18 15:58**: docs: update README with setup instructions and feature list
 - **2026-07-19 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-19 21:01**: perf: index question IDs for rapid lookup
+- **2026-07-19 22:25**: perf: lazy load signal graphics and question assets
