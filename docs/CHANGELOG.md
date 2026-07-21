@@ -1,4 +1,3 @@
-- **2026-06-10 09:39**: test: verify question extraction script against exam PDF
 - **2026-06-10 13:23**: feat: add regulatory traffic signs SVG graphics
 - **2026-06-10 13:37**: perf: index question IDs for rapid lookup
 - **2026-06-10 17:50**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-07-19 21:01**: perf: index question IDs for rapid lookup
 - **2026-07-19 22:25**: perf: lazy load signal graphics and question assets
 - **2026-07-20 11:30**: perf: index question IDs for rapid lookup
+- **2026-07-21 18:17**: feat: add result summary with passing threshold analysis
