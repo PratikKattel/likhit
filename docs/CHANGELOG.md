@@ -1,4 +1,3 @@
-- **2026-06-12 16:51**: feat: add category A and B traffic test questions
 - **2026-06-12 19:06**: feat: add result summary with passing threshold analysis
 - **2026-06-12 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2026-06-13 10:02**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-07-22 12:35**: fix: update DOTM Nepal license syllabus questions
 - **2026-07-22 14:01**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-22 16:14**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2026-07-23 10:47**: chore: format code style and clean up redundant variables
