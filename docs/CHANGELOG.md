@@ -1,4 +1,3 @@
-- **2026-06-12 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2026-06-13 10:02**: feat: add warning signs and informational road signs
 - **2026-06-13 19:40**: perf: lazy load signal graphics and question assets
 - **2026-06-13 21:34**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-07-22 16:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-23 10:47**: chore: format code style and clean up redundant variables
 - **2026-07-24 16:43**: fix: prevent option re-selection after submitting answer
+- **2026-07-24 22:27**: chore: update project metadata and build configuration
