@@ -1,4 +1,3 @@
-- **2026-06-13 19:40**: perf: lazy load signal graphics and question assets
 - **2026-06-13 21:34**: feat: support multiple choice questions for motorcycle category
 - **2026-06-14 14:18**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-14 16:05**: docs: update README with setup instructions and feature list
@@ -78,3 +77,4 @@
 - **2026-07-24 16:43**: fix: prevent option re-selection after submitting answer
 - **2026-07-24 22:27**: chore: update project metadata and build configuration
 - **2026-07-25 11:54**: feat: add regulatory traffic signs SVG graphics
+- **2026-07-25 21:15**: docs: update README with setup instructions and feature list
