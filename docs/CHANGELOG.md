@@ -1,4 +1,3 @@
-- **2026-06-14 14:18**: style: enhance traffic sign card layout and responsiveness
 - **2026-06-14 16:05**: docs: update README with setup instructions and feature list
 - **2026-06-15 12:46**: docs: add instructions for Nepali driving license written exam
 - **2026-06-16 12:59**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2026-07-25 11:54**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-25 21:15**: docs: update README with setup instructions and feature list
 - **2026-07-26 16:16**: fix: adjust passing score threshold according to new rules
+- **2026-07-27 18:25**: perf: lazy load signal graphics and question assets
