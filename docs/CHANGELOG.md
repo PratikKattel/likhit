@@ -1,4 +1,3 @@
-- **2026-06-16 16:42**: feat: add category-specific practice modes
 - **2026-06-17 17:32**: docs: add instructions for Nepali driving license written exam
 - **2026-06-18 10:30**: fix: typo in Nepali road safety regulations question
 - **2026-06-19 18:28**: feat: add instant feedback and explanation on answer selection
@@ -78,3 +77,4 @@
 - **2026-07-27 21:11**: feat: add warning signs and informational road signs
 - **2026-07-28 15:19**: docs: improve code comments and API documentation
 - **2026-07-28 16:14**: chore: format code style and clean up redundant variables
+- **2026-07-29 13:21**: fix: typo in Nepali road safety regulations question
