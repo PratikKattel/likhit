@@ -1,4 +1,3 @@
-- **2026-06-18 10:30**: fix: typo in Nepali road safety regulations question
 - **2026-06-19 18:28**: feat: add instant feedback and explanation on answer selection
 - **2026-06-20 18:03**: docs: improve code comments and API documentation
 - **2026-06-20 21:32**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-07-28 16:14**: chore: format code style and clean up redundant variables
 - **2026-07-29 13:21**: fix: typo in Nepali road safety regulations question
 - **2026-07-29 16:01**: fix: prevent option re-selection after submitting answer
+- **2026-07-29 20:09**: fix: correct color specifications for mandatory traffic signs
