@@ -1,4 +1,3 @@
-- **2026-06-21 15:06**: feat: add keyboard navigation shortcuts for question selection
 - **2026-06-22 12:13**: feat: implement timer and score calculation for mock test
 - **2026-06-22 20:33**: fix: adjust passing score threshold according to new rules
 - **2026-06-23 11:02**: docs: add instructions for Nepali driving license written exam
@@ -78,3 +77,4 @@
 - **2026-07-30 13:40**: fix: adjust passing score threshold according to new rules
 - **2026-07-30 17:21**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-31 12:37**: feat: add regulatory traffic signs SVG graphics
+- **2026-07-31 17:28**: chore: format code style and clean up redundant variables
