@@ -1,4 +1,3 @@
-- **2026-06-22 20:33**: fix: adjust passing score threshold according to new rules
 - **2026-06-23 11:02**: docs: add instructions for Nepali driving license written exam
 - **2026-06-24 09:37**: docs: improve code comments and API documentation
 - **2026-06-24 10:32**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-07-31 12:37**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-31 17:28**: chore: format code style and clean up redundant variables
 - **2026-07-31 17:37**: feat: add result summary with passing threshold analysis
+- **2026-08-01 20:40**: fix: adjust passing score threshold according to new rules
