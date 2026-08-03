@@ -1,4 +1,3 @@
-- **2026-06-24 09:37**: docs: improve code comments and API documentation
 - **2026-06-24 10:32**: test: verify question extraction script against exam PDF
 - **2026-06-24 16:19**: feat: add result summary with passing threshold analysis
 - **2026-06-25 19:12**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-07-31 17:37**: feat: add result summary with passing threshold analysis
 - **2026-08-01 20:40**: fix: adjust passing score threshold according to new rules
 - **2026-08-02 13:20**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-08-03 12:06**: style: polish typography and Nepali Unicode font rendering
