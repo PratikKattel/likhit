@@ -1,4 +1,3 @@
-- **2026-06-25 21:07**: docs: update traffic signals catalog documentation
 - **2026-06-26 20:48**: feat: support multiple choice questions for motorcycle category
 - **2026-06-27 14:55**: feat: add category-specific practice modes
 - **2026-06-27 15:50**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-08-03 12:35**: fix: prevent option re-selection after submitting answer
 - **2026-08-03 21:41**: feat: add result summary with passing threshold analysis
 - **2026-08-04 11:23**: feat: add keyboard navigation shortcuts for question selection
+- **2026-08-04 17:19**: docs: improve code comments and API documentation
