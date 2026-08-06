@@ -1,4 +1,3 @@
-- **2026-06-27 14:55**: feat: add category-specific practice modes
 - **2026-06-27 15:50**: perf: index question IDs for rapid lookup
 - **2026-06-27 16:38**: feat: implement timer and score calculation for mock test
 - **2026-06-28 11:01**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-08-04 11:23**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-04 17:19**: docs: improve code comments and API documentation
 - **2026-08-05 18:15**: fix: prevent option re-selection after submitting answer
+- **2026-08-06 12:41**: feat: implement timer and score calculation for mock test
