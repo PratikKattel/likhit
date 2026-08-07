@@ -1,4 +1,3 @@
-- **2026-06-27 16:38**: feat: implement timer and score calculation for mock test
 - **2026-06-28 11:01**: perf: index question IDs for rapid lookup
 - **2026-06-28 16:45**: fix: adjust passing score threshold according to new rules
 - **2026-06-29 12:05**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-08-05 18:15**: fix: prevent option re-selection after submitting answer
 - **2026-08-06 12:41**: feat: implement timer and score calculation for mock test
 - **2026-08-06 20:17**: feat: add instant feedback and explanation on answer selection
+- **2026-08-07 09:38**: feat: add instant feedback and explanation on answer selection
