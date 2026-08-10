@@ -1,4 +1,3 @@
-- **2026-06-30 11:50**: chore: update questions database with recent DOTM updates
 - **2026-07-01 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-02 16:13**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-02 17:41**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-08-08 09:07**: chore: format code style and clean up redundant variables
 - **2026-08-09 19:45**: perf: index question IDs for rapid lookup
 - **2026-08-10 13:03**: feat: add category-specific practice modes
+- **2026-08-10 18:33**: fix: update DOTM Nepal license syllabus questions
