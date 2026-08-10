@@ -1,4 +1,3 @@
-- **2026-06-29 12:05**: perf: optimize image caching for traffic sign assets
 - **2026-06-30 11:50**: chore: update questions database with recent DOTM updates
 - **2026-07-01 12:33**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-02 16:13**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-08-07 09:38**: feat: add instant feedback and explanation on answer selection
 - **2026-08-08 09:07**: chore: format code style and clean up redundant variables
 - **2026-08-09 19:45**: perf: index question IDs for rapid lookup
+- **2026-08-10 13:03**: feat: add category-specific practice modes
