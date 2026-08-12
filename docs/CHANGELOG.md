@@ -1,4 +1,3 @@
-- **2026-07-02 17:41**: feat: add result summary with passing threshold analysis
 - **2026-07-03 15:07**: feat: add instant feedback and explanation on answer selection
 - **2026-07-04 09:31**: style: enhance traffic sign card layout and responsiveness
 - **2026-07-04 20:30**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-08-10 18:33**: fix: update DOTM Nepal license syllabus questions
 - **2026-08-11 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2026-08-11 18:34**: docs: add instructions for Nepali driving license written exam
+- **2026-08-12 17:48**: style: polish typography and Nepali Unicode font rendering
