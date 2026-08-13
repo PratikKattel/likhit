@@ -1,4 +1,3 @@
-- **2026-07-03 15:07**: feat: add instant feedback and explanation on answer selection
 - **2026-07-04 09:31**: style: enhance traffic sign card layout and responsiveness
 - **2026-07-04 20:30**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-05 17:10**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-08-11 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2026-08-11 18:34**: docs: add instructions for Nepali driving license written exam
 - **2026-08-12 17:48**: style: polish typography and Nepali Unicode font rendering
+- **2026-08-13 21:34**: chore: organize assets and image directory structure
