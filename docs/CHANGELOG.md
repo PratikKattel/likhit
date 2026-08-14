@@ -1,4 +1,3 @@
-- **2026-07-05 17:10**: refactor: restructure question data schema for faster loading
 - **2026-07-05 21:19**: chore: update project metadata and build configuration
 - **2026-07-06 16:25**: chore: update questions database with recent DOTM updates
 - **2026-07-06 17:58**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-08-13 21:34**: chore: organize assets and image directory structure
 - **2026-08-14 09:34**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-14 19:02**: docs: update traffic signals catalog documentation
+- **2026-08-14 19:06**: chore: update questions database with recent DOTM updates
