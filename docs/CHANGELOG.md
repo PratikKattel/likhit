@@ -1,4 +1,3 @@
-- **2026-07-09 16:49**: feat: add search and filter by sign category
 - **2026-07-10 13:17**: feat: add category-specific practice modes
 - **2026-07-10 13:35**: feat: support multiple choice questions for motorcycle category
 - **2026-07-10 16:33**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-08-17 18:58**: perf: optimize image caching for traffic sign assets
 - **2026-08-18 11:16**: test: verify question extraction script against exam PDF
 - **2026-08-19 14:05**: refactor: optimize SVG rendering for road signs
+- **2026-08-19 19:02**: feat: add category-specific practice modes
