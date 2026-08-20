@@ -1,4 +1,3 @@
-- **2026-07-10 13:35**: feat: support multiple choice questions for motorcycle category
 - **2026-07-10 16:33**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-10 22:05**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-11 13:24**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2026-08-19 14:05**: refactor: optimize SVG rendering for road signs
 - **2026-08-19 19:02**: feat: add category-specific practice modes
 - **2026-08-20 13:39**: chore: update project metadata and build configuration
+- **2026-08-20 20:01**: docs: improve code comments and API documentation
