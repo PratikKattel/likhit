@@ -1,4 +1,3 @@
-- **2026-07-11 15:48**: docs: update README with setup instructions and feature list
 - **2026-07-11 21:18**: docs: update README with setup instructions and feature list
 - **2026-07-12 21:44**: docs: update README with setup instructions and feature list
 - **2026-07-13 09:18**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-08-21 12:10**: test: verify question extraction script against exam PDF
 - **2026-08-21 14:55**: chore: format code style and clean up redundant variables
 - **2026-08-22 18:22**: feat: add search and filter by sign category
+- **2026-08-22 18:56**: feat: support multiple choice questions for motorcycle category
