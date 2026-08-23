@@ -1,4 +1,3 @@
-- **2026-07-12 21:44**: docs: update README with setup instructions and feature list
 - **2026-07-13 09:18**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-14 18:01**: feat: add search and filter by sign category
 - **2026-07-14 18:05**: perf: optimize image caching for traffic sign assets
@@ -78,3 +77,4 @@
 - **2026-08-22 18:22**: feat: add search and filter by sign category
 - **2026-08-22 18:56**: feat: support multiple choice questions for motorcycle category
 - **2026-08-23 10:02**: feat: add instant feedback and explanation on answer selection
+- **2026-08-23 22:26**: docs: improve code comments and API documentation
