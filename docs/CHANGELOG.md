@@ -1,4 +1,3 @@
-- **2026-07-14 18:01**: feat: add search and filter by sign category
 - **2026-07-14 18:05**: perf: optimize image caching for traffic sign assets
 - **2026-07-14 19:22**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-15 09:12**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2026-08-23 10:02**: feat: add instant feedback and explanation on answer selection
 - **2026-08-23 22:26**: docs: improve code comments and API documentation
 - **2026-08-24 11:09**: feat: support multiple choice questions for motorcycle category
+- **2026-08-24 21:46**: chore: update project metadata and build configuration
