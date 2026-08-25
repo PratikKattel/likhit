@@ -1,4 +1,3 @@
-- **2026-07-15 09:12**: chore: update project metadata and build configuration
 - **2026-07-15 10:49**: fix: update DOTM Nepal license syllabus questions
 - **2026-07-16 15:08**: perf: lazy load signal graphics and question assets
 - **2026-07-16 16:05**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-08-24 21:46**: chore: update project metadata and build configuration
 - **2026-08-25 13:21**: feat: implement timer and score calculation for mock test
 - **2026-08-25 17:48**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-08-25 20:00**: feat: add keyboard navigation shortcuts for question selection
