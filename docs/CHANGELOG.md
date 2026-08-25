@@ -1,4 +1,3 @@
-- **2026-07-14 18:05**: perf: optimize image caching for traffic sign assets
 - **2026-07-14 19:22**: style: polish typography and Nepali Unicode font rendering
 - **2026-07-15 09:12**: chore: update project metadata and build configuration
 - **2026-07-15 10:49**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-08-23 22:26**: docs: improve code comments and API documentation
 - **2026-08-24 11:09**: feat: support multiple choice questions for motorcycle category
 - **2026-08-24 21:46**: chore: update project metadata and build configuration
+- **2026-08-25 13:21**: feat: implement timer and score calculation for mock test
