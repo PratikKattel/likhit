@@ -1,4 +1,3 @@
-- **2026-07-16 16:05**: feat: support multiple choice questions for motorcycle category
 - **2026-07-16 16:27**: feat: add category-specific practice modes
 - **2026-07-16 19:55**: perf: index question IDs for rapid lookup
 - **2026-07-17 13:53**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-08-25 20:00**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-25 21:45**: refactor: optimize SVG rendering for road signs
 - **2026-08-26 13:57**: style: polish typography and Nepali Unicode font rendering
+- **2026-08-27 13:16**: chore: organize assets and image directory structure
