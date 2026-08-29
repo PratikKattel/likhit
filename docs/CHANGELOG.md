@@ -1,4 +1,3 @@
-- **2026-07-17 13:53**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-17 15:00**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-07-17 20:09**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-17 20:19**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-08-27 13:16**: chore: organize assets and image directory structure
 - **2026-08-27 16:33**: feat: add category-specific practice modes
 - **2026-08-28 14:14**: refactor: restructure question data schema for faster loading
+- **2026-08-29 10:00**: fix: prevent option re-selection after submitting answer
