@@ -1,4 +1,3 @@
-- **2026-07-17 20:19**: perf: lazy load signal graphics and question assets
 - **2026-07-18 15:58**: docs: update README with setup instructions and feature list
 - **2026-07-19 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-19 21:01**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-08-29 10:00**: fix: prevent option re-selection after submitting answer
 - **2026-08-29 17:27**: fix: resolve layout shift during question transitions
 - **2026-08-30 10:54**: perf: optimize image caching for traffic sign assets
+- **2026-08-31 10:12**: perf: lazy load signal graphics and question assets
