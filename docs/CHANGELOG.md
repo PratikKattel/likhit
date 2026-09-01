@@ -1,4 +1,3 @@
-- **2026-07-19 09:37**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-19 21:01**: perf: index question IDs for rapid lookup
 - **2026-07-19 22:25**: perf: lazy load signal graphics and question assets
 - **2026-07-20 11:30**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-08-30 10:54**: perf: optimize image caching for traffic sign assets
 - **2026-08-31 10:12**: perf: lazy load signal graphics and question assets
 - **2026-08-31 15:44**: feat: implement timer and score calculation for mock test
+- **2026-09-01 15:49**: refactor: restructure question data schema for faster loading
