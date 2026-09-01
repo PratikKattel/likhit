@@ -1,4 +1,3 @@
-- **2026-07-19 22:25**: perf: lazy load signal graphics and question assets
 - **2026-07-20 11:30**: perf: index question IDs for rapid lookup
 - **2026-07-21 18:17**: feat: add result summary with passing threshold analysis
 - **2026-07-22 11:17**: perf: lazy load signal graphics and question assets
@@ -78,3 +77,4 @@
 - **2026-08-31 15:44**: feat: implement timer and score calculation for mock test
 - **2026-09-01 15:49**: refactor: restructure question data schema for faster loading
 - **2026-09-01 15:55**: docs: update traffic signals catalog documentation
+- **2026-09-01 18:50**: feat: add warning signs and informational road signs
