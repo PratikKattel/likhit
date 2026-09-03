@@ -1,4 +1,3 @@
-- **2026-07-21 18:17**: feat: add result summary with passing threshold analysis
 - **2026-07-22 11:17**: perf: lazy load signal graphics and question assets
 - **2026-07-22 12:35**: fix: update DOTM Nepal license syllabus questions
 - **2026-07-22 14:01**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-09-01 15:55**: docs: update traffic signals catalog documentation
 - **2026-09-01 18:50**: feat: add warning signs and informational road signs
 - **2026-09-02 16:57**: perf: index question IDs for rapid lookup
+- **2026-09-03 17:58**: fix: typo in Nepali road safety regulations question
