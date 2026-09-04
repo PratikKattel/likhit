@@ -1,4 +1,3 @@
-- **2026-07-22 12:35**: fix: update DOTM Nepal license syllabus questions
 - **2026-07-22 14:01**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-22 16:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-23 10:47**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-09-02 16:57**: perf: index question IDs for rapid lookup
 - **2026-09-03 17:58**: fix: typo in Nepali road safety regulations question
 - **2026-09-03 19:05**: test: verify question extraction script against exam PDF
+- **2026-09-04 14:07**: chore: format code style and clean up redundant variables
