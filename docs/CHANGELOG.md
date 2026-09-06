@@ -1,4 +1,3 @@
-- **2026-07-22 16:14**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-07-23 10:47**: chore: format code style and clean up redundant variables
 - **2026-07-24 16:43**: fix: prevent option re-selection after submitting answer
 - **2026-07-24 22:27**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2026-09-03 19:05**: test: verify question extraction script against exam PDF
 - **2026-09-04 14:07**: chore: format code style and clean up redundant variables
 - **2026-09-05 15:55**: style: enhance traffic sign card layout and responsiveness
+- **2026-09-06 11:11**: feat: add result summary with passing threshold analysis
