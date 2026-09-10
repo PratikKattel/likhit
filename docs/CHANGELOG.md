@@ -1,4 +1,3 @@
-- **2026-07-28 15:19**: docs: improve code comments and API documentation
 - **2026-07-28 16:14**: chore: format code style and clean up redundant variables
 - **2026-07-29 13:21**: fix: typo in Nepali road safety regulations question
 - **2026-07-29 16:01**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2026-09-08 22:14**: perf: lazy load signal graphics and question assets
 - **2026-09-09 09:20**: perf: optimize image caching for traffic sign assets
 - **2026-09-10 12:23**: feat: add search and filter by sign category
+- **2026-09-10 12:51**: feat: implement timer and score calculation for mock test
