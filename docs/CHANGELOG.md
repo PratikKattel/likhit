@@ -1,4 +1,3 @@
-- **2026-07-29 16:01**: fix: prevent option re-selection after submitting answer
 - **2026-07-29 20:09**: fix: correct color specifications for mandatory traffic signs
 - **2026-07-30 13:40**: fix: adjust passing score threshold according to new rules
 - **2026-07-30 17:21**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-09-10 12:51**: feat: implement timer and score calculation for mock test
 - **2026-09-10 17:49**: docs: update traffic signals catalog documentation
 - **2026-09-11 20:00**: feat: add regulatory traffic signs SVG graphics
+- **2026-09-12 12:20**: chore: update questions database with recent DOTM updates
