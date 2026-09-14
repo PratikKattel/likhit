@@ -1,4 +1,3 @@
-- **2026-07-31 12:37**: feat: add regulatory traffic signs SVG graphics
 - **2026-07-31 17:28**: chore: format code style and clean up redundant variables
 - **2026-07-31 17:37**: feat: add result summary with passing threshold analysis
 - **2026-08-01 20:40**: fix: adjust passing score threshold according to new rules
@@ -78,3 +77,4 @@
 - **2026-09-13 14:30**: fix: correct color specifications for mandatory traffic signs
 - **2026-09-13 20:03**: feat: support multiple choice questions for motorcycle category
 - **2026-09-14 11:26**: refactor: clean up unused CSS classes and optimize stylesheet
+- **2026-09-14 15:25**: feat: add warning signs and informational road signs
