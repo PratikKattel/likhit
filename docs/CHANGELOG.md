@@ -1,4 +1,3 @@
-- **2026-07-31 17:37**: feat: add result summary with passing threshold analysis
 - **2026-08-01 20:40**: fix: adjust passing score threshold according to new rules
 - **2026-08-02 13:20**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-08-03 12:06**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-09-14 11:26**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-09-14 15:25**: feat: add warning signs and informational road signs
 - **2026-09-14 17:43**: perf: lazy load signal graphics and question assets
+- **2026-09-15 14:22**: feat: add keyboard navigation shortcuts for question selection
