@@ -1,4 +1,3 @@
-- **2026-08-03 12:06**: style: polish typography and Nepali Unicode font rendering
 - **2026-08-03 12:35**: fix: prevent option re-selection after submitting answer
 - **2026-08-03 21:41**: feat: add result summary with passing threshold analysis
 - **2026-08-04 11:23**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2026-09-15 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-15 15:17**: fix: correct color specifications for mandatory traffic signs
 - **2026-09-16 11:43**: chore: format code style and clean up redundant variables
+- **2026-09-16 18:29**: fix: resolve layout shift during question transitions
