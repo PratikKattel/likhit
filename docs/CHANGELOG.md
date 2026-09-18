@@ -1,4 +1,3 @@
-- **2026-08-04 11:23**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-04 17:19**: docs: improve code comments and API documentation
 - **2026-08-05 18:15**: fix: prevent option re-selection after submitting answer
 - **2026-08-06 12:41**: feat: implement timer and score calculation for mock test
@@ -78,3 +77,4 @@
 - **2026-09-16 18:29**: fix: resolve layout shift during question transitions
 - **2026-09-17 14:07**: fix: prevent option re-selection after submitting answer
 - **2026-09-17 20:10**: feat: add keyboard navigation shortcuts for question selection
+- **2026-09-18 15:10**: feat: add search and filter by sign category
