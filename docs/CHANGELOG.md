@@ -1,4 +1,3 @@
-- **2026-08-06 20:17**: feat: add instant feedback and explanation on answer selection
 - **2026-08-07 09:38**: feat: add instant feedback and explanation on answer selection
 - **2026-08-08 09:07**: chore: format code style and clean up redundant variables
 - **2026-08-09 19:45**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-09-19 14:52**: test: verify question extraction script against exam PDF
 - **2026-09-20 11:36**: feat: add regulatory traffic signs SVG graphics
 - **2026-09-20 16:41**: docs: improve code comments and API documentation
+- **2026-09-21 13:47**: fix: prevent option re-selection after submitting answer
