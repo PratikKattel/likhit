@@ -1,4 +1,3 @@
-- **2026-08-08 09:07**: chore: format code style and clean up redundant variables
 - **2026-08-09 19:45**: perf: index question IDs for rapid lookup
 - **2026-08-10 13:03**: feat: add category-specific practice modes
 - **2026-08-10 18:33**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-09-20 16:41**: docs: improve code comments and API documentation
 - **2026-09-21 13:47**: fix: prevent option re-selection after submitting answer
 - **2026-09-21 14:44**: docs: improve code comments and API documentation
+- **2026-09-21 15:47**: refactor: optimize SVG rendering for road signs
