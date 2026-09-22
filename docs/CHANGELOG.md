@@ -1,4 +1,3 @@
-- **2026-08-10 18:33**: fix: update DOTM Nepal license syllabus questions
 - **2026-08-11 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2026-08-11 18:34**: docs: add instructions for Nepali driving license written exam
 - **2026-08-12 17:48**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-09-21 15:47**: refactor: optimize SVG rendering for road signs
 - **2026-09-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-09-22 12:57**: fix: typo in Nepali road safety regulations question
+- **2026-09-22 15:24**: style: enhance traffic sign card layout and responsiveness
