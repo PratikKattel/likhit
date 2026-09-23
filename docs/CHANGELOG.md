@@ -1,4 +1,3 @@
-- **2026-08-14 09:34**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-14 19:02**: docs: update traffic signals catalog documentation
 - **2026-08-14 19:06**: chore: update questions database with recent DOTM updates
 - **2026-08-15 17:15**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-09-23 13:18**: fix: typo in Nepali road safety regulations question
 - **2026-09-23 15:20**: refactor: restructure question data schema for faster loading
 - **2026-09-23 20:55**: feat: add keyboard navigation shortcuts for question selection
+- **2026-09-23 21:04**: fix: update DOTM Nepal license syllabus questions
