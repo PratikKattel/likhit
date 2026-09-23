@@ -1,4 +1,3 @@
-- **2026-08-11 18:34**: docs: add instructions for Nepali driving license written exam
 - **2026-08-12 17:48**: style: polish typography and Nepali Unicode font rendering
 - **2026-08-13 21:34**: chore: organize assets and image directory structure
 - **2026-08-14 09:34**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2026-09-22 12:57**: fix: typo in Nepali road safety regulations question
 - **2026-09-22 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2026-09-22 17:16**: style: polish typography and Nepali Unicode font rendering
+- **2026-09-23 13:18**: fix: typo in Nepali road safety regulations question
