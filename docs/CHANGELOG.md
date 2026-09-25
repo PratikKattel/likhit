@@ -1,4 +1,3 @@
-- **2026-08-15 17:15**: feat: add regulatory traffic signs SVG graphics
 - **2026-08-16 11:56**: fix: prevent option re-selection after submitting answer
 - **2026-08-17 13:02**: feat: add category-specific practice modes
 - **2026-08-17 18:25**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-09-23 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2026-09-24 12:44**: feat: add search and filter by sign category
 - **2026-09-24 18:10**: perf: lazy load signal graphics and question assets
+- **2026-09-25 22:06**: chore: format code style and clean up redundant variables
