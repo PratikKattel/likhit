@@ -1,4 +1,3 @@
-- **2026-08-17 18:25**: feat: support multiple choice questions for motorcycle category
 - **2026-08-17 18:58**: perf: optimize image caching for traffic sign assets
 - **2026-08-18 11:16**: test: verify question extraction script against exam PDF
 - **2026-08-19 14:05**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-09-25 22:06**: chore: format code style and clean up redundant variables
 - **2026-09-26 12:04**: docs: improve code comments and API documentation
 - **2026-09-26 21:58**: feat: add warning signs and informational road signs
+- **2026-09-27 13:22**: feat: add category-specific practice modes
