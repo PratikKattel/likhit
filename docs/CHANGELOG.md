@@ -1,4 +1,3 @@
-- **2026-08-19 14:05**: refactor: optimize SVG rendering for road signs
 - **2026-08-19 19:02**: feat: add category-specific practice modes
 - **2026-08-20 13:39**: chore: update project metadata and build configuration
 - **2026-08-20 20:01**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-09-27 13:22**: feat: add category-specific practice modes
 - **2026-09-28 11:08**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-28 14:37**: chore: organize assets and image directory structure
+- **2026-09-28 18:51**: refactor: restructure question data schema for faster loading
