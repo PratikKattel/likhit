@@ -1,4 +1,3 @@
-- **2026-08-17 18:58**: perf: optimize image caching for traffic sign assets
 - **2026-08-18 11:16**: test: verify question extraction script against exam PDF
 - **2026-08-19 14:05**: refactor: optimize SVG rendering for road signs
 - **2026-08-19 19:02**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-09-26 12:04**: docs: improve code comments and API documentation
 - **2026-09-26 21:58**: feat: add warning signs and informational road signs
 - **2026-09-27 13:22**: feat: add category-specific practice modes
+- **2026-09-28 11:08**: feat: add keyboard navigation shortcuts for question selection
