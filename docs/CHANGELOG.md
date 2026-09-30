@@ -1,4 +1,3 @@
-- **2026-08-21 12:10**: test: verify question extraction script against exam PDF
 - **2026-08-21 14:55**: chore: format code style and clean up redundant variables
 - **2026-08-22 18:22**: feat: add search and filter by sign category
 - **2026-08-22 18:56**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-09-29 18:30**: chore: update project metadata and build configuration
 - **2026-09-29 21:35**: docs: improve code comments and API documentation
 - **2026-09-30 11:11**: feat: add result summary with passing threshold analysis
+- **2026-09-30 14:34**: chore: update project metadata and build configuration
