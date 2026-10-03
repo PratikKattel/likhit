@@ -1,4 +1,3 @@
-- **2026-08-23 10:02**: feat: add instant feedback and explanation on answer selection
 - **2026-08-23 22:26**: docs: improve code comments and API documentation
 - **2026-08-24 11:09**: feat: support multiple choice questions for motorcycle category
 - **2026-08-24 21:46**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2026-10-01 14:12**: feat: support multiple choice questions for motorcycle category
 - **2026-10-01 16:32**: refactor: modularize traffic app logic and event listeners
 - **2026-10-02 16:09**: fix: update DOTM Nepal license syllabus questions
+- **2026-10-03 12:05**: feat: add regulatory traffic signs SVG graphics
