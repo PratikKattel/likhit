@@ -1,4 +1,3 @@
-- **2026-08-24 11:09**: feat: support multiple choice questions for motorcycle category
 - **2026-08-24 21:46**: chore: update project metadata and build configuration
 - **2026-08-25 13:21**: feat: implement timer and score calculation for mock test
 - **2026-08-25 17:48**: style: improve dark/light mode and mobile UI responsiveness
@@ -78,3 +77,4 @@
 - **2026-10-02 16:09**: fix: update DOTM Nepal license syllabus questions
 - **2026-10-03 12:05**: feat: add regulatory traffic signs SVG graphics
 - **2026-10-03 12:47**: fix: prevent option re-selection after submitting answer
+- **2026-10-04 09:23**: feat: add result summary with passing threshold analysis
