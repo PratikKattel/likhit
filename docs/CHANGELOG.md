@@ -1,4 +1,3 @@
-- **2026-08-25 17:48**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-08-25 20:00**: feat: add keyboard navigation shortcuts for question selection
 - **2026-08-25 21:45**: refactor: optimize SVG rendering for road signs
 - **2026-08-26 13:57**: style: polish typography and Nepali Unicode font rendering
@@ -78,3 +77,4 @@
 - **2026-10-04 09:23**: feat: add result summary with passing threshold analysis
 - **2026-10-04 17:11**: feat: implement timer and score calculation for mock test
 - **2026-10-05 17:11**: perf: index question IDs for rapid lookup
+- **2026-10-05 21:38**: perf: index question IDs for rapid lookup
