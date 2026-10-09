@@ -1,4 +1,3 @@
-- **2026-08-27 16:33**: feat: add category-specific practice modes
 - **2026-08-28 14:14**: refactor: restructure question data schema for faster loading
 - **2026-08-29 10:00**: fix: prevent option re-selection after submitting answer
 - **2026-08-29 17:27**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2026-10-06 11:46**: test: verify question extraction script against exam PDF
 - **2026-10-07 09:25**: feat: add keyboard navigation shortcuts for question selection
 - **2026-10-08 14:35**: fix: typo in Nepali road safety regulations question
+- **2026-10-09 10:09**: feat: add search and filter by sign category
