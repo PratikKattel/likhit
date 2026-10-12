@@ -1,4 +1,3 @@
-- **2026-08-31 15:44**: feat: implement timer and score calculation for mock test
 - **2026-09-01 15:49**: refactor: restructure question data schema for faster loading
 - **2026-09-01 15:55**: docs: update traffic signals catalog documentation
 - **2026-09-01 18:50**: feat: add warning signs and informational road signs
@@ -78,3 +77,4 @@
 - **2026-10-10 11:54**: feat: add category-specific practice modes
 - **2026-10-11 15:05**: chore: format code style and clean up redundant variables
 - **2026-10-11 17:07**: feat: add result summary with passing threshold analysis
+- **2026-10-12 11:05**: refactor: optimize SVG rendering for road signs
