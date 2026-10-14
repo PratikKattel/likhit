@@ -1,4 +1,3 @@
-- **2026-09-02 16:57**: perf: index question IDs for rapid lookup
 - **2026-09-03 17:58**: fix: typo in Nepali road safety regulations question
 - **2026-09-03 19:05**: test: verify question extraction script against exam PDF
 - **2026-09-04 14:07**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-10-12 16:24**: fix: adjust passing score threshold according to new rules
 - **2026-10-13 11:16**: perf: index question IDs for rapid lookup
 - **2026-10-14 10:12**: feat: add search and filter by sign category
+- **2026-10-14 16:31**: feat: support multiple choice questions for motorcycle category
