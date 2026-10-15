@@ -1,4 +1,3 @@
-- **2026-09-06 11:11**: feat: add result summary with passing threshold analysis
 - **2026-09-06 12:25**: docs: improve code comments and API documentation
 - **2026-09-07 10:47**: refactor: restructure question data schema for faster loading
 - **2026-09-07 13:44**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2026-10-15 09:53**: fix: adjust passing score threshold according to new rules
 - **2026-10-15 12:00**: refactor: optimize SVG rendering for road signs
 - **2026-10-15 14:17**: perf: optimize image caching for traffic sign assets
+- **2026-10-15 22:16**: test: verify question extraction script against exam PDF
