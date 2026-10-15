@@ -1,4 +1,3 @@
-- **2026-09-03 19:05**: test: verify question extraction script against exam PDF
 - **2026-09-04 14:07**: chore: format code style and clean up redundant variables
 - **2026-09-05 15:55**: style: enhance traffic sign card layout and responsiveness
 - **2026-09-06 11:11**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-10-14 10:12**: feat: add search and filter by sign category
 - **2026-10-14 16:31**: feat: support multiple choice questions for motorcycle category
 - **2026-10-14 21:35**: chore: organize assets and image directory structure
+- **2026-10-15 09:53**: fix: adjust passing score threshold according to new rules
