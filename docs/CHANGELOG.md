@@ -1,4 +1,3 @@
-- **2026-09-05 15:55**: style: enhance traffic sign card layout and responsiveness
 - **2026-09-06 11:11**: feat: add result summary with passing threshold analysis
 - **2026-09-06 12:25**: docs: improve code comments and API documentation
 - **2026-09-07 10:47**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-10-14 21:35**: chore: organize assets and image directory structure
 - **2026-10-15 09:53**: fix: adjust passing score threshold according to new rules
 - **2026-10-15 12:00**: refactor: optimize SVG rendering for road signs
+- **2026-10-15 14:17**: perf: optimize image caching for traffic sign assets
