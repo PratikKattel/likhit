@@ -1,4 +1,3 @@
-- **2026-09-08 18:13**: chore: organize assets and image directory structure
 - **2026-09-08 22:14**: perf: lazy load signal graphics and question assets
 - **2026-09-09 09:20**: perf: optimize image caching for traffic sign assets
 - **2026-09-10 12:23**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-10-16 10:57**: feat: support multiple choice questions for motorcycle category
 - **2026-10-16 14:00**: chore: update project metadata and build configuration
 - **2026-10-17 13:31**: docs: update README with setup instructions and feature list
+- **2026-10-17 16:25**: fix: typo in Nepali road safety regulations question
