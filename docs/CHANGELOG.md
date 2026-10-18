@@ -1,4 +1,3 @@
-- **2026-09-09 09:20**: perf: optimize image caching for traffic sign assets
 - **2026-09-10 12:23**: feat: add search and filter by sign category
 - **2026-09-10 12:51**: feat: implement timer and score calculation for mock test
 - **2026-09-10 17:49**: docs: update traffic signals catalog documentation
@@ -78,3 +77,4 @@
 - **2026-10-17 13:31**: docs: update README with setup instructions and feature list
 - **2026-10-17 16:25**: fix: typo in Nepali road safety regulations question
 - **2026-10-17 18:39**: feat: add result summary with passing threshold analysis
+- **2026-10-18 19:07**: fix: prevent option re-selection after submitting answer
