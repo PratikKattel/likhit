@@ -1,4 +1,3 @@
-- **2026-09-10 12:51**: feat: implement timer and score calculation for mock test
 - **2026-09-10 17:49**: docs: update traffic signals catalog documentation
 - **2026-09-11 20:00**: feat: add regulatory traffic signs SVG graphics
 - **2026-09-12 12:20**: chore: update questions database with recent DOTM updates
@@ -78,3 +77,4 @@
 - **2026-10-17 18:39**: feat: add result summary with passing threshold analysis
 - **2026-10-18 19:07**: fix: prevent option re-selection after submitting answer
 - **2026-10-19 09:17**: chore: format code style and clean up redundant variables
+- **2026-10-19 14:10**: docs: update README with setup instructions and feature list
