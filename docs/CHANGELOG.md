@@ -1,4 +1,3 @@
-- **2026-09-11 20:00**: feat: add regulatory traffic signs SVG graphics
 - **2026-09-12 12:20**: chore: update questions database with recent DOTM updates
 - **2026-09-13 14:30**: fix: correct color specifications for mandatory traffic signs
 - **2026-09-13 20:03**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-10-19 09:17**: chore: format code style and clean up redundant variables
 - **2026-10-19 14:10**: docs: update README with setup instructions and feature list
 - **2026-10-20 09:21**: feat: add category A and B traffic test questions
+- **2026-10-20 14:22**: docs: update traffic signals catalog documentation
