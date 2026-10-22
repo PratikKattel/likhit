@@ -1,4 +1,3 @@
-- **2026-09-14 15:25**: feat: add warning signs and informational road signs
 - **2026-09-14 17:43**: perf: lazy load signal graphics and question assets
 - **2026-09-15 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-15 15:17**: fix: correct color specifications for mandatory traffic signs
@@ -78,3 +77,4 @@
 - **2026-10-21 11:21**: feat: add keyboard navigation shortcuts for question selection
 - **2026-10-21 12:46**: test: verify question extraction script against exam PDF
 - **2026-10-21 19:44**: refactor: optimize SVG rendering for road signs
+- **2026-10-22 21:40**: fix: correct color specifications for mandatory traffic signs
