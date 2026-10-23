@@ -1,4 +1,3 @@
-- **2026-09-15 14:22**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-15 15:17**: fix: correct color specifications for mandatory traffic signs
 - **2026-09-16 11:43**: chore: format code style and clean up redundant variables
 - **2026-09-16 18:29**: fix: resolve layout shift during question transitions
@@ -78,3 +77,4 @@
 - **2026-10-21 19:44**: refactor: optimize SVG rendering for road signs
 - **2026-10-22 21:40**: fix: correct color specifications for mandatory traffic signs
 - **2026-10-23 09:11**: chore: organize assets and image directory structure
+- **2026-10-23 10:40**: chore: update questions database with recent DOTM updates
