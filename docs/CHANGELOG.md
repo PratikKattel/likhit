@@ -1,4 +1,3 @@
-- **2026-09-16 18:29**: fix: resolve layout shift during question transitions
 - **2026-09-17 14:07**: fix: prevent option re-selection after submitting answer
 - **2026-09-17 20:10**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-18 15:10**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-10-23 10:40**: chore: update questions database with recent DOTM updates
 - **2026-10-23 19:15**: refactor: restructure question data schema for faster loading
 - **2026-10-23 20:27**: feat: add keyboard navigation shortcuts for question selection
+- **2026-10-24 12:18**: feat: support multiple choice questions for motorcycle category
