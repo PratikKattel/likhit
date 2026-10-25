@@ -1,4 +1,3 @@
-- **2026-09-18 15:10**: feat: add search and filter by sign category
 - **2026-09-19 14:52**: test: verify question extraction script against exam PDF
 - **2026-09-20 11:36**: feat: add regulatory traffic signs SVG graphics
 - **2026-09-20 16:41**: docs: improve code comments and API documentation
@@ -78,3 +77,4 @@
 - **2026-10-24 12:18**: feat: support multiple choice questions for motorcycle category
 - **2026-10-25 09:30**: feat: add instant feedback and explanation on answer selection
 - **2026-10-25 17:30**: perf: lazy load signal graphics and question assets
+- **2026-10-25 21:45**: perf: lazy load signal graphics and question assets
