@@ -1,4 +1,3 @@
-- **2026-09-17 14:07**: fix: prevent option re-selection after submitting answer
 - **2026-09-17 20:10**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-18 15:10**: feat: add search and filter by sign category
 - **2026-09-19 14:52**: test: verify question extraction script against exam PDF
@@ -78,3 +77,4 @@
 - **2026-10-23 19:15**: refactor: restructure question data schema for faster loading
 - **2026-10-23 20:27**: feat: add keyboard navigation shortcuts for question selection
 - **2026-10-24 12:18**: feat: support multiple choice questions for motorcycle category
+- **2026-10-25 09:30**: feat: add instant feedback and explanation on answer selection
