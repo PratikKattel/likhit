@@ -1,4 +1,3 @@
-- **2026-09-19 14:52**: test: verify question extraction script against exam PDF
 - **2026-09-20 11:36**: feat: add regulatory traffic signs SVG graphics
 - **2026-09-20 16:41**: docs: improve code comments and API documentation
 - **2026-09-21 13:47**: fix: prevent option re-selection after submitting answer
@@ -78,3 +77,4 @@
 - **2026-10-25 09:30**: feat: add instant feedback and explanation on answer selection
 - **2026-10-25 17:30**: perf: lazy load signal graphics and question assets
 - **2026-10-25 21:45**: perf: lazy load signal graphics and question assets
+- **2026-10-26 16:03**: docs: update traffic signals catalog documentation
