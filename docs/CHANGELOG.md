@@ -1,4 +1,3 @@
-- **2026-09-20 16:41**: docs: improve code comments and API documentation
 - **2026-09-21 13:47**: fix: prevent option re-selection after submitting answer
 - **2026-09-21 14:44**: docs: improve code comments and API documentation
 - **2026-09-21 15:47**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-10-25 21:45**: perf: lazy load signal graphics and question assets
 - **2026-10-26 16:03**: docs: update traffic signals catalog documentation
 - **2026-10-27 09:51**: feat: add warning signs and informational road signs
+- **2026-10-27 18:02**: feat: add category-specific practice modes
