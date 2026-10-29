@@ -1,4 +1,3 @@
-- **2026-09-21 15:47**: refactor: optimize SVG rendering for road signs
 - **2026-09-21 20:59**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-09-22 12:57**: fix: typo in Nepali road safety regulations question
 - **2026-09-22 15:24**: style: enhance traffic sign card layout and responsiveness
@@ -78,3 +77,4 @@
 - **2026-10-27 18:02**: feat: add category-specific practice modes
 - **2026-10-28 09:05**: style: enhance traffic sign card layout and responsiveness
 - **2026-10-28 17:28**: fix: typo in Nepali road safety regulations question
+- **2026-10-29 14:09**: chore: organize assets and image directory structure
