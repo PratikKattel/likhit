@@ -1,4 +1,3 @@
-- **2026-09-22 15:24**: style: enhance traffic sign card layout and responsiveness
 - **2026-09-22 17:16**: style: polish typography and Nepali Unicode font rendering
 - **2026-09-23 13:18**: fix: typo in Nepali road safety regulations question
 - **2026-09-23 15:20**: refactor: restructure question data schema for faster loading
@@ -78,3 +77,4 @@
 - **2026-10-29 14:09**: chore: organize assets and image directory structure
 - **2026-10-30 14:48**: chore: update project metadata and build configuration
 - **2026-10-30 18:29**: style: improve dark/light mode and mobile UI responsiveness
+- **2026-10-30 22:08**: feat: add category-specific practice modes
