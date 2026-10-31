@@ -1,4 +1,3 @@
-- **2026-09-22 17:16**: style: polish typography and Nepali Unicode font rendering
 - **2026-09-23 13:18**: fix: typo in Nepali road safety regulations question
 - **2026-09-23 15:20**: refactor: restructure question data schema for faster loading
 - **2026-09-23 20:55**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2026-10-30 14:48**: chore: update project metadata and build configuration
 - **2026-10-30 18:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-10-30 22:08**: feat: add category-specific practice modes
+- **2026-10-31 13:20**: feat: add result summary with passing threshold analysis
