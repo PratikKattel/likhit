@@ -1,4 +1,3 @@
-- **2026-09-23 13:18**: fix: typo in Nepali road safety regulations question
 - **2026-09-23 15:20**: refactor: restructure question data schema for faster loading
 - **2026-09-23 20:55**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-23 21:04**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-10-30 18:29**: style: improve dark/light mode and mobile UI responsiveness
 - **2026-10-30 22:08**: feat: add category-specific practice modes
 - **2026-10-31 13:20**: feat: add result summary with passing threshold analysis
+- **2026-10-31 16:59**: feat: implement timer and score calculation for mock test
