@@ -1,4 +1,3 @@
-- **2026-09-23 15:20**: refactor: restructure question data schema for faster loading
 - **2026-09-23 20:55**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-23 21:04**: fix: update DOTM Nepal license syllabus questions
 - **2026-09-24 12:44**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-10-30 22:08**: feat: add category-specific practice modes
 - **2026-10-31 13:20**: feat: add result summary with passing threshold analysis
 - **2026-10-31 16:59**: feat: implement timer and score calculation for mock test
+- **2026-11-01 14:59**: perf: optimize image caching for traffic sign assets
