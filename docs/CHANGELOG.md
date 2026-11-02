@@ -1,4 +1,3 @@
-- **2026-09-25 22:06**: chore: format code style and clean up redundant variables
 - **2026-09-26 12:04**: docs: improve code comments and API documentation
 - **2026-09-26 21:58**: feat: add warning signs and informational road signs
 - **2026-09-27 13:22**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-11-01 19:44**: docs: improve code comments and API documentation
 - **2026-11-01 20:02**: feat: support multiple choice questions for motorcycle category
 - **2026-11-02 13:45**: docs: update README with setup instructions and feature list
+- **2026-11-02 16:22**: fix: prevent option re-selection after submitting answer
