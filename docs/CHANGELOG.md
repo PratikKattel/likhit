@@ -1,4 +1,3 @@
-- **2026-09-26 12:04**: docs: improve code comments and API documentation
 - **2026-09-26 21:58**: feat: add warning signs and informational road signs
 - **2026-09-27 13:22**: feat: add category-specific practice modes
 - **2026-09-28 11:08**: feat: add keyboard navigation shortcuts for question selection
@@ -78,3 +77,4 @@
 - **2026-11-01 20:02**: feat: support multiple choice questions for motorcycle category
 - **2026-11-02 13:45**: docs: update README with setup instructions and feature list
 - **2026-11-02 16:22**: fix: prevent option re-selection after submitting answer
+- **2026-11-03 10:08**: refactor: restructure question data schema for faster loading
