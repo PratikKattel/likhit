@@ -1,4 +1,3 @@
-- **2026-09-28 11:08**: feat: add keyboard navigation shortcuts for question selection
 - **2026-09-28 14:37**: chore: organize assets and image directory structure
 - **2026-09-28 18:51**: refactor: restructure question data schema for faster loading
 - **2026-09-29 18:30**: chore: update project metadata and build configuration
@@ -78,3 +77,4 @@
 - **2026-11-03 10:08**: refactor: restructure question data schema for faster loading
 - **2026-11-03 21:10**: feat: implement timer and score calculation for mock test
 - **2026-11-03 22:24**: feat: add warning signs and informational road signs
+- **2026-11-04 15:35**: docs: update traffic signals catalog documentation
