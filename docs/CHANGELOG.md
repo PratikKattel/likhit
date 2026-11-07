@@ -1,4 +1,3 @@
-- **2026-09-29 21:35**: docs: improve code comments and API documentation
 - **2026-09-30 11:11**: feat: add result summary with passing threshold analysis
 - **2026-09-30 14:34**: chore: update project metadata and build configuration
 - **2026-10-01 14:12**: feat: support multiple choice questions for motorcycle category
@@ -78,3 +77,4 @@
 - **2026-11-04 21:39**: perf: lazy load signal graphics and question assets
 - **2026-11-05 12:38**: refactor: modularize traffic app logic and event listeners
 - **2026-11-06 15:14**: feat: add category A and B traffic test questions
+- **2026-11-07 11:53**: test: verify question extraction script against exam PDF
