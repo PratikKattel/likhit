@@ -1,4 +1,3 @@
-- **2026-09-30 14:34**: chore: update project metadata and build configuration
 - **2026-10-01 14:12**: feat: support multiple choice questions for motorcycle category
 - **2026-10-01 16:32**: refactor: modularize traffic app logic and event listeners
 - **2026-10-02 16:09**: fix: update DOTM Nepal license syllabus questions
@@ -78,3 +77,4 @@
 - **2026-11-06 15:14**: feat: add category A and B traffic test questions
 - **2026-11-07 11:53**: test: verify question extraction script against exam PDF
 - **2026-11-07 12:33**: fix: correct color specifications for mandatory traffic signs
+- **2026-11-08 17:35**: fix: correct color specifications for mandatory traffic signs
