@@ -1,4 +1,3 @@
-- **2026-10-01 14:12**: feat: support multiple choice questions for motorcycle category
 - **2026-10-01 16:32**: refactor: modularize traffic app logic and event listeners
 - **2026-10-02 16:09**: fix: update DOTM Nepal license syllabus questions
 - **2026-10-03 12:05**: feat: add regulatory traffic signs SVG graphics
@@ -78,3 +77,4 @@
 - **2026-11-07 11:53**: test: verify question extraction script against exam PDF
 - **2026-11-07 12:33**: fix: correct color specifications for mandatory traffic signs
 - **2026-11-08 17:35**: fix: correct color specifications for mandatory traffic signs
+- **2026-11-09 11:03**: fix: prevent option re-selection after submitting answer
