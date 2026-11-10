@@ -1,4 +1,3 @@
-- **2026-10-02 16:09**: fix: update DOTM Nepal license syllabus questions
 - **2026-10-03 12:05**: feat: add regulatory traffic signs SVG graphics
 - **2026-10-03 12:47**: fix: prevent option re-selection after submitting answer
 - **2026-10-04 09:23**: feat: add result summary with passing threshold analysis
@@ -78,3 +77,4 @@
 - **2026-11-08 17:35**: fix: correct color specifications for mandatory traffic signs
 - **2026-11-09 11:03**: fix: prevent option re-selection after submitting answer
 - **2026-11-09 20:00**: feat: add category A and B traffic test questions
+- **2026-11-10 13:59**: style: improve dark/light mode and mobile UI responsiveness
