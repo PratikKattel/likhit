@@ -1,4 +1,3 @@
-- **2026-10-04 17:11**: feat: implement timer and score calculation for mock test
 - **2026-10-05 17:11**: perf: index question IDs for rapid lookup
 - **2026-10-05 21:38**: perf: index question IDs for rapid lookup
 - **2026-10-06 09:33**: refactor: modularize traffic app logic and event listeners
@@ -78,3 +77,4 @@
 - **2026-11-10 14:06**: feat: add category A and B traffic test questions
 - **2026-11-10 15:22**: fix: update DOTM Nepal license syllabus questions
 - **2026-11-11 18:52**: feat: add search and filter by sign category
+- **2026-11-11 22:04**: refactor: restructure question data schema for faster loading
