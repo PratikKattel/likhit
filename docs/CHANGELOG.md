@@ -1,4 +1,3 @@
-- **2026-10-06 09:33**: refactor: modularize traffic app logic and event listeners
 - **2026-10-06 11:46**: test: verify question extraction script against exam PDF
 - **2026-10-07 09:25**: feat: add keyboard navigation shortcuts for question selection
 - **2026-10-08 14:35**: fix: typo in Nepali road safety regulations question
@@ -78,3 +77,4 @@
 - **2026-11-11 22:04**: refactor: restructure question data schema for faster loading
 - **2026-11-12 17:00**: chore: update questions database with recent DOTM updates
 - **2026-11-13 21:19**: style: polish typography and Nepali Unicode font rendering
+- **2026-11-14 10:30**: fix: prevent option re-selection after submitting answer
