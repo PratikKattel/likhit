@@ -1,4 +1,3 @@
-- **2026-10-09 10:09**: feat: add search and filter by sign category
 - **2026-10-09 14:36**: feat: add instant feedback and explanation on answer selection
 - **2026-10-09 14:54**: fix: update DOTM Nepal license syllabus questions
 - **2026-10-10 11:54**: feat: add category-specific practice modes
@@ -78,3 +77,4 @@
 - **2026-11-15 14:20**: docs: add instructions for Nepali driving license written exam
 - **2026-11-15 20:08**: feat: add result summary with passing threshold analysis
 - **2026-11-16 13:15**: fix: adjust passing score threshold according to new rules
+- **2026-11-16 21:13**: feat: add keyboard navigation shortcuts for question selection
