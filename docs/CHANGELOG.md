@@ -1,4 +1,3 @@
-- **2026-10-09 14:36**: feat: add instant feedback and explanation on answer selection
 - **2026-10-09 14:54**: fix: update DOTM Nepal license syllabus questions
 - **2026-10-10 11:54**: feat: add category-specific practice modes
 - **2026-10-11 15:05**: chore: format code style and clean up redundant variables
@@ -78,3 +77,4 @@
 - **2026-11-15 20:08**: feat: add result summary with passing threshold analysis
 - **2026-11-16 13:15**: fix: adjust passing score threshold according to new rules
 - **2026-11-16 21:13**: feat: add keyboard navigation shortcuts for question selection
+- **2026-11-17 12:52**: test: verify question extraction script against exam PDF
