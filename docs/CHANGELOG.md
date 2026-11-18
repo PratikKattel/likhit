@@ -1,4 +1,3 @@
-- **2026-10-10 11:54**: feat: add category-specific practice modes
 - **2026-10-11 15:05**: chore: format code style and clean up redundant variables
 - **2026-10-11 17:07**: feat: add result summary with passing threshold analysis
 - **2026-10-12 11:05**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-11-16 21:13**: feat: add keyboard navigation shortcuts for question selection
 - **2026-11-17 12:52**: test: verify question extraction script against exam PDF
 - **2026-11-17 20:15**: fix: correct color specifications for mandatory traffic signs
+- **2026-11-18 09:49**: refactor: clean up unused CSS classes and optimize stylesheet
