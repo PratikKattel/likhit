@@ -1,4 +1,3 @@
-- **2026-10-12 11:05**: refactor: optimize SVG rendering for road signs
 - **2026-10-12 16:24**: fix: adjust passing score threshold according to new rules
 - **2026-10-13 11:16**: perf: index question IDs for rapid lookup
 - **2026-10-14 10:12**: feat: add search and filter by sign category
@@ -78,3 +77,4 @@
 - **2026-11-18 09:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-11-19 13:52**: perf: lazy load signal graphics and question assets
 - **2026-11-19 16:20**: perf: lazy load signal graphics and question assets
+- **2026-11-19 18:23**: feat: implement timer and score calculation for mock test
