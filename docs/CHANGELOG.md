@@ -1,4 +1,3 @@
-- **2026-10-11 17:07**: feat: add result summary with passing threshold analysis
 - **2026-10-12 11:05**: refactor: optimize SVG rendering for road signs
 - **2026-10-12 16:24**: fix: adjust passing score threshold according to new rules
 - **2026-10-13 11:16**: perf: index question IDs for rapid lookup
@@ -78,3 +77,4 @@
 - **2026-11-17 20:15**: fix: correct color specifications for mandatory traffic signs
 - **2026-11-18 09:49**: refactor: clean up unused CSS classes and optimize stylesheet
 - **2026-11-19 13:52**: perf: lazy load signal graphics and question assets
+- **2026-11-19 16:20**: perf: lazy load signal graphics and question assets
