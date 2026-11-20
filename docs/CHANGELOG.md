@@ -1,4 +1,3 @@
-- **2026-10-13 11:16**: perf: index question IDs for rapid lookup
 - **2026-10-14 10:12**: feat: add search and filter by sign category
 - **2026-10-14 16:31**: feat: support multiple choice questions for motorcycle category
 - **2026-10-14 21:35**: chore: organize assets and image directory structure
@@ -78,3 +77,4 @@
 - **2026-11-19 16:20**: perf: lazy load signal graphics and question assets
 - **2026-11-19 18:23**: feat: implement timer and score calculation for mock test
 - **2026-11-20 10:27**: fix: update DOTM Nepal license syllabus questions
+- **2026-11-20 21:13**: feat: add category A and B traffic test questions
