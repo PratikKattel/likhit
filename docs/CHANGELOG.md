@@ -1,4 +1,3 @@
-- **2026-10-14 16:31**: feat: support multiple choice questions for motorcycle category
 - **2026-10-14 21:35**: chore: organize assets and image directory structure
 - **2026-10-15 09:53**: fix: adjust passing score threshold according to new rules
 - **2026-10-15 12:00**: refactor: optimize SVG rendering for road signs
@@ -78,3 +77,4 @@
 - **2026-11-20 10:27**: fix: update DOTM Nepal license syllabus questions
 - **2026-11-20 21:13**: feat: add category A and B traffic test questions
 - **2026-11-21 10:51**: chore: update questions database with recent DOTM updates
+- **2026-11-21 12:07**: fix: correct color specifications for mandatory traffic signs
